@@ -160,7 +160,7 @@ it continues still.
 
 <figure id="CreativeCommons">
 <title>Creative Commons, Some rights reserved</title>
-<graphic fileref="webcc.gif"></graphic>
+<graphic fileref="images/cc.png"></graphic>
 </figure>
 
 <toc id="toc"></toc>
@@ -6191,18 +6191,17 @@ to assure that artists get paid need also control how culture develops.
 <para>
 
 <!-- PAGE BREAK 132 -->
-To  answer these questions, we need a more general way to talk
-about how property is protected. More precisely, we need a more 
-		general
-way than the narrow language of the law allows. In Code and Other
-Laws of Cyberspace, I used a simple model to capture this more general
-perspective. For any particular right or regulation, this model asks how
-four different modalities of regulation interact to support or weaken
-the right or regulation. I represented it with this diagram:
+To answer these questions, we need a more general way to talk about
+how property is protected. More precisely, we need a more general way
+than the narrow language of the law allows. In Code and Other Laws of
+Cyberspace, I used a simple model to capture this more general
+perspective. For any particular right or regulation, this model asks
+how four different modalities of regulation interact to support or
+weaken the right or regulation. I represented it with this diagram:
 </para>
 <figure id="fig-1331">
-<title></title>
-<graphic fileref="1331.jpg"></graphic>
+<title>How four different modalities of regulation interact to support or weaken the right or regulation.</title>
+<graphic fileref="images/1331.png"></graphic>
 </figure>
 <para>
 At  the center of this picture is a regulated dot: the individual or
@@ -6327,17 +6326,16 @@ strict--a federal requirement that states decrease the speed limit, for
 example--so as to decrease the attractiveness of fast driving.
 </para>
 <figure id="fig-1361">
-<title></title>
-<graphic fileref="1361.jpg"></graphic>
+<title>Law has a special role in affecting the three.</title>
+<graphic fileref="images/1361.png"></graphic>
 </figure>
 <para>
 These constraints can thus change, and they can be changed. To
-understand the effective protection of liberty or protection of property
-at any particular moment, we must track these changes over time. A 
-		restriction
-imposed by one modality might be erased by another. A 
-		freedom
-enabled by one modality might be displaced by another.<footnote><para>
+understand the effective protection of liberty or protection of
+property at any particular moment, we must track these changes over
+time. A restriction imposed by one modality might be erased by
+another. A freedom enabled by one modality might be displaced by
+another.<footnote><para>
 <!-- f4  -->
 Some people object to this way of talking about "liberty." They object 
 		because
@@ -6386,8 +6384,8 @@ Let's say this is the picture of copyright's regulation before the
 		Internet:
 </para>
 <figure id="fig-1371">
-<title></title>
-<graphic fileref="1371.jpg"></graphic>
+<title>Copyright's regulation before the Internet.</title>
+<graphic fileref="images/1331.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 136 -->
@@ -6425,8 +6423,8 @@ after the fall of Saddam, but this time no government is justifying the
 looting that results.
 </para>
 <figure id="fig-1381">
-<title></title>
-<graphic fileref="1381.jpg"></graphic>
+<title>effective state of anarchy after the Internet.</title>
+<graphic fileref="images/1381.png"></graphic>
 </figure>
 <para>
 Neither this analysis nor the conclusions that follow are new to the
@@ -6716,15 +6714,15 @@ particular concentration of market power. In terms of our model, we
 started here:
 </para>
 <figure id="fig-1441">
-<title></title>
-<graphic fileref="1441.jpg"></graphic>
+<title>Copyright's regulation before the Internet.</title>
+<graphic fileref="images/1331.png"></graphic>
 </figure>
 <para>
 We will end here:
 </para>
 <figure id="fig-1442">
-<title></title>
-<graphic fileref="1442.jpg"></graphic>
+<title>&quot;Copyright&quot; today.</title>
+<graphic fileref="images/1442.png"></graphic>
 </figure>
 <para>
 Let me explain how.
@@ -7188,28 +7186,26 @@ We  can see this point abstractly by beginning with this largely
 empty circle.
 </para>
 <figure id="fig-1521">
-<title></title>
-<graphic fileref="1521.jpg"></graphic>
+<title>All potential uses of a book.</title>
+<graphic fileref="images/1521.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 152 -->
-Think about a book in real space, and imagine this circle to 
-		represent
-all its potential uses. Most of these uses are unregulated by copyright
-law, because the uses don't create a copy. If you read a book, that act is not
-regulated by copyright law. If you give someone the book, that act is
-not regulated by copyright law. If you resell a book, that act is not 
-		regulated
-(copyright law expressly states that after the first sale of a book,
-the copyright owner can impose no further conditions on the 
-		disposition
-of the book). If you sleep on the book or use it to hold up a lamp or
-let your puppy chew it up, those acts are not regulated by copyright law,
-because those acts do not make a copy.
+Think about a book in real space, and imagine this circle to represent
+all its potential uses. Most of these uses are unregulated by
+copyright law, because the uses don't create a copy. If you read a
+book, that act is not regulated by copyright law. If you give someone
+the book, that act is not regulated by copyright law. If you resell a
+book, that act is not regulated (copyright law expressly states that
+after the first sale of a book, the copyright owner can impose no
+further conditions on the disposition of the book). If you sleep on
+the book or use it to hold up a lamp or let your puppy chew it up,
+those acts are not regulated by copyright law, because those acts do
+not make a copy.
 </para>
 <figure id="fig-1531">
-<title></title>
-<graphic fileref="1531.jpg"></graphic>
+<title>Examples of unregulated uses of a book.</title>
+<graphic fileref="images/1531.png"></graphic>
 </figure>
 <para>
 Obviously, however, some uses of a copyrighted book are regulated
@@ -7225,8 +7221,8 @@ that remain unregulated because the law considers these "fair uses."
 </para>
 <!-- PAGE BREAK 153 -->
 <figure id="fig-1541">
-<title></title>
-<graphic fileref="1541.jpg"></graphic>
+<title>Republishing stands at the core of this circle of possible uses of a copyrighted work.</title>
+<graphic fileref="images/1541.png"></graphic>
 </figure>
 <para>
 These are uses that themselves involve copying, but which the law treats
@@ -7240,13 +7236,13 @@ denies the owner any exclusive right over such "fair uses" for public
 policy (and possibly First Amendment) reasons.
 </para>
 <figure id="fig-1542">
-<title></title>
-<graphic fileref="1542.jpg"></graphic>
+<title>Unregulated copying considered &quot;fair uses.&quot;</title>
+<graphic fileref="images/1542.png"></graphic>
 </figure>
 <para> </para>
 <figure id="fig-1551">
-<title></title>
-<graphic fileref="1551.jpg"></graphic>
+<title>Uses that before were presumptively unregulated are now presumptively regulated.</title>
+<graphic fileref="images/1551.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 154 -->
@@ -7546,17 +7542,16 @@ Middlemarch, you'll see a fancy cover, and then a button at the bottom
 called Permissions.
 </para>
 <figure id="fig-1611">
-<title>Acrobat eBook Reader</title>
-<graphic fileref="1611.jpg"></graphic>
+<title>Picture of an old version of Adobe eBook Reader</title>
+<graphic fileref="images/1611.png"></graphic>
 </figure>
 <para>
-If you click on the Permissions button, you'll see a list of the 
-		permissions
-that the publisher purports to grant with this book.
+If you click on the Permissions button, you'll see a list of the
+permissions that the publisher purports to grant with this book.
 </para>
 <figure id="fig-1612">
 <title></title>
-<graphic fileref="1612.jpg"></graphic>
+<graphic fileref="images/1612.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 161 -->
@@ -7576,16 +7571,12 @@ read aloud through the
 computer.
 </para>
 <para>
-Here's the e-book for another
-work in the public domain 
-		(including
-the translation): 
-		Aristotle's
-Politics.
+Here's the e-book for another work in the public domain (including the
+translation): Aristotle's Politics.
 </para>
 <figure id="fig-1621">
-<title></title>
-<graphic fileref="1621.jpg"></graphic>
+<title>E-book of Aristotle;s &quot;Politics&quot;</title>
+<graphic fileref="images/1621.png"></graphic>
 </figure>
 <para>
 According to its permissions, no printing or copying is permitted
@@ -7593,8 +7584,8 @@ at all. But fortunately, you can use the Read Aloud button to hear
 the book.
 </para>
 <figure id="fig-1622">
-<title></title>
-<graphic fileref="1622.jpg"></graphic>
+<title>List of the permissions for Aristotle;s &quot;Politics&quot;.</title>
+<graphic fileref="images/1622.png"></graphic>
 </figure>
 <para>
 Finally (and most embarrassingly), here are the permissions for the
@@ -7602,8 +7593,8 @@ original e-book version of my last book, The Future of Ideas:
 </para>
 <!-- PAGE BREAK 162 -->
 <figure id="fig-1631">
-<title></title>
-<graphic fileref="1631.jpg"></graphic>
+<title>List of the permissions for &quot;The Future of Ideas&quot;.</title>
+<graphic fileref="images/1631.png"></graphic>
 </figure>
 <para>
 No copying, no printing, and don't you dare try to listen to this book!
@@ -7682,8 +7673,9 @@ This wonderful book is in the public domain. Yet when you clicked on
 Permissions for that book, you got the following report:
 </para>
 <figure id="fig-1641">
-<title></title>
-<graphic fileref="1641.jpg"></graphic>
+<title>List of the permissions for &quot;Alice's Adventures in
+Wonderland&quot;.</title>
+<graphic fileref="images/1641.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 164 -->
@@ -8034,8 +8026,8 @@ such a use would be good. It, too, is a technology that has both good
 and bad uses.
 </para>
 <figure id="fig-1711">
-<title></title>
-<graphic fileref="1711.jpg"></graphic>
+<title>VCR/handgun cartoon.</title>
+<graphic fileref="images/1711.png"></graphic>
 </figure>
 <para>
 The obvious point of Conrad's cartoon is the weirdness of a world
@@ -8251,8 +8243,8 @@ owning as many outlets of media as possible. A picture describes this
 pattern better than a thousand words could do:
 </para>
 <figure id="fig-1761">
-<title></title>
-<graphic fileref="1761.jpg"></graphic>
+<title>Pattern of modern media ownership.</title>
+<graphic fileref="images/1761.png"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 175 -->
