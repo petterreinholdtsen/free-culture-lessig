@@ -23,7 +23,7 @@ freeculture.nb.po: freeculture.pot
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
-pdf: freeculture.nb.pdf
+pdf: freeculture.pdf freeculture.nb.pdf 
 
 freeculture.pdf: freeculture.xml
 	$(DBLATEX) $(name).xml --param=lingua=en
