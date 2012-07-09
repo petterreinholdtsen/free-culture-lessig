@@ -1,5 +1,5 @@
-free-culture-lessig
-===================
+Norwegian translation of Free Culture
+=====================================
 
 Norwegian translation of the book Free Culture by Lessig.  Based on
 the <a href="http://www.sslug.dk/~chlor/lessig/">Docbook version by
