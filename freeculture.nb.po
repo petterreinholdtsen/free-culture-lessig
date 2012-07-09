@@ -416,7 +416,7 @@ msgstr ""
 "om vår kultur i dag. Det er mot at ekstremisme som denne boken er skrevet."
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "INTRODUCTION"
 msgstr "Introduksjon"
 
@@ -1417,9 +1417,9 @@ msgstr ""
 "historien om en mer konsekvens av denne formen for korrupsjon--en konsekvens "
 "som de fleste av oss fortsatt oblivious."
 
-#, mtrans, fuzzy
+#, mtrans
 msgid "\"PIRACY\""
-msgstr "piratkopiering"
+msgstr "\"Piratvirksomhet\""
 
 #, mtrans, fuzzy
 msgid ""
@@ -6481,7 +6481,7 @@ msgstr ""
 
 #, mtrans, fuzzy
 msgid "\"PROPERTY\""
-msgstr "egenskapen"
+msgstr "\"Eiendom\""
 
 #.  PAGE BREAK 94
 #. type: Content of: <book><chapter><para>
@@ -13337,9 +13337,9 @@ msgstr ""
 "oppretting krever tillatelse og kreativitet må kontrollere med en advokat."
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "PUZZLES"
-msgstr "puslespill"
+msgstr "Nøtter"
 
 #. type: Content of: <book><chapter><sect1><title>
 #, mtrans, fuzzy
@@ -15820,9 +15820,9 @@ msgstr ""
 "folk eller en felles innsats gjennom vårt demokrati for å endre vår lov?"
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "BALANCES"
-msgstr "saldoer"
+msgstr "Maktfordeling"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -19423,9 +19423,9 @@ msgstr ""
 "kontrollert av denne døde (og ofte unfindable) hånden av fortiden."
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "CONCLUSION"
-msgstr "konklusjon"
+msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -23061,9 +23061,9 @@ msgstr ""
 "holde advokater din unna."
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "NOTES"
-msgstr "notater"
+msgstr "Notater"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23079,9 +23079,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
-msgid "ACKNOWLEDGMENTS"
-msgstr "bekreftelser"
+#, mtrans
+msgid "Acknowledgments"
+msgstr "Takk til"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
