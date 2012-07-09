@@ -1,10 +1,11 @@
 free-culture-lessig
 ===================
 
-Norwegian translation of the book Free Culture by Lessig.  Based
-on the Docbook version by Hans Schou available from
-<URL: http://www.sslug.dk/~chlor/lessig/ >.
+Norwegian translation of the book Free Culture by Lessig.  Based on
+the <a href="http://www.sslug.dk/~chlor/lessig/">Docbook version by
+Hans Schou</a>.  Other versions of the book can be found from the
+<a href="http://free-culture.cc/remixes/ >books remixes list</a>.
 
-Source:
-https://github.com/petterreinholdtsen/free-culture-lessig.git
-
+The source of this project is available from the
+<a href="https://github.com/petterreinholdtsen/free-culture-lessig">free-culture-lessig
+github repository</a>.
