@@ -13,17 +13,12 @@ name = freeculture
 DEBIAN_EDU_DOC_TITLE=Free Culture
 export 
 
-#include ../common/Makefile.common
-
-DBLATEX = dblatex -T db2latex --backend=xetex --xsl-user=../common/user_param.xsl --xsl-user=../common/xetex_param.xsl -p ../common/pdf.xsl --param=lingua=zh-tw
+DBLATEX = dblatex -T db2latex --backend=xetex --xsl-user=data/user_param.xsl --xsl-user=data/xetex_param.xsl -p data/pdf.xsl --param=lingua=nb
 
 all: pdf
 
-update-translation: freeculture.pot
+freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
-	msgcat --no-location -o $(name).pot $(name).pot
-
-freeculture.nb.po: update-translation 
 
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
