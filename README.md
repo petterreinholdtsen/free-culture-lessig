@@ -13,3 +13,12 @@ Ebooks</a>.
 The source of this project is available from the
 <a href="https://github.com/petterreinholdtsen/free-culture-lessig">free-culture-lessig
 github repository</a>.
+
+Requirements
+------------
+
+To build the PDF version of this book, the following Debian packages
+are needed:
+
+  po4a
+  dblatex
