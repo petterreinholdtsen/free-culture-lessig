@@ -6479,7 +6479,7 @@ msgstr ""
 "\"det er vår eiendom,\" insisterer warriors. \"og det bør være beskyttet på "
 "samme måte som en annen egenskap er beskyttet."
 
-#, mtrans, fuzzy
+#, mtrans
 msgid "\"PROPERTY\""
 msgstr "\"Eiendom\""
 
@@ -20553,9 +20553,9 @@ msgstr ""
 "potensialet er stadig å bli realisert."
 
 #. type: Content of: <book><chapter><title>
-#, mtrans, fuzzy
+#, mtrans
 msgid "AFTERWORD"
-msgstr "etterordet"
+msgstr "Etterord"
 
 #.  PAGE BREAK 280
 #. type: Content of: <book><chapter><para>
@@ -23080,7 +23080,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><title>
 #, mtrans
-msgid "Acknowledgments"
+msgid "ACKNOWLEDGMENTS"
 msgstr "Takk til"
 
 #. type: Content of: <book><chapter><para>
