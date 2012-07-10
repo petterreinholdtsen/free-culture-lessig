@@ -19,7 +19,9 @@ XP = xsltproc \
 	--novalid \
 	--xinclude data/html.xsl
 
-all: pdf
+DBTOEPUB = dbtoepub
+
+all: pdf epub
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -28,14 +30,17 @@ freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
 pdf: freeculture.pdf freeculture.nb.pdf 
+epub: freeculture.epub freeculture.nb.epub 
+html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml
 	$(DBLATEX) $^ --param=lingua=nb
 
 %.html: %.xml
 	$(XP) $^ && mv index.html $@
+
 %.epub: %.xml
-	dbtoepub $^
+	$(DBTOEPUB) $^
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
@@ -46,4 +51,4 @@ freeculture.pot: freeculture.xml
 stats:
 	msgfmt -o /dev/null --statistics freeculture.nb.po
 
-.SUFFIXES: .html
+#.SUFFIXES: .html
