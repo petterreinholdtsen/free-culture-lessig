@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2012-07-09 09:10+0300\n"
-"PO-Revision-Date: 2012-07-10 08:39+0200\n"
+"PO-Revision-Date: 2012-07-10 09:29+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: \n"
@@ -566,9 +566,9 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#, mtrans, fuzzy
+#, mtrans
 msgid "\"Common sense revolts at the idea.\""
-msgstr "sunn fornuft opprør på ideen."
+msgstr "\"Ideen er i strid med sunn fornuft.\""
 
 #, mtrans, fuzzy
 msgid ""
@@ -687,9 +687,9 @@ msgstr ""
 "frekvensmodulasjon to og en halv meter.\""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid "The audience was hearing something no one had thought possible:"
-msgstr "publikum var høre noe ingen trodde mulig:"
+msgstr "Publikum hørte noe ingen hadde trodd var mulig:"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 #, mtrans, fuzzy
@@ -754,20 +754,24 @@ msgid ""
 "our AM radio. I didn't think he'd start a revolution-- start up a whole damn "
 "new industry to compete with RCA.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Jeg trodde Armstrong ville finne opp et slags filter for å fjerne skurring fra "
+"vår AM-radio.  Jeg trodde ikke han skulle starte en revolusjon -- starte en hel "
+"forbannet ny industri i konkurranse med RCA.<placeholder type=\"footnote\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "Armstrong's invention threatened RCA's AM empire, so the company launched a "
 "campaign to smother FM radio. While FM may have been a superior technology, "
 "Sarnoff was a superior tactician. As one author described,"
 msgstr ""
-"Armstrongs oppfinnelse truet rca's am imperium, slik at selskapet lansert en "
-"kampanje for å smother fm-radio. mens fm kan ha vært en overlegen teknologi, "
-"var sarnoff en overlegen taktiker. som en forfatter som beskrevet,"
+"Armstrongs oppfinnelse truet RCAs AM-herredømme, så selskapet lanserte en "
+"kampanje for å knuse FM-radio. FM kan ha vært en overlegen teknologi, "
+"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik,"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid "Lessing, 226."
 msgstr "Lessing, 226."
 
@@ -808,7 +812,7 @@ msgstr ""
 "det,"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid "Lessing, 256."
 msgstr "Lessing, 256."
 
@@ -1021,13 +1025,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "See Jessica Litman, Digital Copyright (New York: Prometheus Books, 2001), "
 "ch. 13."
 msgstr ""
-"se jessica litman, digitale copyright (new york: prometheus bøker, 2001), "
-"ch. 13."
+"Se Jessica Litman, Digital Copyright (New York: Prometheus bøker, 2001), kap. "
+"13."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
