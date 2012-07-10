@@ -4,6 +4,7 @@
 
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 
+# PDF rule
 DBLATEX = dblatex \
 	-T db2latex \
 	--backend=xetex \
@@ -11,6 +12,12 @@ DBLATEX = dblatex \
 	--xsl-user=data/xetex_param.xsl \
 	-p data/pdf.xsl \
 	--param=lingua=nb
+
+# HTML rule
+XP = xsltproc \
+	--nonet \
+	--novalid \
+	--xinclude data/html.xsl
 
 all: pdf
 
@@ -22,11 +29,11 @@ freeculture.nb.xml: freeculture.nb.po freeculture.xml
 
 pdf: freeculture.pdf freeculture.nb.pdf 
 
-freeculture.pdf: freeculture.xml
-	$(DBLATEX) freeculture.xml --param=lingua=en
+%.pdf: %.xml
+	$(DBLATEX) $^ --param=lingua=nb
 
-freeculture.nb.pdf: freeculture.nb.xml
-	$(DBLATEX) freeculture.nb.xml --param=lingua=nb
+%.html: %.xml
+	$(XP) $^ && mv index.html $@
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
@@ -36,3 +43,5 @@ freeculture.pot: freeculture.xml
 
 stats:
 	msgfmt -o /dev/null --statistics freeculture.nb.po
+
+.SUFFIXES: .html
