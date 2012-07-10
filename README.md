@@ -22,3 +22,10 @@ are needed:
 
   po4a
   dblatex
+  dbtoepub
+
+Docbook howtos
+--------------
+
+http://developer.gnome.org/gdp-handbook/stable/docbook.html.en
+http://www.docbook.org/tdg/en/html/docbook.html

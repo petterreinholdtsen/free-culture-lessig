@@ -34,12 +34,14 @@ pdf: freeculture.pdf freeculture.nb.pdf
 
 %.html: %.xml
 	$(XP) $^ && mv index.html $@
+%.epub: %.xml
+	dbtoepub $^
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
 
 freeculture.pot: freeculture.xml
-	po4a-gettextize -f docbook -m $^  > $@
+	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
 
 stats:
 	msgfmt -o /dev/null --statistics freeculture.nb.po
