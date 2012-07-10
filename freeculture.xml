@@ -128,10 +128,10 @@ culture and control creativity / Lawrence Lessig.
 <sbr/>p. cm.
 <sbr/>Includes index.
 <sbr/>ISBN 1-59420-006-8 (hardcover)
-<sbr/>1. Intellectual property--United States. 2. Mass media--United States.
-<sbr/>3. Technological innovations--United States. 4. Art--United States. I. Title.
+<sbr/>1. Intellectual property&mdash;United States. 2. Mass media&mdash;United States.
+<sbr/>3. Technological innovations&mdash;United States. 4. Art&mdash;United States. I. Title.
 <sbr/>KF2979.L47
-<sbr/>343.7309'9--dc22
+<sbr/>343.7309'9&mdash;dc22
 <sbr/>This book is printed on acid-free paper.
 <sbr/>Printed in the United States of America
 <sbr/>1 3 5 7 9 10 8 6 4
@@ -154,7 +154,7 @@ materials. Your support of the author's rights is appreciated.
 <!-- PAGE BREAK 7 -->
 
 <para>
-To Eric Eldred--whose work first drew me to this cause, and for whom
+To Eric Eldred&mdash;whose work first drew me to this cause, and for whom
 it continues still.
 </para>
 
@@ -246,16 +246,16 @@ David Pogue, "Don't Just Chat, Do Something," New York Times, 30 January 2000.
 </para>
 </blockquote>
 <para>
-Pogue was skeptical of the core argument of the book--that 
+Pogue was skeptical of the core argument of the book&mdash;that 
 		software,
-or "code," functioned as a kind of law--and his review suggested
+or "code," functioned as a kind of law&mdash;and his review suggested
 the happy thought that if life in cyberspace got bad, we could always
 "drizzle, drazzle, druzzle, drome"-like simply flip a switch and be back
 home. Turn off the modem, unplug the computer, and any troubles
 that exist in that space wouldn't "affect" us anymore.
 </para>
 <para>
-Pogue might have been right in 1999--I'm skeptical, but maybe.
+Pogue might have been right in 1999&mdash;I'm skeptical, but maybe.
 But even if he was right then, the point is not right now: Free Culture
 is about the troubles the Internet causes even after the modem is turned
 <!-- PAGE BREAK 12 -->
@@ -271,7 +271,7 @@ a geek-wanna-be to admit, much more important.
 </para>
 <para>
 That tradition is the way our culture gets made. As I explain in the
-pages that follow, we come from a tradition of "free culture"--not
+pages that follow, we come from a tradition of "free culture"&mdash;not
 "free" as in "free beer" (to borrow a phrase from the founder of the
 freesoftware movement<footnote>
 <para>
@@ -284,7 +284,7 @@ indirectly by limiting the reach of those rights, to guarantee that
 follow-on creators and innovators remain as free as possible from the
 control of the past. A free culture is not a culture without property,
 just as a free market is not a market in which everything is free. The
-opposite of a free culture is a "permission culture"--a culture in
+opposite of a free culture is a "permission culture"&mdash;a culture in
 which creators get to create only with the permission of the powerful,
 or of creators from the past.
 </para>
@@ -311,7 +311,7 @@ he asked,
 <blockquote>
 <para>
 Does that sound unconservative? Not to me. The concentration of
-power--political, corporate, media, cultural--should be anathema to
+power&mdash;political, corporate, media, cultural&mdash;should be anathema to
 conservatives. The diffusion of power through local control, thereby
 encouraging individual participation, is the essence of federalism and
 the greatest expression of democracy.<footnote><para> William Safire,
@@ -326,7 +326,7 @@ concentrations in ownership, but more importantly, if because less
 visibly, on the concentration of power produced by a radical change in
 the effective scope of the law. The law is changing; that change is
 altering the way our culture gets made; that change should worry
-you--whether or not you care about the Internet, and whether you're on
+you&mdash;whether or not you care about the Internet, and whether you're on
 Safire's left or on his right.  The inspiration for the title and for
 much of the argument of this book comes from the work of Richard
 Stallman and the Free Software Foundation. Indeed, as I reread
@@ -396,8 +396,8 @@ stars? Could you prosecute geese for their willful and regular trespass?
 </para>
 <para>
 Then came airplanes, and for the first time, this principle of American
-law--deep within the foundations of our tradition, and acknowledged
-by the most important legal thinkers of our past--mattered. If
+law&mdash;deep within the foundations of our tradition, and acknowledged
+by the most important legal thinkers of our past&mdash;mattered. If
 my land reaches to the heavens, what happens when United flies over
 my field? Do I have the right to banish it from my property? Am I allowed
 to enter into an exclusive license with Delta Airlines? Could we
@@ -475,8 +475,8 @@ seemed reasonable" given the technology that the Wrights had produced.
 They could stand on their farms, dead chickens in hand, and
 shake their fists at these newfangled technologies all they wanted.
 They could call their representatives or even file a lawsuit. But in the
-end, the force of what seems "obvious" to everyone else--the power of
-"common sense"--would prevail. Their "private interest" would not be
+end, the force of what seems "obvious" to everyone else&mdash;the power of
+"common sense"&mdash;would prevail. Their "private interest" would not be
 allowed to defeat an obvious public gain.
 </para>
 <para>
@@ -494,7 +494,7 @@ understanding of radio.
 </para>
 <para>
 On the day after Christmas, 1933, four patents were issued to Armstrong
-for his most significant invention--FM radio. Until then, consumer radio
+for his most significant invention&mdash;FM radio. Until then, consumer radio
 had been amplitude-modulated (AM) radio. The theorists
 of the day had said that frequency-modulated (FM) radio could never
 work. They were right about FM radio in a narrow band of spectrum.
@@ -554,7 +554,7 @@ his invention, Sarnoff was not pleased.
 <blockquote>
 <para>
 I thought Armstrong would invent some kind of a filter to remove
-static from our AM radio. I didn't think he'd start a revolution--
+static from our AM radio. I didn't think he'd start a revolution&mdash;
 start up a whole damn new industry to compete with RCA.<footnote><para>
 See "Saints: The Heroes and Geniuses of the Electronic Era," First 
 		Electronic
@@ -565,22 +565,19 @@ Church of America, at www.webstationone.com/fecha, available at
 </para>
 </blockquote>
 <para>
-Armstrong's invention threatened RCA's AM empire, so the 
-		company
-launched a campaign to smother FM radio. While FM may have
-been a superior technology, Sarnoff was a superior tactician. As one 
-		author
+Armstrong's invention threatened RCA's AM empire, so the company
+launched a campaign to smother FM radio. While FM may have been a
+superior technology, Sarnoff was a superior tactician.  As one author
 described,
 </para>
 <blockquote>
 <para>
-The forces for FM, largely engineering, could not overcome the
-weight of strategy devised by the sales, patent, and legal offices
-to subdue this threat to corporate position. For FM, if allowed to
-develop unrestrained, posed . . . a  complete reordering of radio
-power . . . and the eventual overthrow of the carefully restricted
-AM system on which RCA had grown to power.<footnote><para>
-Lessing, 226.
+The forces for FM, largely engineering, could not overcome the weight
+of strategy devised by the sales, patent, and legal offices to subdue
+this threat to corporate position. For FM, if allowed to develop
+unrestrained, posed . . . a complete reordering of radio power
+. . . and the eventual overthrow of the carefully restricted AM system
+on which RCA had grown to power.<footnote><para>Lessing, 226.
 </para></footnote>
 </para>
 </blockquote>
@@ -590,7 +587,7 @@ tests were needed. When, after two years of testing, Armstrong grew
 impatient, RCA began to use its power with the government to stall
 FM radio's deployment generally. In 1936, RCA hired the former head
 of the FCC and assigned him the task of assuring that the FCC assign
-spectrum in a way that would castrate FM--principally by moving FM
+spectrum in a way that would castrate FM&mdash;principally by moving FM
 radio to a different band of spectrum. At first, these efforts failed. But
 when Armstrong and the nation were distracted by World War II,
 RCA's work began to be more successful. Soon after the war ended, the
@@ -622,7 +619,7 @@ least temporarily.
 Armstrong resisted RCA's efforts. In response, RCA resisted 
 		Armstrong's
 patents. After incorporating FM technology into the emerging
-standard for television, RCA declared the patents invalid--baselessly,
+standard for television, RCA declared the patents invalid&mdash;baselessly,
 and almost fifteen years after they were issued. It thus refused to pay
 him royalties. For six years, Armstrong fought an expensive war of 
 		litigation
@@ -668,7 +665,7 @@ of 2004.
 </para>
 <para>
 As the Internet has been integrated into ordinary life, it has
-changed things. Some of these changes are technical--the Internet has
+changed things. Some of these changes are technical&mdash;the Internet has
 made communication faster, it has lowered the cost of gathering data,
 and so on. These technical changes are not the focus of this book. They
 are important. They are not well understood. But they are the sort of
@@ -706,8 +703,8 @@ then the law might intervene. But the law was never directly concerned
 with the creation or spread of this form of culture, and it left this 
 		culture
 "free." The ordinary ways in which ordinary individuals shared and
-transformed their culture--telling stories, reenacting scenes from plays
-or TV, participating in fan clubs, sharing music, making tapes--were
+transformed their culture&mdash;telling stories, reenacting scenes from plays
+or TV, participating in fan clubs, sharing music, making tapes&mdash;were
 left alone by the law.
 </para>
 <para>
@@ -746,8 +743,8 @@ culture fall within the reach of the regulation of the law, which has
 to draw within its control a vast amount of culture and 
 		creativity
 that it never reached before. The technology that preserved the
-balance of our history--between uses of our culture that were free and
-uses of our culture that were only upon permission--has been undone.
+balance of our history&mdash;between uses of our culture that were free and
+uses of our culture that were only upon permission&mdash;has been undone.
 The consequence is that we are less and less a free culture, more and
 more a permission culture.
 </para>
@@ -782,7 +779,7 @@ for building and cultivating culture; that market could include a much
 wider and more diverse range of creators; those creators could produce
 and distribute a much more vibrant range of creativity; and depending
 upon a few important factors, those creators could earn more on average
-from this system than creators do today--all so long as the RCAs of our
+from this system than creators do today&mdash;all so long as the RCAs of our
 day don't use the law to protect themselves against this competition.
 </para>
 <para>
@@ -798,16 +795,16 @@ their plan to remake the Internet before the Internet remakes them.
 It doesn't seem this way to many. The battles over copyright and the
 <!-- PAGE BREAK 25 -->
 Internet seem remote to most. To the few who follow them, they seem
-mainly about a much simpler brace of questions--whether "piracy" will
+mainly about a much simpler brace of questions&mdash;whether "piracy" will
 be permitted, and whether "property" will be protected. The "war" that
-has been waged against the technologies of the Internet--what 
+has been waged against the technologies of the Internet&mdash;what 
 		Motion
 Picture Association of America (MPAA) president Jack Valenti
 calls his "own terrorist war"<footnote><para>
 Amy Harmon, "Black Hawk Download: Moving Beyond Music, Pirates
 Use New Tools to Turn the Net into an Illicit Video Club," New York
 Times, 17 January 2002.
-</para></footnote>--has been framed as a battle about the
+</para></footnote>&mdash;has been framed as a battle about the
 rule of law and respect for property. To know which side to take in this
 war, most think that we need only decide whether we're for property or
 against it.
@@ -848,7 +845,7 @@ technology of the Internet itself, has massively increased the effective
 regulation of creativity in America. To build upon or critique the 
 		culture
 around us one must ask, Oliver Twist­like, for permission first.
-Permission is, of course, often granted--but it is not often granted to
+Permission is, of course, often granted&mdash;but it is not often granted to
 the critical or the independent. We have built a kind of cultural 
 		nobility;
 those within the noble class live easily; those outside it don't. But it
@@ -959,7 +956,7 @@ ideas.
 My method is not the usual method of an academic. I don't want to
 plunge you into a complex argument, buttressed with references to 
 		obscure
-French theorists--however natural that is for the weird sort we
+French theorists&mdash;however natural that is for the weird sort we
 academics have become. Instead I begin in each part with a collection
 of stories that set a context within which these apparently simple ideas
 can be more fully understood.
@@ -973,7 +970,7 @@ destroying something very old. Rather than understanding the changes
 the Internet might permit, and rather than taking time to let "common
 sense" resolve how best to respond, we are allowing those most 
 		threatened
-by the changes to use their power to change the law--and more
+by the changes to use their power to change the law&mdash;and more
 importantly, to use their power to change something fundamental about
 who we have always been.
 </para>
@@ -983,7 +980,7 @@ most of us really believe in these changes. We allow it because the
 		interests
 most threatened are among the most powerful players in our
 depressingly compromised process of making law. This book is the
-story of one more consequence of this form of corruption--a 
+story of one more consequence of this form of corruption&mdash;a 
 		consequence
 to which most of us remain oblivious.
 </para>
@@ -1037,7 +1034,7 @@ to technology to defend their "property" against this "piracy."
 A generation of Americans, the warriors warn, is being raised to 
 		believe
 that "property" should be "free." Forget tattoos, never mind body
-piercing--our kids are becoming thieves!
+piercing&mdash;our kids are becoming thieves!
 </para>
 <para>
 There's no doubt that "piracy" is wrong, and that pirates should be
@@ -1067,7 +1064,7 @@ of creative property<footnote><para>
 See Rochelle Dreyfuss, "Expressive Genericity: Trademarks as Language
 in the Pepsi Generation," Notre Dame Law Review 65 (1990): 397.
 </para></footnote>
---if there is value, then someone must have a
+&mdash;if there is value, then someone must have a
 right to that value. It is the perspective that led a composers' rights 
 		organization,
 ASCAP, to sue the Girl Scouts for failing to pay for the
@@ -1080,7 +1077,7 @@ Zittrain, "Calling Off the Copyright War: In Battle of Property vs. Free
 Speech, No One Wins," Boston Globe, 24 November 2002.
 </para></footnote>
 There was "value"
-(the songs) so there must have been a "right"--even against the Girl
+(the songs) so there must have been a "right"&mdash;even against the Girl
 Scouts.
 </para>
 <para>
@@ -1102,7 +1099,7 @@ that we are losing sight of the value.
 </para>
 <para>
 The source of this confusion is a distinction that the law no longer
-takes care to draw--the distinction between republishing someone's
+takes care to draw&mdash;the distinction between republishing someone's
 work on the one hand and building upon or transforming that work on
 the other. Copyright law at its birth had only publishing as its concern;
 copyright law today regulates both.
@@ -1112,7 +1109,7 @@ Before the technologies of the Internet, this conflation didn't
 		matter
 all that much. The technologies of publishing were expensive; that
 meant the vast majority of publishing was commercial. Commercial
-entities could bear the burden of the law--even the burden of the
+entities could bear the burden of the law&mdash;even the burden of the
 Byzantine complexity that copyright law has become. It was just one
 more expense of doing business.
 </para>
@@ -1125,7 +1122,7 @@ would not matter much if copyright law regulated only
 		"copying,"
 when the law regulates as broadly and obscurely as it does, the
 extension matters a lot. The burden of this law now vastly outweighs
-any original benefit--certainly as it affects noncommercial creativity,
+any original benefit&mdash;certainly as it affects noncommercial creativity,
 and increasingly as it affects commercial creativity as well. Thus, as
 we'll see more clearly in the chapters below, the law's role is less and
 less to support creativity, and more and more to protect certain 
@@ -1213,7 +1210,7 @@ in my life. Nothing since has ever equaled it."
 Disney had created something very new, based upon something 
 		relatively
 new. Synchronized sound brought life to a form of creativity
-that had rarely--except in Disney's hands--been anything more than
+that had rarely&mdash;except in Disney's hands&mdash;been anything more than
 filler for other films. Throughout animation's early history, it was 
 		Disney's
 invention that set the standard that others struggled to match.
@@ -1231,7 +1228,7 @@ Keaton was born into a vaudeville family in 1895. In the era of
 silent film, he had mastered using broad physical comedy as a way to
 spark uncontrollable laughter from his audience. Steamboat Bill, Jr. was
 a classic of this form, famous among film buffs for its incredible stunts.
-The film was classic Keaton--wildly popular and among the best of its
+The film was classic Keaton&mdash;wildly popular and among the best of its
 genre.
 </para>
 <para>
@@ -1268,7 +1265,7 @@ that Ate the Public Domain," Findlaw, 5 March 2002, at
 <ulink url="http://free-culture.cc/notes/">link #5</ulink>.
 </para></footnote>
 So  did many others. Early cartoons are filled with
-knockoffs--slight variations on winning themes; retellings of ancient
+knockoffs&mdash;slight variations on winning themes; retellings of ancient
 stories. The key to success was the brilliance of the differences. With
 Disney, it was sound that gave his animation its spark. Later, it was the
 quality of his work relative to the production-line cartoons with which
@@ -1303,7 +1300,7 @@ the work of others is astonishing when set together: Snow White
 (1951), Robin Hood (1952), Peter Pan (1953), Lady and the Tramp
 <!-- PAGE BREAK 37 -->
 (1955), Mulan (1998), Sleeping Beauty (1959), 101 Dalmatians (1961),
-The Sword in the Stone (1963), and  The Jungle Book (1967)--not to
+The Sword in the Stone (1963), and  The Jungle Book (1967)&mdash;not to
 mention a recent example that we should perhaps quickly forget, 
 		Treasure
 Planet (2003). In all of these cases, Disney (or Disney, Inc.) ripped
@@ -1318,7 +1315,7 @@ and celebrate. There are some who would say that there is no
 		creativity
 except this kind. We don't need to go that far to recognize its
 importance. We could call this "Disney creativity," though that would
-be a bit misleading. It is, more precisely, "Walt Disney creativity"--a
+be a bit misleading. It is, more precisely, "Walt Disney creativity"&mdash;a
 form of expression and genius that builds upon the culture around us
 and makes it something different.
 </para>
@@ -1327,7 +1324,7 @@ In 1928, the culture that Disney was free to draw upon was
 		relatively
 fresh. The public domain in 1928 was not very old and was
 therefore quite vibrant. The average term of copyright was just around
-thirty years--for that minority of creative work that was in fact copyrighted.<footnote><para>
+thirty years&mdash;for that minority of creative work that was in fact copyrighted.<footnote><para>
 <!-- f4 -->
 Until 1976, copyright law granted an author the possibility of two terms: an
 initial term and a renewal term. I have calculated the "average" term by 
@@ -1351,12 +1348,12 @@ At the end of a copyright term, a work passes into the public
 No permission is then needed to draw upon or use that work. No
 permission and, hence, no lawyers. The public domain is a "lawyer-free
 zone." Thus, most of the content from the nineteenth century was free
-for Disney to use and build upon in 1928. It was free for anyone--
+for Disney to use and build upon in 1928. It was free for anyone&mdash;
 whether connected or not, whether rich or not, whether approved or
-not--to use and build upon.
+not&mdash;to use and build upon.
 </para>
 <para>
-This is the ways things always were--until quite recently. For most
+This is the ways things always were&mdash;until quite recently. For most
 of our history, the public domain was just over the horizon. From
 until 1978, the average copyright term was never more than thirty-two
 years, meaning that most culture just a generation and a half old was
@@ -1409,7 +1406,7 @@ doujinshi. It is not doujinshi if it is just a copy; the artist must make a
 contribution to the art he copies, by transforming it either subtly or
 <!-- PAGE BREAK 39 -->
 significantly. A doujinshi comic can thus take a mainstream comic and
-develop it differently--with a different story line. Or the comic can
+develop it differently&mdash;with a different story line. Or the comic can
 keep the character in character but change its look slightly. There is no
 formula for what makes the doujinshi sufficiently "different." But they
 must be different if they are to be considered true doujinshi. Indeed,
@@ -1453,7 +1450,7 @@ early days of comics in America are very much like what's going on
 in Japan now. . . . American  comics were born out of copying each
 
 <!-- PAGE BREAK 40 -->
-other. . . . That's how [the artists] learn to draw--by going into comic
+other. . . . That's how [the artists] learn to draw&mdash;by going into comic
 books and not tracing them, but looking at them and copying them"
 and building from them.<footnote><para>
 <!-- f5 -->
@@ -1545,7 +1542,7 @@ Copyrights and Copywrongs, 11 (New York: New York
 		University
 Press, 2001). See also Lawrence Lessig, The Future of Ideas (New York:
 Random House, 2001), 293 n. 26. The term accurately describes a set of
-"property" rights--copyright, patents, trademark, and trade-secret--but the
+"property" rights&mdash;copyright, patents, trademark, and trade-secret&mdash;but the
 nature of those rights is very different.
 </para></footnote>
 A large, diverse society cannot survive without 
@@ -1560,7 +1557,7 @@ can't buy you love," but rather, value that is plainly part of a process of
 production, including commercial as well as noncommercial 
 		production.
 If Disney animators had stolen a set of pencils to draw Steamboat
-Willie, we'd have no hesitation in condemning that taking as wrong--
+Willie, we'd have no hesitation in condemning that taking as wrong&mdash;
 even though trivial, even if unnoticed. Yet there was nothing wrong, at
 least under the law of the day, with Disney's taking from Buster Keaton
 or from the Brothers Grimm. There was nothing wrong with the 
@@ -1571,8 +1568,8 @@ from Keaton because Disney's use would have been considered
 the Grimms' work was in the public domain.
 </para>
 <para>
-Thus, even though the things that Disney took--or more generally,
-the things taken by anyone exercising Walt Disney creativity--are
+Thus, even though the things that Disney took&mdash;or more generally,
+the things taken by anyone exercising Walt Disney creativity&mdash;are
 valuable, our tradition does not treat those takings as wrong. Some
 
 <!-- PAGE BREAK 42 -->
@@ -1583,7 +1580,7 @@ is good.
 <para>
 The same with the doujinshi culture. If a doujinshi artist broke into
 a publisher's office and ran off with a thousand copies of his latest
-work--or even one copy--without paying, we'd have no hesitation in
+work&mdash;or even one copy&mdash;without paying, we'd have no hesitation in
 saying the artist was wrong. In addition to having trespassed, he would
 have stolen something of value. The law bans that stealing in whatever
 form, whether large or small.
@@ -1619,7 +1616,7 @@ That building is always and everywhere at least partially done without
 permission and without compensating the original creator. No society,
 free or controlled, has ever demanded that every use be paid for or that
 permission for Walt Disney creativity must always be sought. Instead,
-every society has left a certain bit of its culture free for the taking--free
+every society has left a certain bit of its culture free for the taking&mdash;free
 societies more fully than unfree, perhaps, but all societies to some degree.
 <!-- PAGE BREAK 43 -->
 </para>
@@ -1786,7 +1783,7 @@ The arguments in favor of requiring permission will sound
 		surprisingly
 familiar. The photographer was "taking" something from the 
 		person
-or building whose photograph he shot--pirating something of
+or building whose photograph he shot&mdash;pirating something of
 value. Some even thought he was taking the target's soul. Just as 
 		Disney
 was not free to take the pencils that his animators used to draw
@@ -1859,7 +1856,7 @@ the requirement for permission had been built into the rules that
 it. Photography would have existed. It would have grown in 
 		importance
 over time. Professionals would have continued to use the
-technology as they did--since professionals could have more easily borne
+technology as they did&mdash;since professionals could have more easily borne
 the burdens of the permission system. But the spread of photography
 to ordinary people would not have occurred. Nothing like that growth
 would have been realized. And certainly, nothing like that growth in a
@@ -1938,10 +1935,10 @@ lots of (at least at first) terrible media.
 <para>
 A growing field of academics and activists sees this form of literacy
 as crucial to the next generation of culture. For though anyone who has
-written understands how difficult writing is--how difficult it is to 
+written understands how difficult writing is&mdash;how difficult it is to 
 		sequence
 the story, to keep a reader's attention, to craft language to be
-understandable--few of us have any real sense of how difficult media
+understandable&mdash;few of us have any real sense of how difficult media
 is. Or more fundamentally, few of us have a sense of how media works,
 how it holds an audience or leads it through a story, how it triggers
 emotion or builds suspense.
@@ -1996,8 +1993,8 @@ have no idea. If a filmmaker succeeds you do not know how you were
 led." If you know you were led through a film, the film has failed.
 </para>
 <para>
-Yet the push for an expanded literacy--one that goes beyond text to
-include audio and visual elements--is not about making better film 
+Yet the push for an expanded literacy&mdash;one that goes beyond text to
+include audio and visual elements&mdash;is not about making better film 
 		directors.
 The aim is not to improve the profession of filmmaking at all.
 Instead, as Daley explained,
@@ -2046,7 +2043,7 @@ The high school was a very poor inner-city Los Angeles school. In all
 the traditional measures of success, this school was a failure. But Daley
 and Barish ran a program that gave kids an opportunity to use film
 to express meaning about something the students know something
-about--gun violence.
+about&mdash;gun violence.
 </para>
 <para>
 The class was held on Friday afternoons, and it created a relatively
@@ -2054,7 +2051,7 @@ new problem for the school. While the challenge in most classes was
 getting the kids to come, the challenge in this class was keeping them
 away. The "kids were showing up at 6 A.M. and leaving at 5 at night,"
 said Barish. They were working harder than in any other class to do
-what education should be about--learning how to express themselves.
+what education should be about&mdash;learning how to express themselves.
 </para>
 <para>
 Using whatever "free web stuff they could find," and relatively 
@@ -2064,7 +2061,7 @@ this class produced a series of projects that showed something about
 gun violence that few would otherwise understand. This was an issue
 close to the lives of these students. The project "gave them a tool and
 empowered them to be able to both understand it and talk about it,"
-Barish explained. That tool succeeded in creating expression--far more
+Barish explained. That tool succeeded in creating expression&mdash;far more
 successfully and powerfully than could have been created using only
 text. "If you had said to these students, `you have to do it in text,' they
 would've just thrown their hands up and gone and done something
@@ -2083,9 +2080,9 @@ of course, it is. But why are we teaching kids to write? Education,
 explained, is about giving students a way of "constructing 
 		meaning."
 To say that that means just writing is like saying teaching writing
-is only about teaching kids how to spell. Text is one part--and 
+is only about teaching kids how to spell. Text is one part&mdash;and 
 		increasingly,
-not the most powerful part--of constructing meaning. As Daley
+not the most powerful part&mdash;of constructing meaning. As Daley
 explained in the most moving part of our interview,
 </para>
 <blockquote>
@@ -2166,7 +2163,7 @@ the attention of the world. There was ABC and CBS, but there
 was also the Internet.
 </para>
 <para>
-I don't mean simply to praise the Internet--though I do think the
+I don't mean simply to praise the Internet&mdash;though I do think the
 people who supported this form of speech should be praised. I mean
 instead to point to a significance in this form of speech. For like a 
 		Kodak,
@@ -2181,7 +2178,7 @@ But unlike any technology for simply capturing images, the
 		Internet
 allows these creations to be shared with an extraordinary number of
 people, practically instantaneously. This is something new in our 
-		tradition--not
+		tradition&mdash;not
 just that culture can be captured mechanically, and obviously
 not just that events are commented upon critically, but that this mix of
 captured images, sound, and commentary can be widely spread 
@@ -2194,7 +2191,7 @@ the same time, a form of communication that has grown dramatically
 was just beginning to come into public consciousness: the Web-log, or
 blog. The blog is a kind of public diary, and within some cultures, such
 as in Japan, it functions very much like a diary. In those cultures, it
-records private facts in a public way--it's a kind of electronic Jerry
+records private facts in a public way&mdash;it's a kind of electronic Jerry
 Springer, available anywhere in the world.
 </para>
 <para>
@@ -2236,7 +2233,7 @@ elections. In our tradition, it also means control through reasoned
 This was the idea that captured the imagination of Alexis de
 Tocqueville, the nineteenth-century French lawyer who wrote the
 most important account of early "Democracy in America." It wasn't
-popular elections that fascinated him--it was the jury, an institution
+popular elections that fascinated him&mdash;it was the jury, an institution
 that gave ordinary people the right to choose life or death for other 
 		citizens.
 And most fascinating for him was that the jury didn't just vote
@@ -2356,7 +2353,7 @@ get it out of the way."
 <para>
 These conflicts become more important as media becomes more
 concentrated (more on this below). A concentrated media can hide
-more from the public than an unconcentrated media can--as CNN
+more from the public than an unconcentrated media can&mdash;as CNN
 admitted it did after the Iraq war because it was afraid of the 
 		consequences
 to its own employees.<footnote><para>
@@ -2374,7 +2371,7 @@ needed to offer a more optimistic story. When she told New York that
 wasn't warranted, they told her that they were writing "the story.")
 </para>
 <para>
-Blog space gives amateurs a way to enter the debate--"amateur" not
+Blog space gives amateurs a way to enter the debate&mdash;"amateur" not
 in the sense of inexperienced, but in the sense of an Olympic athlete,
 meaning not paid by anyone to give their reports. It allows for a much
 broader range of input into a story, as reporting on the Columbia 
@@ -2393,7 +2390,7 @@ Review, 2 February 2003, available at
 And it drives
 readers to read across the range of accounts and "triangulate," as Winer
 puts it, the truth. Blogs, Winer says, are "communicating directly with
-our constituency, and the middle man is out of it"--with all the 
+our constituency, and the middle man is out of it"&mdash;with all the 
 		benefits,
 and costs, that might entail.
 </para>
@@ -2402,7 +2399,7 @@ Winer is optimistic about the future of journalism infected with
 blogs. "It's going to become an essential skill," Winer predicts, for 
 		public
 figures and increasingly for private figures as well. It's not clear that
-"journalism" is happy about this--some journalists have been told to
+"journalism" is happy about this&mdash;some journalists have been told to
 curtail their blogging.<footnote><para>
 <!-- f21 -->
 See Michael Falcone, "Does an Editor's Pencil Ruin a Web Log?" New
@@ -2460,7 +2457,7 @@ up," he explains, that tinkering was done "on motorcycle engines,
 		lawnmower
 engines, automobiles, radios, and so on." But digital 
 		technologies
-enable a different kind of tinkering--with abstract ideas though
+enable a different kind of tinkering&mdash;with abstract ideas though
 in concrete form. The kids at Just Think! not only think about how
 a commercial portrays a politician; using digital technology, they can
 <!-- PAGE BREAK 59 -->
@@ -2649,7 +2646,7 @@ Thus the index his search engine produced included pictures,
 which students could use to put on their own Web sites; copies of notes
 or research; copies of information pamphlets; movie clips that 
 		students
-might have created; university brochures--basically anything that
+might have created; university brochures&mdash;basically anything that
 <!-- PAGE BREAK 63 -->
 users of the RPI network made available in a public folder of their
 computer.
@@ -2657,9 +2654,9 @@ computer.
 <para>
 But the index also included music files. In fact, one quarter of the
 files that Jesse's search engine listed were music files. But that means,
-of course, that three quarters were not, and--so that this point is 
+of course, that three quarters were not, and&mdash;so that this point is 
 		absolutely
-clear--Jesse did nothing to induce people to put music files in
+clear&mdash;Jesse did nothing to induce people to put music files in
 their public folders. He did nothing to target the search engine to these
 files. He was a kid tinkering with a Google-like technology at a 
 		university
@@ -2688,7 +2685,7 @@ was increasingly astonished.
 I don't think there's anything wrong with the search engine that I ran
 or . . . what I had done to it. I mean, I hadn't modified it in any way
 that promoted or enhanced the work of pirates. I just modified the
-search engine in a way that would make it easier to use"--again, a
+search engine in a way that would make it easier to use"&mdash;again, a
 search engine, which Jesse had not himself built, using the Windows 
 		filesharing
 system, which Jesse had not himself built, to enable members
@@ -2715,7 +2712,7 @@ Princeton. Their situations were similar to Jesse's. Though each case
 was different in detail, the bottom line in each was exactly the same:
 huge demands for "damages" that the RIAA claimed it was entitled to.
 If you added up the claims, these four lawsuits were asking courts in
-the United States to award the plaintiffs close to $100 billion--six
+the United States to award the plaintiffs close to $100 billion&mdash;six
 times the total profit of the film industry in 2001.<footnote><para>
 <!-- f1 -->
 Tim Goral, "Recording Industry Goes After Campus P-2-P Networks:
@@ -2767,7 +2764,7 @@ Artists, on the other hand, are not well paid. The average recording
 artist makes $45,900.<footnote><para>
 <!-- f2 -->
 Occupational Employment Survey, U.S. Dept. of Labor (2001)
-(27­2042--Musicians and Singers). See also National Endowment for
+(27­2042&mdash;Musicians and Singers). See also National Endowment for
 the Arts, More Than One in a Blue Moon (2000).
 </para></footnote>
 There are plenty of ways for the RIAA to affect
@@ -2808,11 +2805,11 @@ wrong message. And he wants to correct the record."
 <para>
 
 If "piracy" means using the creative property of others without
-their permission--if "if value, then right" is true--then the history of
+their permission&mdash;if "if value, then right" is true&mdash;then the history of
 the content industry is a history of piracy. Every important sector of
-"big media" today--film, records, radio, and cable TV--was born of a
+"big media" today&mdash;film, records, radio, and cable TV&mdash;was born of a
 kind of piracy so defined. The consistent story is how last generation's
-pirates join this generation's country club--until now.
+pirates join this generation's country club&mdash;until now.
 </para>
 <sect2 id="film">
 <title>Film</title>
@@ -2831,7 +2828,7 @@ inventor of filmmaking, Thomas Edison. These controls were
 		exercised
 through a monopoly "trust," the Motion Pictures Patents 
 		Company,
-and were based on Thomas Edison's creative property--patents.
+and were based on Thomas Edison's creative property&mdash;patents.
 Edison formed the MPPC to exercise the rights this creative property
 <!-- PAGE BREAK 67 -->
 gave him, and the MPPC was serious about the control it demanded.
@@ -2936,7 +2933,7 @@ But it wasn't totally clear that I would have to pay for a "public
 		performance"
 if I recorded the song in my own house (even today, you don't
 owe the Beatles anything if you sing their songs in the shower), or if I
-recorded the song from memory (copies in your brain are not--yet--
+recorded the song from memory (copies in your brain are not&mdash;yet&mdash;
 regulated by copyright law). So if I simply sang the song into a 
 		recording
 device in the privacy of my own home, it wasn't clear that I owed the
@@ -3061,7 +3058,7 @@ permission to use Grisham's work except with permission of Grisham.
 <para>
 But the law governing recordings gives recording artists less. And
 thus, in effect, the law subsidizes the recording industry through a kind
-of piracy--by giving recording artists a weaker right than it otherwise
+of piracy&mdash;by giving recording artists a weaker right than it otherwise
 gives creative authors. The Beatles have less control over their creative
 work than Grisham does. And the beneficiaries of this less control are
 the recording industry and the public. The recording industry gets
@@ -3215,7 +3212,7 @@ started selling access to television broadcasts, they refused to pay
 <!-- PAGE BREAK 73 -->
 for what they sold. Cable companies were thus Napsterizing
 	broadcasters'
-content, but more egregiously than anything Napster ever did--
+content, but more egregiously than anything Napster ever did&mdash;
 Napster never charged for the content it enabled others to give away.
 </para>
 <para>
@@ -3223,7 +3220,7 @@ Broadcasters and copyright owners were quick to attack this theft.
 Rosel Hyde, chairman of the FCC, viewed the practice as a kind of
 "unfair and potentially destructive competition."<footnote><para>
 <!-- f13 -->
-Copyright Law Revision--CATV: Hearing on S. 1006 Before the 
+Copyright Law Revision&mdash;CATV: Hearing on S. 1006 Before the 
 		Subcommittee
 on Patents, Trademarks, and Copyrights of the Senate 
 		Committee
@@ -3238,7 +3235,7 @@ Anello, general counsel to the National Association of
 asked Senator Quentin Burdick during testimony, "Does public
 interest dictate that you use somebody else's property?"<footnote><para>
 <!-- f14 -->
-Copyright Law Revision--CATV, 116 (statement of Douglas A. Anello,
+Copyright Law Revision&mdash;CATV, 116 (statement of Douglas A. Anello,
 general counsel of the National Association of Broadcasters).
 </para></footnote>
 As another broadcaster put it,
@@ -3249,7 +3246,7 @@ The extraordinary thing about the CATV business is that it is the
 only business I know of where the product that is being sold is not
 paid for.<footnote><para>
 <!-- f15 -->
-Copyright Law Revision--CATV, 126 (statement of Ernest W. Jennes,
+Copyright Law Revision&mdash;CATV, 126 (statement of Ernest W. Jennes,
 general counsel of the Association of Maximum Service Telecasters, Inc.).
 </para></footnote>
 </para>
@@ -3265,7 +3262,7 @@ take our property for nothing pay for it. We are trying to stop
 piracy and I don't think there is any lesser word to describe it. I
 think there are harsher words which would fit it.<footnote><para>
 <!-- f16 -->
-Copyright Law Revision--CATV, 169 (joint statement of Arthur B.
+Copyright Law Revision&mdash;CATV, 169 (joint statement of Arthur B.
 Krim, president of United Artists Corp., and John Sinn, president of
 United Artists Television, Inc.).
 </para></footnote>
@@ -3276,7 +3273,7 @@ These were "free-ride[rs]," Screen Actor's Guild president
 		Charlton
 Heston said, who were "depriving actors of compensation."<footnote><para>
 <!-- f17 -->
-Copyright Law Revision--CATV, 209 (statement of Charlton Heston,
+Copyright Law Revision&mdash;CATV, 209 (statement of Charlton Heston,
 president of the Screen Actors Guild).
 </para></footnote>
 </para>
@@ -3297,7 +3294,7 @@ monopoly, should be permitted to extend that monopoly. . . . The
 question here is how much compensation they should have and
 how far back they should carry their right to compensation.<footnote><para>
 <!-- f18 -->
-Copyright Law Revision--CATV, 216 (statement of Edwin M. 
+Copyright Law Revision&mdash;CATV, 216 (statement of Edwin M. 
 		Zimmerman,
 acting assistant attorney general).
 </para></footnote>
@@ -3326,20 +3323,20 @@ content.
 These separate stories sing a common theme. If "piracy"
 means using value from someone else's creative property without 
 		permission
-from that creator--as it is increasingly described today<footnote><para>
+from that creator&mdash;as it is increasingly described today<footnote><para>
 <!-- f19 -->
-See, for example, National Music Publisher's Association, The Engine of Free
-Expression: Copyright on the Internet--The Myth of Free Information, 
-		available
-at 
-<ulink url="http://free-culture.cc/notes/">link #13</ulink>. "The threat of piracy--the use of someone else's creative
-work without permission or compensation--has grown with the Internet."
+See, for example, National Music Publisher's Association, The Engine
+of Free Expression: Copyright on the Internet&mdash;The Myth of Free
+Information, available at
+<ulink url="http://free-culture.cc/notes/">link #13</ulink>. "The
+threat of piracy&mdash;the use of someone else's creative work without
+permission or compensation&mdash;has grown with the Internet."
 </para></footnote>
---
-then  every  industry affected by copyright today is the product and
-beneficiary of a certain kind of piracy. Film, records, radio, cable
-TV. . . . The list is long and could well be expanded. Every generation
-welcomes the pirates from the last. Every generation--until now.
+&mdash; then every industry affected by copyright today is the product
+and beneficiary of a certain kind of piracy. Film, records, radio,
+cable TV. . . . The list is long and could well be expanded. Every
+generation welcomes the pirates from the last. Every
+generation&mdash;until now.
 </para>
 <!-- PAGE BREAK 75 -->
 </sect2>
@@ -3371,7 +3368,7 @@ so often done in the past.
 <para>
 All across the world, but especially in Asia and Eastern Europe, there
 are businesses that do nothing but take others people's copyrighted
-content, copy it, and sell it--all without the permission of a copyright
+content, copy it, and sell it&mdash;all without the permission of a copyright
 owner. The recording industry estimates that it loses about $4.6 billion
 every year to physical piracy<footnote><para>
 <!-- f1 -->
@@ -3538,7 +3535,7 @@ their product away. If Microsoft fears the competition of GNU/Linux,
 then Microsoft can give its product away, as it did, for example, with
 Internet Explorer to fight Netscape. A property right means 
 		giving
-the property owner the right to say who gets access to what--at
+the property owner the right to say who gets access to what&mdash;at
 least ordinarily. And if the law properly balances the rights of the 
 		copyright
 owner with the rights of access, then violating the law is still
@@ -3638,7 +3635,7 @@ to take its place. (Kazaa is currently the most popular p2p service. It
 boasts over 100 million members.) These services' systems are different
 architecturally, though not very different in function: Each enables
 users to make content available to any number of other users. With a
-p2p system, you can share your favorite songs with your best friend--
+p2p system, you can share your favorite songs with your best friend&mdash;
 or your 20,000 best friends.
 </para>
 <para>
@@ -3646,7 +3643,7 @@ According to a number of estimates, a huge proportion of
 		Americans
 have tasted file-sharing technology. A study by Ipsos-Insight in
 September 2002 estimated that 60 million Americans had downloaded
-music--28 percent of Americans older than 12.<footnote><para>
+music&mdash;28 percent of Americans older than 12.<footnote><para>
 <!-- f7 -->
 See Ipsos-Insight, TEMPO: Keeping Pace with Online Music Distribution
 (September 2002), reporting that 28 percent of Americans aged twelve
@@ -3672,8 +3669,8 @@ Some of this enjoying involves copyright infringement. Some of it
 does not. And even among the part that is technically copyright 
 		infringement,
 calculating the actual harm to copyright owners is more
-complicated than one might think. So consider--a bit more carefully
-than the polarized voices around this debate usually do--the kinds of
+complicated than one might think. So consider&mdash;a bit more carefully
+than the polarized voices around this debate usually do&mdash;the kinds of
 sharing that file sharing enables, and the kinds of harm it entails.
 </para>
 <para>
@@ -3724,7 +3721,7 @@ was astonished at the range and mix of content that was
 		available.)
 For content not sold, this is still technically a violation of
 copyright, though because the copyright owner is not selling the
-content anymore, the economic harm is zero--the same harm
+content anymore, the economic harm is zero&mdash;the same harm
 that occurs when I sell my collection of 1960s 45-rpm records to
 a local collector.
 </para></listitem>
@@ -3751,7 +3748,7 @@ Type B sharing is illegal but plainly beneficial. Type C sharing is
 		illegal,
 yet good for society (since more exposure to music is good) and
 harmless to the artist (since the work is not otherwise available). So
-how sharing matters on balance is a hard question to answer--and 
+how sharing matters on balance is a hard question to answer&mdash;and 
 		certainly
 much more difficult than the current rhetoric around the issue
 suggests.
@@ -3799,9 +3796,9 @@ and banning or regulating technology was the answer.
 Yet soon thereafter, and before Congress was given an opportunity
 to enact regulation, MTV was launched, and the industry had a record
 turnaround. "In the end," Cap Gemini concludes, "the `crisis' . . . was
-not the fault of the tapers--who did not [stop after MTV came into
+not the fault of the tapers&mdash;who did not [stop after MTV came into
 <!-- PAGE BREAK 83 -->
-being]--but had to a large extent resulted from stagnation in musical
+being]&mdash;but had to a large extent resulted from stagnation in musical
 innovation at the major labels."<footnote><para>
 <!-- f11 -->
 U.S. Congress, Copyright and Home Copying, 4.
@@ -3810,10 +3807,10 @@ U.S. Congress, Copyright and Home Copying, 4.
 <para>
 But just because the industry was wrong before does not mean it is
 wrong today. To evaluate the real threat that p2p sharing presents to
-the industry in particular, and society in general--or at least the 
+the industry in particular, and society in general&mdash;or at least the 
 		society
 that inherits the tradition that gave us the film industry, the record
-industry, the radio industry, cable TV, and the VCR--the question is
+industry, the radio industry, cable TV, and the VCR&mdash;the question is
 not simply whether type A sharing is harmful. The question is also how
 harmful type A sharing is, and how beneficial the other types of 
 		sharing
@@ -3892,13 +3889,13 @@ There are too many different things happening at the same time to
 explain these numbers definitively, but one conclusion is unavoidable:
 The recording industry constantly asks, "What's the difference 
 		between
-downloading a song and stealing a CD?"--but their own 
+downloading a song and stealing a CD?"&mdash;but their own 
 		numbers
 reveal the difference. If I steal a CD, then there is one less CD to
 sell. Every taking is a lost sale. But on the basis of the numbers the
 RIAA provides, it is absolutely clear that the same is not true of
-downloads. If every download were a lost sale--if every use of Kazaa
-"rob[bed] the author of [his] profit"--then the industry would have
+downloads. If every download were a lost sale&mdash;if every use of Kazaa
+"rob[bed] the author of [his] profit"&mdash;then the industry would have
 suffered a 100 percent drop in sales last year, not a 7 percent drop. If 2.6
 times the number of CDs sold were downloaded for free, and yet sales
 revenue dropped by just 6.7 percent, then there is a huge difference 
@@ -3906,21 +3903,21 @@ revenue dropped by just 6.7 percent, then there is a huge difference
 "downloading a song and stealing a CD."
 </para>
 <para>
-These are the harms--alleged and perhaps exaggerated but, let's 
+These are the harms&mdash;alleged and perhaps exaggerated but, let's 
 		assume,
 real. What of the benefits? File sharing may impose costs on the
 recording industry. What value does it produce in addition to these
 costs?
 </para>
 <para>
-One benefit is type C sharing--making available content that is
+One benefit is type C sharing&mdash;making available content that is
 technically still under copyright but is no longer commercially 
 		available.
 This is not a small category of content. There are millions of
 tracks that are no longer commercially available.<footnote><para>
 <!-- f15 -->
 By one estimate, 75 percent of the music released by the major labels is no
-longer in print. See Online Entertainment and Copyright Law--Coming
+longer in print. See Online Entertainment and Copyright Law&mdash;Coming
 Soon to a Digital Device Near You: Hearing Before the Senate 
 		Committee
 on the Judiciary, 107th Cong., 1st sess. (3 April 2001) (prepared 
@@ -3938,7 +3935,7 @@ has decided it no longer makes economic sense to the company to
 make it available.
 </para>
 <para>
-In real space--long before the Internet--the market had a simple
+In real space&mdash;long before the Internet&mdash;the market had a simple
 <!-- PAGE BREAK 85 -->
 response to this problem: used book and record stores. There are 
 		thousands
@@ -3991,7 +3988,7 @@ shut as well?
 </para>
 <para>
 Finally, and perhaps most importantly, file-sharing networks enable
-type D sharing to occur--the sharing of content that copyright owners
+type D sharing to occur&mdash;the sharing of content that copyright owners
 want to have shared or for which there is no continuing copyright. This
 sharing clearly benefits authors and society. Science fiction author
 Cory Doctorow, for example, released his first novel, Down and Out in
@@ -4107,7 +4104,7 @@ the right to the content, so long as they paid the statutory price.
 
 <!-- PAGE BREAK 88 -->
 This compromise, like the compromise affecting records and player
-pianos, served two important goals--indeed, the two central goals of
+pianos, served two important goals&mdash;indeed, the two central goals of
 any copyright legislation. First, the law assured that new innovators
 would have the freedom to develop new ways to deliver content. 
 		Second,
@@ -4187,16 +4184,13 @@ percent of VCR owners had movie libraries of ten videos or more<footnote><para>
 Universal City Studios, Inc. v. Sony Corp. of America, 480 F. Supp. 429,
 (C.D. Cal., 1979).
 </para></footnote>
---a
-use the Court would later hold was not "fair." By "allowing VCR 
-		owners
-to copy freely by the means of an exemption from copyright 
-		infringement
-without creating a mechanism to compensate copyright
-owners," Valenti testified, Congress would "take from the owners the
-very essence of their property: the exclusive right to control who may
-use their work, that is, who may copy it and thereby profit from its 
-		reproduction."<footnote><para>
+&mdash; a use the Court would later hold was not "fair." By
+"allowing VCR owners to copy freely by the means of an exemption from
+copyright infringementwithout creating a mechanism to compensate
+copyrightowners," Valenti testified, Congress would "take from the
+owners the very essence of their property: the exclusive right to
+control who may use their work, that is, who may copy it and thereby
+profit from its reproduction."<footnote><para>
 <!-- f21 -->
 Copyright Infringements (Audio and Video Recorders), 485 (testimony
 of Jack Valenti).
@@ -4204,17 +4198,15 @@ of Jack Valenti).
 </para>
 <para>
 It took eight years for this case to be resolved by the Supreme
-Court. In the interim, the Ninth Circuit Court of Appeals, which 
-		includes
-Hollywood in its jurisdiction--leading Judge Alex Kozinski,
-who sits on that court, refers to it as the "Hollywood Circuit"--held
-that Sony would be liable for the copyright infringement made 
-		possible
-by its machines. Under the Ninth Circuit's rule, this totally 
-		familiar
-technology--which Jack Valenti had called "the Boston Strangler
-of the American film industry" (worse yet, it was a Japanese Boston
-Strangler of the American film industry)--was an illegal technology.<footnote><para>
+Court. In the interim, the Ninth Circuit Court of Appeals, which
+includes Hollywood in its jurisdiction&mdash;leading Judge Alex Kozinski,
+who sits on that court, refers to it as the "Hollywood Circuit"&mdash;held
+that Sony would be liable for the copyright infringement made possible
+by its machines. Under the Ninth Circuit's rule, this totally familiar
+technology&mdash;which Jack Valenti had called "the Boston Strangler of the
+American film industry" (worse yet, it was a Japanese Boston Strangler
+of the American film industry)&mdash;was an illegal
+technology.<footnote><para>
 <!-- f22 -->
 Universal City Studios, Inc. v. Sony Corp. of America, 659 F. 2d 963 (9th Cir.
 1981).
@@ -4420,7 +4412,7 @@ Indeed, the very idea of property in any idea or any expression is very
 odd. I understand what I am taking when I take the picnic table you
 put in your backyard. I am taking a thing, the picnic table, and after I
 take it, you don't have it. But what am I taking when I take the good
-idea you had to put a picnic table in the backyard--by, for example, 
+idea you had to put a picnic table in the backyard&mdash;by, for example, 
 		going
 to Sears, buying a table, and putting it in my backyard? What is the
 thing I am taking then?
@@ -4429,10 +4421,10 @@ thing I am taking then?
 The point is not just about the thingness of picnic tables versus
 ideas, though that's an important difference. The point instead is that
 <!-- PAGE BREAK 95 -->
-in the ordinary case--indeed, in practically every case except for a
+in the ordinary case&mdash;indeed, in practically every case except for a
 	narrow
-range of exceptions--ideas released to the world are free. I don't
-take anything from you when I copy the way you dress--though I
+range of exceptions&mdash;ideas released to the world are free. I don't
+take anything from you when I copy the way you dress&mdash;though I
 might seem weird if I did it every day, and especially weird if you are a
 woman. Instead, as Thomas Jefferson said (and as is especially true
 when I copy the way someone else dresses), "He who receives an idea
@@ -4453,8 +4445,8 @@ without my permission: The law turns the intangible into
 property.
 </para>
 <para>
-But how, and to what extent, and in what form--the details, in
-other words--matter. To get a good sense of how this practice of 
+But how, and to what extent, and in what form&mdash;the details, in
+other words&mdash;matter. To get a good sense of how this practice of 
 		turning
 the intangible into property emerged, we need to place this 
 		"property"
@@ -4479,7 +4471,7 @@ part. I offer four stories to help put the idea of "copyright
 		material
 is property" in context. Where did the idea come from? What are
 its limits? How does it function in practice? After these stories, the
-significance of this true statement--"copyright material is property"--
+significance of this true statement&mdash;"copyright material is property"&mdash;
 will be a bit more clear, and its implications will be revealed as quite
 different from the implications that the copyright warriors would have
 us draw.
@@ -4552,7 +4544,7 @@ was there any issue about it still being under Tonson's control in 1774?
 <para>
 The reason is that the English hadn't yet agreed on what a 
 		"copyright"
-was--indeed, no one had. At the time the English passed the
+was&mdash;indeed, no one had. At the time the English passed the
 Statute of Anne, there was no other legislation governing copyrights.
 The last law regulating publishers, the Licensing Act of 1662, had 
 		expired
@@ -4652,7 +4644,7 @@ of the Shakespeare estate. It would not have controlled
 for example, about how the work could be performed, whether
 the work could be translated, or whether Kenneth Branagh would be
 allowed to make his films. The "copy-right" was only an exclusive right
-to print--no less, of course, but also no more.
+to print&mdash;no less, of course, but also no more.
 </para>
 <para>
 Even that limited right was viewed with skepticism by the British.
@@ -4660,7 +4652,7 @@ They had had a long and ugly experience with "exclusive rights,"
 		especially
 "exclusive rights" granted by the Crown. The English had fought
 a civil war in part about the Crown's practice of handing out 
-		monopolies--especially
+		monopolies&mdash;especially
 monopolies for works that already existed. King Henry
 VIII granted a patent to print the Bible and a monopoly to Darcy to
 print playing cards. The English Parliament began to fight back
@@ -4687,7 +4679,7 @@ monopoly. It was also that it was a monopoly held by the booksellers.
 Booksellers sound quaint and harmless to us. They were not viewed
 as harmless in seventeenth-century England. Members of the Conger
 <!-- PAGE BREAK 100 -->
-were increasingly seen as monopolists of the worst kind--tools of the
+were increasingly seen as monopolists of the worst kind&mdash;tools of the
 Crown's repression, selling the liberty of England to guarantee 
 		themselves
 a monopoly profit. The attacks against these monopolists were
@@ -4870,8 +4862,8 @@ law rule thus effectively gave the booksellers a perpetual right to
 control the publication of any book assigned to them.
 </para>
 <para>
-Considered as a matter of abstract justice--reasoning as if justice
-were just a matter of logical deduction from first principles--Mansfield's
+Considered as a matter of abstract justice&mdash;reasoning as if justice
+were just a matter of logical deduction from first principles&mdash;Mansfield's
 conclusion might make some sense. But what it ignored was the larger
 issue that Parliament had struggled with in 1710: How best to limit
 <!-- PAGE BREAK 103 -->
@@ -4938,8 +4930,8 @@ was a strong argument that common law copyrights were perpetual.
 After 1774, the public domain was born. For the first time in
 	Anglo-American
 history, the legal control over creative works expired, and the
-greatest works in English history--including those of Shakespeare,
-Bacon, Milton, Johnson, and Bunyan--were free of legal restraint.
+greatest works in English history&mdash;including those of Shakespeare,
+Bacon, Milton, Johnson, and Bunyan&mdash;were free of legal restraint.
 </para>
 <para>
 It is hard for us to imagine, but this decision by the House of Lords
@@ -4993,7 +4985,7 @@ still had to buy the book from someone. But free in the sense that the
 culture and its growth would no longer be controlled by a small group
 of publishers. As every free market does, this free market of free culture
 would grow as the consumers and producers chose. English culture
-would develop as the many English readers chose to let it develop--
+would develop as the many English readers chose to let it develop&mdash;
 chose in the books they bought and wrote; chose in the memes they
 repeated and endorsed. Chose in a competitive context, not a context
 in which the choices about what culture is available to people and
@@ -5068,7 +5060,7 @@ Else said. He was just confirming the permission with Fox.
 <para>
 Then, as Else told me, "two things happened. First we 
 		discovered
-. . . that Matt Groening doesn't own his own creation--or at least
+. . . that Matt Groening doesn't own his own creation&mdash;or at least
 that someone [at Fox] believes he doesn't own his own creation." And
 second, Fox "wanted ten thousand dollars as a licensing fee for us to use
 this four-point-five seconds of . . . entirely unsolicited Simpsons which
@@ -5123,7 +5115,7 @@ episodes, rent a movie theater, and charge for tickets to come see "My
 Favorite  Simpsons," then you need to get permission from the 
 		copyright
 owner. And the copyright owner (rightly, in my view) can charge
-whatever she wants--$10 or $1,000,000. That's her right, as set by
+whatever she wants&mdash;$10 or $1,000,000. That's her right, as set by
 the law.
 </para>
 <para>
@@ -5136,7 +5128,7 @@ F. Patry, "Fair Use and Statutory Reform in the Wake of Eldred " (draft on
 file with author), University of Chicago Law School, 5 August 2003.
 </para></footnote>
 Else's use of just 4.5 seconds of an indirect shot
-of a Simpsons episode is clearly a fair use of The Simpsons--and fair use
+of a Simpsons episode is clearly a fair use of The Simpsons&mdash;and fair use
 does not require the permission of anyone.
 </para>
 <para>
@@ -5229,7 +5221,7 @@ entertainment in anticipation of the power of networks.
 </para>
 <para>
 Alben had a special interest in new technology. He was intrigued by
-the emerging market for CD-ROM technology--not to distribute
+the emerging market for CD-ROM technology&mdash;not to distribute
 film, but to do things with film that otherwise would be very difficult.
 In 1993, he launched an initiative to develop a product to build 
 		retrospectives
@@ -5274,7 +5266,7 @@ else that we want to use in these film clips." Slade said, "Great! Go
 for it."<footnote><para>
 <!-- f1 -->
 Technically, the rights that Alben had to clear were mainly those of 
-		publicity--rights
+		publicity&mdash;rights
 an artist has to control the commercial exploitation of his 
 		image.
 But these rights, too, burden "Rip, Mix, Burn" creativity, as this chapter
@@ -5297,7 +5289,7 @@ tale, Alben recounted just what they did:
 <para>
 So we very mechanically went about looking up the film clips.
 We made some artistic decisions about what film clips to 
-		include--of
+		include&mdash;of
 course we were going to use the "Make my day" clip
 from Dirty Harry. But you then need to get the guy on the ground
 who's wiggling under the gun and you need to get his 
@@ -5312,15 +5304,15 @@ We decided that it would be fair if we offered them the
 rate for the right to reuse that performance. We're talking
 about a clip of less than a minute, but to reuse that performance
 in the CD-ROM the rate at the time was about $600.
-So we had to identify the people--some of them were hard to
+So we had to identify the people&mdash;some of them were hard to
 identify because in Eastwood movies you can't tell who's the guy
-crashing through the glass--is it the actor or is it the stuntman?
+crashing through the glass&mdash;is it the actor or is it the stuntman?
 And then we just, we put together a team, my assistant and some
 others, and we just started calling people.
 </para>
 </blockquote>
 <para>
-Some actors were glad to help--Donald Sutherland, for example,
+Some actors were glad to help&mdash;Donald Sutherland, for example,
 followed up himself to be sure that the rights had been cleared.
 Others were dumbfounded at their good fortune. Alben would ask,
 "Hey, can I pay you $600 or maybe if you were in two films, you
@@ -5331,7 +5323,7 @@ cleared the rights to this retrospective CD-ROM on Clint Eastwood's
 career.
 </para>
 <para>
-It was one year later--"and even then we weren't sure whether we
+It was one year later&mdash;"and even then we weren't sure whether we
 were totally in the clear."
 </para>
 <para>
@@ -5401,9 +5393,9 @@ process could be made to be more clean?
 <blockquote>
 <para>
 Absolutely. I think that if there were some fair-licensing 
-		mechanism--where
+		mechanism&mdash;where
 you weren't subject to hold-ups and you weren't
-subject to estranged former spouses--you'd see a lot more of this
+subject to estranged former spouses&mdash;you'd see a lot more of this
 work, because it wouldn't be so daunting to try to put together a
 <!-- PAGE BREAK 115 -->
 retrospective of someone's career and meaningfully illustrate it
@@ -5487,7 +5479,7 @@ legally.
 <para>
 We live in a "cut and paste" culture enabled by technology. Anyone
 building a presentation knows the extraordinary freedom that the cut
-and paste architecture of the Internet created--in a second you can
+and paste architecture of the Internet created&mdash;in a second you can
 find just about any image you want; in another second, you can have it
 planted in your presentation.
 </para>
@@ -5542,9 +5534,9 @@ Austin Powers. According to the announcement, Myers and
 	Dream-Works
 would work together to form a "unique filmmaking pact." Under
 the agreement, DreamWorks "will acquire the rights to existing motion
-picture hits and classics, write new storylines and--with the use of 
+picture hits and classics, write new storylines and&mdash;with the use of 
 		stateof-the-art
-digital technology--insert Myers and other actors into the
+digital technology&mdash;insert Myers and other actors into the
 film, thereby creating an entirely new piece of entertainment."
 </para>
 <para>
@@ -5567,7 +5559,7 @@ under copyright, the real meaning of the DreamWorks
 is just this: It is Mike Myers and only Mike Myers who is
 free to sample. Any general freedom to build upon the film archive of
 our culture, a freedom in other contexts presumed for us all, is now a
-privilege reserved for the funny and famous--and presumably rich.
+privilege reserved for the funny and famous&mdash;and presumably rich.
 </para>
 <para>
 This privilege becomes reserved for two sorts of reasons. The first
@@ -5579,7 +5571,7 @@ legal rights for the creative reuse of content are astronomically high.
 These costs mirror the costs with fair use: You either pay a lawyer to
 defend your fair use rights or pay a lawyer to track down permissions
 so you don't have to rely upon fair use rights. Either way, the creative
-process is a process of paying lawyers--again a privilege, or perhaps a
+process is a process of paying lawyers&mdash;again a privilege, or perhaps a
 curse, reserved for the few.
 </para>
 <!-- PAGE BREAK 119 -->
@@ -5587,8 +5579,8 @@ curse, reserved for the few.
 <sect1 id="collectors">
 <title>CHAPTER NINE: Collectors</title>
 <para>
-In April 1996, millions of "bots"--computer codes designed to
-"spider," or automatically search the Internet and copy content--began
+In April 1996, millions of "bots"&mdash;computer codes designed to
+"spider," or automatically search the Internet and copy content&mdash;began
 running across the Net. Page by page, these bots copied Internet-based
 information onto a small set of computers located in a basement in San
 Francisco's Presidio. Once the bots finished the whole of the Internet,
@@ -5622,7 +5614,7 @@ It's the same with the Internet. If you go to a Web page today,
 there's no way for you to know whether the content you are reading is
 the same as the content you read before. The page may seem the same,
 but the content could easily be different. The Internet is Orwell's 
-		library--constantly
+		library&mdash;constantly
 updated, without any reliable memory.
 </para>
 <para>
@@ -5649,7 +5641,7 @@ of your hometown newspaper to the race riots in Watts in 1965,
 or to Bull Connor's water cannon in 1963, you could go to your public
 library and look at the newspapers. Those papers probably exist on
 microfiche. If you're lucky, they exist in paper, too. Either way, you
-are free, using a library, to go back and remember--not just what it is
+are free, using a library, to go back and remember&mdash;not just what it is
 convenient to remember, but remember something close to the truth.
 </para>
 <para>
@@ -5673,7 +5665,7 @@ in forming and reforming society, it becomes more and more
 	important
 to maintain in some historical form. It's just bizarre to think that
 we have scads of archives of newspapers from tiny towns around the
-world, yet there is but one copy of the Internet--the one kept by the 
+world, yet there is but one copy of the Internet&mdash;the one kept by the 
 		Internet
 Archive.
 </para>
@@ -5693,7 +5685,7 @@ pages, and it was growing at about a billion pages a month.
 <para>
 The Way Back Machine is the largest archive of human knowledge
 in human history. At the end of 2002, it held "two hundred and thirty
-terabytes of material"--and was "ten times larger than the Library of
+terabytes of material"&mdash;and was "ten times larger than the Library of
 Congress." And this was just the first of the archives that Kahle set
 out to build. In addition to the Internet Archive, Kahle has been 
 		constructing
@@ -5703,7 +5695,7 @@ was constructed through television, only a tiny proportion of that
 		culture
 is available for anyone to see today. Three hours of news are 
 		recorded
-each evening by Vanderbilt University--thanks to a specific
+each evening by Vanderbilt University&mdash;thanks to a specific
 exemption in the copyright law. That content is indexed, and is available
 to scholars for a very low fee. "But other than that, [television] is almost
 unavailable," Kahle told me. "If you were Barbara Walters you could get
@@ -5747,10 +5739,10 @@ These rules applied to film as well. But in 1915, the Library of
 		Congress
 made an exception for film. Film could be copyrighted so long
 as such deposits were made. But the filmmaker was then allowed to
-borrow back the deposits--for an unlimited time at no cost. In 1915
+borrow back the deposits&mdash;for an unlimited time at no cost. In 1915
 alone, there were more than 5,475 films deposited and "borrowed back."
 Thus, when the copyrights to films expire, there is no copy held by any
-library. The copy exists--if it exists at all--in the library archive of the
+library. The copy exists&mdash;if it exists at all&mdash;in the library archive of the
 film company.<footnote><para>
 <!-- f2  -->
 Doug Herrick, "Toward a National Film Collection: Motion Pictures at the
@@ -5762,7 +5754,7 @@ States ( Jefferson, N.C.: McFarland &amp; Co., 1992), 36.
 </para>
 <para>
 The same is generally true about television. Television broadcasts
-were originally not copyrighted--there was no way to capture the
+were originally not copyrighted&mdash;there was no way to capture the
 broadcasts, so there was no fear of "theft." But as technology enabled
 capturing, broadcasters relied increasingly upon the law. The law 
 		required
@@ -5803,7 +5795,7 @@ Either way, the archive enabled access to this important part of our
 		culture.
 Want to see a copy of the "Duck and Cover" film that instructed
 children how to save themselves in the middle of nuclear attack? Go to
-archive.org, and you can download the film in a few minutes--for free.
+archive.org, and you can download the film in a few minutes&mdash;for free.
 </para>
 <para>
 Here again, Kahle is providing access to a part of our culture that
@@ -5819,7 +5811,7 @@ aim is to ensure competition in access to this important part of our
 		culture.
 Not during the commercial life of a bit of creative property, but 
 		during
-a second life that all creative property has--a noncommercial life.
+a second life that all creative property has&mdash;a noncommercial life.
 </para>
 <para>
 For here is an idea that we should more clearly recognize. Every bit
@@ -5867,7 +5859,7 @@ Yet increasingly, any assumption about a stable second life for
 		creative
 property does not hold true with the most important components
 of popular culture in the twentieth and twenty-first centuries. For
-these--television, movies, music, radio, the Internet--there is no 
+these&mdash;television, movies, music, radio, the Internet&mdash;there is no 
 		guarantee
 of a second life. For these sorts of culture, it is as if we've replaced
 libraries with Barnes &amp; Noble superstores. With this culture, what's
@@ -5934,7 +5926,7 @@ perpetually available. Some will draw upon it to understand it;
 <!-- PAGE BREAK 126 -->
 some to criticize it. Some will use it, as Walt Disney did, to re-create
 the past for the future. These technologies promise something that had
-become unimaginable for much of our past--a future for our past. The
+become unimaginable for much of our past&mdash;a future for our past. The
 technology of digital arts could make the dream of the Library of
 Alexandria real again.
 </para>
@@ -5955,7 +5947,7 @@ Kahle and others would exercise.
 Jack Valenti has been the president of the Motion Picture 
 		Association
 of America since 1966. He first came to Washington, D.C.,
-with Lyndon Johnson's administration--literally. The famous picture
+with Lyndon Johnson's administration&mdash;literally. The famous picture
 of Johnson's swearing-in on Air Force One after the assassination of
 President Kennedy has Valenti in the background. In his almost forty
 years of running the MPAA, Valenti has established himself as perhaps
@@ -5983,7 +5975,7 @@ Valenti is only the third president of the MPAA. No president
 before him has had as much influence over that organization, or over
 Washington. As a Texan, Valenti has mastered the single most 
 		important
-political skill of a Southerner--the ability to appear simple and
+political skill of a Southerner&mdash;the ability to appear simple and
 slow while hiding a lightning-fast intellect. To this day, Valenti plays
 the simple, humble man. But this Harvard MBA, and author of four
 books, who finished high school at the age of fifteen and flew more
@@ -6113,8 +6105,8 @@ Constitution itself.
 <para>
 The framers of our Constitution loved "property." Indeed, so
 strongly did they love property that they built into the Constitution an
-important requirement. If the government takes your property--if it
-condemns your house, or acquires a slice of land from your farm--it is
+important requirement. If the government takes your property&mdash;if it
+condemns your house, or acquires a slice of land from your farm&mdash;it is
 required, under the Fifth Amendment's "Takings Clause," to pay you
 "just compensation" for that taking. The Constitution thus guarantees
 that property is, in a certain sense, sacred. It cannot ever be taken from
@@ -6202,7 +6194,7 @@ group that is the target of regulation, or the holder of a right. (In each
 case throughout, we can describe this either as regulation or as a right.
 For simplicity's sake, I will speak only of regulations.) The ovals 
 		represent
-four ways in which the individual or group might be regulated--
+four ways in which the individual or group might be regulated&mdash;
 either constrained or, alternatively, enabled. Law is the most obvious
 constraint (to lawyers, at least). It constrains by threatening 
 		punishments
@@ -6215,46 +6207,40 @@ with a $150,000 fine. The fine is an ex post punishment for violating
 an ex ante rule. It is imposed by the state.
 </para>
 <para>
-Norms are a different kind of constraint. They, too, punish an 
-		individual
-for violating a rule. But the punishment of a norm is imposed by
-a community, not (or not only) by the state. There may be no law
-against spitting, but that doesn't mean you won't be punished if you
-spit on the ground while standing in line at a movie. The punishment
-might not be harsh, though depending upon the community, it could
-easily be more harsh than many of the punishments imposed by the
-state. The mark of the difference is not the severity of the rule, but the
-source of the enforcement.
+Norms are a different kind of constraint. They, too, punish an
+individual for violating a rule. But the punishment of a norm is
+imposed by a community, not (or not only) by the state. There may be
+no law against spitting, but that doesn't mean you won't be punished
+if you spit on the ground while standing in line at a movie. The
+punishment might not be harsh, though depending upon the community, it
+could easily be more harsh than many of the punishments imposed by the
+state. The mark of the difference is not the severity of the rule, but
+the source of the enforcement.
 </para>
 <para>
 The market is a third type of constraint. Its constraint is effected
-through conditions: You can do X if you pay Y; you'll be paid M if
-you do N. These constraints are obviously not independent of law or
-norms--it is property law that defines what must be bought if it is to be
-taken legally; it is norms that say what is appropriately sold. But given a
-set of norms, and a background of property and contract law, the 
-		market
-imposes a simultaneous constraint upon how an individual or group
-might behave.
+through conditions: You can do X if you pay Y; you'll be paid M if you
+do N. These constraints are obviously not independent of law or
+norms&mdash;it is property law that defines what must be bought if it is to
+be taken legally; it is norms that say what is appropriately sold. But
+given a set of norms, and a background of property and contract law,
+the market imposes a simultaneous constraint upon how an individual or
+group might behave.
 </para>
 <para>
-Finally, and for the moment, perhaps, most mysteriously, 
-		"architecture"--the
-physical world as one finds it--is a constraint on 
-		behavior.
-A fallen bridge might constrain your ability to get across a
-river. Railroad tracks might constrain the ability of a community to
-integrate its social life. As with the market, architecture does not 
-		effect
-its constraint through ex post punishments. Instead, also as with
-the market, architecture effects its constraint through simultaneous
-conditions. These conditions are imposed not by courts enforcing 
-		contracts,
-or by police punishing theft, but by nature, by "architecture."
-If a 500-pound boulder blocks your way, it is the law of gravity that
-enforces this constraint. If a $500 airplane ticket stands between
-you and a flight to New York, it is the market that enforces this 
-		constraint.
+Finally, and for the moment, perhaps, most mysteriously,
+"architecture"&mdash;the physical world as one finds it&mdash;is a constraint on
+behavior.  A fallen bridge might constrain your ability to get across
+a river. Railroad tracks might constrain the ability of a community to
+integrate its social life. As with the market, architecture does not
+effect its constraint through ex post punishments. Instead, also as
+with the market, architecture effects its constraint through
+simultaneous conditions. These conditions are imposed not by courts
+enforcing contracts, or by police punishing theft, but by nature, by
+"architecture."  If a 500-pound boulder blocks your way, it is the law
+of gravity that enforces this constraint. If a $500 airplane ticket
+stands between you and a flight to New York, it is the market that
+enforces this constraint.
 </para>
 <para>
 
@@ -6315,8 +6301,8 @@ mandate more speed bumps, so as to increase the difficulty of driving
 rapidly. The law might be used to fund ads that stigmatize reckless
 driving. Or the law might be used to require that other laws be more
 <!-- PAGE BREAK 135 -->
-strict--a federal requirement that states decrease the speed limit, for
-example--so as to decrease the attractiveness of fast driving.
+strict&mdash;a federal requirement that states decrease the speed limit, for
+example&mdash;so as to decrease the attractiveness of fast driving.
 </para>
 <figure id="fig-1361">
 <title>Law has a special role in affecting the three.</title>
@@ -6388,7 +6374,7 @@ on those who copy and share content. Those penalties are reinforced by
 technologies that make it hard to copy and share content (architecture)
 and expensive to copy and share content (market). Finally, those 
 		penalties
-are mitigated by norms we all recognize--kids, for example, taping
+are mitigated by norms we all recognize&mdash;kids, for example, taping
 other kids' records. These uses of copyrighted material may well be 
 		infringement,
 but the norms of our society (before the Internet, at least)
@@ -6435,7 +6421,7 @@ code to protect copyrighted material, and (4) educators should educate
 kids to better protect copyright.
 </para>
 <para>
-This mixed strategy is just what copyright needed--if it was to 
+This mixed strategy is just what copyright needed&mdash;if it was to 
 		preserve
 the particular balance that existed before the change induced by
 the Internet. And it's just what we should expect the content industry
@@ -6535,8 +6521,8 @@ are changes that preserve the incentives and opportunities for
 and change.
 </para>
 <para>
-In the context of laws regulating speech--which include, obviously,
-copyright law--that duty is even stronger. When the industry 
+In the context of laws regulating speech&mdash;which include, obviously,
+copyright law&mdash;that duty is even stronger. When the industry 
 		complaining
 about changing technologies is asking Congress to respond in
 a way that burdens speech and creativity, policy makers should be 
@@ -6546,8 +6532,8 @@ to get into the business of regulating speech markets. The risks and
 dangers of that game are precisely why our framers created the First
 Amendment to our Constitution: "Congress shall make no law . . .
 abridging the freedom of speech." So when Congress is being asked to
-pass laws that would "abridge" the freedom of speech, it should ask--
-carefully--whether such regulation is justified.
+pass laws that would "abridge" the freedom of speech, it should ask&mdash;
+carefully&mdash;whether such regulation is justified.
 </para>
 <para>
 My argument just now, however, has nothing to do with whether
@@ -6684,7 +6670,7 @@ short. To prevent the concentrated power of a church, they banned the
 federal government from establishing a church. To prevent 
 		concentrating
 power in the federal government, they built structures to reinforce
-the power of the states--including the Senate, whose members were
+the power of the states&mdash;including the Senate, whose members were
 at the time selected by the states, and an electoral college, also selected
 by the states, to select the president. In each case, a structure built
 checks and balances into the constitutional frame, structured to 
@@ -6836,8 +6822,8 @@ When that happens, the used books are
 traded free of copyright regulation. Thus the books are no longer 
 		effectively
 controlled by copyright. The only practical commercial use of the
-books at that time is to sell the books as used books; that use--because
-it does not involve publication--is effectively free.
+books at that time is to sell the books as used books; that use&mdash;because
+it does not involve publication&mdash;is effectively free.
 </para>
 <para>
 In the first hundred years of the Republic, the term of copyright
@@ -6883,7 +6869,7 @@ value.
 </para>
 <para>
 The United States abandoned this sensible system in 1976. For
-all works created after 1978, there was only one copyright term--the
+all works created after 1978, there was only one copyright term&mdash;the
 maximum term. For "natural" authors, that term was life plus fifty
 years. For corporations, the term was seventy-five years. Then, in 1992,
 Congress abandoned the renewal requirement for all works created
@@ -6982,7 +6968,7 @@ first ten years of the Republic, 95 percent of works eligible for
 were never copyrighted. Thus, the rule reflected the norm: Most
 works apparently didn't need copyright, so registration narrowed the
 regulation of the law to the few that did. The same reasoning justified
-the requirement that a work be marked as copyrighted--that way it
+the requirement that a work be marked as copyrighted&mdash;that way it
 was easy to know whether a copyright was being claimed. The 
 		requirement
 that works be deposited was to assure that after the copyright 
@@ -7021,7 +7007,7 @@ Copyright Records, 1790­1800 (U.S. G.P.O., 1987).
 </para></footnote>
 The Copyright Act was thus a tiny
 regulation of a tiny proportion of a tiny part of the creative market in
-the United States--publishers.
+the United States&mdash;publishers.
 </para>
 <para>
 <!-- PAGE BREAK 149 -->
@@ -7039,7 +7025,7 @@ Today the story is very different: If you write a book, your book is
 automatically protected. Indeed, not just your book. Every e-mail,
 every note to your spouse, every doodle, every creative act that's 
 		reduced
-to a tangible form--all of this is automatically copyrighted.
+to a tangible form&mdash;all of this is automatically copyrighted.
 There is no need to register or mark your work. The protection follows
 the creation, not the steps you take to protect it.
 </para>
@@ -7077,12 +7063,12 @@ those slight modifications as well as the verbatim original work.
 
 <!-- PAGE BREAK 150 -->
 In preventing that joke, the law created an astonishing power within
-a free culture--at least, it's astonishing when you understand that the
+a free culture&mdash;at least, it's astonishing when you understand that the
 law applies not just to the commercial publisher but to anyone with a
 computer. I understand the wrong in duplicating and selling someone
 else's work. But whatever that wrong is, transforming someone else's
 work is a different wrong. Some view transformation as no wrong at
-all--they believe that our law, as the framers penned it, should not 
+all&mdash;they believe that our law, as the framers penned it, should not 
 		protect
 derivative rights at all.<footnote><para>
 <!-- f14 -->
@@ -7137,7 +7123,7 @@ and authors. It regulates them because all three are capable of making
 copies, and the core of the regulation of copyright law is copies.<footnote><para>
 <!-- f16 -->
 This is a simplification of the law, but not much of one. The law certainly
-regulates more than "copies"--a public performance of a copyrighted
+regulates more than "copies"&mdash;a public performance of a copyrighted
 song, for example, is regulated even though performance per se doesn't
 make a copy; 17 United States Code, section 106(4). And it certainly 
 		sometimes
@@ -7244,7 +7230,7 @@ sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed "fair" regardless of the copyright owner's views.
 </para>
 <para>
-Enter the Internet--a distributed, digital network where every use
+Enter the Internet&mdash;a distributed, digital network where every use
 of a copyrighted work produces a copy.<footnote><para>
 <!-- f18 -->
 I don't mean "nature" in the sense that it couldn't be different, but rather that
@@ -7260,7 +7246,7 @@ arbitrary feature of the design of a digital network, the scope of
 are now presumptively regulated. No longer is there a set of
 presumptively unregulated uses that define a freedom associated with a
 copyrighted work. Instead, each use is now subject to the copyright,
-because each use also makes a copy--category 1 gets sucked into 
+because each use also makes a copy&mdash;category 1 gets sucked into 
 		category
 2. And those who would defend the unregulated uses of 
 		copyrighted
@@ -7275,7 +7261,7 @@ make to control that use of her book. Copyright law would have
 		nothing
 to say about whether you read the book once, ten times, or every
 <!-- PAGE BREAK 155 -->
-night before you went to bed. None of those instances of use--reading--
+night before you went to bed. None of those instances of use&mdash;reading&mdash;
 could be regulated by copyright law because none of those uses 
 		produced
 a copy.
@@ -7345,7 +7331,7 @@ before because reading was not regulated.
 This point about fair use is totally ignored, even by advocates for
 free culture. We have been cornered into arguing that our rights 
 		depend
-upon fair use--never even addressing the earlier question about
+upon fair use&mdash;never even addressing the earlier question about
 the expansion in effective regulation. A thin protection grounded in
 fair use makes sense when the vast majority of uses are unregulated. But
 when everything becomes presumptively regulated, then the 
@@ -7378,7 +7364,7 @@ that it intended to distribute the trailers through the Internet
 (rather than sending the tapes) to distributors of their videos. Two
 years later, Disney told Video Pipeline to stop. The owner of Video
 <!-- PAGE BREAK 157 -->
-Pipeline asked Disney to talk about the matter--he had built a
+Pipeline asked Disney to talk about the matter&mdash;he had built a
 	business
 on distributing this content as a way to help sell Disney films; he
 had customers who depended upon his delivering this content. Disney
@@ -7389,7 +7375,7 @@ to distribute the clips as they had. So they filed a lawsuit to ask the
 court to declare that these rights were in fact their rights.
 </para>
 <para>
-Disney countersued--for $100 million in damages. Those damages
+Disney countersued&mdash;for $100 million in damages. Those damages
 were predicated upon a claim that Video Pipeline had "willfully 
 		infringed"
 on Disney's copyright. When a court makes a finding of 
@@ -7593,10 +7579,10 @@ original e-book version of my last book, The Future of Ideas:
 No copying, no printing, and don't you dare try to listen to this book!
 </para>
 <para>
-Now, the Adobe eBook Reader calls these controls "permissions"--
+Now, the Adobe eBook Reader calls these controls "permissions"&mdash;
 as if the publisher has the power to control how you use these works.
 For works under copyright, the copyright owner certainly does have
-the power--up to the limits of the copyright law. But for work not 
+the power&mdash;up to the limits of the copyright law. But for work not 
 		under
 copyright, there is no such copyright power.<footnote><para>
 <!-- f21 -->
@@ -7615,7 +7601,7 @@ eBook Reader has enabled the publisher to control how I use the book
 on my computer, far beyond the control that the law would enable.
 </para>
 <para>
-The control comes instead from the code--from the technology
+The control comes instead from the code&mdash;from the technology
 within which the e-book "lives." Though the e-book says that these are
 permissions, they are not the sort of "permissions" that most of us deal
 with. When a teenager gets "permission" to stay out till midnight, she
@@ -7627,7 +7613,7 @@ computer will not make any more. The same with the printing
 		restrictions:
 After ten pages, the eBook Reader will not print any more pages.
 It's the same with the silly restriction that says that you can't use the
-Read Aloud button to read my book aloud--it's not that the company
+Read Aloud button to read my book aloud&mdash;it's not that the company
 will sue you if you do; instead, if you push the Read Aloud button with
 my book, the machine simply won't read aloud.
 </para>
@@ -7786,7 +7772,7 @@ thought, What possible problem could there be with teaching a robot dog to
 dance?
 </para>
 <para>
-Let's put the dog to sleep for a minute, and turn to a pony show--
+Let's put the dog to sleep for a minute, and turn to a pony show&mdash;
 not literally a pony show, but rather a paper that a Princeton academic
 named Ed Felten prepared for a conference. This Princeton academic
 is well known and respected. He was hired by the government in the
@@ -7903,7 +7889,7 @@ spreading such information an offense.
 The DMCA was enacted as a response to copyright owners' first fear
 about cyberspace. The fear was that copyright control was effectively
 dead; the response was to find technologies that might compensate.
-These new technologies would be copyright protection technologies--
+These new technologies would be copyright protection technologies&mdash;
 technologies to control the replication and distribution of copyrighted
 material. They were designed as code to modify the original code of the
 Internet, to reestablish some protection for copyright owners.
@@ -8005,10 +7991,10 @@ The anticircumvention provisions of the DMCA target copyright
 circumvention technologies. Circumvention technologies can be used
 for different ends. They can be used, for example, to enable massive 
 		pirating
-of copyrighted material--a bad end. Or they can be used to 
+of copyrighted material&mdash;a bad end. Or they can be used to 
 		enable
 the use of particular copyrighted materials in ways that would be
-considered fair use--a good end.
+considered fair use&mdash;a good end.
 </para>
 <para>
 A handgun can be used to shoot a police officer or a child. Most
@@ -8042,11 +8028,11 @@ erased; the law of the DMCA backs up that erasing.
 <para>
 This is how code becomes law. The controls built into the technology
 of copy and access protection become rules the violation of which is also
-a violation of the law. In this way, the code extends the law--increasing its
+a violation of the law. In this way, the code extends the law&mdash;increasing its
 regulation, even if the subject it regulates (activities that would otherwise
 plainly constitute fair use) is beyond the reach of the law. Code becomes
 law; code extends the law; code thus extends the control that copyright
-owners effect--at least for those copyright holders with the lawyers
+owners effect&mdash;at least for those copyright holders with the lawyers
 who can write the nasty letters that Felten and aibopet.com received.
 </para>
 <para>
@@ -8112,8 +8098,8 @@ transmitted. That is, in effect, what is happening here.
 <sect2 id="marketconcentration">
 <title>Market: Concentration</title>
 <para>
-So copyright's duration has increased dramatically--tripled in the past
-thirty years. And copyright's scope has increased as well--from 
+So copyright's duration has increased dramatically&mdash;tripled in the past
+thirty years. And copyright's scope has increased as well&mdash;from 
 		regulating
 only publishers to now regulating just about everyone. And
 copyright's reach has changed, as every action becomes a copy and
@@ -8200,7 +8186,7 @@ nation's circulation. There are twenty major newspaper publishers in
 the United States. The top ten film studios receive 99 percent of all
 film revenue. The ten largest cable companies account for 85 percent of
 all cable revenue. This is a market far from the free press the framers
-sought to protect. Indeed, it is a market that is quite well protected--
+sought to protect. Indeed, it is a market that is quite well protected&mdash;
 by the market.
 </para>
 <para>
@@ -8212,11 +8198,11 @@ put it in a recent article about Rupert Murdoch,
 <para>
 Murdoch's companies now constitute a production system 
 		unmatched
-in its integration. They supply content--Fox movies . . .
+in its integration. They supply content&mdash;Fox movies . . .
 Fox TV shows . . . Fox-controlled sports broadcasts, plus 
 		newspapers
 and books. They sell the content to the public and to 
-		advertisers--in
+		advertisers&mdash;in
 newspapers, on the broadcast network, on the cable
 channels. And they operate the physical distribution system
 through which the content reaches the customers. Murdoch's
@@ -8289,8 +8275,8 @@ law required a separation between the networks and the content
 		producers;
 that separation would guarantee Lear freedom. And as late as
 1992, because of these rules, the vast majority of prime time 
-		television--75
-percent of it--was "independent" of the networks.
+		television&mdash;75
+percent of it&mdash;was "independent" of the networks.
 </para>
 <para>
 In 1994, the FCC abandoned the rules that required this 
@@ -8364,7 +8350,7 @@ networks like this is increasingly tailored to the message the network
 wants to convey. This is not the communist party, though from the 
 		inside,
 it must feel a bit like the communist party. No one can question
-without risk of consequence--not necessarily banishment to Siberia,
+without risk of consequence&mdash;not necessarily banishment to Siberia,
 but punishment nonetheless. Independent, critical, different views are
 quashed. This is not the environment for a democracy.
 </para>
@@ -8384,7 +8370,7 @@ first suggested by Dean Kim Clark. See Kim B. Clark, "The Interaction of
 Design Hierarchies and Market Concepts in Technological Evolution,"
 Research Policy 14 (1985): 235­51. For a more recent study, see Richard
 Foster and Sarah Kaplan, Creative Destruction: Why Companies That Are
-Built to Last Underperform the Market--and How to Successfully Transform
+Built to Last Underperform the Market&mdash;and How to Successfully Transform
 Them (New York: Currency/Doubleday, 2001).
 </para></footnote>
 
@@ -8413,7 +8399,7 @@ any position in government by saying I believe this war is a profound
 mistake. I am not pro drugs. Indeed, I come from a family once
 
 <!-- PAGE BREAK 178 -->
-wrecked by drugs--though the drugs that wrecked my family were all
+wrecked by drugs&mdash;though the drugs that wrecked my family were all
 quite legal. I believe this war is a profound mistake because the 
 		collateral
 damage from it is so great as to make waging the war insane.
@@ -8510,7 +8496,7 @@ that the criticism was "too controversial."
 </para></footnote>
 </para>
 <para>
-I'd be happy to defend the networks' rights, as well--if we lived in
+I'd be happy to defend the networks' rights, as well&mdash;if we lived in
 a media market that was truly diverse. But concentration in the media
 throws that condition into doubt. If a handful of companies control 
 		access
@@ -8533,11 +8519,11 @@ the abstract, it is obviously true and, ordinarily, totally harmless. No
 sane sort who is not an anarchist could disagree.
 </para>
 <para>
-But when we see how dramatically this "property" has changed--
+But when we see how dramatically this "property" has changed&mdash;
 when we recognize how it might now interact with both technology
 and markets to mean that the effective constraint on the liberty to 
 		cultivate
-our culture is dramatically different--the claim begins to seem
+our culture is dramatically different&mdash;the claim begins to seem
 
 <!-- PAGE BREAK 180 -->
 less innocent and obvious. Given (1) the power of technology to 
@@ -8567,7 +8553,7 @@ is called for. Not an adjustment that increases copyright's
 power. Not an adjustment that increases its term. Rather, an 
 		adjustment
 to restore the balance that has traditionally defined copyright's
-regulation--a weakening of that regulation, to strengthen creativity.
+regulation&mdash;a weakening of that regulation, to strengthen creativity.
 </para>
 <para>
 Copyright law has not been a rock of Gibraltar. It's not a set of 
@@ -8605,8 +8591,8 @@ then, newspapers, film studios, radio stations, and publishers were
 		independent
 of the networks. Never has copyright protected such a wide
 range of rights, against as broad a range of actors, for a term that was
-remotely as long. This form of regulation--a tiny regulation of a tiny
-part of the creative energy of a nation at the founding--is now a 
+remotely as long. This form of regulation&mdash;a tiny regulation of a tiny
+part of the creative energy of a nation at the founding&mdash;is now a 
 		massive
 regulation of the overall creative process. Law plus technology plus
 the market now interact to turn this historically benign regulation into
@@ -8694,7 +8680,7 @@ By the end of the nineteenth century, the law had changed to this:
 </table>
 
 <para>
-Derivative works were now regulated by copyright law--if 
+Derivative works were now regulated by copyright law&mdash;if 
 		published,
 which again, given the economics of publishing at the time,
 means if offered commercially. But noncommercial publishing and
@@ -8773,9 +8759,9 @@ means that the law now looks like this:
 <para>
 Every realm is governed by copyright law, whereas before most 
 		creativity
-was not. The law now regulates the full range of creativity--
+was not. The law now regulates the full range of creativity&mdash;
 <!-- PAGE BREAK 183 -->
-commercial or not, transformative or not--with the same rules designed
+commercial or not, transformative or not&mdash;with the same rules designed
 to regulate commercial publishers.
 </para>
 <para>
@@ -8926,7 +8912,7 @@ such a way as to affect his brain."
 <para>
 The doctor continues: "I think I may say with reasonable certainty
 that in order to cure him completely, all that we need to do is a simple
-and easy surgical operation--namely, to remove these irritant bodies
+and easy surgical operation&mdash;namely, to remove these irritant bodies
 [the eyes]."
 </para>
 <para>
@@ -8962,7 +8948,7 @@ unfairly enough, "the copyright wars," the more I think we're dealing
 with a chimera. For example, in the battle over the question "What is
 p2p file sharing?" both sides have it right, and both sides have it wrong.
 One side says, "File sharing is just like two kids taping each others'
-records--the sort of thing we've been doing for the last thirty years
+records&mdash;the sort of thing we've been doing for the last thirty years
 without any question at all." That's true, at least in part. When I tell my
 best friend to try out a new CD that I've bought, but rather than just
 send the CD, I point him to my p2p server, that is, in all relevant 
@@ -9005,7 +8991,7 @@ for $1,500,000 in damages.)
 </para>
 <para>
 The point is not that it is as neither side describes. The point is that
-it is both--both as the RIAA describes it and as Kazaa describes it. It
+it is both&mdash;both as the RIAA describes it and as Kazaa describes it. It
 is a chimera. And rather than simply denying what the other side 
 		asserts,
 we need to begin to think about how we should respond to this
@@ -9204,7 +9190,7 @@ clip. You could write an essay about the inconsistencies in the
 		arguments
 of the politician you most love to hate, or you could make a short
 film that puts statement against statement. You could write a poem to
-express your love, or you could weave together a string--a mash-up--
+express your love, or you could weave together a string&mdash;a mash-up&mdash;
 of songs from your favorite artists in a collage and make it available on
 the Net.
 </para>
@@ -9252,10 +9238,10 @@ the same time, the penalties for crossing the line are astonishingly harsh.
 The four students who were threatened by the RIAA ( Jesse Jordan of
 chapter 3 was just one) were threatened with a $98 billion lawsuit for
 building search engines that permitted songs to be copied. Yet
-	World-Com--which
+	World-Com&mdash;which
 defrauded investors of $11 billion, resulting in a loss to 
 		investors
-in market capitalization of over $200 billion--received a fine of a
+in market capitalization of over $200 billion&mdash;received a fine of a
 mere $750 million.<footnote><para>
 <!-- f1. --> See Lynne W. Jeter, Disconnected: Deceit and Betrayal at WorldCom 
 		(Hoboken,
@@ -9299,7 +9285,7 @@ be unclear. It never pays to do anything except pay for the right to
 and hence only those who can pay are allowed to create. As was the
 case in the Soviet Union, though for very different reasons, we will 
 		begin
-to see a world of underground art--not because the message is 
+to see a world of underground art&mdash;not because the message is 
 		necessarily
 political, or because the subject is controversial, but because the
 very act of creating the art is legally fraught. Already, exhibits of 
@@ -9350,7 +9336,7 @@ law regulates such a use.
 <!-- PAGE BREAK 196 -->
 But fair use in America simply means the right to hire a lawyer to
 defend your right to create. And as lawyers love to forget, our system
-for defending rights such as fair use is astonishingly bad--in practically
+for defending rights such as fair use is astonishingly bad&mdash;in practically
 every context, but especially here. It costs too much, it delivers too
 slowly, and what it delivers often has little connection to the justice 
 		underlying
@@ -9366,7 +9352,7 @@ Judges and lawyers can tell themselves that fair use provides
 the law should allow. But it is a measure of how out of touch our legal
 system has become that anyone actually believes this. The rules that
 publishers impose upon writers, the rules that film distributors impose
-upon filmmakers, the rules that newspapers impose upon journalists--
+upon filmmakers, the rules that newspapers impose upon journalists&mdash;
 these are the real laws governing creativity. And these rules have little
 relationship to the "law" with which judges comfort themselves.
 </para>
@@ -9376,7 +9362,7 @@ For in a world that threatens $150,000 for a single willful
 of a copyright, and which demands tens of thousands of dollars to
 even defend against a copyright infringement claim, and which would
 never return to the wrongfully accused defendant anything of the costs
-she suffered to defend her right to speak--in that world, the 
+she suffered to defend her right to speak&mdash;in that world, the 
 		astonishingly
 broad regulations that pass under the name "copyright" silence
 speech and creativity. And in that world, it takes a studied blindness for
@@ -9403,7 +9389,7 @@ of permission. That's the point at which they control it.
 <sect2 id="innovators">
 <title>Constraining Innovators</title>
 <para>
-The story of the last section was a crunchy-lefty story--creativity
+The story of the last section was a crunchy-lefty story&mdash;creativity
 quashed, artists who can't speak, yada yada yada. Maybe that doesn't
 get you going. Maybe you think there's enough weird art out there, and
 enough expression that is critical of what seems to be just about 
@@ -9425,7 +9411,7 @@ fundamental.
 <para>
 The charge I've been making about the regulation of culture is the
 same charge free marketers make about regulating markets. Everyone,
-of course, concedes that some regulation of markets is necessary--at a
+of course, concedes that some regulation of markets is necessary&mdash;at a
 minimum, we need rules of property and contract, and courts to 
 		enforce
 both. Likewise, in this culture debate, everyone concedes that at
@@ -9449,9 +9435,9 @@ only if they have the sign-off from last generation's dominant
 		industries.
 That lesson has been taught through a series of cases that were
 designed and executed to teach venture capitalists a lesson. That 
-		lesson--what
+		lesson&mdash;what
 former Napster CEO Hank Barry calls a "nuclear pall" that
-has fallen over the Valley--has been learned.
+has fallen over the Valley&mdash;has been learned.
 </para>
 <para>
 Consider one example to make the point, a story whose beginning
@@ -9486,7 +9472,7 @@ sign into an account and then insert into her computer a CD. The
 would identify the CD, and then give the user access to that 
 		content.
 So, for example, if you inserted a CD by Jill Sobule, then
-wherever you were--at work or at home--you could get access to that
+wherever you were&mdash;at work or at home&mdash;you could get access to that
 music once you signed into your account. The system was therefore a
 kind of music-lockbox.
 </para>
@@ -9596,7 +9582,7 @@ for this example.
 </para>
 </blockquote>
 <para>
-This is the world of the mafia--filled with "your money or your
+This is the world of the mafia&mdash;filled with "your money or your
 life" offers, governed in the end not by courts but by the threats that the
 law empowers copyright holders to exercise. It is a system that will 
 		obviously
@@ -9643,7 +9629,7 @@ market.
 The building of a permission culture, rather than a free culture, is
 the first important way in which the changes I have described will 
 		burden
-innovation. A permission culture means a lawyer's culture--a 
+innovation. A permission culture means a lawyer's culture&mdash;a 
 		culture
 in which the ability to create requires a call to your lawyer. Again,
 I am not antilawyer, at least when they're kept in their proper place. I
@@ -9725,7 +9711,7 @@ harm than good.
 </para>
 <para>
 There is one more obvious way in which this war has harmed 
-		innovation--again,
+		innovation&mdash;again,
 a story that will be quite familiar to the free market
 crowd.
 </para>
@@ -9802,8 +9788,8 @@ of Internet radio.
 As I described in chapter 4, when a radio station plays a song, the
 recording artist doesn't get paid for that "radio performance" unless he
 or she is also the composer. So, for example if Marilyn Monroe had
-recorded a version of "Happy Birthday"--to memorialize her famous
-performance before President Kennedy at Madison Square Garden--
+recorded a version of "Happy Birthday"&mdash;to memorialize her famous
+performance before President Kennedy at Madison Square Garden&mdash;
 then whenever that recording was played on the radio, the current 
 		copyright
 owners of "Happy Birthday" would get some money, whereas
@@ -9882,7 +9868,7 @@ the opportunity to strike off its shackles.<footnote><para>
 </para>
 </blockquote>
 <para>
-This potential for FM radio was never realized--not because 
+This potential for FM radio was never realized&mdash;not because 
 		Armstrong
 was wrong about the technology, but because he underestimated
 the power of "vested interests, habits, customs and legislation"<footnote><para>
@@ -9913,7 +9899,7 @@ terrestrial radio. While terrestrial radio does not have to pay our
 		hypothetical
 Marilyn Monroe when it plays her hypothetical recording of
 "Happy Birthday" on the air, Internet radio does. Not only is the law not
-neutral toward Internet radio--the law actually burdens Internet radio
+neutral toward Internet radio&mdash;the law actually burdens Internet radio
 more than it burdens terrestrial radio.
 </para>
 <para>
@@ -10131,7 +10117,7 @@ paying all the money in the world in damages ($250,000 in legal fees)
 led Jordan to choose to pay all the money he had in the world
 ($12,000) to make the suit go away. The same strategy animates the
 RIAA's suits against individual users. In September 2003, the RIAA
-sued 261 individuals--including a twelve-year-old girl living in public
+sued 261 individuals&mdash;including a twelve-year-old girl living in public
 housing and a seventy-year-old man who had no idea what file sharing
 was.<footnote><para>
 <!-- f16. --> Alex Pham, "The Labels Strike Back: N.Y. Girl Settles RIAA Case," Los
@@ -10197,12 +10183,12 @@ who have illegally downloaded music, illegally consumed alcohol and
 sometimes drugs, illegally worked without paying taxes, illegally driven
 cars. These are kids for whom behaving illegally is increasingly the
 norm. And then we, as law professors, are supposed to teach them how
-to behave ethically--how to say no to bribes, or keep client funds 
+to behave ethically&mdash;how to say no to bribes, or keep client funds 
 		separate,
 or honor a demand to disclose a document that will mean that
-your case is over. Generations of Americans--more significantly in
+your case is over. Generations of Americans&mdash;more significantly in
 some parts of America than in others, but still, everywhere in America
-today--can't live their lives both normally and legally, since "normally"
+today&mdash;can't live their lives both normally and legally, since "normally"
 entails a certain degree of illegality.
 </para>
 <para>
@@ -10288,7 +10274,7 @@ process at home of ripping all of my and my wife's CDs, and storing
 them in one archive. Then, using Apple's iTunes, or a wonderful 
 		program
 called Andromeda, we can build different play lists of our music:
-Bach, Baroque, Love Songs, Love Songs of Significant Others--the
+Bach, Baroque, Love Songs, Love Songs of Significant Others&mdash;the
 potential is endless. And by reducing the costs of mixing play lists,
 these technologies help build a creativity with play lists that is itself 
 		independently
@@ -10297,7 +10283,7 @@ valuable. Compilations of songs are creative and
 in their own right.
 </para>
 <para>
-This use is enabled by unprotected media--either CDs or records.
+This use is enabled by unprotected media&mdash;either CDs or records.
 But unprotected media also enable file sharing. File sharing threatens
 (or so the content industry believes) the ability of creators to earn a fair
 return from their creativity. And thus, many are beginning to 
@@ -10343,7 +10329,7 @@ the only point is the relatively uncontroversial one: If a different system
 achieved the same legitimate objectives that the existing copyright 
 		system
 achieved, but left consumers and creators much more free, then
-we'd have a very good reason to pursue this alternative--namely, 
+we'd have a very good reason to pursue this alternative&mdash;namely, 
 		freedom.
 The choice, in other words, would not be between property and
 piracy; the choice would be between different property systems and the
@@ -10460,7 +10446,7 @@ have the same "fingerprint."
 </para>
 <para>
 So  imagine the following not-implausible scenario: Imagine a
-friend gives a CD to your daughter--a collection of songs just like the
+friend gives a CD to your daughter&mdash;a collection of songs just like the
 cassettes you used to make as a kid. You don't know, and neither does
 your daughter, where these songs came from. But she copies these
 songs onto her computer. She then takes her computer to college and
@@ -10532,8 +10518,8 @@ liberties for all forty to sixty million of them.
 </blockquote>
 <para>
 When forty to sixty million Americans are considered "criminals"
-under the law, and when the law could achieve the same objective--
-securing rights to authors--without these millions being considered
+under the law, and when the law could achieve the same objective&mdash;
+securing rights to authors&mdash;without these millions being considered
 "criminals," who is the villain? Americans or the law? Which is 
 		American,
 a constant war on our own people or a concerted effort through
@@ -10556,14 +10542,14 @@ filled with gasoline. Obviously, gasoline won't put the fire out.
 </para>
 <para>
 As you ponder the mess, someone else comes along. In a panic, she
-grabs the bucket. Before you have a chance to tell her to stop--or 
+grabs the bucket. Before you have a chance to tell her to stop&mdash;or 
 		before
-she understands just why she should stop--the bucket is in the air.
+she understands just why she should stop&mdash;the bucket is in the air.
 The gasoline is about to hit the blazing car. And the fire that gasoline
 will ignite is about to ignite everything around.
 </para>
 <para>
-A war about copyright rages all around--and we're all focusing on the
+A war about copyright rages all around&mdash;and we're all focusing on the
 wrong thing. No doubt, current technologies threaten existing 
 		businesses.
 No doubt they may threaten artists. But technologies change.
@@ -10620,7 +10606,7 @@ explanatory text, would make this nineteenth-century author's work
 come alive.
 </para>
 <para>
-It didn't work--at least for his daughters. They didn't find 
+It didn't work&mdash;at least for his daughters. They didn't find 
 		Hawthorne
 any more interesting than before. But Eldred's experiment gave
 birth to a hobby, and his hobby begat a cause: Eldred would build a
@@ -10635,8 +10621,8 @@ works. Instead, Eldred was producing derivative works from these
 public domain works. Just as Disney turned Grimm into stories more
 <!-- PAGE BREAK 221 -->
 accessible to the twentieth century, Eldred transformed Hawthorne,
-and many others, into a form more accessible--technically 
-		accessible--today.
+and many others, into a form more accessible&mdash;technically 
+		accessible&mdash;today.
 </para>
 <para>
 Eldred's freedom to do this with Hawthorne's work grew from the
@@ -10667,7 +10653,7 @@ causes. But with the Internet, it includes a wide range of
 and groups dedicated to spreading culture generally.<footnote><para>
 <!-- f1. --> There's a parallel here with pornography that is a bit hard to describe, but
 it's a strong one. One phenomenon that the Internet created was a world
-of noncommercial pornographers--people who were distributing porn
+of noncommercial pornographers&mdash;people who were distributing porn
 but were not making money directly or indirectly from that distribution.
 Such a class didn't exist before the Internet came into being because the
 costs of distributing porn were so high. Yet this new class of distributors
@@ -10691,7 +10677,7 @@ domain. Eldred wanted to post that collection in his free public library.
 But Congress got in the way. As I described in chapter 10, in 1998, for
 the eleventh time in forty years, Congress extended the terms of 
 		existing
-copyrights--this time by twenty years. Eldred would not be free to
+copyrights&mdash;this time by twenty years. Eldred would not be free to
 add any works more recent than 1923 to his collection until 2019. 
 		Indeed,
 no copyrighted work would pass into the public domain until
@@ -10724,7 +10710,7 @@ Eldred decided to fight this law. He first resolved to fight it through
 civil disobedience. In a series of interviews, Eldred announced that he
 would publish as planned, CTEA notwithstanding. But because of a
 second law passed in 1998, the NET (No Electronic Theft) Act, his act
-of publishing would make Eldred a felon--whether or not anyone
+of publishing would make Eldred a felon&mdash;whether or not anyone
 complained. This was a dangerous strategy for a disabled programmer
 to undertake.
 </para>
@@ -10749,10 +10735,10 @@ their . . . Writings. . . .
 As I've described, this clause is unique within the power-granting
 clause of Article I, section 8 of our Constitution. Every other clause
 granting power to Congress simply says Congress has the power to do
-something--for example, to regulate "commerce among the several
+something&mdash;for example, to regulate "commerce among the several
 states" or "declare War." But here, the "something" is something quite 
-		specific--to
-"promote . . . Progress"--through means that are also specific--
+		specific&mdash;to
+"promote . . . Progress"&mdash;through means that are also specific&mdash;
 by "securing" "exclusive Rights" (i.e., copyrights) "for limited Times."
 </para>
 <para>
@@ -10765,7 +10751,7 @@ then the Constitution's requirement that terms be "limited" will have
 no practical effect. If every time a copyright is about to expire,
 	Congress
 has the power to extend its term, then Congress can achieve what
-the Constitution plainly forbids--perpetual terms "on the installment
+the Constitution plainly forbids&mdash;perpetual terms "on the installment
 plan," as Professor Peter Jaszi so nicely put it.
 </para>
 <para>
@@ -10787,7 +10773,7 @@ Rather, "corruption" in the sense that the system induces the
 		beneficiaries
 of Congress's acts to raise and give money to Congress to induce
 it to act. There's only so much time; there's only so much Congress can
-do. Why not limit its actions to those things it must do--and those
+do. Why not limit its actions to those things it must do&mdash;and those
 things that pay? Extending copyright terms pays.
 </para>
 <para>
@@ -10861,7 +10847,7 @@ up to the `present value' of the income you expect from these
 copyrights. Which for us means over $1,000,000."
 </para>
 <para>
-You quickly get the point--you as the member of the board and, I
+You quickly get the point&mdash;you as the member of the board and, I
 trust, you the reader. Each time copyrights are about to expire, every
 beneficiary in the position of the Robert Frost estate faces the same
 choice: If they can contribute to get a law passed to extend copyrights,
@@ -10986,10 +10972,10 @@ from one enumerated power to another. The animating point in the
 		context
 of the Commerce Clause was that the interpretation offered by the
 government would allow the government unending power to regulate
-commerce--the limitation to interstate commerce notwithstanding. The
+commerce&mdash;the limitation to interstate commerce notwithstanding. The
 same point is true in the context of the Copyright Clause. Here, too, the
 government's interpretation would allow the government unending power
-to regulate copyrights--the limitation to "limited times" notwithstanding.
+to regulate copyrights&mdash;the limitation to "limited times" notwithstanding.
 </para></footnote>
  And if it is applied to the
 Progress Clause, the principle should yield the conclusion that 
@@ -11006,7 +10992,7 @@ existing copyrights.
 </para>
 <para>
 If, that is, the principle announced in Lopez stood for a principle.
-Many believed the decision in Lopez stood for politics--a conservative
+Many believed the decision in Lopez stood for politics&mdash;a conservative
 Supreme Court, which believed in states' rights, using its power over
 Congress to advance its own personal political preferences. But I 
 		rejected
@@ -11023,7 +11009,7 @@ Now let's pause for a moment to make sure we understand what
 the argument in Eldred was not about. By insisting on the 
 		Constitution's
 limits to copyright, obviously Eldred was not endorsing piracy.
-Indeed, in an obvious sense, he was fighting a kind of piracy--piracy of
+Indeed, in an obvious sense, he was fighting a kind of piracy&mdash;piracy of
 the public domain. When Robert Frost wrote his work and when Walt
 Disney created Mickey Mouse, the maximum copyright term was just
 fifty-six years. Because of interim changes, Frost and Disney had 
@@ -11031,8 +11017,8 @@ fifty-six years. Because of interim changes, Frost and Disney had
 enjoyed a seventy-five-year monopoly for their work. They had
 gotten the benefit of the bargain that the Constitution envisions: In
 exchange for a monopoly protected for fifty-six years, they created new
-work. But now these entities were using their power--expressed
-through the power of lobbyists' money--to get another twenty-year
+work. But now these entities were using their power&mdash;expressed
+through the power of lobbyists' money&mdash;to get another twenty-year
 dollop of monopoly. That twenty-year dollop would be taken from the
 public domain. Eric Eldred was fighting a piracy that affects us all.
 </para>
@@ -11095,7 +11081,7 @@ of Petitioners, Eldred v. Ashcroft, 7, available at
 </para>
 <para>
 Think practically about the consequence of this 
-		extension--practically,
+		extension&mdash;practically,
 as a businessperson, and not as a lawyer eager for more legal
 
 <!-- PAGE BREAK 229 -->
@@ -11130,7 +11116,7 @@ But there is no list. There may be a name from 1930, and then in
 		practically
 about how impossibly difficult it would be to track down 
 		thousands
-of such records--especially since the person who registered is
+of such records&mdash;especially since the person who registered is
 not necessarily the current owner. And we're just talking about 1930!
 </para>
 <para>
@@ -11211,8 +11197,8 @@ will, if left standing, destroy a whole generation of American film.
 His argument is straightforward. A tiny fraction of this work has
 
 <!-- PAGE BREAK 231 -->
-any continuing commercial value. The rest--to the extent it survives at
-all--sits in vaults gathering dust. It may be that some of this work not
+any continuing commercial value. The rest&mdash;to the extent it survives at
+all&mdash;sits in vaults gathering dust. It may be that some of this work not
 now commercially valuable will be deemed to be valuable by the 
 		owners
 of the vaults. For this to occur, however, the commercial benefit
@@ -11308,7 +11294,7 @@ we don't have archives of films because we expect people to choose
 spending Friday night watching new movies and spending 
 		Friday
 night watching a 1930 news documentary. The noncommercial life
-of culture is important and valuable--for entertainment but also, and
+of culture is important and valuable&mdash;for entertainment but also, and
 more importantly, for knowledge. To understand who we are, and
 where we came from, and how we have made the mistakes that we
 have, we need to have access to this history.
@@ -11332,7 +11318,7 @@ life ended was a use that was independent of copyright law.
 </para>
 <para>
 The same was effectively true of film. Because the costs of restoring
-a film--the real economic costs, not the lawyer costs--were so high, it
+a film&mdash;the real economic costs, not the lawyer costs&mdash;were so high, it
 was never at all feasible to preserve or restore film. Like the remains of
 a great dinner, when it's over, it's over. Once a film passed out of its
 commercial life, it may have been archived for a bit, but that was the
@@ -11402,9 +11388,9 @@ offered to lend books from its stores for a low price, would that
 the need for libraries? Only if you think that the only role of a 
 		library
 is to serve what "the market" would demand. But if you think the
-role of a library is bigger than this--if you think its role is to archive
+role of a library is bigger than this&mdash;if you think its role is to archive
 culture, whether there's a demand for any particular bit of that culture
-or not--then we can't count on the commercial market to do our 
+or not&mdash;then we can't count on the commercial market to do our 
 		library
 work for us.
 </para>
@@ -11573,7 +11559,7 @@ Sonny Bono Act was but to demonstrate that it was unconstitutional,
 my hope was to make this argument against a background of briefs that
 covered the full range of political views. To show that this claim against
 the CTEA was grounded in law and not politics, then, we tried to
-gather the widest range of credible critics--credible not because they
+gather the widest range of credible critics&mdash;credible not because they
 were rich and famous, but because they, in the aggregate, demonstrated
 that this law was unconstitutional regardless of one's politics.
 </para>
@@ -11640,7 +11626,7 @@ as the list of Nobel winners demonstrates, spanned the political
 spectrum. Their conclusions were powerful: There was no plausible
 claim that extending the terms of existing copyrights would do anything
 to increase incentives to create. Such extensions were nothing more
-than "rent-seeking"--the fancy term economists use to describe
+than "rent-seeking"&mdash;the fancy term economists use to describe
 special-interest legislation gone wild.
 </para>
 <para>
@@ -11681,7 +11667,7 @@ copyright holders.
 </para>
 <para>
 The media companies were not surprising. They had the most to
-gain from the law. The congressmen were not surprising either--they
+gain from the law. The congressmen were not surprising either&mdash;they
 were defending their power and, indirectly, the gravy train of 
 		contributions
 such power induced. And of course it was not surprising that the
@@ -11690,20 +11676,22 @@ have the right to control who did what with content they wanted to
 control.
 </para>
 <para>
-Dr. Seuss's representatives, for example, argued that it was better for
-the Dr. Seuss estate to control what happened to Dr. Seuss's work--
-better than allowing it to fall into the public domain--because if this
-creativity were in the public domain, then people could use it to 
-		"glorify
-drugs or to create pornography."<footnote><para>
-<!-- f14. --> Brief of Amici Dr. Seuss Enterprise et al., Eldred v. Ashcroft, 537 U.S.
-(2003) (No. 01-618), 19.
+Dr. Seuss's representatives, for example, argued that it was
+better for the Dr. Seuss estate to control what happened to
+Dr. Seuss's work&mdash; better than allowing it to fall into the
+public domain&mdash;because if this creativity were in the public
+domain, then people could use it to "glorify drugs or to create
+pornography."<footnote><para>
+<!-- f14. -->
+Brief of Amici Dr. Seuss Enterprise et al., Eldred v. Ashcroft, 537
+U.S.  (2003) (No. 01-618), 19.
 </para></footnote>
- That was also the motive of
+That was also the motive of
 the Gershwin estate, which defended its "protection" of the work of
 George Gershwin. They refuse, for example, to license Porgy and Bess
 to anyone who refuses to use African Americans in the cast.<footnote><para>
-<!-- f15. --> Dinitia Smith, "Immortal Words, Immortal Royalties? Even Mickey
+<!-- f15. -->
+Dinitia Smith, "Immortal Words, Immortal Royalties? Even Mickey
 Mouse Joins the Fray," New York Times, 28 March 1998, B7.
 </para></footnote>
  That's
@@ -11731,7 +11719,7 @@ what the First Amendment is traditionally meant to block.
 <para>
 We argued as much in a final brief. Not only would upholding the
 CTEA mean that there was no limit to the power of Congress to extend
-copyrights--extensions that would further concentrate the market; it
+copyrights&mdash;extensions that would further concentrate the market; it
 would also mean that there was no limit to Congress's power to play 
 		favorites,
 through copyright, with who has the right to speak.
@@ -11750,8 +11738,8 @@ powers had limits.
 </para>
 <para>
 The Rest were the four Justices who had strongly opposed limits on
-Congress's power. These four--Justice Stevens, Justice Souter, Justice
-Ginsburg, and Justice Breyer--had repeatedly argued that the 
+Congress's power. These four&mdash;Justice Stevens, Justice Souter, Justice
+Ginsburg, and Justice Breyer&mdash;had repeatedly argued that the 
 		Constitution
 <!-- PAGE BREAK 242 -->
 gives Congress broad discretion to decide how best to
@@ -11797,12 +11785,12 @@ had to be: on the Conservatives. To win this case, we had to crack open
 these five and get at least a majority to go our way. Thus, the single 
 		overriding
 argument that animated our claim rested on the Conservatives'
-most important jurisprudential innovation--the argument that Judge
+most important jurisprudential innovation&mdash;the argument that Judge
 Sentelle had relied upon in the Court of Appeals, that Congress's power
 must be interpreted so that its enumerated powers have limits.
 </para>
 <para>
-This then was the core of our strategy--a strategy for which I am
+This then was the core of our strategy&mdash;a strategy for which I am
 responsible. We would get the Court to see that just as with the Lopez
 
 <!-- PAGE BREAK 243 -->
@@ -11828,7 +11816,7 @@ There was some truth to the government's claim, but not much. We
 certainly agreed that Congress had extended existing terms in
 and in 1909. And of course, in 1962, Congress began extending 
 		existing
-terms regularly--eleven times in forty years.
+terms regularly&mdash;eleven times in forty years.
 </para>
 <para>
 But this "consistency" should be kept in perspective. Congress 
@@ -11876,15 +11864,15 @@ speak:
 willing to upset this practice that the government says has been a 
 		consistent
 practice for two hundred years. You have to make them see the
-harm--passionately get them to see the harm. For if they don't see
+harm&mdash;passionately get them to see the harm. For if they don't see
 that, then we haven't any chance of winning."
 </para>
 <para>
 He may have argued many cases before this Court, I thought, but
 he didn't understand its soul. As a clerk, I had seen the Justices do the
-right thing--not because of politics but because it was right. As a law
+right thing&mdash;not because of politics but because it was right. As a law
 professor, I had spent my life teaching my students that this Court
-does the right thing--not because of politics but because it is right. As
+does the right thing&mdash;not because of politics but because it is right. As
 I listened to Ayer's plea for passion in pressing politics, I understood
 his point, and I rejected it. Our argument was right. That was enough.
 Let the politicians learn to see that it was also good.
@@ -12027,7 +12015,7 @@ to the academic, not the practical. The government was arguing as if
 this were the first case ever to consider limits on Congress's Copyright
 and Patent Clause power. Ever the professor and not the advocate, I
 closed by pointing out the long history of the Court imposing limits on
-Congress's power in the name of the Copyright and Patent Clause--
+Congress's power in the name of the Copyright and Patent Clause&mdash;
 indeed, the very first case striking a law of Congress as exceeding a 
 		specific
 enumerated power was based upon the Copyright and Patent
@@ -12056,8 +12044,8 @@ power under the Commerce Clause was limited, but under the
 		Copyright
 Clause, unlimited. In those rare moments when I let myself 
 		believe
-that we may have prevailed, it was because I felt this Court--in
-particular, the Conservatives--would feel itself constrained by the rule
+that we may have prevailed, it was because I felt this Court&mdash;in
+particular, the Conservatives&mdash;would feel itself constrained by the rule
 of law that it had established elsewhere.
 </para>
 <para>
@@ -12095,7 +12083,7 @@ Consistent with her view that Congress's power was not limited
 she had found Congress's power not limited here.
 </para>
 <para>
-Her opinion was perfectly reasonable--for her, and for Justice
+Her opinion was perfectly reasonable&mdash;for her, and for Justice
 Souter. Neither believes in Lopez. It would be too much to expect them
 to write an opinion that recognized, much less explained, the doctrine
 they had worked so hard to defeat.
@@ -12114,7 +12102,7 @@ would not.
 <para>
 Yet by what right did they get to choose which of the framers' 
 		values
-they would respect? By what right did they--the silent five--get to
+they would respect? By what right did they&mdash;the silent five&mdash;get to
 select the part of the Constitution they would enforce based on the 
 		values
 they thought important? We were right back to the argument that
@@ -12130,7 +12118,7 @@ intellectual property law should not support this unjustified extension
 of terms. He based his argument on a parallel analysis that had 
 		governed
 in the context of patents (so had we). But the rest of the Court
-discounted the parallel--without explaining how the very same words
+discounted the parallel&mdash;without explaining how the very same words
 in the Progress Clause could come to mean totally different things 
 		depending
 upon whether the words were about patents or copyrights.
@@ -12172,7 +12160,7 @@ apply in this case. That wouldn't have been a very convincing
 I don't believe, having read it made by others, and having tried
 to make it myself. But it at least would have been an act of integrity.
 These justices in particular have repeatedly said that the proper mode
-of interpreting the Constitution is "originalism"--to first understand
+of interpreting the Constitution is "originalism"&mdash;to first understand
 the framers' text, interpreted in their context, in light of the structure
 of the Constitution. That method had produced Lopez and many other
 "originalist" rulings. Where was their "originalism" now?
@@ -12266,7 +12254,7 @@ been persuaded, then that is all the evidence that's needed to know that
 here again Peter was right. Either I was not ready to argue this case in
 a way that would do some good or they were not ready to hear this case
 in a way that would do some good. Either way, the decision to bring
-this case--a decision I had made four years before--was wrong.
+this case&mdash;a decision I had made four years before&mdash;was wrong.
 While the reaction to the Sonny Bono Act itself was almost
 unanimously negative, the reaction to the Court's decision was mixed.
 No one, at least in the press, tried to say that extending the term of
@@ -12295,7 +12283,7 @@ we live in a time of such fruitful creative ferment.
 <para>
 The best responses were in the cartoons. There was a gaggle of 
 		hilarious
-images--of Mickey in jail and the like. The best, from my view
+images&mdash;of Mickey in jail and the like. The best, from my view
 of the case, was Ruben Bolling's, reproduced on the next page. The
 "powerful and wealthy" line is a bit unfair. But the punch in the face felt
 exactly like that.
@@ -12317,8 +12305,8 @@ better lawyer would have made them see differently.
 <para>
 The day Eldred was decided, fate would have it that I was to travel to
 Washington, D.C. (The day the rehearing petition in Eldred was 
-		denied--meaning
-the case was really finally over--fate would have it that
+		denied&mdash;meaning
+the case was really finally over&mdash;fate would have it that
 I was giving a speech to technologists at Disney World.) This was a
 particularly long flight to my least favorite city. The drive into the city
 from Dulles was delayed because of traffic, so I opened up my 
@@ -12489,7 +12477,7 @@ to be effective. And few would think a car is second-class property just
 because you must register the car with the state and tag it with a 
 		license.
 In both of those cases, everyone sees that there is an important
-reason to secure registration--both because it makes the markets more
+reason to secure registration&mdash;both because it makes the markets more
 efficient and because it better secures the rights of the owner. Without
 a registration system for land, landowners would perpetually have to
 guard their property. With registration, they can simply point the 
@@ -12607,13 +12595,13 @@ about.
 <para>
 The MPAA argued first that Congress had "firmly rejected the 
 		central
-concept in the proposed bill"--that copyrights be renewed. That
+concept in the proposed bill"&mdash;that copyrights be renewed. That
 was true, but irrelevant, as Congress's "firm rejection" had occurred
 <!-- PAGE BREAK 261 -->
 long before the Internet made subsequent uses much more likely.
 	Second,
 they argued that the proposal would harm poor copyright 
-		owners--apparently
+		owners&mdash;apparently
 those who could not afford the $1 fee. Third, they 
 		argued
 that Congress had determined that extending a copyright term
@@ -12635,7 +12623,7 @@ owners to do this if they wanted. But the whole point is that there are
 thousands of copyright owners who don't even know they have a 
 		copyright
 to give. Whether they are free to give away their copyright or
-not--a controversial claim in any case--unless they know about a
+not&mdash;a controversial claim in any case&mdash;unless they know about a
 copyright, they're not likely to.
 </para>
 <para>
@@ -12643,7 +12631,7 @@ At the beginning of this book, I told two stories about the law
 		reacting
 to changes in technology. In the one, common sense prevailed.
 In the other, common sense was delayed. The difference between the
-two stories was the power of the opposition--the power of the side that
+two stories was the power of the opposition&mdash;the power of the side that
 fought to defend the status quo. In both cases, a new technology 
 		threatened
 old interests. But in only one case did those interest's have the
@@ -12768,7 +12756,7 @@ available at
 <ulink url="http://free-culture.cc/notes/">link #55</ulink>. According to a World Health Organization press 
 		release
 issued 9 July 2002, only 230,000 of the 6 million who need drugs in
-the developing world receive them--and half of them are in Brazil.
+the developing world receive them&mdash;and half of them are in Brazil.
 </para></footnote>
 </para>
 <para>
@@ -12835,7 +12823,7 @@ Reform, H. Rep., 1st sess., Ser. No. 106-126 (22 July 1999), 150­57
 </para></footnote>
  Through the
 Office of the United States Trade Representative, the government
-asked South Africa to change the law--and to add pressure to that 
+asked South Africa to change the law&mdash;and to add pressure to that 
 		request,
 in 1998, the USTR listed South Africa for possible trade sanctions.
 <!-- PAGE BREAK 266 -->
@@ -12848,7 +12836,7 @@ from the EU. Their claim, and the claim of the pharmaceutical
 		companies,
 was that South Africa was violating its obligations under 
 		international
-law by discriminating against a particular kind of patent--
+law by discriminating against a particular kind of patent&mdash;
 pharmaceutical patents. The demand of these governments, with the
 United States in the lead, was that South Africa respect these patents
 as it respects any other patent, regardless of any effect on the treatment
@@ -12881,7 +12869,7 @@ turn those chemicals into drugs that would save 15 to 30 million lives.
 </para>
 <para>
 Nor was the intervention by the United States going to protect the
-profits of United States drug companies--at least, not substantially. It
+profits of United States drug companies&mdash;at least, not substantially. It
 was not as if these countries were in the position to buy the drugs for
 the prices the drug companies were charging. Again, the Africans are
 wildly too poor to afford these drugs at the offered prices. Stopping the
@@ -12934,12 +12922,12 @@ Some blame the drug companies. I don't. They are corporations.
 Their managers are ordered by law to make money for the corporation.
 They push a certain patent policy not because of ideals, but because it is
 the policy that makes them the most money. And it only makes them the
-most money because of a certain corruption within our political system--
+most money because of a certain corruption within our political system&mdash;
 a corruption the drug companies are certainly not responsible for.
 </para>
 <para>
 The corruption is our own politicians' failure of integrity. For the
-drug companies would love--they say, and I believe them--to sell their
+drug companies would love&mdash;they say, and I believe them&mdash;to sell their
 drugs as cheaply as they can to countries in Africa and elsewhere.
 There are issues they'd have to resolve to make sure the drugs didn't get
 back into the United States, but those are mere problems of 
@@ -12958,7 +12946,7 @@ avoiding the first step. They reinforce the idea that property should be
 <!-- PAGE BREAK 268 -->
 sacred. They adopt a rational strategy in an irrational context, with the
 unintended consequence that perhaps millions die. And that rational
-strategy thus becomes framed in terms of this ideal--the sanctity of an
+strategy thus becomes framed in terms of this ideal&mdash;the sanctity of an
 idea called "intellectual property."
 </para>
 <para>
@@ -12984,7 +12972,7 @@ But we as a culture have lost this sense of balance. We have lost the
 critical eye that helps us see the difference between truth and 
 		extremism.
 A certain property fundamentalism, having no connection to our
-tradition, now reigns in this culture--bizarrely, and with consequences
+tradition, now reigns in this culture&mdash;bizarrely, and with consequences
 more grave to the spread of ideas and culture than almost any other
 single policy decision that we as a democracy will make.
 A simple idea blinds us, and under the cover of darkness, much
@@ -13128,7 +13116,7 @@ software. There are many important companies that depend
 		fundamentally
 upon open source and free software, IBM being the most
 prominent. IBM is increasingly shifting its focus to the GNU/Linux
-operating system, the most famous bit of "free software"--and IBM is
+operating system, the most famous bit of "free software"&mdash;and IBM is
 emphatically a commercial entity. Thus, to support "open source and
 free software" is not to oppose commercial entities. It is, instead, to
 support a mode of software development that is different from 
@@ -13224,7 +13212,7 @@ called "copyright." Without it, restrictions imposed by those licenses
 wouldn't work. Thus, to say it "runs counter" to the mission of 
 		promoting
 intellectual property rights reveals an extraordinary gap in 
-		understanding--the
+		understanding&mdash;the
 sort of mistake that is excusable in a first-year law
 student, but an embarrassment from a high government official 
 		dealing
@@ -13368,7 +13356,7 @@ the truth. It might be crazy to believe that government policy will be
 something more than the handmaiden of the most powerful interests.
 <!-- PAGE BREAK 276 -->
 It might be crazy to argue that we should preserve a tradition that has
-been part of our tradition for most of our history--free culture.
+been part of our tradition for most of our history&mdash;free culture.
 </para>
 <para>
 If this is crazy, then let there be more crazies. Soon.
@@ -13411,7 +13399,7 @@ change in copyright, produces. It is not just that there are a few
 		powerful
 companies that control an ever expanding slice of the media. It
 is that this concentration can call upon an equally bloated range of
-rights--property rights of a historically extreme form--that makes
+rights&mdash;property rights of a historically extreme form&mdash;that makes
 their bigness bad.
 </para>
 <!-- PAGE BREAK 277 -->
@@ -13473,8 +13461,8 @@ Songs," Kansascity.com, 9 July 2003, available at
 <ulink url="http://free-culture.cc/notes/">link #69</ulink>.
 <!-- PAGE BREAK 334 -->
 </para></footnote>
- An insider from Hollywood--who insists
-he must remain anonymous--reports "an amazing conversation with
+ An insider from Hollywood&mdash;who insists
+he must remain anonymous&mdash;reports "an amazing conversation with
 these studio guys. They've got extraordinary [old] content that they'd
 love to use but can't because they can't begin to clear the rights. They've
 got scores of kids who could do amazing things with the content, but
@@ -13538,7 +13526,7 @@ That means this movement must begin in the streets. It must
 		recruit
 a significant number of parents, teachers, librarians, creators, 
 		authors,
-musicians, filmmakers, scientists--all to tell this story in their
+musicians, filmmakers, scientists&mdash;all to tell this story in their
 own words, and to tell their neighbors why this battle is so important.
 </para>
 <para>
@@ -13554,7 +13542,7 @@ sketch changes that Congress could make to better secure a free culture.
 <title>US, NOW</title>
 <para>
 Common sense is with the copyright warriors because the debate so
-far has been framed at the extremes--as a grand either/or: either 
+far has been framed at the extremes&mdash;as a grand either/or: either 
 		property
 or anarchy, either total control or artists won't be paid. If that 
 		really
@@ -13564,8 +13552,8 @@ is the choice, then the warriors should win.
 The mistake here is the error of the excluded middle. There are 
 		extremes
 in this debate, but the extremes are not all that there is. There
-are those who believe in maximal copyright--"All Rights Reserved"--
-and those who reject copyright--"No Rights Reserved." The "All
+are those who believe in maximal copyright&mdash;"All Rights Reserved"&mdash;
+and those who reject copyright&mdash;"No Rights Reserved." The "All
 Rights Reserved" sorts believe that you should ask permission before
 you "use" a copyrighted work in any way. The "No Rights Reserved"
 sorts believe you should be able to do with content as you wish, 
@@ -13601,8 +13589,8 @@ The "cut and paste" world that defines the Internet today will become
 a "get permission to cut and paste" world that is a creator's nightmare.
 </para>
 <para>
-What's needed is a way to say something in the middle--neither "all
-rights reserved" nor "no rights reserved" but "some rights reserved"--
+What's needed is a way to say something in the middle&mdash;neither "all
+rights reserved" nor "no rights reserved" but "some rights reserved"&mdash;
 and thus a way to respect copyrights but enable creators to free content
 as they see fit. In other words, we need a way to restore a set of 
 		freedoms
@@ -13694,7 +13682,7 @@ where, before, privacy was given by default.
 <para>
 A similar story could be told about the birth of the free software
 movement. When computers with software were first made available
-commercially, the software--both the source code and the binaries--
+commercially, the software&mdash;both the source code and the binaries&mdash;
 was free. You couldn't run a program written for a Data General 
 		machine
 on an IBM machine, so Data General and IBM didn't care much
@@ -13818,7 +13806,7 @@ the library gave them access. Or patients trying to understand
 the risks of a certain treatment could research those risks by reading all
 available articles about that treatment. This freedom was therefore a
 function of the institution of libraries (norms) and the technology of
-paper journals (architecture)--namely, that it was very hard to control
+paper journals (architecture)&mdash;namely, that it was very hard to control
 access to a paper journal.
 </para>
 <para>
@@ -13853,7 +13841,7 @@ There's no doubt that this alternative competes with the
 publishers and their efforts to make money from the exclusive
 distribution of content. But competition in our tradition is 
 		presumptively
-a good--especially when it helps spread knowledge and science.
+a good&mdash;especially when it helps spread knowledge and science.
 </para>
 
 </sect2>
@@ -13878,7 +13866,7 @@ work. Simple tags, tied to human-readable descriptions, tied to
 licenses, make this possible.
 </para>
 <para>
-Simple--which means without a middleman, or without a lawyer.
+Simple&mdash;which means without a middleman, or without a lawyer.
 By developing a free set of licenses that people can attach to their
 content, Creative Commons aims to mark a range of content that
 can easily, and reliably, be built upon. These tags are then linked to
@@ -13886,9 +13874,9 @@ machine-readable versions of the license that enable computers
 		automatically
 to identify content that can easily be shared. These three 
 		expressions
-together--a legal license, a human-readable description, and
+together&mdash;a legal license, a human-readable description, and
 <!-- PAGE BREAK 288 -->
-machine-readable tags--constitute a Creative Commons license. A
+machine-readable tags&mdash;constitute a Creative Commons license. A
 Creative Commons license constitutes a grant of freedom to anyone
 who accesses the license, and more importantly, an expression of the
 ideal that the person associated with the license believes in something
@@ -13946,10 +13934,10 @@ written centuries ago, applied to a technology that only Jefferson could
 have imagined. The rules may well have made sense against a 
 		background
 of technologies from centuries ago, but they do not make sense
-against the background of digital technologies. New rules--with 
+against the background of digital technologies. New rules&mdash;with 
 		different
 freedoms, expressed in ways so that humans without lawyers can
-use them--are needed. Creative Commons gives people a way 
+use them&mdash;are needed. Creative Commons gives people a way 
 		effectively
 to begin to build those rules.
 </para>
@@ -14003,7 +13991,7 @@ else would be hypocritical. The sampling license says that others
 are free, for commercial or noncommercial purposes, to sample content
 from the licensed work; they are just not free to make full copies of the
 licensed work available to others. This is consistent with their own
-art--they, too, sample from others. Because the legal costs of sampling
+art&mdash;they, too, sample from others. Because the legal costs of sampling
 are so high (Walter Leaphart, manager of the rap group Public Enemy,
 which was born sampling the music of others, has stated that he does
 not "allow" Public Enemy to sample anymore, because the legal costs
@@ -14118,7 +14106,7 @@ burden. Rather, the world without formalities is the world that
 creativity. Today, there is no simple way to know who owns what,
 or with whom one must deal in order to use or build upon the 
 		creative
-work of others. There are no records, there is no system to trace--
+work of others. There are no records, there is no system to trace&mdash;
 there is no simple way to know how to get permission. Yet given the
 massive increase in the scope of copyright's rule, getting permission is
 a necessary step for any work that builds upon our past. And thus, the
@@ -14130,7 +14118,7 @@ The law should therefore change this requirement<footnote><para>
 <!-- f1. --> The proposal I am advancing here would apply to American works only.
 Obviously, I believe it would be beneficial for the same idea to be adopted
 by other countries as well.
-</para></footnote>--but it should
+</para></footnote>&mdash;but it should
 not change it by going back to the old, broken system. We should 
 		require
 formalities, but we should establish a system that will create the
@@ -14161,7 +14149,7 @@ And as the Copyright Office is not a main target of government
 		policymaking,
 the office has historically been terribly underfunded. Thus,
 when people who know something about the process hear this idea
-about formalities, their first reaction is panic--nothing could be worse
+about formalities, their first reaction is panic&mdash;nothing could be worse
 than forcing people to deal with the mess that is the Copyright Office.
 </para>
 <para>
@@ -14196,7 +14184,7 @@ with one another to deliver the cheapest and simplest systems for
 		registering
 and renewing copyrights. That competition would 
 		substantially
-lower the burden of this formality--while producing a database
+lower the burden of this formality&mdash;while producing a database
 <!-- PAGE BREAK 295 -->
 of registrations that would facilitate the licensing of content.
 </para>
@@ -14208,7 +14196,7 @@ of registrations that would facilitate the licensing of content.
 It used to be that the failure to include a copyright notice on a creative
 work meant that the copyright was forfeited. That was a harsh 
 		punishment
-for failing to comply with a regulatory rule--akin to imposing
+for failing to comply with a regulatory rule&mdash;akin to imposing
 the death penalty for a parking ticket in the world of creative rights.
 Here again, there is no reason that a marking requirement needs to be
 enforced in this way. And more importantly, there is no reason a 
@@ -14229,7 +14217,7 @@ clear how or where a statue was to be marked, or a record, or a film. A
 new marking requirement could solve these problems by recognizing
 the differences in media, and by allowing the system of marking to
 evolve as technologies enable it to. The system could enable a special
-signal from the failure to mark--not the loss of the copyright, but the
+signal from the failure to mark&mdash;not the loss of the copyright, but the
 loss of the right to punish someone for failing to get permission first.
 </para>
 <para>
@@ -14494,8 +14482,8 @@ of permission does to the creative process. Smothers it.
 <para>
 This was the point that Alben made when describing the making of
 the Clint Eastwood CD. While it makes sense to require negotiation
-for foreseeable derivative rights--turning a book into a movie, or a
-poem into a musical score--it doesn't make sense to require 
+for foreseeable derivative rights&mdash;turning a book into a movie, or a
+poem into a musical score&mdash;it doesn't make sense to require 
 		negotiation
 for the unforeseeable. Here, a statutory right would make much
 more sense.
@@ -14535,11 +14523,11 @@ regime, that reuse would earn artists more income.
 </sect2>
 
 <sect2 id="liberatemusic">
-<title>4. Liberate the Music--Again</title>
+<title>4. Liberate the Music&mdash;Again</title>
 <para>
 The battle that got this whole war going was about music, so it wouldn't
 be fair to end this book without addressing the issue that is, to most
-people, most pressing--music. There is no other policy issue that 
+people, most pressing&mdash;music. There is no other policy issue that 
 		better
 teaches the lessons of this book than the battles around the sharing
 of music.
@@ -14550,7 +14538,7 @@ The appeal of file-sharing music was the crack cocaine of the
 growth. It drove demand for access to the Internet more 
 		powerfully
 than any other single application. It was the Internet's killer
-app--possibly in two senses of that word. It no doubt was the 
+app&mdash;possibly in two senses of that word. It no doubt was the 
 		application
 that drove demand for bandwidth. It may well be the application
 that drives demand for regulations that in the end kill innovation on
@@ -14622,7 +14610,7 @@ Today, file sharing is addictive. In ten years, it won't be. It is addictive
 today because it is the easiest way to gain access to a broad range of 
 		content.
 It won't be the easiest way to get access to a broad range of content
-in ten years. Today, access to the Internet is cumbersome and slow--we
+in ten years. Today, access to the Internet is cumbersome and slow&mdash;we
 in the United States are lucky to have broadband service at 1.5 MBs, and
 very rarely do we get service at that speed both up and down. Although
 wireless access is growing, most of us still get access across wires. Most
@@ -14641,7 +14629,7 @@ should not be, how should the law regulate sharing in this world?
 The question should be, what law will we require when the network
 becomes the network it is clearly becoming? That network is one in
 which every machine with electricity is essentially on the Net; where
-everywhere you are--except maybe the desert or the Rockies--you can
+everywhere you are&mdash;except maybe the desert or the Rockies&mdash;you can
 instantaneously be connected to the Internet. Imagine the Internet as
 ubiquitous as the best cell-phone service, where with the flip of a 
 		device,
@@ -14649,7 +14637,7 @@ you are connected.
 </para>
 <para>
 In that world, it will be extremely easy to connect to services that
-give you access to content on the fly--such as Internet radio, content
+give you access to content on the fly&mdash;such as Internet radio, content
 that is streamed to the user when the user demands. Here, then, is the
 critical point: When it is extremely easy to connect to services that give
 access to content, it will be easier to connect to services that give you
@@ -14675,8 +14663,8 @@ of MP3s across the Web.<footnote><para>
 <para>
 This point about the future is meant to suggest a perspective on the
 present: It is emphatically temporary. The "problem" with file 
-		sharing--to
-the extent there is a real problem--is a problem that will 
+		sharing&mdash;to
+the extent there is a real problem&mdash;is a problem that will 
 		increasingly
 disappear as it becomes easier to connect to the Internet.
 And thus it is an extraordinary mistake for policy makers today to be
@@ -14693,7 +14681,7 @@ and twenty-first-century technologies.
 <para>
 The answer begins with recognizing that there are different 
 		"problems"
-here to solve. Let's start with type D content--uncopyrighted
+here to solve. Let's start with type D content&mdash;uncopyrighted
 content or copyrighted content that the artist wants shared. The 
 		"problem"
 with this content is to make sure that the technology that would
@@ -14868,7 +14856,7 @@ Fisher would balk at the idea of allowing the system to lapse. His
 aim is not just to ensure that artists are paid, but also to ensure that the
 system supports the widest range of "semiotic democracy" possible. But
 the aims of semiotic democracy would be satisfied if the other changes
-I described were accomplished--in particular, the limits on derivative
+I described were accomplished&mdash;in particular, the limits on derivative
 
 <!-- PAGE BREAK 307 -->
 uses. A system that simply charges for access would not greatly burden
@@ -14901,8 +14889,8 @@ free." Indeed, if anything, the competition spurs the competitors to
 		offer
 new and better products. This is precisely what the competitive
 market was to be about. Thus in Singapore, though piracy is rampant,
-movie theaters are often luxurious--with "first class" seats, and meals
-served while you watch a movie--as they struggle and succeed in 
+movie theaters are often luxurious&mdash;with "first class" seats, and meals
+served while you watch a movie&mdash;as they struggle and succeed in 
 		finding
 ways to compete with "free."
 </para>
@@ -14910,7 +14898,7 @@ ways to compete with "free."
 This regime of competition, with a backstop to assure that artists
 don't lose, would facilitate a great deal of innovation in the delivery of
 content. That competition would continue to shrink type A sharing. It
-would inspire an extraordinary range of new innovators--ones who
+would inspire an extraordinary range of new innovators&mdash;ones who
 would have a right to the content, and would no longer fear the 
 		uncertain
 and barbarically severe punishments of the law.
@@ -15031,7 +15019,7 @@ legal system actually functions, simply assume that the transaction
 costs of the legal system are slight.<footnote><para>
 <!-- f11. --> A good example is the work of Professor Stan Liebowitz. Liebowitz is to
 be commended for his careful review of data about infringement, leading
-him to question his own publicly stated position--twice. He initially 
+him to question his own publicly stated position&mdash;twice. He initially 
 		predicted
 that downloading would substantially harm the industry. He then
 revised his view in light of the data, and he has since revised his view again.
@@ -15075,7 +15063,7 @@ except in the most high-profile and costly cases.
 <para>
 The costliness and clumsiness and randomness of this system mock
 our tradition. And lawyers, as well as academics, should consider it
-their duty to change the way the law works--or better, to change the
+their duty to change the way the law works&mdash;or better, to change the
 law so that it works. It is wrong that the system works well only for the
 top 1 percent of the clients. It could be made radically more efficient,
 and inexpensive, and hence radically more just.
@@ -15089,9 +15077,9 @@ to its review.
 </para>
 <para>
 Think about the amazing things your kid could do or make with
-digital technology--the film, the music, the Web page, the blog. Or
+digital technology&mdash;the film, the music, the Web page, the blog. Or
 think about the amazing things your community could facilitate with
-digital technology--a wiki, a barn raising, activism to change 
+digital technology&mdash;a wiki, a barn raising, activism to change 
 		something.
 Think about all those creative things, and then imagine cold
 molasses poured onto the machines. This is what any regime that 
@@ -15100,7 +15088,7 @@ permission produces. Again, this is the reality of Brezhnev's
 Russia.
 </para>
 <para>
-The law should regulate in certain areas of culture--but it should
+The law should regulate in certain areas of culture&mdash;but it should
 regulate culture only where that regulation does good. Yet lawyers
 
 <!-- PAGE BREAK 311 -->
