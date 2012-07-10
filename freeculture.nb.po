@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2012-07-09 09:10+0300\n"
-"PO-Revision-Date: 2012-07-09 11:41+0200\n"
+"PO-Revision-Date: 2012-07-10 08:39+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: \n"
@@ -85,6 +85,22 @@ msgid ""
 "Lessig clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of "
 "Appeals."
 msgstr ""
+"Lawrense Lessig (<ulink url=\"http://www.lessig.org/\">http://www.lessig."
+"org</ulink>), professor i juss og en  John A.  Wilson Distinguished Faculty "
+"Scholar ved Stanford Law School, er stifteren av Stanford Center for "
+"Internet and Society og styreleder i Creative Commons (<ulink url="
+"\"http://creativecommons.org/\">http://creativecommons.org</ulink>). "
+"Forfatteren har gitt ut av The Future of Ideas (Random House, 2001) og "
+"Code: And other Laws of Cyberspace (Basic Books, 1999), og er medlem "
+"av styrene i Public Library of Science, the Electronic Frontier Foundation, og "
+"Public "
+"Knowledge.  Han har vunnet Free Software Foundation's Award for the "
+"Advancement of Free Software, to ganger vært oppført i BusinessWeek's \"e.biz "
+"25,\" "
+"og omtalt som en av Scientific American's \"50 visjonærer\".  Etter utdanning "
+"ved "
+"University of Pennsylvania, Cambridge University, og Yale Law School, assisterte"
+"Lessig dommer Richard Posner ved U.S. Seventh Circuit Court of Appeals."
 
 #. type: Content of: <book><chapter><title>
 #, mtrans
@@ -110,13 +126,14 @@ msgid "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 msgstr "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "ALSO BY LAWRENCE LESSIG The Future of Ideas: The Fate of the Commons in a "
 "Connected World Code: And Other Laws of Cyberspace"
 msgstr ""
-"også av lawrence lessig fremtidens ideer: skjebnen av commons i en tilkoblet "
-"verden-kode: og andre lover av cyberspace"
+"Andre bøker av Lawrense Lessig:  The Future of Ideas: The Fate of the Commons "
+"in a "
+"Connected World og Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans
@@ -231,7 +248,7 @@ msgstr ""
 "Slå av modemet, koble fra datamaskinen, og eventuelle problemer som finnes i "
 "at plass ikke ville \"påvirke\" oss lenger."
 
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "Pogue might have been right in 1999--I'm skeptical, but maybe.  But even if "
 "he was right then, the point is not right now: Free Culture is about the "
@@ -240,24 +257,25 @@ msgid ""
 "fundamentally affected \"people who aren't online.\" There is no switch that "
 "will insulate us from the Internet's effect."
 msgstr ""
-"Pogue kan ha vært rett i 1999--jeg er skeptisk, men kanskje. men selv om han "
-"var høyre da, poenget er ikke akkurat nå: fri kultur er om trengsler "
-"Internett årsakene selv etter at modemet er slått av. den er et argument om "
-"hvordan slagene at nå rage om livet on-line har fundamentalt påvirket \"folk "
-"som er ikke pålogget.\" det er ingen bryter som vil isolere oss fra "
+"Pogue kan ha hatt rett i 1999 -- jeg er skeptisk, men den kan hende. Men selv "
+"om han hadde rett da, så er ikke poenget riktig nå. Fri kultur er om problemene "
+"Internet forårsaker selv etter at modemet er slått av.  Den er et argument om "
+"hvordan slagene at nå brer om seg om livet on-line har fundamentalt påvirket "
+"\"folk som er ikke pålogget.\"  Det finnes ingen bryter som kan isolere oss fra "
 "Internetts effekt."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "But unlike Code, the argument here is not much about the Internet itself. It "
 "is instead about the consequence of the Internet to a part of our tradition "
 "that is much more fundamental, and, as hard as this is for a geek-wanna-be "
 "to admit, much more important."
 msgstr ""
-"men i motsetning til koden, argumentet her er ikke mye om Internett selv. i "
-"stedet er det om konsekvens av Internett til en del av vår tradisjon som er "
-"mye mer grunnleggende, og så hardt som dette er for en geek-wanna-be "
+"Men i motsetning til i Code, er argumentet her ikke så mye om Internett i seg "
+"selv. I"
+"stedet er det om konsekvensen av Internett for en del av vår tradisjon som er "
+"mye mer grunnleggende, og uansett hvor hardt dette er for en geek-wanna-be å"
 "innrømme, mye viktigere."
 
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -9023,8 +9041,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid ""
-"In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
+msgid "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
 msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
 #.  f1
@@ -10550,8 +10567,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"Consider a practical example to understand the scope of these differences."
+msgid "Consider a practical example to understand the scope of these differences."
 msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
 
 #.  f13
@@ -11375,10 +11391,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"On the next page is a picture of an old version of my Adobe eBook Reader."
-msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgid "On the next page is a picture of an old version of my Adobe eBook Reader."
+msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #.  PAGE BREAK 160
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -12140,10 +12154,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
-msgstr ""
-"Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
+msgid "This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+msgstr "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -14645,8 +14657,7 @@ msgstr ""
 #.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
+msgid "Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
 msgstr ""
 "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
@@ -22239,8 +22250,7 @@ msgstr ""
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
-msgstr ""
-"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+msgstr "Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
 
 #.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23188,10 +23198,11 @@ msgid ""
 "in part inspired by Stallman's, he does not agree with me in important "
 "places throughout this book."
 msgstr ""
-"Richard stallman og michael carroll hver lese hele boken i utkast, og hver "
-"forutsatt svært nyttig korreksjon og råd. Michael hjalp meg å se mer tydelig "
-"betydningen av regulering av derivitive works. og richard rettet en "
-"embarrassingly stort antall feil. mens mitt arbeid er delvis inspirert av "
+"Richard Stallman og Michael Carroll har begge lest utkast av hele "
+"denne boken, og hver av dem har bidratt med svært nyttige korreksjoner "
+"og råd  Michael hjalp meg å se mer tydelig "
+"betydningen av regulering av avledede verk. og Richard korrigerte en "
+"pinlig stor  mengde feil.  Selv om mitt arbeid er delvis inspirert av "
 "Stallmans, enig han ikke med meg viktige steder i denne boken."
 
 #. type: Content of: <book><chapter><para>
@@ -23202,8 +23213,9 @@ msgid ""
 "always been right. This slow learner is, as ever, grateful for her perpetual "
 "patience and love."
 msgstr ""
-"til slutt, og for evig, jeg er takknemlig til bettina, som har alltid "
-"insisterte på at det ville være unending lykke fra disse kampene, og som har "
-"alltid vært riktig. Denne slow elev er som alltid takknemlig for hennes "
+"Til slutt, og for evig, jeg er Bettina takknemlig, som alltid har "
+"insistert på at det ville være  lykke uten ende borte fra disse kampene, og som "
+"alltid har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
+
 
