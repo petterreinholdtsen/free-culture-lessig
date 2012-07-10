@@ -11,6 +11,7 @@
 "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" 
 [
    <!ENTITY copy "©"> 
+   <!ENTITY translationblock ""> 
 ]>
 <!--
 -->
@@ -113,10 +114,10 @@ AND CONTROL CREATIVITY
 THE PENGUIN PRESS
 <sbr/>a member of Penguin Group (USA) Inc.  375 Hudson Street New
 York, New York
-<sbr/>Copyright © Lawrence Lessig,
+<sbr/>Copyright &copy; Lawrence Lessig,
 <sbr/>All rights reserved
 <sbr/>Excerpt from an editorial titled "The Coming of Copyright Perpetuity,"
-The New York Times, January 16, 2003. Copyright © 2003 by The New York Times Co.
+The New York Times, January 16, 2003. Copyright &copy; 2003 by The New York Times Co.
 Reprinted with permission.
 <sbr/>Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc.
 <sbr/>All rights reserved. Reprinted with permission.
@@ -157,6 +158,8 @@ materials. Your support of the author's rights is appreciated.
 To Eric Eldred&mdash;whose work first drew me to this cause, and for whom
 it continues still.
 </para>
+
+<para>&translationblock;</para>
 
 <figure id="CreativeCommons">
 <title>Creative Commons, Some rights reserved</title>
@@ -6744,107 +6747,91 @@ for all English works expired, a federal statute meant that any
 state copyrights expired as well.
 </para>
 <para>
-In 1790, Congress enacted the first copyright law. It created a 
-		federal
-copyright and secured that copyright for fourteen years. If the 
-		author
-was alive at the end of that fourteen years, then he could opt to
-renew the copyright for another fourteen years. If he did not renew the
-copyright, his work passed into the public domain.
+In 1790, Congress enacted the first copyright law. It created a
+federal copyright and secured that copyright for fourteen years. If
+the author was alive at the end of that fourteen years, then he could
+opt to renew the copyright for another fourteen years. If he did not
+renew the copyright, his work passed into the public domain.
 </para>
 <para>
-While there were many works created in the United States in the
-first ten years of the Republic, only 5 percent of the works were 
-		actually
-registered under the federal copyright regime. Of all the work 
-		created
-in the United States both before 1790 and from 1790 through
-1800, 95 percent immediately passed into the public domain; the 
-		balance
-would pass into the pubic domain within twenty-eight years at
-most, and more likely within fourteen years.<footnote><para>
+While there were many works created in the United States in the first
+ten years of the Republic, only 5 percent of the works were actually
+registered under the federal copyright regime. Of all the work created
+in the United States both before 1790 and from 1790 through 1800, 95
+percent immediately passed into the public domain; the balance would
+pass into the pubic domain within twenty-eight years at most, and more
+likely within fourteen years.<footnote><para>
 <!-- f9  -->
-Although 13,000 titles were published in the United States from 1790 to
-1799, only 556 copyright registrations were filed; John Tebbel, A History of
-Book Publishing in the United States, vol. 1, The Creation of an Industry,
-1630­1865 (New York: Bowker, 1972), 141. Of the 21,000 imprints
-recorded before 1790, only twelve were copyrighted under the 1790 act;
-William J. Maher, Copyright Term, Retrospective Extension and the 
-		Copyright
-Law of 1790 in Historical Context, 7­10 (2002), available at 
-<ulink url="http://free-culture.cc/notes/">link #25</ulink>.
-Thus, the overwhelming majority of works fell immediately into the 
-		public
-domain. Even those works that were copyrighted fell into the public
-domain quickly, because the term of copyright was short. The initial term
-of copyright was fourteen years, with the option of renewal for an 
-		additional
-fourteen years. Copyright Act of May 31, 1790, §1, 1 stat. 124.
-</para></footnote>
+Although 13,000 titles were published in the United States from 1790
+to 1799, only 556 copyright registrations were filed; John Tebbel, A
+History of Book Publishing in the United States, vol. 1, The Creation
+of an Industry, 1630­1865 (New York: Bowker, 1972), 141. Of the 21,000
+imprints recorded before 1790, only twelve were copyrighted under the
+1790 act; William J. Maher, Copyright Term, Retrospective Extension
+and the Copyright Law of 1790 in Historical Context, 7­10 (2002),
+available at <ulink url="http://free-culture.cc/notes/">link
+#25</ulink>.  Thus, the overwhelming majority of works fell
+immediately into the public domain. Even those works that were
+copyrighted fell into the public domain quickly, because the term of
+copyright was short. The initial term of copyright was fourteen years,
+with the option of renewal for an additional fourteen years. Copyright
+Act of May 31, 1790, §1, 1 stat. 124.  </para></footnote>
 </para>
 <para>
 This system of renewal was a crucial part of the American system
 of copyright. It assured that the maximum terms of copyright would be
 <!-- PAGE BREAK 145 -->
 granted only for works where they were wanted. After the initial term
-of fourteen years, if it wasn't worth it to an author to renew his 
-		copyright,
-then it wasn't worth it to society to insist on the copyright, either.
+of fourteen years, if it wasn't worth it to an author to renew his
+copyright, then it wasn't worth it to society to insist on the
+copyright, either.
 </para>
 <para>
 Fourteen years may not seem long to us, but for the vast majority of
-copyright owners at that time, it was long enough: Only a small 
-		minority
-of them renewed their copyright after fourteen years; the 
-		balance
-allowed their work to pass into the public domain.<footnote><para>
+copyright owners at that time, it was long enough: Only a small
+minority of them renewed their copyright after fourteen years; the
+balance allowed their work to pass into the public
+domain.<footnote><para>
 <!-- f10 -->
-Few copyright holders ever chose to renew their copyrights. For instance,
-of the 25,006 copyrights registered in 1883, only 894 were renewed in
-1910. For a year-by-year analysis of copyright renewal rates, see Barbara
-A. Ringer, "Study No. 31: Renewal of Copyright," Studies on Copyright,
-vol. 1 (New York: Practicing Law Institute, 1963), 618. For a more recent
-and comprehensive analysis, see William M. Landes and Richard A. 
-		Posner,
-"Indefinitely Renewable Copyright," University of Chicago Law 
-		Review
-70 (2003): 471, 498­501, and accompanying figures.
-</para></footnote>
+Few copyright holders ever chose to renew their copyrights. For
+instance, of the 25,006 copyrights registered in 1883, only 894 were
+renewed in 1910. For a year-by-year analysis of copyright renewal
+rates, see Barbara A. Ringer, "Study No. 31: Renewal of Copyright,"
+Studies on Copyright, vol. 1 (New York: Practicing Law Institute,
+1963), 618. For a more recent and comprehensive analysis, see William
+M. Landes and Richard A.  Posner, "Indefinitely Renewable Copyright,"
+University of Chicago Law Review 70 (2003): 471, 498­501, and
+accompanying figures.  </para></footnote>
 </para>
 <para>
 Even today, this structure would make sense. Most creative work
 has an actual commercial life of just a couple of years. Most books fall
 out of print after one year.<footnote><para>
 <!-- f11 -->
-See Ringer, ch. 9, n. 2.
-</para></footnote>
-When that happens, the used books are
-traded free of copyright regulation. Thus the books are no longer 
-		effectively
-controlled by copyright. The only practical commercial use of the
-books at that time is to sell the books as used books; that use&mdash;because
-it does not involve publication&mdash;is effectively free.
+See Ringer, ch. 9, n. 2.  </para></footnote> When that happens, the
+used books are traded free of copyright regulation. Thus the books are
+no longer effectively controlled by copyright. The only practical
+commercial use of the books at that time is to sell the books as used
+books; that use&mdash;because it does not involve publication&mdash;is
+effectively free.
 </para>
 <para>
-In the first hundred years of the Republic, the term of copyright
-was changed once. In 1831, the term was increased from a maximum
-of 28 years to a maximum of 42 by increasing the initial term of 
-		copyright
+In the first hundred years of the Republic, the term of copyright was
+changed once. In 1831, the term was increased from a maximum of 28
+years to a maximum of 42 by increasing the initial term of copyright
 from 14 years to 28 years. In the next fifty years of the Republic,
 the term increased once again. In 1909, Congress extended the renewal
 term of 14 years to 28 years, setting a maximum term of 56 years.
 </para>
 <para>
-Then, beginning in 1962, Congress started a practice that has 
-		defined
+Then, beginning in 1962, Congress started a practice that has defined
 copyright law since. Eleven times in the last forty years, Congress
 has extended the terms of existing copyrights; twice in those forty
 years, Congress extended the term of future copyrights. Initially, the
 extensions of existing copyrights were short, a mere one to two years.
 In 1976, Congress extended all existing copyrights by nineteen years.
-And in 1998, in the Sonny Bono Copyright Term Extension Act,
-Congress extended the term of existing and future copyrights by
-twenty years.
+And in 1998, in the Sonny Bono Copyright Term Extension Act, Congress
+extended the term of existing and future copyrights by twenty years.
 </para>
 <para>
 The effect of these extensions is simply to toll, or delay, the passing
@@ -6878,15 +6865,13 @@ maximum term then available. After the Sonny Bono Act, that term
 was ninety-five years.
 </para>
 <para>
-This change meant that American law no longer had an automatic
-way to assure that works that were no longer exploited passed into the
-public domain. And indeed, after these changes, it is unclear whether
-it is even possible to put works into the public domain. The public 
-		domain
-is orphaned by these changes in copyright law. Despite the 
-		requirement
-that terms be "limited," we have no evidence that anything
-will limit them.
+This change meant that American law no longer had an automatic way to
+assure that works that were no longer exploited passed into the public
+domain. And indeed, after these changes, it is unclear whether it is
+even possible to put works into the public domain. The public domain
+is orphaned by these changes in copyright law. Despite the requirement
+that terms be "limited," we have no evidence that anything will limit
+them.
 </para>
 <para>
 The effect of these changes on the average duration of copyright is
@@ -6927,76 +6912,66 @@ translate a copyrighted book, or to adapt the story to a different form
 (such as a drama based on a published book).
 </para>
 <para>
-This, too, has changed dramatically. While the contours of 
-		copyright
+This, too, has changed dramatically. While the contours of copyright
 today are extremely hard to describe simply, in general terms, the
-right covers practically any creative work that is reduced to a tangible
-form. It covers music as well as architecture, drama as well as computer
-programs. It gives the copyright owner of that creative work not only
-the exclusive right to "publish" the work, but also the exclusive right of
-control over any "copies" of that work. And most significant for our
-purposes here, the right gives the copyright owner control over not
-only his or her particular work, but also any "derivative work" that might
-grow out of the original work. In this way, the right covers more 
-		creative
-work, protects the creative work more broadly, and protects works
-that are based in a significant way on the initial creative work.
+right covers practically any creative work that is reduced to a
+tangible form. It covers music as well as architecture, drama as well
+as computer programs. It gives the copyright owner of that creative
+work not only the exclusive right to "publish" the work, but also the
+exclusive right of control over any "copies" of that work. And most
+significant for our purposes here, the right gives the copyright owner
+control over not only his or her particular work, but also any
+"derivative work" that might grow out of the original work. In this
+way, the right covers more creative work, protects the creative work
+more broadly, and protects works that are based in a significant way
+on the initial creative work.
 </para>
 <para>
-At the same time that the scope of copyright has expanded, 
-		procedural
-limitations on the right have been relaxed. I've already described
-the complete removal of the renewal requirement in 1992. In addition
+At the same time that the scope of copyright has expanded, procedural
+limitations on the right have been relaxed. I've already described the
+complete removal of the renewal requirement in 1992. In addition
 <!-- PAGE BREAK 148 -->
 to the renewal requirement, for most of the history of American
-	copyright
-law, there was a requirement that a work be registered before it
-could receive the protection of a copyright. There was also a 
-		requirement
-that any copyrighted work be marked either with that famous ©
-or the word copyright. And for most of the history of American 
-		copyright
-law, there was a requirement that works be deposited with the
-government before a copyright could be secured.
+copyright law, there was a requirement that a work be registered
+before it could receive the protection of a copyright. There was also
+a requirement that any copyrighted work be marked either with that
+famous &copy; or the word copyright. And for most of the history of
+American copyright law, there was a requirement that works be
+deposited with the government before a copyright could be secured.
 </para>
 <para>
-The reason for the registration requirement was the sensible 
-		understanding
-that for most works, no copyright was required. Again, in the
-first ten years of the Republic, 95 percent of works eligible for 
-		copyright
-were never copyrighted. Thus, the rule reflected the norm: Most
-works apparently didn't need copyright, so registration narrowed the
-regulation of the law to the few that did. The same reasoning justified
-the requirement that a work be marked as copyrighted&mdash;that way it
-was easy to know whether a copyright was being claimed. The 
-		requirement
-that works be deposited was to assure that after the copyright 
-		expired,
-there would be a copy of the work somewhere so that it could be
-copied by others without locating the original author.
+The reason for the registration requirement was the sensible
+understanding that for most works, no copyright was required. Again,
+in the first ten years of the Republic, 95 percent of works eligible
+for copyright were never copyrighted. Thus, the rule reflected the
+norm: Most works apparently didn't need copyright, so registration
+narrowed the regulation of the law to the few that did. The same
+reasoning justified the requirement that a work be marked as
+copyrighted&mdash;that way it was easy to know whether a copyright was
+being claimed. The requirement that works be deposited was to assure
+that after the copyright expired, there would be a copy of the work
+somewhere so that it could be copied by others without locating the
+original author.
 </para>
 <para>
-All of these "formalities" were abolished in the American system
-when we decided to follow European copyright law. There is no 
-		requirement
-that you register a work to get a copyright; the copyright
-now is automatic; the copyright exists whether or not you mark your
-work with a ©; and the copyright exists whether or not you actually
-make a copy available for others to copy.
+All of these "formalities" were abolished in the American system when
+we decided to follow European copyright law. There is no requirement
+that you register a work to get a copyright; the copyright now is
+automatic; the copyright exists whether or not you mark your work with
+a &copy;; and the copyright exists whether or not you actually make a
+copy available for others to copy.
 </para>
 <para>
-Consider a practical example to understand the scope of these 
-		differences.
+Consider a practical example to understand the scope of these
+differences.
 </para>
 <para>
 If, in 1790, you wrote a book and you were one of the 5 percent who
 actually copyrighted that book, then the copyright law protected you
-against another publisher's taking your book and republishing it 
-		without
-your permission. The aim of the act was to regulate publishers so
-as to prevent that kind of unfair competition. In 1790, there were 174
-publishers in the United States.<footnote><para>
+against another publisher's taking your book and republishing it
+without your permission. The aim of the act was to regulate publishers
+so as to prevent that kind of unfair competition. In 1790, there were
+174 publishers in the United States.<footnote><para>
 <!-- f13 -->
 See Thomas Bender and David Sampliner, "Poets, Pirates, and the 
 		Creation
