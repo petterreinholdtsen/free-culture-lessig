@@ -1,0 +1,10 @@
+Tips regarding DocBook XML tagging
+==================================
+
+To get entries in the Index at the back, add entries like this in the
+docbook source:
+
+  <indexterm><primary>ABC</primary></indexterm>
+
+This will result in the entry ABC showing up in the Index, with a
+reference to the page where it is mentioned.
