@@ -20782,7 +20782,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I don't blame Microsoft for doing what it can to advance its own interests, "
 "consistent with the law. And lobbying governments is plainly consistent with "
@@ -20790,11 +20789,11 @@ msgid ""
 "terribly surprising about the most powerful software producer in the United "
 "States having succeeded in its lobbying efforts."
 msgstr ""
-"jeg klandre ikke microsoft for å gjøre det den kan for å fremme sine egne "
-"interesser, i samsvar med loven. og lobbyvirksomhet regjeringer er tydelig i "
-"samsvar med loven. Det var ikke noe overraskende om sin lobbyvirksomhet her, "
-"og ingenting veldig overraskende om den mektigste programvare produsenten i "
-"USA har lyktes i sin lobbyvirksomhet innsats."
+"Jeg klandrer ikke Microsoft for å gjøre det de kan for å fremme sine egne "
+"interesser i samsvar med loven. Og lobbyvirksomhet mot myndighetene er åpenbart i "
+"samsvar med loven. Det er ikke noe overraskende her med deres lobbyvirksomhet, "
+"og ikke veldig overraskende at den mektigste programvareprodusenten i "
+"USA har lyktes med sin lobbyvirksomhet."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20816,9 +20815,8 @@ msgstr ""
 "rettigheter synes å oss å være i strid med målene for wipo.\""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid "These statements are astonishing on a number of levels."
-msgstr "disse utsagnene er forbløffende på flere nivåer."
+msgstr "Disse utsagnene er forbløffende på flere nivåer."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20832,7 +20830,7 @@ msgid ""
 "law student, but an embarrassment from a high government official dealing "
 "with intellectual property issues."
 msgstr ""
-"først, de er bare flatt feil. som jeg beskrevet, mest åpen kildekode og fri "
+"For det første er de enkelt og greit feil. som jeg beskrevet, mest åpen kildekode og fri "
 "programvare avhengig fundamentalt immaterielle rett kalt \"copyright.\" uten "
 "den, restriksjoner pålagt av disse lisensene ikke ville fungere. Derfor, for "
 "å si det \"kjører teller\" til mission for å fremme immaterielle rettigheter "
