@@ -23513,7 +23513,6 @@ msgstr ""
 "loven."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "In summary, then, my proposal is this:"
 msgstr "Oppsummert, så er mitt forslag dette:"
 
@@ -23618,22 +23617,20 @@ msgstr ""
 "Internett er."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "5. Fire Lots of Lawyers"
-msgstr "5. brann masse advokater"
+msgstr "5. Spark en masse advokater"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "I'm a lawyer. I make lawyers for a living. I believe in the law. I believe "
 "in the law of copyright. Indeed, I have devoted my life to working in law, "
 "not because there are big bucks at the end but because there are ideals at "
 "the end that I would love to live."
 msgstr ""
-"Jeg er en advokat. jeg gjøre advokater for en lever. Jeg tror på loven. Jeg "
-"tror på loven om opphavsrett. Jeg har faktisk viet livet til arbeider i lov, "
-"ikke fordi det er stor bukk på slutten, men fordi det er idealer på slutten "
-"som jeg ville elske å leve."
+"Jeg er en advokat. Jeg lever av å lage advokater. Jeg tror på loven. Jeg "
+"tror på opphavsrettsloven. Jeg har faktisk viet livet til å jobbe med loven, "
+"ikke fordi det er mye penger å tjene, men fordi det innebærer idealer "
+"som jeg elsker å leve opp til."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -23652,13 +23649,12 @@ msgstr ""
 
 #.  f10.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
 "Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069&ndash;70."
 msgstr ""
-"Lawrence lessig, \"copyright's first endring\" (melville b. nimmer memorial "
-"lecture), ucla lov gå gjennom 48 (2001): 1057, 1069­70."
+"Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer Memorial "
+"Lecture), UCLA law Review 48 (2001): 1057, 1069&ndash;70."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -23904,7 +23900,7 @@ msgid ""
 "Tadashi Shiraishi and Kiyokazu Yamagami for their generous help while I was "
 "there."
 msgstr ""
-"Yuko noguchi hjalp meg å forstå lovene i japan, så vel som sin kultur. Jeg "
+"Yuko Noguchi hjalp meg å forstå lovene i japan, så vel som sin kultur. Jeg "
 "er takknemlig til henne, og til mange i japan som hjalp meg med å forberede "
 "denne boken: joi ito, alt matsutani, naoto misaki, michihiro sasaki "
 "hiromichi tanaka, hiroo yamagata og yoshihiro yonezawa. Jeg er takknemlig så "
