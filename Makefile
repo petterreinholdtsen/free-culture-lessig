@@ -52,4 +52,4 @@ stats:
 	( \
 	date +"%Y-%m-%dT%H%M" ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
-	) | tee stats.txt
+	) | tee -a stats.txt
