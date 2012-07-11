@@ -8,3 +8,10 @@ docbook source:
 
 This will result in the entry ABC showing up in the Index, with a
 reference to the page where it is mentioned.
+
+Docbook howtos
+--------------
+
+http://developer.gnome.org/gdp-handbook/stable/docbook.html.en
+http://www.docbook.org/tdg/en/html/docbook.html
+

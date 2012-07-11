@@ -1,6 +1,10 @@
 Norwegian translation of Free Culture
 =====================================
 
+See
+http://people.skolelinux.org/pere/blog/Dugnad_for___sende_norsk_versjon_av_Free_Culture_til_stortingets_representanter_.html
+for a project description.
+
 Norwegian translation of the book Free Culture by Lessig.  Based on
 the <a href="http://www.sslug.dk/~chlor/lessig/">Docbook version by
 Hans Schou</a>.  Other versions of the book can be found from the
@@ -17,15 +21,10 @@ github repository</a>.
 Requirements
 ------------
 
-To build the PDF version of this book, the following Debian packages
-are needed:
+To build the PDF and EPUB version of this book, the following Debian
+packages are needed:
 
+  make
   po4a
   dblatex
   dbtoepub
-
-Docbook howtos
---------------
-
-http://developer.gnome.org/gdp-handbook/stable/docbook.html.en
-http://www.docbook.org/tdg/en/html/docbook.html
