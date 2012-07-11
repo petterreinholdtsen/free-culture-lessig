@@ -20128,10 +20128,10 @@ msgid ""
 "already died. Seventeen million Africans is proportional percentage-wise to "
 "seven million Americans. More importantly, it is seventeen million Africans."
 msgstr ""
-"Det er mer enn 35 millioner mennesker med AIDS-viruset over hele verden. "
-"tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten millioner har "
+"Det er mer enn 35 millioner mennesker over hele verden med AIDS-viruset. "
+"Tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten millioner har "
 "allerede dødd.  Sytten millioner afrikanere er prosentvis proporsjonalt med "
-"syv millioner amerikanere.  Mer viktig er at det er 17 millioner afrikanere."
+"syv millioner amerikanere.  Viktigere er det at dette er 17 millioner afrikanere."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20168,11 +20168,11 @@ msgid ""
 "thirty times the per capita gross national product of Zimbabwe. At these "
 "prices, the drugs are totally unavailable.<placeholder type=\"footnote\" id="
 "\"0\"/>"
-msgstr ""
+msgstr "Disse medisinene er dyre.  Da de ble først introdusert i USA, kostet de melom $10 000 og $15 000 pr. person hvert år.  I dag koster noen av dem $25 000 pr. år.  Med disse prisene har, selvfølgelig, ingen afrikansk stat  råd til medisinen for det store flertall av sine innbyggere: $15 000 er tredve ganger brutto nasjonalprodukt pr. innbygger i Zimbabwe.  Med slike priser er disse medisinene fullstendig utilgjengelig.<placeholder type=\"footnote\" id="
+"\"0\"/>"
 
 #.  PAGE BREAK 265
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "These prices are not high because the ingredients of the drugs are "
 "expensive. These prices are high because the drugs are protected by patents. "
@@ -20181,11 +20181,11 @@ msgid ""
 "extract the most they can from the market. That power is in turn used to "
 "keep the prices high."
 msgstr ""
-"disse prisene er ikke høy fordi ingrediensene av narkotika er dyrt. disse "
-"prisene er høy fordi narkotika er beskyttet av patenter. stoffet selskaper "
-"som produsert disse livreddende blander nyte minst tjue år monopol på sine "
-"oppfinnelser. de bruker den monopol makten til å trekke ut mest de kan fra "
-"markedet. den kraften i sin tur til å holde prisene som er høy."
+"Disse prisene er ikke høye fordi ingrediensene til medisinene er dyre.  Disse "
+"prisene er høye fordi medisinene er beskyttet av patenter.  Farmasiselskapene "
+"som produserer disse livreddende blandingene nyter minst tjue års monopol på sine "
+"oppfinnelser.  De bruker denne monopolmakten til å hente ut så mye de kan fra "
+"markedet.  Ved hjelp av denne makten holder de prisene høye."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
