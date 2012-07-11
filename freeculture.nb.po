@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-11 01:09+0300\n"
+"POT-Creation-Date: 2012-07-11 13:44+0300\n"
 "PO-Revision-Date: 2012-07-11 11:29+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -22,7 +22,7 @@ msgstr "©"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
-msgstr "no"
+msgstr "nb"
 
 #. type: Content of: <book><bookinfo><title>
 msgid "Free Culture"
@@ -102,7 +102,8 @@ msgstr "Info"
 
 #. type: Content of: <book><chapter><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
-msgstr "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
+msgstr ""
+"Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
 #. type: Content of: <book><chapter><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
@@ -121,10 +122,6 @@ msgid "ALSO BY LAWRENCE LESSIG"
 msgstr "Andre bøker av Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans
-#| msgid ""
-#| "ALSO BY LAWRENCE LESSIG The Future of Ideas: The Fate of the Commons in a "
-#| "Connected World Code: And Other Laws of Cyberspace"
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
 msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
@@ -156,7 +153,8 @@ msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-msgid "a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
+msgid ""
+"a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -175,7 +173,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-msgid "Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
+msgid ""
+"Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -261,13 +260,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans
 msgid ""
 "To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
 "continues still."
 msgstr ""
-"Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for hvem "
-"saken fortsetter."
+"Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for "
+"hvem saken fortsetter."
 
 #. type: Content of: <book><chapter><para>
 msgid "&translationblock;"
@@ -278,10 +276,8 @@ msgid "Creative Commons, Some rights reserved"
 msgstr "Creative Commons, noen rettigheter reservert"
 
 #. type: Content of: <book><chapter><figure>
-#, mtrans
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/cc.png\"></graphic>"
-msgstr "<graphic fileref=\"images/cc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/cc.png\"></graphic>"
 
 #. type: Content of: <book><chapter><lot><title>
 msgid "List of figures"
@@ -642,7 +638,7 @@ msgid ""
 "by Keith Aoki's wonderful piece, \"(Intellectual) Property and Sovereignty: "
 "Notes Toward a Cultural Geography of Authorship,\" Stanford Law Review 48 "
 "(1996): 1293, 1333. See also Paul Goldstein, Real Property (Mineola, N.Y.: "
-"Foundation Press, 1984), 1112­13."
+"Foundation Press, 1984), 1112&ndash;13."
 msgstr ""
 "USA v. causby, amerikanske 328 (1946): 256, 261. domstolen fant at det kan "
 "bli en \"tar\" Hvis regjeringens bruken av sine land ødelagt effektivt "
@@ -1117,7 +1113,7 @@ msgid ""
 "exclusive right to first publication, state copyright law gave authors the "
 "power to control the spread of facts about them. See Samuel D. Warren and "
 "Louis D. Brandeis, \"The Right to Privacy,\" Harvard Law Review 4 (1890): "
-"193, 198­200."
+"193, 198&ndash;200."
 msgstr ""
 "Dette er ikke det eneste formålet med opphavsrett, men det er overveldende "
 "Hovedformålet med opphavsretten etablert i federal grunnlov. copyright "
@@ -1273,9 +1269,9 @@ msgid ""
 "that \"piracy\" is wrong, and that the law, properly tuned, should punish "
 "\"piracy,\" whether on or off the Internet."
 msgstr ""
-"Hvis dette virkelig var alternativene, så ville jeg være enig med Jack Valenti og "
-"innholdsindustrien. Jeg, også, er en troende i eiendom, og særlig i betydningen "
-"av hva mr. Valenti samtaler \"kreativ eiendom.\" Jeg tror at "
+"Hvis dette virkelig var alternativene, så ville jeg være enig med Jack "
+"Valenti og innholdsindustrien. Jeg, også, er en troende i eiendom, og særlig "
+"i betydningen av hva mr. Valenti samtaler \"kreativ eiendom.\" Jeg tror at "
 "\"piratkopiering\" er galt, og at loven, riktig innstilt, skal straffe pent "
 "\"piratkopiering\", enten av eller på Internett."
 
@@ -1320,9 +1316,9 @@ msgid ""
 "Yet the law's response to the Internet, when tied to changes in the "
 "technology of the Internet itself, has massively increased the effective "
 "regulation of creativity in America. To build upon or critique the culture "
-"around us one must ask, Oliver Twist­like, for permission first.  Permission "
-"is, of course, often granted&mdash;but it is not often granted to the "
-"critical or the independent. We have built a kind of cultural nobility; "
+"around us one must ask, Oliver Twist&ndash;like, for permission first.  "
+"Permission is, of course, often granted&mdash;but it is not often granted to "
+"the critical or the independent. We have built a kind of cultural nobility; "
 "those within the noble class live easily; those outside it don't. But it is "
 "nobility of any form that is alien to our tradition."
 msgstr ""
@@ -1888,7 +1884,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons "
-"(New York: Penguin Books, 1987), 34­35."
+"(New York: Penguin Books, 1987), 34&ndash;35."
 msgstr ""
 "Leonard maltin, mus og magic: a history of american animerte-tegneserier "
 "(new york: penguin books, 1987), 34­35."
@@ -2291,8 +2287,8 @@ msgid ""
 "For an excellent history, see Scott McCloud, Reinventing Comics (New York: "
 "Perennial, 2000)."
 msgstr ""
-"For en utmerket historie, se Scott McCloud, Reinventing Comics "
-"(New York: Perennial, 2000)."
+"For en utmerket historie, se Scott McCloud, Reinventing Comics (New York: "
+"Perennial, 2000)."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -2840,8 +2836,8 @@ msgstr ""
 msgid ""
 "See Melville B. Nimmer, \"The Right of Publicity,\" Law and Contemporary "
 "Problems 19 (1954): 203; William L. Prosser, \"Privacy,\" California Law "
-"Review 48 (1960) 398­407; White v. Samsung Electronics America, Inc., 971 F.  "
-"2d 1395 (9th Cir. 1992), cert. denied, 508 U.S. 951 (1993)."
+"Review 48 (1960) 398&ndash;407; White v. Samsung Electronics America, Inc., "
+"971 F.  2d 1395 (9th Cir. 1992), cert. denied, 508 U.S. 951 (1993)."
 msgstr ""
 "se melville b. nimmer, \"rett publisitet,\" lov og moderne problemer 19 "
 "(1954): 203; William l. prosser, \"personvern\", california lov gå gjennom "
@@ -3531,8 +3527,8 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"Cass Sunstein, Republic.com (Princeton: Princeton University Press, 2001), 65­"
-"80, 175, 182, 183, 192."
+"Cass Sunstein, Republic.com (Princeton: Princeton University Press, 2001), "
+"65&ndash;80, 175, 182, 183, 192."
 msgstr ""
 "Cass sunstein, republic.com (princeton: princeton university press, 2001), 65­"
 "80, 175, 182, 183, 192."
@@ -4321,9 +4317,9 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"Occupational Employment Survey, U.S. Dept. of Labor (2001)  (27­2042&mdash;"
-"Musicians and Singers). See also National Endowment for the Arts, More Than "
-"One in a Blue Moon (2000)."
+"Occupational Employment Survey, U.S. Dept. of Labor (2001)  "
+"(27&ndash;2042&mdash;Musicians and Singers). See also National Endowment for "
+"the Arts, More Than One in a Blue Moon (2000)."
 msgstr ""
 "yrkesmessig sysselsetting undersøkelse, US dept. of labor (2001) (27­2042--"
 "musikere og vokalister). Se også nasjonale legat for arts, mer enn en i en "
@@ -4424,8 +4420,8 @@ msgstr "filmen"
 #, mtrans, fuzzy
 msgid ""
 "I am grateful to Peter DiMauro for pointing me to this extraordinary "
-"history.  See also Siva Vaidhyanathan, Copyrights and Copywrongs, 87­93, "
-"which details Edison's \"adventures\" with copyright and patent."
+"history.  See also Siva Vaidhyanathan, Copyrights and Copywrongs, "
+"87&ndash;93, which details Edison's \"adventures\" with copyright and patent."
 msgstr ""
 "Jeg er takknemlig til peter dimauro for å sette meg til dette ekstraordinære "
 "historie. Se også siva vaidhyanathan, opphavsrett og copywrongs, 87­93, som "
@@ -4681,9 +4677,9 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"To Amend and Consolidate the Acts Respecting Copyright, 283­84 (statement of "
-"Albert Walker, representative of the Auto-Music Perforating Company of New "
-"York)."
+"To Amend and Consolidate the Acts Respecting Copyright, 283&ndash;84 "
+"(statement of Albert Walker, representative of the Auto-Music Perforating "
+"Company of New York)."
 msgstr ""
 "endre og konsolidere handlinger som respekterer opphavsrett, 283­84 (setning "
 "av albert walker, er representative for auto-musikk perforating selskapet i "
@@ -5326,18 +5322,18 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "See Peter Drahos with John Braithwaite, Information Feudalism: Who Owns the "
-"Knowledge Economy? (New York: The New Press, 2003), 10­13, 209.  The Trade-"
-"Related Aspects of Intellectual Property Rights (TRIPS) agreement obligates "
-"member nations to create administrative and enforcement mechanisms for "
-"intellectual property rights, a costly proposition for developing countries. "
-"Additionally, patent rights may lead to higher prices for staple industries "
-"such as agriculture. Critics of TRIPS question the disparity between burdens "
-"imposed upon developing countries and benefits conferred to industrialized "
-"nations. TRIPS does permit governments to use patents for public, "
-"noncommercial uses without first obtaining the patent holder's permission. "
-"Developing nations may be able to use this to gain the benefits of foreign "
-"patents at lower prices. This is a promising strategy for developing nations "
-"within the TRIPS framework."
+"Knowledge Economy? (New York: The New Press, 2003), 10&ndash;13, 209.  The "
+"Trade-Related Aspects of Intellectual Property Rights (TRIPS) agreement "
+"obligates member nations to create administrative and enforcement mechanisms "
+"for intellectual property rights, a costly proposition for developing "
+"countries. Additionally, patent rights may lead to higher prices for staple "
+"industries such as agriculture. Critics of TRIPS question the disparity "
+"between burdens imposed upon developing countries and benefits conferred to "
+"industrialized nations. TRIPS does permit governments to use patents for "
+"public, noncommercial uses without first obtaining the patent holder's "
+"permission. Developing nations may be able to use this to gain the benefits "
+"of foreign patents at lower prices. This is a promising strategy for "
+"developing nations within the TRIPS framework."
 msgstr ""
 "se peter drahos med john braithwaite, informasjon Føydalisme: hvem som eier "
 "knowledge economy? (new york: ny press, 2003), 10­13, 209. handel-relaterte "
@@ -5368,11 +5364,12 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "For an analysis of the economic impact of copying technology, see Stan "
-"Liebowitz, Rethinking the Network Economy (New York: Amacom, 2002), 144­90. "
-"\"In some instances . . . the impact of piracy on the copyright holder's "
-"ability to appropriate the value of the work will be negligible. One obvious "
-"instance is the case where the individual engaging in pirating would not "
-"have purchased an original even if pirating were not an option.\" Ibid., 149."
+"Liebowitz, Rethinking the Network Economy (New York: Amacom, 2002), "
+"144&ndash;90. \"In some instances . . . the impact of piracy on the "
+"copyright holder's ability to appropriate the value of the work will be "
+"negligible. One obvious instance is the case where the individual engaging "
+"in pirating would not have purchased an original even if pirating were not "
+"an option.\" Ibid., 149."
 msgstr ""
 "for en analyse av økonomiske virkningen av kopiering teknologi, kan du se "
 "stan liebowitz, rethinking nettverk økonomien (new york: amacom, 2002), 144­"
@@ -5590,7 +5587,7 @@ msgid ""
 "alternative to assure the author of his profit."
 msgstr ""
 
-#.  f5
+#.  f5 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5601,7 +5598,7 @@ msgid ""
 "with the most creative, paradigm-shifting uses for their own products.  This "
 "job usually falls to outside innovators, who reassemble existing technology "
 "in inventive ways. For a discussion of Christensen's ideas, see Lawrence "
-"Lessig, Future, 89­92, 139."
+"Lessig, Future, 89&ndash;92, 139."
 msgstr ""
 "se clayton m christensen, nyskapers dilemma: revolusjonerende nasjonale "
 "bestselgeren som endret måten vi gjør forretninger (new york: "
@@ -5809,7 +5806,7 @@ msgstr "hvordan disse ulike typer deling balanse?"
 #.  f9
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "See Liebowitz, Rethinking the Network Economy,148­49."
+msgid "See Liebowitz, Rethinking the Network Economy,148&ndash;49."
 msgstr "se liebowitz, rethinking nettverk økonomien, 148­49."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -5854,7 +5851,7 @@ msgid ""
 "had taped music to a cassette format. U.S.  Congress, Office of Technology "
 "Assessment, Copyright and Home Copying: Technology Challenges the Law, OTA-"
 "CIT-422 (Washington, D.C.: U.S.  Government Printing Office, October 1989), "
-"145­56."
+"145&ndash;56."
 msgstr ""
 "se cap gemini ernst og unge, teknologiutviklingen og music industriens "
 "business modell krisen (2003), 3. Denne rapporten beskriver musikkbransjens "
@@ -6235,7 +6232,7 @@ msgid ""
 "<ulink url=\"http://free-culture.cc/notes/\">link #21</ulink>. For an "
 "account of the litigation and its toll on Napster, see Joseph Menn, All the "
 "Rave: The Rise and Fall of Shawn Fanning's Napster (New York: Crown "
-"Business, 2003), 269­82."
+"Business, 2003), 269&ndash;82."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -6631,7 +6628,7 @@ msgid ""
 "S.C. §1001. Again, however, this regulation did not eliminate the "
 "opportunity for free riding in the sense I've described. See Lessig, Future, "
 "71. See also Picker, \"From Edison to the Broadcast Flag,\" University of "
-"Chicago Law Review 70 (2003): 293­96."
+"Chicago Law Review 70 (2003): 293&ndash;96."
 msgstr ""
 "disse er de viktigste forekomstene i vår historie, men det finnes andre "
 "tilfeller også. teknologi for digital audio tape (dat), for eksempel var "
@@ -6699,7 +6696,8 @@ msgstr ""
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
+msgid ""
+"Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
 msgstr ""
 "Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, (1984)."
@@ -6826,7 +6824,7 @@ msgstr ""
 msgid ""
 "Letter from Thomas Jefferson to Isaac McPherson (13 August 1813) in The "
 "Writings of Thomas Jefferson, vol. 6 (Andrew A. Lipscomb and Albert Ellery "
-"Bergh, eds., 1903), 330, 333­34."
+"Bergh, eds., 1903), 330, 333&ndash;34."
 msgstr ""
 "brev fra thomas jefferson til isaac mcpherson (13 august 1813) i skrifter av "
 "thomas jefferson, vol. 6 (andrew a. lipscomb og albert ellery bergh, Red., "
@@ -6943,7 +6941,7 @@ msgid ""
 "Juliet, he published an astonishing array of works that still remain at the "
 "heart of the English canon, including collected works of Shakespeare, Ben "
 "Jonson, John Milton, and John Dryden. See Keith Walker, \"Jacob Tonson, "
-"Bookseller,\" American Scholar 61:3 (1992): 424­31."
+"Bookseller,\" American Scholar 61:3 (1992): 424&ndash;31."
 msgstr ""
 "Jacob tonson er vanligvis husket for hans assosiasjoner med fremtredende "
 "1700-tallet litterære figurer, spesielt john dryden, og for hans kjekk "
@@ -6958,7 +6956,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Lyman Ray Patterson, Copyright in Historical Perspective (Nashville: "
-"Vanderbilt University Press, 1968), 151­52."
+"Vanderbilt University Press, 1968), 151&ndash;52."
 msgstr ""
 "Lyman rokke patterson, copyright i historisk perspektiv (nashville: "
 "vanderbilt university press, 1968), 151­52."
@@ -7370,7 +7368,7 @@ msgstr ""
 msgid ""
 "Lyman Ray Patterson, \"Free Speech, Copyright, and Fair Use,\" Vanderbilt "
 "Law Review 40 (1987): 28. For a wonderfully compelling account, see "
-"Vaidhyanathan, 37­48."
+"Vaidhyanathan, 37&ndash;48."
 msgstr ""
 "Lyman rokke patterson, \"ytringsfriheten, opphavsrett, og rettferdig bruk\" "
 "vanderbilt lov gå gjennom 40 (1987): 28. for en fantastisk overbevisende-"
@@ -7392,7 +7390,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "For a compelling account, see David Saunders, Authorship and Copyright "
-"(London: Routledge, 1992), 62­69."
+"(London: Routledge, 1992), 62&ndash;69."
 msgstr ""
 "Hvis en overbevisende-konto, kan du se david saunders, forfatterskap og "
 "opphavsrett (london: routledge, 1992), 62­69."
@@ -7959,7 +7957,8 @@ msgstr ""
 #.  PAGE BREAK 109
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid "So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
+msgid ""
+"So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
 msgstr ""
 "så jeg spurte er hvorfor han ikke bare stole på \"rettferdig bruk.\" her "
 "annet hans svar:"
@@ -8985,14 +8984,14 @@ msgstr ""
 "sikre at en kopi av arbeidet vil være rundt når opphavsretten utløpt, slik "
 "at andre kan få tilgang til og kopiere arbeidet."
 
-#.  f2
+#.  f2 
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Doug Herrick, \"Toward a National Film Collection: Motion Pictures at the "
-"Library of Congress,\" Film Library Quarterly 13 nos. 2­3 (1980): 5; Anthony "
-"Slide, Nitrate Won't Wait: A History of Film Preservation in the United "
-"States ( Jefferson, N.C.: McFarland &amp; Co., 1992), 36."
+"Library of Congress,\" Film Library Quarterly 13 nos. 2&ndash;3 (1980): 5; "
+"Anthony Slide, Nitrate Won't Wait: A History of Film Preservation in the "
+"United States ( Jefferson, N.C.: McFarland &amp; Co., 1992), 36."
 msgstr ""
 "Doug herrick, \"mot en nasjonal Filmsamling: filmindustrien på library of "
 "congress,\" film biblioteket kvartalsvise 13 nr 2­3 (1980): 5; Anthony "
@@ -9411,8 +9410,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
-msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+msgid ""
+"In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
+msgstr ""
+"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -9494,7 +9495,7 @@ msgid ""
 "the right to drive at 150 miles an hour. For the best effort to connect the "
 "ordinary meaning of \"property\" to \"lawyer talk,\" see Bruce Ackerman, "
 "Private Property and the Constitution (New Haven: Yale University Press, "
-"1977), 26­27."
+"1977), 26&ndash;27."
 msgstr ""
 "advokater snakker om \"property\" ikke som en absolute ting, men som en bunt "
 "av rettigheter som er noen ganger knyttet til bestemte objekter. Dermed gir "
@@ -9729,10 +9730,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1331.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1331.png\"></graphic>"
 
 #.  PAGE BREAK 133
 #. type: Content of: <book><chapter><sect1><para>
@@ -9897,8 +9896,8 @@ msgid ""
 "only distinction is that it alone speaks as if it has a right self-"
 "consciously to change the other three. The right of the other three is more "
 "timidly expressed.  See Lawrence Lessig, Code: And Other Laws of Cyberspace "
-"(New York: Basic Books, 1999): 90­95; Lawrence Lessig, \"The New Chicago "
-"School,\" Journal of Legal Studies, June 1998."
+"(New York: Basic Books, 1999): 90&ndash;95; Lawrence Lessig, \"The New "
+"Chicago School,\" Journal of Legal Studies, June 1998."
 msgstr ""
 "ved å beskrive hvordan trenger ikke loven påvirker andre tre metoder, jeg "
 "bety å foreslå at tre andre ikke påvirker lov. Selvfølgelig, de gjør. law's "
@@ -9930,12 +9929,10 @@ msgid "Law has a special role in affecting the three."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1361.png\"></graphic>"
 
-#.  f4
+#.  f4 
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10023,7 +10020,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "Let's say this is the picture of copyright's regulation before the Internet:"
+msgid ""
+"Let's say this is the picture of copyright's regulation before the Internet:"
 msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
@@ -10093,10 +10091,8 @@ msgid "effective state of anarchy after the Internet."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1381.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1381.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10203,7 +10199,7 @@ msgstr ""
 #.  f6
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170­71."
+msgid "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
 msgstr "fred warshofsky, patent krigene (new york: wiley, 1994), 170­71."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -10542,10 +10538,8 @@ msgid "&quot;Copyright&quot; today."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1442.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1442.png\"></graphic>"
 
 #.  PAGE BREAK 144
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -10563,10 +10557,10 @@ msgstr "loven: varighet"
 #, mtrans, fuzzy
 msgid ""
 "William W. Crosskey, Politics and the Constitution in the History of the "
-"United States (London: Cambridge University Press, 1953), vol. 1, 485­86: "
-"\"extinguish[ing], by plain implication of `the supreme Law of the Land,' "
-"the perpetual rights which authors had, or were supposed by some to have, "
-"under the Common Law\" (emphasis added)."
+"United States (London: Cambridge University Press, 1953), vol. 1, "
+"485&ndash;86: \"extinguish[ing], by plain implication of `the supreme Law of "
+"the Land,' the perpetual rights which authors had, or were supposed by some "
+"to have, under the Common Law\" (emphasis added)."
 msgstr ""
 "William w. crosskey, politikk og Grunnloven i historien av USA (london: "
 "cambridge university press, 1953), vol. 1, 485­86: \"slukke [ing], ved vanlig "
@@ -10621,22 +10615,22 @@ msgstr ""
 "opphavsretten for en annen fjorten år. Hvis han ikke fornye opphavsretten, "
 "bestått hans arbeid i public domain."
 
-#.  f9
+#.  f9 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Although 13,000 titles were published in the United States from 1790 to "
 "1799, only 556 copyright registrations were filed; John Tebbel, A History of "
 "Book Publishing in the United States, vol. 1, The Creation of an Industry, "
-"1630­1865 (New York: Bowker, 1972), 141. Of the 21,000 imprints recorded "
-"before 1790, only twelve were copyrighted under the 1790 act; William J. "
-"Maher, Copyright Term, Retrospective Extension and the Copyright Law of 1790 "
-"in Historical Context, 7­10 (2002), available at <ulink url=\"http://free-"
-"culture.cc/notes/\">link #25</ulink>.  Thus, the overwhelming majority of "
-"works fell immediately into the public domain. Even those works that were "
-"copyrighted fell into the public domain quickly, because the term of "
-"copyright was short. The initial term of copyright was fourteen years, with "
-"the option of renewal for an additional fourteen years. Copyright Act of May "
-"31, 1790, §1, 1 stat. 124."
+"1630&ndash;1865 (New York: Bowker, 1972), 141. Of the 21,000 imprints "
+"recorded before 1790, only twelve were copyrighted under the 1790 act; "
+"William J. Maher, Copyright Term, Retrospective Extension and the Copyright "
+"Law of 1790 in Historical Context, 7&ndash;10 (2002), available at <ulink "
+"url=\"http://free-culture.cc/notes/\">link #25</ulink>.  Thus, the "
+"overwhelming majority of works fell immediately into the public domain. Even "
+"those works that were copyrighted fell into the public domain quickly, "
+"because the term of copyright was short. The initial term of copyright was "
+"fourteen years, with the option of renewal for an additional fourteen years. "
+"Copyright Act of May 31, 1790, §1, 1 stat. 124."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -10677,7 +10671,7 @@ msgid ""
 "York: Practicing Law Institute, 1963), 618. For a more recent and "
 "comprehensive analysis, see William M. Landes and Richard A.  Posner, "
 "\"Indefinitely Renewable Copyright,\" University of Chicago Law Review 70 "
-"(2003): 471, 498­501, and accompanying figures."
+"(2003): 471, 498&ndash;501, and accompanying figures."
 msgstr ""
 "noen rettighetshavere valgte noensinne å fornye sine opphavsrettigheter. for "
 "eksempel av 25,006 opphavsretten registrert i 1883, ble bare 894 fornyet i "
@@ -10994,7 +10988,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "Consider a practical example to understand the scope of these differences."
+msgid ""
+"Consider a practical example to understand the scope of these differences."
 msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
 
 #.  f13
@@ -11004,7 +10999,7 @@ msgid ""
 "See Thomas Bender and David Sampliner, \"Poets, Pirates, and the Creation of "
 "American Literature,\" 29 New York University Journal of International Law "
 "and Politics 255 (1997), and James Gilraeth, ed., Federal Copyright Records, "
-"1790­1800 (U.S. G.P.O., 1987)."
+"1790&ndash;1800 (U.S. G.P.O., 1987)."
 msgstr ""
 "se thomas bender og david sampliner, \"poeter, pirater og etableringen av "
 "amerikansk litteratur,\" 29 new york university journal of internasjonal lov "
@@ -11143,7 +11138,7 @@ msgid ""
 "the difference that copyright law should draw (from the perspective of the "
 "First Amendment) between mere \"copies\" and derivative works. See Jed "
 "Rubenfeld, \"The Freedom of Imagination: Copyright's Constitutionality,\" "
-"Yale Law Journal 112 (2002): 1­60 (see especially pp. 53­59)."
+"Yale Law Journal 112 (2002): 1&ndash;60 (see especially pp. 53&ndash;59)."
 msgstr ""
 "professor rubenfeld har presentert en kraftig konstitusjonelle argument om "
 "forskjellen som lov om opphavsrett bør trekke (fra perspektivet til den "
@@ -11280,10 +11275,8 @@ msgid "All potential uses of a book."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1521.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1521.png\"></graphic>"
 
 #.  PAGE BREAK 152
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11317,10 +11310,8 @@ msgid "Examples of unregulated uses of a book."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1531.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1531.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11355,10 +11346,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1541.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1541.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11386,10 +11375,8 @@ msgid "Unregulated copying considered &quot;fair uses.&quot;"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1542.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1542.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid ""
@@ -11398,10 +11385,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1551.png\"></graphic>"
 
 #.  PAGE BREAK 154
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11792,7 +11777,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "See David Lange, \"Recognizing the Public Domain,\" Law and Contemporary "
-"Problems 44 (1981): 172­73."
+"Problems 44 (1981): 172&ndash;73."
 msgstr ""
 "se david lange, \"erkjenner allemannseie,\" lov og moderne problemer 44 "
 "(1981): 172­73."
@@ -11809,7 +11794,7 @@ msgstr ""
 #.  f20
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1­3."
+msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
 msgstr "ibid. se også vaidhyanathan, opphavsrett og copywrongs, 1­3."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11873,8 +11858,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "On the next page is a picture of an old version of my Adobe eBook Reader."
-msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgid ""
+"On the next page is a picture of an old version of my Adobe eBook Reader."
+msgstr ""
+"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #.  PAGE BREAK 160
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11898,13 +11885,12 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 #, mtrans, fuzzy
 msgid "Picture of an old version of Adobe eBook Reader"
-msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgstr ""
+"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1611.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1611.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11923,10 +11909,8 @@ msgstr ""
 "som utgiveren hensikt å gi med denne boken."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1612.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1612.png\"></graphic>"
 
 #.  PAGE BREAK 161
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11958,10 +11942,8 @@ msgid "E-book of Aristotle;s &quot;Politics&quot;"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1621.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1621.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11977,10 +11959,8 @@ msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1622.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11996,10 +11976,8 @@ msgid "List of the permissions for &quot;The Future of Ideas&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1631.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1631.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12141,14 +12119,13 @@ msgstr ""
 "du klikket på tillatelser for boken, fikk du det fulgte rapporten:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
-msgid "List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
+msgid ""
+"List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1641.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1641.png\"></graphic>"
 
 #.  PAGE BREAK 164
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -12652,7 +12629,7 @@ msgid ""
 "Sony Corporation of America v. Universal City Studios, Inc., 464 U.S. 417, "
 "455 fn. 27 (1984). Rogers never changed his view about the VCR. See James "
 "Lardner, Fast Forward: Hollywood, the Japanese, and the Onslaught of the VCR "
-"(New York: W. W. Norton, 1987), 270­71."
+"(New York: W. W. Norton, 1987), 270&ndash;71."
 msgstr ""
 "Sony corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, 455 fn. 27 (1984). Rogers endret aldri sitt syn om videoopptakeren. se "
@@ -12689,13 +12666,16 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
-msgstr "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
+msgid ""
+"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+msgstr ""
+"Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "No argument I have can top this picture, but let me try to get close."
-msgstr "ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
+msgstr ""
+"ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12734,10 +12714,8 @@ msgid "VCR/handgun cartoon."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1711.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1711.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12963,8 +12941,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "These changes are of two sorts: the scope of concentration, and its nature."
-msgstr "disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
+msgid ""
+"These changes are of two sorts: the scope of concentration, and its nature."
+msgstr ""
+"disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
 
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -13098,13 +13078,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "Pattern of modern media ownership."
-msgstr ""
+msgstr "Mønster for moderne mediaeierskap."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
-#, mtrans, fuzzy
-#| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/1761.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/1761.png\"></graphic>"
 
 #.  PAGE BREAK 175
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -13301,8 +13279,8 @@ msgid ""
 "School Press, 1997). Christensen acknowledges that the idea was first "
 "suggested by Dean Kim Clark. See Kim B. Clark, \"The Interaction of Design "
 "Hierarchies and Market Concepts in Technological Evolution,\" Research "
-"Policy 14 (1985): 235­51. For a more recent study, see Richard Foster and "
-"Sarah Kaplan, Creative Destruction: Why Companies That Are Built to Last "
+"Policy 14 (1985): 235&ndash;51. For a more recent study, see Richard Foster "
+"and Sarah Kaplan, Creative Destruction: Why Companies That Are Built to Last "
 "Underperform the Market&mdash;and How to Successfully Transform Them (New "
 "York: Currency/Doubleday, 2001)."
 msgstr ""
@@ -13469,9 +13447,9 @@ msgid ""
 "related air time there is very little that the FCC or the courts are willing "
 "to do to even the playing field. For a general overview, see Rhonda Brown, "
 "\"Ad Hoc Access: The Regulation of Editorial Advertising on Television and "
-"Radio,\" Yale Law and Policy Review 6 (1988): 449­79, and for a more recent "
-"summary of the stance of the FCC and the courts, see Radio-Television News "
-"Directors Association v. FCC, 184 F. 3d 872 (D.C. Cir. 1999). Municipal "
+"Radio,\" Yale Law and Policy Review 6 (1988): 449&ndash;79, and for a more "
+"recent summary of the stance of the FCC and the courts, see Radio-Television "
+"News Directors Association v. FCC, 184 F. 3d 872 (D.C. Cir. 1999). Municipal "
 "authorities exercise the same authority as the networks. In a recent example "
 "from San Francisco, the San Francisco transit authority rejected an ad that "
 "criticized its Muni diesel buses. Phillip Matier and Andrew Ross, "
@@ -13638,7 +13616,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Siva Vaidhyanathan captures a similar point in his \"four surrenders\" of "
-"copyright law in the digital age. See Vaidhyanathan, 159­60."
+"copyright law in the digital age. See Vaidhyanathan, 159&ndash;60."
 msgstr ""
 "Siva vaidhyanathan registrerer en liknende punktet i sin \"fire etableres\" "
 "om opphavsrett i den digitale tidsalderen. se vaidhyanathan, 159­60."
@@ -15175,14 +15153,15 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "\"Copyright and Digital Media in a Post-Napster World,\" GartnerG2 and the "
-"Berkman Center for Internet and Society at Harvard Law School (2003), 33­35, "
-"available at <ulink url=\"http://free-culture.cc/notes/\">link #44</ulink>."
+"Berkman Center for Internet and Society at Harvard Law School (2003), "
+"33&ndash;35, available at <ulink url=\"http://free-culture.cc/notes/\">link "
+"#44</ulink>."
 msgstr ""
 
 #.  f7.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "GartnerG2, 26­27."
+msgid "GartnerG2, 26&ndash;27."
 msgstr "gartnerg2, 26­27."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -15260,8 +15239,10 @@ msgstr ""
 #.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
-msgstr "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
+msgid ""
+"Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
+msgstr ""
+"Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -15333,8 +15314,9 @@ msgid ""
 "content. And in March of the same year, Senator Fritz Hollings introduced "
 "the Consumer Broadband and Digital Television Promotion Act, which mandated "
 "copyright protection technology in all digital media devices. See GartnerG2, "
-"\"Copyright and Digital Media in a Post-Napster World,\" 27 June 2003, 33­34, "
-"available at <ulink url=\"http://free-culture.cc/notes/\">link #44</ulink>."
+"\"Copyright and Digital Media in a Post-Napster World,\" 27 June 2003, "
+"33&ndash;34, available at <ulink url=\"http://free-culture.cc/notes/\">link "
+"#44</ulink>."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -15595,7 +15577,8 @@ msgstr "tidssonen til opprinnelse av overføring;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
-msgid "numeric designation of the place of the sound recording within the program;"
+msgid ""
+"numeric designation of the place of the sound recording within the program;"
 msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -16246,7 +16229,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
+msgid ""
+"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
 msgstr ""
 "\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
 
@@ -16924,7 +16908,8 @@ msgstr ""
 msgid ""
 "\"Hope?\" a fellow board member says. \"Can't we be doing something about it?"
 "\""
-msgstr "\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
+msgstr ""
+"\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -16965,7 +16950,8 @@ msgstr ""
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
-msgstr "du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
+msgstr ""
+"du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -18805,7 +18791,8 @@ msgstr ""
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
-msgstr "Her følger min klart feil. som professor korrigere en student, svarte jeg,"
+msgstr ""
+"Her følger min klart feil. som professor korrigere en student, svarte jeg,"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
@@ -19567,7 +19554,7 @@ msgid ""
 "Library. The German Copyright Act provides for a Registrar of Authors where "
 "the author's true name can be filed in the case of anonymous or pseudonymous "
 "works. Paul Goldstein, International Intellectual Property Law, Cases and "
-"Materials (New York: Foundation Press, 2001), 153­54."
+"Materials (New York: Foundation Press, 2001), 153&ndash;54."
 msgstr ""
 "før det 1908 berlin handle av berne konvensjonen, nasjonal opphavsrett "
 "lovgivning noen ganger gjort beskyttelse som er avhengige av samsvar med "
@@ -20138,20 +20125,18 @@ msgid "CONCLUSION"
 msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There are more than 35 million people with the AIDS virus worldwide. Twenty-"
 "five million of them live in sub-Saharan Africa.  Seventeen million have "
 "already died. Seventeen million Africans is proportional percentage-wise to "
 "seven million Americans. More importantly, it is seventeen million Africans."
 msgstr ""
-"Det er mer enn 35 millioner mennesker med aids-viruset over hele verden. "
-"tyve - fem millioner av dem bor i Subsaharisk Afrika. sytten millioner har "
-"allerede døde. sytten millioner afrikanere er proporsjonal percentage-wise "
-"syv millioner amerikanere. enda viktigere er det 17 millioner afrikanere."
+"Det er mer enn 35 millioner mennesker med AIDS-viruset over hele verden. "
+"tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten millioner har "
+"allerede dødd.  Sytten millioner afrikanere er prosentvis proporsjonalt med "
+"syv millioner amerikanere.  Mer viktig er at det er 17 millioner afrikanere."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There is no cure for AIDS, but there are drugs to slow its progression.  "
 "These antiretroviral therapies are still experimental, but they have already "
@@ -20159,11 +20144,12 @@ msgid ""
 "take a cocktail of these drugs increase their life expectancy by ten to "
 "twenty years. For some, the drugs make the disease almost invisible."
 msgstr ""
-"Det er ingen kur for aids, men det er narkotika å redusere sin progresjon. "
-"disse antiretroviral terapi er fortsatt eksperimentelle, men de har allerede "
-"hatt en dramatisk effekt. i USA øke aids-pasienter som regelmessig tar en "
-"cocktail av disse stoffene deres levealder ved ti til tjue år. for noen "
-"gjøre narkotika sykdommen nesten usynlig."
+"Det finnes ingen kur for AIDS, men det finnes medisiner som kan hemme "
+"sykdommens utvikling.  Disse antiretrovirale terapiene er fortsatt "
+"eksperimentelle, men de har hatt en dramatisk effekt allerede.  I USA øker "
+"AIDS-pasienter som regelmessig tar en cocktail av disse medisinene sin "
+"levealder med ti til tjue år. For noen gjøre medisinene sykdommen nesten "
+"usynlig."
 
 #.  f1.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -20271,7 +20257,7 @@ msgid ""
 "ulink>. For a firsthand account of the struggle over South Africa, see "
 "Hearing Before the Subcommittee on Criminal Justice, Drug Policy, and Human "
 "Resources, House Committee on Government Reform, H. Rep., 1st sess., Ser. "
-"No. 106-126 (22 July 1999), 150­57 (statement of James Love)."
+"No. 106-126 (22 July 1999), 150&ndash;57 (statement of James Love)."
 msgstr ""
 
 #.  f4.
@@ -20954,7 +20940,7 @@ msgstr ""
 #.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
-msgid "See Drahos with Braithwaite, Information Feudalism, 210­20."
+msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
 msgstr "se drahos med braithwaite, informasjon føydalisme, 210­20."
 
 #. type: Content of: <book><chapter><para>
@@ -21545,11 +21531,11 @@ msgstr ""
 msgid ""
 "See, for example, Marc Rotenberg, \"Fair Information Practices and the "
 "Architecture of Privacy (What Larry Doesn't Get),\" Stanford Technology Law "
-"Review 1 (2001): par. 6­18, available at <ulink url=\"http://free-culture.cc/"
-"notes/\">link #72</ulink> (describing examples in which technology defines "
-"privacy policy). See also Jeffrey Rosen, The Naked Crowd: Reclaiming "
-"Security and Freedom in an Anxious Age (New York: Random House, 2004) "
-"(mapping tradeoffs between technology and privacy)."
+"Review 1 (2001): par. 6&ndash;18, available at <ulink url=\"http://free-"
+"culture.cc/notes/\">link #72</ulink> (describing examples in which "
+"technology defines privacy policy). See also Jeffrey Rosen, The Naked Crowd: "
+"Reclaiming Security and Freedom in an Anxious Age (New York: Random House, "
+"2004) (mapping tradeoffs between technology and privacy)."
 msgstr ""
 
 #.  PAGE BREAK 284
@@ -22885,7 +22871,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial Jukebox "
-"(Stanford: Stanford University Press, 2003), 187­216."
+"(Stanford: Stanford University Press, 2003), 187&ndash;216."
 msgstr ""
 "Paul goldstein, copyright's highway: fra gutenberg til den himmelske "
 "jukeboksen (stanford: stanford university press, 2003), 187­216."
@@ -23000,7 +22986,8 @@ msgstr ""
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
-msgstr "Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+msgstr ""
+"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
 
 #.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23548,7 +23535,8 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
-msgstr "Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+msgstr ""
+"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
 
 #.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23669,7 +23657,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
-"Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069­70."
+"Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069&ndash;70."
 msgstr ""
 "Lawrence lessig, \"copyright's first endring\" (melville b. nimmer memorial "
 "lecture), ucla lov gå gjennom 48 (2001): 1057, 1069­70."
@@ -23713,7 +23701,7 @@ msgid ""
 "ulink>.  Liebowitz's careful analysis is extremely valuable in estimating "
 "the effect of file-sharing technology. In my view, however, he "
 "underestimates the costs of the legal system. See, for example, Rethinking, "
-"174­76."
+"174&ndash;76."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -23827,7 +23815,6 @@ msgstr ""
 "\"Hvorfor ikke?\""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans
 msgid ""
 "We should ask, \"Why?\" Show me why your regulation of culture is needed. "
 "Show me how it does good. And until you can show me both, keep your lawyers "
@@ -23835,8 +23822,7 @@ msgid ""
 msgstr ""
 "Vi burde spørre: \"Hvorfor?\" Vis meg hvorfor din regulering av kultur er "
 "nødvendig og vis meg hvordan reguleringen fungerer bra.  Før du kan vise meg "
-"begge, "
-"holde advokatene din unna."
+"begge, holde advokatene din unna."
 
 #. type: Content of: <book><chapter><title>
 msgid "NOTES"
@@ -23854,14 +23840,15 @@ msgid ""
 "link has disappeared, you will be redirected to an appropriate reference for "
 "the material."
 msgstr ""
-"Gjennom denne teksten er det referanser til lenker på verdensveven.  Og som alle "
-"som har forsøkt å bruke nettet vet, så vil disse lenkene være svært ustabile.  "
-"Jeg har forsøkt å motvirke denne ustabiliteten ved å omdirigere lesere til den "
-"originale kilden gjennom en nettsiden assosiert med denne boken.  For hver lenke "
-"under, så kan du gå til http://free-culture.cc/notes og finne den originale "
-"kilden ved å klikke på nummeret etter #-tegnet.  If den originale lenken fortsatt "
-"er i live, så vil du bli omdirigert til den lenken.  Hvis den originale lenken "
-"har forsvunnet, så vil du bli omdirigert til en passende referanse til materialet."
+"Gjennom denne teksten er det referanser til lenker på verdensveven.  Og som "
+"alle som har forsøkt å bruke nettet vet, så vil disse lenkene være svært "
+"ustabile.  Jeg har forsøkt å motvirke denne ustabiliteten ved å omdirigere "
+"lesere til den originale kilden gjennom en nettsiden assosiert med denne "
+"boken.  For hver lenke under, så kan du gå til http://free-culture.cc/notes "
+"og finne den originale kilden ved å klikke på nummeret etter #-tegnet.  If "
+"den originale lenken fortsatt er i live, så vil du bli omdirigert til den "
+"lenken.  Hvis den originale lenken har forsvunnet, så vil du bli omdirigert "
+"til en passende referanse til materialet."
 
 #. type: Content of: <book><chapter><title>
 msgid "ACKNOWLEDGMENTS"
@@ -23981,7 +23968,6 @@ msgstr ""
 "steder i denne boken."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans
 msgid ""
 "Finally, and forever, I am thankful to Bettina, who has always insisted that "
 "there would be unending happiness away from these battles, and who has "
@@ -23992,5 +23978,3 @@ msgstr ""
 "på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
-
-
