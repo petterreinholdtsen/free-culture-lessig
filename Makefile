@@ -49,6 +49,7 @@ freeculture.pot: freeculture.xml
 	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
 
 stats:
-	msgfmt -o /dev/null --statistics freeculture.nb.po
-
-#.SUFFIXES: .html
+	( \
+	date +"%Y-%m-%dT%H%M" ; \
+	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
+	) | tee stats.txt
