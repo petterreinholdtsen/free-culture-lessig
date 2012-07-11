@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2012-07-11 01:09+0300\n"
-"PO-Revision-Date: 2012-07-10 09:29+0200\n"
+"PO-Revision-Date: 2012-07-11 11:29+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -102,8 +102,7 @@ msgstr "Info"
 
 #. type: Content of: <book><chapter><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
-msgstr ""
-"Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
+msgstr "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
 #. type: Content of: <book><chapter><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
@@ -122,7 +121,7 @@ msgid "ALSO BY LAWRENCE LESSIG"
 msgstr "Andre bøker av Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 #| msgid ""
 #| "ALSO BY LAWRENCE LESSIG The Future of Ideas: The Fate of the Commons in a "
 #| "Connected World Code: And Other Laws of Cyberspace"
@@ -157,8 +156,7 @@ msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-msgid ""
-"a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
+msgid "a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -177,8 +175,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-msgid ""
-"Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
+msgid "Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -264,13 +261,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
 "continues still."
 msgstr ""
-"Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og som "
-"den fremdeles fortsetter for."
+"Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for hvem "
+"saken fortsetter."
 
 #. type: Content of: <book><chapter><para>
 msgid "&translationblock;"
@@ -281,10 +278,10 @@ msgid "Creative Commons, Some rights reserved"
 msgstr "Creative Commons, noen rettigheter reservert"
 
 #. type: Content of: <book><chapter><figure>
-#, mtrans, fuzzy
+#, mtrans
 #| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
 msgid "<graphic fileref=\"images/cc.png\"></graphic>"
-msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
+msgstr "<graphic fileref=\"images/cc.gif\"></graphic>"
 
 #. type: Content of: <book><chapter><lot><title>
 msgid "List of figures"
@@ -337,7 +334,7 @@ msgstr ""
 "og være hjem. Slå av modemet, koble fra datamaskinen, og eventuelle "
 "problemer som finnes i at plass ikke ville \"påvirke\" oss lenger."
 
-#.  PAGE BREAK 12 
+#.  PAGE BREAK 12
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 #| msgid ""
@@ -482,7 +479,7 @@ msgstr ""
 "innsikt jeg utvikler her er innsikt stallman beskrevet tiår siden. man kan "
 "dermed godt argumentere at dette arbeidet er \"bare\" avledede produkter."
 
-#.  PAGE BREAK 14 
+#.  PAGE BREAK 14
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -671,7 +668,7 @@ msgstr ""
 msgid "\"Common sense revolts at the idea.\""
 msgstr "\"Ideen er i strid med sunn fornuft.\""
 
-#.  PAGE BREAK 18 
+#.  PAGE BREAK 18
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -727,7 +724,7 @@ msgstr ""
 "\"sunn fornuft\"--ville råde. deres \"privat interesse\" ville ikke tillatt "
 "å beseire en klar offentlige fremgang."
 
-#.  PAGE BREAK 19 
+#.  PAGE BREAK 19
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -815,7 +812,7 @@ msgid ""
 "\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 20 
+#.  PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -981,7 +978,7 @@ msgstr ""
 "1954 armstrong skrev en kort notat til kona og deretter gikk ut av et "
 "trettende-etasjers vindu til hans død."
 
-#.  PAGE BREAK 22 
+#.  PAGE BREAK 22
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1066,7 +1063,7 @@ msgstr ""
 "selv. mest, hvis de gjenkjent denne endringen, vil avvise det. de fleste ser "
 "ikke ennå endringen som Internett har introdusert."
 
-#.  PAGE BREAK 23 
+#.  PAGE BREAK 23
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1399,7 +1396,7 @@ msgstr ""
 "legitime påstander om \"egenskapen.\" det er så vanlig for oss som det var "
 "til dem at loven bør intervenere for å stoppe denne trespass."
 
-#.  PAGE BREAK 27 
+#.  PAGE BREAK 27
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1483,7 +1480,7 @@ msgstr ""
 "ansiktet av disse ytterpunktene fordi, som med armstrong versus rca, "
 "kraftigere siden har sikret at det har kraftigere visningen?"
 
-#.  PAGE BREAK 28 
+#.  PAGE BREAK 28
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1587,7 +1584,7 @@ msgstr ""
 "lett å fange. som Herren mansfield skrev i en sak som utvidet rekkevidden av "
 "engelsk lov om opphavsrett til å inkludere sheet music,"
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Bach v. Longman, 98 Eng. Rep. 1274 (1777) (Mansfield)."
@@ -1600,7 +1597,7 @@ msgid ""
 "own use.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 31 
+#.  PAGE BREAK 31
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1680,7 +1677,7 @@ msgstr ""
 "fra noen andre, skulle jeg ha deres tillatelse. å ta av noe av verdi fra "
 "noen andre uten tillatelse er galt. Det er en form for piratkopiering."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1690,7 +1687,7 @@ msgstr ""
 "se rochelle dreyfuss, \"uttrykksfulle genericity: varemerker som språk i "
 "pepsi-generasjon\" notre dame lov gå gjennom 65 (1990): 397."
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Lisa Bannon, \"The Birds May Sing, but Campers Can't Unless They Pay Up,\" "
@@ -1713,7 +1710,7 @@ msgid ""
 "Girl Scouts."
 msgstr ""
 
-#.  PAGE BREAK 32 
+#.  PAGE BREAK 32
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1773,7 +1770,7 @@ msgstr ""
 "loven--selv byrden av den bysantinske kompleksiteten som copyright lov har "
 "blitt. Det var bare en mer utgifter ved å gjøre forretninger."
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1859,7 +1856,7 @@ msgstr ""
 "om det ville vinne et publikum. men når disney kjørte en test sommeren 1928, "
 "resultatene var entydig. som disney beskriver det første eksperimentet"
 
-#.  PAGE BREAK 35 
+#.  PAGE BREAK 35
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1886,7 +1883,7 @@ msgstr ""
 "av oss i lyd avdeling bammed tin pans og blåste lysbilde plystre på beat. "
 "synkroniseringen var ganske nær."
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1962,7 +1959,7 @@ msgstr ""
 "blant film buffs for sin utrolige stunts. filmen var klassisk keaton--vill "
 "populær og blant beste i sin sjanger."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "I am grateful to David Gerstein and his careful history, described at <ulink "
@@ -1987,7 +1984,7 @@ msgid ""
 "Willie, and then from Steamboat Willie, Mickey Mouse."
 msgstr ""
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "He was also a fan of the public domain. See Chris Sprigman, \"The Mouse that "
@@ -2028,7 +2025,7 @@ msgstr ""
 "disse blodig, moralistiske fortellingene til hans eller hennes barn, ved "
 "sengetid eller når som helst."
 
-#.  PAGE BREAK 37 
+#.  PAGE BREAK 37
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2083,7 +2080,7 @@ msgstr ""
 "Det er mer presist, \"walt disney kreativitet\"--en form for uttrykk og geni "
 "som bygger på kultur rundt oss, og som gjør det noe annet."
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Until 1976, copyright law granted an author the possibility of two terms: an "
@@ -2126,7 +2123,7 @@ msgstr ""
 "tilkoblet eller ikke, om det er rik eller ikke, om godkjente eller ikke--"
 "hvis du vil bruke, og bygge på."
 
-#.  PAGE BREAK 38 
+#.  PAGE BREAK 38
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2210,7 +2207,7 @@ msgstr ""
 "manga som fra en advokat perspektiv er ganske rart, men fra en disney "
 "perspektiv er ganske godt kjent."
 
-#.  PAGE BREAK 39 
+#.  PAGE BREAK 39
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2288,7 +2285,7 @@ msgstr ""
 "en krenkelse av opprinnelige opphavsretten til å lage en kopi eller et "
 "avledet arbeid uten den opphavspersonens tillatelse."
 
-#.  f5 
+#.  f5
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "For an excellent history, see Scott McCloud, Reinventing Comics (New York: "
@@ -2326,7 +2323,7 @@ msgstr ""
 "\"som en creator, det er frustrerende måtte holde oss til noen parametere "
 "som er femti år.\""
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2395,7 +2392,7 @@ msgstr ""
 "advokater,\" han fortalte meg en ettermiddag. det \"bare ikke er nok "
 "ressurser til å tiltale tilfeller som dette.\""
 
-#.  PAGE BREAK 41 
+#.  PAGE BREAK 41
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2430,7 +2427,7 @@ msgstr ""
 "begynne å tenke disse problemene, bør så bare om nå du være rådvill om noe "
 "du ikke hadde tenkt gjennom før."
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2474,7 +2471,7 @@ msgid ""
 "taking from the Grimms because the Grimms' work was in the public domain."
 msgstr ""
 
-#.  PAGE BREAK 42 
+#.  PAGE BREAK 42
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2543,7 +2540,7 @@ msgstr ""
 "første?) og hollywood går gjennom sykluser med en bestemt type film: fem "
 "asteroider filmer inne det sen 1990s; to vulkanen katastrofe filmer i 1997."
 
-#.  PAGE BREAK 43 
+#.  PAGE BREAK 43
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2643,7 +2640,7 @@ msgstr ""
 "plater av glass, og dermed det var likevel ikke en prosess innenfor "
 "rekkevidde de fleste amatører."
 
-#.  PAGE BREAK 45 
+#.  PAGE BREAK 45
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2665,7 +2662,7 @@ msgstr ""
 "fotografering vesentlig. ved å senke kostnadene, forventet eastman han kan "
 "dramatisk utvide befolkningen av fotografer."
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2683,7 +2680,7 @@ msgid ""
 "type=\"footnote\" id=\"0\"/> As he described in The Kodak Primer:"
 msgstr ""
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2705,12 +2702,12 @@ msgid ""
 "and without chemicals.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid "Jenkins, 177."
 msgstr "Jenkins, 177."
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid "Based on a chart in Jenkins, p. 178."
 msgstr "Basert på et diagram i Jenkins, s. 178."
@@ -2730,7 +2727,7 @@ msgid ""
 "of over 17 percent.<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 
-#.  f5 
+#.  f5
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Coe, 58."
@@ -2774,7 +2771,7 @@ msgstr ""
 "av kreativitet som kodak aktivert. demokratiske verktøy ga vanlige folk en "
 "måte å uttrykke seg lettere enn noen verktøy kan har før."
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2796,7 +2793,7 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 47 
+#.  PAGE BREAK 47
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2814,7 +2811,7 @@ msgstr ""
 "så bør også, disse fotografer ikke være fritt til å ta bilder som de trodde "
 "verdifull."
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2837,7 +2834,7 @@ msgid ""
 "without compensating the source."
 msgstr ""
 
-#.  f8 
+#.  f8
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2892,7 +2889,7 @@ msgstr ""
 "bli vist før et selskap utviklet bilder. Vi kunne forestille seg et system å "
 "utvikle for å demonstrere tillatelsen."
 
-#.  PAGE BREAK 48 
+#.  PAGE BREAK 48
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2939,7 +2936,7 @@ msgstr ""
 "til å lære noe om medier ved å gjøre noe med media. ved å gjøre tror de. ved "
 "fiksing og triksing lærer de."
 
-#.  f9 
+#.  f9
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "H. Edward Goldberg, \"Essential Presentation Tools: Hardware and Software "
@@ -2961,7 +2958,7 @@ msgid ""
 "teachers call \"media literacy.\""
 msgstr ""
 
-#.  PAGE BREAK 49 
+#.  PAGE BREAK 49
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2987,7 +2984,7 @@ msgstr ""
 "flest, leseferdighet handler om lesing og skriving. Faulkner og hemingway og "
 "merke delte infinitiv er det ting som \"literate\" folk vet om."
 
-#.  f10 
+#.  f10
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3048,13 +3045,13 @@ msgstr ""
 "en lærer å skrive med bilder ved å gjøre dem og deretter reflektere over hva "
 "man har opprettet."
 
-#.  f11 
+#.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Interview with Elizabeth Daley and Stephanie Barish, 13 December 2002."
 msgstr "Intervju med elizabeth daley og stephanie barish, 13 desember 2002."
 
-#.  f12 
+#.  f12
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "See Scott Steinberg, \"Crichton Gets Medieval on PCs,\" E!online, 4 November "
@@ -3130,13 +3127,13 @@ msgstr ""
 "\"lese-bare.\" passiv mottakerne av kultur produsert andre steder. Couch "
 "Poteter. forbrukere. Dette er verden av medier fra det tjuende århundre."
 
-#.  f13 
+#.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Interview with Daley and Barish."
 msgstr "Intervju med daley og barish."
 
-#.  f31 
+#.  f31
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid."
@@ -3226,7 +3223,7 @@ msgstr ""
 "disse ideene kan uttrykkes godt. kraften i denne meldingen depended upon "
 "dens forbindelse til denne formen for uttrykk."
 
-#.  PAGE BREAK 52 
+#.  PAGE BREAK 52
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3296,7 +3293,7 @@ msgstr ""
 "lærerne fortalte stephanie, ville de omskrive et avsnitt 5, 6, 7, 8 ganger, "
 "till de fått det riktig."
 
-#.  PAGE BREAK 53 
+#.  PAGE BREAK 53
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3382,7 +3379,7 @@ msgstr ""
 "aktuelt arrangement som hadde fanget oppmerksomheten av verden. Det var abc "
 "og cbs, men det var også Internett."
 
-#.  PAGE BREAK 54 
+#.  PAGE BREAK 54
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3463,7 +3460,7 @@ msgstr ""
 "de er uten tvil den viktigste formen for unchoreographed offentlige "
 "diskusjon som vi har."
 
-#.  PAGE BREAK 55 
+#.  PAGE BREAK 55
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3483,7 +3480,7 @@ msgstr ""
 "syklusen av disse valgene blir helt professionalized og routinized. de "
 "fleste av oss tror dette er demokrati."
 
-#.  f15 
+#.  f15
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3510,7 +3507,7 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f16 
+#.  f16
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3530,7 +3527,7 @@ msgid ""
 "for \"democratic deliberation\" to occur."
 msgstr ""
 
-#.  f17 
+#.  f17
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3551,7 +3548,7 @@ msgid ""
 "our friends want to hear, and hear very little beyond what our friends say."
 msgstr ""
 
-#.  PAGE BREAK 56 
+#.  PAGE BREAK 56
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3598,7 +3595,7 @@ msgstr ""
 "dean kan godt har bleknet fra 2004 presidentvalget rase men for blogger. "
 "Selv om antall lesere er liten, er ennå lesing har en effekt."
 
-#.  f18 
+#.  f18
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3652,7 +3649,7 @@ msgstr ""
 "historier. folk lese hva som er populært; Hva er populære har blitt valgt av "
 "en veldig demokratisk prosess med node-generert rangeringer."
 
-#.  PAGE BREAK 57 
+#.  PAGE BREAK 57
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3673,7 +3670,7 @@ msgstr ""
 "journalist simpelthen har ikke en konflikt av interesse, eller konflikt av "
 "interesse er så lett avslørt at du vet du kan liksom få det ut av veien.\""
 
-#.  f19 
+#.  f19
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Telephone interview with David Winer, 16 April 2003."
@@ -3694,7 +3691,7 @@ msgid ""
 "told her that they were writing \"the story.\")"
 msgstr ""
 
-#.  f20 
+#.  f20
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "John Schwartz, \"Loss of the Shuttle: The Internet; A Wealth of Information "
@@ -3718,7 +3715,7 @@ msgid ""
 "benefits, and costs, that might entail."
 msgstr ""
 
-#.  f21 
+#.  f21
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3740,7 +3737,7 @@ msgstr ""
 "personlig weblogg, utgitt under psevdonym, som jobbet med noen av de "
 "problemer og folk som han var dekket.\")"
 
-#.  PAGE BREAK 58 
+#.  PAGE BREAK 58
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "Winer is optimistic about the future of journalism infected with blogs. "
@@ -3808,7 +3805,7 @@ msgstr ""
 "han ville bli begeistret for enhver teknologi som kan forbedre demokrati. "
 "men hans håv kommer fra hvordan disse teknologiene berører læring."
 
-#.  PAGE BREAK 59 
+#.  PAGE BREAK 59
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3899,7 +3896,7 @@ msgstr ""
 "er det mye du kan begynne å gjøre på dette mediet. [det] kan nå forsterke og "
 "respektere disse flere former for intelligens.\""
 
-#.  PAGE BREAK 60 
+#.  PAGE BREAK 60
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3930,7 +3927,7 @@ msgstr ""
 "finner rundt. lov og, i økende grad teknologi forstyrre en frihet som "
 "teknologi, og nysgjerrighet, ellers ville sikre."
 
-#.  f22 
+#.  f22
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4051,7 +4048,7 @@ msgstr ""
 "å aktivere studenter å få tilgang til Internett, så vel som mer intimt "
 "tilgang til andre medlemmer av samfunnet rpi."
 
-#.  PAGE BREAK 62 
+#.  PAGE BREAK 62
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4127,7 +4124,7 @@ msgstr ""
 "systemet fungerer ganske bra. Jesse hatt mer enn én million filer i hans "
 "mappen, inkludert alle typer innhold som kan være på brukernes datamaskiner."
 
-#.  PAGE BREAK 63 
+#.  PAGE BREAK 63
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4213,7 +4210,7 @@ msgstr ""
 "opprettet eller lagt ut, og det store flertallet av som hadde ingenting å "
 "gjøre med musikk."
 
-#.  PAGE BREAK 64 
+#.  PAGE BREAK 64
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4233,7 +4230,7 @@ msgstr ""
 "riaa påståtte mer enn hundre bestemt opphavsrett infringements, krevde de "
 "derfor at jesse betale dem minst $15,000,000."
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4291,7 +4288,7 @@ msgstr ""
 "\") og hele riaa insisterte den ikke ville avgjøre saken før det tok hver "
 "krone jesse hadde lagret."
 
-#.  PAGE BREAK 65 
+#.  PAGE BREAK 65
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4320,7 +4317,7 @@ msgstr ""
 "Slik jesse møtt et mafia-lignende valg: $250,000 og en sjanse til å vinne, "
 "eller $12.000 og en bosetning."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4332,7 +4329,7 @@ msgstr ""
 "musikere og vokalister). Se også nasjonale legat for arts, mer enn en i en "
 "blå månen (2000)."
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4422,7 +4419,7 @@ msgstr ""
 msgid "Film"
 msgstr "filmen"
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4434,7 +4431,7 @@ msgstr ""
 "historie. Se også siva vaidhyanathan, opphavsrett og copywrongs, 87­93, som "
 "inneholder informasjon om edison's \"opplevelser\" med opphavsrett og patent."
 
-#.  PAGE BREAK 67 
+#.  PAGE BREAK 67
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "The film industry of Hollywood was built by fleeing pirates.<placeholder "
@@ -4470,7 +4467,7 @@ msgstr ""
 "swing, med produsenter og teater eiere bruker ulovlig utstyr og importerte "
 "film lager til å lage sine egne underjordisk marked."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 msgid ""
 "J. A. Aberdeen, Hollywood Renegades: The Society of Independent Motion "
@@ -4499,7 +4496,7 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Marc Wanamaker, \"The First Studios,\" The Silents Majority, archived at "
@@ -4519,7 +4516,7 @@ msgid ""
 "prominently, did just that."
 msgstr ""
 
-#.  PAGE BREAK 68 
+#.  PAGE BREAK 68
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4602,7 +4599,7 @@ msgstr ""
 "Kopier av disse innspillinger. på grunn av dette hullet i loven, så kunne "
 "jeg effektivt pirat andres sang uten å betale sin komponist noe."
 
-#.  PAGE BREAK 69 
+#.  PAGE BREAK 69
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4612,7 +4609,7 @@ msgstr ""
 "komponister (og utgivere) var ingen så glade om denne kapasiteten til pirat. "
 "som i Sør-dakota senator alfred sa kittredge,"
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4639,7 +4636,7 @@ msgid ""
 "\"0\"/>"
 msgstr ""
 
-#.  f5 
+#.  f5
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4649,7 +4646,7 @@ msgstr ""
 "endre og konsolidere handlinger som respekterer opphavsrett, 223 (setning av "
 "nathan burkan, advokat for musikk publishers association)."
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4659,7 +4656,7 @@ msgstr ""
 "endre og konsolidere handlinger som respekterer opphavsrett, 226 (setning av "
 "nathan burkan, advokat for musikk publishers association)."
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4680,7 +4677,7 @@ msgid ""
 "a share of it.\"<placeholder type=\"footnote\" id=\"2\"/>"
 msgstr ""
 
-#.  f8 
+#.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4692,7 +4689,7 @@ msgstr ""
 "av albert walker, er representative for auto-musikk perforating selskapet i "
 "new york)."
 
-#.  f9 
+#.  f9
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4720,7 +4717,7 @@ msgid ""
 "\"<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 
-#.  PAGE BREAK 70 
+#.  PAGE BREAK 70
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4780,7 +4777,7 @@ msgstr ""
 "satt av grisham og lov om opphavsrett sier vanligvis du har ikke tillatelse "
 "til å bruke grisham's arbeide bortsett med tillatelse fra grisham."
 
-#.  f10 
+#.  f10
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4822,7 +4819,7 @@ msgstr ""
 "det vært ganske en tilhenger av lovbestemte lisensen for poster. som en 1967 "
 "relaterer rapport fra house committee på rettsvesenet,"
 
-#.  f11 
+#.  f11
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4870,7 +4867,7 @@ msgstr "Radio"
 msgid "Radio was also born of piracy."
 msgstr "Radio ble også født av piratkopiering."
 
-#.  f12 
+#.  f12
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4903,7 +4900,7 @@ msgid ""
 "owes the composer money for that performance."
 msgstr ""
 
-#.  PAGE BREAK 72 
+#.  PAGE BREAK 72
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -4997,7 +4994,7 @@ msgstr "kabel-tv"
 msgid "Cable TV was also born of a kind of piracy."
 msgstr "kabel-tv ble også født av en form for piratkopiering."
 
-#.  PAGE BREAK 73 
+#.  PAGE BREAK 73
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5016,7 +5013,7 @@ msgstr ""
 "broadcasters' innhold, men mer egregiously enn noe napster gjorde noensinne--"
 "napster belastet aldri for innholdet det aktivert andre til å gi bort."
 
-#.  f13 
+#.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5030,7 +5027,7 @@ msgstr ""
 "2nd sess., 78 (1966) (setning av rosel h. hyde, formann i federal "
 "communications commission)."
 
-#.  f14 
+#.  f14
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5052,7 +5049,7 @@ msgid ""
 "type=\"footnote\" id=\"1\"/> As another broadcaster put it,"
 msgstr ""
 
-#.  f15 
+#.  f15
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5074,7 +5071,7 @@ msgstr ""
 msgid "Again, the demand of the copyright holders seemed reasonable enough:"
 msgstr "igjen, etterspørselen av rettighetshavere virket fornuftig nok:"
 
-#.  f16 
+#.  f16
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5094,7 +5091,7 @@ msgid ""
 "words which would fit it.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f17 
+#.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5120,7 +5117,7 @@ msgstr ""
 "men igjen, det var en annen side i debatten. som assistent justisministeren "
 "sa edwin zimmerman,"
 
-#.  f18 
+#.  f18
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5172,7 +5169,7 @@ msgstr ""
 "kabelselskaper dermed bygde sitt imperium delvis på en \"piratkopiering\" av "
 "verdiene som skapes av broadcasters' innhold."
 
-#.  f19 
+#.  f19
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See, for example, National Music Publisher's Association, The Engine of Free "
@@ -5214,7 +5211,7 @@ msgstr ""
 "kontekst. til tross for mange justifications som tilbys i sitt forsvar, er "
 "dette tar galt. ingen bør condone det, og loven skal slutte det."
 
-#.  PAGE BREAK 76 
+#.  PAGE BREAK 76
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5237,7 +5234,7 @@ msgstr ""
 msgid "Piracy I"
 msgstr "piratkopiering jeg"
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See IFPI (International Federation of the Phonographic Industry), The "
@@ -5310,7 +5307,7 @@ msgstr ""
 "er ikke bare en moralsk galt, men en juridisk galt, og ikke bare et "
 "internasjonalt juridiske galt, men en lokalt juridiske galt også."
 
-#.  PAGE BREAK 77 
+#.  PAGE BREAK 77
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5324,7 +5321,7 @@ msgstr ""
 "opphavsretten internasjonalt. Vi kan ha vært født en pirat nasjon, men vi "
 "tillater ikke noen annen nasjon til å ha en lignende barndom."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5366,7 +5363,7 @@ msgid ""
 "these nations, this piracy is wrong."
 msgstr ""
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5419,7 +5416,7 @@ msgstr ""
 "fysikk av piratkopiering av immaterielle er forskjellige fra fysikk av "
 "piratkopiering av en konkret."
 
-#.  PAGE BREAK 78 
+#.  PAGE BREAK 78
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5495,7 +5492,7 @@ msgid ""
 "access, then violating the law is still wrong."
 msgstr ""
 
-#.  PAGE BREAK 79 
+#.  PAGE BREAK 79
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5577,13 +5574,13 @@ msgstr ""
 msgid "Piracy II"
 msgstr "piratkopiering ii"
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Bach v. Longman, 98 Eng. Rep. 1274 (1777)."
 msgstr "Bach v. longman, 98 eng. rep 1274 (1777)."
 
-#.  PAGE BREAK 80 
+#.  PAGE BREAK 80
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "The key to the \"piracy\" that the law aims to quash is a use that \"rob[s] "
@@ -5593,7 +5590,7 @@ msgid ""
 "alternative to assure the author of his profit."
 msgstr ""
 
-#.  f5  
+#.  f5
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5625,7 +5622,7 @@ msgid ""
 "independently."
 msgstr ""
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5657,7 +5654,7 @@ msgid ""
 "or your 20,000 best friends."
 msgstr ""
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5671,7 +5668,7 @@ msgstr ""
 "og eldre har lastet ned musikk fra Internett og 30 prosent har lyttet til "
 "digitale musikkfiler som er lagret på datamaskinene sine."
 
-#.  f8 
+#.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5713,7 +5710,7 @@ msgstr ""
 "vanligvis gjør--hvilke deler som gir mulighet for fildeling, og hva slags "
 "skade det innebærer."
 
-#.  PAGE BREAK 81 
+#.  PAGE BREAK 81
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5723,7 +5720,7 @@ msgstr ""
 "fil sharers dele ulike typer innhold. Vi kan dele disse ulike slag i fire "
 "typer."
 
-#.  A. 
+#.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5742,7 +5739,7 @@ msgstr ""
 "ville ha, men klart det er noen som ville. sistnevnte er målet for kategori "
 "a: brukere som laster ned i stedet for å kjøpe."
 
-#.  B. 
+#.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5762,7 +5759,7 @@ msgstr ""
 "vil faktisk være ganske god. netto effekt av en slik deling kan øke antallet "
 "av musikk som er kjøpt."
 
-#.  C. 
+#.  C.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5792,8 +5789,8 @@ msgstr ""
 "skade er null--den samme skaden som oppstår når jeg selger min samling av "
 "1960-tallet 45 rpm poster til en lokal solfangeren."
 
-#.  PAGE BREAK 82 
-#.  D. 
+#.  PAGE BREAK 82
+#.  D.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5809,7 +5806,7 @@ msgstr ""
 msgid "How do these different types of sharing balance out?"
 msgstr "hvordan disse ulike typer deling balanse?"
 
-#.  f9 
+#.  f9
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "See Liebowitz, Rethinking the Network Economy,148­49."
@@ -5843,7 +5840,7 @@ msgstr ""
 "over kabel-tv, musikkbransjen complains at typen en deling er en slags "
 "\"tyveri\", som er \"ødeleggende\" industrien."
 
-#.  f10 
+#.  f10
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5884,7 +5881,7 @@ msgid ""
 "problem, and banning or regulating technology was the answer."
 msgstr ""
 
-#.  f11 
+#.  f11
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "U.S. Congress, Copyright and Home Copying, 4."
@@ -5949,7 +5946,7 @@ msgstr ""
 "fildeling? rart som det kan høres, data om cd-salg faktisk tyder det kanskje "
 "Lukk."
 
-#.  f12 
+#.  f12
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Recording Industry Association of America, 2002 Yearend Statistics, "
@@ -5966,7 +5963,7 @@ msgid ""
 "on U.S. dollar value of shipments).\""
 msgstr ""
 
-#.  f13 
+#.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13 February "
@@ -5992,7 +5989,7 @@ msgid ""
 "\"2\"/>"
 msgstr ""
 
-#.  PAGE BREAK 84 
+#.  PAGE BREAK 84
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6049,7 +6046,7 @@ msgstr ""
 "fordelene? fildeling kan pålegge kostnader på musikkindustrien. hva verdien "
 "produserer det i tillegg til disse kostnadene?"
 
-#.  f15 
+#.  f15
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "By one estimate, 75 percent of the music released by the major labels is no "
@@ -6073,7 +6070,7 @@ msgid ""
 "to the company to make it available."
 msgstr ""
 
-#.  f16 
+#.  f16
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "While there are not good estimates of the number of used record stores in "
@@ -6140,7 +6137,7 @@ msgstr ""
 "bokhandlere. eller sagt på en annen måte, hvis du tror at typen c deling bør "
 "stoppes, tror du at biblioteker og brukte bokhandlere bør være stengt også?"
 
-#.  PAGE BREAK 86 
+#.  PAGE BREAK 86
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6230,7 +6227,7 @@ msgstr ""
 "men er ikke krigen bare en krig mot ulovlig deling? er ikke målet bare det "
 "du skriver inn en deling?"
 
-#.  f17 
+#.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Transcript of Proceedings, In Re: Napster Copyright Litigation at 34- 35 "
@@ -6331,7 +6328,7 @@ msgstr ""
 "av loven. den likeledes ga kabelselskaper rettigheten til innholdet, så "
 "lenge de betalte lovbestemte pris."
 
-#.  PAGE BREAK 88 
+#.  PAGE BREAK 88
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6386,7 +6383,7 @@ msgstr ""
 "drar nytte av opphavsretten til sine kunder. Det bør derfor disney og "
 "universal hevdet, være delvis ansvarlig for at krenkelse."
 
-#.  PAGE BREAK 89 
+#.  PAGE BREAK 89
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6414,7 +6411,7 @@ msgstr ""
 "brudd på opphavsrettigheter. det gjorde ikke, og for det, disney og "
 "universal ønsket å holde den ansvarlig for arkitektur som er valgt."
 
-#.  f18 
+#.  f18
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6428,13 +6425,13 @@ msgstr ""
 "(vitnesbyrd om jack valenti, president, motion picture association of "
 "america, inc.)."
 
-#.  f19 
+#.  f19
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Copyright Infringements (Audio and Video Recorders), 475."
 msgstr "opphavsrett infringements (lyd og video-opptakere), 475."
 
-#.  f20 
+#.  f20
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6444,7 +6441,7 @@ msgstr ""
 "Universal city studios, inc. v. sony Corporation of america, 480 f. supp. "
 "429, (klientadgangslisens CAL (CD), 1979)."
 
-#.  f21 
+#.  f21
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6478,7 +6475,7 @@ msgid ""
 "\"3\"/>"
 msgstr ""
 
-#.  f22 
+#.  f22
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6502,7 +6499,7 @@ msgid ""
 "\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 90 
+#.  PAGE BREAK 90
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6514,7 +6511,7 @@ msgstr ""
 "domstolen klart uttrykte sin forståelse av når og om domstoler bør "
 "intervenere i slike konflikter. som domstol skrev,"
 
-#.  f23 
+#.  f23
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6621,7 +6618,7 @@ msgstr "VCR"
 msgid "Film creators"
 msgstr "filmen skaperne"
 
-#.  f24 
+#.  f24
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6655,7 +6652,7 @@ msgid ""
 "ride\" on someone else's work."
 msgstr ""
 
-#.  PAGE BREAK 91 
+#.  PAGE BREAK 91
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6699,11 +6696,10 @@ msgstr ""
 "hver cover band som har til å ansette en advokat for å få tillatelse til å "
 "registrere en sang?"
 
-#.  f25 
+#.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
+msgid "Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
 msgstr ""
 "Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, (1984)."
@@ -6748,7 +6744,7 @@ msgstr ""
 "utformet for å balansere beskyttelsen av loven mot sterk offentlig interesse "
 "at innovasjon fortsette."
 
-#.  f26 
+#.  f26
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6789,7 +6785,7 @@ msgstr ""
 msgid "\"PROPERTY\""
 msgstr "\"Eiendom\""
 
-#.  PAGE BREAK 94 
+#.  PAGE BREAK 94
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6824,7 +6820,7 @@ msgstr ""
 "eksempel skal sears, kjøpe en tabell, og sette det i min bakgård? Hva er det "
 "jeg tar deretter?"
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6864,7 +6860,7 @@ msgstr ""
 "loven sier du ikke kan ta min ide eller uttrykk uten min tillatelse: loven "
 "blir immaterielle eiendom."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6937,7 +6933,7 @@ msgstr ""
 "kilden. Jeg overheard en gang noen kommentere kenneth branagh tilpasning av "
 "henry v: \"Jeg likte det, men shakespeare er så full av clichés.\""
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6957,7 +6953,7 @@ msgstr ""
 "john dryden. se Pioquinto Bernal Pioquinto Bernal, \"jacob tonson, bokhandel,"
 "\" amerikansk forsker-61:3 (1992): 424­31."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6967,7 +6963,7 @@ msgstr ""
 "Lyman rokke patterson, copyright i historisk perspektiv (nashville: "
 "vanderbilt university press, 1968), 151­52."
 
-#.  PAGE BREAK 97 
+#.  PAGE BREAK 97
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "In 1774, almost 180 years after Romeo and Juliet was written, the \"copy-"
@@ -6982,7 +6978,7 @@ msgid ""
 "kept high; competition to produce better or cheaper editions was eliminated."
 msgstr ""
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7050,7 +7046,7 @@ msgstr ""
 "etter lisensiering lover hadde utløpt om felles lov beskyttet opphavsretten, "
 "uavhengig av lovverket positiv."
 
-#.  PAGE BREAK 98 
+#.  PAGE BREAK 98
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7131,7 +7127,7 @@ msgstr ""
 "\"copyright\" som fantes på tidspunktet for Vedtektene for anne. andre, har "
 "vi å se noe viktig om \"bokhandlere.\""
 
-#.  PAGE BREAK 99 
+#.  PAGE BREAK 99
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7222,7 +7218,7 @@ msgstr ""
 "britene så skadene fra specialinterest favoriserer; de har vedtatt en lov "
 "for å stoppe dem."
 
-#.  f4 
+#.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7310,7 +7306,7 @@ msgstr ""
 "parlamentet avviste forespørsler. som en pamphleteer sa, i ord som echo i "
 "dag,"
 
-#.  f5 
+#.  f5
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7368,7 +7364,7 @@ msgstr ""
 "selv om sine Vedtektene for anne copyright hadde gått ut. Dette, de hevdet, "
 "var den eneste måten å beskytte forfattere."
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7391,7 +7387,7 @@ msgid ""
 "author's work gave."
 msgstr ""
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7408,7 +7404,7 @@ msgid ""
 "type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f8 
+#.  f8
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7418,7 +7414,7 @@ msgstr ""
 "merke rose, forfattere og eiere (cambridge: harvard university press, 1993), "
 "92."
 
-#.  f9 
+#.  f9
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid., 93."
@@ -7437,7 +7433,7 @@ msgid ""
 "\"footnote\" id=\"1\"/>"
 msgstr ""
 
-#.  f10 
+#.  f10
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7469,7 +7465,7 @@ msgstr ""
 "donaldson's. en rekke handlinger var vellykket mot \"pirates,\" den "
 "viktigste tidlige seieren blir millar v. taylor."
 
-#.  f11 
+#.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7512,7 +7508,7 @@ msgstr ""
 "sedvanerett dermed ga effektivt bokhandlerne evigvarende rett til å "
 "kontrollere publiseringen av noen bok som er tilordnet."
 
-#.  PAGE BREAK 103 
+#.  PAGE BREAK 103
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7547,7 +7543,7 @@ msgstr ""
 "kampen for å forsvare grensene for Vedtektene for anne var ikke å avslutte "
 "der, og det er her at donaldson går inn i mix."
 
-#.  f12 
+#.  f12
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid., 1156."
@@ -7600,7 +7596,7 @@ msgstr ""
 "Høyesterett. deretter, etter at loven lords stemte, house of lords vanligvis "
 "stemte."
 
-#.  PAGE BREAK 104 
+#.  PAGE BREAK 104
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7638,7 +7634,7 @@ msgstr ""
 "inkludert de av shakespeare, bacon, milton, johnson og bunyan--var fri for "
 "juridiske selvbeherskelse."
 
-#.  f13 
+#.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Rose, 97."
@@ -7677,7 +7673,7 @@ msgid ""
 "devise to their successors.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 105 
+#.  PAGE BREAK 105
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7770,7 +7766,7 @@ msgstr ""
 "i fatt lounge og i loft belysning. de gjør en perfekt kontrast til kunst på "
 "scenen."
 
-#.  PAGE BREAK 107 
+#.  PAGE BREAK 107
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7864,7 +7860,7 @@ msgstr ""
 "var pedagogisk ofte, herrera fortalte ellers. en dag eller så senere, ellers "
 "kalles på nytt for å bekrefte hva han hadde blitt fortalt."
 
-#.  PAGE BREAK 108 
+#.  PAGE BREAK 108
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7936,7 +7932,7 @@ msgstr ""
 "rettighetsinnehaveren (med rette, i min mening) kan lade hva hun ønsker--$ "
 "10 eller $1,000,000. Det er hennes høyre, som er angitt av loven."
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7960,11 +7956,10 @@ msgid ""
 "of The Simpsons&mdash;and fair use does not require the permission of anyone."
 msgstr ""
 
-#.  PAGE BREAK 109 
+#.  PAGE BREAK 109
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid ""
-"So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
+msgid "So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
 msgstr ""
 "så jeg spurte er hvorfor han ikke bare stole på \"rettferdig bruk.\" her "
 "annet hans svar:"
@@ -7986,7 +7981,7 @@ msgstr ""
 "i en absolutt juridisk forstand. men jeg kunne ikke stole på konseptet på "
 "noen konkret måte. Her er hvorfor:"
 
-#.  1. 
+#.  1.
 #. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8002,7 +7997,7 @@ msgstr ""
 "dim visning av \"fair use\", og et krav om \"fair use\" kan slipe "
 "søknadsprosessen til å stoppe."
 
-#.  2. 
+#.  2.
 #. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8025,8 +8020,8 @@ msgstr ""
 "selv ordensforstyrrelser juridiske problemer, og selv for å forsvare et "
 "prinsipp."
 
-#.  3. 
-#.  PAGE BREAK 110 
+#.  3.
+#.  PAGE BREAK 110
 #. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8043,7 +8038,7 @@ msgstr ""
 "hvem som hadde større juridiske avdelingen og dypere lommebøker, meg eller "
 "dem."
 
-#.  4. 
+#.  4.
 #. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8139,7 +8134,7 @@ msgstr ""
 "om hans karriere. fordi starwave produsert de intervjuene, var det gratis å "
 "inkludere dem på CD-ROMen."
 
-#.  PAGE BREAK 112 
+#.  PAGE BREAK 112
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8180,7 +8175,7 @@ msgstr ""
 "Alben brakt ideen til michael slade, ceo i starwave. Slade som ble spurt, "
 "\"Vel, hva vil det ta?\""
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8243,7 +8238,7 @@ msgstr ""
 "fyren på bakken som er vrir under pistol og du trenger for å få sin "
 "tillatelse. og deretter må du bestemme hva du skal betale ham."
 
-#.  PAGE BREAK 113 
+#.  PAGE BREAK 113
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8324,7 +8319,7 @@ msgstr ""
 "det er så mange aktører, så mange styremedlemmer... så mange musikere,\" og "
 "vi bare gikk på den svært systematisk og fjernet rettighetene."
 
-#.  PAGE BREAK 114 
+#.  PAGE BREAK 114
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8334,7 +8329,7 @@ msgstr ""
 "og ingen tvil, selve produktet var usedvanlig god. Eastwood elsket det, og "
 "det selges godt."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "U.S. Department of Commerce Office of Acquisition Management, Seven Steps to "
@@ -8399,7 +8394,7 @@ msgstr ""
 "hver? ville ikke mye mer opprettes hvis den juridiske delen av den kreative "
 "prosessen kan gjøres for å være mer ren?"
 
-#.  PAGE BREAK 115 
+#.  PAGE BREAK 115
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8468,7 +8463,7 @@ msgstr ""
 "tatt. eller på minst, en frisk-utdannet, regulationminimizing republikanske "
 "bør se på rettighetene og spør, \"betyr dette fortsatt fornuftig?\""
 
-#.  PAGE BREAK 116 
+#.  PAGE BREAK 116
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8559,7 +8554,7 @@ msgstr ""
 "alle bildet du ønsker; i en annen andre, kan du ha det plantet i "
 "presentasjonen."
 
-#.  PAGE BREAK 117 
+#.  PAGE BREAK 117
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8638,7 +8633,7 @@ msgstr ""
 "under denne plan, ville produsere nye inntekter for kunstnere. Hva grunn "
 "ville alle ha til å motsette seg det?"
 
-#.  PAGE BREAK 118 
+#.  PAGE BREAK 118
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8778,7 +8773,7 @@ msgstr ""
 "gjeldende visning av verden, godkjent av regjeringen, ikke var motsagt av "
 "forrige nyhetsrapporter."
 
-#.  PAGE BREAK 120 
+#.  PAGE BREAK 120
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8805,7 +8800,7 @@ msgstr ""
 "Internett er orwell's bibliotek--oppdatert hele tiden, uten noen pålitelig "
 "minne."
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8867,7 +8862,7 @@ msgstr ""
 "samle innhold og holde den, for skolebarn, til forskere for bestemor. et "
 "fritt samfunn forutsetter dette knowedge."
 
-#.  PAGE BREAK 121 
+#.  PAGE BREAK 121
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8939,7 +8934,7 @@ msgstr ""
 "meg. \"Hvis du var barbara walters du kan få tilgang til [arkivene], men "
 "hvis du er bare en utdannet student?\" som kahle sa,"
 
-#.  PAGE BREAK 122 
+#.  PAGE BREAK 122
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8990,7 +8985,7 @@ msgstr ""
 "sikre at en kopi av arbeidet vil være rundt når opphavsretten utløpt, slik "
 "at andre kan få tilgang til og kopiere arbeidet."
 
-#.  f2  
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9037,7 +9032,7 @@ msgstr ""
 "dem. regjeringen kreve ikke dem. innholdet i denne delen av den amerikanske "
 "kulturen er praktisk talt usynlige for alle som ville se."
 
-#.  PAGE BREAK 123 
+#.  PAGE BREAK 123
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9123,7 +9118,7 @@ msgstr ""
 "men under en second life som alle kreative egenskapen har--et ikke-"
 "kommersiell liv."
 
-#.  PAGE BREAK 124 
+#.  PAGE BREAK 124
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9160,7 +9155,7 @@ msgstr ""
 "kunnskap om vår historie. i denne second life, kan innholdet fortsette å "
 "informere selv om denne informasjonen ikke lenger er solgt."
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9209,7 +9204,7 @@ msgstr ""
 "&amp; noble superstores. med denne kulturen, hva er tilgjengelig er noe "
 "annet enn hva en viss begrenset marked krav. utover det forsvinner kultur."
 
-#.  PAGE BREAK 125 
+#.  PAGE BREAK 125
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9283,7 +9278,7 @@ msgstr ""
 "en mann på månen, og oppfinnelsen av trykkpressen oppe med biblioteket i "
 "alexandria."
 
-#.  PAGE BREAK 126 
+#.  PAGE BREAK 126
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9372,7 +9367,7 @@ msgstr ""
 "og TV-programmer i USA: walt disney, sony pictures entertainment, mgm, "
 "paramount bilder, 20th century fox, universal studios og warner brothers."
 
-#.  PAGE BREAK 128 
+#.  PAGE BREAK 128
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9416,12 +9411,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid ""
-"In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
-msgstr ""
-"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+msgid "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
+msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
-#.  f1 
+#.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9449,7 +9442,7 @@ msgid ""
 "type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 129 
+#.  PAGE BREAK 129
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9491,7 +9484,7 @@ msgstr ""
 "faktiske juridiske tradisjon, selv om de subtile drar av hans Texas sjarm "
 "har sakte redefinert denne tradisjonen, minst i washington."
 
-#.  f2 
+#.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9537,7 +9530,7 @@ msgstr ""
 "1710. i verden som vil opprette valenti's endringer, vil noen kraftige utøve "
 "kraftig kontroll over hvordan vår kreative kultur ville utvikle."
 
-#.  PAGE BREAK 130 
+#.  PAGE BREAK 130
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9604,7 +9597,7 @@ msgstr ""
 "den kan ikke noen gang blir tatt fra eiendommen eier med mindre regjeringen "
 "betaler for privilegiet."
 
-#.  PAGE BREAK 131 
+#.  PAGE BREAK 131
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9708,7 +9701,7 @@ msgstr ""
 "institusjoner utformet for å forsikre at artister får betalt må du også "
 "kontrollere hvordan kultur utvikler seg."
 
-#.  PAGE BREAK 132 
+#.  PAGE BREAK 132
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9741,7 +9734,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1331.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 133 
+#.  PAGE BREAK 133
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9838,7 +9831,7 @@ msgstr ""
 "gjennomfører denne betingelsen. Hvis en $500 flybillett står mellom deg og "
 "et fly til new york, er det markedet som håndhever denne betingelsen."
 
-#.  PAGE BREAK 134 
+#.  PAGE BREAK 134
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9895,7 +9888,7 @@ msgstr ""
 "eget og du sannsynligvis til å bli straffet av naboene. samme normen ville "
 "ikke være så effektiv i en annen by, eller om natten."
 
-#.  f3 
+#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9915,7 +9908,7 @@ msgstr ""
 "york: grunnleggende bøker, 1999): 90­95; Lawrence lessig, \"den nye chicago "
 "skolen,\" journal of Jusstudier, Juni 1998."
 
-#.  PAGE BREAK 135 
+#.  PAGE BREAK 135
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "The final point about this simple model should also be fairly clear: While "
@@ -9942,7 +9935,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  f4  
+#.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10030,8 +10023,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"Let's say this is the picture of copyright's regulation before the Internet:"
+msgid "Let's say this is the picture of copyright's regulation before the Internet:"
 msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
@@ -10039,7 +10031,7 @@ msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 msgid "Copyright's regulation before the Internet."
 msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 
-#.  PAGE BREAK 136 
+#.  PAGE BREAK 136
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10079,7 +10071,7 @@ msgstr ""
 "av copyright, normer haug på. happy saldoen (for krigere, minst) av livet "
 "før Internett blir en effektiv stat av anarchy etter Internett."
 
-#.  PAGE BREAK 137 
+#.  PAGE BREAK 137
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10129,7 +10121,7 @@ msgstr ""
 "utvikle kode for å beskytte opphavsrettsbeskyttet materiale og (4) lærere "
 "skal utdanne barn å bedre beskytte opphavsretten."
 
-#.  PAGE BREAK 138 
+#.  PAGE BREAK 138
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10176,7 +10168,7 @@ msgstr ""
 "måten å drive virksomhet, eller som john seely brown beskriver den, dens "
 "\"arkitektur av inntekter.\""
 
-#.  f5 
+#.  f5
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Geoffrey Smith, \"Film vs. Digital: Can Kodak Build a Bridge?\" "
@@ -10208,7 +10200,7 @@ msgid ""
 "hour?)"
 msgstr ""
 
-#.  f6 
+#.  f6
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170­71."
@@ -10276,7 +10268,7 @@ msgstr ""
 "\" så når Kongressen blir bedt om å passere lovgivning som ville \"abridge\" "
 "ytringsfriheten, det bør spørre--nøye--om slike regulering er begrunnet."
 
-#.  PAGE BREAK 140 
+#.  PAGE BREAK 140
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10355,7 +10347,7 @@ msgstr ""
 "verre enn problemer det løst, minst når de vurderer den andre, mer "
 "miljøvennlig måten å løse problemer som ddt var ment å løse."
 
-#.  f7 
+#.  f7
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10365,7 +10357,7 @@ msgstr ""
 "Se for eksempel james boyle, \"en politikk av åndsverk: environmentalism for "
 "nettet?\" duke law journal 47 (1997): 87."
 
-#.  PAGE BREAK 141 
+#.  PAGE BREAK 141
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "It is to this image precisely that Duke University law professor James Boyle "
@@ -10444,7 +10436,7 @@ msgstr ""
 "en måte som for vår grunnlov, minst, er veldig rart. artikkel, del 8, 8-"
 "setningsdelen i vår grunnlov sier at:"
 
-#.  PAGE BREAK 142 
+#.  PAGE BREAK 142
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10528,7 +10520,7 @@ msgstr ""
 "\"copyright\" i sammenheng: vi trenger å se hvordan det har endret i 210 "
 "årene siden de først slo sin design."
 
-#.  PAGE BREAK 143 
+#.  PAGE BREAK 143
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10555,7 +10547,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1442.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 144 
+#.  PAGE BREAK 144
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "Let me explain how."
@@ -10566,7 +10558,7 @@ msgstr "La meg forklare hvordan."
 msgid "Law: Duration"
 msgstr "loven: varighet"
 
-#.  f8 
+#.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10629,7 +10621,7 @@ msgstr ""
 "opphavsretten for en annen fjorten år. Hvis han ikke fornye opphavsretten, "
 "bestått hans arbeid i public domain."
 
-#.  f9  
+#.  f9
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Although 13,000 titles were published in the United States from 1790 to "
@@ -10658,7 +10650,7 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 145 
+#.  PAGE BREAK 145
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10674,7 +10666,7 @@ msgstr ""
 "det ikke var verdt det en forfatter å fornye sin opphavsrett, deretter det "
 "var ikke verdt det for samfunnet å insistere på opphavsretten, enten."
 
-#.  f10 
+#.  f10
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10704,7 +10696,7 @@ msgid ""
 "work to pass into the public domain.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f11 
+#.  f11
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "See Ringer, ch. 9, n. 2."
@@ -10759,7 +10751,7 @@ msgstr ""
 "og i 1998, i sonny bono opphavsrett begrepet forlengelse loven Kongressen "
 "utvidet begrepet av eksisterende og fremtidige opphavsretten av tjue år."
 
-#.  PAGE BREAK 146 
+#.  PAGE BREAK 146
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10833,7 +10825,7 @@ msgstr ""
 "i lov om opphavsrett. til tross for kravet om at vilkårene være \"begrenset"
 "\", har vi ingen bevis for at noe vil begrense dem."
 
-#.  f12 
+#.  f12
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10932,7 +10924,7 @@ msgstr ""
 "kreativt arbeid, beskytter det kreative arbeidet mer forstand, og beskytter "
 "verk som er basert på en betydelig måte på det første skapende arbeidet."
 
-#.  PAGE BREAK 148 
+#.  PAGE BREAK 148
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11002,11 +10994,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"Consider a practical example to understand the scope of these differences."
+msgid "Consider a practical example to understand the scope of these differences."
 msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
 
-#.  f13 
+#.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11032,7 +11023,7 @@ msgid ""
 "United States&mdash;publishers."
 msgstr ""
 
-#.  PAGE BREAK 149 
+#.  PAGE BREAK 149
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11123,7 +11114,7 @@ msgstr ""
 "spøk av opphavsretten, slik loven ble riktig utvidet til å omfatte disse små "
 "endringer, så vel som ordrett opprinnelige arbeidet."
 
-#.  f14 
+#.  f14
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, July/August 2003, "
@@ -11144,7 +11135,7 @@ msgid ""
 "different from the wrong of direct piracy."
 msgstr ""
 
-#.  f15 
+#.  f15
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11201,7 +11192,7 @@ msgstr ""
 msgid "Law and Architecture: Reach"
 msgstr "lov og arkitektur: nå"
 
-#.  f16 
+#.  f16
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11230,7 +11221,7 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 151 
+#.  PAGE BREAK 151
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11253,7 +11244,7 @@ msgstr ""
 "med Internett, Kopier ikke bør være utløser for lov om opphavsrett. mer "
 "presist, bør de ikke alltid være utløser for lov om opphavsrett."
 
-#.  f17 
+#.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11294,7 +11285,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1521.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 152 
+#.  PAGE BREAK 152
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11412,7 +11403,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 154 
+#.  PAGE BREAK 154
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11425,7 +11416,7 @@ msgstr ""
 "bruker som likevel anses \"rettferdig\" uavhengig av copyrighteieren "
 "visninger."
 
-#.  f18 
+#.  f18
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11456,7 +11447,7 @@ msgid ""
 "burden of this shift."
 msgstr ""
 
-#.  PAGE BREAK 155 
+#.  PAGE BREAK 155
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11550,7 +11541,7 @@ msgstr ""
 "troubling utvidelse med hensyn til kopiere et bestemt arbeid, men det er "
 "svært troubling med hensyn til transformative bruk av skapende arbeid."
 
-#.  PAGE BREAK 156 
+#.  PAGE BREAK 156
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11623,7 +11614,7 @@ msgstr ""
 "bokhandel du kan lese noen få sider av en bok før du kjøper boken, så, du "
 "vil også kunne smake litt fra filmen on-line før du kjøpte den."
 
-#.  PAGE BREAK 157 
+#.  PAGE BREAK 157
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11716,7 +11707,7 @@ msgstr ""
 "kontroll en bruk på Internett. teknologien utvider omfanget av effektiv "
 "kontroll, fordi teknologien bygger en kopi til hver transaksjon."
 
-#.  PAGE BREAK 158 
+#.  PAGE BREAK 158
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11796,7 +11787,7 @@ msgstr ""
 "tradisjonen med loven og cognizant av saldoer som tradisjon omfavnet, som sa "
 "om og hvordan loven ville begrense friheten."
 
-#.  f19 
+#.  f19
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11815,7 +11806,7 @@ msgid ""
 "their plan.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f20 
+#.  f20
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1­3."
@@ -11882,12 +11873,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"On the next page is a picture of an old version of my Adobe eBook Reader."
-msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgid "On the next page is a picture of an old version of my Adobe eBook Reader."
+msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
-#.  PAGE BREAK 160 
+#.  PAGE BREAK 160
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -11909,8 +11898,7 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 #, mtrans, fuzzy
 msgid "Picture of an old version of Adobe eBook Reader"
-msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 #, mtrans, fuzzy
@@ -11940,7 +11928,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1612.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 161 
+#.  PAGE BREAK 161
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12020,7 +12008,7 @@ msgstr ""
 "ingen kopiering, ingen utskrift, og ikke våger du prøver å lytte til denne "
 "boken!"
 
-#.  f21 
+#.  f21
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12084,7 +12072,7 @@ msgstr ""
 "gjør; i stedet, hvis du presse lese høyt knappen med min bok, maskinen bare "
 "vil ikke lese høyt."
 
-#.  PAGE BREAK 163 
+#.  PAGE BREAK 163
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12153,8 +12141,7 @@ msgstr ""
 "du klikket på tillatelser for boken, fikk du det fulgte rapporten:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
-msgid ""
-"List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
+msgid "List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
@@ -12163,7 +12150,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1641.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 164 
+#.  PAGE BREAK 164
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12256,7 +12243,7 @@ msgstr ""
 "cuddles, og følger deg. det spiser bare elektrisitet og som ikke la så mye "
 "av et rot (i det minste i huset)."
 
-#.  PAGE BREAK 165 
+#.  PAGE BREAK 165
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12342,7 +12329,7 @@ msgstr ""
 "programmert å danse jazz. Det var en smart bit av fiksing og triksing som "
 "forvandlet hunden til en mer talentfull skapning enn sony hadde bygget."
 
-#.  PAGE BREAK 166 
+#.  PAGE BREAK 166
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12389,7 +12376,7 @@ msgstr ""
 "badgering av microsoft advokater, ed felten stått sin bakken. Han var ikke "
 "om å bli mobba til å være stille om noe han visste godt."
 
-#.  f22 
+#.  f22
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Pamela Samuelson, \"Anticircumvention Rules: Threat to Science,\" "
@@ -12445,7 +12432,7 @@ msgstr ""
 "var contestants å prøve å sprekk det, og hvis de gjorde, kan du rapportere "
 "problemer til konsortiet."
 
-#.  PAGE BREAK 167 
+#.  PAGE BREAK 167
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12524,7 +12511,7 @@ msgstr ""
 "bør også være helt lovlig, felten mottatt et brev fra en riaa advokat som "
 "lese:"
 
-#.  PAGE BREAK 168 
+#.  PAGE BREAK 168
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12598,7 +12585,7 @@ msgstr ""
 "utformet for å forby disse enheter, om bruk av opphavsrettslig materiale "
 "gjort mulig ved at omgåelse ville ha vært et brudd på opphavsretten."
 
-#.  PAGE BREAK 169 
+#.  PAGE BREAK 169
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12658,7 +12645,7 @@ msgstr ""
 "juridiske: fred rogers, aka \"mr. rogers,\" for eksempel hadde vitnet i så "
 "fall at han ønsket å fremkalle gratis å tape mr. rogers' neighborhood."
 
-#.  f23 
+#.  f23
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12689,7 +12676,7 @@ msgid ""
 "healthy way, is important.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 170 
+#.  PAGE BREAK 170
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12702,16 +12689,13 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
-msgstr ""
-"Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
+msgid "This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+msgstr "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "No argument I have can top this picture, but let me try to get close."
-msgstr ""
-"ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
+msgstr "ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12730,7 +12714,7 @@ msgstr ""
 "opphavsrettsbeskyttet materiale på måter som vil anses rimelig bruk--en god "
 "slutt."
 
-#.  PAGE BREAK 171 
+#.  PAGE BREAK 171
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12831,7 +12815,7 @@ msgstr ""
 "snoops, så vel som brukere, og snoops er stadig gode på sporing ned "
 "identiteten til de som bryter reglene."
 
-#.  f24 
+#.  f24
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12910,7 +12894,7 @@ msgstr ""
 msgid "Market: Concentration"
 msgstr "markedet: konsentrasjon"
 
-#.  PAGE BREAK 173 
+#.  PAGE BREAK 173
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12979,12 +12963,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"These changes are of two sorts: the scope of concentration, and its nature."
-msgstr ""
-"disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
+msgid "These changes are of two sorts: the scope of concentration, and its nature."
+msgstr "disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
 
-#.  f25 
+#.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12995,7 +12977,7 @@ msgstr ""
 "FCC oversight: høring før Senatet commerce, science and transport komiteen, "
 "108th cong., 1 sess. (22 mai 2003) (setning av senator john mccain)."
 
-#.  f26 
+#.  f26
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13005,7 +12987,7 @@ msgstr ""
 "lynette holloway, \"til tross for en markedsføring blitz cd salg fortsette å "
 "skyve,\" new york times, 23 desember 2002."
 
-#.  f27 
+#.  f27
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13027,7 +13009,7 @@ msgid ""
 "cable subscribers nationwide.\"<placeholder type=\"footnote\" id=\"2\"/>"
 msgstr ""
 
-#.  PAGE BREAK 174 
+#.  PAGE BREAK 174
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13078,7 +13060,7 @@ msgstr ""
 "natur at konsentrasjon. som forfatter james fallows sette den i en fersk "
 "artikkel om rupert murdoch,"
 
-#.  f28 
+#.  f28
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13124,7 +13106,7 @@ msgstr ""
 msgid "<graphic fileref=\"images/1761.png\"></graphic>"
 msgstr "<graphic fileref=\"webcc.gif\"></graphic>"
 
-#.  PAGE BREAK 175 
+#.  PAGE BREAK 175
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13181,7 +13163,7 @@ msgstr ""
 "ABC var exasperated. du mangler punktet, fortalte de lear. Vi ønsket mindre "
 "irritabel, ikke mer."
 
-#.  f29 
+#.  f29
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Leonard Hill, \"The Axis of Access,\" remarks before Weidenbaum Center "
@@ -13200,7 +13182,7 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 176 
+#.  PAGE BREAK 176
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13218,7 +13200,7 @@ msgstr ""
 "store flertallet av prime-time TV--75 prosent av det--var \"uavhengige\" av "
 "nettverk."
 
-#.  f30 
+#.  f30
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "NewsCorp./DirecTV Merger and Media Consolidation: Hearings on Media "
@@ -13271,7 +13253,7 @@ msgstr ""
 "begrenses til en stadig mindre og mindre få. som barry diller sa til bill "
 "moyers,"
 
-#.  f32 
+#.  f32
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 msgid ""
 "\"Barry Diller Takes on Media Deregulation,\" Now with Bill Moyers, Bill "
@@ -13311,7 +13293,7 @@ msgstr ""
 "nødvendigvis banishment til Sibir, men straff likevel. uavhengige, kritiske, "
 "forskjellige visninger er ødela. Dette er ikke miljø for et demokrati."
 
-#.  f33 
+#.  f33
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Clayton M. Christensen, The Innovator's Dilemma: The Revolutionary National "
@@ -13367,7 +13349,7 @@ msgstr ""
 "regjeringens politikk er sterkt rettet mot narkotika cartels; straffesaker "
 "og sivile domstolene er fylt med konsekvensene av denne kampen."
 
-#.  PAGE BREAK 178 
+#.  PAGE BREAK 178
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13457,7 +13439,7 @@ msgstr ""
 "demonstrere den ekstraordinære sikkerhetsstillelse skaden som kommer fra "
 "stoffet krigen. kan du gjøre det?"
 
-#.  PAGE BREAK 179 
+#.  PAGE BREAK 179
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13471,7 +13453,7 @@ msgstr ""
 "for å hjelpe deg å få budskapet. kan du være sikker på at meldingen vil "
 "deretter bli hørt?"
 
-#.  f34 
+#.  f34
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "The Marijuana Policy Project, in February 2003, sought to place ads that "
@@ -13551,7 +13533,7 @@ msgstr ""
 "sann og, vanligvis helt ufarlig. Ingen forstandig sortering som ikke er en "
 "Anarkisten kan uenige."
 
-#.  PAGE BREAK 180 
+#.  PAGE BREAK 180
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13633,7 +13615,7 @@ msgstr ""
 "omfanget av opphavsrett, svar på det ekstraordinære økning i kontrollen som "
 "teknologi og markedet aktivere."
 
-#.  PAGE BREAK 181 
+#.  PAGE BREAK 181
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13651,7 +13633,7 @@ msgstr ""
 "færre hadde en lovfestet rett til å styre flere av utviklingen av vår kultur "
 "enn nå."
 
-#.  f35 
+#.  f35
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13728,7 +13710,7 @@ msgstr "gratis"
 msgid "Noncommercial"
 msgstr "reklamefrie"
 
-#.  PAGE BREAK 182 
+#.  PAGE BREAK 182
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13799,7 +13781,7 @@ msgstr ""
 "gratis. men konsekvensen av fremveksten av digitale teknologier, spesielt i "
 "sammenheng med en digital network, betyr at loven nå ser slik ut:"
 
-#.  PAGE BREAK 183 
+#.  PAGE BREAK 183
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13844,7 +13826,7 @@ msgstr ""
 "for kommersielle transformasjon. mer kommersielt transformative arbeid vil "
 "bli opprettet hvis avledede rettigheter ble mer kraftig begrenset."
 
-#.  f36 
+#.  f36
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13875,7 +13857,7 @@ msgid ""
 "180 years our country consistently protected a vibrant and rich free culture."
 msgstr ""
 
-#.  PAGE BREAK 184 
+#.  PAGE BREAK 184
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13942,7 +13924,7 @@ msgstr "Nøtter"
 msgid "CHAPTER ELEVEN: Chimera"
 msgstr "Kapittel 11: chimera"
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13988,7 +13970,7 @@ msgstr ""
 "å være stor og resolutt, og som brøt. ' du er blind, og jeg kan se. La meg "
 "være! \"\""
 
-#.  PAGE BREAK 187 
+#.  PAGE BREAK 187
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14054,7 +14036,7 @@ msgstr ""
 "helbrede ham helt, alt vi trenger å gjøre er en enkel og lett kirurgisk "
 "operasjon – nemlig å fjerne disse irriterende organer [øynene].\""
 
-#.  PAGE BREAK 188 
+#.  PAGE BREAK 188
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14158,7 +14140,7 @@ msgstr ""
 "et nytt album, heller enn å kjøpe det, jeg går til kazaa og finne en gratis "
 "kopi til å ta, det er veldig mye som å stjele en kopi fra tårnet."
 
-#.  PAGE BREAK 189 
+#.  PAGE BREAK 189
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14193,7 +14175,7 @@ msgstr ""
 "for å begynne å tenke på hvordan vi skal reagere på denne chimera. hvilke "
 "regler bør styre det?"
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "For an excellent summary, see the report prepared by GartnerG2 and the "
@@ -14270,7 +14252,7 @@ msgstr ""
 "være verre enn et rimelig alternativ. men jeg tror den nulltoleranse "
 "løsningen ville være verre av to ytterpunktene."
 
-#.  PAGE BREAK 190 
+#.  PAGE BREAK 190
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14334,7 +14316,7 @@ msgstr ""
 "besvare det spørsmålet. markedskrefter operere naturlig kan godt gi en helt "
 "annen industri-modell."
 
-#.  f3. 
+#.  f3.
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14442,7 +14424,7 @@ msgstr ""
 "navnet på egenskapen fortsatt appellerer; ukritisk avvisningen av "
 "\"piratkopiering\" har fortsatt spille."
 
-#.  PAGE BREAK 193 
+#.  PAGE BREAK 193
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14513,7 +14495,7 @@ msgstr ""
 "spekter av borgere å bruke teknologi for å uttrykke og kritisere og bidra "
 "til kultur rundt."
 
-#.  PAGE BREAK 194 
+#.  PAGE BREAK 194
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14551,7 +14533,7 @@ msgstr ""
 "over Internett. men som loven er nå laget, dette arbeidet er presumptively "
 "ugyldig."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Lynne W. Jeter, Disconnected: Deceit and Betrayal at WorldCom (Hoboken, "
@@ -14561,7 +14543,7 @@ msgid ""
 "notes/\">link #37</ulink>."
 msgstr ""
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "The bill, modeled after California's tort reform model, was passed in the "
@@ -14594,7 +14576,7 @@ msgid ""
 "negligently butchering a patient?"
 msgstr ""
 
-#.  f3. 
+#.  f3.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Danit Lidor, \"Artists Just Wanna Be Free,\" Wired, 7 July 2003, "
@@ -14680,7 +14662,7 @@ msgstr ""
 "ellers har bruk var rettferdig bruk, og derfor er jeg feil å si at loven "
 "regulerer slik bruk."
 
-#.  PAGE BREAK 196 
+#.  PAGE BREAK 196
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14747,7 +14729,7 @@ msgstr ""
 msgid "As Jed Horovitz, the businessman behind Video Pipeline, said to me,"
 msgstr "som jed horovitz, forretningsmann bak video rørledning, sa til meg,"
 
-#.  PAGE BREAK 197 
+#.  PAGE BREAK 197
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14830,7 +14812,7 @@ msgstr ""
 "perspektiver er stadig attuned til måtene i hvilke regulering aktiverer bare "
 "de kraftige industriene i dag for å beskytte seg mot konkurrenter i morgen."
 
-#.  PAGE BREAK 198 
+#.  PAGE BREAK 198
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14910,7 +14892,7 @@ msgid ""
 "system was therefore a kind of music-lockbox."
 msgstr ""
 
-#.  PAGE BREAK 199 
+#.  PAGE BREAK 199
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14992,7 +14974,7 @@ msgstr ""
 "søkt å straffe noen advokat som hadde våget å foreslå at loven mindre "
 "restriktive enn etikettene krevde."
 
-#.  PAGE BREAK 200 
+#.  PAGE BREAK 200
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15012,7 +14994,7 @@ msgstr ""
 "bør være mindre bør restriktive innse at slikt syn på loven vil koste deg og "
 "ditt firma dyrt."
 
-#.  f4. 
+#.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Joseph Menn, \"Universal, EMI Sue Napster Investor,\" Los Angeles Times, "
@@ -15042,7 +15024,7 @@ msgid ""
 "a discussion with BMW:"
 msgstr ""
 
-#.  f5. 
+#.  f5.
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 msgid ""
 "Rafe Needleman, \"Driving in Cars with MP3s,\" Business 2.0, 16 June 2003, "
@@ -15076,7 +15058,7 @@ msgstr ""
 "kveler ny innovasjon. Det er vanskelig nok å starte et selskap. Det er "
 "impossibly vanskelig hvis selskapet er stadig truet av søksmål."
 
-#.  PAGE BREAK 201 
+#.  PAGE BREAK 201
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15127,7 +15109,7 @@ msgstr ""
 "overregulated kultur, akkurat som effekten av for mye kontroll i markedet er "
 "å produsere en overregulatedregulated markedet."
 
-#.  PAGE BREAK 202 
+#.  PAGE BREAK 202
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15189,7 +15171,7 @@ msgstr ""
 "effektivt. Hvis Internett gjør at \"piratkopiering\", deretter dette svaret "
 "sier, vi bør bryte kneecaps av Internett."
 
-#.  f6. 
+#.  f6.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "\"Copyright and Digital Media in a Post-Napster World,\" GartnerG2 and the "
@@ -15197,7 +15179,7 @@ msgid ""
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #44</ulink>."
 msgstr ""
 
-#.  f7. 
+#.  f7.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "GartnerG2, 26­27."
@@ -15218,7 +15200,7 @@ msgid ""
 "disable their machines.<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 
-#.  PAGE BREAK 203 
+#.  PAGE BREAK 203
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15234,7 +15216,7 @@ msgstr ""
 "dagen. det vil innføre betydelig byrder og kostnader på teknologi, men vil "
 "trolig være eclipsed av fremskritt rundt akkurat disse kravene."
 
-#.  f8. 
+#.  f8.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15275,13 +15257,11 @@ msgstr ""
 "gjøres riktig, det fordeler skaperne og skader leeches. Når gjort galt, det "
 "er regulering kraftig bruk å beseire konkurrenter."
 
-#.  f9. 
+#.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
-msgstr ""
-"Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
+msgid "Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
+msgstr "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -15310,7 +15290,7 @@ msgstr ""
 "domstoler og Kongressen innført juridiske restriksjoner som vil ha effekten "
 "av smothering ny for å dra nytte av gamle."
 
-#.  f10. 
+#.  f10.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15340,7 +15320,7 @@ msgstr ""
 "gjennomføre for attenuated å gjøre distributøren ansvarlig for krenkelse av "
 "medvirkende eller stedfortredende erstatningsansvar."
 
-#.  f11. 
+#.  f11.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "For example, in July 2002, Representative Howard Berman introduced the Peer-"
@@ -15367,7 +15347,7 @@ msgid ""
 "radio."
 msgstr ""
 
-#.  PAGE BREAK 204 
+#.  PAGE BREAK 204
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15450,7 +15430,7 @@ msgstr ""
 "stort antall brukere over hele verden. Ifølge noen anslag har mer enn åtti "
 "millioner brukere over hele verden stilt inn på denne nye formen for radio."
 
-#.  PAGE BREAK 205 
+#.  PAGE BREAK 205
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15468,7 +15448,7 @@ msgstr ""
 "beskytte Internett-radio. som en forfatter beskriver howard Armstrongs kamp "
 "for å aktivere fm-radio,"
 
-#.  f12. 
+#.  f12.
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Lessing, 239."
@@ -15490,7 +15470,7 @@ msgid ""
 "shackles.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f13. 
+#.  f13.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid., 229."
@@ -15519,7 +15499,7 @@ msgstr ""
 "opphavsrett er en slik lov. så det første spørsmålet som vi bør spørre er, "
 "hvilke opphavsrett regler ville styre Internett-radio?"
 
-#.  PAGE BREAK 206 
+#.  PAGE BREAK 206
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15544,7 +15524,7 @@ msgstr ""
 "nøytral mot Internett-radio--loven faktisk byrder Internettradio mer enn det "
 "byrder bakkesendte radio."
 
-#.  f14. 
+#.  f14.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "This example was derived from fees set by the original Copyright Arbitration "
@@ -15615,8 +15595,7 @@ msgstr "tidssonen til opprinnelse av overføring;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
-msgid ""
-"numeric designation of the place of the sound recording within the program;"
+msgid "numeric designation of the place of the sound recording within the program;"
 msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -15751,7 +15730,7 @@ msgstr ""
 "samtidig. som alex alben fortalte visepresident for public policy på real "
 "networks, meg:"
 
-#.  PAGE BREAK 208 
+#.  PAGE BREAK 208
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15833,7 +15812,7 @@ msgstr ""
 "forfedre, men synes glemt i dag. overregulation skader borgere og svekker "
 "rettssikkerhet."
 
-#.  f15. 
+#.  f15.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Mike Graziano and Lee Rainie, \"The Music Downloading Deluge,\" Pew Internet "
@@ -15843,7 +15822,7 @@ msgid ""
 "from the Internet by early 2001."
 msgstr ""
 
-#.  PAGE BREAK 209 
+#.  PAGE BREAK 209
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "The war that is being waged today is a war of prohibition. As with every war "
@@ -15860,7 +15839,7 @@ msgid ""
 "extreme response by the other."
 msgstr ""
 
-#.  f16. 
+#.  f16.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15891,7 +15870,7 @@ msgid ""
 "that those with the power can use the law to quash any rights they oppose."
 msgstr ""
 
-#.  f17. 
+#.  f17.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15901,7 +15880,7 @@ msgstr ""
 "Jeffrey a. miron og jeffrey zwiebel, \"alkoholforbruk under forbudstiden,\" "
 "amerikanske økonomiske anmeldelse 81, no. 2 (1991): 242."
 
-#.  f18. 
+#.  f18.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15913,7 +15892,7 @@ msgstr ""
 "committee, 108th cong., 1 sess. (5 mars 2003) (setning av john p. walters, "
 "direktør for nasjonale narkotikapolitikken kontroll)."
 
-#.  f19. 
+#.  f19.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -15999,7 +15978,7 @@ msgstr ""
 "er mye større enn kostnadene for et alternativ, vi har en god grunn til å "
 "vurdere alternativet."
 
-#.  PAGE BREAK 211 
+#.  PAGE BREAK 211
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16071,7 +16050,7 @@ msgstr ""
 msgid "This abstract point can be made more clear with a particular example."
 msgstr "Denne abstrakte punkt kan gjøres mer tydelig med en bestemt eksempel."
 
-#.  PAGE BREAK 212 
+#.  PAGE BREAK 212
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16145,7 +16124,7 @@ msgstr ""
 "CDer som ikke blir rippet. eller de kan aktivere spion programmer å "
 "identifisere rippede innhold på folks maskiner."
 
-#.  PAGE BREAK 213 
+#.  PAGE BREAK 213
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16240,7 +16219,7 @@ msgstr ""
 "konkurranse. for dem er valget mellom fortythree millioner amerikanere som "
 "kriminelle og deres egen overlevelse."
 
-#.  PAGE BREAK 214 
+#.  PAGE BREAK 214
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16267,8 +16246,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
+msgid "\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
 msgstr ""
 "\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
 
@@ -16321,7 +16299,7 @@ msgstr ""
 "tapte. med en enkel forespørsel til en dommer, og uten varsel til kunden i "
 "det hele tatt, er identiteten til en Internett-bruker avslørt."
 
-#.  f20. 
+#.  f20.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16359,7 +16337,7 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f21. 
+#.  f21.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See \"Revealed: How RIAA Tracks Downloaders: Music Industry Discloses Some "
@@ -16377,7 +16355,7 @@ msgid ""
 "MP3s will have the same \"fingerprint.\""
 msgstr ""
 
-#.  f22. 
+#.  f22.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Jeff Adler, \"Cambridge: On Campus, Pirates Are Not Penitent,\" Boston "
@@ -16411,7 +16389,7 @@ msgid ""
 "expelled."
 msgstr ""
 
-#.  PAGE BREAK 216 
+#.  PAGE BREAK 216
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16532,7 +16510,7 @@ msgstr ""
 "masse av veier å bruke teknologi for å beskytte seg mot gjeldende trusler på "
 "Internett. Dette er en brann at hvis enn si ville brenne seg."
 
-#.  PAGE BREAK 219 
+#.  PAGE BREAK 219
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16621,7 +16599,7 @@ msgstr ""
 "hobby fikk en årsak: eldred ville bygge et bibliotek med bøker ved skanning "
 "disse verkene og gjøre dem tilgjengelig gratis."
 
-#.  PAGE BREAK 221 
+#.  PAGE BREAK 221
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16664,7 +16642,7 @@ msgstr ""
 "(cinderella), noen ganger ikke (hunchback i notre dame, skatt planeten). "
 "disse er alle kommersielle publikasjoner av offentlige verker."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16734,7 +16712,7 @@ msgstr ""
 "deretter, hvis Kongressen utvider sikt igjen). derimot i samme periode, vil "
 "mer enn 1 million patenter passere i public domain."
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16823,7 +16801,7 @@ msgstr ""
 "fremgang\"--gjennom betyr at er også spesifikke--av \"sikre\" \"enerett"
 "\" (det vil si opphavsrett) \"for begrenset ganger.\""
 
-#.  PAGE BREAK 223 
+#.  PAGE BREAK 223
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16916,7 +16894,7 @@ msgstr ""
 "med å utløpe. du sitter i styret for robert frost eiendom. finansiell "
 "rådgiver kommer til din styremøte med en svært dystre rapport:"
 
-#.  PAGE BREAK 224 
+#.  PAGE BREAK 224
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16946,8 +16924,7 @@ msgstr ""
 msgid ""
 "\"Hope?\" a fellow board member says. \"Can't we be doing something about it?"
 "\""
-msgstr ""
-"\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
+msgstr "\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -16988,8 +16965,7 @@ msgstr ""
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
-msgstr ""
-"du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
+msgstr "du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -17013,7 +16989,7 @@ msgstr ""
 "til stede verdien av inntekten du forventer fra disse opphavsrettigheter. "
 "som for oss betyr over $1,000,000.\""
 
-#.  PAGE BREAK 225 
+#.  PAGE BREAK 225
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17043,7 +17019,7 @@ msgstr ""
 "(riktignok indirekte), vil det være alle ansporingen i verden til å kjøpe "
 "ytterligere utvidelser av copyright."
 
-#.  f3. 
+#.  f3.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17055,14 +17031,14 @@ msgstr ""
 "Mikke Mus innsats; Kongressen øks bill tildeling skaperne 20 år,\"chicago "
 "tribune, 17 oktober 1998, 22."
 
-#.  f4. 
+#.  f4.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "See Nick Brown, \"Fair Use No More?: Copyright in the Information Age,\" "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #49</ulink>."
 msgstr ""
 
-#.  f5. 
+#.  f5.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" Congressional "
@@ -17105,7 +17081,7 @@ msgstr ""
 "konstitusjonelle krav at vilkårene være \"begrenset.\" Hvis de kunne "
 "forlenge det en gang, de ville utvide den igjen og igjen og igjen."
 
-#.  PAGE BREAK 226 
+#.  PAGE BREAK 226
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17180,13 +17156,13 @@ msgstr ""
 "Høyesterett, regjeringen sa, var ikke i posisjon til å second-guess "
 "Kongressen."
 
-#.  f6. 
+#.  f6.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "United States v. Lopez, 514 U.S. 549, 564 (1995)."
 msgstr "USA v. lopez, 514 amerikanske 549, 564 (1995)."
 
-#.  f7. 
+#.  f7.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid "United States v. Morrison, 529 U.S. 598 (2000)."
@@ -17202,7 +17178,7 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 
-#.  f8. 
+#.  f8.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17224,7 +17200,7 @@ msgstr ""
 "regjeringen unending makt til å regulere opphavsrett--begrenset til "
 "\"begrenset ganger\" til tross for."
 
-#.  PAGE BREAK 227 
+#.  PAGE BREAK 227
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "If a principle were at work here, then it should apply to the Progress "
@@ -17295,7 +17271,7 @@ msgstr ""
 "dollop av monopol. at tyve års Dollop dollop ville bli Hentet fra public "
 "domain. Eric eldred var kjemper en piratkopiering som påvirker oss alle."
 
-#.  f9. 
+#.  f9.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Brief of the Nashville Songwriters Association, Eldred v. Ashcroft, 537 U."
@@ -17354,7 +17330,7 @@ msgstr ""
 "verk. reell skade er Works ikke er kjent, ikke kommersielt utnyttede og ikke "
 "lenger tilgjengelig som et resultat."
 
-#.  f10. 
+#.  f10.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "The figure of 2 percent is an extrapolation from the study by the "
@@ -17373,7 +17349,7 @@ msgid ""
 "generally.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 229 
+#.  PAGE BREAK 229
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17471,7 +17447,7 @@ msgstr ""
 "sannsynligvis ditt.) så har formelt eller uformelt, vi en ganske god måte å "
 "vite hvem som eier hvilke konkrete-egenskapen."
 
-#.  PAGE BREAK 230 
+#.  PAGE BREAK 230
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17529,7 +17505,7 @@ msgstr ""
 "vil bare rot bort på hyller. men konsekvensen for andre kreative verker er "
 "mye mer dire."
 
-#.  f11. 
+#.  f11.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17570,7 +17546,7 @@ msgstr ""
 "opphavsrett begrepet filtypen act vil, hvis stå stående, ødelegge en hel "
 "generasjon av american film."
 
-#.  PAGE BREAK 231 
+#.  PAGE BREAK 231
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17588,7 +17564,7 @@ msgstr ""
 "for at dette skal skje, men må kommersiell fordel fra arbeidet overskride "
 "kostnadene ved å gjøre arbeidet tilgjengelig for distribusjon."
 
-#.  f12. 
+#.  f12.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Brief of Hal Roach Studios and Michael Agee as Amicus Curiae Supporting the "
@@ -17661,7 +17637,7 @@ msgstr ""
 "advokat. og som for ofte er tilfellet, sier du har til å snakke med en "
 "advokat er det samme som å si du ikke gjøre noen penger."
 
-#.  PAGE BREAK 232 
+#.  PAGE BREAK 232
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17743,7 +17719,7 @@ msgstr ""
 "vi er, og der vi kom fra, og hvordan vi har gjort feil som vi har, trenger "
 "vi å ha tilgang til denne historien."
 
-#.  PAGE BREAK 233 
+#.  PAGE BREAK 233
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17834,7 +17810,7 @@ msgstr ""
 "levetid. Det er nå mulig å bevare og forsikrer særlige til denne kunnskap og "
 "kultur, mens før det ikke var."
 
-#.  PAGE BREAK 234 
+#.  PAGE BREAK 234
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17909,7 +17885,7 @@ msgstr ""
 "etterspørsel etter en bestemt bit av denne kulturen eller ikke-- så vi ikke "
 "stole på det kommersielle markedet å gjøre arbeidet vårt bibliotek for oss."
 
-#.  f13. 
+#.  f13.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Jason Schultz, \"The Myth of the 1976 Copyright `Chaos' Theory,\" 20 "
@@ -17996,7 +17972,7 @@ msgstr ""
 "eller tilfeller som øke problemer som er spesifikke for kretsen som helhet, "
 "der domstolen skal sitte \"no banc\" for å høre tilfelle."
 
-#.  PAGE BREAK 236 
+#.  PAGE BREAK 236
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18070,7 +18046,7 @@ msgstr ""
 "historien til meg selv, jeg kan aldri unnslippe å tro at min egen feil "
 "mistet den."
 
-#.  PAGE BREAK 237 
+#.  PAGE BREAK 237
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18160,7 +18136,7 @@ msgstr ""
 "dem at denne loven var ille, vi trengte å vise hvorfor det var "
 "forfatningsstridig."
 
-#.  PAGE BREAK 238 
+#.  PAGE BREAK 238
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18235,7 +18211,7 @@ msgstr ""
 "grense for Kongressens makt til å angi vilkår. som sterkt konservativ "
 "argumentet overtalt en sterk konservative dommer, dommer sentelle."
 
-#.  PAGE BREAK 239 
+#.  PAGE BREAK 239
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "In the Supreme Court, the briefs on our side were about as diverse as it "
@@ -18295,7 +18271,7 @@ msgstr ""
 "slike utvidelser var ingenting mer enn \"leie-søker\"--fancy sikt økonomer "
 "bruk å beskrive spesielle interesser lovgivning gone wild."
 
-#.  PAGE BREAK 240 
+#.  PAGE BREAK 240
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18372,7 +18348,7 @@ msgstr ""
 "fortsette å ha rett til å kontrollere hvem som gjorde hva med innhold de "
 "ønsket å kontroll."
 
-#.  f14. 
+#.  f14.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18382,7 +18358,7 @@ msgstr ""
 "kort av gikk dr. seuss enterprise et al., eldred v. ashcroft, 537 "
 "amerikanske (2003) (nr 01-618), 19."
 
-#.  f15. 
+#.  f15.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18392,7 +18368,7 @@ msgstr ""
 "dinitia smith, \"udødelig ord, udødelig royalties? selv Mikke Mus tiltrer "
 "fray,\"new york times, 28 mars 1998, b7."
 
-#.  PAGE BREAK 241 
+#.  PAGE BREAK 241
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "Dr. Seuss's representatives, for example, argued that it was better for the "
@@ -18463,7 +18439,7 @@ msgid ""
 "interpreted to assure that Congress's powers had limits."
 msgstr ""
 
-#.  PAGE BREAK 242 
+#.  PAGE BREAK 242
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18557,7 +18533,7 @@ msgstr ""
 "- argumentet at dommer sentelle hadde grunnlag i lagmannsrett, at "
 "Kongressens makt må tolkes slik at dens nummerert kreftene har begrensninger."
 
-#.  PAGE BREAK 243 
+#.  PAGE BREAK 243
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18607,7 +18583,7 @@ msgstr ""
 "selvfølgelig, i 1962, Kongressen begynte utvide eksisterende regelmessig--"
 "betingelser elleve ganger i førti år."
 
-#.  PAGE BREAK 244 
+#.  PAGE BREAK 244
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18685,7 +18661,7 @@ msgstr ""
 "passionately få dem til å se skaden. for hvis de ser ikke som, så vi har "
 "ikke noen sjanse til å vinne."
 
-#.  PAGE BREAK 245 
+#.  PAGE BREAK 245
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18789,7 +18765,7 @@ msgstr ""
 "underskrev hadde i tankene.\", men mitt svar var igjen og igjen å "
 "understreke begrensninger på Kongressens makt."
 
-#.  PAGE BREAK 246 
+#.  PAGE BREAK 246
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18829,8 +18805,7 @@ msgstr ""
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
-msgstr ""
-"Her følger min klart feil. som professor korrigere en student, svarte jeg,"
+msgstr "Her følger min klart feil. som professor korrigere en student, svarte jeg,"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
@@ -18872,7 +18847,7 @@ msgstr ""
 "justisministeren hadde utformet lopez avgjørelse, og vi håpet at ville han "
 "se denne saken som sin andre fetter."
 
-#.  PAGE BREAK 247 
+#.  PAGE BREAK 247
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18953,7 +18928,7 @@ msgstr ""
 "opphavsrett og patent-setningsdel. alle sanne. men det var ikke til å flytte "
 "retten til min side."
 
-#.  PAGE BREAK 248 
+#.  PAGE BREAK 248
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19045,7 +19020,7 @@ msgstr ""
 "funnet. saken ble ikke selv sitert. argumentet som ble argumentet kjernen i "
 "vårt tilfelle ikke engang vises i retten mening."
 
-#.  PAGE BREAK 249 
+#.  PAGE BREAK 249
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19134,7 +19109,7 @@ msgstr ""
 "om ordene var om patenter eller opphavsrett. Retten la rettferdighet stevens "
 "kostnad gå ubesvart."
 
-#.  PAGE BREAK 250 
+#.  PAGE BREAK 250
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19208,7 +19183,7 @@ msgstr ""
 "lopez og mange andre \"originalist\" rulings. hvor var deres \"originalism\" "
 "nå?"
 
-#.  PAGE BREAK 251 
+#.  PAGE BREAK 251
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19267,7 +19242,7 @@ msgstr ""
 "argument som fulgte i logikken. Jeg trengte ikke å kaste bort min tid viser "
 "det bør også følge i popularitet."
 
-#.  PAGE BREAK 252 
+#.  PAGE BREAK 252
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19355,7 +19330,7 @@ msgstr ""
 "-domstolen ikke er klar,\"sagt peter jaszi, Dette problemet bør ikke heves "
 "før det er."
 
-#.  PAGE BREAK 253 
+#.  PAGE BREAK 253
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19484,7 +19459,7 @@ msgstr ""
 "konstitusjonelle prinsippet, til slutt, jeg slått til et argument av "
 "politikk."
 
-#.  PAGE BREAK 256 
+#.  PAGE BREAK 256
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19573,7 +19548,7 @@ msgstr ""
 "systemet vil redusere disse kostnadene ved å etablere minst én registret der "
 "eiere av opphavsretter kan identifiseres."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19687,7 +19662,7 @@ msgstr ""
 "formaliteter lovet ikke bare å lagre sultende enker, men også å lette en "
 "unødvendig regulatoriske belastning påtvang skapere."
 
-#.  PAGE BREAK 258 
+#.  PAGE BREAK 258
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19755,7 +19730,7 @@ msgstr ""
 "eiendommen eier, men de byrdene produserer et mye bedre system av "
 "beskyttelse for egenskapen generelt."
 
-#.  PAGE BREAK 259 
+#.  PAGE BREAK 259
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19857,7 +19832,7 @@ msgstr ""
 "mener at $1 er egentlig misvisende? er ikke hassle verdt mer enn $1? er ikke "
 "det virkelige problemet med registrering?"
 
-#.  PAGE BREAK 260 
+#.  PAGE BREAK 260
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19936,7 +19911,7 @@ msgstr ""
 "viktigere, viser deres tykkelse noe klart om hva denne debatten er virkelig "
 "om."
 
-#.  PAGE BREAK 261 
+#.  PAGE BREAK 261
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20024,7 +19999,7 @@ msgstr ""
 "her vi bør spørre, også, er loven etter eller motsette sunn fornuft? Hvis "
 "sunn fornuft støtter loven, forklarer hva denne sunn fornuft?"
 
-#.  PAGE BREAK 262 
+#.  PAGE BREAK 262
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20107,7 +20082,7 @@ msgstr ""
 "ikke bare å beskytte hva er deres. deres mål er å sikre at alt er det er hva "
 "er deres."
 
-#.  PAGE BREAK 263 
+#.  PAGE BREAK 263
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20190,7 +20165,7 @@ msgstr ""
 "cocktail av disse stoffene deres levealder ved ti til tjue år. for noen "
 "gjøre narkotika sykdommen nesten usynlig."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Commission on Intellectual Property Rights, \"Final Report: Integrating "
@@ -20212,7 +20187,7 @@ msgid ""
 "\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 265 
+#.  PAGE BREAK 265
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20265,7 +20240,7 @@ msgstr ""
 "etter måter å importere hiv behandlinger på kostnader betydelig under "
 "markedspris."
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20286,7 +20261,7 @@ msgid ""
 "Union.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  f3. 
+#.  f3.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "International Intellectual Property Institute (IIPI), Patent Protection and "
@@ -20299,7 +20274,7 @@ msgid ""
 "No. 106-126 (22 July 1999), 150­57 (statement of James Love)."
 msgstr ""
 
-#.  f4. 
+#.  f4.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "International Intellectual Property Institute (IIPI), Patent Protection and "
@@ -20384,8 +20359,8 @@ msgstr ""
 "stoffene til tilbys priser. stoppe parallellimport av disse stoffene ville "
 "ikke øke betydelig salg etter amerikanske selskaper."
 
-#.  f5. 
-#.  PAGE BREAK 333 
+#.  f5.
+#.  PAGE BREAK 333
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "See Sabin Russell, \"New Crusade to Lower AIDS Drug Costs: Africa's Needs at "
@@ -20465,7 +20440,7 @@ msgstr ""
 "sikre at narkotika ikke komme tilbake i USA, men de er bare problemer av "
 "teknologi. de kan bli overvunnet."
 
-#.  PAGE BREAK 268 
+#.  PAGE BREAK 268
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20527,7 +20502,7 @@ msgstr ""
 "policy. for de fleste av vår historie, var både om opphavsrett og patent "
 "politikk balansert i bare denne forstand."
 
-#.  PAGE BREAK 269 
+#.  PAGE BREAK 269
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20590,7 +20565,7 @@ msgstr ""
 "ikke engang merke til. kraftig lobbies, komplekse problemer og mtv "
 "oppmerksomhet spenn produsere \"perfect storm\" gratis kultur."
 
-#.  f6. 
+#.  f6.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Jonathan Krim, \"The Quiet War over Open-Source,\" Washington Post, August "
@@ -20603,7 +20578,7 @@ msgid ""
 "free-culture.cc/notes/\">link #61</ulink>."
 msgstr ""
 
-#.  PAGE BREAK 270 
+#.  PAGE BREAK 270
 #. type: Content of: <book><chapter><para>
 msgid ""
 "In August 2003, a fight broke out in the United States about a decision by "
@@ -20642,7 +20617,7 @@ msgstr ""
 "holde access åpne, eller for å angi begrensninger for hvordan proprietære "
 "krav kan brukes."
 
-#.  f7. 
+#.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20660,7 +20635,7 @@ msgid ""
 "intellectual property issues."
 msgstr ""
 
-#.  PAGE BREAK 271 
+#.  PAGE BREAK 271
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20740,7 +20715,7 @@ msgstr ""
 "åpen kildekode eller gratis programvare, snarere enn \"proprietær "
 "programvare,\" for sine egne interne bruk."
 
-#.  f8. 
+#.  f8.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Microsoft's position about free and open source software is more "
@@ -20772,7 +20747,7 @@ msgid ""
 "different from Microsoft's.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 272 
+#.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20805,7 +20780,7 @@ msgstr ""
 "sin adoptert. det dermed avhenger lov om opphavsrett på samme måte som "
 "microsoft."
 
-#.  f9. 
+#.  f9.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Krim, \"The Quiet War over Open-Source,\" available at <ulink url=\"http://"
@@ -20932,7 +20907,7 @@ msgstr ""
 "være om: å gi enkeltpersoner retten til å avgjøre hva å gjøre med deres "
 "eiendom."
 
-#.  PAGE BREAK 274 
+#.  PAGE BREAK 274
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20976,7 +20951,7 @@ msgstr ""
 "Føydalisme depended upon maksimal kontroll og konsentrasjon. det kjempet "
 "noen friheten som kan forstyrre denne kontrollen."
 
-#.  f10. 
+#.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid "See Drahos with Braithwaite, Information Feudalism, 210­20."
@@ -21004,7 +20979,7 @@ msgstr ""
 "hennes Kommentarer gjort forstand. men det var en kommentar som var spesielt "
 "deprimerende for meg. skrev en anonym plakat,"
 
-#.  PAGE BREAK 275 
+#.  PAGE BREAK 275
 #. type: Content of: <book><chapter><blockquote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21091,7 +21066,7 @@ msgstr ""
 "absurd, at ideen om krevende av regjeringen at det taler sannheten og ikke "
 "løgn er bare naiv, og som har vi, det mektigste demokratiet i verden, bli?"
 
-#.  PAGE BREAK 276 
+#.  PAGE BREAK 276
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21219,7 +21194,7 @@ msgstr ""
 "Hvis vi var achilles, ville dette være våre hæl. Dette ville være stedet for "
 "våre tragedie."
 
-#.  f11. 
+#.  f11.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "John Borland, \"RIAA Sues 261 File Swappers,\" CNET News.com, September "
@@ -21235,7 +21210,7 @@ msgid ""
 "at <ulink url=\"http://free-culture.cc/notes/\">link #67</ulink>."
 msgstr ""
 
-#.  f12. 
+#.  f12.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Jon Wiederhorn, \"Eminem Gets Sued . . . by a Little Old Lady,\" mtv.com, 17 "
@@ -21243,8 +21218,8 @@ msgid ""
 "\">link #68</ulink>."
 msgstr ""
 
-#.  f13. 
-#.  PAGE BREAK 334 
+#.  f13.
+#.  PAGE BREAK 334
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Kenji Hall, Associated Press, \"Japanese Book May Be Inspiration for Dylan "
@@ -21270,7 +21245,7 @@ msgid ""
 "for kids who use a computer to share content."
 msgstr ""
 
-#.  f14. 
+#.  f14.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "\"BBC Plans to Open Up Its Archive to the Public,\" BBC press release, 24 "
@@ -21278,14 +21253,14 @@ msgid ""
 "#70</ulink>."
 msgstr ""
 
-#.  f15. 
+#.  f15.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "\"Creative Commons and Brazil,\" Creative Commons Weblog, 6 August 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #71</ulink>."
 msgstr ""
 
-#.  PAGE BREAK 278 
+#.  PAGE BREAK 278
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Yet on the other side of the Atlantic, the BBC has just announced that it "
@@ -21302,7 +21277,7 @@ msgid ""
 "it will take some will to transform the RCAs of our day into the Causbys."
 msgstr ""
 
-#.  PAGE BREAK 279 
+#.  PAGE BREAK 279
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21316,7 +21291,7 @@ msgstr ""
 msgid "AFTERWORD"
 msgstr "Etterord"
 
-#.  PAGE BREAK 280 
+#.  PAGE BREAK 280
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21403,7 +21378,7 @@ msgstr ""
 "være i stand til å gjøre med innhold som du ønsker, uavhengig av om du har "
 "tillatelse eller ikke."
 
-#.  PAGE BREAK 282 
+#.  PAGE BREAK 282
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21565,7 +21540,7 @@ msgstr ""
 "sortere hvem gjør hva i elektronisk mellomrom, forsvinner personvern "
 "friksjon i går."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See, for example, Marc Rotenberg, \"Fair Information Practices and the "
@@ -21577,7 +21552,7 @@ msgid ""
 "(mapping tradeoffs between technology and privacy)."
 msgstr ""
 
-#.  PAGE BREAK 284 
+#.  PAGE BREAK 284
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "It is this reality that explains the push of many to define \"privacy\" on "
@@ -21662,7 +21637,7 @@ msgstr ""
 "skriverdriveren og kopiere den, og deretter som ville gjøre det enklere for "
 "meg å selge en skriver til markedet enn det var for deg."
 
-#.  PAGE BREAK 285 
+#.  PAGE BREAK 285
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21735,7 +21710,7 @@ msgstr ""
 "historien om denne boken. Dette er skiftet i måten faglige og vitenskapelige "
 "journaler er produsert."
 
-#.  PAGE BREAK 286 
+#.  PAGE BREAK 286
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21833,7 +21808,7 @@ msgstr ""
 "Således, som med personvern og med programvare, en skiftende teknologi og "
 "markedet forminske en frihet tatt for gitt før."
 
-#.  PAGE BREAK 287 
+#.  PAGE BREAK 287
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21908,7 +21883,7 @@ msgstr ""
 "sitt arbeid. Simple tags, knyttet til lesbar beskrivelser, knyttet til "
 "vanntett lisenser, gjør dette mulig."
 
-#.  PAGE BREAK 288 
+#.  PAGE BREAK 288
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21982,7 +21957,7 @@ msgstr ""
 "enkeltpersoner og skaperne vil gjøre dette innholdet tilgjengelig. og at "
 "innholdet i sin tur kan vi bygge et offentlig-domene."
 
-#.  PAGE BREAK 289 
+#.  PAGE BREAK 289
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22077,7 +22052,7 @@ msgstr ""
 "første utskrift er oppbrukt måneder før utgiveren hadde forventet. denne "
 "første romanen av en science fiction-forfatteren var en total suksess."
 
-#.  PAGE BREAK 290 
+#.  PAGE BREAK 290
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22097,7 +22072,7 @@ msgstr ""
 "som spådd, som antall nedlastinger økt, brukte boken-pris for sin bok øker "
 "også."
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Willful Infringement: A Report from the Front Lines of the Real Culture Wars "
@@ -22147,7 +22122,7 @@ msgstr ""
 "dette begrepet \"noen rettigheter reservert\", og gir mange sjansen til å si "
 "det til andre."
 
-#.  PAGE BREAK 291 
+#.  PAGE BREAK 291
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22247,7 +22222,7 @@ msgstr ""
 "en bil, kan du få en regning for salg og registrere bilen. Hvis du kjøper en "
 "flybillett, har navnet ditt på den."
 
-#.  PAGE BREAK 293 
+#.  PAGE BREAK 293
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22313,7 +22288,7 @@ msgstr ""
 "som bygger på vår fortid. og dermed mangel på formaliteter styrker mange i "
 "stillhet der de ellers kunne snakke."
 
-#.  f1. 
+#.  f1.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22419,7 +22394,7 @@ msgstr ""
 "enda viktigere, det stasjoner brukervennligheten som registrering oppstår "
 "opp."
 
-#.  PAGE BREAK 295 
+#.  PAGE BREAK 295
 #. type: Content of: <book><chapter><sect1><sect2><sect3><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22500,7 +22475,7 @@ msgstr ""
 "spesiell signalet fra å merke--ikke tap av opphavsretten, men tap av retten "
 "til å straffe noen for ikke å få tillatelse først."
 
-#.  f2. 
+#.  f2.
 #. type: Content of: <book><chapter><sect1><sect2><sect3><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22512,7 +22487,7 @@ msgstr ""
 "her. etter mitt syn er oppretter loven av derivater et mer komplisert system "
 "enn er rettferdiggjort av marginale incitament opprettes."
 
-#.  PAGE BREAK 296 
+#.  PAGE BREAK 296
 #. type: Content of: <book><chapter><sect1><sect2><sect3><para>
 msgid ""
 "Let's start with the last point. If a copyright owner allows his work to be "
@@ -22624,7 +22599,7 @@ msgstr ""
 "corporate forfattere og livet forfatter pluss sytti år for naturlig "
 "forfattere."
 
-#.  f3. 
+#.  f3.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "\"A Radical Rethink,\" Economist, 366:8308 (25 January 2003): 15, available "
@@ -22652,7 +22627,7 @@ msgstr ""
 "sikt. men om fjorten år eller sytti-fem, finnes det fire prinsipper som er "
 "viktig å huske på om opphavsrett terms."
 
-#.  (1) 
+#.  (1)
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22670,8 +22645,8 @@ msgstr ""
 "(ikke avledede) utvides ytterligere. nøkkelen er ikke å knytte arbeidet opp "
 "med forskrifter når det ikke lenger fordeler en forfatter."
 
-#.  (2) 
-#.  PAGE BREAK 298 
+#.  (2)
+#.  PAGE BREAK 298
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 msgid ""
 "Keep it simple: The line between the public domain and protected content "
@@ -22684,7 +22659,7 @@ msgid ""
 "and \"idea/expression\" less necessary to navigate."
 msgstr ""
 
-#.  f4. 
+#.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para><footnote><para>
 msgid ""
 "Department of Veterans Affairs, Veteran's Application for Compensation and/"
@@ -22704,7 +22679,7 @@ msgid ""
 "minutes every fifty years to file a single form."
 msgstr ""
 
-#.  (4) 
+#.  (4)
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22796,7 +22771,7 @@ msgstr ""
 "skrive en bok og en film basert på boken, jeg har makt til å nekte deg rett "
 "til å frigi den filmen, selv om filmen ikke er \"min skrive.\""
 
-#.  f5. 
+#.  f5.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22816,7 +22791,7 @@ msgid ""
 "Judge Benjamin Kaplan."
 msgstr ""
 
-#.  f6. 
+#.  f6.
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Ibid., 56."
@@ -22845,7 +22820,7 @@ msgstr ""
 "de har ikke noen mening som en formløse grant. vurdere hver begrensning "
 "igjen."
 
-#.  PAGE BREAK 300 
+#.  PAGE BREAK 300
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22905,7 +22880,7 @@ msgstr ""
 "ikke fornuftig å kreve forhandling for den unforeseeable. her, ville en "
 "lovfestet rett gjøre mye mer fornuftig."
 
-#.  f7. 
+#.  f7.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22939,7 +22914,7 @@ msgstr ""
 "arkitekturer av inntekt, kombinert med en sterk copyright svekke prosessen "
 "med innovasjon."
 
-#.  PAGE BREAK 301 
+#.  PAGE BREAK 301
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23019,16 +22994,15 @@ msgstr ""
 "alle fildeling nettverk gjør. som jeg beskrevet i kapittel 5, aktivere de "
 "fire forskjellige typer deling:"
 
-#.  A. 
+#.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
-msgstr ""
-"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+msgstr "Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
 
-#.  B. 
+#.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23038,8 +23012,8 @@ msgstr ""
 "Det er også noen som bruker deling nettverk for å prøve, på vei til å kjøpe "
 "CDer."
 
-#.  PAGE BREAK 302 
-#.  C. 
+#.  PAGE BREAK 302
+#.  C.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23051,7 +23025,7 @@ msgstr ""
 "innhold som selges ikke lenger, men er fortsatt under opphavsrett eller som "
 "ville ha vært altfor tunge å kjøpe fra nettet."
 
-#.  D. 
+#.  D.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23123,7 +23097,7 @@ msgstr ""
 "fleste bare få tilgang gjennom en maskin med et tastatur. ideen om den "
 "alltid på, alltid tilkoblet Internett er hovedsakelig bare en idé."
 
-#.  PAGE BREAK 303 
+#.  PAGE BREAK 303
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23150,7 +23124,7 @@ msgstr ""
 "Internett. Tenk deg så allestedsnærværende som beste mobiltelefonen "
 "tjenesten, der med flippen på en enhet, du er tilkoblet Internett."
 
-#.  f8. 
+#.  f8.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See, for example, \"Music Media Watch,\" The J@pan Inc. Newsletter, 3 April "
@@ -23177,7 +23151,7 @@ msgid ""
 "\"footnote\" id=\"0\"/>"
 msgstr ""
 
-#.  PAGE BREAK 304 
+#.  PAGE BREAK 304
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23281,7 +23255,7 @@ msgstr ""
 "sammenheng der kommersielle publisering er avsluttet, bør handel musikk være "
 "gratis som handel bøker."
 
-#.  PAGE BREAK 305 
+#.  PAGE BREAK 305
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23367,7 +23341,7 @@ msgstr ""
 "så har også, teknologien for digitale nettverk skadet interessene til "
 "innhold industrien."
 
-#.  PAGE BREAK 306 
+#.  PAGE BREAK 306
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23384,7 +23358,7 @@ msgstr ""
 "teknologier som er tiden skade innholdsleverandører på Internett, må vi "
 "finne en relativt enkel måte å kompensere de som er skadet."
 
-#.  f9. 
+#.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "William Fisher, Digital Music: Problems and Possibilities (last revised: 10 "
@@ -23461,7 +23435,7 @@ msgstr ""
 "lenger er nødvendig, kan systemet lapse i det gamle systemet å kontrollere "
 "tilgangen."
 
-#.  PAGE BREAK 307 
+#.  PAGE BREAK 307
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23557,7 +23531,7 @@ msgstr ""
 msgid "In summary, then, my proposal is this:"
 msgstr "Oppsummert, så er mitt forslag dette:"
 
-#.  PAGE BREAK 308 
+#.  PAGE BREAK 308
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23574,16 +23548,15 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
-msgstr ""
-"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+msgstr "Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
 
-#.  1. 
+#.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid "guaranteeing the right to engage in type D sharing;"
 msgstr "garantere retten til å engasjere seg i type-d dele;"
 
-#.  2. 
+#.  2.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23593,7 +23566,7 @@ msgstr ""
 "tillater ikke-kommersiell type c deling uten erstatningsansvar og "
 "kommersielle type c deling med en lav og fast hastighet ved lov;"
 
-#.  3. 
+#.  3.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23642,7 +23615,7 @@ msgstr ""
 "sikre kunstneres kompensasjon uten å bryte Internett. Når som er trygg, kan "
 "deretter det godt være riktig å finne måter å spore opp smålig pirates."
 
-#.  PAGE BREAK 309 
+#.  PAGE BREAK 309
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23691,7 +23664,7 @@ msgstr ""
 "rike klientene har en sterk visning, yrke å spørsmålet eller telleren uvilje "
 "mot en sterk visningen queers loven."
 
-#.  f10. 
+#.  f10.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23724,7 +23697,7 @@ msgstr ""
 "ikke bare om en profesjonell skjevhet. Det er enda viktigere om vår "
 "manglende evne til å faktisk regner med kostnadene for loven."
 
-#.  f11. 
+#.  f11.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "A good example is the work of Professor Stan Liebowitz. Liebowitz is to be "
@@ -23753,7 +23726,7 @@ msgid ""
 "the way their elementary school civics class taught them it works."
 msgstr ""
 
-#.  PAGE BREAK 310 
+#.  PAGE BREAK 310
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23837,7 +23810,7 @@ msgstr ""
 "hva noen regime som krever tillatelse produserer. igjen, dette er "
 "virkeligheten av brezhnev's Russland."
 
-#.  PAGE BREAK 311 
+#.  PAGE BREAK 311
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23854,15 +23827,16 @@ msgstr ""
 "\"Hvorfor ikke?\""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "We should ask, \"Why?\" Show me why your regulation of culture is needed. "
 "Show me how it does good. And until you can show me both, keep your lawyers "
 "away."
 msgstr ""
-"Vi bør spørre: \"Hvorfor?\" Vis meg hvorfor din regulering av kultur er "
-"nødvendig. Vis meg hvordan det fungerer bra. og før du kan vise meg begge, "
-"holde advokater din unna."
+"Vi burde spørre: \"Hvorfor?\" Vis meg hvorfor din regulering av kultur er "
+"nødvendig og vis meg hvordan reguleringen fungerer bra.  Før du kan vise meg "
+"begge, "
+"holde advokatene din unna."
 
 #. type: Content of: <book><chapter><title>
 msgid "NOTES"
@@ -23880,6 +23854,14 @@ msgid ""
 "link has disappeared, you will be redirected to an appropriate reference for "
 "the material."
 msgstr ""
+"Gjennom denne teksten er det referanser til lenker på verdensveven.  Og som alle "
+"som har forsøkt å bruke nettet vet, så vil disse lenkene være svært ustabile.  "
+"Jeg har forsøkt å motvirke denne ustabiliteten ved å omdirigere lesere til den "
+"originale kilden gjennom en nettsiden assosiert med denne boken.  For hver lenke "
+"under, så kan du gå til http://free-culture.cc/notes og finne den originale "
+"kilden ved å klikke på nummeret etter #-tegnet.  If den originale lenken fortsatt "
+"er i live, så vil du bli omdirigert til den lenken.  Hvis den originale lenken "
+"har forsvunnet, så vil du bli omdirigert til en passende referanse til materialet."
 
 #. type: Content of: <book><chapter><title>
 msgid "ACKNOWLEDGMENTS"
@@ -23923,7 +23905,7 @@ msgstr ""
 "og til laura lynch, som briljant klarte hæren at de samlet, og ga sin egen "
 "kritisk blikk på mye av dette."
 
-#.  PAGE BREAK 337 
+#.  PAGE BREAK 337
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23999,14 +23981,16 @@ msgstr ""
 "steder i denne boken."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "Finally, and forever, I am thankful to Bettina, who has always insisted that "
 "there would be unending happiness away from these battles, and who has "
 "always been right. This slow learner is, as ever, grateful for her perpetual "
 "patience and love."
 msgstr ""
-"Til slutt, og for evig, jeg er Bettina takknemlig, som alltid har insistert "
-"på at det ville være  lykke uten ende borte fra disse kampene, og som alltid "
+"Til slutt, og for evig, er jeg Bettina takknemlig, som alltid har insistert "
+"på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
+
+
