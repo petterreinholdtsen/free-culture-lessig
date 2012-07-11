@@ -1,16 +1,15 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-#, mtrans, fuzzy
 # Petter Reinholdtsen <pere@hungry.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-10 09:32+0300\n"
+"POT-Creation-Date: 2012-07-11 01:09+0300\n"
 "PO-Revision-Date: 2012-07-10 09:29+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
-"Language: \n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +18,11 @@ msgstr ""
 
 #. type: Content of the copy entity
 msgid "©"
-msgstr ""
+msgstr "©"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
-msgstr "nb"
+msgstr "no"
 
 #. type: Content of: <book><bookinfo><title>
 msgid "Free Culture"
@@ -57,8 +56,8 @@ msgstr ""
 "<copyright> <year>2004</year> <holder> Lawrence Lessig.  Denne versjonen av "
 "Fri Kultur er lisensert med en Creative Commons-lisens.  Denne lisensen "
 "tillater ikke-kommersiell utnyttelse av verket, hvis opphavsinnehaveren er "
-"navngitt.  For mer informasjon om lisensen, klikk på ikonet over eller "
-"besøk<ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://"
+"navngitt.  For mer informasjon om lisensen, klikk på ikonet over eller besøk "
+"<ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://"
 "creativecommons.org/licenses/by-nc/1.0/</ulink> </holder> </copyright>"
 
 #. type: Content of: <book><bookinfo><abstract><title>
@@ -128,15 +127,13 @@ msgstr "Andre bøker av Lawrence Lessig"
 #| "ALSO BY LAWRENCE LESSIG The Future of Ideas: The Fate of the Commons in a "
 #| "Connected World Code: And Other Laws of Cyberspace"
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
-msgstr ""
-"The Future of Ideas: The Fate of the Commons in a Connected World"
+msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
 #. type: Content of: <book><chapter><para>
 msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans
 msgid "THE PENGUIN PRESS"
 msgstr "The Penguin Press"
 
@@ -165,18 +162,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-msgid "Copyright © Lawrence Lessig,"
-msgstr ""
+msgid "Copyright &copy; Lawrence Lessig,"
+msgstr "Opphavsrett &copy; Lawrence Lessig,"
 
 #. type: Content of: <book><chapter><para>
 msgid "All rights reserved"
-msgstr ""
+msgstr "Alle rettigheter reservert"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Excerpt from an editorial titled \"The Coming of Copyright Perpetuity,\" The "
-"New York Times, January 16, 2003. Copyright © 2003 by The New York Times "
-"Co.  Reprinted with permission."
+"New York Times, January 16, 2003. Copyright &copy; 2003 by The New York "
+"Times Co.  Reprinted with permission."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -268,15 +265,16 @@ msgstr ""
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
-#| msgid ""
-#| "To Eric Eldred--whose work first drew me to this cause, and for whom it "
-#| "continues still."
 msgid ""
 "To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
 "continues still."
 msgstr ""
-"Til Eric Eldred -- hvis arbeid først trakk meg til denne saken, og som den "
-"fremdeles fortsetter for."
+"Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og som "
+"den fremdeles fortsetter for."
+
+#. type: Content of: <book><chapter><para>
+msgid "&translationblock;"
+msgstr "Oversatt til bokmål av Petter Reinholdtsen."
 
 #. type: Content of: <book><chapter><figure><title>
 msgid "Creative Commons, Some rights reserved"
@@ -332,12 +330,12 @@ msgid ""
 "off the modem, unplug the computer, and any troubles that exist in that "
 "space wouldn't \"affect\" us anymore."
 msgstr ""
-"Pogue var skeptisk til argumentet kjernen av boken--denne programvaren, "
-"eller \"kode\", som fungerte som et slags lov-- og sin anmeldelse foreslo "
-"lykkelig tanken at hvis livet i cyberspace fikk dårlig, vi kan alltid "
-"\"duskregn, drazzle, druzzle, drome\"-som bare snu en bryter og være hjem. "
-"Slå av modemet, koble fra datamaskinen, og eventuelle problemer som finnes i "
-"at plass ikke ville \"påvirke\" oss lenger."
+"Pogue var skeptisk til argumentet som er kjernen av boken &mdash; denne "
+"programvaren, eller \"koden\", som fungerte som et slags lov &mdash; og sin "
+"anmeldelse foreslo lykkelig tanken at hvis livet i cyberspace fikk dårlig, "
+"vi kan alltid \"duskregn, drazzle, druzzle, drome\"-som bare snu en bryter "
+"og være hjem. Slå av modemet, koble fra datamaskinen, og eventuelle "
+"problemer som finnes i at plass ikke ville \"påvirke\" oss lenger."
 
 #.  PAGE BREAK 12 
 #. type: Content of: <book><chapter><para>
@@ -1278,9 +1276,9 @@ msgid ""
 "that \"piracy\" is wrong, and that the law, properly tuned, should punish "
 "\"piracy,\" whether on or off the Internet."
 msgstr ""
-"Hvis de var virkelig valgene, ville jeg være med jack valenti og innhold "
-"industrien. Jeg, også, er en troende i egenskapen, og særlig i betydningen "
-"av hva mr. valenti samtaler \"kreative egenskapen.\" Jeg tror at "
+"Hvis dette virkelig var alternativene, så ville jeg være enig med Jack Valenti og "
+"innholdsindustrien. Jeg, også, er en troende i eiendom, og særlig i betydningen "
+"av hva mr. Valenti samtaler \"kreativ eiendom.\" Jeg tror at "
 "\"piratkopiering\" er galt, og at loven, riktig innstilt, skal straffe pent "
 "\"piratkopiering\", enten av eller på Internett."
 
@@ -2292,13 +2290,12 @@ msgstr ""
 
 #.  f5 
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "For an excellent history, see Scott McCloud, Reinventing Comics (New York: "
 "Perennial, 2000)."
 msgstr ""
-"Hvis en utmerket historie, kan du se scott mccloud, reinventing tegneserier "
-"(new york: staude, 2000)."
+"For en utmerket historie, se Scott McCloud, Reinventing Comics "
+"(New York: Perennial, 2000)."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -2710,15 +2707,13 @@ msgstr ""
 
 #.  f3 
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Jenkins, 177."
 msgstr "Jenkins, 177."
 
 #.  f4 
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Based on a chart in Jenkins, p. 178."
-msgstr "basert på et diagram i jenkins, s. 178."
+msgstr "Basert på et diagram i Jenkins, s. 178."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -3350,6 +3345,15 @@ msgstr ""
 "formel til intervjuer. Det var \"balanse\" og seriøsitet. Dette var nyheter "
 "koreograferte i måten vi er stadig mer vant til det, \"nyheter som "
 "underholdning,\" selv om underholdning er tragedie."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+#, mtrans, fuzzy
+msgid "ABC"
+msgstr "ABC"
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "CBS"
+msgstr "CBS"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -5326,7 +5330,7 @@ msgstr ""
 msgid ""
 "See Peter Drahos with John Braithwaite, Information Feudalism: Who Owns the "
 "Knowledge Economy? (New York: The New Press, 2003), 10­13, 209.  The Trade-"
-"Related Aspects of Intellectual Property Rights (TRIPS)  agreement obligates "
+"Related Aspects of Intellectual Property Rights (TRIPS) agreement obligates "
 "member nations to create administrative and enforcement mechanisms for "
 "intellectual property rights, a costly proposition for developing countries. "
 "Additionally, patent rights may lead to higher prices for staple industries "
@@ -8083,6 +8087,10 @@ msgstr ""
 #, mtrans, fuzzy
 msgid "CHAPTER EIGHT: Transformers"
 msgstr "Kapittel åtte: transformatorer"
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Allen, Paul"
+msgstr "Allen, Paul"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -10934,9 +10942,9 @@ msgid ""
 "renewal requirement, for most of the history of American copyright law, "
 "there was a requirement that a work be registered before it could receive "
 "the protection of a copyright. There was also a requirement that any "
-"copyrighted work be marked either with that famous © or the word copyright. "
-"And for most of the history of American copyright law, there was a "
-"requirement that works be deposited with the government before a copyright "
+"copyrighted work be marked either with that famous &copy; or the word "
+"copyright. And for most of the history of American copyright law, there was "
+"a requirement that works be deposited with the government before a copyright "
 "could be secured."
 msgstr ""
 "på samme tid som har utvidet omfanget av copyright, er fremgangsmåter for "
@@ -10982,7 +10990,7 @@ msgid ""
 "All of these \"formalities\" were abolished in the American system when we "
 "decided to follow European copyright law. There is no requirement that you "
 "register a work to get a copyright; the copyright now is automatic; the "
-"copyright exists whether or not you mark your work with a ©; and the "
+"copyright exists whether or not you mark your work with a &copy;; and the "
 "copyright exists whether or not you actually make a copy available for "
 "others to copy."
 msgstr ""
@@ -11919,6 +11927,13 @@ msgstr ""
 "Hvis du klikker på knappen tillatelser, ser du en liste over tillatelsene "
 "som utgiveren hensikt å gi med denne boken."
 
+#. type: Content of: <book><chapter><sect1><sect2><figure><title>
+#, mtrans, fuzzy
+msgid "List of the permissions that the publisher purports to grant."
+msgstr ""
+"Hvis du klikker på knappen tillatelser, ser du en liste over tillatelsene "
+"som utgiveren hensikt å gi med denne boken."
+
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 #, mtrans, fuzzy
 #| msgid "<graphic fileref=\"webcc.gif\"></graphic>"
@@ -12225,6 +12240,10 @@ msgid ""
 msgstr ""
 "Hvis du vil se punktet i en spesielt absurd sammenheng, bør du vurdere en "
 "favoritt historien om mine som gjør det samme punktet."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Aibo robotic dog"
+msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -13140,9 +13159,12 @@ msgstr ""
 "integreringen kan saken."
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
-#, mtrans, fuzzy
-msgid "ABC"
-msgstr "ABC"
+msgid "Lear, Norman"
+msgstr "Lear, Norman"
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "All in the Family"
+msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -14975,7 +14997,7 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "The clear purpose of this lawsuit (which was settled for an unspecified "
-"amount shortly after the story was no longer covered in the press)  was to "
+"amount shortly after the story was no longer covered in the press) was to "
 "send an unequivocal message to lawyers advising clients in this space: It is "
 "not just your clients who might suffer if the content industry directs its "
 "guns against them. It is also you. So those of you who believe the law "
@@ -21500,6 +21522,10 @@ msgstr ""
 "normer (snooping og sladder er bare morsomt), men i stedet av kostnader som "
 "friksjon pålegger på alle som ønsker å spy."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Amazon"
+msgstr "Amazon"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23984,7 +24010,3 @@ msgstr ""
 "på at det ville være  lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
-
-#, mtrans, fuzzy
-#~ msgid "Acrobat eBook Reader"
-#~ msgstr "Acrobat eBok-leser"
