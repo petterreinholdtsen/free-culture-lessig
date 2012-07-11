@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-11 14:13+0300\n"
-"PO-Revision-Date: 2012-07-11 14:42+0200\n"
+"POT-Creation-Date: 2012-07-11 17:47+0300\n"
+"PO-Revision-Date: 2012-07-11 17:46+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -365,12 +365,11 @@ msgstr ""
 "Men i motsetning til i Code, er argumentet her ikke så mye om Internett i "
 "seg selv. Istedet er det om konsekvensen av Internett for en del av vår "
 "tradisjon som er mye mer grunnleggende, og uansett hvor hardt dette er for "
-"en geek-wanna-be åinnrømme, mye viktigere."
+"en geek-wanna-be å innrømme, mye viktigere."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
-"Richard M. Stallman, Free Software, Free Societies 57 ( Joshua Gay, ed.  "
-"2002)."
+"Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
 msgstr ""
 "Richard M. Stallman, Fri programvare, Frie samfunn 57 (Joshua Gay, red. "
 "2002)."
@@ -403,12 +402,13 @@ msgid ""
 "story I tell here will trouble you. For the changes I describe affect values "
 "that both sides of our political culture deem fundamental."
 msgstr ""
-"Hvis vi forstått denne endringen, tror jeg vi ville motstå det. ikke \"vi\" "
-"til venstre eller \"du\" til høyre, men vi som har ingen eierandel i bestemt "
-"industri av kultur som definert av det tjuende århundre. enten du er på "
-"venstre eller høyre, hvis du er i denne forstand disinterested, vil "
-"historien jeg fortelle her problemer du. for at endringene beskrive jeg "
-"påvirker verdier som begge sider av vår politiske kultur anser grunnleggende."
+"Hvis vi forsto denne endringen, tror jeg vi ville motstå den.  Ikke \"vi\" "
+"på venstresiden eller \"du\" på høyresiden, men vi som ikke har investert i "
+"bestemt kulturindustri som har definert det tjuende århundre.  Enten du er "
+"på venstre eller høyresiden, hvis du er i denne forstand er uinteressert, "
+"vil historien jeg forteller her gi deg problemer.  For endringene jeg "
+"beskriver påvirker verdier som begge sider av vår politiske kultur anser som "
+"grunnleggende."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -531,7 +531,6 @@ msgid "INTRODUCTION"
 msgstr "Introduksjon"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "On December 17, 1903, on a windy North Carolina beach for just shy of one "
 "hundred seconds, the Wright brothers demonstrated that a heavier-than-air, "
@@ -540,12 +539,12 @@ msgid ""
 "this newfound technology of manned flight, and a gaggle of innovators began "
 "to build upon it."
 msgstr ""
-"på 17 desember 1903 viste på en vind Nord carolina strand for bare sjenert "
-"av hundre sekunder, wright-brødrene at en tyngre enn luft, selvdrevne "
-"kjøretøy kan fly. øyeblikket var elektrisk, og dens betydning forstått "
-"allment. nesten umiddelbart, det var en eksplosjon av interesse i denne ny "
-"teknologien av bemannede fly, og en gaggle av innovators begynte å bygge "
-"videre på den."
+"17. desember 1903, på en vindfylt strand i Nord carolina i såvidt under "
+"hundre sekunder, demonstrerte wright-brødrene at et selvdrevet kjøretøy "
+"tyngre enn luft kan fly.  Øyeblikket var elektrisk, og dens betydning ble "
+"alment forstått Nesten umiddelbart, eksploderte interssen for denne nye "
+"teknologien som muliggjorde bemannet luftfart og en hærskare av oppfinnere "
+"begynte å bygge videre på den."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -3043,9 +3042,8 @@ msgstr ""
 
 #.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Interview with Elizabeth Daley and Stephanie Barish, 13 December 2002."
-msgstr "Intervju med elizabeth daley og stephanie barish, 13 desember 2002."
+msgstr "Intervju med Elizabeth Daley og Stephanie Barish, 13. desember 2002."
 
 #.  f12
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -3125,9 +3123,8 @@ msgstr ""
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Interview with Daley and Barish."
-msgstr "Intervju med daley og barish."
+msgstr "Intervju med Daley og Barish."
 
 #.  f31
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -9412,7 +9409,8 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
-msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+msgstr ""
+"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -23533,7 +23531,8 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
-msgstr "Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+msgstr ""
+"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
 
 #.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23629,8 +23628,8 @@ msgid ""
 msgstr ""
 "Jeg er en advokat. Jeg lever av å lage advokater. Jeg tror på loven. Jeg "
 "tror på opphavsrettsloven. Jeg har faktisk viet livet til å jobbe med loven, "
-"ikke fordi det er mye penger å tjene, men fordi det innebærer idealer "
-"som jeg elsker å leve opp til."
+"ikke fordi det er mye penger å tjene, men fordi det innebærer idealer som "
+"jeg elsker å leve opp til."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -23653,8 +23652,8 @@ msgid ""
 "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
 "Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069&ndash;70."
 msgstr ""
-"Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer Memorial "
-"Lecture), UCLA law Review 48 (2001): 1057, 1069&ndash;70."
+"Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
+"Memorial Lecture), UCLA law Review 48 (2001): 1057, 1069&ndash;70."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -23849,18 +23848,16 @@ msgid "ACKNOWLEDGMENTS"
 msgstr "Takk til"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans
 msgid ""
 "This book is the product of a long and as yet unsuccessful struggle that "
 "began when I read of Eric Eldred's war to keep books free. Eldred's work "
 "helped launch a movement, the free culture movement, and it is to him that "
 "this book is dedicated."
 msgstr ""
-"Denne boken er produktet av en lang og så langt mislykket kamp som begynte da "
-"jeg leste om Eric Eldreds krig å sørge for at bøker forble frie. Eldreds "
-"innsats bidro "
-"til å lansere en bevegelse, fri kultur-bevegelsen, og denne boken er tilegnet "
-"ham."
+"Denne boken er produktet av en lang og så langt mislykket kamp som begynte "
+"da jeg leste om Eric Eldreds krig å sørge for at bøker forble frie. Eldreds "
+"innsats bidro til å lansere en bevegelse, fri kultur-bevegelsen, og denne "
+"boken er tilegnet ham."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -23973,4 +23970,3 @@ msgstr ""
 "på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
-
