@@ -18,6 +18,25 @@ The source of this project is available from the
 <a href="https://github.com/petterreinholdtsen/free-culture-lessig">free-culture-lessig
 github repository</a>.
 
+
+Text flow
+---------
+
+The original source for the book is freeculture.xml, a Docbook
+formattet file.  This file is transformed to the freeculture.pot,
+which is the base file for translators.  It was copied to
+freeculture.nb.po as the starting point of the Norwegian Bokmål
+translation, and the text blocks are translated in this file.
+
+Only the files freeculture.xml and freeculture.nb.po should be
+manually edited!
+
+The freeculture.xml file is automatically combined with the
+freeculture.nb.po file to create a new generated file
+freeculture.nb.xml representing the Norwegian Bokmål Docbook version.
+This file is in turn used to generate the HTML, PDF and EPUB version
+of the book.
+
 Requirements
 ------------
 
