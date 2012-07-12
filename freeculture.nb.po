@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-12 08:28+0300\n"
+"POT-Creation-Date: 2012-07-12 22:29+0300\n"
 "PO-Revision-Date: 2012-07-12 17:53+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -67,7 +67,7 @@ msgstr "Om forfatteren"
 #. type: Content of: <book><bookinfo><abstract><para>
 msgid ""
 "LAWRENCE LESSIG (<ulink url=\"http://www.lessig.org/\">http://www.lessig."
-"org</ulink>), professor of law and a John A.  Wilson Distinguished Faculty "
+"org</ulink>), professor of law and a John A. Wilson Distinguished Faculty "
 "Scholar at Stanford Law School, is founder of the Stanford Center for "
 "Internet and Society and is chairman of the Creative Commons (<ulink url="
 "\"http://creativecommons.org/\">http://creativecommons.org</ulink>).  The "
@@ -82,7 +82,7 @@ msgid ""
 "Appeals."
 msgstr ""
 "Lawrense Lessig (<ulink url=\"http://www.lessig.org/\">http://www.lessig."
-"org</ulink>), professor i juss og en  John A.  Wilson Distinguished Faculty "
+"org</ulink>), professor i juss og en John A. Wilson Distinguished Faculty "
 "Scholar ved Stanford Law School, er stifteren av Stanford Center for "
 "Internet and Society og styreleder i Creative Commons (<ulink url=\"http://"
 "creativecommons.org/\">http://creativecommons.org</ulink>). Forfatteren har "
@@ -102,7 +102,8 @@ msgstr "Info"
 
 #. type: Content of: <book><chapter><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
-msgstr "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
+msgstr ""
+"Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
 #. type: Content of: <book><chapter><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
@@ -152,7 +153,8 @@ msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-msgid "a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
+msgid ""
+"a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -171,7 +173,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-msgid "Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
+msgid ""
+"Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -365,7 +368,8 @@ msgstr ""
 "en geek-wanna-be å innrømme, mye viktigere."
 
 #. type: Content of: <book><chapter><para><footnote><para>
-msgid "Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
+msgid ""
+"Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
 msgstr ""
 "Richard M. Stallman, Fri programvare, Frie samfunn 57 (Joshua Gay, red. "
 "2002)."
@@ -1701,6 +1705,10 @@ msgid ""
 "Girl Scouts."
 msgstr ""
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "ASCAP"
+msgstr ""
+
 #.  PAGE BREAK 32
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -2079,8 +2087,8 @@ msgid ""
 "year, and the proportion renewing. Thus, if 100 copyrights are registered in "
 "year 1, and only 15 are renewed, and the renewal term is 28 years, then the "
 "average term is 32.2 years. For the renewal data and other relevant data, "
-"see the Web site associated with this book, available at <ulink url=\"http://"
-"free-culture.cc/notes/\">link #6</ulink>."
+"see the Web site associated with this book, available at <ulink url="
+"\"http://free-culture.cc/notes/\">link #6</ulink>."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -3058,12 +3066,16 @@ msgid ""
 "of objects, color, . . . rhythm, pacing, and texture.\"<placeholder type="
 "\"footnote\" id=\"0\"/> But as computers open up an interactive space where "
 "a story is \"played\" as well as experienced, that grammar changes. The "
-"simple control of narrative is lost, and so other techniques are necessary.  "
+"simple control of narrative is lost, and so other techniques are necessary. "
 "Author Michael Crichton had mastered the narrative of science fiction.  But "
 "when he tried to design a computer game based on one of his works, it was a "
 "new craft he had to learn. How to lead people through a game without their "
 "feeling they have been led was not obvious, even to a wildly successful "
 "author.<placeholder type=\"footnote\" id=\"1\"/>"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "computer games"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -4321,8 +4333,8 @@ msgid ""
 "Douglas Lichtman makes a related point in \"KaZaA and Punishment,\" Wall "
 "Street Journal, 10 September 2003, A24."
 msgstr ""
-"Douglas Lichtman kommer med et relatert poeng i \"KaZaA and Punishment,\" Wall Street "
-"Journal, 10. september 2003, A24."
+"Douglas Lichtman kommer med et relatert poeng i \"KaZaA and Punishment,\" "
+"Wall Street Journal, 10. september 2003, A24."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -4370,9 +4382,9 @@ msgid ""
 "pick on him. But he wants to let people know that they're sending the wrong "
 "message. And he wants to correct the record.\""
 msgstr ""
-"Jesses foreldre viser en viss stolthet i deres motvillige aktivist. "
-"Som ahsn far fortalte meg, Jesse \"anser seg selv svært konservativ, og det "
-"samme gjør jeg.... Han er ikke en treklemmer.... Jeg synes det er sært at de "
+"Jesses foreldre viser en viss stolthet i deres motvillige aktivist. Som hans "
+"far fortalte meg, Jesse \"anser seg selv svært konservativ, og det samme "
+"gjør jeg.... Han er ikke en treklemmer.... Jeg synes det er sært at de "
 "plukket ut ham.  Men han ønsker å la folk få vite at de sender feil "
 "budskap,  Og han ønsker å korrigere posten."
 
@@ -4995,6 +5007,10 @@ msgstr ""
 "betale for hva de solgte. kabelselskaper var dermed napsterizing "
 "broadcasters' innhold, men mer egregiously enn noe napster gjorde noensinne--"
 "napster belastet aldri for innholdet det aktivert andre til å gi bort."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Anello, Douglas"
+msgstr ""
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -6682,7 +6698,8 @@ msgstr ""
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
+msgid ""
+"Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
 msgstr ""
 "Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, (1984)."
@@ -7940,7 +7957,8 @@ msgstr ""
 #.  PAGE BREAK 109
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid "So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
+msgid ""
+"So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
 msgstr ""
 "så jeg spurte er hvorfor han ikke bare stole på \"rettferdig bruk.\" her "
 "annet hans svar:"
@@ -9390,8 +9408,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
-msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+msgid ""
+"In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
+msgstr ""
+"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -9998,7 +10018,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "Let's say this is the picture of copyright's regulation before the Internet:"
+msgid ""
+"Let's say this is the picture of copyright's regulation before the Internet:"
 msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
@@ -10962,7 +10983,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "Consider a practical example to understand the scope of these differences."
+msgid ""
+"Consider a practical example to understand the scope of these differences."
 msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
 
 #.  f13
@@ -11238,8 +11260,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "We can see this point abstractly by beginning with this largely empty circle."
-msgstr "Vi kan se dette punktet abstractly begynner med dette i stor grad tom sirkel."
+msgid ""
+"We can see this point abstractly by beginning with this largely empty circle."
+msgstr ""
+"Vi kan se dette punktet abstractly begynner med dette i stor grad tom sirkel."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "All potential uses of a book."
@@ -11829,8 +11853,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "On the next page is a picture of an old version of my Adobe eBook Reader."
-msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgid ""
+"On the next page is a picture of an old version of my Adobe eBook Reader."
+msgstr ""
+"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #.  PAGE BREAK 160
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11949,8 +11975,7 @@ msgstr "<graphic fileref=\"images/1631.png\"></graphic>"
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid "No copying, no printing, and don't you dare try to listen to this book!"
 msgstr ""
-"Ingen kopiering, ingen utskrift, og våg ikke å prøve å lytte til denne "
-"boken!"
+"Ingen kopiering, ingen utskrift, og våg ikke å prøve å lytte til denne boken!"
 
 #.  f21
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -12085,7 +12110,8 @@ msgstr ""
 "du klikket på tillatelser for boken, fikk du det fulgte rapporten:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
-msgid "List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
+msgid ""
+"List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
@@ -12631,13 +12657,16 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
-msgstr "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
+msgid ""
+"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+msgstr ""
+"Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "No argument I have can top this picture, but let me try to get close."
-msgstr "ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
+msgstr ""
+"ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12903,8 +12932,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "These changes are of two sorts: the scope of concentration, and its nature."
-msgstr "disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
+msgid ""
+"These changes are of two sorts: the scope of concentration, and its nature."
+msgstr ""
+"disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
 
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -13003,7 +13034,8 @@ msgstr ""
 #.  f28
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
-msgid "James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): 89."
+msgid ""
+"James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): 89."
 msgstr ""
 "James fallows, \"en alder av murdoch,\" atlantic monthly (september 2003): "
 "89."
@@ -14900,12 +14932,12 @@ msgid ""
 "was less restrictive than the labels demanded."
 msgstr ""
 "Etter at Vivendi kjøpte MP3.com, snudde Vivendi seg rundt og saksøkte for "
-"malpractice juristene som hadde anbefalt at de hadde en god "
-"tro hevder at de ønsket å tilby tjenesten vil bli vurdert juridiske lover om "
-"opphavsrett. Dette søksmålet påstått at det burde vært åpenbart at "
-"domstolene ville finne denne virkemåten ulovlig; Derfor var dette søksmålet "
-"søkt å straffe noen advokat som hadde våget å foreslå at loven mindre "
-"restriktive enn etikettene krevde."
+"malpractice juristene som hadde anbefalt at de hadde en god tro hevder at de "
+"ønsket å tilby tjenesten vil bli vurdert juridiske lover om opphavsrett. "
+"Dette søksmålet påstått at det burde vært åpenbart at domstolene ville finne "
+"denne virkemåten ulovlig; Derfor var dette søksmålet søkt å straffe noen "
+"advokat som hadde våget å foreslå at loven mindre restriktive enn etikettene "
+"krevde."
 
 #.  PAGE BREAK 200
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -14918,7 +14950,13 @@ msgid ""
 "should be less restrictive should realize that such a view of the law will "
 "cost you and your firm dearly."
 msgstr ""
-"Den åpenbare hensikten med dette søksmålet (som ble avsluttet med et forlik for et uspesifisert beløp like etter at saken ikke lenger fikk pressedekning), var å sende en melding som ikke kan misforstås til advokater som gir råd til klienter på dette området: Det er ikke bare dine klienter som får lide hvis innholdsindustrien retter sine våpen mot dem.  Det får også du.  Så de av dere som tror loven burde være mindre restriktiv bør innse at et slikt syn på loven vil koste deg og ditt firma dyrt."
+"Den åpenbare hensikten med dette søksmålet (som ble avsluttet med et forlik "
+"for et uspesifisert beløp like etter at saken ikke lenger fikk "
+"pressedekning), var å sende en melding som ikke kan misforstås til advokater "
+"som gir råd til klienter på dette området: Det er ikke bare dine klienter "
+"som får lide hvis innholdsindustrien retter sine våpen mot dem.  Det får "
+"også du.  Så de av dere som tror loven burde være mindre restriktiv bør "
+"innse at et slikt syn på loven vil koste deg og ditt firma dyrt."
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -14958,8 +14996,8 @@ msgid ""
 "I am grateful to Dr. Mohammad Al-Ubaydli for this example."
 msgstr ""
 "Rafe Needleman, \"Driving in Cars with MP3s,\" Business 2.0, 16. juni 2003, "
-"tilgjengelig via <ulink url=\"http://free-culture.cc/notes/\">link #43</ulink>. "
-"Jeg er Dr. Mohammad Al-Ubaydli takknemlig mot for dette eksemplet."
+"tilgjengelig via <ulink url=\"http://free-culture.cc/notes/\">link #43</"
+"ulink>. Jeg er Dr. Mohammad Al-Ubaydli takknemlig mot for dette eksemplet."
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 msgid ""
@@ -14973,14 +15011,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans
 msgid ""
 "This is the world of the mafia&mdash;filled with \"your money or your life\" "
 "offers, governed in the end not by courts but by the threats that the law "
 "empowers copyright holders to exercise. It is a system that will obviously "
 "and necessarily stifle new innovation. It is hard enough to start a company. "
 "It is impossibly hard if that company is constantly threatened by litigation."
-msgstr "Dette er verden til mafiaen&mdash;fylt med \"penger eller livet\"-trusler, som ikke er regulert av domstolene men av trusler som loven gir rettighetsinnehaver mulighet til å komme med. Det er et system som åpenbart og nødvendigvis vil kvele ny innovasjon. Det er vanskelig nok å starte et selskap. Det blir helt umulig hvis selskapet er stadig truet av søksmål."
+msgstr ""
+"Dette er verden til mafiaen&mdash;fylt med \"penger eller livet\"-trusler, "
+"som ikke er regulert av domstolene men av trusler som loven gir "
+"rettighetsinnehaver mulighet til å komme med. Det er et system som åpenbart "
+"og nødvendigvis vil kvele ny innovasjon. Det er vanskelig nok å starte et "
+"selskap. Det blir helt umulig hvis selskapet er stadig truet av søksmål."
 
 #.  PAGE BREAK 201
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -15185,8 +15227,10 @@ msgstr ""
 #.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid "Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
-msgstr "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
+msgid ""
+"Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
+msgstr ""
+"Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -15521,7 +15565,8 @@ msgstr "tidssonen til opprinnelse av overføring;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
-msgid "numeric designation of the place of the sound recording within the program;"
+msgid ""
+"numeric designation of the place of the sound recording within the program;"
 msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -16009,6 +16054,10 @@ msgstr ""
 "foreslå at \"friheten\" var en rett: i en rekke reklamefilmer, apple "
 "godkjent \"rip, mikse, brenne\" kapasiteter digitale teknologier."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Adromeda"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16172,8 +16221,10 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid "\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
-msgstr "\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
+msgid ""
+"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
+msgstr ""
+"\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
@@ -16848,7 +16899,8 @@ msgstr ""
 msgid ""
 "\"Hope?\" a fellow board member says. \"Can't we be doing something about it?"
 "\""
-msgstr "\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
+msgstr ""
+"\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -16889,7 +16941,8 @@ msgstr ""
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
-msgstr "du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
+msgstr ""
+"du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -17429,6 +17482,10 @@ msgstr ""
 "vil bare rot bort på hyller. men konsekvensen for andre kreative verker er "
 "mye mer dire."
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Agee, Michael"
+msgstr ""
+
 #.  f11.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
@@ -17959,16 +18016,15 @@ msgstr ""
 "min klient, eric eldred."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "But my client and these friends were wrong. This case could have been won. "
 "It should have been won. And no matter how hard I try to retell this story "
 "to myself, I can never escape believing that my own mistake lost it."
 msgstr ""
-"men min klient og disse venner var galt. denne saken kunne ha blitt vunnet. "
-"Det burde ha blitt vunnet. og uansett hvor hardt jeg prøver å retell denne "
-"historien til meg selv, jeg kan aldri unnslippe å tro at min egen feil "
-"mistet den."
+"Men min klient og disse vennene tok feil. Denne saken kunne vært "
+"vunnet. Det burde ha vært vunnet.  Og uansett hvor hardt jeg prøver "
+"å fortelle den historien til meg selv, kan jeg aldri "
+"unnslippe troen på at det er min feil at vi ikke vant."
 
 #.  PAGE BREAK 237
 #. type: Content of: <book><chapter><sect1><para>
@@ -18173,6 +18229,10 @@ msgstr ""
 "allerede beskrevet: en kort av hal mort studios hevdet at med mindre loven "
 "ble truffet, en hel generasjon av american film ville forsvinne. den andre "
 "gjort argumentet økonomiske helt klart."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Akerlof, George"
+msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -18729,7 +18789,8 @@ msgstr ""
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
-msgstr "Her følger min klart feil. som professor korrigere en student, svarte jeg,"
+msgstr ""
+"Her følger min klart feil. som professor korrigere en student, svarte jeg,"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
@@ -20165,8 +20226,8 @@ msgid ""
 msgstr ""
 "Men det er én ting å støtte patenter, selv medisinske patenter. Det er en "
 "annen ting å avgjøre hvordan en best skal håndtere en krise. Og i det "
-"afrikanske ledere begynte å gjenkjenne ødeleggelsen AIDS brakte, begynte "
-"de å se etter måter å importere HIV-medisiner til kostnader betydelig under "
+"afrikanske ledere begynte å gjenkjenne ødeleggelsen AIDS brakte, begynte de "
+"å se etter måter å importere HIV-medisiner til kostnader betydelig under "
 "markedspris."
 
 #.  f2.
@@ -20211,9 +20272,9 @@ msgid ""
 "15."
 msgstr ""
 "International Intellectual Property Institute (IIPI), Patent Protection and "
-"Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, en rapport forberedt "
-"for the World Intellectual Property Organization (Washington, D.C., 2000), "
-"15."
+"Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, en rapport "
+"forberedt for the World Intellectual Property Organization (Washington, D."
+"C., 2000), 15."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20795,7 +20856,7 @@ msgid ""
 "intellectual property, but also what the best balance of intellectual "
 "property is. As every economist and lawyer knows, the hard question in "
 "intellectual property law is to find that balance. But that there should be "
-"limits is, I had thought, uncontested. One wants to ask Ms.  Boland, are "
+"limits is, I had thought, uncontested. One wants to ask Ms. Boland, are "
 "generic drugs (drugs based on drugs whose patent has expired) contrary to "
 "the WIPO mission? Does the public domain weaken intellectual property? Would "
 "it have been better if the protocols of the Internet had been patented?"
@@ -22929,7 +22990,8 @@ msgstr ""
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
-msgstr "Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+msgstr ""
+"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
 
 #.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23476,7 +23538,8 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
-msgstr "Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+msgstr ""
+"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
 
 #.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
