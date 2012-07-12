@@ -2439,8 +2439,7 @@ Professor Ed Felten of Princeton (whom we'll see more of in chapter
 tinker" as it applies to computer science and to knowledge in
 general.<footnote><para>
 <!-- f22 -->
-See, for example, Edward Felten and Andrew Appel, "Technological 
-		Access
+See, for example, Edward Felten and Andrew Appel, "Technological Access
 Control Interferes with Noninfringing Scholarship," Communications
 of the Association for Computer Machinery 43 (2000): 9.
 </para></footnote>
@@ -2448,18 +2447,16 @@ But Brown's concern is earlier, or younger, or more fundamental. It is
 about the learning that kids can do, or can't do, because of the law.
 </para>
 <para>
-"This is where education in the twenty-first century is going,"
-Brown explains. We need to "understand how kids who grow up 
-		digital
-think and want to learn."
+"This is where education in the twenty-first century is going," Brown
+explains. We need to "understand how kids who grow up digital think
+and want to learn."
 </para>
 <para>
 "Yet," as Brown continued, and as the balance of this book will
 evince, "we are building a legal system that completely suppresses the
-natural tendencies of today's digital kids. . . . We're building an 
-		architecture
-that unleashes 60 percent of the brain [and] a legal system that
-closes down that part of the brain."
+natural tendencies of today's digital kids. . . . We're building an
+architecture that unleashes 60 percent of the brain [and] a legal
+system that closes down that part of the brain."
 </para>
 <para>
 We're building a technology that takes the magic of Kodak, mixes
@@ -2476,69 +2473,59 @@ chapter 9, quipped to me in a rare moment of despondence.
 <sect1 id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <para>
-In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled
-as a freshman at Rensselaer Polytechnic Institute, in Troy, New York.
-His major at RPI was information technology. Though he is not a 
-		programmer,
-in October Jesse decided to begin to tinker with search 
-		engine
-technology that was available on the RPI network.
+In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
+a freshman at Rensselaer Polytechnic Institute, in Troy, New York.
+His major at RPI was information technology. Though he is not a
+programmer, in October Jesse decided to begin to tinker with search
+engine technology that was available on the RPI network.
 </para>
 <para>
-RPI is one of America's foremost technological research 
-		institutions.
-It offers degrees in fields ranging from architecture and 
-		engineering
-to information sciences. More than 65 percent of its five
-thousand undergraduates finished in the top 10 percent of their high
-school class. The school is thus a perfect mix of talent and experience
-to imagine and then build, a generation for the network age.
+RPI is one of America's foremost technological research institutions.
+It offers degrees in fields ranging from architecture and engineering
+to information sciences. More than 65 percent of its five thousand
+undergraduates finished in the top 10 percent of their high school
+class. The school is thus a perfect mix of talent and experience to
+imagine and then build, a generation for the network age.
 </para>
 <para>
-RPI's computer network links students, faculty, and administration
-to one another. It also links RPI to the Internet. Not everything 
-		available
-on the RPI network is available on the Internet. But the network
-is designed to enable students to get access to the Internet, as well as
-more intimate access to other members of the RPI community.
+RPI's computer network links students, faculty, and administration to
+one another. It also links RPI to the Internet. Not everything
+available on the RPI network is available on the Internet. But the
+network is designed to enable students to get access to the Internet,
+as well as more intimate access to other members of the RPI community.
 </para>
 <para>
 Search engines are a measure of a network's intimacy. Google
 <!-- PAGE BREAK 62 -->
-brought the Internet much closer to all of us by fantastically improving
-the quality of search on the network. Specialty search engines can do
-this even better. The idea of "intranet" search engines, search engines
-that search within the network of a particular institution, is to provide
-users of that institution with better access to material from that 
-		institution.
-Businesses do this all the time, enabling employees to have 
-		access
-to material that people outside the business can't get. Universities
-do it as well.
+brought the Internet much closer to all of us by fantastically
+improving the quality of search on the network. Specialty search
+engines can do this even better. The idea of "intranet" search
+engines, search engines that search within the network of a particular
+institution, is to provide users of that institution with better
+access to material from that institution.  Businesses do this all the
+time, enabling employees to have access to material that people
+outside the business can't get. Universities do it as well.
 </para>
 <para>
-These engines are enabled by the network technology itself. 
-		Microsoft,
-for example, has a network file system that makes it very easy
-for search engines tuned to that network to query the system for 
-		information
-about the publicly (within that network) available content.
-Jesse's search engine was built to take advantage of this technology. It
-used Microsoft's network file system to build an index of all the files
-available within the RPI network.
+These engines are enabled by the network technology itself.
+Microsoft, for example, has a network file system that makes it very
+easy for search engines tuned to that network to query the system for
+information about the publicly (within that network) available
+content.  Jesse's search engine was built to take advantage of this
+technology. It used Microsoft's network file system to build an index
+of all the files available within the RPI network.
 </para>
 <para>
-Jesse's wasn't the first search engine built for the RPI network. 
-		Indeed,
-his engine was a simple modification of engines that others had
-built. His single most important improvement over those engines was
-to fix a bug within the Microsoft file-sharing system that could cause a
-user's computer to crash. With the engines that existed before, if you
-tried to access a file through a Windows browser that was on a 
-		computer
-that was off-line, your computer could crash. Jesse modified the
-system a bit to fix that problem, by adding a button that a user could
-click to see if the machine holding the file was still on-line.
+Jesse's wasn't the first search engine built for the RPI network.
+Indeed, his engine was a simple modification of engines that others
+had built. His single most important improvement over those engines
+was to fix a bug within the Microsoft file-sharing system that could
+cause a user's computer to crash. With the engines that existed
+before, if you tried to access a file through a Windows browser that
+was on a computer that was off-line, your computer could crash. Jesse
+modified the system a bit to fix that problem, by adding a button that
+a user could click to see if the machine holding the file was still
+on-line.
 </para>
 <para>
 Jesse's engine went on-line in late October. Over the following six
@@ -2559,45 +2546,39 @@ computer.
 </para>
 <para>
 But the index also included music files. In fact, one quarter of the
-files that Jesse's search engine listed were music files. But that means,
-of course, that three quarters were not, and&mdash;so that this point is 
-		absolutely
-clear&mdash;Jesse did nothing to induce people to put music files in
-their public folders. He did nothing to target the search engine to these
-files. He was a kid tinkering with a Google-like technology at a 
-		university
-where he was studying information science, and hence, 
-		tinkering
-was the aim. Unlike Google, or Microsoft, for that matter, he made
-no money from this tinkering; he was not connected to any business
-that would make any money from this experiment. He was a kid 
-		tinkering
-with technology in an environment where tinkering with 
-		technology
-was precisely what he was supposed to do.
+files that Jesse's search engine listed were music files. But that
+means, of course, that three quarters were not, and&mdash;so that this
+point is absolutely clear&mdash;Jesse did nothing to induce people to
+put music files in their public folders. He did nothing to target the
+search engine to these files. He was a kid tinkering with a
+Google-like technology at a university where he was studying
+information science, and hence, tinkering was the aim. Unlike Google,
+or Microsoft, for that matter, he made no money from this tinkering;
+he was not connected to any business that would make any money from
+this experiment. He was a kid tinkering with technology in an
+environment where tinkering with technology was precisely what he was
+supposed to do.
 </para>
 <para>
 On April 3, 2003, Jesse was contacted by the dean of students at
 RPI. The dean informed Jesse that the Recording Industry Association
 of America, the RIAA, would be filing a lawsuit against him and three
-other students whom he didn't even know, two of them at other 
-		universities.
-A few hours later, Jesse was served with papers from the suit.
-As he read these papers and watched the news reports about them, he
-was increasingly astonished.
+other students whom he didn't even know, two of them at other
+universities.  A few hours later, Jesse was served with papers from
+the suit.  As he read these papers and watched the news reports about
+them, he was increasingly astonished.
 </para>
 <para>
-"It was absurd," he told me. "I don't think I did anything wrong. . . .
-I don't think there's anything wrong with the search engine that I ran
-or . . . what I had done to it. I mean, I hadn't modified it in any way
-that promoted or enhanced the work of pirates. I just modified the
-search engine in a way that would make it easier to use"&mdash;again, a
-search engine, which Jesse had not himself built, using the Windows 
-		filesharing
-system, which Jesse had not himself built, to enable members
-of the RPI community to get access to content, which Jesse had not
-himself created or posted, and the vast majority of which had nothing
-to do with music.
+"It was absurd," he told me. "I don't think I did anything
+wrong. . . .  I don't think there's anything wrong with the search
+engine that I ran or . . . what I had done to it. I mean, I hadn't
+modified it in any way that promoted or enhanced the work of
+pirates. I just modified the search engine in a way that would make it
+easier to use"&mdash;again, a search engine, which Jesse had not
+himself built, using the Windows filesharing system, which Jesse had
+not himself built, to enable members of the RPI community to get
+access to content, which Jesse had not himself created or posted, and
+the vast majority of which had nothing to do with music.
 </para>
 <para>
 But the RIAA branded Jesse a pirate. They claimed he operated a
@@ -2635,15 +2616,14 @@ $12,000 to dismiss the case.
 </para>
 <para>
 The RIAA wanted Jesse to admit to doing something wrong. He
-refused. They wanted him to agree to an injunction that would 
-		essentially
-make it impossible for him to work in many fields of technology
-for the rest of his life. He refused. They made him understand that this
-process of being sued was not going to be pleasant. (As Jesse's father
-recounted to me, the chief lawyer on the case, Matt Oppenheimer, told
-Jesse, "You don't want to pay another visit to a dentist like me.") And
-throughout, the RIAA insisted it would not settle the case until it took
-every penny Jesse had saved.
+refused. They wanted him to agree to an injunction that would
+essentially make it impossible for him to work in many fields of
+technology for the rest of his life. He refused. They made him
+understand that this process of being sued was not going to be
+pleasant. (As Jesse's father recounted to me, the chief lawyer on the
+case, Matt Oppenheimer, told Jesse, "You don't want to pay another
+visit to a dentist like me.") And throughout, the RIAA insisted it
+would not settle the case until it took every penny Jesse had saved.
 </para>
 <para>
 Jesse's family was outraged at these claims. They wanted to fight.
@@ -2656,8 +2636,7 @@ won, he would have a piece of paper saying he had won, and a piece of
 paper saying he and his family were bankrupt.
 </para>
 <para>
-So Jesse faced a mafia-like choice: $250,000 and a chance at 
-		winning,
+So Jesse faced a mafia-like choice: $250,000 and a chance at winning,
 or $12,000 and a settlement.
 </para>
 <para>
