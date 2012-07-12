@@ -20199,8 +20199,8 @@ msgid ""
 "incentive. I am the last person who would argue that the law should abolish "
 "it, at least without other changes."
 msgstr ""
-"Det er mange som er skeptiske til patenter, spesielt narkotika patenter. jeg "
-"er ikke. faktisk av alle områder av forskning som kan være støttet av "
+"Det er mange som er skeptiske til patenter, spesielt medisinske patenter. Det "
+"er ikke jeg. faktisk av alle områder av forskning som kan være støttet av "
 "patenter, er drug research, etter min mening, klareste tilfelle der patenter "
 "er nødvendig. patent gir farmasøytisk firma noen forsikring om at hvis det "
 "er vellykket i inventing et nytt medikament for å behandle en sykdom, vil "
@@ -20217,7 +20217,7 @@ msgid ""
 "looking for ways to import HIV treatments at costs significantly below the "
 "market price."
 msgstr ""
-"men det er én ting å støtte patenter, selv stoffet patenter. Det er en annen "
+"Men det er én ting å støtte patenter, selv medisinske patenter. Det er en annen "
 "ting å vurdere den beste måten å håndtere en krise. og som afrikanske ledere "
 "begynte å gjenkjenne ødeleggelsen aids var bringe, de begynte på utkikk "
 "etter måter å importere hiv behandlinger på kostnader betydelig under "
@@ -20225,13 +20225,12 @@ msgstr ""
 
 #.  f2.
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See Peter Drahos with John Braithwaite, Information Feudalism: Who Owns the "
 "Knowledge Economy? (New York: The New Press, 2003), 37."
 msgstr ""
-"se peter drahos med john braithwaite, informasjon Føydalisme: hvem som eier "
-"knowledge economy? (new york: ny press, 2003), 37."
+"Se Peter Drahos og John Braithwaite, Information Feudalism: Who Owns the "
+"Knowledge Economy? (New York: The New Press, 2003), 37."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20418,7 +20417,7 @@ msgid ""
 "could be overcome."
 msgstr ""
 "korrupsjon er vår egen politikeres svikt i integritet. for stoffet selskaper "
-"ville elske--de sier, og jeg tror dem – å selge sine narkotika så billig som "
+"ville elske&mdash;de sier, og jeg tror dem &mdash; å selge sine narkotika så billig som "
 "de kan til land i Afrika og andre steder. Det er problemer de må løse å "
 "sikre at narkotika ikke komme tilbake i USA, men de er bare problemer av "
 "teknologi. de kan bli overvunnet."
@@ -20452,15 +20451,14 @@ msgstr ""
 "dette ideelle--sanctity av en idé som kalles \"immaterielle.\""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "So when the common sense of your child confronts you, what will you say? "
 "When the common sense of a generation finally revolts against what we have "
 "done, how will we justify what we have done? What is the argument?"
 msgstr ""
-"så når at sunn fornuft til ditt barns konfronterer du, hva vil du si? Når "
-"felles-følelse av en generasjon endelig opprør mot hva vi har gjort, hvordan "
-"vil vi rettferdiggjøre hva vi har gjort? Hva er argumentet?"
+"Så når du konfronteres av den sunne fornuften til ditt barn, hva vil du si?  Når "
+"den sunne fornuften hos en generasjon endelig gjør opprør mot hva vi har gjort, hvordan "
+"vil vi rettferdiggjøre hva vi har gjort?  Hva er argumentet?"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20602,11 +20600,10 @@ msgstr ""
 
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "I should disclose that I was one of the people who asked WIPO for the "
 "meeting."
-msgstr "Jeg skal formidle at jeg var en av folk som ba wipo for møtet."
+msgstr "Jeg bør avsløre at jeg var en av folkene som ba WIPO om dette møtet."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
