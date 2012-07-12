@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2012-07-12 08:28+0300\n"
-"PO-Revision-Date: 2012-07-11 17:46+0200\n"
+"PO-Revision-Date: 2012-07-12 17:53+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -102,8 +102,7 @@ msgstr "Info"
 
 #. type: Content of: <book><chapter><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
-msgstr ""
-"Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
+msgstr "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
 #. type: Content of: <book><chapter><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
@@ -153,8 +152,7 @@ msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
 #. type: Content of: <book><chapter><para>
-msgid ""
-"a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
+msgid "a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -173,8 +171,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-msgid ""
-"Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
+msgid "Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -368,8 +365,7 @@ msgstr ""
 "en geek-wanna-be å innrømme, mye viktigere."
 
 #. type: Content of: <book><chapter><para><footnote><para>
-msgid ""
-"Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
+msgid "Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
 msgstr ""
 "Richard M. Stallman, Fri programvare, Frie samfunn 57 (Joshua Gay, red. "
 "2002)."
@@ -1817,9 +1813,8 @@ msgstr ""
 "gjeldende slagene om virkemåten merket \"piratkopiering\"."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER ONE: Creators"
-msgstr "Kapittel en: skaperne"
+msgstr "Kapittel en: Skaperne"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -3990,9 +3985,8 @@ msgstr ""
 "kapittel 9, quipped til meg i en sjelden øyeblikk av despondence."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER THREE: Catalogs"
-msgstr "Kapittel 3: kataloger"
+msgstr "Kapittel tre: Kataloger"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -4295,20 +4289,19 @@ msgid ""
 msgstr ""
 "jesse's familie ble irritert på disse påstandene. de ønsket å kjempe. men "
 "jesse's onkel arbeidet for å utdanne familien om natur av den amerikanske "
-"juridiske systemet. Jesse kunne bekjempe riaa. han kan selv vinne. men "
+"juridiske systemet. Jesse kunne bekjempe RIAA. han kan selv vinne. men "
 "kostnaden for kjemper en sak som dette, jesse ble fortalt, ville være minst "
 "$250,000. Hvis han vunnet, ville han ikke gjenopprette de pengene. Hvis han "
 "vunnet, ville han ha et stykke papir som sa han hadde vunnet, og et stykke "
 "papir sier han og hans familie var konkurs."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "So Jesse faced a mafia-like choice: $250,000 and a chance at winning, or "
 "$12,000 and a settlement."
 msgstr ""
-"Slik jesse møtt et mafia-lignende valg: $250,000 og en sjanse til å vinne, "
-"eller $12.000 og en bosetning."
+"Så Jesse hadde et mafia-lignende valg: $250,000 og en sjanse til å vinne, "
+"eller $12.000 og et forlik."
 
 #.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -4324,13 +4317,12 @@ msgstr ""
 
 #.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Douglas Lichtman makes a related point in \"KaZaA and Punishment,\" Wall "
 "Street Journal, 10 September 2003, A24."
 msgstr ""
-"Douglas lichtman gjør et relaterte poeng i \"kazaa og straff,\" wall street "
-"journal, 10 september 2003, a24."
+"Douglas Lichtman kommer med et relatert poeng i \"KaZaA and Punishment,\" Wall Street "
+"Journal, 10. september 2003, A24."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -4378,16 +4370,15 @@ msgid ""
 "pick on him. But he wants to let people know that they're sending the wrong "
 "message. And he wants to correct the record.\""
 msgstr ""
-"jesse's foreldre forråde en bestemt stolthet i deres motvillige aktivist. "
-"som sin far fortalte meg, jesse \"anser seg selv svært konservativ, og så "
-"gjøre jeg.... Han er ikke en tree hugger.... Jeg tror det er bisarre at de "
-"ville plukke på ham. men han ønsker å la folk få vite at de sender feil "
-"budskap. og han ønsker å korrigere posten."
+"Jesses foreldre viser en viss stolthet i deres motvillige aktivist. "
+"Som ahsn far fortalte meg, Jesse \"anser seg selv svært konservativ, og det "
+"samme gjør jeg.... Han er ikke en treklemmer.... Jeg synes det er sært at de "
+"plukket ut ham.  Men han ønsker å la folk få vite at de sender feil "
+"budskap,  Og han ønsker å korrigere posten."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER FOUR: \"Pirates\""
-msgstr "Kapittel fire: \"pirater\""
+msgstr "Kapittel fire: \"Pirater\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -4978,9 +4969,8 @@ msgstr ""
 "radiostasjonen retten til å ta noe for ingenting."
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Cable TV"
-msgstr "kabel-tv"
+msgstr "Kabel-TV"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -5185,9 +5175,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER FIVE: \"Piracy\""
-msgstr "Kapittel fem: \"piratkopiering\""
+msgstr "Kapittel fem: \"Piratvirksomhet\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -6693,8 +6682,7 @@ msgstr ""
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
+msgid "Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984)."
 msgstr ""
 "Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, (1984)."
@@ -6904,9 +6892,8 @@ msgstr ""
 "ville ha oss til å tegne."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER SIX: Founders"
-msgstr "kapittel seks: grunnleggerne"
+msgstr "Kapittel seks: Grunnleggerne"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -7719,9 +7706,8 @@ msgstr ""
 "parlamentet er mer pliant, ville fri kultur være mindre beskyttet."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER SEVEN: Recorders"
-msgstr "Kapittel 7: opptakere"
+msgstr "Kapittel sju: Opptakere"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -7954,8 +7940,7 @@ msgstr ""
 #.  PAGE BREAK 109
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid ""
-"So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
+msgid "So I asked Else why he didn't just rely upon \"fair use.\" Here's his reply:"
 msgstr ""
 "så jeg spurte er hvorfor han ikke bare stole på \"rettferdig bruk.\" her "
 "annet hans svar:"
@@ -8717,9 +8702,8 @@ msgstr ""
 "kanskje en forbannelse, forbeholdt få."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER NINE: Collectors"
-msgstr "kapittel 9: samlere"
+msgstr "Kapittel ni: Samlere"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -8732,7 +8716,7 @@ msgid ""
 "started again. Over and over again, once every two months, these bits of "
 "code took copies of the Internet and stored them."
 msgstr ""
-"i april 1996 fikk begynte millioner av \"bots\"--datakode utformet til "
+"I april 1996 begynte millioner av \"bots\"&mdash;datakode utformet til "
 "\"edderkopp\", eller automatisk søke Internett og kopiere innholdet--kjører "
 "over nettet. side for side, disse botene kopiert Internett-basert "
 "informasjon på et lite sett med datamaskiner som er plassert i en kjeller i "
@@ -9319,9 +9303,8 @@ msgstr ""
 "og andre vil utøve."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER TEN: \"Property\""
-msgstr "Kapittel 10: \"property\""
+msgstr "Kapittel ti: \"Eiendom\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -9407,10 +9390,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
-msgid ""
-"In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
-msgstr ""
-"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+msgid "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
+msgstr "i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -10017,8 +9998,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"Let's say this is the picture of copyright's regulation before the Internet:"
+msgid "Let's say this is the picture of copyright's regulation before the Internet:"
 msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
@@ -10540,14 +10520,12 @@ msgstr "<graphic fileref=\"images/1442.png\"></graphic>"
 
 #.  PAGE BREAK 144
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "Let me explain how."
 msgstr "La meg forklare hvordan."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Law: Duration"
-msgstr "loven: varighet"
+msgstr "Loven: Varighet"
 
 #.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -10842,9 +10820,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Law: Scope"
-msgstr "loven: Virkeområde"
+msgstr "Loven: Virkeområde"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10985,8 +10962,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"Consider a practical example to understand the scope of these differences."
+msgid "Consider a practical example to understand the scope of these differences."
 msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
 
 #.  f13
@@ -11262,10 +11238,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"We can see this point abstractly by beginning with this largely empty circle."
-msgstr ""
-"Vi kan se dette punktet abstractly begynner med dette i stor grad tom sirkel."
+msgid "We can see this point abstractly by beginning with this largely empty circle."
+msgstr "Vi kan se dette punktet abstractly begynner med dette i stor grad tom sirkel."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "All potential uses of a book."
@@ -11855,10 +11829,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"On the next page is a picture of an old version of my Adobe eBook Reader."
-msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgid "On the next page is a picture of an old version of my Adobe eBook Reader."
+msgstr "på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
 
 #.  PAGE BREAK 160
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11880,10 +11852,8 @@ msgstr ""
 "vil du se en fancy cover og deretter en knapp på bunnen kalt tillatelser."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
-#, mtrans, fuzzy
 msgid "Picture of an old version of Adobe eBook Reader"
-msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+msgstr "Bilde av en gammel versjon av Adobe eBook Reader."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1611.png\"></graphic>"
@@ -11977,10 +11947,9 @@ msgid "<graphic fileref=\"images/1631.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1631.png\"></graphic>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "No copying, no printing, and don't you dare try to listen to this book!"
 msgstr ""
-"ingen kopiering, ingen utskrift, og ikke våger du prøver å lytte til denne "
+"Ingen kopiering, ingen utskrift, og våg ikke å prøve å lytte til denne "
 "boken!"
 
 #.  f21
@@ -12116,8 +12085,7 @@ msgstr ""
 "du klikket på tillatelser for boken, fikk du det fulgte rapporten:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
-msgid ""
-"List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
+msgid "List of the permissions for &quot;Alice's Adventures in Wonderland&quot;."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
@@ -12663,16 +12631,13 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
-msgstr ""
-"Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
+msgid "This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+msgstr "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "No argument I have can top this picture, but let me try to get close."
-msgstr ""
-"ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
+msgstr "ingen argument jeg har kan topp dette bildet, men la meg prøve å komme nær."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -12938,10 +12903,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"These changes are of two sorts: the scope of concentration, and its nature."
-msgstr ""
-"disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
+msgid "These changes are of two sorts: the scope of concentration, and its nature."
+msgstr "disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
 
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -13040,8 +13003,7 @@ msgstr ""
 #.  f28
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): 89."
+msgid "James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): 89."
 msgstr ""
 "James fallows, \"en alder av murdoch,\" atlantic monthly (september 2003): "
 "89."
@@ -13491,9 +13453,8 @@ msgstr ""
 "vite om."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Together"
-msgstr "sammen"
+msgstr "Sammen"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -13895,9 +13856,8 @@ msgid "PUZZLES"
 msgstr "Nøtter"
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER ELEVEN: Chimera"
-msgstr "Kapittel 11: chimera"
+msgstr "Kapittel elleve: Chimera"
 
 #.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -14342,9 +14302,8 @@ msgstr ""
 "kan være svært verdifull."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER TWELVE: Harms"
-msgstr "Kapittel 12: skader"
+msgstr "Kapittel tolv: Skader"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -14926,9 +14885,8 @@ msgstr ""
 "com omtrent et år senere."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "That part of the story I have told before. Now consider its conclusion."
-msgstr "som en del av historien jeg har fortalt før. nå Vurder sin konklusjon."
+msgstr "Den delen av historien har jeg fortalt før.  Nå kommer konklusjonen."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -14951,7 +14909,6 @@ msgstr ""
 
 #.  PAGE BREAK 200
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "The clear purpose of this lawsuit (which was settled for an unspecified "
 "amount shortly after the story was no longer covered in the press) was to "
@@ -14961,13 +14918,7 @@ msgid ""
 "should be less restrictive should realize that such a view of the law will "
 "cost you and your firm dearly."
 msgstr ""
-"Fjern hensikten med dette søksmålet (som ble avgjort i en uspesifisert "
-"periode kort tid etter at historien ble ikke lenger dekket i pressen) var å "
-"sende en utvetydig melding til advokater rådgivning klienter i dette rommet: "
-"det er ikke bare klientene som kanskje lider Hvis innhold industrien "
-"dirigerer sine våpen mot dem. Det er også deg. så de av dere som tror loven "
-"bør være mindre bør restriktive innse at slikt syn på loven vil koste deg og "
-"ditt firma dyrt."
+"Den åpenbare hensikten med dette søksmålet (som ble avsluttet med et forlik for et uspesifisert beløp like etter at saken ikke lenger fikk pressedekning), var å sende en melding som ikke kan misforstås til advokater som gir råd til klienter på dette området: Det er ikke bare dine klienter som får lide hvis innholdsindustrien retter sine våpen mot dem.  Det får også du.  Så de av dere som tror loven burde være mindre restriktiv bør innse at et slikt syn på loven vil koste deg og ditt firma dyrt."
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -15006,6 +14957,9 @@ msgid ""
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #43</ulink>. "
 "I am grateful to Dr. Mohammad Al-Ubaydli for this example."
 msgstr ""
+"Rafe Needleman, \"Driving in Cars with MP3s,\" Business 2.0, 16. juni 2003, "
+"tilgjengelig via <ulink url=\"http://free-culture.cc/notes/\">link #43</ulink>. "
+"Jeg er Dr. Mohammad Al-Ubaydli takknemlig mot for dette eksemplet."
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 msgid ""
@@ -15019,19 +14973,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
+#, mtrans
 msgid ""
 "This is the world of the mafia&mdash;filled with \"your money or your life\" "
 "offers, governed in the end not by courts but by the threats that the law "
 "empowers copyright holders to exercise. It is a system that will obviously "
 "and necessarily stifle new innovation. It is hard enough to start a company. "
 "It is impossibly hard if that company is constantly threatened by litigation."
-msgstr ""
-"Dette er verden av mafiaen--fylt med \"penger eller livet\" tilbyr, "
-"reguleres av domstolene men av trusler at loven gir innehaver av opphavsrett "
-"til å utøve til slutt. Det er et system som vil åpenbart og nødvendigvis "
-"kveler ny innovasjon. Det er vanskelig nok å starte et selskap. Det er "
-"impossibly vanskelig hvis selskapet er stadig truet av søksmål."
+msgstr "Dette er verden til mafiaen&mdash;fylt med \"penger eller livet\"-trusler, som ikke er regulert av domstolene men av trusler som loven gir rettighetsinnehaver mulighet til å komme med. Det er et system som åpenbart og nødvendigvis vil kvele ny innovasjon. Det er vanskelig nok å starte et selskap. Det blir helt umulig hvis selskapet er stadig truet av søksmål."
 
 #.  PAGE BREAK 201
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -15236,10 +15185,8 @@ msgstr ""
 #.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
-msgid ""
-"Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
-msgstr ""
-"Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
+msgid "Jessica Litman, Digital Copyright (Amherst, N.Y.: Prometheus Books, 2001)."
+msgstr "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -15574,8 +15521,7 @@ msgstr "tidssonen til opprinnelse av overføring;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
-msgid ""
-"numeric designation of the place of the sound recording within the program;"
+msgid "numeric designation of the place of the sound recording within the program;"
 msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -16226,10 +16172,8 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
-msgid ""
-"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
-msgstr ""
-"\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
+msgid "\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
+msgstr "\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
@@ -16546,9 +16490,8 @@ msgstr ""
 "Hvis vi å forstå hva suksess vil kreve, må vi forstå disse feil."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER THIRTEEN: Eldred"
-msgstr "Kapittel tretten: eldred"
+msgstr "Kapittel tretten: Eldred"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -16905,8 +16848,7 @@ msgstr ""
 msgid ""
 "\"Hope?\" a fellow board member says. \"Can't we be doing something about it?"
 "\""
-msgstr ""
-"\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
+msgstr "\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -16947,8 +16889,7 @@ msgstr ""
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
-msgstr ""
-"du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
+msgstr "du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -18788,8 +18729,7 @@ msgstr ""
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
-msgstr ""
-"Her følger min klart feil. som professor korrigere en student, svarte jeg,"
+msgstr "Her følger min klart feil. som professor korrigere en student, svarte jeg,"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
@@ -19399,9 +19339,8 @@ msgstr ""
 "effektivt at satsing. ha ville gjort en bedre advokat dem se annerledes."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER FOURTEEN: Eldred II"
-msgstr "Kapittel fjorten: eldred ii"
+msgstr "Kapittel fjorten: Eldred II"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -22987,8 +22926,7 @@ msgstr ""
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
-msgstr ""
-"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+msgstr "Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
 
 #.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23535,8 +23473,7 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
-msgstr ""
-"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+msgstr "Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
 
 #.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23974,3 +23911,4 @@ msgstr ""
 "på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
+
