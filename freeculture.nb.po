@@ -6222,13 +6222,12 @@ msgstr ""
 "denne balansen blir funnet bare med tid."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "\"But isn't the war just a war against illegal sharing? Isn't the target "
 "just what you call type A sharing?\""
 msgstr ""
-"men er ikke krigen bare en krig mot ulovlig deling? er ikke målet bare det "
-"du skriver inn en deling?"
+"Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke angrepsmålet bare det "
+"du kaller type A-deling?"
 
 #.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
