@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-12 22:29+0300\n"
+"POT-Creation-Date: 2012-07-12 22:59+0300\n"
 "PO-Revision-Date: 2012-07-12 17:53+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -930,6 +930,10 @@ msgid ""
 "were almost incredible in their force and deviousness.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "AT&amp;T"
+msgstr "AT&amp;T"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -2087,8 +2091,8 @@ msgid ""
 "year, and the proportion renewing. Thus, if 100 copyrights are registered in "
 "year 1, and only 15 are renewed, and the renewal term is 28 years, then the "
 "average term is 32.2 years. For the renewal data and other relevant data, "
-"see the Web site associated with this book, available at <ulink url="
-"\"http://free-culture.cc/notes/\">link #6</ulink>."
+"see the Web site associated with this book, available at <ulink url=\"http://"
+"free-culture.cc/notes/\">link #6</ulink>."
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -4562,6 +4566,10 @@ msgstr ""
 "musikalske poeng, og jeg vil også måtte betale for retten til å utføre det "
 "offentlig."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Beatles"
+msgstr "Beatles"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6096,6 +6104,10 @@ msgid ""
 "copyright owner for the content they sell."
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Bernstein, Leonard"
+msgstr "Bernstein, Leonard"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7613,6 +7625,10 @@ msgstr ""
 "11) stemte de for å avvise ideen om evigvarende opphavsrettigheter. Hva en "
 "forståelse av sedvanerett, nå en copyright ble løst i en begrenset periode, "
 "hvoretter arbeidet beskyttet av opphavsrett sendes til public domain."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Bacon, Francis"
+msgstr "Bacon, Francis"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -18021,10 +18037,10 @@ msgid ""
 "It should have been won. And no matter how hard I try to retell this story "
 "to myself, I can never escape believing that my own mistake lost it."
 msgstr ""
-"Men min klient og disse vennene tok feil. Denne saken kunne vært "
-"vunnet. Det burde ha vært vunnet.  Og uansett hvor hardt jeg prøver "
-"å fortelle den historien til meg selv, kan jeg aldri "
-"unnslippe troen på at det er min feil at vi ikke vant."
+"Men min klient og disse vennene tok feil. Denne saken kunne vært vunnet. Det "
+"burde ha vært vunnet.  Og uansett hvor hardt jeg prøver å fortelle den "
+"historien til meg selv, kan jeg aldri unnslippe troen på at det er min feil "
+"at vi ikke vant."
 
 #.  PAGE BREAK 237
 #. type: Content of: <book><chapter><sect1><para>
@@ -18044,6 +18060,10 @@ msgstr ""
 "jones, dag, reavis og pogue. Jones dag tok mye varme fra klientene copyright-"
 "protectionist for å støtte oss. de ignorert dette presset (noe som noen "
 "advokatfirmaer i dag ville gjøre), og i hele saken, de ga det alt de kunne."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Ayer, Don"
+msgstr "Ayer, Don"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -18232,7 +18252,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Akerlof, George"
-msgstr ""
+msgstr "Akerlof, George"
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Arrow, Kenneth"
+msgstr "Arrow, Kenneth"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -19409,7 +19433,7 @@ msgid ""
 "The day Eldred was decided, fate would have it that I was to travel to "
 "Washington, D.C. (The day the rehearing petition in Eldred was denied&mdash;"
 "meaning the case was really finally over&mdash;fate would have it that I was "
-"giving a speech to technologists at Disney World.) This was a particularly "
+"giving a speech to technologists at Disney World.)  This was a particularly "
 "long flight to my least favorite city. The drive into the city from Dulles "
 "was delayed because of traffic, so I opened up my computer and wrote an op-"
 "ed piece."
@@ -20207,7 +20231,7 @@ msgid ""
 "incentive. I am the last person who would argue that the law should abolish "
 "it, at least without other changes."
 msgstr ""
-"Det er mange som er skeptiske til patenter, spesielt medisinske patenter. "
+"Det er mange som er skeptiske til patenter, spesielt medisinpatenter. "
 "Det er ikke jeg. faktisk av alle områder av forskning som kan være støttet "
 "av patenter, er drug research, etter min mening, klareste tilfelle der "
 "patenter er nødvendig. patent gir farmasøytisk firma noen forsikring om at "
@@ -20318,7 +20342,6 @@ msgstr ""
 "til å stoppe flyten av medikamenter i Afrika."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "By stopping the flow of HIV treatment into Africa, the United States "
 "government was not saving drugs for United States citizens.  This is not "
@@ -20327,12 +20350,9 @@ msgid ""
 "about how to take chemicals that exist within Africa, and turn those "
 "chemicals into drugs that would save 15 to 30 million lives."
 msgstr ""
-"ved å stoppe flyten av hiv-behandling i Afrika, var myndighetene i USA ikke "
-"redde narkotika for USA borgere. Dette er ikke som hvete (Hvis de spise det, "
-"kan vi ikke); i stedet, som USA intervenerte for å stoppe flyten var "
-"faktisk, en flyt av kunnskap: informasjon om hvordan du ta kjemikalier som "
-"finnes i Afrika, og slå disse kjemikalier i stoffer som vil spare 15 til 30 "
-"millioner liv."
+"Ved å stoppe flyten av HIV-behandling til Afrika, sikret ikke myndighetene i USA "
+"medisiner til USA borgere. Dette er ikke som hvete (hvis de spise det så "
+"kan ikke vi spise det). Det som USA i effekt intervenerte for å stoppe, var flyten av kunnskap: Informasjon om hvordan en kan ta kjemikalier som finnes i Afrika og gjøre disse kjemikaliene om til medisiner som kan redde 15 til 30 millioner liv."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20346,7 +20366,7 @@ msgid ""
 "companies."
 msgstr ""
 "heller ikke var intervensjon av den USA kommer til å beskytte fortjeneste av "
-"USA stoffet selskaper--minst, ikke betydelig. Det var ikke som om disse "
+"USA stoffet selskaper&mdash;minst, ikke betydelig. Det var ikke som om disse "
 "landene var i posisjon til å kjøpe narkotika for prisene stoffet selskaper "
 "ble lading. igjen er afrikanere vill for dårlig til å ha råd til disse "
 "stoffene til tilbys priser. stoppe parallellimport av disse stoffene ville "
