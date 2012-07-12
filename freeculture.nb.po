@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-12 22:59+0300\n"
+"POT-Creation-Date: 2012-07-13 00:02+0300\n"
 "PO-Revision-Date: 2012-07-12 17:53+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -340,10 +340,10 @@ msgid ""
 "fundamentally affected \"people who aren't online.\" There is no switch that "
 "will insulate us from the Internet's effect."
 msgstr ""
-"Pogue kan ha hatt rett i 1999 &mdash; jeg er skeptisk, men den kan hende. Men "
-"selv om han hadde rett da, så er ikke argumentet gyldig nå. Fri Kultur er om "
-"problemene Internet forårsaker selv etter at modemet er slått av.  Den er et "
-"argument om hvordan slagene at nå brer om seg om livet on-line har "
+"Pogue kan ha hatt rett i 1999 &mdash; jeg er skeptisk, men den kan hende. "
+"Men selv om han hadde rett da, så er ikke argumentet gyldig nå. Fri Kultur "
+"er om problemene Internet forårsaker selv etter at modemet er slått av.  Den "
+"er et argument om hvordan slagene at nå brer om seg om livet on-line har "
 "fundamentalt påvirket \"folk som er ikke pålogget.\"  Det finnes ingen "
 "bryter som kan isolere oss fra Internetts effekt."
 
@@ -1097,6 +1097,14 @@ msgstr ""
 "\" det vanlige måter som vanlige enkeltpersoner delt og transformert deres "
 "kultur--fortelle historier, reenacting scener fra spiller eller tv, delta i "
 "fan klubber, deling av musikk, slik at kassetter--var igjen alene ved loven."
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "Brandeis, Louis D."
+msgstr ""
+
+#. type: Content of: <book><chapter><para><footnote>
+msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
+msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -2674,6 +2682,10 @@ msgid ""
 "type=\"footnote\" id=\"0\"/> As he described in The Kodak Primer:"
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Coe, Brian"
+msgstr ""
+
 #.  f2
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
@@ -2804,6 +2816,16 @@ msgstr ""
 "var fritt til å ta den blyanter hans animatører brukes til å tegne mickey, "
 "så bør også, disse fotografer ikke være fritt til å ta bilder som de trodde "
 "verdifull."
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "Warren, Samuel D."
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><footnote>
+msgid ""
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
+msgstr ""
 
 #.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -3038,6 +3060,10 @@ msgstr ""
 "lærer å skrive ved å skrive og deretter gjenspeiler på hva man har skrevet. "
 "en lærer å skrive med bilder ved å gjøre dem og deretter reflektere over hva "
 "man har opprettet."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Barish, Stephanie"
+msgstr ""
 
 #.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -4416,7 +4442,7 @@ msgstr "filmen"
 #, mtrans, fuzzy
 msgid ""
 "I am grateful to Peter DiMauro for pointing me to this extraordinary "
-"history.  See also Siva Vaidhyanathan, Copyrights and Copywrongs, "
+"history. See also Siva Vaidhyanathan, Copyrights and Copywrongs, "
 "87&ndash;93, which details Edison's \"adventures\" with copyright and patent."
 msgstr ""
 "Jeg er takknemlig til peter dimauro for å sette meg til dette ekstraordinære "
@@ -6226,8 +6252,8 @@ msgid ""
 "\"But isn't the war just a war against illegal sharing? Isn't the target "
 "just what you call type A sharing?\""
 msgstr ""
-"Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke angrepsmålet bare det "
-"du kaller type A-deling?"
+"Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke angrepsmålet "
+"bare det du kaller type A-deling?"
 
 #.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -8180,6 +8206,14 @@ msgid ""
 msgstr ""
 "Alben brakt ideen til michael slade, ceo i starwave. Slade som ble spurt, "
 "\"Vel, hva vil det ta?\""
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "artists"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><secondary>
+msgid "publicity rights on images of"
+msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -13269,6 +13303,10 @@ msgstr ""
 "nødvendigvis banishment til Sibir, men straff likevel. uavhengige, kritiske, "
 "forskjellige visninger er ødela. Dette er ikke miljø for et demokrati."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Clark, Kim B."
+msgstr ""
+
 #.  f33
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
@@ -18249,6 +18287,18 @@ msgstr "Akerlof, George"
 msgid "Arrow, Kenneth"
 msgstr "Arrow, Kenneth"
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Buchanan, James"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Coase, Ronald"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Friedman, Milton"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20222,14 +20272,14 @@ msgid ""
 "incentive. I am the last person who would argue that the law should abolish "
 "it, at least without other changes."
 msgstr ""
-"Det er mange som er skeptiske til patenter, spesielt medisinpatenter. "
-"Det er ikke jeg. faktisk av alle områder av forskning som kan være støttet "
-"av patenter, er drug research, etter min mening, klareste tilfelle der "
-"patenter er nødvendig. patent gir farmasøytisk firma noen forsikring om at "
-"hvis det er vellykket i inventing et nytt medikament for å behandle en "
-"sykdom, vil det kunne tjene tilbake sine investeringer og mer. Dette er "
-"sosialt et ekstremt verdifullt insentiv. Jeg er den siste personen som vil "
-"hevde at loven skal avskaffe det, i det minste uten andre endringer."
+"Det er mange som er skeptiske til patenter, spesielt medisinpatenter. Det er "
+"ikke jeg. faktisk av alle områder av forskning som kan være støttet av "
+"patenter, er drug research, etter min mening, klareste tilfelle der patenter "
+"er nødvendig. patent gir farmasøytisk firma noen forsikring om at hvis det "
+"er vellykket i inventing et nytt medikament for å behandle en sykdom, vil "
+"det kunne tjene tilbake sine investeringer og mer. Dette er sosialt et "
+"ekstremt verdifullt insentiv. Jeg er den siste personen som vil hevde at "
+"loven skal avskaffe det, i det minste uten andre endringer."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20244,6 +20294,10 @@ msgstr ""
 "afrikanske ledere begynte å gjenkjenne ødeleggelsen AIDS brakte, begynte de "
 "å se etter måter å importere HIV-medisiner til kostnader betydelig under "
 "markedspris."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Braithwaite, John"
+msgstr ""
 
 #.  f2.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -20341,9 +20395,12 @@ msgid ""
 "about how to take chemicals that exist within Africa, and turn those "
 "chemicals into drugs that would save 15 to 30 million lives."
 msgstr ""
-"Ved å stoppe flyten av HIV-behandling til Afrika, sikret ikke myndighetene i USA "
-"medisiner til USA borgere. Dette er ikke som hvete (hvis de spise det så "
-"kan ikke vi spise det). Det som USA i effekt intervenerte for å stoppe, var flyten av kunnskap: Informasjon om hvordan en kan ta kjemikalier som finnes i Afrika og gjøre disse kjemikaliene om til medisiner som kan redde 15 til 30 millioner liv."
+"Ved å stoppe flyten av HIV-behandling til Afrika, sikret ikke myndighetene i "
+"USA medisiner til USA borgere. Dette er ikke som hvete (hvis de spise det så "
+"kan ikke vi spise det). Det som USA i effekt intervenerte for å stoppe, var "
+"flyten av kunnskap: Informasjon om hvordan en kan ta kjemikalier som finnes "
+"i Afrika og gjøre disse kjemikaliene om til medisiner som kan redde 15 til "
+"30 millioner liv."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20951,6 +21008,10 @@ msgstr ""
 "personer eller egenskapen innenfor deres kontroll til det frie markedet. "
 "Føydalisme depended upon maksimal kontroll og konsentrasjon. det kjempet "
 "noen friheten som kan forstyrre denne kontrollen."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Drahos, Peter"
+msgstr ""
 
 #.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -23988,4 +24049,3 @@ msgstr ""
 "på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
 "har hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
 "evigvarende tålmodighet og kjærlighet."
-
