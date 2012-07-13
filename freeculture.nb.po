@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-13 21:53+0300\n"
+"POT-Creation-Date: 2012-07-13 22:13+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -143,9 +143,8 @@ msgstr "Fri Kultur"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
-"HOW BIG MEDIA USES TECHNOLOGY AND THE HOW BIG MEDIA USES TECHNOLOGY AND LAW "
-"TO LOCK DOWN CULTURE AND CONTROL THE LAW TO LOCK DOWN CULTURE CREATIVITY AND "
-"CONTROL CREATIVITY"
+"HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
+"CREATIVITY"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -246,6 +245,10 @@ msgid "Designed by Marysarah Quinn"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
+msgid "&translationblock;"
+msgstr "Oversatt til bokmål av Petter Reinholdtsen."
+
+#. type: Content of: <book><chapter><para>
 msgid ""
 "Without limiting the rights under copyright reserved above, no part of this "
 "publication may be reproduced, stored in or introduced into a retrieval "
@@ -266,10 +269,6 @@ msgid ""
 msgstr ""
 "Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for "
 "hvem saken fortsetter."
-
-#. type: Content of: <book><chapter><para>
-msgid "&translationblock;"
-msgstr "Oversatt til bokmål av Petter Reinholdtsen."
 
 #. type: Content of: <book><chapter><figure><title>
 msgid "Creative Commons, Some rights reserved"
@@ -20296,8 +20295,8 @@ msgid ""
 msgstr ""
 "Men det er én ting å støtte patenter, selv medisinske patenter. Det er en "
 "annen ting å avgjøre hvordan en best skal håndtere en krise. Og i det "
-"afrikanske ledere begynte å erkjenne ødeleggelsen AIDS brakte, begynte de "
-"å se etter måter å importere HIV-medisiner til kostnader betydelig under "
+"afrikanske ledere begynte å erkjenne ødeleggelsen AIDS brakte, begynte de å "
+"se etter måter å importere HIV-medisiner til kostnader betydelig under "
 "markedspris."
 
 #. type: Content of: <book><chapter><indexterm><primary>
