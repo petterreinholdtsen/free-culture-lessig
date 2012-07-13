@@ -11823,6 +11823,7 @@ msgstr ""
 "(1981): 172­73."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
+#, fuzzy
 msgid ""
 "There's a famous story about a battle between the Marx Brothers and Warner "
 "Brothers. The Marxes intended to make a parody of Casablanca. Warner "
@@ -11830,14 +11831,19 @@ msgid ""
 "that there would be serious legal consequences if they went forward with "
 "their plan.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Det er en berømt historie om en kamp mellom Marx-brødrene (the Marx Brothers) "
+"og Warner Brothers.  Marx-brødrene planla å lage en parodi av Casablanca. "
+"Warner Brothers protesterte.  De skrev et ufint brev til Marx-brødrene og "
+"advarte dem om at det ville bli seriøse juridiske konsekvenser hvis de gikk "
+"videre med sin plan.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  f20
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
-msgstr "ibid. se også vaidhyanathan, opphavsrett og copywrongs, 1­3."
+msgstr "Ibid. Se også Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
+#, fuzzy
 msgid ""
 "This led the Marx Brothers to respond in kind. They warned Warner Brothers "
 "that the Marx Brothers \"were brothers long before you were.\"<placeholder "
@@ -11845,19 +11851,24 @@ msgid ""
 "brothers, and if Warner Brothers insisted on trying to control Casablanca, "
 "then the Marx Brothers would insist on control over brothers."
 msgstr ""
+"Dette fikk Marx-brødrene til å svare tilbake med samme mynt.  De advarte "
+"Warner Brothers om at Marx-brødrene \"var brødre lenge før dere var det."
+"\"<placeholder type=\"footnote\" id=\"0\"/> Marx-brødrene eide derfor ordet "
+"Brothers, og hvis Warner Brothers insisterte på å forsøke å kontrollere "
+"Casablanca, så ville Marx-brødrene insistere på kontroll over Brothers."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
+#, fuzzy
 msgid ""
 "An absurd and hollow threat, of course, because Warner Brothers, like the "
 "Marx Brothers, knew that no court would ever enforce such a silly claim. "
 "This extremism was irrelevant to the real freedoms anyone (including Warner "
 "Brothers) enjoyed."
 msgstr ""
-"en absurd og hul trussel, selvfølgelig, fordi warner brothers, the marx "
-"brothers, visste at ingen domstol ville noensinne håndheve slikt dumt krav. "
-"Denne ekstremisme var irrelevant for ekte friheter nytes alle (inkludert "
-"warner brothers)."
+"En absurd og hul trussel, selvfølgelig, fordi Warner Brothers, på samme måte "
+"som Marx-brødrene, visste at ingen domstol noensinne ville håndheve et slikt "
+"dumt krav. Denne ekstremismen var irrelevant for de ekte friheter som alle "
+"(inkludert Warner Brothers) nøt godt av."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11870,13 +11881,14 @@ msgid ""
 "is that, unlike law, code has no shame. Code would not get the humor of the "
 "Marx Brothers. The consequence of that is not at all funny."
 msgstr ""
-"på Internett, men det er ingen kontroll av dum regler, fordi på Internett, i "
-"økende grad regler gjelder ikke av et menneske, men av en maskin: i økende "
-"grad reglene om opphavsrett, som tolkes av eieren av opphavsretten få "
-"innebygd i teknologien som leverer opphavsrettsbeskyttet innhold. Det er "
-"koden, i stedet for loven, at reglene. og problemet med koden forskrifter er "
-"at, i motsetning til loven, koden har ingen skam. koden ville ikke få humor "
-"av the marx brothers. konsekvensen av dette er overhodet ikke morsomt."
+"På Internett, er det derimot ingen kontroll mot dum regler, fordi på "
+"Internett, i økende grad, blir regler ikke håndhevet av et menneske, men av "
+"en maskin: i økende grad reglene om opphavsrett, som tolkes av eieren av "
+"opphavsretten få innebygd i teknologien som leverer opphavsrettsbeskyttet "
+"innhold. Det er koden, i stedet for loven, at reglene. og problemet med "
+"koden forskrifter er at, i motsetning til loven, koden har ingen skam. koden "
+"ville ikke få humor av the marx brothers. Konsekvensen av dette er overhodet "
+"ikke morsomt."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
