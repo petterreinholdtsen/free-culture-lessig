@@ -20296,7 +20296,7 @@ msgid ""
 msgstr ""
 "Men det er én ting å støtte patenter, selv medisinske patenter. Det er en "
 "annen ting å avgjøre hvordan en best skal håndtere en krise. Og i det "
-"afrikanske ledere begynte å gjenkjenne ødeleggelsen AIDS brakte, begynte de "
+"afrikanske ledere begynte å erkjenne ødeleggelsen AIDS brakte, begynte de "
 "å se etter måter å importere HIV-medisiner til kostnader betydelig under "
 "markedspris."
 
