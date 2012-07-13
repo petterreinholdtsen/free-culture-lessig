@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-13 00:02+0300\n"
-"PO-Revision-Date: 2012-07-12 17:53+0200\n"
+"POT-Creation-Date: 2012-07-13 21:53+0300\n"
+"PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -10599,10 +10599,10 @@ msgid ""
 "to have, under the Common Law\" (emphasis added)."
 msgstr ""
 "William W. Crosskey, politikk og Grunnloven i historien av USA (London: "
-"Cambridge University Press, 1953), vol. 1, 485&ndash;86: \"slukke [ing], ved vanlig "
-"implikasjon av\"øverstkommanderende lov av land\", evigvarende rettigheter "
-"som forfattere hadde eller skulle etter noen å ha, under felles lov\" (vekt "
-"legges til)."
+"Cambridge University Press, 1953), vol. 1, 485&ndash;86: \"slukke [ing], ved "
+"vanlig implikasjon av\"øverstkommanderende lov av land\", evigvarende "
+"rettigheter som forfattere hadde eller skulle etter noen å ha, under felles "
+"lov\" (vekt legges til)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -10631,10 +10631,10 @@ msgid ""
 msgstr ""
 "Det usikkerheten tok slutt da kongressen vedtok lovgivning som tildelte "
 "opphavsrettigheter.  Da føderal lov overstyrer medlemsstatenes lov, "
-"fortrengte føderal beskyttelse av opphavsrettslig beskyttet verk noen "
-"staten lov beskyttelse. akkurat som i england betydde Vedtektene for anne "
-"til slutt at opphavsretten for alle engelsk arbeider utløpt, en føderale "
-"vedtekter betydde at staten opphavsrettigheter utløpt også."
+"fortrengte føderal beskyttelse av opphavsrettslig beskyttet verk noen staten "
+"lov beskyttelse. akkurat som i england betydde Vedtektene for anne til slutt "
+"at opphavsretten for alle engelsk arbeider utløpt, en føderale vedtekter "
+"betydde at staten opphavsrettigheter utløpt også."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10679,8 +10679,13 @@ msgid ""
 "passed into the public domain; the balance would pass into the pubic domain "
 "within twenty-eight years at most, and more likely within fourteen years."
 "<placeholder type=\"footnote\" id=\"0\"/>"
-msgstr "Selv om det ble skapt mange verker i USA i de første 10 årene til republikken, så ble kun 5 prosent av verkene registrert under det føderale opphavsrettsregimet.  Av alle verker skapt i USA både før 1790 og fra 1790 fram til 1800, så ble 95 prosent øyeblikkelig sluppet i det fri (public domain).  Resten ble fritt tilgjengelig i løpet av maksimalt 20 år, og mest sansynlig i løpet av 14 år."
-"<placeholder type=\"footnote\" id=\"0\"/>"
+msgstr ""
+"Selv om det ble skapt mange verker i USA i de første 10 årene til "
+"republikken, så ble kun 5 prosent av verkene registrert under det føderale "
+"opphavsrettsregimet.  Av alle verker skapt i USA både før 1790 og fra 1790 "
+"fram til 1800, så ble 95 prosent øyeblikkelig sluppet i det fri (public "
+"domain).  Resten ble fritt tilgjengelig i løpet av maksimalt 20 år, og mest "
+"sansynlig i løpet av 14 år.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 145
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -10692,9 +10697,9 @@ msgid ""
 "wasn't worth it to society to insist on the copyright, either."
 msgstr ""
 "Dette fornyelsessystemet var en avgjørende del av det amerikanske systemet "
-"for opphavsrett.  Det sikret at maksimal vernetid i opphavsretten bare ble gitt "
-"til verker der det var ønsket. Etter den første perioden på fjorten år, hvis "
-"forfatteren ikke så verdien av å fornye sin opphavsrett, var det heller "
+"for opphavsrett.  Det sikret at maksimal vernetid i opphavsretten bare ble "
+"gitt til verker der det var ønsket. Etter den første perioden på fjorten år, "
+"hvis forfatteren ikke så verdien av å fornye sin opphavsrett, var det heller "
 "ikke verdt det for samfunnet å håndheve opphavsretten."
 
 #.  f10
@@ -11023,10 +11028,10 @@ msgstr ""
 "om du faktisk lage en kopi tilgjengelig for andre å kopiere."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Consider a practical example to understand the scope of these differences."
-msgstr "vurdere et praktisk eksempel å forstå omfanget av disse forskjellene."
+msgstr ""
+"Vurder et praktisk eksempel for å forstå omfanget av disse forskjellene."
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -11990,7 +11995,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
-msgstr ""
+msgstr "Liste med tillatelser for Aristotles &quot;Politics&quot;."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1622.png\"></graphic>"
@@ -20193,11 +20198,11 @@ msgid ""
 "already died. Seventeen million Africans is proportional percentage-wise to "
 "seven million Americans. More importantly, it is seventeen million Africans."
 msgstr ""
-"Det er mer enn trettifem millioner mennesker over hele verden med AIDS-viruset. "
-"Tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten millioner har "
-"allerede dødd.  Sytten millioner afrikanere er prosentvis proporsjonalt med "
-"syv millioner amerikanere.  Viktigere er det at dette er 17 millioner "
-"afrikanere."
+"Det er mer enn trettifem millioner mennesker over hele verden med AIDS-"
+"viruset. Tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten "
+"millioner har allerede dødd.  Sytten millioner afrikanere er prosentvis "
+"proporsjonalt med syv millioner amerikanere.  Viktigere er det at dette er "
+"17 millioner afrikanere."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20297,7 +20302,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Braithwaite, John"
-msgstr ""
+msgstr "Braithwaite, John"
 
 #.  f2.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -20368,7 +20373,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We should place the intervention by the United States in context.  No doubt "
 "patents are not the most important reason that Africans don't have access to "
@@ -20378,13 +20382,13 @@ msgid ""
 "affect price. And so, whether massive or marginal, there was an effect from "
 "our government's intervention to stop the flow of medications into Africa."
 msgstr ""
-"Vi bør sette intervensjon av USA i sammenheng. ingen tvil om er patenter "
-"ikke den viktigste grunnen at afrikanere ikke har tilgang til narkotika. "
-"fattigdom og det totale fraværet av en effektiv helsevesenet infrastruktur "
-"saken mer. men om patenter er den viktigste årsaken eller ikke, prisen på "
-"narkotika har en effekt på deres behov, og patenter påvirker prisen. og så, "
-"om massiv eller marginale, det var en effekt fra vår regjering intervensjon "
-"til å stoppe flyten av medikamenter i Afrika."
+"Vi bør sette intervensjonen til USA i sammenheng.  Det er ingen tvil om at "
+"patenter ikke er den viktigste årsaken til at Afrikanere ikke har tilgang "
+"til medisiner.  Fattigdom og den totale mangel på effektivt helsevesen betyr "
+"mer. Men uansett om patenter er en viktigste grunnen eller ikke, så har "
+"prisen på medisiner en effekt på etterspørselen, og patenter påvirker "
+"prisen. Så uansett, massiv eller marginal, så var det en effekt av våre "
+"myndigheters intervensjon for å stoppe flyten av medisiner inn til Afrika."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20469,7 +20473,6 @@ msgstr ""
 "sinnssykdom som ville tillate så mange til å dø for slike en abstraksjon?"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Some blame the drug companies. I don't. They are corporations.  Their "
 "managers are ordered by law to make money for the corporation.  They push a "
@@ -20478,12 +20481,12 @@ msgid ""
 "because of a certain corruption within our political system&mdash; a "
 "corruption the drug companies are certainly not responsible for."
 msgstr ""
-"Noen skylden stoffet selskaper. jeg gjør ikke. de er selskaper. deres ledere "
-"er organisert etter loven, å tjene penger for corporation. de push en "
-"bestemt patent policy ikke på grunn av idealer, men fordi det er politikken "
-"som gjør dem mest penger. og det bare gjør dem mest penger på grunn av en "
-"bestemt korrupsjon i våre politiske systemet--en skade stoffet selskaper "
-"ikke er absolutt ansvarlige for."
+"Noen skylder på farmasiselskapene.  Det gjør ikke jeg.  De er selskaper, og "
+"deres ledere er lovpålagt å sikre at selskapene tjener penger.  De presser "
+"på for en bestemt patentpolitikk, ikke på grunn av idealer, men fordi det er "
+"dette som gjør at de tjener mest penger.  Og dete gjør kun at de tjener mest "
+"penger på grunn av en slags korrupsjon i vårt politiske system&mdash; en "
+"korrupsjon som farmasiselskapene helt klart ikke er ansvarlige for."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -20845,6 +20848,8 @@ msgid ""
 "Krim, \"The Quiet War over Open-Source,\" available at <ulink url=\"http://"
 "free-culture.cc/notes/\">link #64</ulink>."
 msgstr ""
+"Krim, \"The Quiet War over Open-Source,\" tilgjengelig fra <ulink url="
+"\"http://free-culture.cc/notes/\">link #64</ulink>."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21011,13 +21016,12 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Drahos, Peter"
-msgstr ""
+msgstr "Drahos, Peter"
 
 #.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
-msgstr "se drahos med braithwaite, informasjon føydalisme, 210­20."
+msgstr "Se Drahos og Braithwaite, Information Feudalism, 210&ndash;­20."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21168,7 +21172,6 @@ msgstr ""
 "annet resultat."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This activism did not stop the FCC, but soon after, a broad coalition in the "
 "Senate voted to reverse the FCC decision. The hostile hearings leading up to "
@@ -21176,14 +21179,13 @@ msgid ""
 "substantial support for the FCC's decision, and there was broad and "
 "sustained support for fighting further concentration in the media."
 msgstr ""
-"Denne aktivisme stoppe ikke fcc, men snart etter en bred koalisjon i Senatet "
-"stemte for å reversere fcc-beslutning. fiendtlige hearings fører opp til at "
-"stemme avslørte hvor kraftig denne bevegelsen hadde blitt. Det var ingen "
-"betydelig støtte for fcc beslutning, og det var bred og vedvarende støtte "
-"for å bekjempe ytterligere konsentrasjon i media."
+"Denne aktivismen stoppet ikke FCC, men like etter stemte en bred koalisjon i "
+"senatet for å reversere avgjørelsen i FCC. De fientlige høringene som ledet "
+"til avstemmingen avslørte hvor mektig denne bevegelsen hadde blitt.  Det var "
+"ingen betydnigsfull støtte for FCCs avgjørelse, mens det var bred og "
+"vedvarende støtte for å bekjempe ytterligere konsentrasjon i media."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But even this movement misses an important piece of the puzzle.  Largeness "
 "as such is not bad. Freedom is not threatened just because some become very "
@@ -21191,11 +21193,11 @@ msgid ""
 "of Big Macs or Quarter Pounders does not mean that you can't get a good "
 "hamburger from somewhere else."
 msgstr ""
-"men selv denne bevegelsen savner en viktig brikke i puslespillet. largeness "
-"er som sådan ikke ille. frihet er ikke truet bare fordi noen blir veldig "
-"rik, eller fordi det er bare en håndfull store spillere. den dårlige "
-"kvaliteten på big Mac eller kvartal pounders betyr ikke at du ikke kan få en "
-"god hamburger fra et annet sted."
+"Men selv denne bevegelsen går glipp av en viktig brikke i puslespillet.  Å "
+"være stor er ikke ille i seg selv. Frihet er ikke truet bare på grunn av at "
+"noen blir veldig rik, eller på grunn av at det bare er en håndfull store "
+"aktører.  Den dårlige kvaliteten til Big Macs eller Quartar Punders betyr "
+"ikke at du ikke kan få en god hamburger fra andre plasser."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
