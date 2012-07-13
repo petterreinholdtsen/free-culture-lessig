@@ -23760,15 +23760,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "However, my criticism of the role that lawyers have played in this debate is "
 "not just about a professional bias. It is more importantly about our failure "
 "to actually reckon the costs of the law."
 msgstr ""
-"min kritikk av rollen som advokater har spilt i denne debatten er imidlertid "
-"ikke bare om en profesjonell skjevhet. Det er enda viktigere om vår "
-"manglende evne til å faktisk regner med kostnadene for loven."
+"Min kritikk av rollen som advokater har spilt i denne debatten handler imidlertid "
+"ikke bare om en profesjonell skjevhet. Det handler enda viktigere om vår "
+"manglende evne til å faktisk ta med hva loven koster."
 
 #.  f11.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
