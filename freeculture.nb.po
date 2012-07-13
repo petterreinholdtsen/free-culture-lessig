@@ -23947,7 +23947,7 @@ msgid ""
 "this book is dedicated."
 msgstr ""
 "Denne boken er produktet av en lang og så langt mislykket kamp som begynte "
-"da jeg leste om Eric Eldreds krig å sørge for at bøker forble frie. Eldreds "
+"da jeg leste om Eric Eldreds krig for å sørge for at bøker forble frie. Eldreds "
 "innsats bidro til å lansere en bevegelse, fri kultur-bevegelsen, og denne "
 "boken er tilegnet ham."
 
