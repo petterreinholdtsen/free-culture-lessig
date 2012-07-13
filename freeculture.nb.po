@@ -10568,13 +10568,12 @@ msgstr ""
 "konsentrasjon av markedets makt. Når det gjelder vår modell startet vi her:"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "We will end here:"
-msgstr "Vi vil ende her:"
+msgstr "Vi kommer til å ende opp her:"
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "&quot;Copyright&quot; today."
-msgstr ""
+msgstr "&quot;Opphavsrett&quot; i dag."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1442.png\"></graphic>"
@@ -10599,8 +10598,8 @@ msgid ""
 "the Land,' the perpetual rights which authors had, or were supposed by some "
 "to have, under the Common Law\" (emphasis added)."
 msgstr ""
-"William w. crosskey, politikk og Grunnloven i historien av USA (london: "
-"cambridge university press, 1953), vol. 1, 485­86: \"slukke [ing], ved vanlig "
+"William W. Crosskey, politikk og Grunnloven i historien av USA (London: "
+"Cambridge University Press, 1953), vol. 1, 485&ndash;86: \"slukke [ing], ved vanlig "
 "implikasjon av\"øverstkommanderende lov av land\", evigvarende rettigheter "
 "som forfattere hadde eller skulle etter noen å ha, under felles lov\" (vekt "
 "legges til)."
@@ -10630,9 +10629,9 @@ msgid ""
 "all English works expired, a federal statute meant that any state copyrights "
 "expired as well."
 msgstr ""
-"det usikkerheten endte etter congress passert lovgivning gi "
-"opphavsrettigheter. fordi føderal lov overstyrer lovverket strid tilstand, "
-"fortrenges føderale beskyttelser av opphavsrettslig beskyttet verk noen "
+"Det usikkerheten tok slutt da kongressen vedtok lovgivning som tildelte "
+"opphavsrettigheter.  Da føderal lov overstyrer medlemsstatenes lov, "
+"fortrengte føderal beskyttelse av opphavsrettslig beskyttet verk noen "
 "staten lov beskyttelse. akkurat som i england betydde Vedtektene for anne "
 "til slutt at opphavsretten for alle engelsk arbeider utløpt, en føderale "
 "vedtekter betydde at staten opphavsrettigheter utløpt også."
@@ -10671,6 +10670,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
+#, fuzzy
 msgid ""
 "While there were many works created in the United States in the first ten "
 "years of the Republic, only 5 percent of the works were actually registered "
@@ -10679,11 +10679,11 @@ msgid ""
 "passed into the public domain; the balance would pass into the pubic domain "
 "within twenty-eight years at most, and more likely within fourteen years."
 "<placeholder type=\"footnote\" id=\"0\"/>"
-msgstr ""
+msgstr "Selv om det ble skapt mange verker i USA i de første 10 årene til republikken, så ble kun 5 prosent av verkene registrert under det føderale opphavsrettsregimet.  Av alle verker skapt i USA både før 1790 og fra 1790 fram til 1800, så ble 95 prosent øyeblikkelig sluppet i det fri (public domain).  Resten ble fritt tilgjengelig i løpet av maksimalt 20 år, og mest sansynlig i løpet av 14 år."
+"<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 145
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "This system of renewal was a crucial part of the American system of "
 "copyright. It assured that the maximum terms of copyright would be granted "
@@ -10691,11 +10691,11 @@ msgid ""
 "years, if it wasn't worth it to an author to renew his copyright, then it "
 "wasn't worth it to society to insist on the copyright, either."
 msgstr ""
-"Dette systemet fornyelse var en avgjørende del av det amerikanske systemet "
-"av opphavsrett. det sikret at maksimal vilkårene i copyright ville gis bare "
-"for arbeider der de ble ønsket. etter den første sikt av fjorten år, hvis "
-"det ikke var verdt det en forfatter å fornye sin opphavsrett, deretter det "
-"var ikke verdt det for samfunnet å insistere på opphavsretten, enten."
+"Dette fornyelsessystemet var en avgjørende del av det amerikanske systemet "
+"for opphavsrett.  Det sikret at maksimal vernetid i opphavsretten bare ble gitt "
+"til verker der det var ønsket. Etter den første perioden på fjorten år, hvis "
+"forfatteren ikke så verdien av å fornye sin opphavsrett, var det heller "
+"ikke verdt det for samfunnet å håndheve opphavsretten."
 
 #.  f10
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -20193,7 +20193,7 @@ msgid ""
 "already died. Seventeen million Africans is proportional percentage-wise to "
 "seven million Americans. More importantly, it is seventeen million Africans."
 msgstr ""
-"Det er mer enn 35 millioner mennesker over hele verden med AIDS-viruset. "
+"Det er mer enn trettifem millioner mennesker over hele verden med AIDS-viruset. "
 "Tjuefem millioner av dem bor i Afrika sør for Sahara.  Sytten millioner har "
 "allerede dødd.  Sytten millioner afrikanere er prosentvis proporsjonalt med "
 "syv millioner amerikanere.  Viktigere er det at dette er 17 millioner "
