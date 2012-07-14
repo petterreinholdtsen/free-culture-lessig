@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 17:00+0300\n"
+"POT-Creation-Date: 2012-07-14 17:37+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -21717,6 +21717,10 @@ msgstr ""
 "ikke kjøre et program som er skrevet for en generell data-maskinen på en ibm-"
 "maskin, slik at data Generelt og ibm ikke vare mye om hvordan du styrer "
 "deres programvare."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Stallman, Richard"
+msgstr "Stallman, Richard"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
