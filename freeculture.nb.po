@@ -21309,6 +21309,9 @@ msgid ""
 "September 2003, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #68</ulink>."
 msgstr ""
+"Jon Wiederhorn, \"Eminem Gets Sued . . . by a Little Old Lady,\" mtv.com, 17. "
+"september 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #68</ulink>."
 
 #.  f13.
 #.  PAGE BREAK 334
@@ -21318,6 +21321,9 @@ msgid ""
 "Songs,\" Kansascity.com, 9 July 2003, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #69</ulink>."
 msgstr ""
+"Kenji Hall, Associated Press, \"Japanese Book May Be Inspiration for Dylan "
+"Songs,\" Kansascity.com, 9. juli 2003, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #69</ulink>."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21336,6 +21342,7 @@ msgid ""
 "computers thought to violate the law. Universities are threatening expulsion "
 "for kids who use a computer to share content."
 msgstr ""
+"Mens jeg skriver disse avsluttende ordene, er nyhetene fylt med historier om at RIAA saksøker nesten tre hundre individer.<placeholder type=\"footnote\" id=\"0\"/>  Eminem har nettopp blitt saksøkt for å ha \"samplet\" noen andres musikk.<placeholder type=\"footnote\" id=\"1\"/>  Historien om hvordan Bob Dylan har \"stjålet\" fra en japansk forfatter har nettopp gått verden over.<placeholder type=\"footnote\" id=\"2\"/>  En på innsiden i Hollywood&mdash;som insisterer på at han må forbli anonym&mdash;rapporterer \"en utrolig samtale med disse studiofolkene.  De har fantastisk [gammelt] innhold som de ville elske å bruke, men det kan de ikke på grunn av at de først må klarere rettighetene.  De har hauger med ungdommer som kunne gjøre fantastiske ting med innholdet, men det vil først kreve hauger med advokater for å klarere det først\".  Kongressrepresentanter snakker om å gi datavirus politimyndighet for å ta ned datamaskiner som antas å bryte loven.  Universiteter truer med å utvise ungdommer som bruker en datamaskin for å dele innhold.
 
 #.  f14.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -21344,6 +21351,9 @@ msgid ""
 "August 2003, available at <ulink url=\"http://free-culture.cc/notes/\">link "
 "#70</ulink>."
 msgstr ""
+"\"BBC Plans to Open Up Its Archive to the Public,\" pressemelding fra BBC, 24. "
+"august 2003, tilgjengelig  fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#70</ulink>."
 
 #.  f15.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -21370,6 +21380,7 @@ msgid ""
 "technology being destroyed. It will take some thought, and more importantly, "
 "it will take some will to transform the RCAs of our day into the Causbys."
 msgstr ""
+"Mens på andre siden av atlanteren har BBC nettopp annonsert at de vil bygge opp et \"Kreativt arkiv\" som britiske borgere kan laste ned BCC-innhold fra, og rippe, mikse og brenne det ut.  Og i Brasil har kulturministeren, Gilberto Gil, i seg selv en folkehelt i brasiliansk musikk, slått seg sammen med Creative Commons for å gi ut innhold og frie lisenser i dette latinamerikanske landet.  Jeg har fortalt en mørk historie.  Sannheten mer mer blandet.  En teknologi har gitt oss mer frihet.  Sakte begynner noen å forstå at denne friheten trenger ikke bety anarki.  Vi kan bære med oss fri kultur med oss inn i det tjueførste århundre, uten at artister taper og uten at potensialet for digital teknologi blir knust.  Det vil kreve omtanke, og viktigere, det vil kreve at noen omforme RCAene av i dag til Causbyere."
 
 #.  PAGE BREAK 279
 #. type: Content of: <book><chapter><para>
