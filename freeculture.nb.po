@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 17:37+0300\n"
+"POT-Creation-Date: 2012-07-14 18:23+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -7578,6 +7578,10 @@ msgstr ""
 "kampen for å forsvare grensene for Vedtektene for anne var ikke å avslutte "
 "der, og det er her at donaldson går inn i mix."
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Beckett, Thomas"
+msgstr "Beckett, Thomas"
+
 #.  f12
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
@@ -14847,6 +14851,10 @@ msgstr ""
 "perspektiver er stadig attuned til måtene i hvilke regulering aktiverer bare "
 "de kraftige industriene i dag for å beskytte seg mot konkurrenter i morgen."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Barry, Hank"
+msgstr "Barry, Hank"
+
 #.  PAGE BREAK 198
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -15026,6 +15034,10 @@ msgstr ""
 "som får lide hvis innholdsindustrien retter sine våpen mot dem.  Det får "
 "også du.  Så de av dere som tror loven burde være mindre restriktiv bør "
 "innse at et slikt syn på loven vil koste deg og ditt firma dyrt."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Hummer, John"
+msgstr "Hummer, John"
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -19636,6 +19648,10 @@ msgstr ""
 "systemet vil redusere disse kostnadene ved å etablere minst én registret der "
 "eiere av opphavsretter kan identifiseres."
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Berlin Act (1908)"
+msgstr ""
+
 #.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
@@ -21730,11 +21746,11 @@ msgid ""
 "smart sort himself, and a talented programmer, Stallman grew to depend upon "
 "the freedom to add to or modify other people's work."
 msgstr ""
-"Dette var verden Richard Stallman ble født inn i, og mens han var forsker ved "
-"MIT, lærte han til å elske samfunnet som utviklet seg når en var fri til å "
-"utforske og fikle med programvaren som kjørte på datamaskiner. Av den smarte "
-"sorten selv, og en talentfull programmerer, begynte Stallman å basere seg "
-"frihet til å legge til eller endre på andre personers arbeid."
+"Dette var verden Richard Stallman ble født inn i, og mens han var forsker "
+"ved MIT, lærte han til å elske samfunnet som utviklet seg når en var fri til "
+"å utforske og fikle med programvaren som kjørte på datamaskiner. Av den "
+"smarte sorten selv, og en talentfull programmerer, begynte Stallman å basere "
+"seg frihet til å legge til eller endre på andre personers arbeid."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -24028,11 +24044,11 @@ msgid ""
 "Lynch, who brilliantly managed the army that they assembled, and provided "
 "her own critical eye on much of this."
 msgstr ""
-"Jeg fikk veiledning på ulike steder fra venner og akademikere, "
-"inkludert Glenn Brown, Peter DiCola, Jennifer Mnookin, Richard Posner, "
-"Mark Rose og Kathleen Sullivan. Og jeg fikk korreksjoner og veiledning fra "
-"mange fantastiske studenter ved Stanford Law School og Stanford University. "
-"Det inkluderer Andrew B. Coan, John Eden, James P. Fellers, Christopher "
+"Jeg fikk veiledning på ulike steder fra venner og akademikere, inkludert "
+"Glenn Brown, Peter DiCola, Jennifer Mnookin, Richard Posner, Mark Rose og "
+"Kathleen Sullivan. Og jeg fikk korreksjoner og veiledning fra mange "
+"fantastiske studenter ved Stanford Law School og Stanford University. Det "
+"inkluderer Andrew B. Coan, John Eden, James P. Fellers, Christopher "
 "Guzelian, Erica Goldberg, Robert Hallman, Andrew Harris, Matthew Kahn, Brian-"
 "Link, Ohad Mayblum, Alina Ng og Erica Platt. Jeg er særlig takknemlig "
 "overfor Catherine Crump og Harry Surden, som hjalp til med å styre deres "
@@ -24053,12 +24069,12 @@ msgid ""
 msgstr ""
 "Yuko Noguchi hjalp meg å forstå lovene i japan, så vel som japans kultur. "
 "Jeg er henne takknemlig, og til de mange i Japan som hjalp meg med "
-"forundersøkelsene til denne boken: Joi Ito, Takayuki Matsutani, Naoto Misaki, "
-"Michihiro Sasaki, Hiromichi Tanaka, Hiroo Yamagata og Yoshihiro Yonezawa.  Jeg "
-"er også takknemlig til professor Nobuhiro Nakayama og Tokyo University "
-"Business Law Center, som ga meg muligheten til å bruke tid i Japan, og "
-"Tadashi Shiraishi og Kiyokazu Yamagami for deres generøse hjelp mens jeg var "
-"der."
+"forundersøkelsene til denne boken: Joi Ito, Takayuki Matsutani, Naoto "
+"Misaki, Michihiro Sasaki, Hiromichi Tanaka, Hiroo Yamagata og Yoshihiro "
+"Yonezawa.  Jeg er også takknemlig til professor Nobuhiro Nakayama og Tokyo "
+"University Business Law Center, som ga meg muligheten til å bruke tid i "
+"Japan, og Tadashi Shiraishi og Kiyokazu Yamagami for deres generøse hjelp "
+"mens jeg var der."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
