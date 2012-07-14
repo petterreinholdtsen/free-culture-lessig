@@ -8556,7 +8556,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Nimmer, David"
-msgstr "Nimmer, David""
+msgstr "Nimmer, David"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
