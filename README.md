@@ -1,6 +1,8 @@
 Norwegian translation of Free Culture
 =====================================
 
+The original book version is available from http://free-culture.cc/ .
+
 See
 http://people.skolelinux.org/pere/blog/Dugnad_for___sende_norsk_versjon_av_Free_Culture_til_stortingets_representanter_.html
 for a project description.
