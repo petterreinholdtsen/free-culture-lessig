@@ -653,7 +653,7 @@ msgstr "[Denne] doktrinen har ingen plass i den moderne verden.  Luften er en "
 "fornuft.  Å anerkjenne slike private krav til luftrommet ville blokkere disse "
 "motorveiene, seriøst forstyrre muligheten til kontroll og utvikling av dem i "
 "fellesskapets interesse og overføre til privat eierskap det som kun "
-"fellesskapet har et rimelig krav til<placeholder type=\"footnote\" id=\"0\"/>"
+"fellesskapet har et rimelig krav til.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid "\"Common sense revolts at the idea.\""
@@ -18094,7 +18094,6 @@ msgstr ""
 
 #.  PAGE BREAK 237
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "The mistake was made early, though it became obvious only at the very end. "
 "Our case had been supported from the very beginning by an extraordinary "
@@ -18104,12 +18103,13 @@ msgid ""
 "(something that few law firms today would ever do), and throughout the case, "
 "they gave it everything they could."
 msgstr ""
-"feil ble gjort tidlig, skjønt det ble åpenbart bare på til slutten. vårt "
-"tilfelle hadde vært støttes helt fra begynnelsen av en ekstraordinære "
-"advokat, geoffrey stewart, og ved advokatfirmaet hadde han flyttet til "
-"jones, dag, reavis og pogue. Jones dag tok mye varme fra klientene copyright-"
-"protectionist for å støtte oss. de ignorert dette presset (noe som noen "
-"advokatfirmaer i dag ville gjøre), og i hele saken, de ga det alt de kunne."
+"Feil ble gjort tidlig, skjønt den ble først åpenbart på slutten. Vår "
+"sak hadde støtte hos en ekstraordinær advokat, Geoffrey Stewart, "
+"helt fra starten, og hos advokatfirmaet hadde han flyttet til, "
+"Jones, Day, Reavis og Pogue. Jones Day mottok mye press fra sine "
+"opphavsrettsbeskyttende klienter på grunn av sin støtte til oss.  De "
+"ignorert dette presset (noe veldig få advokatfirmaer noen sinne ville "
+"gjøre), og ga alt de hadde gjennom hele saken."
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Ayer, Don"
