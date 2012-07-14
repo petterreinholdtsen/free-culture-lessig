@@ -24190,7 +24190,6 @@ msgstr ""
 "jeg mistet en haug med stor svar.)"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Richard Stallman and Michael Carroll each read the whole book in draft, and "
 "each provided extremely helpful correction and advice.  Michael helped me to "
@@ -24199,11 +24198,11 @@ msgid ""
 "in part inspired by Stallman's, he does not agree with me in important "
 "places throughout this book."
 msgstr ""
-"Richard Stallman og Michael Carroll har begge lest utkast av hele denne "
-"boken, og hver av dem har bidratt med svært nyttige korreksjoner og råd  "
-"Michael hjalp meg å se mer tydelig betydningen av regulering av avledede "
-"verk. og Richard korrigerte en pinlig stor  mengde feil.  Selv om mitt "
-"arbeid er delvis inspirert av Stallmans, enig han ikke med meg viktige "
+"Richard Stallman og Michael Carroll har begge lest hele boken i utkast, "
+"og hver av dem har bidratt med svært nyttige korreksjoner og råd. "
+"Michael hjalp meg å se mer tydelig betydningen av regulering for avledede "
+"verker . Og Richard korrigerte en pinlig stor mengde feil.  Selv om mitt "
+"arbeid er delvis inspirert av Stallmans, er han ikke enig med meg på vesentlige "
 "steder i denne boken."
 
 #. type: Content of: <book><chapter><para>
