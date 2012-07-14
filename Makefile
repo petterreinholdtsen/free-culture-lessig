@@ -30,7 +30,7 @@ freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
 pdf: freeculture.pdf freeculture.nb.pdf 
-epub: freeculture.epub freeculture.nb.epub 
+epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml
