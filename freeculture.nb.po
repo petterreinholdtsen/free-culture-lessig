@@ -20734,6 +20734,14 @@ msgid ""
 "Journal's Technology Daily, 19 August 2003, available at <ulink url=\"http://"
 "free-culture.cc/notes/\">link #61</ulink>."
 msgstr ""
+"Jonathan Krim, \"The Quiet War over Open-Source,\" Washington Post, august "
+"2003, E1, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#59</ulink>; William New, \"Global Group's Shift on `Open Source' Meeting "
+"Spurs Stir,\" National Journal's Technology Daily, 19. august 2003, tilgjengelig  "
+"fra <ulink url=\"http://free-culture.cc/notes/\">link #60</ulink>; William "
+"New, \"U.S. Official Opposes `Open Source' Talks at WIPO,\" National "
+"Journal's Technology Daily, 19. august 2003, tilgjengelig fra <ulink url=\"http://"
+"free-culture.cc/notes/\">link #61</ulink>."
 
 #.  PAGE BREAK 270
 #. type: Content of: <book><chapter><para>
@@ -20760,7 +20768,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The aim of the meeting was to consider this wide range of projects from one "
 "common perspective: that none of these projects relied upon intellectual "
@@ -20768,18 +20775,18 @@ msgid ""
 "balanced by agreements to keep access open or to impose limitations on the "
 "way in which proprietary claims might be used."
 msgstr ""
-"målet for møtet var å vurdere dette rekke prosjekter fra én felles "
-"perspektiv: at ingen av disse prosjektene som grunnlag for immaterielle "
-"ekstremisme. i stedet i alle av dem, ble immaterielle balansert av avtaler å "
-"holde access åpne, eller for å angi begrensninger for hvordan proprietære "
-"krav kan brukes."
+"Formålet med møtet var å vurdere denne rekken av prosjekter fra et felles "
+"perspektiv: at ingen av disse prosjektene hadde som grunnlag immateriell "
+"ekstremisme. I stedet, hos alle disse, ble immaterielle rettigheter balansert "
+"med avtaler om å holde tilgang åpen, eller for å legge begrensninger på "
+"hvordan proprietære krav kan bli brukt."
 
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "I should disclose that I was one of the people who asked WIPO for the "
 "meeting."
-msgstr "Jeg bør avsløre at jeg var en av folkene som ba WIPO om dette møtet."
+msgstr "Jeg bør nevne at jeg var en av folkene som ba WIPO om dette møtet."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
