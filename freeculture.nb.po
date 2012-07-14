@@ -11903,22 +11903,20 @@ msgstr ""
 "ikke morsomt."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "Consider the life of my Adobe eBook Reader."
-msgstr "vurdere livet av min adobe eBok-leser."
+msgstr "La oss se på livet til min Adobe eBook Reader."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "An e-book is a book delivered in electronic form. An Adobe eBook is not a "
 "book that Adobe has published; Adobe simply produces the software that "
 "publishers use to deliver e-books. It provides the technology, and the "
 "publisher delivers the content by using the technology."
 msgstr ""
-"en e-bok er en bok som er levert i elektronisk form. en adobe-eBok er ikke "
-"en bok som adobe har publisert; Adobe gir ganske enkelt programvaren som "
-"utgivere bruker å levere e-bøker. Det gir teknologien, og utgiveren leverer "
-"innholdet ved hjelp av teknologien."
+"En ebok er en bok levert i elektronisk form.  En Adobe eBook er ikke "
+"en bok som Adobe har publisert.  Adobe produserer kun programvaren som "
+"utgivere bruker å levere e-bøker.  Den bidrar med teknologien, og utgiveren "
+"leverer innholdet ved hjelp av teknologien."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
