@@ -23767,7 +23767,7 @@ msgid ""
 msgstr ""
 "Min kritikk av rollen som advokater har spilt i denne debatten handler imidlertid "
 "ikke bare om en profesjonell skjevhet. Det handler enda viktigere om vår "
-"manglende evne til å faktisk ta med hva loven koster."
+"manglende evne til å faktisk ta inn over oss hva loven koster."
 
 #.  f11.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
