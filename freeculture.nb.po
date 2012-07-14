@@ -21281,12 +21281,11 @@ msgstr ""
 "tradisjonen lenger."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "If we were Achilles, this would be our heel. This would be the place of our "
 "tragedy."
 msgstr ""
-"Hvis vi var achilles, ville dette være våre hæl. Dette ville være stedet for "
+"Hvis vi var Akilles, så ville dette være vår hæl. Dette ville være stedet for "
 "våre tragedie."
 
 #.  f11.
@@ -21354,6 +21353,8 @@ msgid ""
 "\"Creative Commons and Brazil,\" Creative Commons Weblog, 6 August 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #71</ulink>."
 msgstr ""
+"\"Creative Commons and Brazil,\" Creative Commons Weblog, 6. august 2003, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #71</ulink>."
 
 #.  PAGE BREAK 278
 #. type: Content of: <book><chapter><para>
@@ -21374,13 +21375,12 @@ msgstr ""
 
 #.  PAGE BREAK 279
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Common sense must revolt. It must act to free culture. Soon, if this "
 "potential is ever to be realized."
 msgstr ""
-"sunn fornuft må opprør. Det må handle til fri kultur. snart, hvis dette "
-"potensialet er stadig å bli realisert."
+"Sunn fornuft må gjøre opprør. Den må handle for å frigjøre kulturen. Og "
+"snart, hvis dette potensialet skal noen gang bli realisert."
 
 #. type: Content of: <book><chapter><title>
 msgid "AFTERWORD"
