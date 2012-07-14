@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 22:56+0300\n"
+"POT-Creation-Date: 2012-07-14 23:43+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -873,8 +873,8 @@ msgid ""
 "Sarnoff was a superior tactician.  As one author described,"
 msgstr ""
 "Armstrongs oppfinnelse truet RCAs AM-herredømme, så selskapet lanserte en "
-"kampanje for å knuse FM-radio. Mens FM kan ha vært en overlegen teknologi, var "
-"Sarnoff en overlegen taktiker. En forfatter beskrev det slik,"
+"kampanje for å knuse FM-radio. Mens FM kan ha vært en overlegen teknologi, "
+"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik,"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid "Lessing, 226."
@@ -894,8 +894,8 @@ msgstr ""
 "undertrykke denne trusselen til selskapets posisjon.  For FM, hvis den fikk "
 "utvikle seg ubegrenset, utgjorde . . . en komplett endring i maktforholdene "
 "rundt radio . . . og muligens fjerningen av det nøye begrensede AM-systemet "
-"som var grunnlaget for RCA stigning til makt."
-"<placeholder type=\"footnote\" id=\"0\"/>"
+"som var grunnlaget for RCA stigning til makt.<placeholder type=\"footnote\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1000,9 +1000,9 @@ msgid ""
 msgstr ""
 "Dette er hvordan loven fungerer noen ganger. Ikke ofte like tragisk, og "
 "sjelden med heltemodig drama, men noen ganger, er dette slik det fungerer. "
-"fra begynnelsen, har regjeringen og departementer vært utsatt for "
-"fangst. de er mer sannsynlig fanget når en sterk interesse er truet av en "
-"juridisk eller teknisk endring. Denne kraftige interessen har for ofte sin "
+"fra begynnelsen, har regjeringen og departementer vært utsatt for fangst. de "
+"er mer sannsynlig fanget når en sterk interesse er truet av en juridisk "
+"eller teknisk endring. Denne kraftige interessen har for ofte sin "
 "innflytelse i regjeringen å få regjeringen til å beskytte den. retorikken i "
 "denne beskyttelsen er selvfølgelig alltid offentlig energisk; virkeligheten "
 "er noe annet. ideer som var som solid som en stein i en alder, men som, "
@@ -3716,6 +3716,10 @@ msgstr ""
 "journalist simpelthen har ikke en konflikt av interesse, eller konflikt av "
 "interesse er så lett avslørt at du vet du kan liksom få det ut av veien.\""
 
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "CNN"
+msgstr "CNN"
+
 #.  f19
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
@@ -5062,13 +5066,17 @@ msgstr ""
 msgid "Anello, Douglas"
 msgstr "Anello, Douglas"
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Burdick, Quentin"
+msgstr "Burdick, Quentin"
+
 #.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV: Hearing on S. 1006 Before the "
 "Subcommittee on Patents, Trademarks, and Copyrights of the Senate Committee "
-"on the Judiciary, 89th Cong., 2nd sess., 78 (1966) (statement of Rosel H. "
+"on the Judiciary, 89th Cong., 2nd sess., 78 (1966)  (statement of Rosel H. "
 "Hyde, chairman of the Federal Communications Commission)."
 msgstr ""
 "Copyright lov revision--catv: høre s. 1006 før subcommittee on patenter, "
