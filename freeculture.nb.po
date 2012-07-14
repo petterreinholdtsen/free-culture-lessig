@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 18:23+0300\n"
+"POT-Creation-Date: 2012-07-14 19:46+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5995,13 +5995,19 @@ msgid ""
 "on U.S. dollar value of shipments).\""
 msgstr ""
 
-#.  f13
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+msgid "Black, Jane"
+msgstr "Black, Jane"
+
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13 February "
 "2003, available at <ulink url=\"http://free-culture.cc/notes/\">link #17</"
 "ulink>."
 msgstr ""
+"Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13. februar "
+"2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #17</"
+"ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -6015,7 +6021,7 @@ msgid ""
 "account for at least some of the loss. \"From 1999 to 2001, the average "
 "price of a CD rose 7.2 percent, from $13.04 to $14.19.\"<placeholder type="
 "\"footnote\" id=\"1\"/> Competition from other forms of media could also "
-"account for some of the decline.  As Jane Black of BusinessWeek notes, \"The "
+"account for some of the decline. As Jane Black of BusinessWeek notes, \"The "
 "soundtrack to the film High Fidelity has a list price of $18.98. You could "
 "get the whole movie [on DVD] for $19.99.\"<placeholder type=\"footnote\" id="
 "\"2\"/>"
@@ -6392,6 +6398,10 @@ msgstr ""
 "broadcasters' innhold gratis, ville det ha urettferdig subsidierte kabel. "
 "Dermed Kongressen valgte en bane som ville forsikre kompensasjon uten å gi "
 "siste (broadcasters) kontroll over fremtiden (kabel)."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Betamax"
+msgstr "Betamax"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11913,10 +11923,10 @@ msgid ""
 "publishers use to deliver e-books. It provides the technology, and the "
 "publisher delivers the content by using the technology."
 msgstr ""
-"En ebok er en bok levert i elektronisk form.  En Adobe eBook er ikke "
-"en bok som Adobe har publisert.  Adobe produserer kun programvaren som "
-"utgivere bruker å levere e-bøker.  Den bidrar med teknologien, og utgiveren "
-"leverer innholdet ved hjelp av teknologien."
+"En ebok er en bok levert i elektronisk form.  En Adobe eBook er ikke en bok "
+"som Adobe har publisert.  Adobe produserer kun programvaren som utgivere "
+"bruker å levere e-bøker.  Den bidrar med teknologien, og utgiveren leverer "
+"innholdet ved hjelp av teknologien."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -19649,6 +19659,10 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Berlin Act (1908)"
 msgstr ""
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Berne Convention (1908)"
+msgstr "Bern-konvensjonen (1908)"
 
 #.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
