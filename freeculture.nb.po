@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 19:58+0300\n"
+"POT-Creation-Date: 2012-07-14 20:29+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1107,11 +1107,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
 msgid "Brandeis, Louis D."
-msgstr ""
+msgstr "Brandeis, Louis D."
 
 #. type: Content of: <book><chapter><para><footnote>
 msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
-msgstr ""
+msgstr "<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -1297,6 +1297,10 @@ msgstr ""
 "en mye mer dramatisk endring. min frykt er at med mindre vi kommer til å se "
 "denne endringen, krig for å befri verden av Internett \"pirater\" også "
 "kvitte vår kultur med verdier som er integrert til vår tradisjon fra starten."
+
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+msgid "Netanel, Neil Weinstock"
+msgstr "Netanel, Neil Weinstock"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -1718,7 +1722,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "ASCAP"
-msgstr ""
+msgstr "ASCAP"
 
 #.  PAGE BREAK 32
 #. type: Content of: <book><chapter><para>
@@ -1779,6 +1783,11 @@ msgstr ""
 "av publisering ble kommersielt. kommersielle selskaper kunne bære byrden av "
 "loven--selv byrden av den bysantinske kompleksiteten som copyright lov har "
 "blitt. Det var bare en mer utgifter ved å gjøre forretninger."
+
+#. type: Content of: <book><chapter><para><footnote><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Florida, Richard"
+msgstr "Florida, Richard"
 
 #.  f4
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -2691,7 +2700,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Coe, Brian"
-msgstr ""
+msgstr "Coe, Brian"
 
 #.  f2
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -2826,13 +2835,15 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
 msgid "Warren, Samuel D."
-msgstr ""
+msgstr "Warren, Samuel D."
 
-#. type: Content of: <book><chapter><sect1><para><footnote>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/>"
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -3070,7 +3081,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Barish, Stephanie"
-msgstr ""
+msgstr "Barish, Stephanie"
 
 #.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -3105,7 +3116,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "computer games"
-msgstr ""
+msgstr "dataspill"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -5043,7 +5054,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
 msgid "Anello, Douglas"
-msgstr ""
+msgstr "Anello, Douglas"
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -8230,7 +8241,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
 msgid "artists"
-msgstr ""
+msgstr "artister"
 
 #. type: Content of: <book><chapter><sect1><para><footnote><indexterm><secondary>
 msgid "publicity rights on images of"
@@ -8550,8 +8561,8 @@ msgid ""
 "minute of it."
 msgstr ""
 "Videoen var en glimrende sammenstilling av filmer fra hver periode i det "
-"tjuende århundret, rammet inn rundt ideen om en episode i TV-serien "
-"60 Minutes. Utførelsen var perfekt, ned til seksti minutter stoppeklokken. "
+"tjuende århundret, rammet inn rundt ideen om en episode i TV-serien 60 "
+"Minutes. Utførelsen var perfekt, ned til seksti minutter stoppeklokken. "
 "Dommerne elsket enhver minutt av den."
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
@@ -8568,10 +8579,10 @@ msgid ""
 "room?\""
 msgstr ""
 "Da lysene kom på, kikket jeg over til min medpaneldeltager, David Nimmer, "
-"kanskje den ledende opphavsrettakademiker og utøver i nasjonen. Han hadde "
-"en forbauset uttrykk i ansiktet sitt, mens han tittet ut over rommet med "
-"over 250 godt underholdte dommere. Med en en illevarslende tone, begynte han "
-"sin tale med et spørsmål: \"Vet dere hvor mange føderale lover som nettopp brutt "
+"kanskje den ledende opphavsrettakademiker og utøver i nasjonen. Han hadde en "
+"forbauset uttrykk i ansiktet sitt, mens han tittet ut over rommet med over "
+"250 godt underholdte dommere. Med en en illevarslende tone, begynte han sin "
+"tale med et spørsmål: \"Vet dere hvor mange føderale lover som nettopp brutt "
 "i dette rommet?\""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
@@ -12281,7 +12292,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
 msgid "Aibo robotic dog"
-msgstr ""
+msgstr "Aibo robothund"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -13350,7 +13361,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
 msgid "Clark, Kim B."
-msgstr ""
+msgstr "Clark, Kim B."
 
 #.  f33
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -15086,6 +15097,14 @@ msgid ""
 "a discussion with BMW:"
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><sect2><blockquote><indexterm><primary>
+msgid "BMW"
+msgstr "BMW"
+
+#. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><indexterm><primary>
+msgid "Needleman, Rafe"
+msgstr "Needleman, Rafe"
+
 #.  f5.
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 msgid ""
@@ -16154,7 +16173,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
 msgid "Adromeda"
-msgstr ""
+msgstr "Adromeda"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -17582,7 +17601,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Agee, Michael"
-msgstr ""
+msgstr "Agee, Michael"
 
 #.  f11.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -18349,15 +18368,15 @@ msgstr "Arrow, Kenneth"
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Buchanan, James"
-msgstr ""
+msgstr "Buchanan, James"
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Coase, Ronald"
-msgstr ""
+msgstr "Coase, Ronald"
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Friedman, Milton"
-msgstr ""
+msgstr "Friedman, Milton"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -19996,10 +20015,10 @@ msgid ""
 "willing to introduce the Eldred Act. And I had a few who directly suggested "
 "that they might be willing to take the first step."
 msgstr ""
-"Da Steve Forbes støttet ideen, begynte enkelte i Washington å følge "
-"med. Mange kontaktet meg med tips til representanter som kan være "
-"villig til å introdusere en Eldred-lov. og jeg hadde noen få som "
-"foreslo direkte at de kan være villige til å ta det første skrittet."
+"Da Steve Forbes støttet ideen, begynte enkelte i Washington å følge med. "
+"Mange kontaktet meg med tips til representanter som kan være villig til å "
+"introdusere en Eldred-lov. og jeg hadde noen få som foreslo direkte at de "
+"kan være villige til å ta det første skrittet."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -20011,11 +20030,11 @@ msgid ""
 "blog community that something good might happen here."
 msgstr ""
 "En representant, Zoe Lofgren fra California, gikk så langt som å få "
-"lovforslaget utarbeidet. Utkastet løste noen problemer med internasjonal lov. "
-"Det påla de enklest mulige forutsetninger på innehaverne av opphavsretter. "
-"I mai 2003 så det ut som om loven skulle være introdusert.  16. mai, postet jeg "
-"på Eldred Act-bloggen, \"vi er nære\".  Det oppstod en generell reaksjon i "
-"blogg-samfunnet om at noe godt kanne skje her."
+"lovforslaget utarbeidet. Utkastet løste noen problemer med internasjonal "
+"lov. Det påla de enklest mulige forutsetninger på innehaverne av "
+"opphavsretter. I mai 2003 så det ut som om loven skulle være introdusert.  "
+"16. mai, postet jeg på Eldred Act-bloggen, \"vi er nære\".  Det oppstod en "
+"generell reaksjon i blogg-samfunnet om at noe godt kanne skje her."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -21406,7 +21425,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><para><indexterm><primary>
 msgid "Gil, Gilberto"
-msgstr ""
+msgstr "Gil, Gilberto"
 
 #.  f15.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -23532,6 +23551,10 @@ msgstr ""
 "antyder en virkelig svar: i stedet for søker å ødelegge Internett eller p2p-"
 "teknologier som er tiden skade innholdsleverandører på Internett, må vi "
 "finne en relativt enkel måte å kompensere de som er skadet."
+
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+msgid "Fisher, William"
+msgstr "Fisher, William"
 
 #.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
