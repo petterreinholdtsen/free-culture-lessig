@@ -18116,7 +18116,6 @@ msgid "Ayer, Don"
 msgstr "Ayer, Don"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "There were three key lawyers on the case from Jones Day. Geoff Stewart was "
 "the first, but then Dan Bromberg and Don Ayer became quite involved. "
@@ -18126,13 +18125,13 @@ msgid ""
 "harm were being done to free speech and free culture; otherwise, they would "
 "never vote against \"the most powerful media companies in the world.\""
 msgstr ""
-"Det var tre viktige advokater tilfelle fra jones dag. Geoff stewart var "
-"først, men deretter dan bromberg og don ayer ble ganske involvert. Bromberg "
-"og ayer spesielt hadde en felles oppfatning om hvordan dette tilfellet ville "
-"bli vunnet: vi ville bare vinne, de gjentatte ganger fortalte meg, hvis vi "
-"kunne gjøre problemet synes \"viktig\" til Høyesterett. det måtte synes som "
-"om dramatisk skade ble gjort til ytringsfriheten og fri kultur; ellers ville "
-"de aldri stemt mot \"de kraftigste media selskapene i verden.\""
+"Det var tre viktige advokater på saken fra Jones DaY. Geoff Stewart var "
+"den først, men siden ble Dan Bromberg og Don Ayer ganske involvert. Bromberg "
+"og Ayer spesielt hadde en felles oppfatning om hvordan denne saken ville "
+"bli vunnet: vi ville bare vinne, fortalte de gjentatte ganger til meg, hvis vi "
+"få problemet til å virke \"viktig\" for Høyesterett. Det måtte synes som "
+"om dramatisk skade ble gjort til ytringsfriheten og fri kultur, ellers ville "
+"de aldri stemt mot \"de mektigste mediaselskapene i verden\"."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
