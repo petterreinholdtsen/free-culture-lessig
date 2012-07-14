@@ -19990,20 +19990,18 @@ msgstr ""
 "hva tror du?"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "When Steve Forbes endorsed the idea, some in Washington began to pay "
 "attention. Many people contacted me pointing to representatives who might be "
 "willing to introduce the Eldred Act. And I had a few who directly suggested "
 "that they might be willing to take the first step."
 msgstr ""
-"Når steve forbes støttet ideen, enkelte i washington begynte å betale "
-"oppmerksomhet. mange kontaktet meg peker til representanter som kan være "
-"villig til å introdusere eldred act. og jeg hadde noen som direkte foreslo "
-"at de kan være villige til å ta det første skrittet."
+"Da Steve Forbes støttet ideen, begynte enkelte i Washington å følge "
+"med. Mange kontaktet meg med tips til representanter som kan være "
+"villig til å introdusere en Eldred-lov. og jeg hadde noen få som "
+"foreslo direkte at de kan være villige til å ta det første skrittet."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "One representative, Zoe Lofgren of California, went so far as to get the "
 "bill drafted. The draft solved any problem with international law. It "
@@ -20012,12 +20010,12 @@ msgid ""
 "the Eldred Act blog, \"we are close.\" There was a general reaction in the "
 "blog community that something good might happen here."
 msgstr ""
-"en representant, zoe lofgren i california, gikk så langt som å få regningen "
-"utarbeidet. utkastet løst noen problemer med internasjonal lov. det pålagt "
-"enkleste kravet på eiere av opphavsretter mulig. i mai 2003, det så ut som "
-"om regningen ville være innført. 16. mai, jeg postet på eldred act blogg, "
-"\"vi er lukkes\" Det oppstod en generell reaksjon i bloggen samfunnet som "
-"noe godt kan skje her."
+"En representant, Zoe Lofgren fra California, gikk så langt som å få "
+"lovforslaget utarbeidet. Utkastet løste noen problemer med internasjonal lov. "
+"Det påla de enklest mulige forutsetninger på innehaverne av opphavsretter. "
+"I mai 2003 så det ut som om loven skulle være introdusert.  16. mai, postet jeg "
+"på Eldred Act-bloggen, \"vi er nære\".  Det oppstod en generell reaksjon i "
+"blogg-samfunnet om at noe godt kanne skje her."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -20169,9 +20167,8 @@ msgstr ""
 "spørsmål:"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid "What does this industry really want?"
-msgstr "Hva denne industrien virkelig vil?"
+msgstr "Hva ønsker denne industrien egentlig?"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
