@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 19:46+0300\n"
+"POT-Creation-Date: 2012-07-14 19:58+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -6006,8 +6006,8 @@ msgid ""
 "ulink>."
 msgstr ""
 "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13. februar "
-"2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #17</"
-"ulink>."
+"2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#17</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -8543,20 +8543,22 @@ msgstr ""
 "fairbank, hadde produsert."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "The video was a brilliant collage of film from every period in the twentieth "
 "century, all framed around the idea of a 60 Minutes episode.  The execution "
 "was perfect, down to the sixty-minute stopwatch. The judges loved every "
 "minute of it."
 msgstr ""
-"videoen var en glimrende collage av filmen fra hver periode i det tjuende "
-"århundret, alle innrammet rundt ideen om en 60 minutter-episode. utførelsen "
-"var perfekt, ned til seksti minutter stoppeklokken. dommernes elsket enhver "
-"minutt av den."
+"Videoen var en glimrende sammenstilling av filmer fra hver periode i det "
+"tjuende århundret, rammet inn rundt ideen om en episode i TV-serien "
+"60 Minutes. Utførelsen var perfekt, ned til seksti minutter stoppeklokken. "
+"Dommerne elsket enhver minutt av den."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Nimmer, David"
+msgstr "Nimmer, David""
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "When the lights came up, I looked over to my copanelist, David Nimmer, "
 "perhaps the leading copyright scholar and practitioner in the nation. He had "
@@ -8565,12 +8567,16 @@ msgid ""
 "question: \"Do you know how many federal laws were just violated in this "
 "room?\""
 msgstr ""
-"Når lysene kom opp, kikket jeg over til min copanelist, david nimmer, "
-"kanskje den ledende opphavsrett lærd og practitioner i nasjonen. Han hadde "
-"en forbauset se på ansiktet hans, som han kikket ned på tvers av rommet med "
-"over 250 well-entertained dommere. tar en illevarslende tone, han begynte "
-"sin tale med et spørsmål: \"vet du hvor mange føderale lover ble bare brutt "
+"Da lysene kom på, kikket jeg over til min medpaneldeltager, David Nimmer, "
+"kanskje den ledende opphavsrettakademiker og utøver i nasjonen. Han hadde "
+"en forbauset uttrykk i ansiktet sitt, mens han tittet ut over rommet med "
+"over 250 godt underholdte dommere. Med en en illevarslende tone, begynte han "
+"sin tale med et spørsmål: \"Vet dere hvor mange føderale lover som nettopp brutt "
 "i dette rommet?\""
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Boies, David"
+msgstr "Boies, David"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -13008,11 +13014,14 @@ msgstr ""
 "prosent av media."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "These changes are of two sorts: the scope of concentration, and its nature."
 msgstr ""
-"disse endringene er i to former: omfanget av konsentrasjon, og dens natur."
+"Det er her to sorter endringer: omfanget av konsentrasjon, og dens natur."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "BMG"
+msgstr "BMG"
 
 #.  f25
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
