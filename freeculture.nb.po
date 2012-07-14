@@ -21259,7 +21259,7 @@ msgid ""
 msgstr ""
 "Det er derfor betydningsfullt at så mange vil kjempe for å kreve konkurranse "
 "og økt mangfold. Likevel, hvis kampanjen blir forstått til å kun gjelde "
-"storhet, så  er ikke det veldig overraskende. Vi amerikanere har en lang "
+"størrelse, så er ikke det veldig overraskende. Vi amerikanere har en lang "
 "historie med å slåss mot \"stort\", klokt eller ikke. At vi kan være "
 "motivert til å slåss mot \"store\" igjen ikke noe nytt."
 
