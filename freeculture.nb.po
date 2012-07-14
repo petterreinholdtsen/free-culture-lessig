@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 20:29+0300\n"
+"POT-Creation-Date: 2012-07-14 22:48+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -400,6 +400,10 @@ msgstr ""
 "vil historien jeg forteller her gi deg problemer.  For endringene jeg "
 "beskriver påvirker verdier som begge sider av vår politiske kultur anser som "
 "grunnleggende."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "CodePink Women in Peace"
+msgstr ""
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1109,7 +1113,7 @@ msgstr ""
 msgid "Brandeis, Louis D."
 msgstr "Brandeis, Louis D."
 
-#. type: Content of: <book><chapter><para><footnote>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote>
 msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr "<placeholder type=\"indexterm\" id=\"0\"/>"
 
@@ -8151,6 +8155,11 @@ msgstr "Kapittel åtte: transformatorer"
 msgid "Allen, Paul"
 msgstr "Allen, Paul"
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Alben, Alex"
+msgstr "Alben, Alex"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10008,6 +10017,10 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><figure>
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1361.png\"></graphic>"
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "Commons, John R."
+msgstr "Commons, John R."
 
 #.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -19973,8 +19986,8 @@ msgid ""
 msgstr ""
 "Noen bekymrer seg over byrden på forfattere. Gjør ikke byrden med å "
 "registrere verket at beløpet $1 egentlig er misvisende?  Er ikke "
-"ekstraarbeidet verdt mer enn $1? Er ikke dette det virkelige problemet "
-"med registrering?"
+"ekstraarbeidet verdt mer enn $1? Er ikke dette det virkelige problemet med "
+"registrering?"
 
 #.  PAGE BREAK 260
 #. type: Content of: <book><chapter><sect1><para>
@@ -19995,18 +20008,18 @@ msgid ""
 "think?"
 msgstr ""
 "Det stemmer.  Ekstraarbeidet er forferdelig. Systemet som finnes nå er "
-"grufult. Jeg helt enig at opphavsrettkontoret har gjort en dårlig "
-"jobb (ingen tvil fordi de er dårlig finansiert) med å få på plass enkel og billig "
-"registrering. Alle fornuftige løsning på problemet med formaliteter må adressen "
-"den virkelige problemet av regjeringer stående i kjernen av et system av "
-"formaliteter. i denne boken tilby jeg en slik løsning. Denne løsningen "
-"remakes hovedsak copyright kontoret. for nå, kan du anta at det var amazon "
-"som kjørte registreringssystemet. anta det var ett klikk registrering. "
-"eldred act ville foreslå en enkel, ett klikk registrering femti år etter et "
-"arbeid ble offentliggjort. basert på historiske data, at systemet ville "
-"flytte opptil 98 prosent av kommersielle arbeid, kommersielle fungerer som "
-"ikke lenger hadde en kommersiell levetid, i public domain innen femti år. "
-"hva tror du?"
+"grufult. Jeg helt enig at opphavsrettkontoret har gjort en dårlig jobb "
+"(ingen tvil fordi de er dårlig finansiert) med å få på plass enkel og billig "
+"registrering. Alle fornuftige løsning på problemet med formaliteter må "
+"adressen den virkelige problemet av regjeringer stående i kjernen av et "
+"system av formaliteter. i denne boken tilby jeg en slik løsning. Denne "
+"løsningen remakes hovedsak copyright kontoret. for nå, kan du anta at det "
+"var amazon som kjørte registreringssystemet. anta det var ett klikk "
+"registrering. eldred act ville foreslå en enkel, ett klikk registrering "
+"femti år etter et arbeid ble offentliggjort. basert på historiske data, at "
+"systemet ville flytte opptil 98 prosent av kommersielle arbeid, kommersielle "
+"fungerer som ikke lenger hadde en kommersiell levetid, i public domain innen "
+"femti år. hva tror du?"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -20540,11 +20553,11 @@ msgid ""
 msgstr ""
 "I stedet var argumentet til fordel for restriksjoner på denne flyten av "
 "informasjon, som var nødvendig for å redde millioner av liv, et argument om "
-"eiendoms ukrenkelighet.<placeholder type=\"footnote\" id=\"0\"/>  Det var "
-"på grunn av at \"intellektuell eiendom\" ville bli krenket at disse "
-"medisinene ikke skulle flomme inn til Afrika.  Det var prinsippet om "
-"viktigheten av \"intellektuell eiendom\" som fikk disse myndighetsaktørene "
-"til å intervenere mot Sør-Afrikas mottiltak mot AIDS."
+"eiendoms ukrenkelighet.<placeholder type=\"footnote\" id=\"0\"/>  Det var på "
+"grunn av at \"intellektuell eiendom\" ville bli krenket at disse medisinene "
+"ikke skulle flomme inn til Afrika.  Det var prinsippet om viktigheten av "
+"\"intellektuell eiendom\" som fikk disse myndighetsaktørene til å "
+"intervenere mot Sør-Afrikas mottiltak mot AIDS."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -20737,11 +20750,11 @@ msgstr ""
 "Jonathan Krim, \"The Quiet War over Open-Source,\" Washington Post, august "
 "2003, E1, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
 "#59</ulink>; William New, \"Global Group's Shift on `Open Source' Meeting "
-"Spurs Stir,\" National Journal's Technology Daily, 19. august 2003, tilgjengelig  "
-"fra <ulink url=\"http://free-culture.cc/notes/\">link #60</ulink>; William "
-"New, \"U.S. Official Opposes `Open Source' Talks at WIPO,\" National "
-"Journal's Technology Daily, 19. august 2003, tilgjengelig fra <ulink url=\"http://"
-"free-culture.cc/notes/\">link #61</ulink>."
+"Spurs Stir,\" National Journal's Technology Daily, 19. august 2003, "
+"tilgjengelig  fra <ulink url=\"http://free-culture.cc/notes/\">link #60</"
+"ulink>; William New, \"U.S. Official Opposes `Open Source' Talks at WIPO,\" "
+"National Journal's Technology Daily, 19. august 2003, tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #61</ulink>."
 
 #.  PAGE BREAK 270
 #. type: Content of: <book><chapter><para>
@@ -20777,9 +20790,9 @@ msgid ""
 msgstr ""
 "Formålet med møtet var å vurdere denne rekken av prosjekter fra et felles "
 "perspektiv: at ingen av disse prosjektene hadde som grunnlag immateriell "
-"ekstremisme. I stedet, hos alle disse, ble immaterielle rettigheter balansert "
-"med avtaler om å holde tilgang åpen, eller for å legge begrensninger på "
-"hvordan proprietære krav kan bli brukt."
+"ekstremisme. I stedet, hos alle disse, ble immaterielle rettigheter "
+"balansert med avtaler om å holde tilgang åpen, eller for å legge "
+"begrensninger på hvordan proprietære krav kan bli brukt."
 
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -20870,10 +20883,10 @@ msgstr ""
 "blant lobbyister. Dette prosjektet er \"åpen kildekode og fri programvare\". "
 "Microsoft spesielt er skeptisk til diskusjon om emnet. Fra deres perspektiv, "
 "ville en konferanse for å diskutere åpen kildekode og fri programvare være "
-"som en konferanse for å diskutere Apples operativsystem.  Både åpen kildekode "
-"og fri programvare konkurrerer med Microsofts programvare.  Og internasjonalt "
-"har mange myndigheter begynt å utforske krav om at de skal bruke "
-"åpen kildekode eller fri programvare, i stedet for \"proprietær "
+"som en konferanse for å diskutere Apples operativsystem.  Både åpen "
+"kildekode og fri programvare konkurrerer med Microsofts programvare.  Og "
+"internasjonalt har mange myndigheter begynt å utforske krav om at de skal "
+"bruke åpen kildekode eller fri programvare, i stedet for \"proprietær "
 "programvare,\" til sine egne interne behov."
 
 #.  f8.
@@ -23084,6 +23097,11 @@ msgstr ""
 "rettigheter--snu en bok i en film eller et dikt i en musikalsk poengsum--det "
 "ikke fornuftig å kreve forhandling for den unforeseeable. her, ville en "
 "lovfestet rett gjøre mye mer fornuftig."
+
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Goldstein, Paul"
+msgstr "Goldstein, Paul"
 
 #.  f7.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
