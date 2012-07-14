@@ -19589,7 +19589,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Forbes, Steve"
-=msgstr "Forbes, Steve"
+msgstr "Forbes, Steve"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
