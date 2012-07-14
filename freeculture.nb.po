@@ -20843,20 +20843,18 @@ msgstr ""
 "immaterielle hadde gått tapt."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "So whether or not WSIS can discuss balance in intellectual property, I had "
 "thought it was taken for granted that WIPO could and should. And thus the "
 "meeting about \"open and collaborative projects to create public goods\" "
 "seemed perfectly appropriate within the WIPO agenda."
 msgstr ""
-"så om wsis kan diskutere saldoen i intellektuell eiendom, hadde jeg trodde "
-"det var tatt for gitt at wipo kan og bør. og dermed møtet om \"åpent og nært "
-"prosjekter til å opprette offentlige varer\" virket perfekt passende innen "
-"wipo-agendaen."
+"Så uansett om WSIS can diskustere balanse i intellektuell eiendom eller "
+"ikke, så hadde jeg trodd det var tatt for gitt at WIPO kunne og burde.  Og "
+"dermed møtet om \"åpne og samarbeidende prosjekter for å skape fellesgoder\" "
+"virker å passe perfekt for WIPOs agenda."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But there is one project within that list that is highly controversial, at "
 "least among lobbyists. That project is \"open source and free software.\" "
@@ -20868,15 +20866,15 @@ msgid ""
 "free software, rather than \"proprietary software,\" for their own internal "
 "uses."
 msgstr ""
-"men det er ett prosjekt i listen som er svært kontroversielt, minst blant "
-"lobbyister. Dette prosjektet er \"åpen kildekode og gratis programvare.\" "
-"microsoft spesielt er skeptisk til diskusjon om emnet. fra sin perspektiv, "
+"Men det er ett prosjekt i listen som er svært kontroversielt, i hvert fall "
+"blant lobbyister. Dette prosjektet er \"åpen kildekode og fri programvare\". "
+"Microsoft spesielt er skeptisk til diskusjon om emnet. Fra deres perspektiv, "
 "ville en konferanse for å diskutere åpen kildekode og fri programvare være "
-"som en konferanse for å diskutere Apples operativsystem. både åpen kildekode "
-"og fri programvare kan du konkurrere med Microsofts programvare. og "
-"internasjonalt, mange regjeringer har begynt å utforske krav at de bruker "
-"åpen kildekode eller gratis programvare, snarere enn \"proprietær "
-"programvare,\" for sine egne interne bruk."
+"som en konferanse for å diskutere Apples operativsystem.  Både åpen kildekode "
+"og fri programvare konkurrerer med Microsofts programvare.  Og internasjonalt "
+"har mange myndigheter begynt å utforske krav om at de skal bruke "
+"åpen kildekode eller fri programvare, i stedet for \"proprietær "
+"programvare,\" til sine egne interne behov."
 
 #.  f8.
 #. type: Content of: <book><chapter><para><footnote><para>
