@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-14 22:48+0300\n"
+"POT-Creation-Date: 2012-07-14 22:56+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -10126,12 +10126,12 @@ msgid ""
 "There is balance between law, norms, market, and architecture. The law "
 "limits the ability to copy and share content, by imposing penalties on those "
 "who copy and share content. Those penalties are reinforced by technologies "
-"that make it hard to copy and share content (architecture)  and expensive to "
+"that make it hard to copy and share content (architecture) and expensive to "
 "copy and share content (market). Finally, those penalties are mitigated by "
 "norms we all recognize&mdash;kids, for example, taping other kids' records. "
 "These uses of copyrighted material may well be infringement, but the norms "
-"of our society (before the Internet, at least)  had no problem with this "
-"form of infringement."
+"of our society (before the Internet, at least) had no problem with this form "
+"of infringement."
 msgstr ""
 "Det er balansen mellom lov, normer, markedet og arkitektur. loven begrenser "
 "muligheten til å kopiere og dele innhold, ved å angi strafferammer for de "
@@ -10721,7 +10721,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, fuzzy
 msgid ""
 "While there were many works created in the United States in the first ten "
 "years of the Republic, only 5 percent of the works were actually registered "
@@ -10734,9 +10733,9 @@ msgstr ""
 "Selv om det ble skapt mange verker i USA i de første 10 årene til "
 "republikken, så ble kun 5 prosent av verkene registrert under det føderale "
 "opphavsrettsregimet.  Av alle verker skapt i USA både før 1790 og fra 1790 "
-"fram til 1800, så ble 95 prosent øyeblikkelig sluppet i det fri (public "
-"domain).  Resten ble fritt tilgjengelig i løpet av maksimalt 20 år, og mest "
-"sansynlig i løpet av 14 år.<placeholder type=\"footnote\" id=\"0\"/>"
+"fram til 1800, så ble 95 prosent øyeblikkelig allemannseie (public domain). "
+"Resten ble allemannseie etter maksimalt 20 år, og som oftest etter 14 år."
+"<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 145
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11866,16 +11865,14 @@ msgstr ""
 
 #.  f19
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See David Lange, \"Recognizing the Public Domain,\" Law and Contemporary "
 "Problems 44 (1981): 172&ndash;73."
 msgstr ""
-"se david lange, \"erkjenner allemannseie,\" lov og moderne problemer 44 "
-"(1981): 172­73."
+"Se David Lange, \"Recognizing the Public Domain,\" Law and Contemporary "
+"Problems 44 (1981): 172&ndash;73."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, fuzzy
 msgid ""
 "There's a famous story about a battle between the Marx Brothers and Warner "
 "Brothers. The Marxes intended to make a parody of Casablanca. Warner "
@@ -11886,7 +11883,7 @@ msgstr ""
 "Det er en berømt historie om en kamp mellom Marx-brødrene (the Marx "
 "Brothers) og Warner Brothers.  Marx-brødrene planla å lage en parodi av "
 "Casablanca. Warner Brothers protesterte.  De skrev et ufint brev til Marx-"
-"brødrene og advarte dem om at det ville bli seriøse juridiske konsekvenser "
+"brødrene og advarte dem om at det ville få seriøse juridiske konsekvenser "
 "hvis de gikk videre med sin plan.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  f20
@@ -11895,7 +11892,6 @@ msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
 msgstr "Ibid. Se også Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, fuzzy
 msgid ""
 "This led the Marx Brothers to respond in kind. They warned Warner Brothers "
 "that the Marx Brothers \"were brothers long before you were.\"<placeholder "
@@ -11904,23 +11900,22 @@ msgid ""
 "then the Marx Brothers would insist on control over brothers."
 msgstr ""
 "Dette fikk Marx-brødrene til å svare tilbake med samme mynt.  De advarte "
-"Warner Brothers om at Marx-brødrene \"var brødre lenge før dere var det."
-"\"<placeholder type=\"footnote\" id=\"0\"/> Marx-brødrene eide derfor ordet "
+"Warner Brothers om at Marx-brødrene \"var brødre lenge før dere var det\"."
+"<placeholder type=\"footnote\" id=\"0\"/> Marx-brødrene eide derfor ordet "
 "Brothers, og hvis Warner Brothers insisterte på å forsøke å kontrollere "
 "Casablanca, så ville Marx-brødrene insistere på kontroll over Brothers."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, fuzzy
 msgid ""
 "An absurd and hollow threat, of course, because Warner Brothers, like the "
 "Marx Brothers, knew that no court would ever enforce such a silly claim. "
 "This extremism was irrelevant to the real freedoms anyone (including Warner "
 "Brothers) enjoyed."
 msgstr ""
-"En absurd og hul trussel, selvfølgelig, fordi Warner Brothers, på samme måte "
-"som Marx-brødrene, visste at ingen domstol noensinne ville håndheve et slikt "
-"dumt krav. Denne ekstremismen var irrelevant for de ekte friheter som alle "
-"(inkludert Warner Brothers) nøt godt av."
+"Det var en absurd og hul trussel, selvfølgelig, fordi Warner Brothers, på "
+"samme måte som Marx-brødrene, visste at ingen domstol noensinne ville "
+"håndheve et slikt dumt krav. Denne ekstremismen var irrelevant for de ekte "
+"friheter som alle (inkludert Warner Brothers) nøt godt av."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
