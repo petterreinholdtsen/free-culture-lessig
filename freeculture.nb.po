@@ -21723,7 +21723,6 @@ msgid "Stallman, Richard"
 msgstr "Stallman, Richard"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "That was the world Richard Stallman was born into, and while he was a "
 "researcher at MIT, he grew to love the community that developed when one was "
@@ -21731,11 +21730,11 @@ msgid ""
 "smart sort himself, and a talented programmer, Stallman grew to depend upon "
 "the freedom to add to or modify other people's work."
 msgstr ""
-"Det var richard stallman ble født inn i verden, og mens han var forsker ved "
-"mit, han vokste til å elske samfunnet som utviklet når en var fri til å "
-"utforske og tinker med programvaren som kjørte på maskiner. å være en smart "
-"sortering selv, og en talentfull programmerer, vokste stallman avhengige av "
-"frihet til å legge til eller endre andre personers arbeid."
+"Dette var verden Richard Stallman ble født inn i, og mens han var forsker ved "
+"MIT, lærte han til å elske samfunnet som utviklet seg når en var fri til å "
+"utforske og fikle med programvaren som kjørte på datamaskiner. Av den smarte "
+"sorten selv, og en talentfull programmerer, begynte Stallman å basere seg "
+"frihet til å legge til eller endre på andre personers arbeid."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
