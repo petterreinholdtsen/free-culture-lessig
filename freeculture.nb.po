@@ -540,7 +540,7 @@ msgstr ""
 "17. desember 1903, på en vindfylt strand i Nord carolina i såvidt under "
 "hundre sekunder, demonstrerte Wright-brødrene at et selvdrevet fartøy tyngre "
 "enn luft kunne fly.  Øyeblikket var elektrisk, og dens betydning ble alment "
-"forstått Nesten umiddelbart, eksploderte interssen for denne nye teknologien "
+"forstått. Nesten umiddelbart, eksploderte interssen for denne nye teknologien "
 "som muliggjorde bemannet luftfart og en hærskare av oppfinnere begynte å "
 "bygge videre på den."
 
