@@ -23962,7 +23962,6 @@ msgstr ""
 "jeg elsker å leve opp til."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet much of this book has been a criticism of lawyers, or the role lawyers "
 "have played in this debate. The law speaks to ideals, but it is my view that "
@@ -23970,11 +23969,12 @@ msgid ""
 "the rich clients have one strong view, the unwillingness of the profession "
 "to question or counter that one strong view queers the law."
 msgstr ""
-"likevel mye av denne boken har vært en kritikk av advokater, eller rolle "
-"advokater har spilt i denne debatten. loven taler til idealer, men det er "
-"min oppfatning at vårt yrke bli for attuned til klienten. og i en verden der "
-"rike klientene har en sterk visning, yrke å spørsmålet eller telleren uvilje "
-"mot en sterk visningen queers loven."
+"Likevel har mye av denne boken vært kritikk av advokater, eller "
+"rollen advokater har spilt i denne debatten.  Loven taler om idealer, "
+"mens det er min oppfatning av vår yrkesgruppe er blitt for knyttet til "
+klienten.  Og i en verden der rike klienter har sterke synspunkter vil "
+"uviljen hos vår yrkesgruppe til å stille spørsmål med eller protestere "
+"mot dette sterke synet ødelegge loven."
 
 #.  f10.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
