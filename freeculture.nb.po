@@ -14603,7 +14603,7 @@ msgid ""
 "applied to democracy, it will enable a broad range of citizens to use "
 "technology to express and criticize and contribute to the culture all around."
 msgstr ""
-"Denne digitale \"fange og deling\" er delvis en utvidelse for å registrere "
+"Denne digitale \"fange inn og dele\" er delvis en utvidelse for å registrere "
 "og dele det har alltid vært del av vår kultur, og delvis det er noe nytt. "
 "den er kontinuerlig med kodak, men den eksploderer grensene for kodak-"
 "lignende teknologier. teknologi for digital \"fange og deling av\" løfter en "
@@ -14614,7 +14614,6 @@ msgstr ""
 
 #.  PAGE BREAK 194
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Technology has thus given us an opportunity to do something with culture "
 "that has only ever been possible for individuals in small groups, isolated "
@@ -14622,10 +14621,11 @@ msgid ""
 "neighbors in a small town. Now imagine that same storytelling extended "
 "across the globe."
 msgstr ""
-"teknologien har dermed gitt oss en mulighet til å gjøre noe med kultur som "
-"bare har vært mulig for enkeltpersoner i små grupper, isolert fra andre. "
-"Tenk på en gammel mann forteller en historie til en samling med naboer i en "
-"liten by. Nå forestille det samme fortellinger utvidet over hele verden."
+"Teknologien har dermed gitt oss en mulighet til å gjøre noe med kultur som "
+"bare har vært mulig for enkeltpersoner i små grupper, isolert fra andre "
+"grupper. Forestill deg en gammel mann som forteller en historie til en "
+"samling med naboer i en liten landsby.  Forestill deg så den samme "
+"historiefortellingen utvidet til å nå over hele verden."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
