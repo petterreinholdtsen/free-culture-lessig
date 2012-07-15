@@ -24023,7 +24023,7 @@ msgstr ""
 "egentlig fungerer, at transaksjonskostnaden i det juridiske systemet er "
 "lav.<placeholder type=\"footnote\" id=\"0\"/>  De ser et system som har "
 "eksistert i hundrevis av år, og de antar at det fungerer slik grunnskolens "
-"samfunnsfagsundervisning lærte dem at det fungerer.
+"samfunnsfagsundervisning lærte dem at det fungerer."
 
 #.  PAGE BREAK 310
 #. type: Content of: <book><chapter><sect1><sect2><para>
