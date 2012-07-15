@@ -24010,15 +24010,14 @@ msgstr ""
 "radikalt mer rettferdig."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "But until that reform is complete, we as a society should keep the law away "
 "from areas that we know it will only harm. And that is precisely what the "
 "law will too often do if too much of our culture is left to its review."
 msgstr ""
-"men til at reform er fullført, bør vi som et samfunn følger loven fra "
-"områder som vi vet det vil bare skade. og det er nettopp hva loven vil "
-"altfor ofte gjøre hvis for mye av vår kultur er igjen til gjennomgangen."
+"Men inntil slik reform er gjennomført, bør vi som samfunn holde loven unna "
+"områder der vi vet den bare vil skade.  Og det er nettopp det loven "
+"altfor ofte vil gjøre hvis for mye av vår kultur er lovregulert."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -24041,7 +24040,6 @@ msgstr ""
 
 #.  PAGE BREAK 311
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "The law should regulate in certain areas of culture&mdash;but it should "
 "regulate culture only where that regulation does good. Yet lawyers rarely "
@@ -24049,11 +24047,11 @@ msgid ""
 "question: \"Will it do good?\" When challenged about the expanding reach of "
 "the law, the lawyer answers, \"Why not?\""
 msgstr ""
-"loven skal regulere i visse områder av kultur-- men det skal regulere kultur "
-"bare der den reguleringen gjør bra. men advokater sjelden teste deres makt, "
-"eller kraften som de fremme, mot dette enkle pragmatisk spørsmålet: \"vil "
-"det gjøre gode?\" når utfordret om det utvider nå av loven, advokat-svar, "
-"\"Hvorfor ikke?\""
+"Loven bør regulere i visse områder av kulturen&mdash;men det bør regulere "
+"kultur bare der reguleringen bidrar positivt. Likevel tester advokater "
+"sjeldent sin kraft, eller kraften som de fremmer, mot dette enkle "
+"pragmatisk spørsmålet: \"vil det bidra positivt?\".  Når de blir utfordret om "
+"det utvidede rekkevidden til loven, er advokat-svaret, \"Hvorfor ikke?\""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -24061,8 +24059,8 @@ msgid ""
 "Show me how it does good. And until you can show me both, keep your lawyers "
 "away."
 msgstr ""
-"Vi burde spørre: \"Hvorfor?\" Vis meg hvorfor din regulering av kultur er "
-"nødvendig og vis meg hvordan reguleringen fungerer bra.  Før du kan vise meg "
+"Vi burde spørre: \"Hvorfor?\". Vis meg hvorfor din regulering av kultur er "
+"nødvendig og vis meg hvordan reguleringen bidrar positivt.  Før du kan vise meg "
 "begge, holde advokatene din unna."
 
 #. type: Content of: <book><chapter><title>
