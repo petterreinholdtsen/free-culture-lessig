@@ -326,7 +326,7 @@ msgstr ""
 "foreslo i sin anmeldelse den lykkelig tanken at hvis livet i cyberspace "
 "gikk dårlig, så kan vi alltid som med en trylleformel slå over en bryter "
 "og komme hjem igjen. Slå av modemet, koble fra datamaskinen, og "
-;"eventuelle problemer som finnes der ville ikke \"påvirke\" oss mer."
+"eventuelle problemer som finnes der ville ikke \"påvirke\" oss mer."
 
 #.  PAGE BREAK 12
 #. type: Content of: <book><chapter><para>
