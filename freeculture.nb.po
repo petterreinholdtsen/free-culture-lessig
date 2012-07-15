@@ -23972,7 +23972,7 @@ msgstr ""
 "Likevel har mye av denne boken vært kritikk av advokater, eller "
 "rollen advokater har spilt i denne debatten.  Loven taler om idealer, "
 "mens det er min oppfatning av vår yrkesgruppe er blitt for knyttet til "
-klienten.  Og i en verden der rike klienter har sterke synspunkter vil "
+"klienten.  Og i en verden der rike klienter har sterke synspunkter vil "
 "uviljen hos vår yrkesgruppe til å stille spørsmål med eller protestere "
 "mot dette sterke synet ødelegge loven."
 
