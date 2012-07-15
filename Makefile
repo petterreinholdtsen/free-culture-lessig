@@ -5,7 +5,11 @@
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 
 # PDF rule
+# Valid book options are a4paper, a5paper, b5paper, letterpaper,
+# legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
+# titlepage, openany, draft, fleqn, leqno
 DBLATEX = dblatex \
+	-P latex.class.options=a4paper,twocolumn \
 	-T db2latex \
 	--backend=xetex \
 	--xsl-user=data/user_param.xsl \
