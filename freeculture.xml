@@ -5993,6 +5993,9 @@ be; my claim is not about comprehensiveness), these four are among the
 most significant, and any regulator (whether controlling or freeing)
 must consider how these four in particular interact.
 </para>
+<indexterm id="idxdrivespeed" class='startofrange'>
+  <primary>driving speed, constraints on</primary>
+</indexterm>
 <para>
 So, for example, consider the "freedom" to drive a car at a high
 speed. That freedom is in part restricted by laws: speed limits that
@@ -6033,6 +6036,8 @@ strict&mdash;a federal requirement that states decrease the speed
 limit, for example&mdash;so as to decrease the attractiveness of fast
 driving.
 </para>
+<indexterm startref="idxdrivespeed" class='endofrange'/>
+
 <figure id="fig-1361">
 <title>Law has a special role in affecting the three.</title>
 <graphic fileref="images/1361.png"></graphic>
