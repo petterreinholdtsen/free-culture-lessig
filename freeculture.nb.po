@@ -446,7 +446,7 @@ msgstr ""
 "konsentrasjonen av makt&mdash;politisk, selskapsmessig, pressemessig, "
 "kulturelt&mdash;bør være bannlyst av konservative.  Spredningen av "
 "makt gjennom lokal kontroll, og derigjennom oppmuntre til individuell "
-"deltagelse, er essensien i føderalismen og det største utrykk for "
+"deltagelse, er essensien i føderalismen og det største uttrykk for "
 "demokrati.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
