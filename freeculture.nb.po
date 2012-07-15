@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-15 11:09+0300\n"
+"POT-Creation-Date: 2012-07-15 14:31+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2639,6 +2639,10 @@ msgstr ""
 msgid "CHAPTER TWO: \"Mere Copyists\""
 msgstr "Kapittel to: \"kun copyists\""
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Daguerre, Louis"
+msgstr "Daguerre, Louis"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3093,8 +3097,16 @@ msgstr ""
 "man har opprettet."
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Crichton, Michael"
+msgstr "Crichton, Michael"
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Barish, Stephanie"
 msgstr "Barish, Stephanie"
+
+#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+msgid "Daley, Elizabeth"
+msgstr "Daley, Elizabeth"
 
 #.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -10668,6 +10680,10 @@ msgstr "La meg forklare hvordan."
 #. type: Content of: <book><chapter><sect1><sect2><title>
 msgid "Law: Duration"
 msgstr "Loven: Varighet"
+
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+msgid "Crosskey, William W."
+msgstr "Crosskey, William W."
 
 #.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -20655,9 +20671,9 @@ msgid ""
 "corruption the drug companies are certainly not responsible for."
 msgstr ""
 "Noen skylder på farmasiselskapene.  Det gjør ikke jeg.  De er selskaper, og "
-"deres ledere er lovpålagt å tjene penger for selskapene.  De presser "
-"på for en bestemt patentpolitikk, ikke på grunn av idealer, men fordi det er "
-"dette som gjør at de tjener mest penger.  Og dette gjør kun at de tjener mest "
+"deres ledere er lovpålagt å tjene penger for selskapene.  De presser på for "
+"en bestemt patentpolitikk, ikke på grunn av idealer, men fordi det er dette "
+"som gjør at de tjener mest penger.  Og dette gjør kun at de tjener mest "
 "penger på grunn av en slags korrupsjon i vårt politiske system&mdash; en "
 "korrupsjon som farmasiselskapene helt klart ikke er ansvarlige for."
 
@@ -20693,14 +20709,14 @@ msgid ""
 "die. And that rational strategy thus becomes framed in terms of this "
 "ideal&mdash;the sanctity of an idea called \"intellectual property.\""
 msgstr ""
-"Et annet problem, derimot, er ikke like enkelt å løse. Det er frykten for "
-"at en rikspolitiker som kaller inn presidentene for medisinprodusentene til "
-"høring i senatet eller overhuset og spør, \"hvordan har det seg at du kan selge "
-"HIV-medisinen i Afrika for bare $1 pr. pille, mens samme pille vil koste en "
-"amerikansker $1500?\" fordi det er ingen \"lyd bite\" svar på det spørsmålet, "
-"effekten ville være å indusere regulering av priser i Amerika. stoffet "
-"selskaper dermed unngå denne spiral ved å unngå det første trinnet. de "
-"forsterke ideen om at egenskapen skal være hellig. de vedta en rasjonell "
+"Et annet problem, derimot, er ikke like enkelt å løse. Det er frykten for at "
+"en rikspolitiker som kaller inn presidentene for medisinprodusentene til "
+"høring i senatet eller overhuset og spør, \"hvordan har det seg at du kan "
+"selge HIV-medisinen i Afrika for bare $1 pr. pille, mens samme pille vil "
+"koste en amerikansker $1500?\" fordi det er ingen \"lyd bite\" svar på det "
+"spørsmålet, effekten ville være å indusere regulering av priser i Amerika. "
+"stoffet selskaper dermed unngå denne spiral ved å unngå det første trinnet. "
+"de forsterke ideen om at egenskapen skal være hellig. de vedta en rasjonell "
 "strategi i en irrasjonell kontekst, med de utilsiktede konsekvensene som "
 "kanskje millioner dø. og at rasjonell strategi dermed ramme når det gjelder "
 "dette ideelle&mdash;sanctity av en idé som kalles \"immaterielle.\""
@@ -20928,10 +20944,10 @@ msgid ""
 "meeting about \"open and collaborative projects to create public goods\" "
 "seemed perfectly appropriate within the WIPO agenda."
 msgstr ""
-"Så uansett om WSIS kan diskutere balanse i intellektuell eiendom eller "
-"ikke, så hadde jeg trodd det var tatt for gitt at WIPO kunne og burde.  Og "
-"dermed møtet om \"åpne og samarbeidende prosjekter for å skape fellesgoder\" "
-"virker å passe perfekt for WIPOs agenda."
+"Så uansett om WSIS kan diskutere balanse i intellektuell eiendom eller ikke, "
+"så hadde jeg trodd det var tatt for gitt at WIPO kunne og burde.  Og dermed "
+"møtet om \"åpne og samarbeidende prosjekter for å skape fellesgoder\" virker "
+"å passe perfekt for WIPOs agenda."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21503,6 +21519,14 @@ msgstr ""
 "Universiteter truer med å utvise ungdommer som bruker en datamaskin for å "
 "dele innhold."
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Gil, Gilberto"
+msgstr "Gil, Gilberto"
+
 #.  f14.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -21513,10 +21537,6 @@ msgstr ""
 "\"BBC Plans to Open Up Its Archive to the Public,\" pressemelding fra BBC, "
 "24. august 2003, tilgjengelig  fra <ulink url=\"http://free-culture.cc/notes/"
 "\">link #70</ulink>."
-
-#. type: Content of: <book><chapter><para><indexterm><primary>
-msgid "Gil, Gilberto"
-msgstr "Gil, Gilberto"
 
 #.  f15.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -21534,30 +21554,28 @@ msgid ""
 "Yet on the other side of the Atlantic, the BBC has just announced that it "
 "will build a \"Creative Archive,\" from which British citizens can download "
 "BBC content, and rip, mix, and burn it.<placeholder type=\"footnote\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> And in Brazil, the "
-"culture minister, Gilberto Gil, himself a folk hero of Brazilian music, has "
-"joined with Creative Commons to release content and free licenses in that "
-"Latin American country.<placeholder type=\"footnote\" id=\"2\"/> I've told a "
-"dark story. The truth is more mixed. A technology has given us a new "
-"freedom. Slowly, some begin to understand that this freedom need not mean "
-"anarchy. We can carry a free culture into the twenty-first century, without "
-"artists losing and without the potential of digital technology being "
-"destroyed. It will take some thought, and more importantly, it will take "
-"some will to transform the RCAs of our day into the Causbys."
+"\"0\"/> And in Brazil, the culture minister, Gilberto Gil, himself a folk "
+"hero of Brazilian music, has joined with Creative Commons to release content "
+"and free licenses in that Latin American country.<placeholder type=\"footnote"
+"\" id=\"1\"/> I've told a dark story. The truth is more mixed. A technology "
+"has given us a new freedom. Slowly, some begin to understand that this "
+"freedom need not mean anarchy. We can carry a free culture into the twenty-"
+"first century, without artists losing and without the potential of digital "
+"technology being destroyed. It will take some thought, and more importantly, "
+"it will take some will to transform the RCAs of our day into the Causbys."
 msgstr ""
 "I mens på andre siden av atlanteren har BBC nettopp annonsert at de vil "
 "bygge opp et \"kreativt arkiv\" som britiske borgere kan laste ned BBC-"
 "innhold fra, og rippe, mikse og brenne det ut.<placeholder type=\"footnote\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>  Og i Brasil har "
-"kulturministeren, Gilberto Gil, i seg selv en folkehelt i brasiliansk "
-"musikk, slått seg sammen med Creative Commons for å gi ut innhold og frie "
-"lisenser i dette latinamerikanske landet.<placeholder type=\"footnote\" id="
-"\"2\"/>  Jeg har fortalt en mørk historie.  Sannheten mer mer blandet.  En "
-"teknologi har gitt oss mer frihet.  Sakte begynner noen å forstå at denne "
-"friheten trenger ikke å bety anarki.  Vi kan få med oss fri kultur inn i det "
-"tjueførste århundre, uten at artister taper og uten at potensialet for "
-"digital teknologi blir knust.  Det vil kreve omtanke, og viktigere, det vil "
-"kreve at noen omforme RCAene av i dag til Causbyere."
+"id=\"0\"/> Og i Brasil har kulturministeren, Gilberto Gil, i seg selv en "
+"folkehelt i brasiliansk musikk, slått seg sammen med Creative Commons for å "
+"gi ut innhold og frie lisenser i dette latinamerikanske landet.<placeholder "
+"type=\"footnote\" id=\"1\"/>  Jeg har fortalt en mørk historie.  Sannheten "
+"mer mer blandet.  En teknologi har gitt oss mer frihet.  Sakte begynner noen "
+"å forstå at denne friheten trenger ikke å bety anarki.  Vi kan få med oss "
+"fri kultur inn i det tjueførste århundre, uten at artister taper og uten at "
+"potensialet for digital teknologi blir knust.  Det vil kreve omtanke, og "
+"viktigere, det vil kreve at noen omforme RCAene av i dag til Causbyere."
 
 #.  PAGE BREAK 279
 #. type: Content of: <book><chapter><para>
@@ -22305,14 +22323,14 @@ msgstr ""
 #, mtrans, fuzzy
 msgid ""
 "Why would a publisher ever agree to this? I suspect his publisher reasoned "
-"like this: There are two groups of people out there: (1) those who will buy "
-"Cory's book whether or not it's on the Internet, and (2)  those who may "
-"never hear of Cory's book, if it isn't made available for free on the "
-"Internet. Some part of (1) will download Cory's book instead of buying it. "
-"Call them bad-(1)s. Some part of (2) will download Cory's book, like it, and "
-"then decide to buy it. Call them (2)-goods.  If there are more (2)-goods "
-"than bad-(1)s, the strategy of releasing Cory's book free on-line will "
-"probably increase sales of Cory's book."
+"like this: There are two groups of people out there: (1)  those who will buy "
+"Cory's book whether or not it's on the Internet, and (2) those who may never "
+"hear of Cory's book, if it isn't made available for free on the Internet. "
+"Some part of (1) will download Cory's book instead of buying it. Call them "
+"bad-(1)s. Some part of (2)  will download Cory's book, like it, and then "
+"decide to buy it. Call them (2)-goods.  If there are more (2)-goods than bad-"
+"(1)s, the strategy of releasing Cory's book free on-line will probably "
+"increase sales of Cory's book."
 msgstr ""
 "Hvorfor ville en utgiver noensinne samtykker til dette? Jeg mistenker at "
 "hans publisher begrunnet som dette: det finnes to grupper av mennesker der "
@@ -24019,8 +24037,8 @@ msgid ""
 msgstr ""
 "Økonomer er forventet å være gode til å forstå utgifter og inntekter.  Men "
 "som oftest antar økonomene uten peiling på hvordan det juridiske systemet "
-"egentlig fungerer, at transaksjonskostnaden i det juridiske systemet er "
-"lav.<placeholder type=\"footnote\" id=\"0\"/>  De ser et system som har "
+"egentlig fungerer, at transaksjonskostnaden i det juridiske systemet er lav."
+"<placeholder type=\"footnote\" id=\"0\"/>  De ser et system som har "
 "eksistert i hundrevis av år, og de antar at det fungerer slik grunnskolens "
 "samfunnsfagsundervisning lærte dem at det fungerer."
 
@@ -24035,10 +24053,10 @@ msgid ""
 msgstr ""
 "Men det juridiske systemet fungerer ikke. Eller for å være mer nøyaktig, det "
 "fungerer  kun for de med mest ressurser.  Det er ikke fordi systemet er "
-"korrupt. Jeg tror overhodet ikke vårt juridisk system (på føderalt nivå, "
-"i hvert fall) er korrupt. Jeg mener ganske enkelt at på grunn av at "
-"kostnadene med vårt juridiske systemet er så hårreisende høyt vil en praktisk "
-"talt aldri oppnå rettferdighet."
+"korrupt. Jeg tror overhodet ikke vårt juridisk system (på føderalt nivå, i "
+"hvert fall) er korrupt. Jeg mener ganske enkelt at på grunn av at kostnadene "
+"med vårt juridiske systemet er så hårreisende høyt vil en praktisk talt "
+"aldri oppnå rettferdighet."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
