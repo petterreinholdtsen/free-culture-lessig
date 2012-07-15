@@ -9,7 +9,7 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 # legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
 # titlepage, openany, draft, fleqn, leqno
 DBLATEX = dblatex \
-	-P latex.class.options=a4paper,twocolumn \
+	-P latex.class.options=a5paper \
 	-T db2latex \
 	--backend=xetex \
 	--xsl-user=data/user_param.xsl \
