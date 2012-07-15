@@ -442,6 +442,12 @@ msgid ""
 "encouraging individual participation, is the essence of federalism and the "
 "greatest expression of democracy.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Høres dette ikke-konservativt ut?  Ikke for meg.  Denne "
+"konsentrasjonen av makt&mdash;politisk, selskapsmessig, pressemessig, "
+"kulturelt&mdash;bør være bannlyst av konservative.  Spredningen av "
+"makt gjennom lokal kontroll, og derigjennom oppmuntre til individuell "
+"deltagelse, er essensien i føderalismen og det største utrykk for "
+"demokrati.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -506,7 +512,6 @@ msgstr ""
 "frihet. Anarki er ikke hva jeg forhånd her."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Instead, the free culture that I defend in this book is a balance between "
 "anarchy and control. A free culture, like a free market, is filled with "
@@ -516,13 +521,15 @@ msgid ""
 "rights that define it. That is what I fear about our culture today. It is "
 "against that extremism that this book is written."
 msgstr ""
-"i stedet er for fri kultur som jeg forsvare i denne boken en balanse mellom "
-"anarki og kontroll. en gratis kultur, som et fritt marked, er fylt med "
-"egenskapen. Det er fylt med regler for egenskapen og kontrakt som få "
-"håndheves av staten. men akkurat som et fritt marked er perverted Hvis "
-"egenskapen blir føydale, slik også kan en fri kultur være queered av "
-"ekstremisme i eiendomsrettigheter som definerer det. Det er det jeg frykter "
-"om vår kultur i dag. Det er mot at ekstremisme som denne boken er skrevet."
+"I stedet er den frie kulturen som jeg forsvarer i denne boken en "
+"balanse mellom anarki og kontroll.  En fri kultur, i likehet med et "
+"fritt marked, er fyllt med eierskap.  Den er fylt med regler for "
+"eierskap og kontrakter som blir håndhevet av staten.  Men på samme "
+"måte som det frie markedet blir pervertert hvis dets eierskap blir "
+"fødalt, så kan en fri kultur bli ødelagt av ekstremisme i "
+"eierskapsrettighetene som definerer den.  Det er dette jeg frykter om "
+"vår kultur i dag.  Det er som motpol til denne ekstremismen at denne "
+"boken er skrevet."
 
 #. type: Content of: <book><chapter><title>
 msgid "INTRODUCTION"
