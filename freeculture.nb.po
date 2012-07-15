@@ -93,7 +93,7 @@ msgstr ""
 "Software, to ganger vært oppført i BusinessWeek's \"e.biz 25,\" og omtalt "
 "som en av Scientific American's \"50 visjonærer\".  Etter utdanning ved "
 "University of Pennsylvania, Cambridge University, og Yale Law School, "
-"assisterteLessig dommer Richard Posner ved U.S. Seventh Circuit Court of "
+"assisterte Lessig dommer Richard Posner ved U.S. Seventh Circuit Court of "
 "Appeals."
 
 #. type: Content of: <book><chapter><title>
