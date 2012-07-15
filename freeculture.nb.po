@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-15 09:30+0300\n"
+"POT-Creation-Date: 2012-07-15 10:29+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -10430,7 +10430,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
 msgid "Carson, Rachel"
-msgstr "Carson, Rachel""
+msgstr "Carson, Rachel"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -14042,6 +14042,14 @@ msgstr "Kapittel elleve: Chimera"
 msgid "chimeras"
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Wells, H. G."
+msgstr "Wells, H. G."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "\"Country of the Blind, The\" (Wells)"
+msgstr ""
+
 #.  f1.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
@@ -14092,7 +14100,7 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
-"The villagers don't leave him alone. Nor do they see (so to speak)  the "
+"The villagers don't leave him alone. Nor do they see (so to speak) the "
 "virtue of his special power. Not even the ultimate target of his affection, "
 "a young woman who to him seems \"the most beautiful thing in the whole of "
 "creation,\" understands the beauty of sight. Nunez's description of what he "
@@ -14248,7 +14256,7 @@ msgstr ""
 msgid ""
 "Likewise, when the other side says, \"File sharing is just like walking into "
 "a Tower Records and taking a CD off the shelf and walking out with it,\" "
-"that's true, at least in part. If, after Lyle Lovett (finally)  releases a "
+"that's true, at least in part. If, after Lyle Lovett (finally) releases a "
 "new album, rather than buying it, I go to Kazaa and find a free copy to "
 "take, that is very much like stealing a copy from Tower."
 msgstr ""
