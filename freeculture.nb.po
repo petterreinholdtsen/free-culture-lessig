@@ -21744,9 +21744,8 @@ msgstr ""
 "var trygg på."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "What made it assured?"
-msgstr "Hva gjorde det forsikret?"
+msgstr "Hva gjorde at det var sikret?"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
