@@ -293,7 +293,7 @@ msgid ""
 "technical and computer-related texts, wrote this:"
 msgstr ""
 "David Pogue, en glimrende skribent og forfatter av utallige tekniske "
-"datamaskinrelaterte tekster, skrev dette på  slutten av hans gjennomgang av "
+"datarelaterte tekster, skrev dette på slutten av hans gjennomgang av "
 "min første bok, Code: And Other Laws of Cyberspace:"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
