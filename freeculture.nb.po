@@ -23704,7 +23704,6 @@ msgstr ""
 
 #.  PAGE BREAK 306
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "I love the Internet, and so I don't like likening it to tobacco or "
 "asbestos.  But the analogy is a fair one from the perspective of the law.  "
@@ -23713,11 +23712,12 @@ msgid ""
 "providers on the Internet, we should find a relatively simple way to "
 "compensate those who are harmed."
 msgstr ""
-"Jeg elsker Internett, og så jeg ikke liker likening det til tobakk eller "
-"asbest. men analogien er en rettferdig en fra et perspektiv av loven. og det "
-"antyder en virkelig svar: i stedet for søker å ødelegge Internett eller p2p-"
-"teknologier som er tiden skade innholdsleverandører på Internett, må vi "
-"finne en relativt enkel måte å kompensere de som er skadet."
+"Jeg elsker internett, så jeg liker ikke å sammenligne det med tobakk eller "
+"asbest.  Men analogien er rimelig når en ser det fra lovens perspektiv. Og det "
+"foreslår en rimelig respons: I stedet for å forsøke å ødelegge "
+"internett eller p2p-teknologien som i dag skader innholdsleverandører "
+"på internett, så bør vi finne en relativt enkel måte å kompensere de "
+"som blir skadelidende."
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
 msgid "Fisher, William"
@@ -23942,17 +23942,16 @@ msgstr ""
 "grad er faktiske skade vist."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "But what if \"piracy\" doesn't disappear? What if there is a competitive "
 "market providing content at a low cost, but a significant number of "
 "consumers continue to \"take\" content for nothing? Should the law do "
 "something then?"
 msgstr ""
-"men hva om \"piratkopiering\" ikke forsvinne? Hva hvis det er et "
-"konkurranseutsatt marked å gi innhold på en lav pris, men et betydelig "
-"antall forbrukere fortsette å \"ta\" innhold for ingenting? loven gjør noe "
-"deretter?"
+"Men hva om \"piratvirksomheten\" ikke forsvinner?  Hva om det finnes "
+"et konkurranseutsatt marked som tilbyr innhold til en lav kostnad, men "
+"et signifikant antall av forbrukere fortsetter å \"ta\" innhold uten å "
+"betale?  Burde loven gjøre noe da?"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
