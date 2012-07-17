@@ -20253,17 +20253,17 @@ msgstr ""
 "konkurransedyktig trusselen."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "I used these two cases as a way to frame the war that this book has been "
 "about. For here, too, a new technology is forcing the law to react.  And "
 "here, too, we should ask, is the law following or resisting common sense? If "
 "common sense supports the law, what explains this common sense?"
 msgstr ""
-"Jeg brukte disse to tilfellene som en måte å ramme som denne boken har vært "
-"om krigen. for her, også, er en ny teknologi tvinge lov til å reagere. og "
-"her vi bør spørre, også, er loven etter eller motsette sunn fornuft? Hvis "
-"sunn fornuft støtter loven, forklarer hva denne sunn fornuft?"
+"Jeg brukte disse to tilfellene som en måte å ramme inn krigen som "
+"denne boken har handlet om.  For her er det også en ny teknologi som "
+"tvinger loven til å reagere.  Og her bør vi også spørre, er loven i "
+"tråd med eller i strid med sunn fornuft.  Hvis sunn fornuft støtter "
+"loven, hva forklarer denne sunne fornuften?"
 
 #.  PAGE BREAK 262
 #. type: Content of: <book><chapter><sect1><para>
