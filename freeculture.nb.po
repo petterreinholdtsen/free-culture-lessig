@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-17 17:55+0300\n"
+"POT-Creation-Date: 2012-07-17 18:50+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1731,6 +1731,10 @@ msgstr ""
 "arbeidet til andre, tar jeg fra dem noe av verdi. Når jeg tar noe av verdi "
 "fra noen andre, skulle jeg ha deres tillatelse. å ta av noe av verdi fra "
 "noen andre uten tillatelse er galt. Det er en form for piratkopiering."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Dreyfuss, Rochelle"
+msgstr "Dreyfuss, Rochelle"
 
 #.  f2
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -5423,6 +5427,10 @@ msgstr ""
 "opphavsretten internasjonalt. Vi kan ha vært født en pirat nasjon, men vi "
 "tillater ikke noen annen nasjon til å ha en lignende barndom."
 
+#. type: Content of: <book><chapter><para><footnote><indexterm><primary>
+msgid "Drahos, Peter"
+msgstr "Drahos, Peter"
+
 #.  f2
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
@@ -8470,6 +8478,10 @@ msgid ""
 msgstr ""
 "og ingen tvil, selve produktet var usedvanlig god. Eastwood elsket det, og "
 "det selges godt."
+
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Drucker, Peter"
+msgstr "Drucker, Peter"
 
 #.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -20259,11 +20271,11 @@ msgid ""
 "here, too, we should ask, is the law following or resisting common sense? If "
 "common sense supports the law, what explains this common sense?"
 msgstr ""
-"Jeg brukte disse to tilfellene som en måte å ramme inn krigen som "
-"denne boken har handlet om.  For her er det også en ny teknologi som "
-"tvinger loven til å reagere.  Og her bør vi også spørre, er loven i "
-"tråd med eller i strid med sunn fornuft.  Hvis sunn fornuft støtter "
-"loven, hva forklarer denne sunne fornuften?"
+"Jeg brukte disse to tilfellene som en måte å ramme inn krigen som denne "
+"boken har handlet om.  For her er det også en ny teknologi som tvinger loven "
+"til å reagere.  Og her bør vi også spørre, er loven i tråd med eller i strid "
+"med sunn fornuft.  Hvis sunn fornuft støtter loven, hva forklarer denne "
+"sunne fornuften?"
 
 #.  PAGE BREAK 262
 #. type: Content of: <book><chapter><sect1><para>
@@ -21259,10 +21271,6 @@ msgstr ""
 "Føydalisme depended upon maksimal kontroll og konsentrasjon. det kjempet "
 "noen friheten som kan forstyrre denne kontrollen."
 
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "Drahos, Peter"
-msgstr "Drahos, Peter"
-
 #.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
@@ -21495,6 +21503,10 @@ msgid ""
 msgstr ""
 "Hvis vi var Akilles, så ville dette være vår hæl. Dette ville være stedet "
 "for våre tragedie."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Dylan, Bob"
+msgstr "Dylan, Bob"
 
 #.  f11.
 #. type: Content of: <book><chapter><para><footnote><para>
