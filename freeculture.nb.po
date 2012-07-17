@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-17 18:50+0300\n"
+"POT-Creation-Date: 2012-07-17 19:09+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -658,14 +658,6 @@ msgstr ""
 "gamle doktriner.  I et enkelt avsnitt, ble hundrevis av år av "
 "eiendomslovgivningen strøket. Som han skrev for retten,"
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote>
-msgid ""
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
-msgstr ""
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
-
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -675,7 +667,8 @@ msgid ""
 "by Keith Aoki's wonderful piece, \"(Intellectual)  Property and Sovereignty: "
 "Notes Toward a Cultural Geography of Authorship,\" Stanford Law Review 48 "
 "(1996): 1293, 1333. See also Paul Goldstein, Real Property (Mineola, N.Y.: "
-"Foundation Press, 1984), 1112&ndash;13."
+"Foundation Press, 1984), 1112&ndash;13.  <placeholder type=\"indexterm\" id="
+"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "USA v. causby, amerikanske 328 (1946): 256, 261. domstolen fant at det kan "
 "bli en \"tar\" Hvis regjeringens bruken av sine land ødelagt effektivt "
@@ -1150,13 +1143,9 @@ msgstr ""
 "delta i fan klubber, deling av musikk, slik at kassetter&mdash;var igjen "
 "alene ved loven."
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "Brandeis, Louis D."
 msgstr "Brandeis, Louis D."
-
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote>
-msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
-msgstr "<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -1168,7 +1157,7 @@ msgid ""
 "exclusive right to first publication, state copyright law gave authors the "
 "power to control the spread of facts about them. See Samuel D. Warren and "
 "Louis D. Brandeis, \"The Right to Privacy,\" Harvard Law Review 4 (1890): "
-"193, 198&ndash;200."
+"193, 198&ndash;200.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Dette er ikke det eneste formålet med opphavsrett, men det er overveldende "
 "Hovedformålet med opphavsretten etablert i federal grunnlov. copyright "
@@ -1343,7 +1332,7 @@ msgstr ""
 "denne endringen, krig for å befri verden av Internett \"pirater\" også "
 "kvitte vår kultur med verdier som er integrert til vår tradisjon fra starten."
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Netanel, Neil Weinstock"
 msgstr "Netanel, Neil Weinstock"
 
@@ -1351,7 +1340,7 @@ msgstr "Netanel, Neil Weinstock"
 #, mtrans, fuzzy
 msgid ""
 "Neil W. Netanel, \"Copyright and a Democratic Civil Society,\" Yale Law "
-"Journal 106 (1996): 283."
+"Journal 106 (1996): 283.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Neil w. netanel, \"copyright og en demokratisk sivile samfunn,\" yale law "
 "journal 106 (1996): 283."
@@ -1833,12 +1822,11 @@ msgstr ""
 "loven&mdash;selv byrden av den bysantinske kompleksiteten som copyright lov "
 "har blitt. Det var bare en mer utgifter ved å gjøre forretninger."
 
-#. type: Content of: <book><chapter><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Florida, Richard"
 msgstr "Florida, Richard"
 
-#.  f4
 #. type: Content of: <book><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -1848,7 +1836,7 @@ msgid ""
 "conditions under which that creativity is enabled or stifled. I certainly "
 "agree with him about the importance and significance of this change, but I "
 "also believe the conditions under which it will be enabled are much more "
-"tenuous."
+"tenuous.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "i rise of creative klassen (new york: grunnleggende bøker, 2002), richard "
 "florida dokumenter et skifte i natur arbeid mot en arbeidskraft av "
@@ -2756,12 +2744,11 @@ msgstr ""
 msgid "Coe, Brian"
 msgstr "Coe, Brian"
 
-#.  f2
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Brian Coe, The Birth of Photography (New York: Taplinger Publishing, 1977), "
-"53."
+"53.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Brian coe, fødselen av fotografering (new york: taplinger publiserer, 1977), "
 "53."
@@ -2887,16 +2874,16 @@ msgstr ""
 "tegne mickey, så bør også, disse fotografer ikke være fritt til å ta bilder "
 "som de trodde verdifull."
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "Warren, Samuel D."
 msgstr "Warren, Samuel D."
 
-#.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Samuel D. Warren and Louis D. Brandeis, \"The Right to Privacy,\" Harvard "
-"Law Review 4 (1890): 193."
+"Law Review 4 (1890): 193.  <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Samuel d. warren og louis d. brandeis, \"rett til personvern,\" harvard law "
 "gå gjennom 4 (1890): 193."
@@ -3133,14 +3120,19 @@ msgstr "Crichton, Michael"
 msgid "Barish, Stephanie"
 msgstr "Barish, Stephanie"
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "Daley, Elizabeth"
 msgstr "Daley, Elizabeth"
 
-#.  f11
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-msgid "Interview with Elizabeth Daley and Stephanie Barish, 13 December 2002."
-msgstr "Intervju med Elizabeth Daley og Stephanie Barish, 13. desember 2002."
+msgid ""
+"Interview with Elizabeth Daley and Stephanie Barish, 13 December 2002.  "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
+msgstr ""
+"Intervju med Elizabeth Daley og Stephanie Barish, 13. desember 2002.  "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #.  f12
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -3222,10 +3214,11 @@ msgstr ""
 "\"lese-bare.\" passiv mottakerne av kultur produsert andre steder. Couch "
 "Poteter. forbrukere. Dette er verden av medier fra det tjuende århundre."
 
-#.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-msgid "Interview with Daley and Barish."
-msgstr "Intervju med Daley og Barish."
+msgid ""
+"Interview with Daley and Barish.  <placeholder type=\"indexterm\" id=\"0\"/>"
+msgstr ""
+"Intervju med Daley og Barish.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  f31
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -3765,7 +3758,7 @@ msgstr ""
 "journalist simpelthen har ikke en konflikt av interesse, eller konflikt av "
 "interesse er så lett avslørt at du vet du kan liksom få det ut av veien.\""
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "CNN"
 msgstr "CNN"
 
@@ -3814,7 +3807,6 @@ msgid ""
 "benefits, and costs, that might entail."
 msgstr ""
 
-#.  f21
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3825,7 +3817,7 @@ msgid ""
 "posting 12 days later at his bosses' request. Last year Steve Olafson, a "
 "Houston Chronicle reporter, was fired for keeping a personal Web log, "
 "published under a pseudonym, that dealt with some of the issues and people "
-"he was covering.\")"
+"he was covering.\")  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "se michael falcone, \"betyr en redigering blyant ødelegge en weblogg?\" new "
 "york times, 29. september 2003, c4. (\"ikke alle nyhetsorganisasjoner har "
@@ -5431,6 +5423,10 @@ msgstr ""
 msgid "Drahos, Peter"
 msgstr "Drahos, Peter"
 
+#. type: Content of: <book><chapter><para><footnote>
+msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
+msgstr "<placeholder type=\"indexterm\" id=\"0\"/>"
+
 #.  f2
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
@@ -6074,7 +6070,7 @@ msgid ""
 "on U.S. dollar value of shipments).\""
 msgstr ""
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Black, Jane"
 msgstr "Black, Jane"
 
@@ -6082,11 +6078,11 @@ msgstr "Black, Jane"
 msgid ""
 "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13 February "
 "2003, available at <ulink url=\"http://free-culture.cc/notes/\">link #17</"
-"ulink>."
+"ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13. februar "
 "2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
-"#17</ulink>."
+"#17</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -8317,27 +8313,27 @@ msgstr ""
 "Alben brakt ideen til michael slade, ceo i starwave. Slade som ble spurt, "
 "\"Vel, hva vil det ta?\""
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "artists"
 msgstr "artister"
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><secondary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><secondary>
 msgid "publicity rights on images of"
 msgstr ""
 
-#.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Technically, the rights that Alben had to clear were mainly those of "
 "publicity&mdash;rights an artist has to control the commercial exploitation "
 "of his image.  But these rights, too, burden \"Rip, Mix, Burn\" creativity, "
-"as this chapter evinces."
+"as this chapter evinces.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "teknisk, rettighetene som alben hadde å fjerne var hovedsakelig de "
 "publisitet&mdash;rettigheter kunstner har til å kontrollere kommersiell "
 "utnyttelse av hans bilde. men disse rettighetene også, belaster \"rip, "
-"mikse, brenne\" kreativitet, som evinces i dette kapitlet."
+"mikse, brenne\" kreativitet, som evinces i dette kapitlet.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -10096,11 +10092,10 @@ msgstr ""
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1361.png\"></graphic>"
 
-#. type: Content of: <book><chapter><sect1><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
 msgid "Commons, John R."
 msgstr "Commons, John R."
 
-#.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10129,7 +10124,7 @@ msgid ""
 "interventions to change existing conditions changes the liberty of a "
 "particular group. The effect of those interventions should be accounted for "
 "in order to understand the effective liberty that each of these groups might "
-"face."
+"face.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "noen mennesker objektet til denne måten av snakker om \"frihet.\" de "
 "objektet fordi deres fokus når de vurderer begrensninger som finnes på et "
@@ -10722,11 +10717,10 @@ msgstr "La meg forklare hvordan."
 msgid "Law: Duration"
 msgstr "Loven: Varighet"
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Crosskey, William W."
 msgstr "Crosskey, William W."
 
-#.  f8
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10734,7 +10728,8 @@ msgid ""
 "United States (London: Cambridge University Press, 1953), vol. 1, "
 "485&ndash;86: \"extinguish[ing], by plain implication of `the supreme Law of "
 "the Land,' the perpetual rights which authors had, or were supposed by some "
-"to have, under the Common Law\" (emphasis added)."
+"to have, under the Common Law\" (emphasis added).  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "William W. Crosskey, politikk og Grunnloven i historien av USA (London: "
 "Cambridge University Press, 1953), vol. 1, 485&ndash;86: \"slukke [ing], ved "
@@ -14725,11 +14720,10 @@ msgid ""
 "notes/\">link #37</ulink>."
 msgstr ""
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Bush, George W."
 msgstr "Bush, George W."
 
-#.  f2.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "The bill, modeled after California's tort reform model, was passed in the "
@@ -14739,7 +14733,8 @@ msgid ""
 "\"http://free-culture.cc/notes/\">link #38</ulink>, and \"Senate Turns Back "
 "Malpractice Caps,\" CBSNews.com, 9 July 2003, available at <ulink url="
 "\"http://free-culture.cc/notes/\">link #39</ulink>. President Bush has "
-"continued to urge tort reform in recent months."
+"continued to urge tort reform in recent months.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -15223,20 +15218,21 @@ msgstr ""
 msgid "BMW"
 msgstr "BMW"
 
-#. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para><indexterm><primary>
 msgid "Needleman, Rafe"
 msgstr "Needleman, Rafe"
 
-#.  f5.
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 msgid ""
 "Rafe Needleman, \"Driving in Cars with MP3s,\" Business 2.0, 16 June 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #43</ulink>. "
-"I am grateful to Dr. Mohammad Al-Ubaydli for this example."
+"I am grateful to Dr. Mohammad Al-Ubaydli for this example.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Rafe Needleman, \"Driving in Cars with MP3s,\" Business 2.0, 16. juni 2003, "
 "tilgjengelig via <ulink url=\"http://free-culture.cc/notes/\">link #43</"
-"ulink>. Jeg er Dr. Mohammad Al-Ubaydli takknemlig mot for dette eksemplet."
+"ulink>. Jeg er Dr. Mohammad Al-Ubaydli takknemlig mot for dette eksemplet.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 msgid ""
@@ -15734,11 +15730,10 @@ msgstr ""
 "nøytral mot Internett-radio&mdash;loven faktisk byrder Internettradio mer "
 "enn det byrder bakkesendte radio."
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "CARP (Copyright Arbitration Royalty Panel)"
 msgstr ""
 
-#.  f14.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "This example was derived from fees set by the original Copyright Arbitration "
@@ -15755,7 +15750,8 @@ msgid ""
 "barriers. Analog radio stations are protected from digital entrants, "
 "reducing entry in radio and diversity. Yes, this is done in the name of "
 "getting royalties to copyright holders, but, absent the play of powerful "
-"interests, that could have been done in a media-neutral way.\""
+"interests, that could have been done in a media-neutral way.\" <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -20527,14 +20523,15 @@ msgstr ""
 msgid "Braithwaite, John"
 msgstr "Braithwaite, John"
 
-#.  f2.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "See Peter Drahos with John Braithwaite, Information Feudalism: Who Owns the "
-"Knowledge Economy? (New York: The New Press, 2003), 37."
+"Knowledge Economy? (New York: The New Press, 2003), 37.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Se Peter Drahos og John Braithwaite, Information Feudalism: Who Owns the "
-"Knowledge Economy? (New York: The New Press, 2003), 37."
+"Knowledge Economy? (New York: The New Press, 2003), 37.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23242,17 +23239,17 @@ msgstr ""
 "poengsum&mdash;det ikke fornuftig å kreve forhandling for den unforeseeable. "
 "her, ville en lovfestet rett gjøre mye mer fornuftig."
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Goldstein, Paul"
 msgstr "Goldstein, Paul"
 
-#.  f7.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial Jukebox "
-"(Stanford: Stanford University Press, 2003), 187&ndash;216."
+"(Stanford: Stanford University Press, 2003), 187&ndash;216.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Paul goldstein, copyright's highway: fra gutenberg til den himmelske "
 "jukeboksen (stanford: stanford university press, 2003), 187­216."
@@ -23727,11 +23724,10 @@ msgstr ""
 "eller p2p-teknologien som i dag skader innholdsleverandører på internett, så "
 "bør vi finne en relativt enkel måte å kompensere de som blir skadelidende."
 
-#. type: Content of: <book><chapter><sect1><sect2><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Fisher, William"
 msgstr "Fisher, William"
 
-#.  f9.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "William Fisher, Digital Music: Problems and Possibilities (last revised: 10 "
@@ -23762,7 +23758,8 @@ msgid ""
 "pay artists directly proportionally, though more popular artists would get "
 "more than the less popular. As is typical with Stallman, his proposal "
 "predates the current debate by about a decade. See <ulink url=\"http://free-"
-"culture.cc/notes/\">link #85</ulink>."
+"culture.cc/notes/\">link #85</ulink>.  <placeholder type=\"indexterm\" id="
+"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
