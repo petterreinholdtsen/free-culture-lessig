@@ -21278,17 +21278,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "When this battle broke, I blogged it. A spirited debate within the comment "
 "section ensued. Ms. Boland had a number of supporters who tried to show why "
 "her comments made sense. But there was one comment that was particularly "
 "depressing for me. An anonymous poster wrote,"
 msgstr ""
-"Når denne kampen brøt, jeg blogged det. en dristig debatt i kommentar-delen "
-"ensued. MS. boland hadde en rekke tilhengere som prøvde å vise hvorfor "
-"hennes Kommentarer gjort forstand. men det var en kommentar som var spesielt "
-"deprimerende for meg. skrev en anonym plakat,"
+"Da denne bataljen brøt ut, blogget jeg om dette.  En heftig debatt "
+"brøt ut i kommentarfeltet.  Ms. Boland hadde en rekke støttespillere "
+"som forsøkte å vise hvorfor hennes kommentarer ga mening.  Men det var "
+"spesielt en kommentar som gjorde meg trist.  En anonym kommmentator "
+"skrev,"
 
 #.  PAGE BREAK 275
 #. type: Content of: <book><chapter><blockquote><para>
