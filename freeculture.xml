@@ -86,15 +86,21 @@ You can buy a copy of this book by clicking on one of the links below:
 <!-- PAGE BREAK 3 -->
 <para>
 ALSO BY LAWRENCE LESSIG
-<sbr/>The Future of Ideas: The Fate of the Commons
+</para>
+<para>
+The Future of Ideas: The Fate of the Commons
 in a Connected World
-<sbr/>Code: And Other Laws of Cyberspace
+</para>
+<para>
+Code: And Other Laws of Cyberspace
 </para>
 
 <!-- PAGE BREAK 4 -->
 <para>
 THE PENGUIN PRESS
-<sbr/>NEW YORK
+</para>
+<para>
+NEW YORK
 </para>
 
 <!-- PAGE BREAK 5 -->
@@ -115,31 +121,71 @@ LAWRENCE LESSIG
 <!-- PAGE BREAK 6 -->
 <para>
 THE PENGUIN PRESS
-<sbr/>a member of Penguin Group (USA) Inc.  375 Hudson Street New
+</para>
+<para>
+a member of Penguin Group (USA) Inc.  375 Hudson Street New
 York, New York
-<sbr/>Copyright &copy; Lawrence Lessig,
-<sbr/>All rights reserved
-<sbr/>Excerpt from an editorial titled "The Coming of Copyright Perpetuity,"
+</para>
+<para>
+Copyright &copy; Lawrence Lessig,
+</para>
+<para>
+All rights reserved
+</para>
+<para>
+Excerpt from an editorial titled "The Coming of Copyright Perpetuity,"
 The New York Times, January 16, 2003. Copyright &copy; 2003 by The New York Times Co.
 Reprinted with permission.
-<sbr/>Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc.
-<sbr/>All rights reserved. Reprinted with permission.
-<sbr/>Diagram on page 164 courtesy of the office of FCC Commissioner, Michael J. Copps.
-<sbr/>Library of Congress Cataloging-in-Publication Data
-<sbr/>Lessig, Lawrence.
+</para>
+<para>
+Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc.
+</para>
+<para>
+All rights reserved. Reprinted with permission.
+</para>
+<para>
+Diagram on page 164 courtesy of the office of FCC Commissioner, Michael J. Copps.
+</para>
+<para>
+Library of Congress Cataloging-in-Publication Data
+</para>
+<para>
+Lessig, Lawrence.
 Free culture : how big media uses technology and the law to lock down 
 culture and control creativity / Lawrence Lessig.
-<sbr/>p. cm.
-<sbr/>Includes index.
-<sbr/>ISBN 1-59420-006-8 (hardcover)
-<sbr/>1. Intellectual property&mdash;United States. 2. Mass media&mdash;United States.
-<sbr/>3. Technological innovations&mdash;United States. 4. Art&mdash;United States. I. Title.
-<sbr/>KF2979.L47
-<sbr/>343.7309'9&mdash;dc22
-<sbr/>This book is printed on acid-free paper.
-<sbr/>Printed in the United States of America
-<sbr/>1 3 5 7 9 10 8 6 4
-<sbr/>Designed by Marysarah Quinn
+</para>
+<para>
+p. cm.
+</para>
+<para>
+Includes index.
+</para>
+<para>
+ISBN 1-59420-006-8 (hardcover)
+</para>
+<para>
+1. Intellectual property&mdash;United States. 2. Mass media&mdash;United States.
+</para>
+<para>
+3. Technological innovations&mdash;United States. 4. Art&mdash;United States. I. Title.
+</para>
+<para>
+KF2979.L47
+</para>
+<para>
+343.7309'9&mdash;dc22
+</para>
+<para>
+This book is printed on acid-free paper.
+</para>
+<para>
+Printed in the United States of America
+</para>
+<para>
+1 3 5 7 9 10 8 6 4
+</para>
+<para>
+Designed by Marysarah Quinn
 </para>
 
 <para>
@@ -444,8 +490,6 @@ such private claims to the airspace would clog these highways,
 seriously interfere with their control and development in the public
 interest, and transfer into private ownership that to which only
 the public has a just claim.<footnote>
-<indexterm><primary>Causby, Thomas Lee</primary></indexterm>
-<indexterm><primary>Causby, Tinie</primary></indexterm>
 <para>
 United States v. Causby, U.S. 328 (1946): 256, 261. The Court did find
 that there could be a "taking" if the government's use of its land
@@ -455,6 +499,8 @@ Property and Sovereignty: Notes Toward a Cultural Geography of
 Authorship," Stanford Law Review 48 (1996): 1293, 1333. See also Paul
 Goldstein, Real Property (Mineola, N.Y.: Foundation Press, 1984),
 1112&ndash;13.
+<indexterm><primary>Causby, Thomas Lee</primary></indexterm>
+<indexterm><primary>Causby, Tinie</primary></indexterm>
 </para></footnote>
 </para>
 </blockquote>
@@ -724,7 +770,6 @@ then quite extensively, the law protected the incentives of creators by
 granting them exclusive rights to their creative work, so that they could
 sell those exclusive rights in a commercial
 marketplace.<footnote>
-<indexterm><primary>Brandeis, Louis D.</primary></indexterm>
 <para>
 This is not the only purpose of copyright, though it is the overwhelmingly
 primary purpose of the copyright established in the federal constitution.
@@ -734,6 +779,7 @@ right to first publication, state copyright law gave authors the power to
 control the spread of facts about them. See Samuel D. Warren and Louis
 D. Brandeis, "The Right to Privacy," Harvard Law Review 4 (1890): 193,
 198&ndash;200.
+<indexterm><primary>Brandeis, Louis D.</primary></indexterm>
 </para></footnote>
 This is also, of
 course, an important part of creativity and culture, and it has become
@@ -843,10 +889,10 @@ our Republic, guaranteed creators the right to build freely upon their
 past, and protected creators and innovators from either state or private
 control. The First Amendment protected creators against state control.
 And as Professor Neil Netanel powerfully argues,<footnote>
-<indexterm><primary>Netanel, Neil Weinstock</primary></indexterm>
 <para>
 Neil W. Netanel, "Copyright and a Democratic Civil Society," Yale Law
 Journal 106 (1996): 283.
+<indexterm><primary>Netanel, Neil Weinstock</primary></indexterm>
 </para></footnote>
 copyright law, properly balanced, protected creators against private
 control. Our tradition was thus neither Soviet nor the tradition of
@@ -1144,7 +1190,6 @@ creativity with insanely complex and vague rules and with the threat
 of obscenely severe penalties. We may
 <!-- PAGE BREAK 33 -->
 be seeing, as Richard Florida writes, the "Rise of the Creative Class."<footnote>
-<indexterm><primary>Florida, Richard</primary></indexterm>
 <para>
 <!-- f4 -->
 In The Rise of the Creative Class (New York: Basic Books, 2002),
@@ -1154,6 +1199,7 @@ legal conditions under which that creativity is enabled or stifled. I
 certainly agree with him about the importance and significance of this
 change, but I also believe the conditions under which it will be
 enabled are much more tenuous.
+<indexterm><primary>Florida, Richard</primary></indexterm>
 </para></footnote>
 Unfortunately, we are also seeing an extraordinary rise of regulation of
 this creative class.
@@ -1668,11 +1714,11 @@ practice of photography the necessity for exceptional facilities or,
 in fact, any special knowledge of the art. It can be employed without
 preliminary study, without a darkroom and without
 chemicals.<footnote>
-<indexterm><primary>Coe, Brian</primary></indexterm>
 <para>
 <!-- f2 -->
 Brian Coe, The Birth of Photography (New York: Taplinger Publishing,
 1977), 53.
+<indexterm><primary>Coe, Brian</primary></indexterm>
 </para></footnote>
 </para>
 </blockquote>
@@ -1757,12 +1803,12 @@ Sure, there may be something of value being used. But citizens should
 have the right to capture at least those images that stand in public view.
 (Louis Brandeis, who would become a Supreme Court Justice, thought
 the rule should be different for images from private spaces.<footnote>
-<indexterm><primary>Brandeis, Louis D.</primary></indexterm>
-<indexterm><primary>Warren, Samuel D.</primary></indexterm>
 <para>
 <!-- f7 -->
 Samuel D. Warren and Louis D. Brandeis, "The Right to Privacy,"
 Harvard Law Review 4 (1890): 193.
+<indexterm><primary>Brandeis, Louis D.</primary></indexterm>
+<indexterm><primary>Warren, Samuel D.</primary></indexterm>
 </para></footnote>) It may be that this means that the photographer
 gets something for nothing. Just as Disney could take inspiration from
 Steamboat Bill, Jr. or the Brothers Grimm, the photographer should be
@@ -1906,12 +1952,12 @@ California's Annenberg Center for Communication and dean of the
 USC School of Cinema-Television, explained to me, the grammar was
 about "the placement of objects, color, . . . rhythm, pacing, and
 texture."<footnote>
-<indexterm><primary>Barish, Stephanie</primary></indexterm>
-<indexterm><primary>Daley, Elizabeth</primary></indexterm>
 <para>
 <!-- f11 -->
 Interview with Elizabeth Daley and Stephanie Barish, 13 December
 2002.
+<indexterm><primary>Barish, Stephanie</primary></indexterm>
+<indexterm><primary>Daley, Elizabeth</primary></indexterm>
 </para></footnote>
 But as computers open up an interactive space where a story is
 "played" as well as experienced, that grammar changes. The simple
@@ -1967,10 +2013,10 @@ tools that enable the writing to lead or mislead. The aim of any literacy,
 and this literacy in particular, is to "empower people to choose the 
 		appropriate
 language for what they need to create or express."<footnote>
-<indexterm><primary>Barish, Stephanie</primary></indexterm>
 <para>
 <!-- f13 -->
 Interview with Daley and Barish.
+<indexterm><primary>Barish, Stephanie</primary></indexterm>
 </para></footnote> It is to enable
 students "to communicate in the language of the twenty-first century."<footnote><para>
 <!-- f14 -->
@@ -2318,7 +2364,6 @@ with blogs. "It's going to become an essential skill," Winer predicts,
 for public figures and increasingly for private figures as well. It's
 not clear that "journalism" is happy about this&mdash;some journalists
 have been told to curtail their blogging.<footnote>
-<indexterm><primary>CNN</primary></indexterm>
 <para>
 <!-- f21 -->
 See Michael Falcone, "Does an Editor's Pencil Ruin a Web Log?" New
@@ -2329,6 +2374,7 @@ war on March 9, stopped posting 12 days later at his bosses'
 request. Last year Steve Olafson, a Houston Chronicle reporter, was
 fired for keeping a personal Web log, published under a pseudonym,
 that dealt with some of the issues and people he was covering.")
+<indexterm><primary>CNN</primary></indexterm>
 </para></footnote>
 But it is clear that we are still in transition. "A
 
@@ -3710,11 +3756,11 @@ no doubt accounts for some of the decrease in sales. Rising prices could
 account for at least some of the loss. "From 1999 to 2001, the average
 price of a CD rose 7.2 percent, from $13.04 to $14.19."<footnote>
 <!-- f13 -->
-<indexterm><primary>Black, Jane</primary></indexterm>
 <para>
 Jane Black, "Big Music's Broken Record," BusinessWeek online, 13 
 February 2003, available at 
 <ulink url="http://free-culture.cc/notes/">link #17</ulink>.
+<indexterm><primary>Black, Jane</primary></indexterm>
 </para>
 </footnote>
 Competition from other forms of media could also account for some of the
@@ -5073,16 +5119,16 @@ Alben replied, "Well, we're going to have to clear rights from
 everyone who appears in these films, and the music and everything
 else that we want to use in these film clips." Slade said, "Great! Go
 for it."<footnote>
-<indexterm>
-<primary>artists</primary>
-<secondary>publicity rights on images of</secondary>
-</indexterm>
 <para>
 <!-- f1 -->
 Technically, the rights that Alben had to clear were mainly those of
 publicity&mdash;rights an artist has to control the commercial
 exploitation of his image.  But these rights, too, burden "Rip, Mix,
 Burn" creativity, as this chapter evinces.
+<indexterm>
+<primary>artists</primary>
+<secondary>publicity rights on images of</secondary>
+</indexterm>
 </para></footnote>
 </para>
 <para>
@@ -6049,7 +6095,6 @@ property at any particular moment, we must track these changes over
 time. A restriction imposed by one modality might be erased by
 another. A freedom enabled by one modality might be displaced by
 another.<footnote>
-<indexterm><primary>Commons, John R.</primary></indexterm>
 <para>
 <!-- f4 -->
 Some people object to this way of talking about "liberty." They object
@@ -6079,7 +6124,9 @@ places easier; 42 United States Code, section 12101 (2000).  Each of
 these interventions to change existing conditions changes the liberty
 of a particular group. The effect of those interventions should be
 accounted for in order to understand the effective liberty that each
-of these groups might face.  </para></footnote>
+of these groups might face.
+<indexterm><primary>Commons, John R.</primary></indexterm>
+</para></footnote>
 </para>
 <sect2 id="hollywood">
 <title>Why Hollywood Is Right</title>
@@ -6411,7 +6458,6 @@ the English had confronted in 1774. Many states had passed laws
 protecting creative property, and some believed that these laws simply
 supplemented common law rights that already protected creative
 authorship.<footnote>
-<indexterm><primary>Crosskey, William W.</primary></indexterm>
 <para>
 <!-- f8 -->
 William W. Crosskey, Politics and the Constitution in the History of
@@ -6419,6 +6465,7 @@ the United States (London: Cambridge University Press, 1953), vol. 1,
 485&ndash;86: "extinguish[ing], by plain implication of `the supreme
 Law of the Land,' the perpetual rights which authors had, or were
 supposed by some to have, under the Common Law" (emphasis added).
+<indexterm><primary>Crosskey, William W.</primary></indexterm>
 </para></footnote>
 This meant that there was no guaranteed public domain in the United
 States in 1790. If copyrights were protected by the common law, then
@@ -8824,7 +8871,6 @@ And under legislation being pushed in Congress right now, a doctor who
 negligently removes the wrong leg in an operation would be liable for
 no more than $250,000 in damages for pain and
 suffering.<footnote>
-<indexterm><primary>Bush, George W.</primary></indexterm>
 <para>
 <!-- f2. --> The bill, modeled after California's tort reform model, was passed in the
 House of Representatives but defeated in a Senate vote in July 2003. For
@@ -8835,6 +8881,7 @@ and "Senate Turns Back Malpractice Caps," CBSNews.com, 9 July 2003,
 available at 
 <ulink url="http://free-culture.cc/notes/">link #39</ulink>. President Bush has continued to urge tort reform in
 recent months.
+<indexterm><primary>Bush, George W.</primary></indexterm>
 </para></footnote>
  Can common sense recognize the absurdity in a world where
 the maximum fine for downloading two songs off the Internet is more
@@ -9124,13 +9171,13 @@ the car's built-in sound system, but that the company's marketing
 and legal departments weren't comfortable with pushing this 
 forward for release stateside. Even today, no new cars are sold in the
 United States with bona fide MP3 players. . . . <footnote>
-<indexterm><primary>Needleman, Rafe</primary></indexterm>
 <para>
 <!-- f5. -->
 Rafe Needleman, "Driving in Cars with MP3s," Business 2.0, 16 June
 2003, available at 
 <ulink url="http://free-culture.cc/notes/">link #43</ulink>. I am grateful
 to Dr. Mohammad Al-Ubaydli for this example.
+<indexterm><primary>Needleman, Rafe</primary></indexterm>
 </para></footnote>
 </para>
 </blockquote>
@@ -9459,7 +9506,6 @@ William Fisher estimates, if an Internet radio station distributed adfree
 popular music to (on average) ten thousand listeners, twenty-four
 hours a day, the total artist fees that radio station would owe would be
 over $1 million a year.<footnote>
-<indexterm><primary>CARP (Copyright Arbitration Royalty Panel)</primary></indexterm>
 <para>
 <!-- f14. -->
 This example was derived from fees set by the original Copyright
@@ -9479,6 +9525,7 @@ radio stations are protected from digital entrants, reducing entry in
 radio and diversity. Yes, this is done in the name of getting
 royalties to copyright holders, but, absent the play of powerful
 interests, that could have been done in a media-neutral way."
+<indexterm><primary>CARP (Copyright Arbitration Royalty Panel)</primary></indexterm>
 </para></footnote>
 A regular radio station broadcasting the same content would pay no
 equivalent fee.
@@ -12203,11 +12250,11 @@ example, if the drug was sold in India, it could be imported into
 Africa from India. This is called "parallel importation," and it is
 generally permitted under international trade law and is specifically
 permitted within the European Union.<footnote>
-<indexterm><primary>Braithwaite, John</primary></indexterm>
 <para>
 <!-- f2. -->
 See Peter Drahos with John Braithwaite, Information Feudalism: Who
 Owns the Knowledge Economy? (New York: The New Press, 2003), 37.
+<indexterm><primary>Braithwaite, John</primary></indexterm>
 </para></footnote>
 </para>
 <para>
@@ -13785,11 +13832,11 @@ In each of these cases, the law should mark the uses that are
 protected, and the presumption should be that other uses are not
 protected.  This is the reverse of the recommendation of my colleague
 Paul Goldstein.<footnote>
-<indexterm><primary>Goldstein, Paul</primary></indexterm>
 <para>
 <!-- f7. -->
 Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial
 Jukebox (Stanford: Stanford University Press, 2003), 187&ndash;216.
+<indexterm><primary>Goldstein, Paul</primary></indexterm>
 </para></footnote>
 His view is that the law should be written so that
 expanded protections follow expanded uses.
@@ -14049,8 +14096,6 @@ way to compensate those who are harmed.
 <para>
 The idea would be a modification of a proposal that has been
 floated by Harvard law professor William Fisher.<footnote>
-<indexterm><primary>Netanel, Neil Weinstock</primary></indexterm>
-<indexterm><primary>Fisher, William</primary></indexterm>
 <para>
 <!-- f9. --> William Fisher, Digital Music: Problems and Possibilities (last revised:
 10 October 2000), available at 
@@ -14086,6 +14131,8 @@ popular. As is typical with Stallman, his proposal predates the current
 		debate
 by about a decade. See 
 <ulink url="http://free-culture.cc/notes/">link #85</ulink>.
+<indexterm><primary>Netanel, Neil Weinstock</primary></indexterm>
+<indexterm><primary>Fisher, William</primary></indexterm>
 </para></footnote>
  Fisher suggests a
 very clever way around the current impasse of the Internet. Under his
