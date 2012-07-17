@@ -57,3 +57,6 @@ stats:
 	date +"%Y-%m-%dT%H%M" ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
 	) | tee -a stats.txt
+
+lint:
+	xmllint --nonet --noout --postvalid --xinclude freeculture.xml
