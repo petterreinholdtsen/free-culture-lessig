@@ -30,7 +30,7 @@ all: epub pdf
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 
-freeculture.nb.xml: freeculture.nb.po freeculture.xml
+freeculture.nb.xml: lint freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
 pdf: freeculture.nb.pdf freeculture.pdf
