@@ -21287,7 +21287,7 @@ msgstr ""
 "Da denne bataljen brøt ut, blogget jeg om dette.  En heftig debatt brøt ut i "
 "kommentarfeltet.  Ms. Boland hadde en rekke støttespillere som forsøkte å "
 "vise hvorfor hennes kommentarer ga mening.  Men det var spesielt en "
-"kommentar som gjorde meg trist.  En anonym kommmentator skrev,"
+"kommentar som gjorde meg trist.  En anonym kommentator skrev,"
 
 #.  PAGE BREAK 275
 #. type: Content of: <book><chapter><blockquote><para>
