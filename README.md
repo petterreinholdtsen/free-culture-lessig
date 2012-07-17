@@ -49,6 +49,7 @@ packages are needed:
   po4a
   dblatex
   dbtoepub
+  libxml2-utils
 
 When the build requirements are in place, the PDF and EPUB version of
 the book can be build by running 'make' on the command line.
