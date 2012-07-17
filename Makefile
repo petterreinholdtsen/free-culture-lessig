@@ -25,12 +25,12 @@ XP = xsltproc \
 
 DBTOEPUB = dbtoepub
 
-all: epub pdf
+all: lint lint.nb epub pdf
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 
-freeculture.nb.xml: lint freeculture.nb.po freeculture.xml
+freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
 pdf: freeculture.nb.pdf freeculture.pdf
@@ -58,5 +58,8 @@ stats:
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
 	) | tee -a stats.txt
 
-lint:
+lint: freeculture.xml
 	xmllint --nonet --noout --postvalid --xinclude freeculture.xml
+
+lint.nb: freeculture.nb.xml
+	xmllint --nonet --noout --postvalid --xinclude freeculture.nb.xml
