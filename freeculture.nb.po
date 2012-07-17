@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-17 19:09+0300\n"
+"POT-Creation-Date: 2012-07-17 19:30+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5419,15 +5419,10 @@ msgstr ""
 "opphavsretten internasjonalt. Vi kan ha vært født en pirat nasjon, men vi "
 "tillater ikke noen annen nasjon til å ha en lignende barndom."
 
-#. type: Content of: <book><chapter><para><footnote><indexterm><primary>
+#. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 msgid "Drahos, Peter"
 msgstr "Drahos, Peter"
 
-#. type: Content of: <book><chapter><para><footnote>
-msgid "<placeholder type=\"indexterm\" id=\"0\"/>"
-msgstr "<placeholder type=\"indexterm\" id=\"0\"/>"
-
-#.  f2
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5443,7 +5438,8 @@ msgid ""
 "public, noncommercial uses without first obtaining the patent holder's "
 "permission. Developing nations may be able to use this to gain the benefits "
 "of foreign patents at lower prices. This is a promising strategy for "
-"developing nations within the TRIPS framework."
+"developing nations within the TRIPS framework.  <placeholder type=\"indexterm"
+"\" id=\"0\"/>"
 msgstr ""
 "se peter drahos med john braithwaite, informasjon Føydalisme: hvem som eier "
 "knowledge economy? (new york: ny press, 2003), 10­13, 209. handel-relaterte "
@@ -21268,9 +21264,12 @@ msgstr ""
 "Føydalisme depended upon maksimal kontroll og konsentrasjon. det kjempet "
 "noen friheten som kan forstyrre denne kontrollen."
 
-#.  f10.
 #. type: Content of: <book><chapter><para><footnote><para>
-msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
+#, mtrans, fuzzy
+#| msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
+msgid ""
+"See Drahos with Braithwaite, Information Feudalism, 210&ndash;20.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr "Se Drahos og Braithwaite, Information Feudalism, 210&ndash;­20."
 
 #. type: Content of: <book><chapter><para>
