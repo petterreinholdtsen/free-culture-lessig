@@ -25,7 +25,7 @@ XP = xsltproc \
 
 DBTOEPUB = dbtoepub
 
-all: pdf epub
+all: epub pdf
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -33,7 +33,7 @@ freeculture.nb.po: freeculture.pot
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
-pdf: freeculture.pdf freeculture.nb.pdf 
+pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
