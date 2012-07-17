@@ -23385,15 +23385,14 @@ msgstr ""
 
 #.  D.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are many who are using file-sharing networks to get access to content "
 "that is not copyrighted or to get access that the copyright owner plainly "
 "endorses."
 msgstr ""
-"Det er mange som bruker fildelingsprogrammer nettverk å få tilgang til "
-"innhold som ikke er beskyttet av opphavsretten, eller å få tilgang som "
-"eieren av opphavsretten tydelig godkjenner."
+"Det er mange som bruker fildelingsnettverk for å få tilgang til "
+"innhold som ikke er opphavsrettsbeskyttet, eller for å få tilgang som "
+"opphavsrettsinnehaveren åpenbart går god for."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
