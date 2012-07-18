@@ -21138,11 +21138,12 @@ msgid ""
 "meeting which has as its purpose to disclaim or waive such rights seems to "
 "us to be contrary to the goals of WIPO.\""
 msgstr ""
-"Hva var overraskende var USA regjeringens begrunnelse for motstridende "
-"møtet. igjen, som rapportert av krim, lois boland, direktør ved "
+
+"Det som var overraskende var USAs regjerings begrunnelse for å være
+imot møtet.  igjen, som rapportert av krim, lois boland, direktør ved "
 "internasjonale forbindelser for US patent og trademark office, forklarte at "
-"\"åpen kilde-programvare kjører teller til mission av wipo, som er å fremme "
-"intellektuelle-egenskapen rettigheter.\" hun er sitert som sier, \"for å "
+"\"åpen kildekode-programvare går imot til formålet til WIPO, som er å fremme "
+"intellektuelle-eiendomsrettigheter.\" hun er sitert som sier, \"for å "
 "holde et møte som har som sitt formål å fraskriver seg eller frafalle slike "
 "rettigheter synes å oss å være i strid med målene for wipo.\""
 
