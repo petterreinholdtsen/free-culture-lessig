@@ -1103,7 +1103,7 @@ msgstr ""
 "borte hvis vi alle bare slo av internettet.  De påvirker ikke folk som "
 "ikke bruker internettet, eller i det miste påvirker det ikke dem "
 "direkte.  De er et godt tema for en bok om internettet.  Men dette er "
-"ikke en bok om internettet.
+"ikke en bok om internettet."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
