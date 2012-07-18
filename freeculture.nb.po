@@ -20784,9 +20784,9 @@ msgid ""
 "When the common sense of a generation finally revolts against what we have "
 "done, how will we justify what we have done? What is the argument?"
 msgstr ""
-"Så når du konfronteres av den sunne fornuften til ditt barn, hva vil du si?  "
+"Så når du konfronteres av ditt barns sunne fornuft, hva vil du si?  "
 "Når den sunne fornuften hos en generasjon endelig gjør opprør mot hva vi har "
-"gjort, hvordan vil vi rettferdiggjøre hva vi har gjort?  Hva er argumentet?"
+"gjort, hvordan vil vi rettferdiggjøre det?  Hva er argumentet?"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
