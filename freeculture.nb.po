@@ -1564,15 +1564,14 @@ msgstr ""
 "trespass. men konsekvensene av dette dumhet vil være mye mer dyptgripende."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The struggle that rages just now centers on two ideas: \"piracy\" and "
 "\"property.\" My aim in this book's next two parts is to explore these two "
 "ideas."
 msgstr ""
-"kampen rages akkurat nå centers på to ideer: \"piratkopiering\" og "
-"\"egenskapen.\" mitt mål i denne boken neste to deler er å utforske disse to "
-"ideer."
+"Basketaket som pågår akkurat nå senterer seg rundt to ideer: "
+"\"piratvirksomhet\" og \"eiendom\".  Mitt mål med denne bokens neste "
+"to deler er å utforske disse to ideene."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
