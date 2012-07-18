@@ -1301,14 +1301,13 @@ msgstr ""
 "av kultur. de lykkes i sin plan å remake Internett før Internett remakes dem."
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Amy Harmon, \"Black Hawk Download: Moving Beyond Music, Pirates Use New "
 "Tools to Turn the Net into an Illicit Video Club,\" New York Times, 17 "
 "January 2002."
 msgstr ""
-"Amy harmon, \"black hawk nedlasting: flytte utover musikk, pirater Bruk nye "
-"verktøy for å gjøre nettet til en illegale video klubb,\" new york times, 17 "
+"Amy Harmon, \"Black Hawk Download: Moving Beyond Music, Pirates Use New "
+"Tools to Turn the Net into an Illicit Video Club,\" New York Times, 17. "
 "januar 2002."
 
 #. type: Content of: <book><chapter><para>
