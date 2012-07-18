@@ -761,7 +761,6 @@ msgstr ""
 
 #.  PAGE BREAK 19
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Edwin Howard Armstrong is one of America's forgotten inventor geniuses. He "
 "came to the great American inventor scene just after the titans Thomas "
@@ -773,15 +772,15 @@ msgid ""
 "least three occasions, Armstrong invented profoundly important technologies "
 "that advanced our understanding of radio."
 msgstr ""
-"Edwin howard armstrong er en av Amerikas glemt oppfinner genier. Han kom til "
-"den store amerikanske oppfinner scenen rett etter the Titans skriver thomas "
-"edison og alexander graham bell. men hans arbeid i området i radioteknologi "
-"var kanskje den viktigste av alle enkelt oppfinner i de første femti årene "
-"av radio. Han utdannet seg bedre enn michael faraday, som en bookbinder "
-"lærling hadde oppdaget elektrisk induksjon i 1831. men han hadde samme "
-"intuisjon om hvordan verden av radio virket, og på minst tre anledninger, "
-"armstrong oppfunnet svært viktig teknologier som avanserte vår forståelse av "
-"radio."
+"Edwin Howard Armstrong er en av USAs glemte oppfinnergenier. Han "
+"dukket opp etter oppfinner-titaner som Thomas Edison og Alexander "
+"Graham Bell.  Alle hans bidrag på området radioteknologi gjør han til "
+"kanskje den viktigste av alle enkeltoppfinnere i de første femti årene "
+"av radio.  Han var bedre utdannet enn Michael Faraday, som var "
+"bookbinderlærling da han oppdaget elektrisk induksjon i 1831.  Men han "
+"hadde like god intuisjon om hvordan radioverden virket, og ved minst "
+"tre anledninger, fant armstrong opp svært viktig teknologier som "
+"brakte vår forståelse av radio et hopp videre."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
