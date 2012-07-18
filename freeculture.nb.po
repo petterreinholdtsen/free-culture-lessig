@@ -871,7 +871,6 @@ msgstr ""
 "hele USA, men stasjonene i store byer var eid av en håndfull av nettverk."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "RCA's president, David Sarnoff, a friend of Armstrong's, was eager that "
 "Armstrong discover a way to remove static from AM radio. So Sarnoff was "
@@ -879,11 +878,11 @@ msgid ""
 "from \"radio.\" But when Armstrong demonstrated his invention, Sarnoff was "
 "not pleased."
 msgstr ""
-"rca's president, david sarnoff, en venn av Armstrongs, var ivrig etter at "
-"armstrong oppdager at en måte å fjerne statiske fra am radio. så sarnoff var "
-"ganske spent da armstrong fortalte ham at han hadde en enhet som fjernet "
-"statisk fra \"radio.\", men når armstrong demonstrerte hans oppfinnelse, var "
-"sarnoff ikke fornøyd."
+"Presidenten i RCA, David Sarnoff, en venn av Armstrong, var ivrig etter å få "
+"Armstrong til å oppdage en måte å fjerne støyen fra AM-radio. Så Sarnoff var "
+"ganske spent da Armstrong fortalte ham at han hadde en enhet som fjernet "
+"støy fra \"radio.\".   Men da armstrong demonstrerte sin oppfinnelse, var "
+"ikke Sarnoff fornøyd."
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid ""
@@ -891,6 +890,9 @@ msgid ""
 "Electronic Church of America, at www.webstationone.com/fecha, available at "
 "<ulink url=\"http://free-culture.cc/notes/\">link #1</ulink>."
 msgstr ""
+"Se \"Saints: The Heroes and Geniuses of the Electronic Era,\" første "
+"elektroniske kirke i USA, hos www.webstationone.com/fecha, tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #1</ulink>."
 
 #. type: Content of: <book><chapter><blockquote><para>
 msgid ""
