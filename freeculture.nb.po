@@ -851,7 +851,6 @@ msgstr ""
 
 #.  PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "As our own common sense tells us, Armstrong had discovered a vastly superior "
 "radio technology. But at the time of his invention, Armstrong was working "
@@ -859,11 +858,12 @@ msgid ""
 "By 1935, there were a thousand radio stations across the United States, but "
 "the stations in large cities were all owned by a handful of networks."
 msgstr ""
-"som vår egen sunn fornuft forteller oss, hadde armstrong oppdaget en "
-"telefonsamtale radioteknologi. men på tidspunktet for hans oppfinnelse, "
-"armstrong var i arbeid for rca. RCA var den dominerende aktør i det deretter "
-"dominerende am radiomarkedet. som 1935, var det tusen radiostasjoner over "
-"hele USA, men stasjonene i store byer var eid av en håndfull av nettverk."
+"Som vår egen sunn fornuft forteller oss, hadde Armstrong oppdaget en "
+"mye bedre radioteknologi.  Men på tidspunktet for hans oppfinnelse, "
+"jobbet Armstrong for RCA. RCA var den dominerende aktøren i det da "
+"dominerende AM-radiomarkedet. I 1935 var det tusen radiostasjoner over "
+"hele USA, men stasjonene i de store byene var alle eid av en liten håndfull "
+"selskaper."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
