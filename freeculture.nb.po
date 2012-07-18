@@ -704,7 +704,6 @@ msgstr "\"Ideen er i strid med sunn fornuft.\""
 
 #.  PAGE BREAK 18
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This is how the law usually works. Not often this abruptly or impatiently, "
 "but eventually, this is how it works. It was Douglas's style not to dither. "
@@ -715,14 +714,16 @@ msgid ""
 "the time. And as it adjusts, it changes. Ideas that were as solid as rock in "
 "one age crumble in another."
 msgstr ""
-"Dette er hvordan loven fungerer vanligvis. ikke ofte dette brått eller "
-"impatiently, men til slutt, er dette hvordan det fungerer. Det var douglas's "
-"stil ikke å spre. andre justiariusene ville har blathered på for sider å "
-"trekke konklusjonen som douglas inneholder i en enkelt linje: \"sunn fornuft "
-"opprør idé.\", men om det tar sider eller et par ord, det er spesielle geni "
-"av et felles lov-system, som vår er at loven justerer til teknologier av "
-"tiden. og når den er justert, endres den. ideer som var så solid som rock i "
-"en alder crumble i et annet."
+"Det er hvordan loven vanligvis fungerer.  Ikke ofte like brått eller "
+"utålmodig, men til slutt er dette hvordan loven fungerer.  Det var "
+"Douglas sin stil å ikke utbrodere.  Andre dommere ville ha skrevet "
+"mange flere sider før de nådde sin konklusjon, men for Douglas holdt "
+"det med en enkel linje: \"Ideen er i strid med sunn fornuft.\".  Men "
+"uansett om det tar flere sider eller kun noen få ord, så er det en "
+"genial egenskap med et lovpraksis-system, slik som vårt er, at loven "
+"tilpasser seg til aktuelle teknologiene.  Og mens den tilpasser seg, "
+"så endres den.  Ideer som var solide som fjell i en tidsalder knuses i "
+"en annen."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
