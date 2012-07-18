@@ -998,7 +998,6 @@ msgstr ""
 "spredningen av fm-radio ble dermed choked, minst midlertidig."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Armstrong resisted RCA's efforts. In response, RCA resisted Armstrong's "
 "patents. After incorporating FM technology into the emerging standard for "
@@ -1010,15 +1009,16 @@ msgid ""
 "broken, and now broke, in 1954 Armstrong wrote a short note to his wife and "
 "then stepped out of a thirteenth-story window to his death."
 msgstr ""
-"Armstrong motstått rca's innsats. svar motstått rca Armstrongs patenter. "
-"etter innlemme fm-teknologien i den nye standarden for TV, rca erklærte "
-"patentene ugyldig&mdash;baselessly og nesten femten år etter at de ble "
-"utstedt. det dermed nektet å betale royalties til ham. i seks år kjempet "
-"armstrong en kostbar krig til søksmål for å forsvare patentene. til slutt, "
-"akkurat som patentene utløpt, rca tilbudt en utligning som er så lav at det "
-"ikke ville selv dekke Armstrongs lawyers avgifter. beseiret, ødelagte og nå "
-"blakk, i 1954 armstrong skrev en kort notat til kona og deretter gikk ut av "
-"et trettende-etasjers vindu til hans død."
+"Armstrong sto imot RCAs innsats. Som svar motsto RSA Armstrongs "
+"patenter.  Etter å ha bakt FM-teknologi inn i den nye standarden for "
+"TV, erklerte RCS patentene ugyldige&mdash;uten grunn og nesten femten "
+"år etter at de ble utstedet.  De nektet dermed å betale ham for bruken "
+"av patentene.  I seks år kjempet Armstrong en dyr søksmålskrig for å "
+"forsvare patentene sine.  Til slutt, samtidig som patentene utløp, "
+"tilbød RCA et forlik så lavt at det ikke engang dekket Armstrongs "
+"advokatregning.  Beseiret, knust og nå blakk, skrev Armstrong i 1954 "
+"en kort beskjed til sin kone, gikk ut av et vindu i trettende etasje "
+"og falt i døden."
 
 #.  PAGE BREAK 22
 #. type: Content of: <book><chapter><para>
