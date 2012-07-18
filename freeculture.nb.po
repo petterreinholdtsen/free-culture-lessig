@@ -783,7 +783,6 @@ msgstr ""
 "brakte vår forståelse av radio et hopp videre."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "On the day after Christmas, 1933, four patents were issued to Armstrong for "
 "his most significant invention&mdash;FM radio. Until then, consumer radio "
@@ -793,13 +792,13 @@ msgid ""
 "frequency-modulated radio in a wide band of spectrum would deliver an "
 "astonishing fidelity of sound, with much less transmitter power and static."
 msgstr ""
-"på dagen etter jul, var 1933, fire patenter utstedt til armstrong for hans "
-"viktigste oppfinnelse&mdash;fm-radio. inntil da, hadde forbruker radio vært "
-"amplitude modulated (am)-radio. teoretikere av dagen hadde sagt at frekvens-"
-"modulated (fm)-radio kan aldri fungere. de var rett om fm-radio i et smale "
-"band av spekteret. men armstrong oppdaget at frekvens-modulated radio i et "
-"bredt spektrum-band ville levere en forbløffende gjengivelse av lyd, med mye "
-"mindre transmitter strøm og statisk."
+"Dagen etter julaften i 1933, ble fire patenter utstedt til Armstrong "
+"for hans mest signifikante oppfinnelse&mdash;FM-radio.  Inntil da "
+"hadde forbrukerradioer vært amplitude-modelert (AM) radio.  Tidens "
+"teoretikere hadde sagt at frekvens-modelert (FM) radio.  De hadde rett "
+"når det gjelder et smalt bånd av spektrummet.  Men Armstrong oppdaget "
+"at frekvens-modelert radio i et vidt bånd i spektrummet leverte en "
+"forbløffende gjengivelse av lyd, med mye mindre senderstyrke og støy."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -826,13 +825,11 @@ msgid "The audience was hearing something no one had thought possible:"
 msgstr "Publikum hørte noe ingen hadde trodd var mulig:"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Lawrence Lessing, Man of High Fidelity: Edwin Howard Armstrong "
 "(Philadelphia: J. B. Lipincott Company, 1956), 209."
 msgstr ""
-"Lawrence lessing, mann av Hi-Fi: edwin howard armstrong (philadelphia: j. b. "
-"lipincott selskap, 1956), 209."
+"Lawrence Lessing, Man of High Fidelity:: Edwin Howard Armstrong (Philadelphia: J. B. Lipincott Company, 1956), 209."
 
 #. type: Content of: <book><chapter><blockquote><para>
 msgid ""
