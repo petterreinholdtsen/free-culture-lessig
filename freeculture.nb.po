@@ -803,7 +803,6 @@ msgstr ""
 "mindre transmitter strøm og statisk."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "On November 5, 1935, he demonstrated the technology at a meeting of the "
 "Institute of Radio Engineers at the Empire State Building in New York City. "
