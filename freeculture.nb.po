@@ -846,6 +846,13 @@ msgid ""
 "heard before from a radio \"music box.\"<placeholder type=\"footnote\" id="
 "\"0\"/>"
 msgstr ""
+"Et glass vann ble fyllt opp foran mikrofonen i Yonkers, og det "
+"hørtes ut som et plass som ble fyllt opp. . . . Et papir ble krøllet "
+"og revet opp, og det hørtes ut som papir og ikke som en "
+"sprakende skogbrann. . . . Sousa-marsjer ble spilt av fra plater og en "
+"pianosolo og et gitarnummer ble utført. . . . Musikken ble presentert "
+"med en livaktighet som sjeldent om noen gang før hadde vært hørt fra "
+"en radio-\"musikk-boks\".<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
