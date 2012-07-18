@@ -973,6 +973,10 @@ msgid ""
 "were almost incredible in their force and deviousness.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"Serien med slag mot kroppen som FM-radio mottok rett etter krigen, i "
+"en serie med avgjørelser manipulert gjennom FCC av de store "
+"radiointeressene, var nesten utrolige i deres kraft og "
+"underfundighet.<placeholder type=" "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "AT&amp;T"
