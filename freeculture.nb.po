@@ -1600,7 +1600,6 @@ msgstr ""
 "grunnleggende om hvem vi har alltid vært."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We allow this, I believe, not because it is right, and not because most of "
 "us really believe in these changes. We allow it because the interests most "
@@ -1609,12 +1608,13 @@ msgid ""
 "consequence of this form of corruption&mdash;a consequence to which most of "
 "us remain oblivious."
 msgstr ""
-"Vi tillater dette, jeg tror, ikke fordi det er riktig, og ikke fordi de "
-"fleste av oss virkelig tror på disse endringene. Vi tillater det fordi "
-"interesser som er truet mest er blant de mektigste spillerne i våre "
-"depressingly kompromittert prosessen med å lage lov. Denne boken er "
-"historien om en mer konsekvens av denne formen for korrupsjon&mdash;en "
-"konsekvens som de fleste av oss fortsatt oblivious."
+"Jeg tror vi tillater dette, ikke fordi det er riktig, og heller ikke "
+"fordi de fleste av oss tror på disse endringene.  Vi tillater det på "
+"grunn av at de interssene som er mest truet er blant de mest mektige "
+"aktørene i vår deprimerende kompromiterte prosess for å utforme lover. "
+"Denne boken er historien om nok en konsekvens for denne type "
+"korrupsjon&mdash;en konsekvens for de fleste av oss forblir ukjent "
+"med."
 
 #. type: Content of: <book><chapter><title>
 msgid "\"PIRACY\""
