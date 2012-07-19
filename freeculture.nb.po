@@ -1544,21 +1544,20 @@ msgstr ""
 "system som fanges opp av noen kraftige spesielle interesser?"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Does common sense lead to the extremes on this question because common sense "
 "actually believes in these extremes? Or does common sense stand silent in "
 "the face of these extremes because, as with Armstrong versus RCA, the more "
 "powerful side has ensured that it has the more powerful view?"
 msgstr ""
-"sunn fornuft fører til ekstreme på dette spørsmålet fordi sunn fornuft "
-"faktisk tror på disse ekstreme? eller gjør sunn fornuft stå stille i "
-"ansiktet av disse ytterpunktene fordi, som med armstrong versus rca, "
-"kraftigere siden har sikret at det har kraftigere visningen?"
+"Fører sunn fornuft til det ekstreme i dette spørsmålet på grunn av at "
+"sunn fornuft faktisk tror på dette ekstreme?  Eller står sunn fornuft "
+"i stillhet i møtet med dette ekstreme fordi, som med Armstrong versus "
+"RCA, at den mer mektige siden har sikret seg at det har et mye mer "
+"mektig synspunkt?"
 
 #.  PAGE BREAK 28
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I don't mean to be mysterious. My own views are resolved. I believe it was "
 "right for common sense to revolt against the extremism of the Causbys. I "
@@ -1568,12 +1567,14 @@ msgid ""
 "for trespass. But the consequences of this silliness will be much more "
 "profound."
 msgstr ""
-"Jeg trenger ikke bety å være mystisk. mine egne synspunkter er løst. Jeg "
-"tror det var riktig for sunn fornuft til å gjøre opprør mot ekstremisme av "
-"causbys. Jeg tror det vil være rett for sunn fornuft til å gjøre opprør mot "
-"ekstreme krav gjort i dag på vegne av \"intellektuelle eiendom.\" hva loven "
-"krever i dag er stadig like dumt som en sheriff arrestere et fly for "
-"trespass. men konsekvensene av dette dumhet vil være mye mer dyptgripende."
+"Jeg forsøker ikke å være mystisk.  Mine egne synspunkter er klare. "
+"Jeg mener det var riktig for sunn fornuft å gjøre opprør mot "
+"ekstremismen til Causbyene.  Jeg mener det ville være riktig for sunn "
+"fornuft å gjøre opprør mot de ekstreme krav som gjøres i dag på vegne "
+"av \"immaterielle rettigheter\".  Det som loven krever i dag er mer å "
+"mer like dumt som om lensmannen skulle arrestere en flymaskin for å "
+"trenge inn på annen manns eiendom.  Men konsekvensene av den nye domskapen "
+"vil bli mye mer dyptgripende."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1586,7 +1587,6 @@ msgstr ""
 "to deler er å utforske disse to ideene."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My method is not the usual method of an academic. I don't want to plunge you "
 "into a complex argument, buttressed with references to obscure French "
@@ -1595,12 +1595,12 @@ msgid ""
 "context within which these apparently simple ideas can be more fully "
 "understood."
 msgstr ""
-"min metode er ikke vanlig metode av en akademiker. Jeg ønsker ikke å satse "
-"du i en kompleks argument, buttressed med referanser til obskure franske "
-"teoretikere&mdash;men naturlig som gjelder rare sorteringen vi akademikere "
-"har blitt. i stedet begynner jeg i hver del med en samling av historier som "
-"angir en kontekst som er innenfor disse tilsynelatende enkle ideer kan være "
-"mer fullt forstått."
+"Metoden min er ikke den vanlige metoden for en akademiker.  Jeg "
+"ønsker ikke å pløye deg inn i et komplisert argument, steinsatt med "
+"referanser til obskure franske teoretikere&mdash;uansett hvor naturlig "
+"det har blitt for den rare sorten vi akademikere har blitt.  Jeg vil i "
+"stedet begynne hver del med en samling historier som etablerer en "
+"sammenheng der disse tilsynelatende enkle ideene kan bli fullt ut forstått."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
