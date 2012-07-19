@@ -23476,13 +23476,12 @@ msgstr ""
 "b, og er dominerende bruk av deling av nettverk."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Nonetheless, there is a crucial fact about the current technological context "
 "that we must keep in mind if we are to understand how the law should respond."
 msgstr ""
-"Likevel, det er en avgjørende faktor om gjeldende teknologiske kontekst som "
-"vi må huske på at vi skal forstå hvordan loven skal reagere."
+"Uansett, det er et avgjørende faktum om den gjeldende teknologiske omgivelsen "
+"som vi må huske på hvis vi skal forstå hvordan loven bør reagere."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -23543,6 +23542,9 @@ msgid ""
 "2002, available at <ulink url=\"http://free-culture.cc/notes/\">link #76</"
 "ulink>."
 msgstr ""
+"For eksempel, se, \"Music Media Watch,\" The J@pan Inc. Newsletter, 3 April "
+"2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #76</"
+"ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -23725,13 +23727,13 @@ msgstr ""
 "for å levere og tilgang til innhold."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "So here's a solution that will at first seem very strange to both sides in "
 "this war, but which upon reflection, I suggest, should make some sense."
 msgstr ""
-"så her er en løsning som vil først virke underlig til begge sider i denne "
-"krigen, men som på refleksjon, jeg foreslå, bør gjøre noe fornuftig."
+"Så her er en løsning som i første omgang kan virke veldig undelig for "
+"begge sider i denne krigen, men som jeg tror vil gi mer mening når en "
+"får tenkt seg om."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
