@@ -924,8 +924,8 @@ msgid ""
 msgstr ""
 "Kreftene til fordel for FM, i hovedsak ingeniørfaglige, kunne ikke overvinne "
 "tyngden til strategien utviklet av avdelingene for salg, patenter og juss "
-"for å undertrykke denne trusselen til selskapets posisjon.  For FM, hvis den "
-"fikk utvikle seg ubegrenset, utgjorde . . . en komplett endring i "
+"for å undertrykke denne trusselen til selskapets posisjon.  For FM utgjorde, "
+"hvis det fikk utvikle seg uten begrensninger . . . en komplett endring i "
 "maktforholdene rundt radio . . . og muligens fjerningen av det nøye "
 "begrensede AM-systemet som var grunnlaget for RCA stigning til makt."
 "<placeholder type=\"footnote\" id=\"0\"/>"
@@ -13258,13 +13258,12 @@ msgstr ""
 "artikkel om rupert murdoch,"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): "
 "89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"James fallows, \"en alder av murdoch,\" atlantic monthly (september 2003): "
-"89."
+"James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (september 2003): "
+"89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 msgid ""
