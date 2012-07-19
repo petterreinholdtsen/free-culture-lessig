@@ -23152,33 +23152,31 @@ msgstr ""
 "er ikke gjort er ikke gjort, og det er ingenting vi kan gjøre med det nå."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "These changes together should produce an average copyright term that is much "
 "shorter than the current term. Until 1976, the average term was just 32.2 "
 "years. We should be aiming for the same."
 msgstr ""
-"disse endringene skal sammen produsere en gjennomsnittlig opphavsrett begrep "
-"som er mye kortere enn gjeldende begrepet. frem til 1976 var gjennomsnittlig "
-"begrepet bare 32.2 år. Vi bør være sikter for samme."
+"Disse endringene vil sammen gi en gjennomsnittlig opphavsrettslig "
+"vernetid som er mye kortere enn den gjeldende vernetiden.  Frem til "
+"1976 var gjennomsnittelig vernetid kun 32.2 år.  Vårt mål bør være det "
+"samme."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "No doubt the extremists will call these ideas \"radical.\" (After all, I "
 "call them \"extremists.\") But again, the term I recommended was longer than "
 "the term under Richard Nixon. How \"radical\" can it be to ask for a more "
 "generous copyright law than Richard Nixon presided over?"
 msgstr ""
-"uten tvil vil ekstremistene kalle disse ideene \"radikale\". (tross alt, jeg "
-"kaller dem \"ekstremister.\") men igjen, jeg anbefalt begrepet var lengre "
-"enn begrepet under richard nixon. hvordan \"radikale\" kan det være for å be "
-"om en mer sjenerøs opphavsrettighet enn richard nixon presided over?"
+"Uten tvil vil ekstremistene kalle disse ideene \"radikale\". (Tross alt, så "
+"kaller jeg dem \"ekstremister\".) Men igjen, vernetiden jeg anbefalte var "
+"lengre enn vernetiden under Richard Nixon. hvor \"radikalt\" kan det være "
+"å be om en mer sjenerøs opphavsrettighet enn da Richard Nixon var president?"
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "3. Free Use Vs. Fair Use"
-msgstr "3. gratis bruk vs. fair use"
+msgstr "3. Fri Bruk vs. rimelig bruk"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
