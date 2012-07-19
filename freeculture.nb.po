@@ -1223,6 +1223,18 @@ msgid ""
 "The consequence is that we are less and less a free culture, more and more a "
 "permission culture."
 msgstr ""
+"Denne grove inndelingen mellom den frie og den kontrollerte har nå "
+"blitt fjernet.<placeholder type=\"footnote\" id=\"0\"/> Internettet "
+"har satt scenen for denne fjerningen, og pressen frem av store "
+"medieaktører har loven nå påvirket det.  For første gang i vår "
+"tradisjon, har de vanlige måtene som individer skaper og deler kultur "
+"havnet innen rekekvidde for reguleringene til loven, som har blitt "
+"utvidet til å dra inn i sitt kontrollområde den enorme mengden kultur "
+"og kreativitet som den aldri tidligere har nådd over.  Teknologien som "
+"tok vare på den histiske balansen&mdash;mellom bruken av den delen av "
+"kulturen vår som var fri og bruken av vår kultur som krevde "
+"tillatelse&mdash;har blitt borte.  Konsenvensen er at vi er mindre og "
+"mindre en fri kultur, og mer og mer en tillatelseskultur."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
