@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-19 21:19+0300\n"
+"POT-Creation-Date: 2012-07-19 21:43+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -782,8 +782,8 @@ msgstr ""
 "var bedre utdannet enn Michael Faraday, som var bookbinderlærling da han "
 "oppdaget elektrisk induksjon i 1831.  Men han hadde like god intuisjon om "
 "hvordan radioverden virket, og ved minst tre anledninger, fant Armstrong opp "
-"svært viktig teknologier som brakte vår forståelse av radio et hopp videre.  <placeholder type=\"indexterm\" "
-"id=\"0\"/>"
+"svært viktig teknologier som brakte vår forståelse av radio et hopp videre.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1987,12 +1987,17 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Iwerks, Ub"
+msgstr "Iwerks, Ub"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
 "Disney's then partner, and one of animation's most extraordinary talents, Ub "
 "Iwerks, put it more strongly: \"I have never been so thrilled in my life. "
-"Nothing since has ever equaled it.\""
+"Nothing since has ever equaled it.\" <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 msgstr ""
 "Disney's deretter partner, og en av animasjons mest ekstraordinære talenter, "
 "ub iwerks, sette det mer sterkt: \"Jeg har aldri vært så begeistret i mitt "
@@ -7773,13 +7778,25 @@ msgstr ""
 "forståelse av sedvanerett, nå en copyright ble løst i en begrenset periode, "
 "hvoretter arbeidet beskyttet av opphavsrett sendes til public domain."
 
-#. type: Content of: <book><chapter><sect1><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Bacon, Francis"
 msgstr "Bacon, Francis"
 
-#. type: Content of: <book><chapter><sect1><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Bunyan, John"
 msgstr "Bunyan, John"
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Johnson, Samuel"
+msgstr "Johnson, Samuel"
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Milton, John"
+msgstr "Milton, John"
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Shakespeare, William"
+msgstr "Shakespeare, William"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -7790,7 +7807,10 @@ msgid ""
 "domain was born. For the first time in Anglo-American history, the legal "
 "control over creative works expired, and the greatest works in English "
 "history&mdash;including those of Shakespeare, Bacon, Milton, Johnson, and "
-"Bunyan&mdash;were free of legal restraint."
+"Bunyan&mdash;were free of legal restraint.  <placeholder type=\"indexterm\" "
+"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
+"<placeholder type=\"indexterm\" id=\"4\"/>"
 msgstr ""
 "\"i public domain.\" før saken av donaldson v. beckett, det var ingen klar "
 "idé av et offentlig-domene i england. før 1774 var det en sterk argumentet "
@@ -9516,6 +9536,10 @@ msgstr ""
 msgid "CHAPTER TEN: \"Property\""
 msgstr "Kapittel ti: \"Eiendom\""
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Johnson, Lyndon"
+msgstr "Johnson, Lyndon"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9525,7 +9549,7 @@ msgid ""
 "on Air Force One after the assassination of President Kennedy has Valenti in "
 "the background. In his almost forty years of running the MPAA, Valenti has "
 "established himself as perhaps the most prominent and effective lobbyist in "
-"Washington."
+"Washington.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Jack valenti har vært president i motion picture association of america "
 "siden 1966. først kom han til washington, DC, med lyndon johnson's "
