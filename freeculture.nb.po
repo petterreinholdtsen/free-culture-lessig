@@ -23408,12 +23408,11 @@ msgstr ""
 
 #.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
 msgstr ""
-"Det er noen som bruker deling nettverk som erstatninger for å kjøpe CDer."
+"Det er noen som bruker delingsnettverk som erstatninger for å kjøpe CDer."
 
 #.  B.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23422,21 +23421,20 @@ msgid ""
 "There are also some who are using sharing networks to sample, on the way to "
 "purchasing CDs."
 msgstr ""
-"Det er også noen som bruker deling nettverk for å prøve, på vei til å kjøpe "
+"Det er også noen som bruker delingsnettverk for å prøvelytte, på vei mot å kjøpe "
 "CDer."
 
 #.  PAGE BREAK 302
 #.  C.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are many who are using file-sharing networks to get access to content "
 "that is no longer sold but is still under copyright or that would have been "
 "too cumbersome to buy off the Net."
 msgstr ""
-"Det er mange som bruker fildelingsprogrammer nettverk til å få tilgang til "
-"innhold som selges ikke lenger, men er fortsatt under opphavsrett eller som "
-"ville ha vært altfor tunge å kjøpe fra nettet."
+"Det er mange som bruker fildelingsnettverk til å få tilgang til innhold som "
+"ikke lenger er i salg, men fortsatt er vernet av opphavsrett eller som "
+"ville ha vært altfor vanskelig å få kjøpt via nettet."
 
 #.  D.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
