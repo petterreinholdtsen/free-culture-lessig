@@ -1660,9 +1660,8 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Bach v. Longman, 98 Eng. Rep. 1274 (1777) (Mansfield)."
-msgstr "Bach v. longman, 98 eng. rep 1274 (1777) (mansfield)."
+msgstr "Bach v. Longman, 98 Eng. Rep. 1274 (1777) (Mansfield)."
 
 #. type: Content of: <book><chapter><blockquote><para>
 msgid ""
@@ -1670,6 +1669,10 @@ msgid ""
 "author of the profit, by multiplying copies and disposing of them for his "
 "own use.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"En person kan bruke kopien til å spille den, men han har ingen rett "
+"til å robbe forfatteren for profitten, ved å lage flere kopier og "
+"distribuere etter eget forgodtbefinnende.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 31
 #. type: Content of: <book><chapter><para>
