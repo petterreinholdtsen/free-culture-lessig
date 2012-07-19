@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2012-07-19 11:12+0300\n"
+"POT-Creation-Date: 2012-07-19 21:19+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -758,7 +758,10 @@ msgstr ""
 "ville vinne frem.  Deres \"personlige interesser\" ville ikke få lov til å "
 "nedkjempe en åpenbar fordel for fellesskapet."
 
-#.  PAGE BREAK 19
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Faraday, Michael"
+msgstr "Faraday, Michael"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Edwin Howard Armstrong is one of America's forgotten inventor geniuses. He "
@@ -769,7 +772,8 @@ msgid ""
 "as a bookbinder's apprentice had discovered electric induction in 1831. But "
 "he had the same intuition about how the world of radio worked, and on at "
 "least three occasions, Armstrong invented profoundly important technologies "
-"that advanced our understanding of radio."
+"that advanced our understanding of radio.  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 msgstr ""
 "Edwin Howard Armstrong er en av USAs glemte oppfinnergenier. Han dukket opp "
 "på oppfinnerscenen etter titaner som Thomas Edison og Alexander Graham "
@@ -778,7 +782,8 @@ msgstr ""
 "var bedre utdannet enn Michael Faraday, som var bookbinderlærling da han "
 "oppdaget elektrisk induksjon i 1831.  Men han hadde like god intuisjon om "
 "hvordan radioverden virket, og ved minst tre anledninger, fant Armstrong opp "
-"svært viktig teknologier som brakte vår forståelse av radio et hopp videre."
+"svært viktig teknologier som brakte vår forståelse av radio et hopp videre.  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -5740,6 +5745,10 @@ msgstr ""
 "reassemble eksisterende teknologi på oppfinnsomme måter. for en diskusjon av "
 "Christensens ideer, kan du se lawrence lessig, fremtidige, 89­92, 139."
 
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Fanning, Shawn"
+msgstr "Fanning, Shawn"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "Peer-to-peer sharing was made famous by Napster. But the inventors of the "
@@ -5747,7 +5756,7 @@ msgid ""
 "every great advance in innovation on the Internet (and, arguably, off the "
 "Internet as well<placeholder type=\"footnote\" id=\"0\"/>), Shawn Fanning "
 "and crew had simply put together components that had been developed "
-"independently."
+"independently.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  f6
@@ -17050,7 +17059,10 @@ msgstr ""
 "\"fremme... fremgang\"&mdash;gjennom betyr at er også spesifikke&mdash;av "
 "\"sikre\" \"enerett\" (det vil si opphavsrett) \"for begrenset ganger.\""
 
-#.  PAGE BREAK 223
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Jaszi, Peter"
+msgstr "Jaszi, Peter"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17061,7 +17073,7 @@ msgid ""
 "every time a copyright is about to expire, Congress has the power to extend "
 "its term, then Congress can achieve what the Constitution plainly "
 "forbids&mdash;perpetual terms \"on the installment plan,\" as Professor "
-"Peter Jaszi so nicely put it."
+"Peter Jaszi so nicely put it.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "i de siste 40 årene, har Kongressen fått i praksis for å utvide eksisterende "
 "vilkår for opphavsrettslig vern. Hva rådvill meg om dette var, hvis "
@@ -19617,7 +19629,7 @@ msgid ""
 "For at the start of this case, one of America's leading intellectual "
 "property professors stated publicly that my bringing this case was a "
 "mistake. \"The Court is not ready,\" Peter Jaszi said; this issue should not "
-"be raised until it is."
+"be raised until it is.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "og selv om jeg ikke kunne, deretter som unnskylde ikke hva som skjedde i "
 "januar. for ved starten av dette tilfellet uttalt en av Amerikas ledende "
@@ -23057,14 +23069,14 @@ msgid ""
 "clear and active \"lawyer-free zone\" makes the complexities of \"fair use\" "
 "and \"idea/expression\" less necessary to navigate."
 msgstr ""
-"Gjør det enkelt: Skillet mellom allmannseie og beskyttet innhold må "
-"holdes klart.  Advokater liker uklarheten til \"rimelig bruk\" og "
-"forskjellen mellom \"ideer\" og \"uttrykk\".  Denne type lovverk gir "
-"dem masse arbeide.  Men de som skrev grunnloven hadde en enklere ide: "
-"beskyttet versus ubeskyttet.  Verdien av korte vernetider er at det er "
-"lite behov for å bygge inn unntak i opphavsretten når vernetiden "
-"holdes kort.  En klar og aktiv \"advokat-fri sone\" gjør komplesiteten "
-"av \"rimelig bruk\" og \"ide/uttrykk\" mindre nødvendig å navigere."
+"Gjør det enkelt: Skillet mellom allmannseie og beskyttet innhold må holdes "
+"klart.  Advokater liker uklarheten til \"rimelig bruk\" og forskjellen "
+"mellom \"ideer\" og \"uttrykk\".  Denne type lovverk gir dem masse arbeide.  "
+"Men de som skrev grunnloven hadde en enklere ide: beskyttet versus "
+"ubeskyttet.  Verdien av korte vernetider er at det er lite behov for å bygge "
+"inn unntak i opphavsretten når vernetiden holdes kort.  En klar og aktiv "
+"\"advokat-fri sone\" gjør komplesiteten av \"rimelig bruk\" og \"ide/uttrykk"
+"\" mindre nødvendig å navigere."
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para><footnote><para>
@@ -23421,8 +23433,8 @@ msgid ""
 "There are also some who are using sharing networks to sample, on the way to "
 "purchasing CDs."
 msgstr ""
-"Det er også noen som bruker delingsnettverk for å prøvelytte, på vei mot å kjøpe "
-"CDer."
+"Det er også noen som bruker delingsnettverk for å prøvelytte, på vei mot å "
+"kjøpe CDer."
 
 #.  PAGE BREAK 302
 #.  C.
@@ -23433,8 +23445,8 @@ msgid ""
 "too cumbersome to buy off the Net."
 msgstr ""
 "Det er mange som bruker fildelingsnettverk til å få tilgang til innhold som "
-"ikke lenger er i salg, men fortsatt er vernet av opphavsrett eller som "
-"ville ha vært altfor vanskelig å få kjøpt via nettet."
+"ikke lenger er i salg, men fortsatt er vernet av opphavsrett eller som ville "
+"ha vært altfor vanskelig å få kjøpt via nettet."
 
 #.  D.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -23480,8 +23492,8 @@ msgid ""
 "Nonetheless, there is a crucial fact about the current technological context "
 "that we must keep in mind if we are to understand how the law should respond."
 msgstr ""
-"Uansett, det er et avgjørende faktum om den gjeldende teknologiske omgivelsen "
-"som vi må huske på hvis vi skal forstå hvordan loven bør reagere."
+"Uansett, det er et avgjørende faktum om den gjeldende teknologiske "
+"omgivelsen som vi må huske på hvis vi skal forstå hvordan loven bør reagere."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -23543,8 +23555,8 @@ msgid ""
 "ulink>."
 msgstr ""
 "For eksempel, se, \"Music Media Watch,\" The J@pan Inc. Newsletter, 3 April "
-"2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #76</"
-"ulink>."
+"2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#76</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -23731,9 +23743,9 @@ msgid ""
 "So here's a solution that will at first seem very strange to both sides in "
 "this war, but which upon reflection, I suggest, should make some sense."
 msgstr ""
-"Så her er en løsning som i første omgang kan virke veldig undelig for "
-"begge sider i denne krigen, men som jeg tror vil gi mer mening når en "
-"får tenkt seg om."
+"Så her er en løsning som i første omgang kan virke veldig undelig for begge "
+"sider i denne krigen, men som jeg tror vil gi mer mening når en får tenkt "
+"seg om."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
