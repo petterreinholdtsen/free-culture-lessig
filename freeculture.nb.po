@@ -1507,26 +1507,25 @@ msgstr ""
 "å kontrollere bruk av kultur er så unquestioningly godtatt som det er nå."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The puzzle is, Why? Is it because we have come to understand a truth about "
 "the value and importance of absolute property over ideas and culture? Is it "
 "because we have discovered that our tradition of rejecting such an absolute "
 "claim was wrong?"
 msgstr ""
-"puslespillet er, hvorfor? er det fordi vi har begynt å forstå en sannheten "
-"om verdien og betydningen av absolutt egenskapen over ideer og kultur? er "
-"det fordi vi har oppdaget at vår tradisjon for å avvise slikt et absolutt "
-"krav var galt?"
+"Gåten er, hvorfor det?  Er det fordi vi fått en innsikt i sannheten "
+"om verdien og betydningen av absolutt eierskap over ideer og kultur? "
+"Er det fordi vi har oppdaget at vår tradisjon med å avvise slike "
+"absolutte krav var feil?"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Or is it because the idea of absolute property over ideas and culture "
 "benefits the RCAs of our time and fits our own unreflective intuitions?"
 msgstr ""
-"eller er det fordi ideen om absolutt egenskapen over ideer og kultur "
-"fordeler rcas i vår tid og passer vår egen virke ureflekterende intuisjoner?"
+"Eller er det på grunn av at ideer om absolutt eierskap over ideer og "
+"kultur gir fordeler til RCA-ene i vår tid, og passer med vår "
+"ureflekterte intiusjon?"
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
