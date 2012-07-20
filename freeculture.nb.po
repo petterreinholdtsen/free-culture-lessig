@@ -146,6 +146,7 @@ msgid ""
 "HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
 "CREATIVITY"
 msgstr ""
+"Hvordan store mediaaktører bruker teknologi og loven til å låse ned kulturen og kontrollere kreativiteten"
 
 #. type: Content of: <book><chapter><para>
 msgid "LAWRENCE LESSIG"
@@ -2085,6 +2086,9 @@ msgid ""
 "Ate the Public Domain,\" Findlaw, 5 March 2002, at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #5</ulink>."
 msgstr ""
+"Han var også tilhenger av allmannseiet. Se Chris Sprigman, \"The Mouse that "
+"Ate the Public Domain,\" Findlaw, 5. mars 2002, fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #5</ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -4627,6 +4631,8 @@ msgid ""
 "Marc Wanamaker, \"The First Studios,\" The Silents Majority, archived at "
 "<ulink url=\"http://free-culture.cc/notes/\">link #12</ulink>."
 msgstr ""
+"Marc Wanamaker, \"The First Studios,\" The Silents Majority, arkivert på "
+"<ulink url=\"http://free-culture.cc/notes/\">link #12</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -6703,9 +6709,8 @@ msgstr ""
 "tross for. Hvis vi setter disse tilfellene sammen, et mønster er klart:"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><title>
-#, mtrans, fuzzy
 msgid "Table"
-msgstr "tabell"
+msgstr "Tabell"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><thead><row><entry>
 #, mtrans, fuzzy
@@ -6730,17 +6735,15 @@ msgstr "Responsen til Kongressen"
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
 msgid "Recordings"
-msgstr "innspillinger"
+msgstr "Innspillinger"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Composers"
-msgstr "komponister"
+msgstr "Komponister"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "No protection"
-msgstr "ingen beskyttelse"
+msgstr "Ingen beskyttelse"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
@@ -6750,31 +6753,28 @@ msgstr "lovbestemte lisens"
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
 msgid "Recording artists"
-msgstr "artister"
+msgstr "Innspillingsartister"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 msgid "N/A"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Nothing"
-msgstr "ingenting"
+msgstr "Ingenting"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Broadcasters"
-msgstr "TV-stasjoner"
+msgstr "Kringkastere"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
 msgid "VCR"
-msgstr "VCR"
+msgstr "Videoopptakere"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Film creators"
-msgstr "filmen skaperne"
+msgstr "Filmskapere"
 
 #.  f24
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -7561,15 +7561,18 @@ msgid ""
 "this fight was a Scottish bookseller named Alexander Donaldson.<placeholder "
 "type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Bokhandlernes argument ble ikke akseptert uten kamp.  Helten i denne "
+"kampen var en skotsk bokhandler ved navn Alexander "
+"Donaldson.<placeholder type=\"footnote\" id=\"0\"/>"
+
 
 #.  f8
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Mark Rose, Authors and Owners (Cambridge: Harvard University Press, 1993), "
 "92."
 msgstr ""
-"merke rose, forfattere og eiere (cambridge: harvard university press, 1993), "
+"Mark Rose, Authors and Owners (Cambridge: Harvard University Press, 1993), "
 "92."
 
 #.  f9
@@ -23041,6 +23044,8 @@ msgid ""
 "\"A Radical Rethink,\" Economist, 366:8308 (25 January 2003): 15, available "
 "at <ulink url=\"http://free-culture.cc/notes/\">link #74</ulink>."
 msgstr ""
+"\"A Radical Rethink,\" Economist, 366:8308 (25. januar 2003): 15, tilgjengelig "
+"fra <ulink url=\"http://free-culture.cc/notes/\">link #74</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
