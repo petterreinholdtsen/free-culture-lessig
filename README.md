@@ -58,4 +58,4 @@ the book can be build by running 'make' on the command line.
 Translation status
 ------------------
 
-<img src="progress.png">
+<img src="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/progress.png">
