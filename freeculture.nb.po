@@ -3474,7 +3474,6 @@ msgstr ""
 "underholdning,\" selv om underholdning er tragedie."
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
-#, mtrans, fuzzy
 msgid "ABC"
 msgstr "ABC"
 
@@ -23329,7 +23328,6 @@ msgstr ""
 "her, ville en lovfestet rett gjøre mye mer fornuftig."
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Goldstein, Paul"
 msgstr "Goldstein, Paul"
 
