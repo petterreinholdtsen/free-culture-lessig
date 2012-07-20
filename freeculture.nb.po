@@ -22619,9 +22619,8 @@ msgstr ""
 "at vi tror forskjellen, aktiverer kreativitet å spre lettere."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "THEM, SOON"
-msgstr "dem snart"
+msgstr "Dem, snart"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -23124,6 +23123,9 @@ msgid ""
 "or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), available at <ulink "
 "url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 msgstr ""
+"Department of Veterans Affairs, Veteran's Application for Compensation and/"
+"or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), tilgjengelig fra <ulink "
+"url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 msgid ""
