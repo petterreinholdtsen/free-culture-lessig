@@ -5882,13 +5882,12 @@ msgstr ""
 
 #.  PAGE BREAK 81
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "File sharers share different kinds of content. We can divide these different "
 "kinds into four types."
 msgstr ""
-"fil sharers dele ulike typer innhold. Vi kan dele disse ulike slag i fire "
-"typer."
+"Fildelerne deler ulike typer innhold.  Vi kan derel disse ulike "
+"typene inn i fire typer.
 
 #.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -21802,15 +21801,14 @@ msgstr "Etterord"
 
 #.  PAGE BREAK 280
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "At least some who have read this far will agree with me that something must "
 "be done to change where we are heading. The balance of this book maps what "
 "might be done."
 msgstr ""
-"minst noen som har lest dette langt vil være enig med meg at noe må gjøres "
-"hvis du vil endre hvor vi er på vei. saldoen på denne boken tilordner hva "
-"kan gjøres."
+"I det minste noen som har lest helt hit vil være enig med meg om at "
+"noe må bjøres for å endre hvilken retning vi holder.  Balansen i denne "
+"boken kartlegger hva som kan gjøres."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
