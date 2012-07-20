@@ -5887,7 +5887,7 @@ msgid ""
 "kinds into four types."
 msgstr ""
 "Fildelerne deler ulike typer innhold.  Vi kan derel disse ulike "
-"typene inn i fire typer.
+"typene inn i fire typer."
 
 #.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
