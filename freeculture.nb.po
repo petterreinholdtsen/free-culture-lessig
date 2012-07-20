@@ -1,10 +1,11 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
+# Translators:
 # Petter Reinholdtsen <pere@hungry.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Free Culture by Lawrence Lessig\n"
 "POT-Creation-Date: 2012-07-19 21:43+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
@@ -1857,7 +1858,6 @@ msgstr ""
 "har blitt. Det var bare en mer utgifter ved å gjøre forretninger."
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Florida, Richard"
 msgstr "Florida, Richard"
 
