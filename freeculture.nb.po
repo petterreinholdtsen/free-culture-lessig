@@ -7973,7 +7973,7 @@ msgid ""
 msgstr ""
 "Til sist, dette var en verden hvor Parlamentet var anitmonopolistisk, og "
 "holdt stand mot utgivernes krav. I en verden hvor Parlamentet er mer "
-"*plient*, vil den frie kultur være mindre beskyttet."
+"medgjørlig, vil den frie kultur være mindre beskyttet."
 
 #. type: Content of: <book><chapter><sect1><title>
 msgid "CHAPTER SEVEN: Recorders"
