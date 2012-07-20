@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-19 21:43+0300\n"
+"POT-Creation-Date: 2012-07-20 23:47+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1286,23 +1286,22 @@ msgid ""
 "today&mdash;all so long as the RCAs of our day don't use the law to protect "
 "themselves against this competition."
 msgstr ""
-"For internettet har sluppet løs en ektraordinær mulighet for mange "
-"til å delta i prosessen med å bygge og kultivere en kultur som rekker "
-"lagt utenfor lokale grenselinjer.  Den makten har endret "
-"markedsplassen for å lage og kultivere kultur generelt, og den "
-"endringen truer i neste omgang etablerte innholdsindustrier. "
-"Internettet er dermed for industriene som bygget og distribuerte "
-"innhold i det tjuende århundret hva FM-radio var for AM-radio, eller "
-"hva traileren var for jernbaneindistrien i det nittende århundret: "
-"begynnelsen på slutten, eller i hvert fall en markant endring. "
-"Digitale teknologier, knyttet til internettet, kunne produsere et mye "
-"mer konkurransedyktig og levende marked for å bygge og kultivere "
-"kultur.  Dette markedet kunne inneholde en mye videre og mer variert "
-"utvalg av skapere.  Disse skaperne kunne produsere og distribuere et "
-"mye mer levende utvalg av kreativitet. Og avhengig av noen få viktige "
-"faktorer, så kunne disse skaperne tjenere mer i snitt fra dette "
-"systemet enn skaperne gjør i dag&mdash;så lenge RCA-ene av i dag ikke "
-"bruker loven til å beskytte dem selv mot denne konkurransen."
+"For internettet har sluppet løs en ektraordinær mulighet for mange til å "
+"delta i prosessen med å bygge og kultivere en kultur som rekker lagt utenfor "
+"lokale grenselinjer.  Den makten har endret markedsplassen for å lage og "
+"kultivere kultur generelt, og den endringen truer i neste omgang etablerte "
+"innholdsindustrier. Internettet er dermed for industriene som bygget og "
+"distribuerte innhold i det tjuende århundret hva FM-radio var for AM-radio, "
+"eller hva traileren var for jernbaneindistrien i det nittende århundret: "
+"begynnelsen på slutten, eller i hvert fall en markant endring. Digitale "
+"teknologier, knyttet til internettet, kunne produsere et mye mer "
+"konkurransedyktig og levende marked for å bygge og kultivere kultur.  Dette "
+"markedet kunne inneholde en mye videre og mer variert utvalg av skapere.  "
+"Disse skaperne kunne produsere og distribuere et mye mer levende utvalg av "
+"kreativitet. Og avhengig av noen få viktige faktorer, så kunne disse "
+"skaperne tjenere mer i snitt fra dette systemet enn skaperne gjør i "
+"dag&mdash;så lenge RCA-ene av i dag ikke bruker loven til å beskytte dem "
+"selv mot denne konkurransen."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -5754,7 +5753,10 @@ msgid ""
 "alternative to assure the author of his profit."
 msgstr ""
 
-#.  f5
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Christensen, Clayton M."
+msgstr "Christensen, Clayton M."
+
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5765,7 +5767,7 @@ msgid ""
 "with the most creative, paradigm-shifting uses for their own products.  This "
 "job usually falls to outside innovators, who reassemble existing technology "
 "in inventive ways. For a discussion of Christensen's ideas, see Lawrence "
-"Lessig, Future, 89&ndash;92, 139."
+"Lessig, Future, 89&ndash;92, 139.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "se clayton m christensen, nyskapers dilemma: revolusjonerende nasjonale "
 "bestselgeren som endret måten vi gjør forretninger (new york: "
@@ -7872,10 +7874,10 @@ msgstr ""
 "Public Domain født.For første gang i angloamerikansk historie var den "
 "lovlige beskyttelsen av et verk utgått, og de største verk i engelsk "
 "historie - inkludert Shakespeare, Bacon, Milton, Johnson og Bunyan - var "
-"frie.  <placeholder type=\"indexterm\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
-"<placeholder type=\"indexterm\" id=\"4\"/>"
+"frie.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> "
+"<placeholder type=\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" "
+"id=\"4\"/>"
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -8831,7 +8833,10 @@ msgstr ""
 "omtrent alle bildet du ønsker; i en annen andre, kan du ha det plantet i "
 "presentasjonen."
 
-#.  PAGE BREAK 117
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Camp Chaos"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8842,7 +8847,7 @@ msgid ""
 "politicians and blends them with music to create biting political "
 "commentary. A site called Camp Chaos has produced some of the most biting "
 "criticism of the record industry that there is through the mixing of Flash! "
-"and music."
+"and music.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "men presentasjoner er bare en liten begynnelse. ved hjelp av Internett og "
 "sine arkiver, er musikere i stand til streng sammen mikser lydens aldri før "
@@ -10601,9 +10606,13 @@ msgstr ""
 "som er en god ting. ingen tvil at arbeidet med müller var viktig og "
 "verdifull og sannsynligvis lagret liv, kanskje millioner."
 
-#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
 msgid "Carson, Rachel"
 msgstr "Carson, Rachel"
+
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Silent Sprint (Carson)"
+msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10611,7 +10620,8 @@ msgid ""
 "But in 1962, Rachel Carson published Silent Spring, which argued that DDT, "
 "whatever its primary benefits, was also having unintended environmental "
 "consequences. Birds were losing the ability to reproduce.  Whole chains of "
-"the ecology were being destroyed."
+"the ecology were being destroyed.  <placeholder type=\"indexterm\" id=\"0\"/"
+"> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "men i 1962, rachel carson publisert stille våren, som hevdet at ddt, uansett "
 "dens primære fordeler, hadde også utilsiktede miljømessige konsekvenser. "
@@ -13616,7 +13626,7 @@ msgid ""
 "would find it rational to ignore new cultural trends.<placeholder type="
 "\"footnote\" id=\"0\"/> Lumbering giants not only don't, but should not, "
 "sprint. Yet if the field is only open to the giants, there will be far too "
-"little sprinting."
+"little sprinting.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
