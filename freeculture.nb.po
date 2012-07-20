@@ -1304,7 +1304,6 @@ msgstr ""
 "konkurransen."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet, as I argue in the pages that follow, that is precisely what is "
 "happening in our culture today. These modern-day equivalents of the early "
@@ -1313,11 +1312,13 @@ msgid ""
 "vibrant technology for building culture. They are succeeding in their plan "
 "to remake the Internet before the Internet remakes them."
 msgstr ""
-"Likevel, som jeg hevder på sidene som følger, som er nøyaktig hva som skjer "
-"i vår kultur i dag. Disse moderne-dag-ekvivalenter av tidlig 1900-tallet-"
-"radio eller av 1800-tallet jernbaner bruker deres makt for å få lov til å "
-"beskytte dem mot dette nye, mer effektive, mer levende teknologi for bygging "
-"av kultur. de lykkes i sin plan å remake Internett før Internett remakes dem."
+"Likevel, som jeg argumenterer for i sidene som følger, er dette "
+"nøyaktig det som skjer i vår kultur i dag.  Dette som er dagens "
+"ekvivalenter til tidlig tjuende århundres radio og nittende århundres "
+"jernbaner bruker deres makt til å få loven til å beskytte dem mot "
+"dette nye, mer effektive, mer levende teknologi for å bygge kultur. "
+"De lykkes i deres plan om å gjøre om internettet før internettet gjør "
+"om på dem."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1405,6 +1406,17 @@ msgid ""
 "It instead carved out a wide berth within which creators could cultivate and "
 "extend our culture."
 msgstr ""
+"Disse verdiene bygget en tradisjon som, for i hvert fall de første "
+"180 årene av vår republikk, garanterte skaperne rettigheten til å "
+"bygge fritt på deres fortid, og beskyttet skaperne og innovatørene fra "
+"både statlig og privat kontroll.  Det første grunnlovstillegget "
+"beskyttet skaperne fra statlig kontroll.  Og som professor Neil "
+"Netanel kraftfyllt argumenterer,<placeholder type=\"footnote\" "
+"id=\"0\"/> opphavsrettslov, skikkelig balansert, beskyttet skaperne "
+"mot privat kontroll.  Vår tradisjon var dermed hverken Sovjet eller "
+"tradisjonen til velgjørere.  I stedet skar det ut en bred manøvreringsrom "
+"hvor skapere kunne kultivere og utvide vår kultur."
+
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
