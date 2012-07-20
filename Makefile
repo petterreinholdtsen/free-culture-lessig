@@ -54,7 +54,7 @@ freeculture.pot: freeculture.xml
 
 stats:
 	( \
-	date +"%Y-%m-%dT%H%M" ; \
+	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
 	) | tee -a stats.txt
 
