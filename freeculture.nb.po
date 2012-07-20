@@ -1493,7 +1493,6 @@ msgstr ""
 "brødrene, har Internett ikke inspirert en revolusjon på høykant."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My hope is to push this common sense along. I have become increasingly "
 "amazed by the power of this idea of intellectual property and, more "
@@ -1503,12 +1502,13 @@ msgid ""
 "time when the concentration of power to control the uses of culture has been "
 "as unquestioningly accepted as it is now."
 msgstr ""
-"mitt håp er å presse denne sunn fornuft. Jeg har blitt stadig overrasket av "
-"kraften i denne ideen av åndsverk, og enda viktigere, sin makt for å "
-"deaktivere kritisk tenkning av beslutningstakere og borgere. Det har aldri "
-"vært en gang i vår historie da flere av våre \"kultur\" var som \"eier\" som "
-"det er nå. og ennå har det aldri vært en tid når konsentrasjonen av makt til "
-"å kontrollere bruk av kultur er så unquestioningly godtatt som det er nå."
+"Mitt håp er å skyve denne sunne fornuften videre.  Jeg har blitt "
+"stadig mer overrasket over kraften til denne ideen om immaterielle "
+"rettigheter og, mer viktig, dets evne til å slå av kritisk tanke hos "
+"lovmakere og innbyggere.  Det har aldri før i vår historie vært så mye "
+"av vår \"kultur\" som har vært \"eid\" enn det er nå.  Og likevel har "
+"aldri før konsentrasjonen av makt til å kontrollere bruken av kulturen "
+"vært mer akseptert uten spørsmål enn det er nå."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21344,12 +21344,10 @@ msgstr ""
 "noen friheten som kan forstyrre denne kontrollen."
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
-#| msgid "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20."
 msgid ""
 "See Drahos with Braithwaite, Information Feudalism, 210&ndash;20.  "
 "<placeholder type=\"indexterm\" id=\"0\"/>"
-msgstr "Se Drahos og Braithwaite, Information Feudalism, 210&ndash;­20."
+msgstr "Se Drahos og Braithwaite, Information Feudalism, 210&ndash;20.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21412,7 +21410,6 @@ msgstr ""
 "om om vår regjering bør snakke sannheten eller ikke.)"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Obviously, however, the poster was not supporting that idea.  Instead, the "
 "poster was ridiculing the very idea that in the real world, the \"goal\" of "
@@ -21421,22 +21418,24 @@ msgid ""
 "believed, my own silly utopianism. \"Typical for an academic,\" the poster "
 "might well have continued."
 msgstr ""
-"åpenbart, men plakaten var ikke støtter at ideen. i stedet, plakaten var "
-"latterliggjøre the very ideen om at i den virkelige verden, \"mål\" av en "
-"regjering bør være \"for å fremme den rette balansen\" av åndsverk. Det var "
-"tydeligvis dum til ham. og det åpenbart forrådt, han mente, min egen dum "
-"utopianism. \"typisk for en akademiker,\" plakaten kan godt har fortsatt."
+"Det var dermot åpenbart at den post postet meldingen ikke støttet "
+"ideen.  I stedet latterliggjorde forfatteren selve ideen om at i den "
+"virkelig verden skulle \"målet\" til myndighetene være \"å fremme den "
+"riktige balanse\" for immaterielle rettigheter.  Det var åpenbart "
+"tåpelig for ham.  Og det avslørte åpenbart, trodde han, min egen "
+"tåpelige utopisme.  \"Typisk for en akademiker\", kunne forfatteren "
+"like gjerne ha fortsatt."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I understand criticism of academic utopianism. I think utopianism is silly, "
 "too, and I'd be the first to poke fun at the absurdly unrealistic ideals of "
 "academics throughout history (and not just in our own country's history)."
 msgstr ""
-"Jeg forstår kritikk av akademisk utopianism. Jeg tror utopianism er dum, "
-"også, og jeg vil være først til å rote det gøy på absurd urealistisk idealer "
-"akademikere gjennom historien (og ikke bare i vårt eget land historie)."
+"Jeg forstår kritikken av akademisk utopisme.  Jeg mener også at "
+"utopisme er tåpelig, og jeg vil være blant de første til å gjøre narr "
+"av de aburde urealisistiske idealer til akademikere gjennom historien "
+"(og ikke bare i vårt eget lands historie)."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
