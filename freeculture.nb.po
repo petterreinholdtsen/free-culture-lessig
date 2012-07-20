@@ -7972,7 +7972,7 @@ msgid ""
 "Parliament is more pliant, free culture would be less protected."
 msgstr ""
 "Til sist, dette var en verden hvor Parlamentet var anitmonopolistisk, og "
-"holdt stand mot utvigernes krav. I en verden hvor Parlamentet er mer "
+"holdt stand mot utgivernes krav. I en verden hvor Parlamentet er mer "
 "*plient*, vil den frie kultur være mindre beskyttet."
 
 #. type: Content of: <book><chapter><sect1><title>
