@@ -52,11 +52,16 @@ freeculture.xml:
 freeculture.pot: freeculture.xml
 	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
 
-stats:
+stats: update-stats progress.png
+update-stats:
 	( \
 	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
 	) | tee -a stats.txt
+progress.png: stats.txt progress.gnuplot
+	awk '{print $$1, $$2, $$5, $$8}' < stats.txt > stats.csv
+	gnuplot progress.gnuplot
+	rm stats.csv
 
 lint: freeculture.xml
 	xmllint --nonet --noout --postvalid --xinclude freeculture.xml
