@@ -1342,9 +1342,20 @@ msgid ""
 "which side to take in this war, most think that we need only decide whether "
 "we're for property or against it."
 msgstr ""
+"Det ser ikke slik ut for mange.  Kamphandligene over opphavsrett og "
+"internettet er fjernt for de fleste.  For de få som følger dem, virker "
+"de i hovedsak å handle om et enklere sett med spørsmål&mdash;hvorvidt "
+"\"piratvirksomhet\" vil bli akspetert, og hvorvidt \"eiendomsretten\" "
+"vil bli beskyttet.  \"Krigen\" som har blitt erklært mot teknologiene "
+"til internettet&mdash;det presidenten for Motion Picture Association "
+"of America (MPAA) Jack Valenti kaller sin \"egen "
+"terroristkrig\"<placeholder type=\"footnote\" id=\"0\"/>&mdash;har "
+"blitt rammet inn som en kamp om å følge loven og respektere "
+"eiendomsretten.  For å vite hvilken side vi bør ta i denne krigen, de "
+"fleste tenker at vi kun trenger å bestemme om hvorvidt vi er for "
+"eiendomsrett eller mot den."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "If those really were the choices, then I would be with Jack Valenti and the "
 "content industry. I, too, am a believer in property, and especially in the "
@@ -1352,37 +1363,37 @@ msgid ""
 "that \"piracy\" is wrong, and that the law, properly tuned, should punish "
 "\"piracy,\" whether on or off the Internet."
 msgstr ""
-"Hvis dette virkelig var alternativene, så ville jeg være enig med Jack "
-"Valenti og innholdsindustrien. Jeg, også, er en troende i eiendom, og særlig "
-"i betydningen av hva mr. Valenti samtaler \"kreativ eiendom.\" Jeg tror at "
-"\"piratkopiering\" er galt, og at loven, riktig innstilt, skal straffe pent "
-"\"piratkopiering\", enten av eller på Internett."
+"Hvis dette virkelig var alternativene, så ville jeg være enig med "
+"Jack Valenti og innholdsindustrien.  Jeg tror også på eiendomsretten, "
+"og spesielt på viktigheten av hva Mr. Valenti så pent kaller \"kreativ "
+"eiendomsrett\".  Jeg tror at \"piratvirksomhet\" er galt, og at loven, "
+"riktig innstilt, bør straffe \"piratvirksomhet\", både på og utenfor "
+"internettet."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But those simple beliefs mask a much more fundamental question and a much "
 "more dramatic change. My fear is that unless we come to see this change, the "
 "war to rid the world of Internet \"pirates\" will also rid our culture of "
 "values that have been integral to our tradition from the start."
 msgstr ""
-"men de enkle trosoppfatninger maskere et mye mer grunnleggende spørsmål og "
-"en mye mer dramatisk endring. min frykt er at med mindre vi kommer til å se "
-"denne endringen, krig for å befri verden av Internett \"pirater\" også "
-"kvitte vår kultur med verdier som er integrert til vår tradisjon fra starten."
+"Men disse enkle trosoppfatninger maskerer et mye mer grunnleggende spørsmål og "
+"en mye mer dramatisk endring. Min frykt er at med mindre vi begynner "
+"å legge merke til denne endringen, så vil krigen for å befri verden "
+"fra internettets \"pirater\" også fjerne verdier fra vår kultur som "
+"har vært integrert til vår tradisjon helt fra starten."
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Netanel, Neil Weinstock"
 msgstr "Netanel, Neil Weinstock"
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Neil W. Netanel, \"Copyright and a Democratic Civil Society,\" Yale Law "
 "Journal 106 (1996): 283.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Neil w. netanel, \"copyright og en demokratisk sivile samfunn,\" yale law "
-"journal 106 (1996): 283."
+"Neil W. Netanel, \"Copyright and a Democratic Civil Society,\" Yale Law "
+"Journal 106 (1996): 283.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1974,13 +1985,12 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons "
 "(New York: Penguin Books, 1987), 34&ndash;35."
 msgstr ""
-"Leonard maltin, mus og magic: a history of american animerte-tegneserier "
-"(new york: penguin books, 1987), 34­35."
+"Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons "
+"(New York: Penguin Books, 1987), 34&ndash;35."
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 msgid ""
@@ -1996,16 +2006,15 @@ msgid "Iwerks, Ub"
 msgstr "Iwerks, Ub"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Disney's then partner, and one of animation's most extraordinary talents, Ub "
 "Iwerks, put it more strongly: \"I have never been so thrilled in my life. "
 "Nothing since has ever equaled it.\" <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Disney's deretter partner, og en av animasjons mest ekstraordinære talenter, "
-"ub iwerks, sette det mer sterkt: \"Jeg har aldri vært så begeistret i mitt "
-"liv. ingenting siden har noensinne equaled den.\""
+"Disneys daværende partner, og en av animasjonsverdenens mest ekstraordinære "
+"talenter, Ub Iwerks, uttalte det sterktere: \"Jeg har aldri vært så begeistret "
+"i hele mitt liv. Ingenting annet har noen sinne vært like bra.\""
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
