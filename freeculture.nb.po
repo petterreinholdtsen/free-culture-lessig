@@ -2012,7 +2012,8 @@ msgid ""
 msgstr ""
 "Disneys daværende partner, og en av animasjonsverdenens mest ekstraordinære "
 "talenter, Ub Iwerks, uttalte det sterktere: \"Jeg har aldri vært så "
-"begeistret i hele mitt liv. Ingenting annet har noen sinne vært like bra.\""
+"begeistret i hele mitt liv. Ingenting annet har noen sinne vært like bra.\" "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
