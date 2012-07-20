@@ -7636,7 +7636,7 @@ msgstr ""
 "litterære skotter.\" \"Blant dem,\" skriver professor Mark Rose, var \"den "
 "unge James Boswell som, sammen med sin venn Andrew Erskine, publiserte en "
 "hel antologi av skotsk samtidspoesi sammen med Donaldson.\"<placeholder type="
-"\"footnote\" id=\"1\"/>"
+"\"footnote\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
 
 #.  f10
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -7871,7 +7871,10 @@ msgstr ""
 "Public Domain født.For første gang i angloamerikansk historie var den "
 "lovlige beskyttelsen av et verk utgått, og de største verk i engelsk "
 "historie - inkludert Shakespeare, Bacon, Milton, Johnson og Bunyan - var "
-"frie."
+"frie.  <placeholder type=\"indexterm\" "
+"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
+"<placeholder type=\"indexterm\" id=\"4\"/>"
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
