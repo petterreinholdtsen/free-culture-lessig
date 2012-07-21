@@ -1566,7 +1566,7 @@ msgstr ""
 "det etter en blodig krig mot slaveri, og slik vi sakte gjør det mot "
 "forskjellsbehandling?  Eller er denne radikale endringen vekk fra vår "
 "tradisjon med fri kultur nok et eksempel på at vårt politiske system "
-"er fanget av noen få mektige særinteresser?
+"er fanget av noen få mektige særinteresser?"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
