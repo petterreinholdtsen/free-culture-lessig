@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-21 15:03+0300\n"
+"POT-Creation-Date: 2012-07-21 18:58+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4626,6 +4626,10 @@ msgid ""
 "Economics, Working Paper No. 159."
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><sect2><blockquote><para><indexterm><primary>
+msgid "General Film Company"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 msgid ""
 "With the country experiencing a tremendous expansion in the number of "
@@ -4637,7 +4641,7 @@ msgid ""
 "effectively monopolized distribution with the acquisition of all U.S. film "
 "exchanges, except for the one owned by the independent William Fox who "
 "defied the Trust even after his license was revoked.<placeholder type="
-"\"footnote\" id=\"0\"/>"
+"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  f3
@@ -18769,7 +18773,10 @@ msgstr ""
 "dinitia smith, \"udødelig ord, udødelig royalties? selv Mikke Mus tiltrer "
 "fray,\"new york times, 28 mars 1998, b7."
 
-#.  PAGE BREAK 241
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Gershwin, George"
+msgstr "Gershwin, George"
+
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "Dr. Seuss's representatives, for example, argued that it was better for the "
@@ -18782,7 +18789,7 @@ msgid ""
 "license Porgy and Bess to anyone who refuses to use African Americans in the "
 "cast.<placeholder type=\"footnote\" id=\"1\"/> That's their view of how this "
 "part of American culture should be controlled, and they wanted this law to "
-"help them effect that control."
+"help them effect that control.  <placeholder type=\"indexterm\" id=\"2\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -22467,7 +22474,10 @@ msgstr ""
 "enkeltpersoner og skaperne vil gjøre dette innholdet tilgjengelig. og at "
 "innholdet i sin tur kan vi bygge et offentlig-domene."
 
-#.  PAGE BREAK 289
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Garlick, Mia"
+msgstr "Garlick, Mia"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22479,7 +22489,7 @@ msgid ""
 "movement of consumers and producers of content (\"content conducers,\" as "
 "attorney Mia Garlick calls them)  who help build the public domain and, by "
 "their work, demonstrate the importance of the public domain to other "
-"creativity."
+"creativity.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Dette er bare ett prosjekt blant mange innenfor creative commons. og "
 "selvfølgelig, creative commons er ikke den eneste organisasjonen å forfølge "
