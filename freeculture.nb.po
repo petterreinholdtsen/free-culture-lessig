@@ -1554,7 +1554,6 @@ msgstr ""
 "gir fordeler til RCA-ene i vår tid, og passer med vår ureflekterte intiusjon?"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Is the radical shift away from our tradition of free culture an instance of "
 "America correcting a mistake from its past, as we did after a bloody war "
@@ -1562,11 +1561,12 @@ msgid ""
 "shift away from our tradition of free culture yet another example of a "
 "political system captured by a few powerful special interests?"
 msgstr ""
-"er det radikalt skiftet bort fra vår tradisjon for fri kultur en forekomst "
-"av Amerika korrigere en feil fra sin fortid som vi gjorde etter en blodig "
-"krig med slaveri, og som vi sakte gjør med ulikhet? eller er radikalt skifte "
-"bort fra vår tradisjon for fri kultur ennå et annet eksempel på et politisk "
-"system som fanges opp av noen kraftige spesielle interesser?"
+"Er denne radikale endringen vekk fra vår tradisjon om fri kultur en "
+"forekomst av USA som korrigerer en feil fra sin fortid, slik vi gjorde "
+"det etter en blodig krig mot slaveri, og slik vi sakte gjør det mot "
+"forskjellsbehandling?  Eller er denne radikale endringen vekk fra vår "
+"tradisjon med fri kultur nok et eksempel på at vårt politiske system "
+"er fanget av noen få mektige særinteresser?
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1626,7 +1626,6 @@ msgstr ""
 "tilsynelatende enkle ideene kan bli fullt ut forstått."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The two sections set up the core claim of this book: that while the Internet "
 "has indeed produced something fantastic and new, our government, pushed by "
@@ -1637,14 +1636,15 @@ msgid ""
 "change the law&mdash;and more importantly, to use their power to change "
 "something fundamental about who we have always been."
 msgstr ""
-"de to delene satt opp kjernen krav i denne boken: som mens Internett har "
-"faktisk produsert noe fantastisk og nye, vår regjering, presset av store "
-"mediene til å svare på denne \"noe nytt,\" er ødelegge noe som er svært "
-"gammel. i stedet for å forstå endringene Internett kan tillate, og i stedet "
-"for å ta tid til å la \"sunn fornuft\" løse hvordan man best skal besvare, "
-"vi tillater de mest truet av endringene bruke sin makt til å endre "
-"loven&mdash; og enda viktigere, å bruke sin makt til å endre noe "
-"grunnleggende om hvem vi har alltid vært."
+"De to delene setter opp kjernen i påstanden til denne boken: at mens "
+"internettet faktisk har produsert noe fantastisk og nytt, bidrar våre "
+"myndigheter, presset av store medieaktører for å møte dette \"noe "
+"nytt" til å ødelegge noe som er svært gammelt.  I stedet for å forstå "
+"endringene som internettet kan gjøre mulig, og i stedet for å ta den "
+"tiden som trengs for å la \"sunn fornuft\" finne ut hvordan best svare "
+"på utfordringen, så lar vi de som er mest truet av endringene bruke "
+"sin makt til å endre loven&mdash;og viktigere, å bruke sin makt til å "
+"endre noe fundamentalt om hvordan vi alltid har vært."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
