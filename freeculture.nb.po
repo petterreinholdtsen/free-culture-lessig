@@ -1,16 +1,12 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
+# Translators:
 # Petter Reinholdtsen <pere@hungry.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2012-07-11 17:47+0300\n"
-"PO-Revision-Date: 2012-07-20 19:48+0200\n"
-"Last-Translator: \n"
-=======
-"POT-Creation-Date: 2012-07-19 21:43+0300\n"
+"Project-Id-Version: Free Culture by Lawrence Lessig\n"
+"POT-Creation-Date: 2012-07-21 08:46+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 >>>>>>> bb097b556736b82bb6616871868b11a471738678
@@ -254,7 +250,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid "&translationblock;"
-msgstr "Oversatt til bokmål av Petter Reinholdtsen."
+msgstr "Oversatt til bokmål av Petter Reinholdtsen og Anders Hagen Jarmund."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -326,10 +322,6 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
-<<<<<<< HEAD
-#, mtrans
-=======
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid ""
 "Pogue was skeptical of the core argument of the book&mdash;that software, or "
 "\"code,\" functioned as a kind of law&mdash;and his review suggested the "
@@ -338,26 +330,6 @@ msgid ""
 "off the modem, unplug the computer, and any troubles that exist in that "
 "space wouldn't \"affect\" us anymore."
 msgstr ""
-<<<<<<< HEAD
-"Pogue var skeptisk til kjerneargumentet i boken &mdash; denne "
-"programvaren, eller \"koden\", som fungerte som et slags lov &mdash; og hans "
-"anmeldelse foreslo den lykkelig tanken om at hvis livet i cyberspace ble "
-"dårlig, "
-"kan vi bare slå av en bryter "
-"og være hjem. Slå av modemet, koble fra datamaskinen, og eventuelle "
-"problemer som finnes der vil ikke påvirke oss lenger."
-
-#.  PAGE BREAK 12
-#. type: Content of: <book><chapter><para>
-#, mtrans
-#| msgid ""
-#| "Pogue might have been right in 1999--I'm skeptical, but maybe.  But even "
-#| "if he was right then, the point is not right now: Free Culture is about "
-#| "the troubles the Internet causes even after the modem is turned off. It "
-#| "is an argument about how the battles that now rage regarding life on-line "
-#| "have fundamentally affected \"people who aren't online.\" There is no "
-#| "switch that will insulate us from the Internet's effect."
-=======
 "Pogue var skeptisk til argumentet som er kjernen av boken &mdash; at "
 "programvaren, eller \"koden\", fungerte som en slags lov &mdash; og foreslo "
 "i sin anmeldelse den lykkelig tanken at hvis livet i cyberspace gikk dårlig, "
@@ -367,7 +339,6 @@ msgstr ""
 
 #.  PAGE BREAK 12
 #. type: Content of: <book><chapter><para>
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid ""
 "Pogue might have been right in 1999&mdash;I'm skeptical, but maybe.  But "
 "even if he was right then, the point is not right now: Free Culture is about "
@@ -376,43 +347,24 @@ msgid ""
 "fundamentally affected \"people who aren't online.\" There is no switch that "
 "will insulate us from the Internet's effect."
 msgstr ""
-<<<<<<< HEAD
-"Pogue kan ha hatt rett i 1999 -- jeg er skeptisk, men den kan hende. Men "
-"selv om han hadde rett da, så er ikke poenget riktig nå. Fri kultur handler "
-"om "
-"problemene Internett forårsaker selv etter at modemet er slått av.  Det er et "
-"diskusjon om hvordan livet på nett fundamentalt har "
-"påvirket folk som er ikke på nett.  Det finnes ingen "
-"bryter som kan isolere oss fra Internettets effekt."
-=======
 "Pogue kan ha hatt rett i 1999 &mdash; jeg er skeptisk, men det kan hende. "
 "Men selv om han hadde rett da, så er ikke argumentet gyldig nå. Fri Kultur "
 "er om problemene internett forårsaker selv etter at modemet er slått av.  "
 "Den er et argument om hvordan slagene som nå brer om seg i livet on-line har "
 "fundamentalt påvirket \"folk som er ikke pålogget.\"  Det finnes ingen "
 "bryter som kan isolere oss fra internettets effekt."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 
 #. type: Content of: <book><chapter><para>
-#, fuzzy
 msgid ""
 "But unlike Code, the argument here is not much about the Internet itself. It "
 "is instead about the consequence of the Internet to a part of our tradition "
 "that is much more fundamental, and, as hard as this is for a geek-wanna-be "
 "to admit, much more important."
 msgstr ""
-<<<<<<< HEAD
-"Men i motsetning til Koden, er denne diskusjonen ikke like så veldig mye om "
-"Internett i "
-"seg selv. Istedet er det om konsekvensen av Internett som en del av vår "
-"tradisjon som er mye mer grunnleggende, og uansett hvor hardt dette er for "
-"en geek-wanna-be å innrømme, mye viktigere."
-=======
 "Men i motsetning til i boken Code, er argumentet her ikke så mye om "
 "internett i seg selv. Istedet er det om konsekvensen av internett for en del "
 "av vår tradisjon som er mye mer grunnleggende, og uansett hvor hardt dette "
 "er for en geek-wanna-be å innrømme, mye viktigere."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1305,16 +1257,16 @@ msgid ""
 "them. It is the story of RCA and Armstrong; it is the dream of the Causbys."
 msgstr ""
 "Denne endringen blir rettferdiggjort som nødvendig for å beskytte "
-"kommersiell kreativitet.  Og ganske riktig, proteksjonisme er nøyaktig det som "
-"motiverer endringen.  Men proteksjonismen som rettferdiggjør endringene "
+"kommersiell kreativitet.  Og ganske riktig, proteksjonisme er nøyaktig det "
+"som motiverer endringen.  Men proteksjonismen som rettferdiggjør endringene "
 "som jeg skal beskrive lenger ned er ikke den begrensede og balanserte typen "
-"som har definert loven tidligere.  Dette er ikke en proteksjonisme for "
-"å beskytte artister.  Det er i stedet en proteksjonime for å beskytte "
-"bestemte forretningsformer.  Selskaper som er truet av potensialet til "
-"internettet for å endre måten både kommersiell og ikke-kommersiell "
-"kultur blir skapt og delt, har samlet seg for å få lovgiverne til å "
-"bruke loven for å beskytte selskapene.  Dette er historien om RCA og "
-"Armstrong, og det er drømmen til Causbyene."
+"som har definert loven tidligere.  Dette er ikke en proteksjonisme for å "
+"beskytte artister.  Det er i stedet en proteksjonime for å beskytte bestemte "
+"forretningsformer.  Selskaper som er truet av potensialet til internettet "
+"for å endre måten både kommersiell og ikke-kommersiell kultur blir skapt og "
+"delt, har samlet seg for å få lovgiverne til å bruke loven for å beskytte "
+"selskapene.  Dette er historien om RCA og Armstrong, og det er drømmen til "
+"Causbyene."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1336,21 +1288,22 @@ msgid ""
 "today&mdash;all so long as the RCAs of our day don't use the law to protect "
 "themselves against this competition."
 msgstr ""
-"for Internett har utløste en ekstraordinære mulighet for mange til å delta i "
-"ferd med å bygge og pleie en kultur som går langt ut over lokale grenser. at "
-"strøm er endret markedet for å lage og dyrke kultur Generelt, og at "
-"endringen i sin tur truer etablert innhold bransjer. Internett er dermed til "
-"bransjer som bygget og distribuerte innholdet i det tjuende århundret hva fm-"
-"radio var på am-radio, eller hva bilen var til jernbane industrien av det "
-"nittende århundre: begynnelsen av slutten, eller minst en betydelig "
-"transformasjon. Digital teknologi, knyttet til Internett, kunne produsere en "
-"langt mer konkurransedyktig og vibrerende markedet for å bygge og pleie "
-"kultur; Dette markedet kan omfatte en mye større og mer variert utvalg av "
-"skaperne; disse skaperne kunne produsere og distribuere en mye mer levende "
-"rekke kreativitet; og avhengig av noen viktige faktorer, de skaperne kunne "
-"tjene mer i gjennomsnitt fra dette systemet enn skaperne gjør i dag&mdash;"
-"alle, så lenge rcas i dag ikke bruker lov til å beskytte seg mot denne "
-"konkurransen."
+"For internettet har sluppet løs en ektraordinær mulighet for mange til å "
+"delta i prosessen med å bygge og kultivere en kultur som rekker lagt utenfor "
+"lokale grenselinjer.  Den makten har endret markedsplassen for å lage og "
+"kultivere kultur generelt, og den endringen truer i neste omgang etablerte "
+"innholdsindustrier. Internettet er dermed for industriene som bygget og "
+"distribuerte innhold i det tjuende århundret hva FM-radio var for AM-radio, "
+"eller hva traileren var for jernbaneindistrien i det nittende århundret: "
+"begynnelsen på slutten, eller i hvert fall en markant endring. Digitale "
+"teknologier, knyttet til internettet, kunne produsere et mye mer "
+"konkurransedyktig og levende marked for å bygge og kultivere kultur.  Dette "
+"markedet kunne inneholde en mye videre og mer variert utvalg av skapere.  "
+"Disse skaperne kunne produsere og distribuere et mye mer levende utvalg av "
+"kreativitet. Og avhengig av noen få viktige faktorer, så kunne disse "
+"skaperne tjenere mer i snitt fra dette systemet enn skaperne gjør i "
+"dag&mdash;så lenge RCA-ene av i dag ikke bruker loven til å beskytte dem "
+"selv mot denne konkurransen."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1362,11 +1315,12 @@ msgid ""
 "vibrant technology for building culture. They are succeeding in their plan "
 "to remake the Internet before the Internet remakes them."
 msgstr ""
-"Likevel, som jeg hevder på sidene som følger, som er nøyaktig hva som skjer "
-"i vår kultur i dag. Disse moderne-dag-ekvivalenter av tidlig 1900-tallet-"
-"radio eller av 1800-tallet jernbaner bruker deres makt for å få lov til å "
-"beskytte dem mot dette nye, mer effektive, mer levende teknologi for bygging "
-"av kultur. de lykkes i sin plan å remake Internett før Internett remakes dem."
+"Likevel, som jeg argumenterer for i sidene som følger, er dette nøyaktig det "
+"som skjer i vår kultur i dag.  Dette som er dagens ekvivalenter til tidlig "
+"tjuende århundres radio og nittende århundres jernbaner bruker deres makt "
+"til å få loven til å beskytte dem mot dette nye, mer effektive, mer levende "
+"teknologi for å bygge kultur. De lykkes i deres plan om å gjøre om "
+"internettet før internettet gjør om på dem."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1391,6 +1345,17 @@ msgid ""
 "which side to take in this war, most think that we need only decide whether "
 "we're for property or against it."
 msgstr ""
+"Det ser ikke slik ut for mange.  Kamphandlingene over opphavsrett og "
+"internettet er fjernt for de fleste.  For de få som følger dem, virker de i "
+"hovedsak å handle om et enklere sett med spørsmål&mdash;hvorvidt "
+"\"piratvirksomhet\" vil bli akspetert, og hvorvidt \"eiendomsretten\" vil "
+"bli beskyttet.  \"Krigen\" som har blitt erklært mot teknologiene til "
+"internettet&mdash;det presidenten for Motion Picture Association of America "
+"(MPAA) Jack Valenti kaller sin \"egen terroristkrig\"<placeholder type="
+"\"footnote\" id=\"0\"/>&mdash;har blitt rammet inn som en kamp om å følge "
+"loven og respektere eiendomsretten.  For å vite hvilken side vi bør ta i "
+"denne krigen, de fleste tenker at vi kun trenger å bestemme om hvorvidt vi "
+"er for eiendomsrett eller mot den."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1402,10 +1367,10 @@ msgid ""
 "\"piracy,\" whether on or off the Internet."
 msgstr ""
 "Hvis dette virkelig var alternativene, så ville jeg være enig med Jack "
-"Valenti og innholdsindustrien. Jeg, også, er en troende i eiendom, og særlig "
-"i betydningen av hva mr. Valenti samtaler \"kreativ eiendom.\" Jeg tror at "
-"\"piratkopiering\" er galt, og at loven, riktig innstilt, skal straffe pent "
-"\"piratkopiering\", enten av eller på Internett."
+"Valenti og innholdsindustrien.  Jeg tror også på eiendomsretten, og spesielt "
+"på viktigheten av hva Mr. Valenti så pent kaller \"kreativ eiendomsrett\".  "
+"Jeg tror at \"piratvirksomhet\" er galt, og at loven, riktig innstilt, bør "
+"straffe \"piratvirksomhet\", både på og utenfor internettet."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1415,10 +1380,11 @@ msgid ""
 "war to rid the world of Internet \"pirates\" will also rid our culture of "
 "values that have been integral to our tradition from the start."
 msgstr ""
-"men de enkle trosoppfatninger maskere et mye mer grunnleggende spørsmål og "
-"en mye mer dramatisk endring. min frykt er at med mindre vi kommer til å se "
-"denne endringen, krig for å befri verden av Internett \"pirater\" også "
-"kvitte vår kultur med verdier som er integrert til vår tradisjon fra starten."
+"Men disse enkle trosoppfatninger maskerer et mye mer grunnleggende spørsmål "
+"og en mye mer dramatisk endring. Min frykt er at med mindre vi begynner å "
+"legge merke til denne endringen, så vil krigen for å befri verden fra "
+"internettets \"pirater\" også fjerne verdier fra vår kultur som har vært "
+"integrert til vår tradisjon helt fra starten."
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
 msgid "Netanel, Neil Weinstock"
@@ -1430,8 +1396,8 @@ msgid ""
 "Neil W. Netanel, \"Copyright and a Democratic Civil Society,\" Yale Law "
 "Journal 106 (1996): 283.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Neil w. netanel, \"copyright og en demokratisk sivile samfunn,\" yale law "
-"journal 106 (1996): 283."
+"Neil W. Netanel, \"Copyright and a Democratic Civil Society,\" Yale Law "
+"Journal 106 (1996): 283.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1445,6 +1411,15 @@ msgid ""
 "It instead carved out a wide berth within which creators could cultivate and "
 "extend our culture."
 msgstr ""
+"Disse verdiene bygget en tradisjon som, for i hvert fall de første 180 årene "
+"av vår republikk, garanterte skaperne rettigheten til å bygge fritt på deres "
+"fortid, og beskyttet skaperne og innovatørene fra både statlig og privat "
+"kontroll.  Det første grunnlovstillegget beskyttet skaperne fra statlig "
+"kontroll.  Og som professor Neil Netanel kraftfyllt argumenterer,"
+"<placeholder type=\"footnote\" id=\"0\"/> opphavsrettslov, skikkelig "
+"balansert, beskyttet skaperne mot privat kontroll.  Vår tradisjon var dermed "
+"hverken Sovjet eller tradisjonen til velgjørere.  I stedet skar det ut en "
+"bred manøvreringsrom hvor skapere kunne kultivere og utvide vår kultur."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1458,13 +1433,15 @@ msgid ""
 "those within the noble class live easily; those outside it don't. But it is "
 "nobility of any form that is alien to our tradition."
 msgstr ""
-"lovens svar på Internett, når knyttet til endringer i teknologi for "
-"Internett selv, øket ennå svært effektiv regulering av kreativitet i "
-"Amerika. Hvis du vil bygge på eller kritikk kultur rundt oss må du be om, "
-"oliver twist­like, om tillatelse først. tillatelsen er selvfølgelig ofte "
-"gitt&mdash;, men det er ikke ofte gis til den kritiske eller independent. Vi "
-"har bygd opp en slags kulturelle adel; de i edle klassen leve enkelt; dem "
-"utenfor ikke. men det er adel noen form som er fremmed for vår tradisjon."
+"Likevel har lovens respons til internettet, når det knyttes sammen til "
+"endringer i teknologien i internettet selv, ført til massiv økting av den "
+"effektive reguleringen av kreativitet i USA.  For å bygge på eller kritisere "
+"kulturen rundt oss må en spørre, som Oliver Twist, om tillatelse først.  "
+"Tillatelse er, naturligvis, ofte innvilget&mdash;men det er ikke ofte "
+"innvilget til den kritiske eller den uavhengige.  Vi har bygget en slags "
+"culturel adel.  De innen dette adelskapet har et enkelt liv, mens de på "
+"utsiden har det ikke.  Men det er adelskap i alle former som er fremmed for "
+"vår tradisjon."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1475,11 +1452,12 @@ msgid ""
 "neither do I believe in a devil, corporate or otherwise. It is not a "
 "morality tale. Nor is it a call to jihad against an industry."
 msgstr ""
-"historien som følger handler om denne krigen. er det ikke om \"betydningen "
-"av teknologi\" vanlige liv. Jeg tror ikke på guder, digitale eller på annen "
-"måte. heller ikke er det et forsøk på å demonize enhver person eller gruppe, "
-"for heller ikke tror jeg på en djevel, corporate eller på annen måte. Det er "
-"ikke en moral-tale. heller ikke er det et kall til jihad mot en bransje."
+"Historien som følger er om denne krigen.  Er det ikke om \"betydningen av "
+"teknologi\" i vanlig liv.  Jeg tror ikke på guder, hverken digitale eller "
+"andre typer.  Det er heller ikke et forsøk på å demonisere noen individer "
+"eller gruppe, jeg tro heller ikke i en djevel, selskapsmessig eller på annen "
+"måte.  Det er ikke en moralsk historie.  Ei heller er det et rop om hellig "
+"krig mot en industri."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -2029,8 +2007,8 @@ msgid ""
 "Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons "
 "(New York: Penguin Books, 1987), 34&ndash;35."
 msgstr ""
-"Leonard maltin, mus og magic: a history of american animerte-tegneserier "
-"(new york: penguin books, 1987), 34­35."
+"Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons "
+"(New York: Penguin Books, 1987), 34&ndash;35."
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 msgid ""
@@ -2053,9 +2031,10 @@ msgid ""
 "Nothing since has ever equaled it.\" <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Disney's deretter partner, og en av animasjons mest ekstraordinære talenter, "
-"ub iwerks, sette det mer sterkt: \"Jeg har aldri vært så begeistret i mitt "
-"liv. ingenting siden har noensinne equaled den.\""
+"Disneys daværende partner, og en av animasjonsverdenens mest ekstraordinære "
+"talenter, Ub Iwerks, uttalte det sterktere: \"Jeg har aldri vært så "
+"begeistret i hele mitt liv. Ingenting annet har noen sinne vært like bra.\" "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -5787,7 +5766,10 @@ msgid ""
 "alternative to assure the author of his profit."
 msgstr ""
 
-#.  f5
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Christensen, Clayton M."
+msgstr "Christensen, Clayton M."
+
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5798,7 +5780,7 @@ msgid ""
 "with the most creative, paradigm-shifting uses for their own products.  This "
 "job usually falls to outside innovators, who reassemble existing technology "
 "in inventive ways. For a discussion of Christensen's ideas, see Lawrence "
-"Lessig, Future, 89&ndash;92, 139."
+"Lessig, Future, 89&ndash;92, 139.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "se clayton m christensen, nyskapers dilemma: revolusjonerende nasjonale "
 "bestselgeren som endret måten vi gjør forretninger (new york: "
@@ -5918,8 +5900,8 @@ msgid ""
 "File sharers share different kinds of content. We can divide these different "
 "kinds into four types."
 msgstr ""
-"fil sharers dele ulike typer innhold. Vi kan dele disse ulike slag i fire "
-"typer."
+"Fildelerne deler ulike typer innhold.  Vi kan derel disse ulike typene inn i "
+"fire typer."
 
 #.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -7118,10 +7100,6 @@ msgstr ""
 "opphavsrett krigere ville ha oss til å tegne."
 
 #. type: Content of: <book><chapter><sect1><title>
-<<<<<<< HEAD
-#, mtrans
-=======
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid "CHAPTER SIX: Founders"
 msgstr "Kapittel seks: Grunnleggerne"
 
@@ -7149,7 +7127,7 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "Jacob Tonson is typically remembered for his associations with prominent "
 "eighteenth-century literary figures, especially John Dryden, and for his "
@@ -7209,8 +7187,8 @@ msgid ""
 "As Siva Vaidhyanathan nicely argues, it is erroneous to call this a "
 "\"copyright law.\" See Vaidhyanathan, Copyrights and Copywrongs, 40."
 msgstr ""
-"Aom Siva Vaidhyanathan pent hevder, er det feilaktige å kalle dette en "
-"\"lov om opphavsrett.\" Se vaidhyanathan, Copyrights and Copywrongs, 40."
+"Som Siva Vaidhyanathan pent hevder, er det feilaktige å kalle dette en \"lov "
+"om opphavsrett.\" Se vaidhyanathan, Copyrights and Copywrongs, 40."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -7248,25 +7226,14 @@ msgid ""
 "was no positive law that said that the publishers, or \"Stationers,\" had an "
 "exclusive right to print books."
 msgstr ""
-<<<<<<< HEAD
 "Årsaken var ganske enkelt at engelskmennene ikke hadde bestemt hva "
-"opphavsrett innebar -- faktisk hadde ingen i verden det. "
-"På den tiden da engelskmennene vedtok \"Statute of Anne\", var det "
-"ingen andre lovgivning om opphavsrett. Den siste loven som regulerte "
-"utgivere var lisensieringsloven av 1662, utløpt i 1695. At loven ga utgiverne "
-"monopol over publiseringen, noe som gjorde det enklere for kronen å "
-"kontrollere hva ble publisert. Men etter at det har utløpt, var det ingen "
-"positiv lov som sa at utgiverne hadde en eksklusiv rett til å trykke bøker."
-=======
-"årsaken er at engelske ikke hadde ennå avtalt på hva \"copyright\" ingen "
-"var&mdash;faktisk hadde. på tiden engelske passert Vedtektene for anne, var "
-"det ingen andre lovgivning om opphavsrett. siste loven som regulerer "
-"utgivere, hadde lisensiering loven av 1662, utløpt i 1695. at loven ga "
-"utgivere monopol over publisering, som en måte å gjøre det enklere for "
-"kronen til å kontrollere hva ble publisert. men etter at det har utløpt, var "
-"det ingen positiv lov som sa at det hadde en eksklusiv rett til å skrive ut "
-"bøker i utgivere, eller \"stationers\"."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
+"opphavsrett innebar -- faktisk hadde ingen i verden det. På den tiden da "
+"engelskmennene vedtok \"Statute of Anne\", var det ingen annen lovgivning om "
+"opphavsrett. Den siste loven som regulerte utgivere var lisensieringsloven "
+"av 1662, utløpt i 1695. At loven ga utgiverne monopol over publiseringen, "
+"noe som gjorde det enklere for kronen å kontrollere hva ble publisert. Men "
+"etter at det har utløpt, var det ingen positiv lov som sa at utgiverne hadde "
+"en eksklusiv rett til å trykke bøker."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7283,16 +7250,14 @@ msgid ""
 msgstr ""
 "At det ikke fantes noen positiv lov, betydde ikke at det ikke fantes noen "
 "lov. Den anglo-amerikanske juridiske tradisjon ser både til lover skapt av "
-"politikere (det lovgivende statsorgen)"
-"og til lover (prejudikater) skapt av domstolene for å bestemme hvordan folket "
-"skal leve. Vi "
-"kaller politikernes lover for positiv lov og vi kaller lovene fra "
-"dommerne sedvanerett.\"Common law\" angir bakgrunnen for de lovgivendes "
-"lovgivning; retten til lovgiving, vanligvis kan trumfe at bakgrunnen bare "
-"hvis det "
-"går gjennom en lov til å forskyve den. Og så var det virkelige spørsmålet "
-"etter lisensiering lover hadde utløpt om felles lov beskyttet opphavsretten, "
-"uavhengig av lovverket positiv."
+"politikere (det lovgivende statsorgen)og til lover (prejudikater) skapt av "
+"domstolene for å bestemme hvordan folket skal leve. Vi kaller politikernes "
+"lover for positiv lov og vi kaller lovene fra dommerne sedvanerett.\"Common "
+"law\" angir bakgrunnen for de lovgivendes lovgivning; retten til lovgiving, "
+"vanligvis kan trumfe at bakgrunnen bare hvis det går gjennom en lov til å "
+"forskyve den. Og så var det virkelige spørsmålet etter lisensiering lover "
+"hadde utløpt om felles lov beskyttet opphavsretten, uavhengig av lovverket "
+"positiv."
 
 #.  PAGE BREAK 98
 #. type: Content of: <book><chapter><sect1><para>
@@ -7308,15 +7273,14 @@ msgid ""
 msgstr ""
 "Dette spørsmålet var viktig for utgiverne eller \"bokselgere,\" som de ble "
 "kalt, fordi det var økende konkurranse fra utenlandske utgivere, Særlig fra "
-"Skottland hvor "
-"publiseringen og eksporten av bøker til England hadde økt veldig. "
-"Denne konkurransen reduserte fortjenesten til \"The Conger\", som derfor "
-"krevde at "
-"parlamentet igjen skulle vedta en lov for å gi dem eksklusiv kontroll over "
-"publisering. Dette kravet resulterte i \"Statute of Anne\"."
+"Skottland hvor publiseringen og eksporten av bøker til England hadde økt "
+"veldig. Denne konkurransen reduserte fortjenesten til \"The Conger\", som "
+"derfor krevde at parlamentet igjen skulle vedta en lov for å gi dem "
+"eksklusiv kontroll over publisering. Dette kravet resulterte i \"Statute of "
+"Anne\"."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "The Statute of Anne granted the author or \"proprietor\" of a book an "
 "exclusive right to print that book. In an important limitation, however, and "
@@ -7325,28 +7289,25 @@ msgid ""
 "work would then be free and could be published by anyone. Or so the "
 "legislature is thought to have believed."
 msgstr ""
-"\"Statute of Anne\" ga forfatteren eller \"eieren\" av en bok en "
-"eksklusiv rett til å publisere denne boken. Men det var, til bokhandernes "
-"forferdelse en viktig begrensning, nemlig hvor lenge denne retten skulle "
-"vare. Etter dette "
-"gikk trykkeretten bort og verket falt i det fri og kunne trykkes av hvem som "
-"helst. "
-"Det var ihvertfall det lovgiverne hadde tenkt."
+"\"Statute of Anne\" ga forfatteren eller \"eieren\" av en bok en eksklusiv "
+"rett til å publisere denne boken. Men det var, til bokhandernes forferdelse "
+"en viktig begrensning, nemlig hvor lenge denne retten skulle vare. Etter "
+"dette gikk trykkeretten bort og verket falt i det fri og kunne trykkes av "
+"hvem som helst. Det var ihvertfall det lovgiverne hadde tenkt."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "Now, the thing to puzzle about for a moment is this: Why would Parliament "
 "limit the exclusive right? Not why would they limit it to the particular "
 "limit they set, but why would they limit the right at all?"
 msgstr ""
-"Men nå det mest interessante med dette: Hvorfor ville parlamentet "
-"begrense trykkeretten? Sprøsmålet er ikke hvorfor de bestemte seg for denne "
-"perioden, "
+"Men nå det mest interessante med dette: Hvorfor ville parlamentet begrense "
+"trykkeretten? Sprøsmålet er ikke hvorfor de bestemte seg for denne perioden, "
 "men hvorfor ville de begrense den i det hele tatt?"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "For the booksellers, and the authors whom they represented, had a very "
 "strong claim. Take Romeo and Juliet as an example: That play was written by "
@@ -7359,17 +7320,14 @@ msgid ""
 "\"steal\" Shakespeare's work?"
 msgstr ""
 "Bokhandlerne, og forfatterne som de representerte, hadde et veldig sterkt "
-"krav. Ta romeo og Julie som et eksempel: Skuespillet ble skrevet av "
+"krav. Ta Romeo og Julie som et eksempel: Skuespillet ble skrevet av "
 "Shakespeare. Det var hans kreativitet som brakte det til verden. Han krenket "
-"ikke noens rett "
-"da han skrev dette verket (det er en kontroversiell "
-"påstanden, men det er urelevant), og med sin egen rett skapte han verket, han "
-"gjorde "
-"det ikke noe vanskeligere for andre til å lage skuespill. Så hvorfor skulle "
-"loven tillate at noen annen kunne komme og ta Shakespeares verk"
-"uten hans, eller hans arvingers, tillatelse? Hvilke grunner finnes for å "
-"tillate "
-"at noen \"stjeler\" Shakespeares verk?"
+"ikke noens rett da han skrev dette verket (det er en kontroversiell "
+"påstanden, men det er urelevant), og med sin egen rett skapte han verket, "
+"han gjorde det ikke noe vanskeligere for andre til å lage skuespill. Så "
+"hvorfor skulle loven tillate at noen annen kunne komme og ta Shakespeares "
+"verkuten hans, eller hans arvingers, tillatelse? Hvilke grunner finnes for å "
+"tillate at noen \"stjeler\" Shakespeares verk?"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7384,7 +7342,7 @@ msgstr ""
 
 #.  PAGE BREAK 99
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "First, about copyright. In the last three hundred years, we have come to "
 "apply the concept of \"copyright\" ever more broadly. But in 1710, it wasn't "
@@ -7399,17 +7357,14 @@ msgid ""
 msgstr ""
 "Først om opphavsretten. I de siste tre hundre år har vi kommet til å bruke "
 "begrepet \"copyright\" i stadig videre forstand. Men i 1710 var det ikke så "
-"mye "
-"et konsept som det var en bestemt rett. Opphavsretten ble født som et "
+"mye et konsept som det var en bestemt rett. Opphavsretten ble født som et "
 "svært spesifikt sett med begrensninger: den forbød andre å reprodusere en "
 "bok. I 1710 var \"kopi-rett\" en rett til å bruke en bestemt maskin til å "
-"replikere en bestemt arbeid. Den gikk ikke utover dette svært smale formålet. "
-"Den"
-"kontrollerte ikke mer generelt hvordan et verk kunne brukes. Idag "
-"inkluderer retten en stor samling av restriksjoner på andres frihet: den gir "
-"forfatteren "
-"eksklusiv rett til å kopiere, eksklusiv rett til å distribuere, "
-"eksklusiv rett til å fremføre, og så videre."
+"replikere en bestemt arbeid. Den gikk ikke utover dette svært smale "
+"formålet. Denkontrollerte ikke mer generelt hvordan et verk kunne brukes. "
+"Idag inkluderer retten en stor samling av restriksjoner på andres frihet: "
+"den gir forfatteren eksklusiv rett til å kopiere, eksklusiv rett til å "
+"distribuere, eksklusiv rett til å fremføre, og så videre."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7423,28 +7378,16 @@ msgid ""
 "right\" was only an exclusive right to print&mdash;no less, of course, but "
 "also no more."
 msgstr ""
-<<<<<<< HEAD
-"Så selv om f. eks. opphavsretten til Shakespeares verker var "
-"evigvarende, betydde det under den opprinnelige betydningen av "
-"begrepet at ingen kunne trykke Shakespeares arbeid uten tillatelse fra "
-"Shakespeares arvinger. Den ville ikke ha kontrollert noe mer, for eksempel om "
-"hvordan verket kunne fremføres, om verket kunne oversettes eller om Kenneth "
-"Branagh ville hatt lov til å lage filmer. \"Kopi-retten\" var bare en "
-"eksklusiv rett til å trykke--ikke noe mindre, selvfølgelig, men heller "
-"ikke mer."
-=======
-"så, for eksempel, selv om opphavsretten til Shakespeares verker var "
-"evigvarende, alle som ville ha betydd under den opprinnelige betydningen av "
-"begrepet var at ingen kan skrive Shakespeares arbeid uten tillatelse fra "
-"shakespeare-eiendom. det ville ikke ha kontrollert noe, for eksempel om "
-"hvordan arbeidet kan utføres, om arbeidet kunne oversettes eller om kenneth "
-"branagh ville være tillatt å gjøre hans filmer. \"kopi-rett\" var bare en "
-"eksklusiv rett til å skrive ut&mdash;ikke desto mindre, selvfølgelig, men "
-"også ikke mer."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
+"Så selv om f. eks. opphavsretten til Shakespeares verker var evigvarende, "
+"betydde det under den opprinnelige betydningen av begrepet at ingen kunne "
+"trykke Shakespeares arbeid uten tillatelse fra Shakespeares arvinger. Den "
+"ville ikke ha kontrollert noe mer, for eksempel om hvordan verket kunne "
+"fremføres, om verket kunne oversettes eller om Kenneth Branagh ville hatt "
+"lov til å lage filmer. \"Kopi-retten\" var bare en eksklusiv rett til å "
+"trykke--ikke noe mindre, selvfølgelig, men heller ikke mer."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "Even that limited right was viewed with skepticism by the British.  They had "
 "had a long and ugly experience with \"exclusive rights,\" especially "
@@ -7457,29 +7400,16 @@ msgid ""
 "patents for new inventions. And by 1710, Parliament was eager to deal with "
 "the growing monopoly in publishing."
 msgstr ""
-"Selv dnne begrensede retten ble møtt med skepsis av britene. De hadde hatt en "
-"lang og stygg erfaring med \"eksklusive rettigheter,\" spesielt \"enerett\" "
-<<<<<<< HEAD
-"gitt av kronen. Engelskmennene hadde utkjempet en borgerkrig delvis mot "
-"kronens "
-"praksis med å dele ut monopoler--spesielt monopoler for verk som "
+"Selv dnne begrensede retten ble møtt med skepsis av britene. De hadde hatt "
+"en lang og stygg erfaring med \"eksklusive rettigheter,\" spesielt \"enerett"
+"\" gitt av kronen. Engelskmennene hadde utkjempet en borgerkrig delvis mot "
+"kronens praksis med å dele ut monopoler--spesielt monopoler for verk som "
 "allerede eksisterte. Kong Henrik VIII hadde gitt patent til å trykke Bibelen "
-"og "
-"monopol til Darcy for å lage spillkort. Det engelske parlamentet "
-"begynte å kjempe tilbake mot denne makten hos kronen. I 1656 ble \"Statute of "
+"og monopol til Darcy for å lage spillkort. Det engelske parlamentet begynte "
+"å kjempe tilbake mot denne makten hos kronen. I 1656 ble \"Statute of "
 "Monopolis\" vedtatt for å begrense monopolene på patenter for nye "
-"oppfinnelser. Og i "
-"1710 var parlamentet ivrig etter å håndtere det voksende monopolet på "
-=======
-"gitt av kronen. engelske hadde kjempet en borgerkrig delvis om kronens "
-"praksisen med å levere ut monopoler&mdash;spesielt monopoler for arbeider "
-"som allerede fantes. Kong Henrik viii gitt et patent til å skrive ut Bibelen "
-"og en monopol til darcy til å skrive ut spillkort. det engelske parlamentet "
-"begynte å kjempe tilbake mot denne kraften i kronen. i 1656 gikk Vedtektene "
-"for monopoler, å begrense monopoler patenter for nye oppfinnelser. og ved "
-"1710, parlamentet var ivrig etter å håndtere det voksende monopolet i "
->>>>>>> bb097b556736b82bb6616871868b11a471738678
-"publisering."
+"oppfinnelser. Og i 1710 var parlamentet ivrig etter å håndtere det voksende "
+"monopolet på publisering."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7492,14 +7422,12 @@ msgid ""
 "society. The British saw the harms from specialinterest favors; they passed "
 "a law to stop them."
 msgstr ""
-"Dermed ble \"kopi-retten\", når den sees på som en monopolrett, "
-"en rettighet som bør være begrenset. (Uansett hvor overbevisende "
-"påstanden om at \"det er min eiendom, og jeg skal ha for alltid,\" prøv hvor "
-"overbevisende det er når men sier \"det er mitt monopol, og jeg skal ha det "
-"for alltid.\") "
-"Staten ville beskytte eneretten, men bare så lenge det gavnet samfunnet. "
-"Britene så skadene særinteresserte kunne skape; de vedtok en lov "
-"for å stoppe dem."
+"Dermed ble \"kopi-retten\", når den sees på som en monopolrett, en rettighet "
+"som bør være begrenset. (Uansett hvor overbevisende påstanden om at \"det er "
+"min eiendom, og jeg skal ha for alltid,\" prøv hvor overbevisende det er når "
+"men sier \"det er mitt monopol, og jeg skal ha det for alltid.\") Staten "
+"ville beskytte eneretten, men bare så lenge det gavnet samfunnet. Britene så "
+"skadene særinteresserte kunne skape; de vedtok en lov for å stoppe dem."
 
 #.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -7526,21 +7454,17 @@ msgid ""
 msgstr ""
 "Dernest, om bokhandlerne. Det var ikke bare at kopiretten var et monopol. "
 "Det var også et monopol holdt av bokhandlerne. En bokhandler høres greie og "
-"ufarlige ut "
-"for oss, men slik var det ikke i syttenhundretallets England. Medlemmene i "
-"\"the Conger\" ble av en voksende mengde sett på som monopolister av verste "
-"sort - "
-"et verktøy for kronens undertrykkelse, de solgte Englands frihet mot å være "
-"garantert "
-"en monopolskinntekt. Men monopolistene ble kvast kritisert: Milton beskrev "
-"dem som "
-"\"gamle patentholdere og monopolister i bokhandlerkunsten\"; de var \"menn "
-"som derfor ikke hadde "
-" et ærlig arbeide hvor utdanning er nødvendig.\"<placeholder "
-"type=\"footnote\" id=\"0\"/>"
+"ufarlige ut for oss, men slik var det ikke i syttenhundretallets England. "
+"Medlemmene i \"the Conger\" ble av en voksende mengde sett på som "
+"monopolister av verste sort - et verktøy for kronens undertrykkelse, de "
+"solgte Englands frihet mot å være garantert en monopolskinntekt. Men "
+"monopolistene ble kvast kritisert: Milton beskrev dem som \"gamle "
+"patentholdere og monopolister i bokhandlerkunsten\"; de var \"menn som "
+"derfor ikke hadde  et ærlig arbeide hvor utdanning er nødvendig."
+"\"<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "Many believed the power the booksellers exercised over the spread of "
 "knowledge was harming that spread, just at the time the Enlightenment was "
@@ -7549,15 +7473,13 @@ msgid ""
 "powerful commercial interests were interfering with that idea."
 msgstr ""
 "Mange trodde at den makten bokhandlerne utøvde over spredning av kunnskap, "
-"var til skade "
-"for selve spredningen, men på dette tidspunktet viste Opplysningen "
-"viktigheten av utdannelse "
-"og kunnskap for alle. Ideen om at kunnskap burde være gratis er et "
-"kjennetegn for tiden, og disse kraftige kommersielle interesser "
-"forstyrret denne ideen."
+"var til skade for selve spredningen, men på dette tidspunktet viste "
+"Opplysningen viktigheten av utdannelse og kunnskap for alle. Ideen om at "
+"kunnskap burde være gratis er et kjennetegn for tiden, og disse kraftige "
+"kommersielle interesser forstyrret denne ideen."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "To balance this power, Parliament decided to increase competition among "
 "booksellers, and the simplest way to do that was to spread the wealth of "
@@ -7573,13 +7495,13 @@ msgstr ""
 "bokhandlerne, og den enkleste måten å gjøre det på, var å spre mengden av "
 "verdifulle bøker. Parlamentet begrenset derfor begrepet om opphavsrett, og "
 "garantert slik at verdifulle bøker ville bli frie for alle utgiver å "
-"publisere etter en begrenset periode. Slik ble det å gi eksisterende verk "
-"en periode på tjueen år et kompromiss for å bekjempe bokhandlernes makt. "
-"Begrensninger med dato var en indirekte måte å skape "
-"konkurranse mellom utgivere, og slik en skapelse og spredning av kultur."
+"publisere etter en begrenset periode. Slik ble det å gi eksisterende verk en "
+"periode på tjueen år et kompromiss for å bekjempe bokhandlernes makt. "
+"Begrensninger med dato var en indirekte måte å skape konkurranse mellom "
+"utgivere, og slik en skapelse og spredning av kultur."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "When 1731 (1710 + 21) came along, however, the booksellers were getting "
 "anxious. They saw the consequences of more competition, and like every "
@@ -7589,13 +7511,12 @@ msgid ""
 "extend their terms. Twenty-one years was not enough, they said; they needed "
 "more time."
 msgstr ""
-"Når 1731 (1710+21) kom, ble bokhandlerne engstelige. De så konsekvensene "
-"av mer konkurranse, og som alle konkurrenter, likte de det ikke. Først "
-"ignorerte"
-"bokhandlere ganske enkelt \"Statute of Anne\", og fortsatte å "
-"kreve en evigvarende rett til å kontrollere publiseringen. Men i 1735 og "
-"1737 de prøvde å tvinge Parlamentet til å utvide periodene. Tjueen år "
-"var ikke nok, sa de; de trengte mer tid."
+"Når 1731 (1710+21) kom, ble bokhandlerne engstelige. De så konsekvensene av "
+"mer konkurranse, og som alle konkurrenter, likte de det ikke. Først "
+"ignorertebokhandlere ganske enkelt \"Statute of Anne\", og fortsatte å kreve "
+"en evigvarende rett til å kontrollere publiseringen. Men i 1735 og 1737 de "
+"prøvde å tvinge Parlamentet til å utvide periodene. Tjueen år var ikke nok, "
+"sa de; de trengte mer tid."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7637,9 +7558,8 @@ msgid ""
 "private Gain of the Booksellers.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 "Jeg ser ingen grunn til å gi en utvidet perioden nå som ikke ville kunne gi "
-"utvidelser om igjen og om igjen, så fort de gamle utgår; "
-"så dersom dette lovforslaget blir vedtatt, vil effekten være: at et evig "
-"monopol blir skapt, "
+"utvidelser om igjen og om igjen, så fort de gamle utgår; så dersom dette "
+"lovforslaget blir vedtatt, vil effekten være: at et evig monopol blir skapt, "
 "et stort nederlag for handelen, et angrep mot kunnskapen, ingen fordel for "
 "forfatterne, men en stor avgift for folket; og alt dette kun forå øke "
 "bokhandlernes personlige rikdom.<placeholder type=\"footnote\" id=\"0\"/>"
@@ -7661,25 +7581,20 @@ msgid ""
 "way to protect authors."
 msgstr ""
 "Etter å ha mislyktes i Parlamentet gikk utgiverne til rettssalen i en rekke "
-"saker. "
-"Deres argument var enkelt og direkte: \"Statute of Anne\" ga "
-"forfatterne en viss beskyttelse gjennom positiv loven, men denne beskyttelsen"
-"var ikke ment som en erstatning for felles lov. Istedet var de ment å "
-"supplere felles lov. Ifølge sedvanerett var det galt å ta en annen "
-"persons kreative eiendom og bruke den uten hans tillatelse. \"Statute of "
-"Anne\", "
-"hevdet bokhandlere, endret ikke dette faktum. Derfor betydde ikke det at "
-"beskyttelsen "
-"gitt av \"Statute of Anne\" utløp, at beskyttelsen fra sedvaneretten utløp: "
-"Ifølge "
-"sedvaneretten hadde de rett til å fordømme publiseringen av en bok, selv "
-"følgelig "
-"om \"Statute of Anne\" sa at de var falt i det fri. Dette, mente de, var den "
-"eneste måten å beskytte forfatterne."
+"saker. Deres argument var enkelt og direkte: \"Statute of Anne\" ga "
+"forfatterne en viss beskyttelse gjennom positiv loven, men denne "
+"beskyttelsenvar ikke ment som en erstatning for felles lov. Istedet var de "
+"ment å supplere felles lov. Ifølge sedvanerett var det galt å ta en annen "
+"persons kreative eiendom og bruke den uten hans tillatelse. \"Statute of Anne"
+"\", hevdet bokhandlere, endret ikke dette faktum. Derfor betydde ikke det at "
+"beskyttelsen gitt av \"Statute of Anne\" utløp, at beskyttelsen fra "
+"sedvaneretten utløp: Ifølge sedvaneretten hadde de rett til å fordømme "
+"publiseringen av en bok, selv følgelig om \"Statute of Anne\" sa at de var "
+"falt i det fri. Dette, mente de, var den eneste måten å beskytte forfatterne."
 
 #.  f6
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "Lyman Ray Patterson, \"Free Speech, Copyright, and Fair Use,\" Vanderbilt "
 "Law Review 40 (1987): 28. For a wonderfully compelling account, see "
@@ -7700,13 +7615,11 @@ msgid ""
 "author's work gave."
 msgstr ""
 "Dette var et godt argument, og hadde støtte fra flere av den tidens ledende "
-"jurister. "
-"Det viste også en ekstraordinær chutzpah. Inntail da, som jusprofessor "
-"Raymond Pattetson har sagt, "
-"\"var utgiverne ... like bekymret for forfatterne som en gjeter for sine "
-"lam.\"<placeholder type=\"footnote\" id=\"0\"/> "
-"Bokselgerne brydde seg ikke det spor om forfatternes rettigheter. Deres "
-"bekymring var den monopolske inntekten forfatterens verk ga."
+"jurister. Det viste også en ekstraordinær chutzpah. Inntail da, som "
+"jusprofessor Raymond Pattetson har sagt, \"var utgiverne ... like bekymret "
+"for forfatterne som en gjeter for sine lam.\"<placeholder type=\"footnote\" "
+"id=\"0\"/> Bokselgerne brydde seg ikke det spor om forfatternes rettigheter. "
+"Deres bekymring var den monopolske inntekten forfatterens verk ga."
 
 #.  f7
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -7724,22 +7637,12 @@ msgid ""
 "this fight was a Scottish bookseller named Alexander Donaldson.<placeholder "
 "type=\"footnote\" id=\"0\"/>"
 msgstr ""
-<<<<<<< HEAD
 "Men bokhandlernes argument ble ikke godtatt uten kamp. Helten fra denne "
-"kampen var den skotske bokselgeren Alexander Donaldson.<placeholder "
-"type=\"footnote\" id=\"0\"/>"
-
-#.  f8
-#. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans
-=======
-"Bokhandlernes argument ble ikke akseptert uten kamp.  Helten i denne kampen "
-"var en skotsk bokhandler ved navn Alexander Donaldson.<placeholder type="
+"kampen var den skotske bokselgeren Alexander Donaldson.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
 #.  f8
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid ""
 "Mark Rose, Authors and Owners (Cambridge: Harvard University Press, 1993), "
 "92."
@@ -7771,12 +7674,12 @@ msgid ""
 msgstr ""
 "Donaldson var en fremmed for Londons \"the Conger\". Han startet in karriere "
 "i Edinburgh i 1750. Hans forretningsidé var billige kopier av standardverk "
-"falt i det fri, ihvertfall fri ifølge \"Statute of Anne\".<placeholder "
-"type=\"footnote\" id=\"0\"/> Donaldsons forlag vokste og ble \"et sentrum for "
+"falt i det fri, ihvertfall fri ifølge \"Statute of Anne\".<placeholder type="
+"\"footnote\" id=\"0\"/> Donaldsons forlag vokste og ble \"et sentrum for "
 "litterære skotter.\" \"Blant dem,\" skriver professor Mark Rose, var \"den "
-"unge James Boswell som, sammen med sin venn Andrew Erskine, publiserte en hel "
-"antologi av skotsk samtidspoesi sammen med Donaldson.\"<placeholder type="
-"\"footnote\" id=\"1\"/>"
+"unge James Boswell som, sammen med sin venn Andrew Erskine, publiserte en "
+"hel antologi av skotsk samtidspoesi sammen med Donaldson.\"<placeholder type="
+"\"footnote\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
 
 #.  f10
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -7801,10 +7704,10 @@ msgstr ""
 "Da Londons bokselgere prøvde å få stengt Donaldsons butikk i Skottland, så "
 "flyttet han butikken til London. Her solgte han billige utgaver av \"de mest "
 "populære, engelske bøker, i kamp mot sedvanerettens rett til litterær "
-"eiendom.\" <placeholder type=\"footnote\" id="
-"\"0\"/> Bøkene hans var mellom 30% og 50% billigere enn \"the Conger\"s, og "
-"han baserte sin rett til denne konkurransen på at bøkene, takket være "
-"\"Statute of Anne\", var falt i det fri."
+"eiendom.\" <placeholder type=\"footnote\" id=\"0\"/> Bøkene hans var mellom "
+"30% og 50% billigere enn \"the Conger\"s, og han baserte sin rett til denne "
+"konkurransen på at bøkene, takket være \"Statute of Anne\", var falt i det "
+"fri."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7842,8 +7745,8 @@ msgstr ""
 "Thomsons dikt \"The Seasons\". Millar hadde da full beskyttelse gjennom "
 "\"Statute of Anne\", men etter at denne beskyttelsen var uløpt, begynte "
 "Robert Taylor å trykke et konkurrerende bind. Millar gikk til sak, og hevdet "
-"han hadde en evig rett gjennom sedvaneretten, uansett hva \"Statute of Anne\" "
-"sa.<placeholder type=\"footnote\" id=\"0\"/>"
+"han hadde en evig rett gjennom sedvaneretten, uansett hva \"Statute of Anne"
+"\" sa.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7858,13 +7761,13 @@ msgid ""
 "perpetual right to control the publication of any book assigned to them."
 msgstr ""
 "Til moderne juristers forbløffelse, var en av, ikke bare datidens, men en av "
-"de største dommere i engelsk historie, Lord Mansfield, enig med bokhandlerne. "
-"Uansett hvilken beskyttelse \"Statute of Anne\" gav bokhandlerne, så sa han "
-"at den ikke fortrengte noe fra sedvaneretten. Spørsmålet var hvorvidt "
-"sedvaneretten beskyttet forfatterne mot pirater. Mansfield svar var ja: "
-"Sedvaneretten nektet Taylor å reprodusere Thomsons dikt uten Millars "
-"tillatelse. Slik gav sedvaneretten bokselgerne en evig publiseringsrett til "
-"bøker solgt til dem."
+"de største dommere i engelsk historie, Lord Mansfield, enig med "
+"bokhandlerne. Uansett hvilken beskyttelse \"Statute of Anne\" gav "
+"bokhandlerne, så sa han at den ikke fortrengte noe fra sedvaneretten. "
+"Spørsmålet var hvorvidt sedvaneretten beskyttet forfatterne mot pirater. "
+"Mansfield svar var ja: Sedvaneretten nektet Taylor å reprodusere Thomsons "
+"dikt uten Millars tillatelse. Slik gav sedvaneretten bokselgerne en evig "
+"publiseringsrett til bøker solgt til dem."
 
 #.  PAGE BREAK 103
 #. type: Content of: <book><chapter><sect1><para>
@@ -7881,28 +7784,15 @@ msgid ""
 "Britain would mature from the controlled culture that the Crown coveted to "
 "the free culture that we inherited."
 msgstr ""
-<<<<<<< HEAD
 "Ser man på det som et spørsmål innen abstrakt jus - dersom man resonnere som "
 "om rettferdighet bare var logisk deduksjon fra de første bud - kunne "
 "Mansfields konklusjon gitt mening. Men den overså det Parlamentet hadde "
-"kjempet for i 1710: Hvordan man på best mulig vis kunne innskrenke utgivernes "
-"monopolmakt. Parlamentets strategi hadde vært å kjøpe fred gjennom å tilby en "
-"beskyttelsesperiode også for eksisterende verk, men perioden måtte være så "
-"kort at kulturen ble utsatt for konkurranse innen rimelig tid. Storbritannia "
-"skulle vokse fra den kontrollerte kulturen under kronen, inn i en fri og åpen "
-"kultur."
-=======
-"regnet som et spørsmål om abstrakt rettferdighet&mdash;resonnement som om "
-"rettferdighet var bare et spørsmål om logiske fradrag fra første "
-"prinsipper&mdash;mansfield's konklusjon kan gjøre noen følelse. men hva den "
-"ignorert var større problemet parlamentet hadde slitt med i 1710: hvordan "
-"man best kan begrense monopol makt utgivere? parlamentets strategi var å "
-"tilby en frist for eksisterende verk som var lang nok til å kjøpe fred i "
-"1710, men kort nok til å sikre at kultur ville passere inn i konkurransen "
-"innen en rimelig tidsperiode. innen tjueen år, parlamentet trodd, "
-"Storbritannia ville modne fra den kontrollerte kulturen som kronen tatt til "
-"gratis kultur som vi har arvet."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
+"kjempet for i 1710: Hvordan man på best mulig vis kunne innskrenke "
+"utgivernes monopolmakt. Parlamentets strategi hadde vært å kjøpe fred "
+"gjennom å tilby en beskyttelsesperiode også for eksisterende verk, men "
+"perioden måtte være så kort at kulturen ble utsatt for konkurranse innen "
+"rimelig tid. Storbritannia skulle vokse fra den kontrollerte kulturen under "
+"kronen, inn i en fri og åpen kultur."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7910,8 +7800,8 @@ msgid ""
 "The fight to defend the limits of the Statute of Anne was not to end there, "
 "however, and it is here that Donaldson enters the mix."
 msgstr ""
-"Kampen for å forsvare \"Statute of Anne\"s begrensninger sluttet uansett ikke "
-"der, for nå kommer Donaldson."
+"Kampen for å forsvare \"Statute of Anne\"s begrensninger sluttet uansett "
+"ikke der, for nå kommer Donaldson."
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Beckett, Thomas"
@@ -7935,12 +7825,12 @@ msgid ""
 "meaning of Parliament's limits from sixty years before."
 msgstr ""
 "Millar døde kort tid etter sin seier. Boet hans solgte rettighetene over "
-"Thomsons dikt til et syndikat av utgivere, deriblant Thomas Beckett.<"
-"placeholder type=\"footnote\" id=\"0\"/> Da ga Donaldson ut en uautorisert "
+"Thomsons dikt til et syndikat av utgivere, deriblant Thomas Beckett."
+"<placeholder type=\"footnote\" id=\"0\"/> Da ga Donaldson ut en uautorisert "
 "utgave av Thomsons verk. Etter avgjørelsen i Millar-saken, gikk Beckett til "
-"sak mot Donaldson. Donaldson tok saken inn for Overhuset, som da fungerte som "
-"en slags høyesterett. I februar 1774 hadde dette organet muligheten til å "
-"tolke Parlamentets mening med utøpsdatoen fra seksti år før."
+"sak mot Donaldson. Donaldson tok saken inn for Overhuset, som da fungerte "
+"som en slags høyesterett. I februar 1774 hadde dette organet muligheten til "
+"å tolke Parlamentets mening med utøpsdatoen fra seksti år før."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7959,8 +7849,8 @@ msgstr ""
 "rettigheter i sedvaneretten, så var disse fortrengt av \"Statute of Anne\". "
 "Etter at \"Statute of Anne\" var blitt vedtatt, skulle den eneste lovlige "
 "beskyttelse for trykkerett kom derfra. Og derfor, mente de, i tråd med "
-"vilkårene i \"Statute of Anne\", falle i det fri så fort beskyttelsesperioden "
-"var over."
+"vilkårene i \"Statute of Anne\", falle i det fri så fort "
+"beskyttelsesperioden var over."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans
@@ -7970,10 +7860,9 @@ msgid ""
 "legal distinction who functioned much like the Justices in our Supreme "
 "Court. Then, after the law lords voted, the House of Lords generally voted."
 msgstr ""
-"Overhuset var en merkelig institusjon. Juridiske spørsmål ble "
-"presentert for huset, og ble først stemt over av \"juslorder\", medlemmer av "
-"en"
-"spesiell rettslig gruppe som fungerte nesten slik som justiariusene i vår "
+"Overhuset var en merkelig institusjon. Juridiske spørsmål ble presentert for "
+"huset, og ble først stemt over av \"juslorder\", medlemmer av enspesiell "
+"rettslig gruppe som fungerte nesten slik som justiariusene i vår "
 "Høyesterett. Deretter, etter at \"juslordene\" hadde stemt, stemte resten av "
 "Overhuset."
 
@@ -7991,10 +7880,10 @@ msgid ""
 msgstr ""
 "Rapportene om juslordene stemmer er uenige. På enkelte punkter ser det ut "
 "som om evigvarende beskyttelse fikk flertall. Men det er ingen tvil om "
-"hvordan resten av Overhuset stemte. Med en majoritet på to mot en (22 mot 11) "
-"stemte de ned forslaget om en evig beskyttelse. Uansett hvordan man hadde "
-"tolket sedvaneretten, var nå kopiretten begrenset til en periode, og etter "
-"denne ville verket falle i det fri."
+"hvordan resten av Overhuset stemte. Med en majoritet på to mot en (22 mot "
+"11) stemte de ned forslaget om en evig beskyttelse. Uansett hvordan man "
+"hadde tolket sedvaneretten, var nå kopiretten begrenset til en periode, og "
+"etter denne ville verket falle i det fri."
 
 #. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Bacon, Francis"
@@ -8017,7 +7906,7 @@ msgid "Shakespeare, William"
 msgstr "Shakespeare, William"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "\"The public domain.\" Before the case of Donaldson v. Beckett, there was no "
 "clear idea of a public domain in England. Before 1774, there was a strong "
@@ -8030,26 +7919,20 @@ msgid ""
 "\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
 "<placeholder type=\"indexterm\" id=\"4\"/>"
 msgstr ""
-<<<<<<< HEAD
 "\"Å falle i det fri\". Før rettssaken Donaldson mot Beckett var det ingen "
 "klar oppfatning om hva å falle i det fri innebar. Før 1774 var det jo en "
 "allmenn oppfatning om at kopiretten var evigvarende. Men etter 1774 ble "
-"Public Domain født.For første gang i angloamerikansk historie var den lovlige "
-"beskyttelsen av et verk utgått, og de største verk i engelsk historie - "
-"inkludert Shakespeare, Bacon, Milton, Johnson og Bunyan - var frie."
-=======
-"\"i public domain.\" før saken av donaldson v. beckett, det var ingen klar "
-"idé av et offentlig-domene i england. før 1774 var det en sterk argumentet "
-"at sedvanerett opphavsrett var evigvarende. etter 1774, ble public domain "
-"født. for første gang i anglo-amerikanske historikk, juridisk kontroll over "
-"kreative gjerninger utløpt, og den største verker i engelsk historie, "
-"inkludert de av shakespeare, bacon, milton, johnson og bunyan&mdash;var fri "
-"for juridiske selvbeherskelse."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
+"Public Domain født.For første gang i angloamerikansk historie var den "
+"lovlige beskyttelsen av et verk utgått, og de største verk i engelsk "
+"historie - inkludert Shakespeare, Bacon, Milton, Johnson og Bunyan - var "
+"frie.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> "
+"<placeholder type=\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" "
+"id=\"4\"/>"
 
 #.  f13
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid "Rose, 97."
 msgstr "Rose, 97."
 
@@ -8067,15 +7950,15 @@ msgid ""
 msgstr ""
 "Vi kan knapt forestille oss det, men denne avgjørelsen fra Overhuset fyrte "
 "opp under en svært populær og politisk reaksjon. I Skottland, hvor de fleste "
-"piratugiverne hadde holdt til, ble avgjørelsen feiret i gatene. Som Edinburgh "
-"Advertiser skrev \"Ingen privatsak har noen gang fått slik oppmerksomhet fra "
-"folket, og ingen sak som har blitt prøvet i Overhuset har interessert så "
-"mange enkeltmennesker.\" \"Stor glede i Edinburgh etter seieren over litterær "
-"eiendom: bål og *illuminations*.<placeholder type=\"footnote\" id="
-"\"0\"/>"
+"piratugiverne hadde holdt til, ble avgjørelsen feiret i gatene. Som "
+"Edinburgh Advertiser skrev \"Ingen privatsak har noen gang fått slik "
+"oppmerksomhet fra folket, og ingen sak som har blitt prøvet i Overhuset har "
+"interessert så mange enkeltmennesker.\" \"Stor glede i Edinburgh etter "
+"seieren over litterær eiendom: bål og *illuminations*.<placeholder type="
+"\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "In London, however, at least among publishers, the reaction was equally "
 "strong in the opposite direction. The Morning Chronicle reported:"
@@ -8095,14 +7978,15 @@ msgid ""
 msgstr ""
 "Gjennom denne avgjørelsen ... er verdier til nesten 200 000 pund, som er "
 "blitt ærlig kjøpt gjennom allment salg, og som i går var eiendom, er nå "
-"redusert til ingenting. Bokselgerne i London og Westminster, mange av dem har "
-"solgt hus og eiendom for å kjøpe kopirettigheter, er med ett ruinerte, og "
-"mange som gjennom mange år har opparbeidet kompetanse for å brødfø familien, "
-"sitter nå uten en shilling til sine.<placeholder type=\"footnote\" id=\"0\"/>"
+"redusert til ingenting. Bokselgerne i London og Westminster, mange av dem "
+"har solgt hus og eiendom for å kjøpe kopirettigheter, er med ett ruinerte, "
+"og mange som gjennom mange år har opparbeidet kompetanse for å brødfø "
+"familien, sitter nå uten en shilling til sine.<placeholder type=\"footnote\" "
+"id=\"0\"/>"
 
 #.  PAGE BREAK 105
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans
+#, mtrans, fuzzy
 msgid ""
 "\"Ruined\" is a bit of an exaggeration. But it is not an exaggeration to say "
 "that the change was profound. The decision of the House of Lords meant that "
@@ -8122,58 +8006,36 @@ msgid ""
 "to people and how they get access to it are made by the few despite the "
 "wishes of the many."
 msgstr ""
-<<<<<<< HEAD
-"Ruinert er en overdrivelse. Men det er ingen overdrivelse å si at "
-"endringen var stor. Vedtaket fra Overhuset betydde at bokhandlerne ikke "
-"lenger kunnen kontrollere hvordan kulturen i England ville vokse og utvikle "
-"seg. Kulturen i England var etter dette fri. Ikke i den betydning at "
-"kopiretten ble ignorert, for utgiverne hadde i en begrenset periode rett over "
-"trykkingen. Og heller ikke i den betydningen at bøker kunne stjeles, for selv "
-"etter at boken var falt i det fri, så måtte den kjøpes. Men i den betydningen "
-"at kulturen og dens vekst ikke lenger var kontrollert av en liten gruppe "
+"Ruinert er en overdrivelse. Men det er ingen overdrivelse å si at endringen "
+"var stor. Vedtaket fra Overhuset betydde at bokhandlerne ikke lenger kunnen "
+"kontrollere hvordan kulturen i England ville vokse og utvikle seg. Kulturen "
+"i England var etter dette fri. Ikke i den betydning at kopiretten ble "
+"ignorert, for utgiverne hadde i en begrenset periode rett over trykkingen. "
+"Og heller ikke i den betydningen at bøker kunne stjeles, for selv etter at "
+"boken var falt i det fri, så måtte den kjøpes. Men i den betydningen at "
+"kulturen og dens vekst ikke lenger var kontrollert av en liten gruppe "
 "utgivere. Som alle frie markeder, ville dette markedet vokse og utvikle seg "
 "etter tilbud og etterspørsel. Den engelske kulturen ble nå formet slik "
-"flertallet Englands lesere ville at det skulle formes - gjennom valget av hva "
-"de kjøpte og skrev, gjennom valget av *memes* de gjentok og beundret. Valg i "
-"en konkurrerende sammenheng, ikke der hvor valgene var om hvilken kultur som "
-"skulle være tilgjengelig for folket og hvor deres tilgang til den ble styrt "
-"av noen få, på tros av flertallets ønsker."
-
-#. type: Content of: <book><chapter><sect1><para>
-#, mtrans
-=======
-"\"ødela\" er litt av en overdrivelse. men det er ingen overdrivelse å si at "
-"endringen var dyp. vedtaket av house of lords betydde at bokhandlerne ikke "
-"lenger kan kontrollere hvordan kultur i england vil vokse og utvikle. kultur "
-"i england var etterpå gratis. for selvfølgelig, i en begrenset periode etter "
-"et arbeid ble utgitt, hadde den lokale Bokhandleren ikke i den forstand at "
-"opphavsretten ikke ville bli respektert, en eksklusiv rett til å kontrollere "
-"publiseringen av denne boken. og ikke i den forstand at bøker kan bli "
-"stjålet, for selv etter at opphavsretten utløpt, du fortsatt måtte kjøpe "
-"boka fra noen. men gratis i den forstand at kulturen og dens vekst, vil være "
-"styrt av en liten gruppe av utgivere ikke lenger. som hver fritt marked "
-"gjør, denne fritt marked for fri kultur ville vokse som forbrukere og "
-"produsenter valgte. engelsk kultur ville utvikle så mange engelsk lesere "
-"valgte å la det utvikle&mdash;valgte i bøker de kjøpte og skrev; valgte i "
-"memes de gjentas og godkjent. valgte i en konkurransedyktig sammenheng, ikke "
-"en sammenheng der valg om hva kultur er tilgjengelig for personer og hvordan "
-"de får tilgang til den er laget av få til tross for ønskene til mange."
+"flertallet Englands lesere ville at det skulle formes - gjennom valget av "
+"hva de kjøpte og skrev, gjennom valget av *memes* de gjentok og beundret. "
+"Valg i en konkurrerende sammenheng, ikke der hvor valgene var om hvilken "
+"kultur som skulle være tilgjengelig for folket og hvor deres tilgang til den "
+"ble styrt av noen få, på tros av flertallets ønsker."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid ""
 "At least, this was the rule in a world where the Parliament is antimonopoly, "
 "resistant to the protectionist pleas of publishers. In a world where the "
 "Parliament is more pliant, free culture would be less protected."
 msgstr ""
 "Til sist, dette var en verden hvor Parlamentet var anitmonopolistisk, og "
-"holdt stand mot utvigernes krav. I en verden hvor Parlamentet er mer "
-"*plient*, vil den frie kultur være mindre beskyttet."
+"holdt stand mot utgivernes krav. I en verden hvor Parlamentet er mer "
+"medgjørlig, vil den frie kultur være mindre beskyttet."
 
 #. type: Content of: <book><chapter><sect1><title>
 msgid "CHAPTER SEVEN: Recorders"
-msgstr "Kapittel sju: Opptakere"
+msgstr "Kapittel sju: Innspillerne"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -9026,7 +8888,10 @@ msgstr ""
 "omtrent alle bildet du ønsker; i en annen andre, kan du ha det plantet i "
 "presentasjonen."
 
-#.  PAGE BREAK 117
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Camp Chaos"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9037,7 +8902,7 @@ msgid ""
 "politicians and blends them with music to create biting political "
 "commentary. A site called Camp Chaos has produced some of the most biting "
 "criticism of the record industry that there is through the mixing of Flash! "
-"and music."
+"and music.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "men presentasjoner er bare en liten begynnelse. ved hjelp av Internett og "
 "sine arkiver, er musikere i stand til streng sammen mikser lydens aldri før "
@@ -10796,9 +10661,13 @@ msgstr ""
 "som er en god ting. ingen tvil at arbeidet med müller var viktig og "
 "verdifull og sannsynligvis lagret liv, kanskje millioner."
 
-#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
 msgid "Carson, Rachel"
 msgstr "Carson, Rachel"
+
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Silent Sprint (Carson)"
+msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10806,7 +10675,8 @@ msgid ""
 "But in 1962, Rachel Carson published Silent Spring, which argued that DDT, "
 "whatever its primary benefits, was also having unintended environmental "
 "consequences. Birds were losing the ability to reproduce.  Whole chains of "
-"the ecology were being destroyed."
+"the ecology were being destroyed.  <placeholder type=\"indexterm\" id=\"0\"/"
+"> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "men i 1962, rachel carson publisert stille våren, som hevdet at ddt, uansett "
 "dens primære fordeler, hadde også utilsiktede miljømessige konsekvenser. "
@@ -13811,7 +13681,7 @@ msgid ""
 "would find it rational to ignore new cultural trends.<placeholder type="
 "\"footnote\" id=\"0\"/> Lumbering giants not only don't, but should not, "
 "sprint. Yet if the field is only open to the giants, there will be far too "
-"little sprinting."
+"little sprinting.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -21993,9 +21863,9 @@ msgid ""
 "be done to change where we are heading. The balance of this book maps what "
 "might be done."
 msgstr ""
-"minst noen som har lest dette langt vil være enig med meg at noe må gjøres "
-"hvis du vil endre hvor vi er på vei. saldoen på denne boken tilordner hva "
-"kan gjøres."
+"I det minste noen som har lest helt hit vil være enig med meg om at noe må "
+"bjøres for å endre hvilken retning vi holder.  Balansen i denne boken "
+"kartlegger hva som kan gjøres."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -22871,7 +22741,7 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><title>
 #, mtrans, fuzzy
 msgid "THEM, SOON"
-msgstr "dem snart"
+msgstr "Dem, snart"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -23374,6 +23244,9 @@ msgid ""
 "or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), available at <ulink "
 "url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 msgstr ""
+"Department of Veterans Affairs, Veteran's Application for Compensation and/"
+"or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 msgid ""
@@ -24670,10 +24543,6 @@ msgstr ""
 "postsystemet mitt gjorde at jeg mistet en haug med flotte svar.)"
 
 #. type: Content of: <book><chapter><para>
-<<<<<<< HEAD
-#, mtrans
-=======
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 msgid ""
 "Richard Stallman and Michael Carroll each read the whole book in draft, and "
 "each provided extremely helpful correction and advice.  Michael helped me to "
@@ -24682,21 +24551,12 @@ msgid ""
 "in part inspired by Stallman's, he does not agree with me in important "
 "places throughout this book."
 msgstr ""
-<<<<<<< HEAD
-"Richard Stallman og Michael Carroll har begge lest utkast av hele denne "
-"boken, og hver av dem har bidratt med svært nyttige korreksjoner og råd.  "
-"Michael hjalp meg å se tydeligere betydningen av regulering av avledede "
-"verk. Og Richard korrigerte en pinlig stor mengde feil. Selv om mitt "
-"arbeid er delvis inspirert av Stallmans, er vi uenige om mye viktig i denne "
-"boka."
-=======
 "Richard Stallman og Michael Carroll har begge lest hele boken i utkast, og "
 "hver av dem har bidratt med svært nyttige korreksjoner og råd. Michael hjalp "
 "meg å se mer tydelig betydningen av regulering for avledede verker . Og "
 "Richard korrigerte en pinlig stor mengde feil.  Selv om mitt arbeid er "
 "delvis inspirert av Stallmans, er han ikke enig med meg på vesentlige steder "
 "i denne boken."
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24705,15 +24565,7 @@ msgid ""
 "always been right. This slow learner is, as ever, grateful for her perpetual "
 "patience and love."
 msgstr ""
-<<<<<<< HEAD
-"Til slutt er jeg Bettina evig takknemlig, som alltid har insistert "
-"på at det ville være lykke uten ende borte fra disse kampene, og som alltid "
-"har hatt rett.  Denne trege læreren er, som alltid, takknemlig for hennes "
-=======
 "Til slutt, og for evig, er jeg Bettina takknemlig, som alltid har insistert "
 "på at det ville være endeløs lykke utenfor disse kampene, og som alltid har "
 "hatt rett.  Denne trege eleven er som alltid takknemlig for hennes "
->>>>>>> bb097b556736b82bb6616871868b11a471738678
 "evigvarende tålmodighet og kjærlighet."
-
-

@@ -895,27 +895,23 @@ independent. We have built a kind of cultural nobility; those within
 the noble class live easily; those outside it don't. But it is
 nobility of any form that is alien to our tradition.
 </para>
-<!-- PAGE BREAK 26 -->
+<!-- PAGE BREAK 26. FIXME: Should "Is it" be "It is" ? -->
 <para>
-The story that follows is about this war. Is it not about the 
-		"centrality
-of technology" to ordinary life. I don't believe in gods, digital or
-otherwise. Nor is it an effort to demonize any individual or group, for
-neither do I believe in a devil, corporate or otherwise. It is not a 
-		morality
-tale. Nor is it a call to jihad against an industry.
+The story that follows is about this war. Is it not about the
+"centrality of technology" to ordinary life. I don't believe in gods,
+digital or otherwise. Nor is it an effort to demonize any individual
+or group, for neither do I believe in a devil, corporate or
+otherwise. It is not a morality tale. Nor is it a call to jihad
+against an industry.
 </para>
 <para>
-It is instead an effort to understand a hopelessly destructive war 
-		inspired
-by the technologies of the Internet but reaching far beyond its
-code. And by understanding this battle, it is an effort to map peace.
-There is no good reason for the current struggle around Internet 
-		technologies
-to continue. There will be great harm to our tradition and
-culture if it is allowed to continue unchecked. We must come to 
-		understand
-the source of this war. We must resolve it soon.
+It is instead an effort to understand a hopelessly destructive war
+inspired by the technologies of the Internet but reaching far beyond
+its code. And by understanding this battle, it is an effort to map
+peace.  There is no good reason for the current struggle around
+Internet technologies to continue. There will be great harm to our
+tradition and culture if it is allowed to continue unchecked. We must
+come to understand the source of this war. We must resolve it soon.
 </para>
 <indexterm><primary>Causby, Thomas Lee</primary></indexterm>
 <indexterm><primary>Causby, Tinie</primary></indexterm>
@@ -3483,22 +3479,20 @@ law should seek to either prevent it or find an alternative to assure the
 author of his profit.
 </para>
 <para>
-Peer-to-peer sharing was made famous by Napster. But the inventors
-of the Napster technology had not made any major technological 
-		innovations.
-Like every great advance in innovation on the Internet (and, 
-		arguably,
-off the Internet as well<footnote><para>
+Peer-to-peer sharing was made famous by Napster. But the inventors of
+the Napster technology had not made any major technological
+innovations.  Like every great advance in innovation on the Internet
+(and, arguably, off the Internet as well<footnote><para>
 <!-- f5 -->
 See Clayton M. Christensen, The Innovator's Dilemma: The Revolutionary
 National Bestseller That Changed the Way We Do Business (New York:
 HarperBusiness, 2000). Professor Christensen examines why companies
-that give rise to and dominate a product area are frequently unable to come
-up with the most creative, paradigm-shifting uses for their own products.
-This job usually falls to outside innovators, who reassemble existing 
-		technology
-in inventive ways. For a discussion of Christensen's ideas, see
-Lawrence Lessig, Future, 89&ndash;92, 139.
+that give rise to and dominate a product area are frequently unable to
+come up with the most creative, paradigm-shifting uses for their own
+products.  This job usually falls to outside innovators, who
+reassemble existing technology in inventive ways. For a discussion of
+Christensen's ideas, see Lawrence Lessig, Future, 89&ndash;92, 139.
+<indexterm><primary>Christensen, Clayton M.</primary></indexterm>
 </para></footnote>), Shawn Fanning and crew had simply
 put together components that had been developed independently.
 <indexterm><primary>Fanning, Shawn</primary></indexterm>
@@ -3509,14 +3503,12 @@ Napster amassed over 10 million users within nine months. After
 eighteen months, there were close to 80 million registered users of the
 system.<footnote><para>
 <!-- f6 -->
-See Carolyn Lochhead, "Silicon Valley Dream, Hollywood Nightmare,"
-San Francisco Chronicle, 24 September 2002, A1; "Rock 'n' Roll Suicide,"
+See Carolyn Lochhead, "Silicon Valley Dream, Hollywood Nightmare," San
+Francisco Chronicle, 24 September 2002, A1; "Rock 'n' Roll Suicide,"
 New Scientist, 6 July 2002, 42; Benny Evangelista, "Napster Names CEO,
-Secures New Financing," San Francisco Chronicle, 23 May 2003, C1; 
-		"Napster's
-Wake-Up Call," Economist, 24 June 2000, 23; John Naughton, 
-		"Hollywood
-at War with the Internet" (London) Times, 26 July 2002, 18.
+Secures New Financing," San Francisco Chronicle, 23 May 2003, C1;
+"Napster's Wake-Up Call," Economist, 24 June 2000, 23; John Naughton,
+"Hollywood at War with the Internet" (London) Times, 26 July 2002, 18.
 </para></footnote>
 Courts quickly shut Napster down, but other services emerged
 to take its place. (Kazaa is currently the most popular p2p service. It
@@ -5335,6 +5327,7 @@ takes images of politicians and blends them with music to create
 biting political commentary. A site called Camp Chaos has produced
 some of the most biting criticism of the record industry that there is
 through the mixing of Flash! and music.
+<indexterm><primary>Camp Chaos</primary></indexterm>
 </para>
 <para>
 All of these creations are technically illegal. Even if the creators
@@ -6316,6 +6309,8 @@ But in 1962, Rachel Carson published Silent Spring, which argued that
 DDT, whatever its primary benefits, was also having unintended
 environmental consequences. Birds were losing the ability to
 reproduce.  Whole chains of the ecology were being destroyed.
+<indexterm><primary>Carson, Rachel</primary></indexterm>
+<indexterm><primary>Silent Sprint (Carson)</primary></indexterm>
 </para>
 <para>
 No one set out to destroy the environment. Paul Müller certainly did
@@ -8028,6 +8023,7 @@ Underperform the Market&mdash;and How to Successfully Transform Them
 Lumbering giants not only don't, but should not, sprint. Yet if the
 field is only open to the giants, there will be far too little
 sprinting.
+<indexterm><primary>Christensen, Clayton M.</primary></indexterm>
 </para>
 <para>
 I don't think we know enough about the economics of the media
