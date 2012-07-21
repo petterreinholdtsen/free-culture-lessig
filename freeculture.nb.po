@@ -17405,15 +17405,14 @@ msgstr ""
 
 #.  f3.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Associated Press, \"Disney Lobbying for Copyright Extension No Mickey Mouse "
 "Effort; Congress OKs Bill Granting Creators 20 More Years,\" Chicago "
 "Tribune, 17 October 1998, 22."
 msgstr ""
-"Associated press, \"disney lobbyvirksomhet for opphavsrett filtypen ingen "
-"Mikke Mus innsats; Kongressen øks bill tildeling skaperne 20 år,\"chicago "
-"tribune, 17 oktober 1998, 22."
+"Associated Press, \"Disney Lobbying for Copyright Extension No Mickey Mouse "
+"Effort; Congress OKs Bill Granting Creators 20 More Years,\" Chicago "
+"Tribune, 17. oktober 1998, 22."
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -17421,6 +17420,8 @@ msgid ""
 "See Nick Brown, \"Fair Use No More?: Copyright in the Information Age,\" "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #49</ulink>."
 msgstr ""
+"Se Nick Brown, \"Fair Use No More?: Copyright in the Information Age,\" "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #49</ulink>."
 
 #.  f5.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -17429,6 +17430,9 @@ msgid ""
 "Quarterly This Week, 8 August 1990, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #50</ulink>."
 msgstr ""
+"Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" Congressional "
+"Quarterly This Week, 8. august 1990, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #50</ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -18283,6 +18287,9 @@ msgid ""
 "December 2002, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #54</ulink>."
 msgstr ""
+"Jason Schultz, \"The Myth of the 1976 Copyright `Chaos' Theory,\" 20 "
+"December 2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #54</ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
