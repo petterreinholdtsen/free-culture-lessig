@@ -1452,7 +1452,6 @@ msgstr ""
 "krig mot en industri."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It is instead an effort to understand a hopelessly destructive war inspired "
 "by the technologies of the Internet but reaching far beyond its code. And by "
@@ -1462,13 +1461,13 @@ msgid ""
 "continue unchecked. We must come to understand the source of this war. We "
 "must resolve it soon."
 msgstr ""
-"i stedet er det et forsøk på å forstå en håpløst ødeleggende krig som er "
-"inspirert av teknologien av Internett, men nå langt utenfor koden. og ved å "
-"forstå dette slaget, det er et forsøk på å tilordne fred. Det er ingen god "
-"grunn for gjeldende kampen rundt Internett-teknologier for å fortsette. det "
-"vil være stor skade på vår tradisjon og kultur Hvis det er lov til å "
-"fortsette ukontrollert. Vi må komme til å forstå kilden til denne krigen. Vi "
-"må løse det snart."
+"Det er i stedet et forsøk på å forstå en håpløst ødeleggende krig som "
+"er inspirert av teknologiene til internettet, men som rekker lang "
+"utenfor dens kode.  Og ved å forstå denne kampen er den en innsats for "
+"å finne veien til fred.  Det er ingen god grunn for å fortsette dagens "
+"batalje rundt internet-teknologiene.  Det vil være til stor skade for "
+"vår tradisjon og kultur hvis den får lov til å fortsette ukontrollert. "
+"Vi må forstå kilden til denne krigen.  Vi må finne en løsning snart."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -1920,15 +1919,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "These burdens make no sense in our tradition. We should begin by "
 "understanding that tradition a bit more and by placing in their proper "
 "context the current battles about behavior labeled \"piracy.\""
 msgstr ""
-"disse byrder gir ingen mening i vår tradisjon. Vi bør begynne ved å forstå "
-"denne tradisjonen litt mer, og ved å plassere i sin rette sammenheng "
-"gjeldende slagene om virkemåten merket \"piratkopiering\"."
+"Disse byrdene gir ingen mening i vår tradisjon.  Vi bør begynne med å "
+"forstå den tradisjonen litt mer, og ved å plassere dagens slag om "
+"oppførsel med merkelappen \"piratvirksomhet\" i sin rette sammenheng."
 
 #. type: Content of: <book><chapter><sect1><title>
 msgid "CHAPTER ONE: Creators"
