@@ -5008,7 +5008,6 @@ msgstr ""
 "skapende arbeid, registrere produsentene og offentligheten."
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Radio"
 msgstr "Radio"
 
@@ -6750,7 +6749,6 @@ msgid "RESPONSE OF CONGRESS"
 msgstr "Responsen til Kongressen"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Recordings"
 msgstr "Innspillinger"
 
@@ -6768,7 +6766,6 @@ msgid "Statutory license"
 msgstr "lovbestemte lisens"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Recording artists"
 msgstr "Innspillingsartister"
 
@@ -13992,9 +13989,8 @@ msgstr ""
 "1790, loven så ut som dette:"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "PUBLISH"
-msgstr "publisere"
+msgstr "Publiser"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><thead><row><entry>
 #, mtrans, fuzzy
@@ -14002,24 +13998,20 @@ msgid "TRANSFORM"
 msgstr "transformere"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Commercial"
-msgstr "kommersielle"
+msgstr "Kommersiell"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "&copy;"
-msgstr "�"
+msgstr "&copy;"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Free"
-msgstr "gratis"
+msgstr "Fri"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Noncommercial"
-msgstr "reklamefrie"
+msgstr "Ikke-kommersiell"
 
 #.  PAGE BREAK 182
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -14070,13 +14062,12 @@ msgstr ""
 "slik ut:"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "COPY"
 msgstr "Kopier"
 
 #. type: Content of: <book><chapter><sect1><sect2><table><tgroup><tbody><row><entry>
 msgid "&copy;/Free"
-msgstr ""
+msgstr "&copy;/Fri"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
