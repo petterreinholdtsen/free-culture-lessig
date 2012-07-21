@@ -4915,8 +4915,8 @@ msgstr ""
 "Vedtektene."
 
 #. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
-msgid "Braithwaite, John"
-msgstr "Braithwaite, John"
+msgid "Grisham, John"
+msgstr "Grisham, John"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
