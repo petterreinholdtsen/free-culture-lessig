@@ -1187,7 +1187,7 @@ msgstr ""
 "eneretten til første publikasjon, ga copyright lovene i delstaten forfattere "
 "makt til å kontrollere spredningen av fakta om dem. se d. samuel d. warren "
 "og louis brandeis, \"rett til personvern,\" harvard law gå gjennom 4 (1890): "
-"193, 198­200."
+"193, 198&ndash;200.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
