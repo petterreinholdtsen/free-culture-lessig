@@ -1022,8 +1022,8 @@ msgstr ""
 "kjempet Armstrong en dyr søksmålskrig for å forsvare patentene sine.  Til "
 "slutt, samtidig som patentene utløp, tilbød RCA et forlik så lavt at det "
 "ikke engang dekket Armstrongs advokatregning.  Beseiret, knust og nå blakk, "
-"skrev Armstrong i 1954 en kort beskjed til sin kone, gikk ut av et vindu i "
-"trettende etasje og falt i døden."
+"skrev Armstrong i 1954 en kort beskjed til sin kone, før han gikk ut av et "
+"vindu i trettende etasje og falt i døden."
 
 #.  PAGE BREAK 22
 #. type: Content of: <book><chapter><para>
