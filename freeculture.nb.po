@@ -1780,13 +1780,12 @@ msgstr "Dreyfuss, Rochelle"
 
 #.  f2
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See Rochelle Dreyfuss, \"Expressive Genericity: Trademarks as Language in "
 "the Pepsi Generation,\" Notre Dame Law Review 65 (1990): 397."
 msgstr ""
-"se rochelle dreyfuss, \"uttrykksfulle genericity: varemerker som språk i "
-"pepsi-generasjon\" notre dame lov gå gjennom 65 (1990): 397."
+"Se Rochelle Dreyfuss, \"Expressive Genericity: Trademarks as Language in "
+"the Pepsi Generation,\" Notre Dame Law Review 65 (1990): 397."
 
 #.  f3
 #. type: Content of: <book><chapter><para><footnote><para>
