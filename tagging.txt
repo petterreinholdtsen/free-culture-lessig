@@ -9,9 +9,24 @@ docbook source:
 This will result in the entry ABC showing up in the Index, with a
 reference to the page where it is mentioned.
 
+To get two levels in the index at the back, add entries like this to
+the docbook source:
+
+  <indexterm>
+  <primary>artists</primary>
+  <secondary>publicity rights on images of</secondary>
+  </indexterm>
+
+To index a range of paragrams/pages:
+
+  <indexterm id="idxexchap" class='startofrange'>
+    <primary>Example Chapter</primary></indexterm>
+  ...
+  <indexterm startref="idxexchap" class="endofrange"/>
+
 Docbook howtos
 --------------
 
 http://developer.gnome.org/gdp-handbook/stable/docbook.html.en
 http://www.docbook.org/tdg/en/html/docbook.html
-
+http://www.docbook.org/tdg/en/html/indexterm.html

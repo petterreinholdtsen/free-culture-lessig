@@ -5,7 +5,11 @@
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 
 # PDF rule
+# Valid book options are a4paper, a5paper, b5paper, letterpaper,
+# legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
+# titlepage, openany, draft, fleqn, leqno
 DBLATEX = dblatex \
+	-P latex.class.options=a5paper \
 	-T db2latex \
 	--backend=xetex \
 	--xsl-user=data/user_param.xsl \
@@ -21,7 +25,7 @@ XP = xsltproc \
 
 DBTOEPUB = dbtoepub
 
-all: pdf epub
+all: lint lint.nb epub pdf
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -29,8 +33,8 @@ freeculture.nb.po: freeculture.pot
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
-pdf: freeculture.pdf freeculture.nb.pdf 
-epub: freeculture.epub freeculture.nb.epub 
+pdf: freeculture.nb.pdf freeculture.pdf
+epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml
@@ -48,8 +52,19 @@ freeculture.xml:
 freeculture.pot: freeculture.xml
 	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
 
-stats:
+stats: update-stats progress.png
+update-stats:
 	( \
-	date +"%Y-%m-%dT%H%M" ; \
+	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
 	) | tee -a stats.txt
+progress.png: stats.txt progress.gnuplot
+	awk '{print $$1, $$2, $$5, $$8}' < stats.txt > stats.csv
+	gnuplot progress.gnuplot
+	rm stats.csv
+
+lint: freeculture.xml
+	xmllint --nonet --noout --postvalid --xinclude freeculture.xml
+
+lint.nb: freeculture.nb.xml
+	xmllint --nonet --noout --postvalid --xinclude freeculture.nb.xml
