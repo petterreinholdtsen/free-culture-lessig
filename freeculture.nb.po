@@ -7980,7 +7980,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><title>
 msgid "CHAPTER SEVEN: Recorders"
-msgstr "Kapittel sju: Opptakere"
+msgstr "Kapittel sju: Innspillerne"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
