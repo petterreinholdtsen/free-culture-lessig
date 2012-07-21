@@ -1644,7 +1644,7 @@ msgstr ""
 "tiden som trengs for å la \"sunn fornuft\" finne ut hvordan best svare "
 "på utfordringen, så lar vi de som er mest truet av endringene bruke "
 "sin makt til å endre loven&mdash;og viktigere, å bruke sin makt til å "
-"endre noe fundamentalt om hvordan vi alltid har vært."
+"endre noe fundamentalt om hvordan vi alltid har fungert."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
