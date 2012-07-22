@@ -68,8 +68,7 @@ Appeals.
  </abstract>
 </bookinfo>
 
-<chapter id="c-info">
-<title>Info</title>
+<colophon>
 <!-- PAGE BREAK 1 -->
 
 <para>
@@ -281,7 +280,8 @@ c      INDEX
 
 <!-- PAGE BREAK 11 -->
 
-</chapter>
+</colophon>
+
 <chapter id="c-preface">
 <title>PREFACE</title>
 <indexterm id="idxpoguedavid" class='startofrange'>
