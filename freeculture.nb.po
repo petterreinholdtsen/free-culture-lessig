@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-22 17:30+0300\n"
+"POT-Creation-Date: 2012-07-22 19:01+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -261,7 +261,7 @@ msgid ""
 "materials. Your support of the author's rights is appreciated."
 msgstr ""
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid ""
 "To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
 "continues still."
@@ -269,15 +269,15 @@ msgstr ""
 "Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for "
 "hvem saken fortsetter."
 
-#. type: Content of: <book><colophon><para><figure><title>
+#. type: Content of: <book><dedication><para><figure><title>
 msgid "Creative Commons, Some rights reserved"
 msgstr "Creative Commons, noen rettigheter reservert"
 
-#. type: Content of: <book><colophon><para><figure>
+#. type: Content of: <book><dedication><para><figure>
 msgid "<graphic fileref=\"images/cc.png\"></graphic>"
 msgstr "<graphic fileref=\"images/cc.png\"></graphic>"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "<placeholder type=\"figure\" id=\"0\"/>"
 msgstr "<placeholder type=\"figure\" id=\"0\"/>"
 
@@ -285,15 +285,15 @@ msgstr "<placeholder type=\"figure\" id=\"0\"/>"
 msgid "List of figures"
 msgstr "Figurliste"
 
-#. type: Content of: <book><chapter><title>
+#. type: Content of: <book><preface><title>
 msgid "PREFACE"
 msgstr "Forord"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><preface><indexterm><primary>
 msgid "Pogue, David"
 msgstr "Pogue, David"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "At the end of his review of my first book, Code: And Other Laws of "
 "Cyberspace, David Pogue, a brilliant writer and author of countless "
@@ -303,7 +303,7 @@ msgstr ""
 "datarelaterte tekster, skrev dette på slutten av hans gjennomgang av min "
 "første bok, Code: And Other Laws of Cyberspace:"
 
-#. type: Content of: <book><chapter><blockquote><para><footnote><para>
+#. type: Content of: <book><preface><blockquote><para><footnote><para>
 msgid ""
 "David Pogue, \"Don't Just Chat, Do Something,\" New York Times, 30 January "
 "2000."
@@ -311,7 +311,7 @@ msgstr ""
 "David Pogue, \"Don't Just Chat, Do Something,\" New York Times, 30. januar "
 "2000"
 
-#. type: Content of: <book><chapter><blockquote><para>
+#. type: Content of: <book><preface><blockquote><para>
 msgid ""
 "Unlike actual law, Internet software has no capacity to punish. It doesn't "
 "affect people who aren't online (and only a tiny minority of the world "
@@ -324,7 +324,7 @@ msgstr ""
 "ikke liker systemet på internett, så kan du alltid slå av modemet."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "Pogue was skeptical of the core argument of the book&mdash;that software, or "
 "\"code,\" functioned as a kind of law&mdash;and his review suggested the "
@@ -341,7 +341,7 @@ msgstr ""
 "finnes der ville ikke \"påvirke\" oss mer."
 
 #.  PAGE BREAK 12
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "Pogue might have been right in 1999&mdash;I'm skeptical, but maybe.  But "
 "even if he was right then, the point is not right now: Free Culture is about "
@@ -357,7 +357,7 @@ msgstr ""
 "fundamentalt påvirket \"folk som er ikke pålogget.\"  Det finnes ingen "
 "bryter som kan isolere oss fra internettets effekt."
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "But unlike Code, the argument here is not much about the Internet itself. It "
 "is instead about the consequence of the Internet to a part of our tradition "
@@ -369,14 +369,14 @@ msgstr ""
 "av vår tradisjon som er mye mer grunnleggende, og uansett hvor hardt dette "
 "er for en geek-wanna-be å innrømme, mye viktigere."
 
-#. type: Content of: <book><chapter><para><footnote><para>
+#. type: Content of: <book><preface><para><footnote><para>
 msgid ""
 "Richard M. Stallman, Free Software, Free Societies 57 (Joshua Gay, ed. 2002)."
 msgstr ""
 "Richard M. Stallman, Fri programvare, Frie samfunn 57 (Joshua Gay, red. "
 "2002)."
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "That tradition is the way our culture gets made. As I explain in the pages "
 "that follow, we come from a tradition of \"free culture\"&mdash;not \"free\" "
@@ -408,7 +408,7 @@ msgstr ""
 "kultur der skapere kun kan skape med tillatelse fra de mektige, eller fra "
 "skaperne fra fortiden."
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "If we understood this change, I believe we would resist it. Not \"we\" on "
 "the Left or \"you\" on the Right, but we who have no stake in the particular "
@@ -429,7 +429,7 @@ msgstr ""
 msgid "CodePink Women in Peace"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "We saw a glimpse of this bipartisan outrage in the early summer of 2003. As "
 "the FCC considered changes in media ownership rules that would relax limits "
@@ -449,12 +449,12 @@ msgstr ""
 "konservative Ted Stevens\", formulerte han  kanskje det enkleste uttrykket "
 "for hva som var på spill: konsentrasjonen av makt.  Så spurte han:"
 
-#. type: Content of: <book><chapter><blockquote><para><footnote><para>
+#. type: Content of: <book><preface><blockquote><para><footnote><para>
 msgid "William Safire, \"The Great Media Gulp,\" New York Times, 22 May 2003."
 msgstr ""
 "William Safire, \"The Great Media Gulp,\" New York Times, 22. mai 2003."
 
-#. type: Content of: <book><chapter><blockquote><para>
+#. type: Content of: <book><preface><blockquote><para>
 msgid ""
 "Does that sound unconservative? Not to me. The concentration of power&mdash;"
 "political, corporate, media, cultural&mdash;should be anathema to "
@@ -469,7 +469,7 @@ msgstr ""
 "føderalismen og det største uttrykk for demokrati.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "This idea is an element of the argument of Free Culture, though my focus is "
 "not just on the concentration of power produced by concentrations in "
@@ -500,7 +500,7 @@ msgstr ""
 "argumentere for at dette verket kun er et avledet verk."
 
 #.  PAGE BREAK 14
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "I accept that criticism, if indeed it is a criticism. The work of a lawyer "
 "is always derivative, and I mean to do nothing more in this book than to "
@@ -530,7 +530,7 @@ msgstr ""
 "En kultur uten eierskap eller en der skaperne ikke kan få betalt, er anarki, "
 "ikke frihet.  Anarki er ikke hva jeg fremmer her."
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><preface><para>
 msgid ""
 "Instead, the free culture that I defend in this book is a balance between "
 "anarchy and control. A free culture, like a free market, is filled with "
@@ -1756,11 +1756,10 @@ msgid ""
 "of \"piracy\" in some context. For as the concept is increasingly used, at "
 "its core is an extraordinary idea that is almost certainly wrong."
 msgstr ""
-"Det er ingen tvil om at \"piratvirksomhet\" er galt, og at pirater "
-"bør straffes.  Men før vi roper på bødlene, bør vi sette dette "
-"\"piratvirksomhets\"-begrepet i en sammenheng.  For mens begrepet "
-"blir mer og mer brukt, har det i sin kjerne en ekstraordinær ide som "
-"nesten helt sikkert er feil."
+"Det er ingen tvil om at \"piratvirksomhet\" er galt, og at pirater bør "
+"straffes.  Men før vi roper på bødlene, bør vi sette dette \"piratvirksomhets"
+"\"-begrepet i en sammenheng.  For mens begrepet blir mer og mer brukt, har "
+"det i sin kjerne en ekstraordinær ide som nesten helt sikkert er feil."
 
 #. type: Content of: <book><chapter><para>
 msgid "The idea goes something like this:"
@@ -1774,11 +1773,11 @@ msgid ""
 "taking of something of value from someone else without permission is wrong. "
 "It is a form of piracy."
 msgstr ""
-"Kreativt arbeid har verdi.  Når jeg bruker, eller tar, eller bygger "
-"på det kreative arbeidet til andre, så tar jeg noe fra dem som har "
-"verdi.  Når jeg tar noe av verdi fra noen andre, bør jeg få tillatelse "
-"fra dem.  Å ta noe som har verdi fra andre uten tillatelse "
-"er galt.  Det er en form for piratvirksomhet."
+"Kreativt arbeid har verdi.  Når jeg bruker, eller tar, eller bygger på det "
+"kreative arbeidet til andre, så tar jeg noe fra dem som har verdi.  Når jeg "
+"tar noe av verdi fra noen andre, bør jeg få tillatelse fra dem.  Å ta noe "
+"som har verdi fra andre uten tillatelse er galt.  Det er en form for "
+"piratvirksomhet."
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Dreyfuss, Rochelle"
