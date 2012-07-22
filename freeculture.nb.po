@@ -7542,7 +7542,7 @@ msgstr ""
 "utvidelser om igjen og om igjen, så fort de gamle utgår; så dersom dette "
 "lovforslaget blir vedtatt, vil effekten være: at et evig monopol blir skapt, "
 "et stort nederlag for handelen, et angrep mot kunnskapen, ingen fordel for "
-"forfatterne, men en stor avgift for folket; og alt dette kun forå øke "
+"forfatterne, men en stor avgift for folket; og alt dette kun for å øke "
 "bokhandlernes personlige rikdom.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
