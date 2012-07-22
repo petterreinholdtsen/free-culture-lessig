@@ -211,10 +211,14 @@ To Eric Eldred&mdash;whose work first drew me to this cause, and for whom
 it continues still.
 </para>
 
+<para>
 <figure id="CreativeCommons">
 <title>Creative Commons, Some rights reserved</title>
 <graphic fileref="images/cc.png"></graphic>
 </figure>
+</para>
+
+</colophon>
 
 <toc id="toc"></toc>
 
@@ -279,8 +283,6 @@ c      INDEX
 -->
 
 <!-- PAGE BREAK 11 -->
-
-</colophon>
 
 <chapter id="c-preface">
 <title>PREFACE</title>
