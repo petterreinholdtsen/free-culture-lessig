@@ -1037,12 +1037,14 @@ to which most of us remain oblivious.
 <title>"PIRACY"</title>
 
 <!-- PAGE BREAK 30 -->
+<indexterm id="idxmansfield" class='startofrange'>
+  <primary>Mansfield, William Murray, Lord</primary>
+</indexterm>
 <para>
-Since the inception of the law regulating creative property, there
-has been a war against "piracy." The precise contours of this concept,
-"piracy," are hard to sketch, but the animating injustice is easy to 
-		capture.
-As Lord Mansfield wrote in a case that extended the reach of
+Since the inception of the law regulating creative property, there has
+been a war against "piracy." The precise contours of this concept,
+"piracy," are hard to sketch, but the animating injustice is easy to
+capture.  As Lord Mansfield wrote in a case that extended the reach of
 English copyright law to include sheet music,
 </para>
 <blockquote>
@@ -1054,16 +1056,15 @@ of them for his own use.<footnote><para>
 Bach v. Longman, 98 Eng. Rep. 1274 (1777) (Mansfield).
 </para></footnote>
 </para>
+<indexterm startref="idxmansfield" class='endofrange'/>
 </blockquote>
 <para>
 Today we are in the middle of another "war" against "piracy." The
-Internet has provoked this war. The Internet makes possible the 
-		efficient
-spread of content. Peer-to-peer (p2p) file sharing is among the
-most efficient of the efficient technologies the Internet enables. Using
-distributed intelligence, p2p systems facilitate the easy spread of 
-		content
-in a way unimagined a generation ago.
+Internet has provoked this war. The Internet makes possible the
+efficient spread of content. Peer-to-peer (p2p) file sharing is among
+the most efficient of the efficient technologies the Internet
+enables. Using distributed intelligence, p2p systems facilitate the
+easy spread of content in a way unimagined a generation ago.
 <!-- PAGE BREAK 31 -->
 </para>
 <para>
@@ -4710,6 +4711,9 @@ Exploding the Myth of Common Law Copyright," Wayne Law Review 29
 (1983): 1152.
 </para></footnote>
 </para>
+<indexterm id="idxmansfield" class='startofrange'>
+  <primary>Mansfield, William Murray, Lord</primary>
+</indexterm>
 <para>
 Astonishingly to modern lawyers, one of the greatest judges in English
 history, Lord Mansfield, agreed with the booksellers. Whatever
@@ -4735,6 +4739,7 @@ a reasonable period of time. Within twenty-one years, Parliament
 believed, Britain would mature from the controlled culture that the
 Crown coveted to the free culture that we inherited.
 </para>
+<indexterm startref="idxmansfield" class='endofrange'/>
 <para>
 The fight to defend the limits of the Statute of Anne was not to end
 there, however, and it is here that Donaldson enters the mix.
