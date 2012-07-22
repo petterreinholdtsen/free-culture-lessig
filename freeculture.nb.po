@@ -1670,7 +1670,6 @@ msgid "\"PIRACY\""
 msgstr "\"Piratvirksomhet\""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Since the inception of the law regulating creative property, there has been "
 "a war against \"piracy.\" The precise contours of this concept, \"piracy,\" "
@@ -1678,11 +1677,12 @@ msgid ""
 "Mansfield wrote in a case that extended the reach of English copyright law "
 "to include sheet music,"
 msgstr ""
-"siden starten av loven som regulerer kreative egenskapen, har det vært en "
-"krig mot \"piratkopiering.\" presis konturene av dette konseptet "
-"\"piratkopiering\", er vanskelig å skissere, men animert urettferdighet er "
-"lett å fange. som Herren mansfield skrev i en sak som utvidet rekkevidden av "
-"engelsk lov om opphavsrett til å inkludere sheet music,"
+"Helt siden loven begynte å regulere kreative eierrettigheter, har det "
+"vært en krig mot \"piratvirksomhet\".  De presise konturene av dette "
+"konseptet, \"piratvirksomhet\", har vært vanskelig å tegne opp, men "
+"bildet av urettferdighet er enkelt å beskrive.  Som Lord Mansfield "
+"skrev i en sak som utvidet rekkevidden for engelsk opphavsrettslov til "
+"å inkludere noteark,"
 
 #.  f1
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
@@ -1701,7 +1701,6 @@ msgstr ""
 
 #.  PAGE BREAK 31
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Today we are in the middle of another \"war\" against \"piracy.\" The "
 "Internet has provoked this war. The Internet makes possible the efficient "
@@ -1710,12 +1709,13 @@ msgid ""
 "distributed intelligence, p2p systems facilitate the easy spread of content "
 "in a way unimagined a generation ago."
 msgstr ""
-"i dag er vi midt i en annen \"krig\" mot \"piratkopiering.\" Internett har "
-"provosert denne krigen. Internett gjør mulig effektiv spredning av innhold. "
-"Peer-to-peer (p2p) fildeling er blant den mest effektive av effektiv "
-"teknologi gjør det mulig for Internett. ved hjelp av distributed "
-"intelligence, p2p systemer forenkle enkel spredning av innhold på en måte "
-"som unimagined en generasjon siden."
+"I dag er vi midt inne i en annen \"krig\" mot \"piratvirksomhet\". "
+"Internettet har fremprovosert denne krigen.  Internettet gjør det "
+"mulig å effektivt spre innhold.  Peer-to-peer (p2p) fildeling er blant "
+"det mest effektive av de effektive teknologier internettet muliggjør. "
+"Ved å bruke distribuert intelligens, kan p2p-systemer muliggjøre enkel "
+"spredning av innhold på en måte som ingen forestillte seg for en "
+"genarasjon siden."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
