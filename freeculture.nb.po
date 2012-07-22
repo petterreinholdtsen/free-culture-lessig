@@ -1735,7 +1735,6 @@ msgstr ""
 "forfatteren overskuddet.\""
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The warriors have turned to the courts, to the legislatures, and "
 "increasingly to technology to defend their \"property\" against this "
@@ -1743,11 +1742,11 @@ msgid ""
 "believe that \"property\" should be \"free.\" Forget tattoos, never mind "
 "body piercing&mdash;our kids are becoming thieves!"
 msgstr ""
-"krigerne har slått til domstolene, til legislatures, og stadig til teknologi "
-"til å forsvare sine \"property\" mot denne \"piratkopiering.\" en generasjon "
-"amerikanere, warriors advare, er blir reist til å tro at \"property\" skal "
-"være \"gratis\" glem tatoveringer, never mind kroppspiercing&mdash;våre barn "
-"blir tyver!"
+"Krigerne har snudd seg til domstolene, til lovgiverne, og i stadig større grad "
+"til teknologi for å forsvare sin \"eiendom\" mot denne \"piratvirksomheten\".  "
+"En generasjon amerikanere, advarer krigerne, blir opptradd til å tro at "
+"\"eiendom\" skal være \"gratis\".  Glem tatoveringer, ikke tenk på "
+"kroppspiercing&mdash;våre barn blir tyver!"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
