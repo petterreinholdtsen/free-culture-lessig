@@ -1858,7 +1858,6 @@ msgstr ""
 "opptatt av å beskytte instrumentet at vi mister synet av verdien."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The source of this confusion is a distinction that the law no longer takes "
 "care to draw&mdash;the distinction between republishing someone's work on "
@@ -1866,11 +1865,11 @@ msgid ""
 "Copyright law at its birth had only publishing as its concern; copyright law "
 "today regulates both."
 msgstr ""
-"kilden til denne forvirring er en utmerkelse som loven ikke lenger tar seg "
-"til å tegne&mdash;skillet mellom republishing noens arbeid på den ene siden "
-"og bygge på eller transformere som fungerer på den andre. lov om opphavsrett "
-"på sin fødsel hadde bare publisering som sin bekymring; lov om opphavsrett "
-"regulerer i dag begge."
+"Kilden til denne forvirringen er et skille som loven ikke lenger bryr "
+"seg om å markere&mdash;skillet mellom å gjenpublisere noens verk på "
+"den ene siden, og bygge på og gjøre om verket på den andre.  Da "
+"opphavsretten kom var det kun publisering som ble berørt. "
+"Opphavsretten i dag regulerer begge."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -3833,9 +3832,8 @@ msgstr "CNN"
 
 #.  f19
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Telephone interview with David Winer, 16 April 2003."
-msgstr "telefon intervju med david vin, 16 april 2003."
+msgstr "Telefonintervju med David Winer, 16. april 2003."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
