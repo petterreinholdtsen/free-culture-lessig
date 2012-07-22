@@ -284,6 +284,9 @@ c      INDEX
 </chapter>
 <chapter id="c-preface">
 <title>PREFACE</title>
+<indexterm id="idxpoguedavid" class='startofrange'>
+  <primary>Pogue, David</primary>
+</indexterm>
 <para>
 At the end of his review of my first book, Code: And Other Laws of
 Cyberspace, David Pogue, a brilliant writer and author of countless
@@ -316,6 +319,7 @@ off. It is an argument about how the battles that now rage regarding life
 on-line have fundamentally affected "people who aren't online." There
 is no switch that will insulate us from the Internet's effect.
 </para>
+<indexterm startref="idxpoguedavid" class='endofrange'/>
 <para>
 But unlike Code, the argument here is not much about the Internet
 itself. It is instead about the consequence of the Internet to a part of
@@ -12463,6 +12467,7 @@ Aventis, Bayer, Bristol-Myers Squibb, Hoffmann-La Roche,
 Glaxo-SmithKline, IBM, Motorola, Novartis, Pfizer, and Searle.) It
 included the Global Positioning System, which Ronald Reagan set free
 in the early 1980s. And it included "open source and free software."
+<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
 <para>
 The aim of the meeting was to consider this wide range of projects
@@ -13185,6 +13190,7 @@ then deposited in a public, electronic archive and made permanently
 available for free. PLoS also sells a print version of its work, but
 the copyright for the print journal does not inhibit the right of
 anyone to redistribute the work for free.
+<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
 <para>
 This is one of many such efforts to restore a freedom taken for
