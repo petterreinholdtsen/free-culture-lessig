@@ -21894,9 +21894,8 @@ msgstr ""
 "kan gjøre for å sikre bedre en fri kultur."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "US, NOW"
-msgstr "oss nå"
+msgstr "Oss, nå"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -21988,9 +21987,8 @@ msgstr ""
 "gjenopprette et sett med andre friheter som vi bare kunne ta for gitt før."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
-msgstr "å gjenoppbygge friheter tidligere antatt: eksempler"
+msgstr "Gjenoppbygging av friheter som tidligere var antatt: Eksempler"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
