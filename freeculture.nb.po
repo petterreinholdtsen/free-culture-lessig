@@ -1750,25 +1750,23 @@ msgstr ""
 "blir tyver!"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There's no doubt that \"piracy\" is wrong, and that pirates should be "
 "punished. But before we summon the executioners, we should put this notion "
 "of \"piracy\" in some context. For as the concept is increasingly used, at "
 "its core is an extraordinary idea that is almost certainly wrong."
 msgstr ""
-"Det er ingen tvil om at \"piratkopiering\" er galt, og at pirates bør bli "
-"straffet. men før vi gå til executioners, vi bør sette denne oppfatningen av "
-"\"piratkopiering\" i noen sammenheng. for som konseptet blir stadig mer "
-"brukt, er i sin kjerne en ekstraordinære idé som er nesten helt sikkert galt."
+"Det er ingen tvil om at \"piratvirksomhet\" er galt, og at pirater "
+"bør straffes.  Men før vi roper på bødlene, bør vi sette dette "
+"\"piratvirksomhets\"-begrepet i en sammenheng.  For mens begrepet "
+"blir mer og mer brukt, har det i sin kjerne en ekstraordinær ide som "
+"nesten helt sikkert er feil."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid "The idea goes something like this:"
-msgstr "ideen går omtrent slik:"
+msgstr "Ideen høres omtrent slik ut:"
 
 #. type: Content of: <book><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "Creative work has value; whenever I use, or take, or build upon the creative "
 "work of others, I am taking from them something of value. Whenever I take "
@@ -1776,10 +1774,11 @@ msgid ""
 "taking of something of value from someone else without permission is wrong. "
 "It is a form of piracy."
 msgstr ""
-"skapende arbeid har verdi; Når jeg bruker, eller ta eller bygge på kreative "
-"arbeidet til andre, tar jeg fra dem noe av verdi. Når jeg tar noe av verdi "
-"fra noen andre, skulle jeg ha deres tillatelse. å ta av noe av verdi fra "
-"noen andre uten tillatelse er galt. Det er en form for piratkopiering."
+"Kreativt arbeid har verdi.  Når jeg bruker, eller tar, eller bygger "
+"på det kreative arbeidet til andre, så tar jeg noe fra dem som har "
+"verdi.  Når jeg tar noe av verdi fra noen andre, bør jeg få tillatelse "
+"fra dem.  Å ta noe som har verdi fra andre uten tillatelse "
+"er galt.  Det er en form for piratvirksomhet."
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Dreyfuss, Rochelle"
