@@ -33,20 +33,17 @@
 
 <copyright>
   <year>2004</year>
-<holder>
-   Lawrence Lessig.
-This version of Free Culture is licensed 
-under a Creative Commons license. This license permits 
-non-commercial use of this work, 
-so long as attribution is given.
-For more information about the license, 
-click the icon above, or visit 
+  <holder>
+Lawrence Lessig.  This version of Free Culture is licensed under a
+Creative Commons license. This license permits non-commercial use of
+this work, so long as attribution is given.  For more information
+about the license, click the icon above, or visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</holder>
+  </holder>
 </copyright>
 
  <abstract>
-<title>ABOUT THE AUTHOR</title>
+  <title>ABOUT THE AUTHOR</title>
   <para>
 LAWRENCE LESSIG 
 (<ulink url="http://www.lessig.org/">http://www.lessig.org</ulink>),
@@ -87,8 +84,7 @@ You can buy a copy of this book by clicking on one of the links below:
 ALSO BY LAWRENCE LESSIG
 </para>
 <para>
-The Future of Ideas: The Fate of the Commons
-in a Connected World
+The Future of Ideas: The Fate of the Commons in a Connected World
 </para>
 <para>
 Code: And Other Laws of Cyberspace
@@ -204,8 +200,10 @@ law.  Please purchase only authorized electronic editions and do not
 participate in or encourage electronic piracy of copyrighted
 materials. Your support of the author's rights is appreciated.
 </para>
-<!-- PAGE BREAK 7 -->
+</colophon>
 
+<!-- PAGE BREAK 7 -->
+<dedication>
 <para>
 To Eric Eldred&mdash;whose work first drew me to this cause, and for whom
 it continues still.
@@ -217,8 +215,7 @@ it continues still.
 <graphic fileref="images/cc.png"></graphic>
 </figure>
 </para>
-
-</colophon>
+</dedication>
 
 <toc id="toc"></toc>
 
@@ -284,7 +281,7 @@ c      INDEX
 
 <!-- PAGE BREAK 11 -->
 
-<chapter id="c-preface">
+<preface id="preface">
 <title>PREFACE</title>
 <indexterm id="idxpoguedavid" class='startofrange'>
   <primary>Pogue, David</primary>
@@ -424,7 +421,7 @@ fear about our culture today. It is against that extremism that this
 book is written.
 </para>
 
-</chapter>
+</preface>
 <!-- PAGE BREAK 15 -->
 
 <!-- PAGE BREAK 16 -->
