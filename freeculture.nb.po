@@ -21851,7 +21851,7 @@ msgid ""
 "might be done."
 msgstr ""
 "I det minste noen som har lest helt hit vil være enig med meg om at noe må "
-"bjøres for å endre hvilken retning vi holder.  Balansen i denne boken "
+"gjøres for å endre hvilken retning vi holder.  Balansen i denne boken "
 "kartlegger hva som kan gjøres."
 
 #. type: Content of: <book><chapter><para>
