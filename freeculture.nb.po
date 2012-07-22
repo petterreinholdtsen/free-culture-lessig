@@ -1720,7 +1720,6 @@ msgstr ""
 "innhold på en måte som ingen forestillte seg for en genarasjon siden."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This efficiency does not respect the traditional lines of copyright.  The "
 "network doesn't discriminate between the sharing of copyrighted and "
@@ -1728,11 +1727,12 @@ msgid ""
 "copyrighted content. That sharing in turn has excited the war, as copyright "
 "owners fear the sharing will \"rob the author of the profit.\""
 msgstr ""
-"Denne effektivitet respekterer ikke tradisjonelle linjene av opphavsrett. "
-"nettverket diskriminerer ikke mellom deling av opphavsrettsbeskyttet og "
-"uncopyrighted innhold. Dermed har det vært en enorm mengde deling av "
-"opphavsrettsbeskyttet innhold. at deling har i sin tur glade krigen som "
-"eiere av opphavsretter frykter deling vil \"rob forfatteren av overskuddet.\""
+"Denne effektiviteten respekterer ikke de tradisjonelle skillene i "
+"opphavsretten. Nettverket skiller ikke mellom deling av opphavsrettsbeskyttet "
+"og ikke opphavsrettsbeskyttet innhold. Dermed har det vært deling av en enorm "
+"mengde opphavsrettsbeskyttet innhold.  Denne delingen har i sin tur ansporet "
+"til krigen, på grunn av at eiere av opphavsretter frykter delingen vil \"frata "
+"forfatteren overskuddet.\""
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
