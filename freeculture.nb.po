@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-22 16:09+0300\n"
+"POT-Creation-Date: 2012-07-22 17:30+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -97,52 +97,48 @@ msgstr ""
 "assisterte Lessig dommer Richard Posner ved U.S. Seventh Circuit Court of "
 "Appeals."
 
-#. type: Content of: <book><chapter><title>
-msgid "Info"
-msgstr "Info"
-
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
 msgstr ""
 "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
-#. type: Content of: <book><chapter><itemizedlist><listitem><para>
+#. type: Content of: <book><colophon><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
 msgstr "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
 
-#. type: Content of: <book><chapter><itemizedlist><listitem><para>
+#. type: Content of: <book><colophon><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.barnesandnoble.com/\">B&amp;N</ulink>"
 msgstr "<ulink url=\"http://www.barnesandnoble.com/\">B&amp;N</ulink>"
 
-#. type: Content of: <book><chapter><itemizedlist><listitem><para>
+#. type: Content of: <book><colophon><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 msgstr "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "ALSO BY LAWRENCE LESSIG"
 msgstr "Andre bøker av Lawrence Lessig"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
 msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "THE PENGUIN PRESS"
 msgstr "The Penguin Press"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "NEW YORK"
 msgstr "New York"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "FREE CULTURE"
 msgstr "Fri Kultur"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
 "CREATIVITY"
@@ -150,108 +146,108 @@ msgstr ""
 "Hvordan store mediaaktører bruker teknologi og loven til å låse ned kulturen "
 "og kontrollere kreativiteten"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Copyright &copy; Lawrence Lessig,"
 msgstr "Opphavsrett &copy; Lawrence Lessig,"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "All rights reserved"
 msgstr "Alle rettigheter reservert"
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "Excerpt from an editorial titled \"The Coming of Copyright Perpetuity,\" The "
 "New York Times, January 16, 2003. Copyright &copy; 2003 by The New York "
 "Times Co.  Reprinted with permission."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "All rights reserved. Reprinted with permission."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "Diagram on page 164 courtesy of the office of FCC Commissioner, Michael J. "
 "Copps."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Library of Congress Cataloging-in-Publication Data"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "Lessig, Lawrence.  Free culture : how big media uses technology and the law "
 "to lock down culture and control creativity / Lawrence Lessig."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "p. cm."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Includes index."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "ISBN 1-59420-006-8 (hardcover)"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "1. Intellectual property&mdash;United States. 2. Mass media&mdash;United "
 "States."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "KF2979.L47"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "343.7309'9&mdash;dc22"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "This book is printed on acid-free paper."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Printed in the United States of America"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "1 3 5 7 9 10 8 6 4"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "Designed by Marysarah Quinn"
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid "&translationblock;"
 msgstr "Oversatt til bokmål av Petter Reinholdtsen og Anders Hagen Jarmund."
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "Without limiting the rights under copyright reserved above, no part of this "
 "publication may be reproduced, stored in or introduced into a retrieval "
@@ -265,7 +261,7 @@ msgid ""
 "materials. Your support of the author's rights is appreciated."
 msgstr ""
 
-#. type: Content of: <book><chapter><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
 "continues still."
@@ -273,15 +269,19 @@ msgstr ""
 "Til Eric Eldred &mdash; hvis arbeid først trakk meg til denne saken, og for "
 "hvem saken fortsetter."
 
-#. type: Content of: <book><chapter><figure><title>
+#. type: Content of: <book><colophon><para><figure><title>
 msgid "Creative Commons, Some rights reserved"
 msgstr "Creative Commons, noen rettigheter reservert"
 
-#. type: Content of: <book><chapter><figure>
+#. type: Content of: <book><colophon><para><figure>
 msgid "<graphic fileref=\"images/cc.png\"></graphic>"
 msgstr "<graphic fileref=\"images/cc.png\"></graphic>"
 
-#. type: Content of: <book><chapter><lot><title>
+#. type: Content of: <book><colophon><para>
+msgid "<placeholder type=\"figure\" id=\"0\"/>"
+msgstr "<placeholder type=\"figure\" id=\"0\"/>"
+
+#. type: Content of: <book><lot><title>
 msgid "List of figures"
 msgstr "Figurliste"
 
