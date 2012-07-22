@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-22 19:01+0300\n"
+"POT-Creation-Date: 2012-07-22 20:21+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -429,6 +429,10 @@ msgstr ""
 msgid "CodePink Women in Peace"
 msgstr ""
 
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Safire, William"
+msgstr "Safire, William"
+
 #. type: Content of: <book><preface><para>
 msgid ""
 "We saw a glimpse of this bipartisan outrage in the early summer of 2003. As "
@@ -438,7 +442,8 @@ msgid ""
 "marching \"uncomfortably alongside CodePink Women for Peace and the National "
 "Rifle Association, between liberal Olympia Snowe and conservative Ted "
 "Stevens,\" he formulated perhaps most simply just what was at stake: the "
-"concentration of power. And as he asked,"
+"concentration of power. And as he asked, <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 msgstr ""
 "Vi så et glimt av dette tverrpolitiske raseri på forsommeren i 2003. Da FCC "
 "vurderte endringer i reglene for medieeierskap som ville slakke på "
@@ -447,12 +452,16 @@ msgstr ""
 "Safire beskrev å marsjere \"ubehagelig sammen med CodePink Women for Peace "
 "and the National Rifle Association, mellom liberale Olympia Snowe og "
 "konservative Ted Stevens\", formulerte han  kanskje det enkleste uttrykket "
-"for hva som var på spill: konsentrasjonen av makt.  Så spurte han:"
+"for hva som var på spill: konsentrasjonen av makt.  Så spurte han: "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><preface><blockquote><para><footnote><para>
-msgid "William Safire, \"The Great Media Gulp,\" New York Times, 22 May 2003."
+msgid ""
+"William Safire, \"The Great Media Gulp,\" New York Times, 22 May 2003.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"William Safire, \"The Great Media Gulp,\" New York Times, 22. mai 2003."
+"William Safire, \"The Great Media Gulp,\" New York Times, 22. mai 2003.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><preface><blockquote><para>
 msgid ""
@@ -1728,11 +1737,11 @@ msgid ""
 "owners fear the sharing will \"rob the author of the profit.\""
 msgstr ""
 "Denne effektiviteten respekterer ikke de tradisjonelle skillene i "
-"opphavsretten. Nettverket skiller ikke mellom deling av opphavsrettsbeskyttet "
-"og ikke opphavsrettsbeskyttet innhold. Dermed har det vært deling av en enorm "
-"mengde opphavsrettsbeskyttet innhold.  Denne delingen har i sin tur ansporet "
-"til krigen, på grunn av at eiere av opphavsretter frykter delingen vil \"frata "
-"forfatteren overskuddet.\""
+"opphavsretten. Nettverket skiller ikke mellom deling av "
+"opphavsrettsbeskyttet og ikke opphavsrettsbeskyttet innhold. Dermed har det "
+"vært deling av en enorm mengde opphavsrettsbeskyttet innhold.  Denne "
+"delingen har i sin tur ansporet til krigen, på grunn av at eiere av "
+"opphavsretter frykter delingen vil \"frata forfatteren overskuddet.\""
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1742,11 +1751,11 @@ msgid ""
 "believe that \"property\" should be \"free.\" Forget tattoos, never mind "
 "body piercing&mdash;our kids are becoming thieves!"
 msgstr ""
-"Krigerne har snudd seg til domstolene, til lovgiverne, og i stadig større grad "
-"til teknologi for å forsvare sin \"eiendom\" mot denne \"piratvirksomheten\".  "
-"En generasjon amerikanere, advarer krigerne, blir opptradd til å tro at "
-"\"eiendom\" skal være \"gratis\".  Glem tatoveringer, ikke tenk på "
-"kroppspiercing&mdash;våre barn blir tyver!"
+"Krigerne har snudd seg til domstolene, til lovgiverne, og i stadig større "
+"grad til teknologi for å forsvare sin \"eiendom\" mot denne "
+"\"piratvirksomheten\".  En generasjon amerikanere, advarer krigerne, blir "
+"opptradd til å tro at \"eiendom\" skal være \"gratis\".  Glem tatoveringer, "
+"ikke tenk på kroppspiercing&mdash;våre barn blir tyver!"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -7496,10 +7505,10 @@ msgid ""
 msgstr ""
 "Når 1731 (1710+21) kom, ble bokhandlerne engstelige. De så konsekvensene av "
 "mer konkurranse, og som alle konkurrenter, likte de det ikke. Først "
-"ignorerte bokhandlere ganske enkelt \"Statute of Anne\", og fortsatte å kreve "
-"en evigvarende rett til å kontrollere publiseringen. Men i 1735 og 1737 de "
-"prøvde å tvinge Parlamentet til å utvide periodene. Tjueen år var ikke nok, "
-"sa de; de trengte mer tid."
+"ignorerte bokhandlere ganske enkelt \"Statute of Anne\", og fortsatte å "
+"kreve en evigvarende rett til å kontrollere publiseringen. Men i 1735 og "
+"1737 de prøvde å tvinge Parlamentet til å utvide periodene. Tjueen år var "
+"ikke nok, sa de; de trengte mer tid."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -9653,6 +9662,34 @@ msgstr ""
 "bakgrunnen. i hans nesten førti år kjører mpaa, har valenti etablert seg som "
 "kanskje mest iøynefallende og effektiv korridorpolitiker i washington."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Disney, Inc."
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Sony Pictures Entertainment"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "MGM"
+msgstr "MGM"
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Paramount Pictures"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Twentieth Century Fox"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Universal Pictures"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Warner Brothers"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9664,7 +9701,11 @@ msgid ""
 "made up of the chairmen and presidents of the seven major producers and "
 "distributors of motion picture and television programs in the United States: "
 "Walt Disney, Sony Pictures Entertainment, MGM, Paramount Pictures, Twentieth "
-"Century Fox, Universal Studios, and Warner Brothers."
+"Century Fox, Universal Studios, and Warner Brothers.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
+"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
+"id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> <placeholder type="
+"\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" id=\"6\"/>"
 msgstr ""
 "mpaa er den amerikanske avdelingen av internasjonale motion picture "
 "association. Det ble dannet i 1922 som en handelsforening som har mål var å "
@@ -13790,7 +13831,10 @@ msgstr ""
 "for å hjelpe deg å få budskapet. kan du være sikker på at meldingen vil "
 "deretter bli hørt?"
 
-#.  f34
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
+msgid "Marijuana Policy Project"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "The Marijuana Policy Project, in February 2003, sought to place ads that "
@@ -13814,7 +13858,8 @@ msgid ""
 "criticized its Muni diesel buses. Phillip Matier and Andrew Ross, "
 "\"Antidiesel Group Fuming After Muni Rejects Ad,\" SFGate.com, 16 June 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #32</ulink>. "
-"The ground was that the criticism was \"too controversial.\""
+"The ground was that the criticism was \"too controversial.\" <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -21587,6 +21632,10 @@ msgstr ""
 "for å bevare en tradisjon som har vært en del av vår tradisjon for "
 "mesteparten av vår historie&mdash;fri kultur."
 
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Turner, Ted"
+msgstr "Turner, Ted"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "If this is crazy, then let there be more crazies. Soon.  There are moments "
@@ -21597,7 +21646,8 @@ msgid ""
 "interests as diverse as the NRA, the ACLU, Moveon.org, William Safire, Ted "
 "Turner, and CodePink Women for Peace organized to oppose this change in FCC "
 "policy. An astonishing 700,000 letters were sent to the FCC, demanding more "
-"hearings and a different result."
+"hearings and a different result.  <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Hvis dette er galskap, så la det være mer gærninger.  Snart. Det finnes "
 "øyeblikk av håp i denne kampen. Og øyeblikk som overrasker. Da FCC vurderte "
@@ -21607,7 +21657,8 @@ msgstr ""
 "organiserte interesser så forskjellige som NRA, ACLU, moveon.org, William "
 "Safire, Ted Turner og Codepink Women for Piece seg for å protestere på denne "
 "endringen i FCC-reglene.  Så mange som 700 000 brev ble sendt til FCC med "
-"krav om flere høringer og et annet resultat."
+"krav om flere høringer og et annet resultat.  <placeholder type=\"indexterm"
+"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
