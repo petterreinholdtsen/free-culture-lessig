@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-21 22:20+0300\n"
+"POT-Creation-Date: 2012-07-22 10:23+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -288,6 +288,10 @@ msgstr "Figurliste"
 #. type: Content of: <book><chapter><title>
 msgid "PREFACE"
 msgstr "Forord"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Pogue, David"
+msgstr "Pogue, David"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -17421,7 +17425,8 @@ msgid ""
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #49</ulink>."
 msgstr ""
 "Se Nick Brown, \"Fair Use No More?: Copyright in the Information Age,\" "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #49</ulink>."
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #49</"
+"ulink>."
 
 #.  f5.
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -17431,8 +17436,8 @@ msgid ""
 "culture.cc/notes/\">link #50</ulink>."
 msgstr ""
 "Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" Congressional "
-"Quarterly This Week, 8. august 1990, tilgjengelig fra <ulink url=\"http://free-"
-"culture.cc/notes/\">link #50</ulink>."
+"Quarterly This Week, 8. august 1990, tilgjengelig fra <ulink url=\"http://"
+"free-culture.cc/notes/\">link #50</ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -21077,7 +21082,10 @@ msgstr ""
 "National Journal's Technology Daily, 19. august 2003, tilgjengelig fra "
 "<ulink url=\"http://free-culture.cc/notes/\">link #61</ulink>."
 
-#.  PAGE BREAK 270
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "PLoS (Public Library of Science)"
+msgstr ""
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "In August 2003, a fight broke out in the United States about a decision by "
@@ -21098,7 +21106,7 @@ msgid ""
 "Bristol-Myers Squibb, Hoffmann-La Roche, Glaxo-SmithKline, IBM, Motorola, "
 "Novartis, Pfizer, and Searle.) It included the Global Positioning System, "
 "which Ronald Reagan set free in the early 1980s. And it included \"open "
-"source and free software.\""
+"source and free software.\" <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -21260,18 +21268,17 @@ msgid ""
 "copyright law just as Microsoft does."
 msgstr ""
 "Mer viktig for våre formål, er at å støtte \"åpen kildekode og fri "
-"programvare\" ikke er å motsette seg opphasvrett. \"Åpen kildekode og "
-"fri programvare\" er ikke programvare uten opphavsrettslig vern. "
-"Istedet, på samme måte som programvare fra Microsoft, insisterer "
-"opphavsrettsinnehaverne av fri programvare ganske sterkt at vilkårene "
-"i deres programvarelisens blir respektert av de som tar i bruk fri "
-"programvare.  Vilkårene i den lisensen er uten tvil forskjellig fra "
-"vilkårene i en proprietær programvarelisens.  For eksempel krever fri "
-"programvare lisensiert med den generelle offentlige lisensen (GPL), at "
-"kildekoden for programvare gjøres tilgjengelig for alle som endrer og "
-"redistribuerer programvaren.  Men dette kravet er kun effektivt hvis "
-"opphavsrett råder over programvare.  Hvis opphavsretten ikke råder "
-"over programvare, så kunne ikke fri programvare pålegge slike krav på "
+"programvare\" ikke er å motsette seg opphasvrett. \"Åpen kildekode og fri "
+"programvare\" er ikke programvare uten opphavsrettslig vern. Istedet, på "
+"samme måte som programvare fra Microsoft, insisterer opphavsrettsinnehaverne "
+"av fri programvare ganske sterkt at vilkårene i deres programvarelisens blir "
+"respektert av de som tar i bruk fri programvare.  Vilkårene i den lisensen "
+"er uten tvil forskjellig fra vilkårene i en proprietær programvarelisens.  "
+"For eksempel krever fri programvare lisensiert med den generelle offentlige "
+"lisensen (GPL), at kildekoden for programvare gjøres tilgjengelig for alle "
+"som endrer og redistribuerer programvaren.  Men dette kravet er kun "
+"effektivt hvis opphavsrett råder over programvare.  Hvis opphavsretten ikke "
+"råder over programvare, så kunne ikke fri programvare pålegge slike krav på "
 "de som tar i bruk programvaren.  Den er dermed like avhengig av "
 "opphavsrettsloven som Microsoft."
 
@@ -22352,7 +22359,6 @@ msgstr ""
 "Således, som med personvern og med programvare, en skiftende teknologi og "
 "markedet forminske en frihet tatt for gitt før."
 
-#.  PAGE BREAK 287
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22364,7 +22370,8 @@ msgid ""
 "peer review. If accepted, the work is then deposited in a public, electronic "
 "archive and made permanently available for free. PLoS also sells a print "
 "version of its work, but the copyright for the print journal does not "
-"inhibit the right of anyone to redistribute the work for free."
+"inhibit the right of anyone to redistribute the work for free.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Denne krympende friheten har ført mange å ta bekreftende trinnene for å "
 "gjenopprette frihet som har gått tapt. public library of science (plos), for "
