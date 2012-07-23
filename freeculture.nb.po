@@ -24168,29 +24168,26 @@ msgstr "Oppsummert, så er dette mitt forslag:"
 
 #.  PAGE BREAK 308
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "The Internet is in transition. We should not be regulating a technology in "
 "transition. We should instead be regulating to minimize the harm to "
 "interests affected by this technological change, while enabling, and "
 "encouraging, the most efficient technology we can create."
 msgstr ""
-"Internett er i endring. Vi bør ikke regulerer en teknologi i endring. Vi bør "
-"i stedet regulerer for å minimere skade på interesser som er berørt av denne "
-"teknologiske endringen, samtidig som du gir, og oppmuntre, den mest "
-"effektive teknologien vi kan opprette."
+"Internett er i endring. Vi bør ikke regulere en teknologi i endring. Vi bør "
+"i stedet regulere for å minimere skaden påført interesser som er berørt av "
+"denne teknologiske endringen, samtidig vi muliggjør, og oppmuntrer, den mest "
+"effektive teknologien vi kan lage."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
 msgstr ""
-"Vi kan minimere den skade samtidig maksimere fordelen til innovasjon av"
+"Vi kan minimere skaden og samtidig maksimere fordelen med innovasjon ved å"
 
 #.  1.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "guaranteeing the right to engage in type D sharing;"
-msgstr "garantere retten til å engasjere seg i type-d dele;"
+msgstr "garantere retten til å engasjere seg i type-D-deling;"
 
 #.  2.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
@@ -24204,13 +24201,12 @@ msgstr ""
 
 #.  3.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "while in this transition, taxing and compensating for type A sharing, to the "
 "extent actual harm is demonstrated."
 msgstr ""
-"mens du er i denne overgangen, taxing og kompensere for typen en deling, i "
-"grad er faktiske skade vist."
+"mens denne overgangen pågår, skattlegge og kompensere for type-A-deling, i "
+"den grad faktiske skade kan påvises."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
