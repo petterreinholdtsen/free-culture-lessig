@@ -554,6 +554,8 @@ how the world of radio worked, and on at least three occasions,
 Armstrong invented profoundly important technologies that advanced our
 understanding of radio.
 <!-- PAGE BREAK 19 -->
+<indexterm><primary>Bell, Alexander Graham</primary></indexterm>
+<indexterm><primary>Edison, Thomas</primary></indexterm>
 <indexterm><primary>Faraday, Michael</primary></indexterm>
 </para>
 <para>
@@ -1673,6 +1675,9 @@ taking of a picture from its developing. These were still plates of
 glass, and thus it was still not a process within reach of most
 amateurs.
 </para>
+<indexterm id="idxeastmangeorge" class='startofrange'>
+  <primary>Eastman, George</primary>
+</indexterm>
 <para>
 The technological change that made mass photography possible
 didn't happen until 1888, and was the creation of a single man. George
@@ -1865,6 +1870,7 @@ hundred to five hundred children to learn something about media by
 doing something with media.  By doing, they think. By tinkering, they
 learn.
 </para>
+<indexterm startref="idxeastmangeorge" class='endofrange'/>
 <para>
 These buses are not cheap, but the technology they carry is
 increasingly so. The cost of a high-quality digital video system has
