@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-23 21:03+0300\n"
+"POT-Creation-Date: 2012-07-23 23:12+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -33,7 +33,19 @@ msgstr "Fri kultur"
 msgid "<abbrev>\"freeculture\"</abbrev>"
 msgstr "<abbrev>\"frikultur\"</abbrev>"
 
-#. type: Content of: <book><bookinfo><subtitle>
+#. type: Content of: <book><colophon><para>
+msgid ""
+"HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
+"CREATIVITY"
+msgstr ""
+"Hvordan store mediaaktører bruker teknologi og loven til å låse ned kulturen "
+"og kontrollere kreativiteten"
+
+#. type: Content of: <book><bookinfo>
+msgid "<pubdate>2004-03-25</pubdate>"
+msgstr ""
+
+#. type: Content of: <book><bookinfo><releaseinfo>
 msgid "Version 2004-02-10"
 msgstr "Versjon 2004-02-10"
 
@@ -137,14 +149,6 @@ msgstr "New York"
 #. type: Content of: <book><colophon><para>
 msgid "FREE CULTURE"
 msgstr "Fri Kultur"
-
-#. type: Content of: <book><colophon><para>
-msgid ""
-"HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
-"CREATIVITY"
-msgstr ""
-"Hvordan store mediaaktører bruker teknologi og loven til å låse ned kulturen "
-"og kontrollere kreativiteten"
 
 #. type: Content of: <book><colophon><para>
 msgid "LAWRENCE LESSIG"
@@ -808,8 +812,8 @@ msgstr ""
 "oppdaget elektrisk induksjon i 1831.  Men han hadde like god intuisjon om "
 "hvordan radioverden virket, og ved minst tre anledninger, fant Armstrong opp "
 "svært viktig teknologier som brakte vår forståelse av radio et hopp videre.  "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -4937,7 +4941,7 @@ msgid ""
 "refer to it as a \"statutory license.\" A statutory license is a license "
 "whose key terms are set by law. After Congress's amendment of the Copyright "
 "Act in 1909, record companies were free to distribute copies of recordings "
-"so long as they paid the composer (or copyright holder) the fee set by the "
+"so long as they paid the composer (or copyright holder)  the fee set by the "
 "statute."
 msgstr ""
 "amerikansk lov vanligvis kaller dette en \"tvangslisens\", men jeg vil se "
@@ -10379,9 +10383,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Why Hollywood Is Right"
-msgstr "Hvorfor hollywood er rett"
+msgstr "Hvorfor Hollywood har rett"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10578,7 +10581,7 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
-msgstr "fred warshofsky, patent krigene (new york: wiley, 1994), 170­71."
+msgstr "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
 
 #. type: Content of: <book><chapter><para><indexterm><primary>
 msgid "Gates, Bill"
@@ -10738,13 +10741,12 @@ msgstr ""
 
 #.  f7
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See, for example, James Boyle, \"A Politics of Intellectual Property: "
 "Environmentalism for the Net?\" Duke Law Journal 47 (1997): 87."
 msgstr ""
-"Se for eksempel james boyle, \"en politikk av åndsverk: environmentalism for "
-"nettet?\" duke law journal 47 (1997): 87."
+"Se, for eksempel, James Boyle, \"A Politics of Intellectual Property: "
+"Environmentalism for the Net?\" Duke Law Journal 47 (1997): 87."
 
 #.  PAGE BREAK 141
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -10797,9 +10799,8 @@ msgstr ""
 "fri kultur som vil være langt mer ødeleggende enn denne mygg, vil gå tapt."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Beginnings"
-msgstr "begynnelse"
+msgstr "Opphav"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -11091,9 +11092,8 @@ msgstr ""
 
 #.  f11
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid "See Ringer, ch. 9, n. 2."
-msgstr "se ringer, ch. 9, n. 2."
+msgstr "Se Ringer, kap. 9, n. 2."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -11514,6 +11514,8 @@ msgid ""
 "Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, July/August 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>."
 msgstr ""
+"Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, juli/august 2003, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
