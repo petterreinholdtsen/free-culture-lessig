@@ -815,8 +815,8 @@ msgstr ""
 "hans mest signifikante oppfinnelse&mdash;FM-radio.  Inntil da hadde "
 "forbrukerradioer vært amplitude-modulert (AM) radio.  Tidens teoretikere "
 "hadde sagt at frekvens-modulert (FM) radio.  De hadde rett når det gjelder "
-"et smalt bånd av spektrummet.  Men Armstrong oppdaget at frekvens-modulert "
-"radio i et vidt bånd i spektrummet leverte en forbløffende gjengivelse av "
+"et smalt bånd av spektrumet.  Men Armstrong oppdaget at frekvens-modulert "
+"radio i et vidt bånd i spektrumet leverte en forbløffende gjengivelse av "
 "lyd, med mye mindre senderstyrke og støy."
 
 #. type: Content of: <book><chapter><para>
