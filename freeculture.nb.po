@@ -23402,13 +23402,12 @@ msgstr ""
 
 #.  f5.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Benjamin Kaplan, An Unhurried View of Copyright (New York: Columbia "
 "University Press, 1967), 32."
 msgstr ""
-"Benjamin kaplan, en makelige visning av opphavsrett (new york: columbia "
-"university press, 1967), 32."
+"Benjamin Kaplan, An Unhurried View of Copyright (New York: Columbia "
+"University Press, 1967), 32."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -23513,14 +23512,14 @@ msgid "Goldstein, Paul"
 msgstr "Goldstein, Paul"
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial Jukebox "
 "(Stanford: Stanford University Press, 2003), 187&ndash;216.  <placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Paul goldstein, copyright's highway: fra gutenberg til den himmelske "
-"jukeboksen (stanford: stanford university press, 2003), 187­216."
+"Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial Jukebox "
+"(Stanford: Stanford University Press, 2003), 187&ndash;216.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
