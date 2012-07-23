@@ -4159,7 +4159,6 @@ msgid "CHAPTER THREE: Catalogs"
 msgstr "Kapittel tre: Kataloger"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as a "
 "freshman at Rensselaer Polytechnic Institute, in Troy, New York.  His major "
@@ -4167,11 +4166,12 @@ msgid ""
 "Jesse decided to begin to tinker with search engine technology that was "
 "available on the RPI network."
 msgstr ""
-"i høsten 2002, jesse jordan av oceanside, new york, registrert som freshman "
-"ved rensselaer polytechnic institute, i troy, new york. hans store på rpi "
-"var informasjonsteknologi. Selv om han ikke er en programmerer, i oktober "
-"besluttet jesse å begynne å tinker med søkemotorteknologi som var "
-"tilgjengelig på rpi-nettverket."
+"Høsten 2001, ble Jesse Jordan fra Oceanside, New York, innrullert som "
+"førsteårsstudent ved Rensselaer Polytechnic Institute, i Troy, New "
+"York.  Hans studieprogram ved RPI var informasjonsteknologi.  Selv om "
+"han ikke var en programmerer, bestemte Jesse seg i oktober å begynne å "
+"fikle med en søkemotorteknologi som var tilgjengelig på "
+"RPI-nettverket."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
