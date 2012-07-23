@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-22 20:21+0300\n"
+"POT-Creation-Date: 2012-07-23 13:40+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -884,19 +884,23 @@ msgstr ""
 "radiomarkedet. I 1935 var det tusen radiostasjoner over hele USA, men "
 "stasjonene i de store byene var alle eid av en liten håndfull selskaper."
 
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Sarnoff, David"
+msgstr "Sarnoff, David"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "RCA's president, David Sarnoff, a friend of Armstrong's, was eager that "
 "Armstrong discover a way to remove static from AM radio. So Sarnoff was "
 "quite excited when Armstrong told him he had a device that removed static "
 "from \"radio.\" But when Armstrong demonstrated his invention, Sarnoff was "
-"not pleased."
+"not pleased.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Presidenten i RCA, David Sarnoff, en venn av Armstrong, var ivrig etter å få "
 "Armstrong til å oppdage en måte å fjerne støyen fra AM-radio. Så Sarnoff var "
 "ganske spent da Armstrong fortalte ham at han hadde en enhet som fjernet "
 "støy fra \"radio.\".   Men da armstrong demonstrerte sin oppfinnelse, var "
-"ikke Sarnoff fornøyd."
+"ikke Sarnoff fornøyd.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid ""
@@ -924,11 +928,13 @@ msgstr ""
 msgid ""
 "Armstrong's invention threatened RCA's AM empire, so the company launched a "
 "campaign to smother FM radio. While FM may have been a superior technology, "
-"Sarnoff was a superior tactician.  As one author described,"
+"Sarnoff was a superior tactician.  As one author described, <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Armstrongs oppfinnelse truet RCAs AM-herredømme, så selskapet lanserte en "
 "kampanje for å knuse FM-radio. Mens FM kan ha vært en overlegen teknologi, "
-"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik,"
+"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik, "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid "Lessing, 226."
@@ -1865,11 +1871,10 @@ msgid ""
 "Copyright law at its birth had only publishing as its concern; copyright law "
 "today regulates both."
 msgstr ""
-"Kilden til denne forvirringen er et skille som loven ikke lenger bryr "
-"seg om å markere&mdash;skillet mellom å gjenpublisere noens verk på "
-"den ene siden, og bygge på og gjøre om verket på den andre.  Da "
-"opphavsretten kom var det kun publisering som ble berørt. "
-"Opphavsretten i dag regulerer begge."
+"Kilden til denne forvirringen er et skille som loven ikke lenger bryr seg om "
+"å markere&mdash;skillet mellom å gjenpublisere noens verk på den ene siden, "
+"og bygge på og gjøre om verket på den andre.  Da opphavsretten kom var det "
+"kun publisering som ble berørt. Opphavsretten i dag regulerer begge."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -4167,11 +4172,10 @@ msgid ""
 "available on the RPI network."
 msgstr ""
 "Høsten 2001, ble Jesse Jordan fra Oceanside, New York, innrullert som "
-"førsteårsstudent ved Rensselaer Polytechnic Institute, i Troy, New "
-"York.  Hans studieprogram ved RPI var informasjonsteknologi.  Selv om "
-"han ikke var en programmerer, bestemte Jesse seg i oktober å begynne å "
-"fikle med en søkemotorteknologi som var tilgjengelig på "
-"RPI-nettverket."
+"førsteårsstudent ved Rensselaer Polytechnic Institute, i Troy, New York.  "
+"Hans studieprogram ved RPI var informasjonsteknologi.  Selv om han ikke var "
+"en programmerer, bestemte Jesse seg i oktober å begynne å fikle med en "
+"søkemotorteknologi som var tilgjengelig på RPI-nettverket."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
@@ -8029,6 +8033,10 @@ msgstr ""
 "Ellers arbeidet på en dokumentar som jeg var involvert i. på en pause, han "
 "fortalte meg en historie om frihet å opprette med film i Amerika i dag."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "San Francisco Opera"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8036,7 +8044,8 @@ msgid ""
 "focus was stagehands at the San Francisco Opera.  Stagehands are a "
 "particularly funny and colorful element of an opera.  During a show, they "
 "hang out below the stage in the grips' lounge and in the lighting loft. They "
-"make a perfect contrast to the art on the stage."
+"make a perfect contrast to the art on the stage.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "i 1990, ellers arbeidet på en dokumentar om wagner's ring syklus. fokus var "
 "stagehands ved san francisco opera. stagehands er et spesielt morsom og "
@@ -8170,7 +8179,7 @@ msgid ""
 "reality was beyond the documentary filmmaker's budget. At the very last "
 "minute before the film was to be released, Else digitally replaced the shot "
 "with a clip from another film that he had worked on, The Day After Trinity, "
-"from ten years before."
+"from ten years before.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "ellers har ikke penger til å kjøpe retten til å spille hva spilte på TV "
 "backstage ved san francisco opera. Hvis du vil gjenskape denne virkeligheten "
@@ -18624,6 +18633,14 @@ msgstr ""
 "troverdig ikke fordi de var rike og berømte, men fordi de, i samlet, vist at "
 "denne loven var forfatningsstridig uavhengig av ens politikk."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Eagle Forum"
+msgstr ""
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Schlafly, Phyllis"
+msgstr "Schlafly, Phyllis"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18637,7 +18654,8 @@ msgid ""
 "public seem to get bogged down?\" The answer, as the editorial documented, "
 "was the power of money.  Schlafly enumerated Disney's contributions to the "
 "key players on the committees. It was money, not justice, that gave Mickey "
-"Mouse twenty more years in Disney's control, Schlafly argued."
+"Mouse twenty more years in Disney's control, Schlafly argued.  <placeholder "
+"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "det første trinnet skjedde alt av seg selv. Phyllis schlafly organisasjon, "
 "eagle forum, hadde vært motstander av ctea fra begynnelsen. Mrs. schlafly "
@@ -18666,7 +18684,6 @@ msgstr ""
 "grense for Kongressens makt til å angi vilkår. som sterkt konservativ "
 "argumentet overtalt en sterk konservative dommer, dommer sentelle."
 
-#.  PAGE BREAK 239
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "In the Supreme Court, the briefs on our side were about as diverse as it "
@@ -18676,7 +18693,8 @@ msgid ""
 "were two law professors' briefs, one by copyright scholars and one by First "
 "Amendment scholars. There was an exhaustive and uncontroverted brief by the "
 "world's experts in the history of the Progress Clause. And of course, there "
-"was a new brief by Eagle Forum, repeating and strengthening its arguments."
+"was a new brief by Eagle Forum, repeating and strengthening its arguments.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
