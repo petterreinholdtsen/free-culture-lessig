@@ -7379,7 +7379,9 @@ often crazy.
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.
 </para>
-<indexterm><primary>Aibo robotic dog</primary></indexterm>
+<indexterm id="idxaibo" class='startofrange'>
+  <primary>Aibo robotic dog</primary>
+</indexterm>
 <para>
 Consider the robotic dog made by Sony named "Aibo." The Aibo
 learns tricks, cuddles, and follows you around. It eats only electricity
@@ -7421,7 +7423,6 @@ difficult tasks. There's a certain respect that goes with the talent to hack
 well. There's a well-deserved respect that goes with the talent to hack
 ethically.
 </para>
-<indexterm><primary>Aibo robotic dog</primary></indexterm>
 <para>
 The Aibo fan was displaying a bit of both when he hacked the program
 and offered to the world a bit of code that would enable the Aibo to
@@ -7429,6 +7430,7 @@ dance jazz. The dog wasn't programmed to dance jazz. It was a clever
 bit of tinkering that turned the dog into a more talented creature
 than Sony had built.
 </para>
+<indexterm startref="idxaibo" class='endofrange'/>
 <para>
 I've told this story in many contexts, both inside and outside the
 United States. Once I was asked by a puzzled member of the audience,
