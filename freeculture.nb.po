@@ -23268,7 +23268,6 @@ msgstr ""
 #.  (2)
 #.  PAGE BREAK 298
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, fuzzy
 msgid ""
 "Keep it simple: The line between the public domain and protected content "
 "must be kept clear. Lawyers like the fuzziness of \"fair use,\" and the "
@@ -23279,14 +23278,15 @@ msgid ""
 "clear and active \"lawyer-free zone\" makes the complexities of \"fair use\" "
 "and \"idea/expression\" less necessary to navigate."
 msgstr ""
-"Gjør det enkelt: Skillet mellom allmannseie og beskyttet innhold må holdes "
-"klart.  Advokater liker uklarheten til \"rimelig bruk\" og forskjellen "
-"mellom \"ideer\" og \"uttrykk\".  Denne type lovverk gir dem masse arbeide.  "
-"Men de som skrev grunnloven hadde en enklere ide: beskyttet versus "
-"ubeskyttet.  Verdien av korte vernetider er at det er lite behov for å bygge "
-"inn unntak i opphavsretten når vernetiden holdes kort.  En klar og aktiv "
-"\"advokat-fri sone\" gjør komplesiteten av \"rimelig bruk\" og \"ide/uttrykk"
-"\" mindre nødvendig å navigere."
+"Gjør det enkelt: Skillelinjen mellom verker uten opphavsrettslig vern "
+"og innhold som er beskyttet må forbli klart.  Advokater liker "
+"uklarheten som \"rimelig bruk\" og forskjellen mellom \"ideer\" og "
+"\"uttrykk\" har.  Denne type lovverk gir dem en masse arbeid.  Men de "
+"som skrev grunnloven hadde en enklere ide: vernet versus ikke vernet. "
+"Verdien av korte vernetider er at det er lite behov for å bygge inn "
+"unntak i opphavsretten når vernetiden holdes kort.  En klar og aktiv "
+"\"advokat-fri sone\" gjør komplesiteten av \"rimelig bruk\" og "
+"\"ide/uttrykk\" mindre nødvendig å håndtere."
 
 #.  f4.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para><footnote><para>
