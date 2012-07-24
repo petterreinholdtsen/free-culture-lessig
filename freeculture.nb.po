@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-23 23:12+0300\n"
+"POT-Creation-Date: 2012-07-24 08:32+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4534,10 +4534,10 @@ msgid ""
 "case against him was then dismissed. And with this, this kid who had "
 "tinkered a computer into a $15 million lawsuit became an activist:"
 msgstr ""
-"23. juni overførte Jesse alle sine oppsparte midler til advokaten som "
-"jobbet for RIA.  Saken mot ham ble trukket.  Og med dette, ble "
-"unggutten som hadde fiklet med en datamaskin og blitt saksøkt for 15 "
-"millioner dollar en aktivist:"
+"23. juni overførte Jesse alle sine oppsparte midler til advokaten som jobbet "
+"for RIA.  Saken mot ham ble trukket.  Og med dette, ble unggutten som hadde "
+"fiklet med en datamaskin og blitt saksøkt for 15 millioner dollar en "
+"aktivist:"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
@@ -10579,7 +10579,8 @@ msgstr ""
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
-msgstr "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
+msgstr ""
+"Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
 
 #. type: Content of: <book><chapter><para><indexterm><primary>
 msgid "Gates, Bill"
@@ -11513,7 +11514,8 @@ msgid ""
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>."
 msgstr ""
 "Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, juli/august 2003, "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>."
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #26</"
+"ulink>."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -14582,7 +14584,10 @@ msgstr ""
 "for å begynne å tenke på hvordan vi skal reagere på denne chimera. hvilke "
 "regler bør styre det?"
 
-#.  f2.
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
+msgid "Berman, Howard L."
+msgstr "Berman, Howard L."
+
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "For an excellent summary, see the report prepared by GartnerG2 and the "
@@ -14595,7 +14600,7 @@ msgid ""
 "\"House Bill Aims to Up Stakes on Piracy,\" Los Angeles Times, 17 July 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #34</ulink>. "
 "Civil penalties are currently set at $150,000 per copied song. For a recent "
-"(and unsuccessful)  legal challenge to the RIAA's demand that an ISP reveal "
+"(and unsuccessful) legal challenge to the RIAA's demand that an ISP reveal "
 "the identity of a user accused of sharing more than 600 songs through a "
 "family computer, see RIAA v. Verizon Internet Services (In re. Verizon "
 "Internet Services), 240 F.  Supp. 2d 24 (D.D.C. 2003). Such a user could "
@@ -14610,7 +14615,8 @@ msgid ""
 "sharing, and of the subpoenas issued to universities to reveal student file-"
 "sharer identities, see James Collins, \"RIAA Steps Up Bid to Force BC, MIT "
 "to Name Students,\" Boston Globe, 8 August 2003, D3, available at <ulink url="
-"\"http://free-culture.cc/notes/\">link #36</ulink>."
+"\"http://free-culture.cc/notes/\">link #36</ulink>.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -15753,7 +15759,6 @@ msgstr ""
 "gjennomføre for attenuated å gjøre distributøren ansvarlig for krenkelse av "
 "medvirkende eller stedfortredende erstatningsansvar."
 
-#.  f11.
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "For example, in July 2002, Representative Howard Berman introduced the Peer-"
@@ -15768,7 +15773,7 @@ msgid ""
 "copyright protection technology in all digital media devices. See GartnerG2, "
 "\"Copyright and Digital Media in a Post-Napster World,\" 27 June 2003, "
 "33&ndash;34, available at <ulink url=\"http://free-culture.cc/notes/\">link "
-"#44</ulink>."
+"#44</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -19905,6 +19910,10 @@ msgstr ""
 "menneskeheten er en av grunnene til at vi lever i en tid med slike fruktbart "
 "kreative gjære."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Bolling, Ruben"
+msgstr "Bolling, Ruben"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19912,7 +19921,7 @@ msgid ""
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
 "case, was Ruben Bolling's, reproduced on the next page. The \"powerful and "
 "wealthy\" line is a bit unfair. But the punch in the face felt exactly like "
-"that."
+"that.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "de beste svarene var i tegneserier. Det var en gaggle av morsom bilder&mdash;"
 "av mickey i fengsel og lignende. best, fra min mening i saken, var ruben "
