@@ -1832,6 +1832,11 @@ msgid ""
 "Copyright War: In Battle of Property vs. Free Speech, No One Wins,\" Boston "
 "Globe, 24 November 2002.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
+"Lisa Bannon, \"The Birds May Sing, but Campers Can't Unless They Pay Up,\" "
+"Wall Street Journal, 21. august 1996, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #3</ulink>; Jonathan Zittrain, \"Calling Off the "
+"Copyright War: In Battle of Property vs. Free Speech, No One Wins,\" Boston "
+"Globe, 24. november 2002.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -2817,13 +2822,12 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Reese V. Jenkins, Images and Enterprise (Baltimore: Johns Hopkins University "
 "Press, 1975), 112."
 msgstr ""
-"Reese v. jenkins, bilder og enterprise (baltimore: johns hopkins university "
-"press, 1975), 112."
+"Reese V. Jenkins, Images and Enterprise (Baltimore: Johns Hopkins University "
+"Press, 1975), 112."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -3104,6 +3108,10 @@ msgid ""
 "2002, available at <ulink url=\"http://free-culture.cc/notes/\">link #7</"
 "ulink>."
 msgstr ""
+"H. Edward Goldberg, \"Essential Presentation Tools: Hardware and Software "
+"You Need to Create Digital Multimedia Presentations,\" cadalyst, februar "
+"2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #7</"
+"ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -3238,6 +3246,10 @@ msgid ""
 "ulink>; \"Timeline,\" 22 November 2000, available at <ulink url=\"http://"
 "free-culture.cc/notes/\">link #9</ulink>."
 msgstr ""
+"Se Scott Steinberg, \"Crichton Gets Medieval on PCs,\" E!online, 4. november "
+"2000, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #8</"
+"ulink>; \"Timeline,\" 22. november 2000, tilgjengelig fra <ulink url=\"http://"
+"free-culture.cc/notes/\">link #9</ulink>."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -3692,13 +3704,12 @@ msgstr ""
 
 #.  f16
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Bruce Ackerman and James Fishkin, \"Deliberation Day,\" Journal of Political "
 "Philosophy 10 (2) (2002): 129."
 msgstr ""
-"Bruce ackerman og james fishkin, \"deliberation dag\", journal of politisk "
-"filosofi 10 (2) (2002): 129."
+"Bruce Ackerman and James Fishkin, \"Deliberation Day,\" Journal of Political "
+"Philosophy 10 (2) (2002): 129."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -3712,13 +3723,12 @@ msgstr ""
 
 #.  f17
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Cass Sunstein, Republic.com (Princeton: Princeton University Press, 2001), "
 "65&ndash;80, 175, 182, 183, 192."
 msgstr ""
-"Cass sunstein, republic.com (princeton: princeton university press, 2001), 65­"
-"80, 175, 182, 183, 192."
+"Cass Sunstein, Republic.com (Princeton: Princeton University Press, 2001), "
+"65&ndash;80, 175, 182, 183, 192."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -5304,13 +5314,12 @@ msgstr ""
 
 #.  f17
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 209 (statement of Charlton Heston, "
 "president of the Screen Actors Guild)."
 msgstr ""
-"Copyright lov revision&mdash;catv, 209 (charlton heston-setningen, president "
-"i screen actors guild)."
+"Copyright Law Revision&mdash;CATV, 209 (vitnemål fra Charlton Heston, "
+"president i Screen Actors Guild)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -5318,15 +5327,17 @@ msgid ""
 "said, who were \"depriving actors of compensation.\"<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"Disse var \"gratispassasjerer\", sa presidenten Charlton Heston i "
+"Screen Actor's Guild, som \"tok lønna fra skuespillerne\"<placeholder "
+"type=" "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "But again, there was another side to the debate. As Assistant Attorney "
 "General Edwin Zimmerman put it,"
 msgstr ""
-"men igjen, det var en annen side i debatten. som assistent justisministeren "
-"sa edwin zimmerman,"
+"Men igjen, det er en annen side i debatten.  Som assisterende "
+"justisminister Edwin Zimmerman sa det,"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><indexterm><primary>
 msgid "Zimmerman, Edwin"
