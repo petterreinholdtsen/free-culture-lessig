@@ -4529,15 +4529,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "On June 23, Jesse wired his savings to the lawyer working for the RIAA. The "
 "case against him was then dismissed. And with this, this kid who had "
 "tinkered a computer into a $15 million lawsuit became an activist:"
 msgstr ""
-"på den 23 juni kablet jesse hans besparelser til advokaten arbeider for "
-"riaa. en sak mot ham ble deretter avvist. og med dette, ble denne gutten som "
-"hadde endret noe en datamaskin til en $15 millioner rettssak en aktivist:"
+"23. juni overførte Jesse alle sine oppsparte midler til advokaten som "
+"jobbet for RIA.  Saken mot ham ble trukket.  Og med dette, ble "
+"unggutten som hadde fiklet med en datamaskin og blitt saksøkt for 15 "
+"millioner dollar en aktivist:"
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 #, mtrans, fuzzy
