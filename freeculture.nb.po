@@ -5809,9 +5809,8 @@ msgstr "piratkopiering ii"
 
 #.  f4
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Bach v. Longman, 98 Eng. Rep. 1274 (1777)."
-msgstr "Bach v. longman, 98 eng. rep 1274 (1777)."
+msgstr "Bach v. Longman, 98 Eng. Rep. 1274 (1777)."
 
 #.  PAGE BREAK 80
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -6041,9 +6040,8 @@ msgstr ""
 "opphavsretten ønsker å gi bort."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "How do these different types of sharing balance out?"
-msgstr "hvordan disse ulike typer deling balanse?"
+msgstr "Hvordan balanserer disse ulike delingstypene?"
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
