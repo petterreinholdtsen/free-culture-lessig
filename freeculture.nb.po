@@ -5329,7 +5329,7 @@ msgid ""
 msgstr ""
 "Disse var \"gratispassasjerer\", sa presidenten Charlton Heston i "
 "Screen Actor's Guild, som \"tok lønna fra skuespillerne\"<placeholder "
-"type=" "\"footnote\" id=\"0\"/>"
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
