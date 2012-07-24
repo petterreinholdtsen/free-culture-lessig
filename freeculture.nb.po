@@ -4733,18 +4733,16 @@ msgstr ""
 "delvis fra piratkopiering av Edisons kreative eiendom."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Recorded Music"
-msgstr "innspilt musikk"
+msgstr "Innspilt musikk"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "The record industry was born of another kind of piracy, though to see how "
 "requires a bit of detail about the way the law regulates music."
 msgstr ""
-"rullebladet industri ble født av en annen type piratkopiering, om å se "
-"hvordan krever en bit av detaljer om hvordan loven regulerer musikk."
+"Plateindustrien ble født av en annen type piratvirksomhet, dog for å forstå "
+"hvordan krever at en setter seg inn i detaljer om hvordan loven regulerer musikk."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
