@@ -21764,7 +21764,7 @@ msgstr ""
 "til endringer i opphavsretten. Det er ikke kun at det er noen mektige "
 "selskaper som styrer en stadig voksende andel av mediene. Det er at denne "
 "konsentrasjonen kan påkalle en like oppsvulmet rekke rettigheter&mdash;"
-"eiendomsrettigheter i en historisk ekstrem form&mdash;som gjør deres storhet "
+"eiendomsrettigheter i en historisk ekstrem form&mdash;som gjør størrelsen "
 "ille."
 
 #. type: Content of: <book><chapter><para>
