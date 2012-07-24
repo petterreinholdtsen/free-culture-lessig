@@ -4411,15 +4411,14 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
 "Alleges $97.8 Billion in Damages,\" Professional Media Group LCC 6 (2003): "
 "5, available at 2003 WL 55179443."
 msgstr ""
-"Tim goral, \"innspillingen industri går etter campus p-2-p nettverk: Dress "
-"alleges $97.8 milliarder i skader,\" profesjonell media gruppere lcc 6 "
-"(2003): 5, tilgjengelig på 2003 wl 55179443."
+"Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
+"Alleges $97.8 Billion in Damages,\" Professional Media Group LCC 6 (2003): "
+"5, tilgjengelig fra 2003 WL 55179443."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -5346,13 +5345,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright owners took the cable companies to court. Twice the Supreme Court "
 "held that the cable companies owed the copyright owners nothing."
 msgstr ""
-"opphavsrett eiere tok kabelselskaper til retten. Høyesterett holdt to ganger "
-"at kabelselskaper skyldte opphavsrett eierne ingenting."
+"Opphavsrettinnehaverne tok kabelselskapene til retten. Høyesterett fant to "
+"ganger at kabelselskaper ikke skyldte opphavsrettinnehaverne noen ting."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
