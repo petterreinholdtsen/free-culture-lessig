@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-24 20:54+0300\n"
+"POT-Creation-Date: 2012-07-24 21:18+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1820,14 +1820,17 @@ msgstr ""
 "Se Rochelle Dreyfuss, \"Expressive Genericity: Trademarks as Language in the "
 "Pepsi Generation,\" Notre Dame Law Review 65 (1990): 397."
 
-#.  f3
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
+msgid "Zittrain, Jonathan"
+msgstr "Zittrain, Jonathan"
+
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Lisa Bannon, \"The Birds May Sing, but Campers Can't Unless They Pay Up,\" "
 "Wall Street Journal, 21 August 1996, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #3</ulink>; Jonathan Zittrain, \"Calling Off the "
 "Copyright War: In Battle of Property vs. Free Speech, No One Wins,\" Boston "
-"Globe, 24 November 2002."
+"Globe, 24 November 2002.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
@@ -3117,7 +3120,10 @@ msgid ""
 "teachers call \"media literacy.\""
 msgstr ""
 
-#.  PAGE BREAK 49
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Yanofsky, Dave"
+msgstr "Yanofsky, Dave"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -3125,7 +3131,7 @@ msgid ""
 "puts it, \"is the ability . . . to understand, analyze, and deconstruct "
 "media images. Its aim is to make [kids] literate about the way media works, "
 "the way it's constructed, the way it's delivered, and the way people access "
-"it.\""
+"it.\" <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "\"media leseferdighet,\" som dave yanofsky, administrerende direktør i "
 "Tenk!, sier det, \"er... du kan forstå, analysere og deconstruct media "
@@ -5324,12 +5330,16 @@ msgstr ""
 "men igjen, det var en annen side i debatten. som assistent justisministeren "
 "sa edwin zimmerman,"
 
-#.  f18
+#. type: Content of: <book><chapter><sect1><sect2><blockquote><para><indexterm><primary>
+msgid "Zimmerman, Edwin"
+msgstr "Zimmerman, Edwin"
+
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 216 (statement of Edwin M.  Zimmerman, "
-"acting assistant attorney general)."
+"acting assistant attorney general).  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 msgstr ""
 "Copyright lov revision&mdash;catv, 216 (setning av edwin m. Zimmerman "
 "fungerende assistent justisministeren)."
@@ -5341,7 +5351,8 @@ msgid ""
 "already compensated, who already have a monopoly, should be permitted to "
 "extend that monopoly. . . . The question here is how much compensation they "
 "should have and how far back they should carry their right to compensation."
-"<placeholder type=\"footnote\" id=\"0\"/>"
+"<placeholder type=\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id="
+"\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -11512,15 +11523,15 @@ msgstr ""
 "spøk av opphavsretten, slik loven ble riktig utvidet til å omfatte disse små "
 "endringer, så vel som ordrett opprinnelige arbeidet."
 
-#.  f14
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, July/August 2003, "
-"available at <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>."
+"available at <ulink url=\"http://free-culture.cc/notes/\">link #26</ulink>.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Jonathan Zittrain, \"The Copyright Cage,\" Legal Affairs, juli/august 2003, "
 "tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #26</"
-"ulink>."
+"ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -24388,7 +24399,8 @@ msgstr ""
 "\">link #86</ulink>.  Den nøye analysen til Liebowitz er ekstremt verdifull "
 "i sin estimering av effekten av fildelingsteknologi.  Etter mitt syn "
 "underestimerer han forøvrig kostnaden til det juridiske system.  Se, for "
-"eksempel, Rethinking, 174&ndash;76.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"eksempel, Rethinking, 174&ndash;76.  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
