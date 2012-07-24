@@ -11600,9 +11600,8 @@ msgstr ""
 "at denne utvidelsen er en betydelig endring fra de opprinnelig rettighetene."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Law and Architecture: Reach"
-msgstr "lov og arkitektur: nå"
+msgstr "Lov og arkitektur: Rekkevidde"
 
 #.  f16
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
@@ -11689,7 +11688,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "All potential uses of a book."
-msgstr ""
+msgstr "Alle potensielle bruk av en bok."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1521.png\"></graphic>"
@@ -11724,7 +11723,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "Examples of unregulated uses of a book."
-msgstr ""
+msgstr "Eksempler på uregulert bruk av en bok."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1531.png\"></graphic>"
@@ -12158,9 +12157,8 @@ msgstr ""
 "er en oppskrift på katastrofe i enkelte sammenhenger."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Architecture and Law: Force"
-msgstr "arkitektur og lov: tvinge"
+msgstr "Arkitektur og lov: Makt"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -13296,9 +13294,8 @@ msgstr ""
 "skjer her."
 
 #. type: Content of: <book><chapter><sect1><sect2><title>
-#, mtrans, fuzzy
 msgid "Market: Concentration"
-msgstr "markedet: konsentrasjon"
+msgstr "Marked: Konsentrasjon"
 
 #.  PAGE BREAK 173
 #. type: Content of: <book><chapter><sect1><sect2><para>
