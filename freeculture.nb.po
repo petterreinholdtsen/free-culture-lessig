@@ -1852,7 +1852,6 @@ msgstr "ASCAP"
 
 #.  PAGE BREAK 32
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This idea is certainly a possible understanding of how creative property "
 "should work. It might well be a possible design for a system of law "
@@ -1860,14 +1859,14 @@ msgid ""
 "creative property has never been America's theory of creative property.  It "
 "has never taken hold within our law."
 msgstr ""
-"Denne ideen er absolutt en mulig forståelse av hvordan kreative egenskapen "
-"skal fungere. Det kan godt være en mulig design for et system av loven "
-"beskytte creative-egenskapen. men den \"Hvis verdien, deretter høyre\" teori "
-"av creative-egenskapen har aldri vært america's teori om kreative-"
-"egenskapen. Det har aldri tatt tak i vår lov."
+"Denne ideen er helt klart en mulig forståelse om hvordan kreative "
+"eierrettigheter bør virke.  Det er helt klart et mulig design for et "
+"lovsystem som beskytter kreative eierrettigheter.  Men teorien om "
+"\"hvis verdi, så rettighet\" for kreative eierrettigheter har aldri "
+"vært USAs teori for kreative eierrettigheter.  It har aldri stått rot "
+"i vårt lovverk."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Instead, in our tradition, intellectual property is an instrument. It sets "
 "the groundwork for a richly creative society but remains subservient to the "
@@ -1875,10 +1874,11 @@ msgid ""
 "become so concerned with protecting the instrument that we are losing sight "
 "of the value."
 msgstr ""
-"i stedet i vår tradisjon er immaterielle et instrument. det angir "
-"grunnarbeidet for et rikt kreativt samfunn, men er fortsatt servil til "
-"verdien av kreativitet. dagens debatt har dette slått rundt. Vi har blitt så "
-"opptatt av å beskytte instrumentet at vi mister synet av verdien."
+"I vår tradisjon har immaterielle rettigheter i stedet vært et "
+"instrument.  Det bygger fundamentet for et rikt kreativt samfunn, men "
+"er fortsatt servilt til verdien av kreativitet.  Dagens debatt har "
+"snudd dette helt rundt.  Vi har blitt så opptatt av å beskytte "
+"instrumentet at vi mister verdien av syne."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
