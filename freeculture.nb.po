@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-24 22:28+0300\n"
+"POT-Creation-Date: 2012-07-25 10:05+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2435,6 +2435,10 @@ msgstr ""
 "en krenkelse av opprinnelige opphavsretten til å lage en kopi eller et "
 "avledet arbeid uten den opphavspersonens tillatelse."
 
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
+msgid "Winick, Judd"
+msgstr "Winick, Judd"
+
 #.  f5
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
@@ -4742,7 +4746,8 @@ msgid ""
 "requires a bit of detail about the way the law regulates music."
 msgstr ""
 "Plateindustrien ble født av en annen type piratvirksomhet, dog for å forstå "
-"hvordan krever at en setter seg inn i detaljer om hvordan loven regulerer musikk."
+"hvordan krever at en setter seg inn i detaljer om hvordan loven regulerer "
+"musikk."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -5678,6 +5683,10 @@ msgstr ""
 "for en tid-teknologien, er det galt å ta eiendom uten tillatelse fra eieren "
 "av en egenskap. Det er akkurat hva \"property\" betyr."
 
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Windows"
+msgstr "Windows"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "Finally, we could try to excuse this piracy with the argument that the "
@@ -5689,7 +5698,8 @@ msgid ""
 "time, because that buying will benefit Microsoft, Microsoft benefits from "
 "the piracy. If instead of pirating Microsoft Windows, the Chinese used the "
 "free GNU/Linux operating system, then these Chinese users would not "
-"eventually be buying Microsoft.  Without piracy, then, Microsoft would lose."
+"eventually be buying Microsoft.  Without piracy, then, Microsoft would "
+"lose.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
@@ -14967,14 +14977,17 @@ msgstr ""
 "over Internett. men som loven er nå laget, dette arbeidet er presumptively "
 "ugyldig."
 
-#.  f1.
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Worldcom"
+msgstr "Worldcom"
+
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
 "See Lynne W. Jeter, Disconnected: Deceit and Betrayal at WorldCom (Hoboken, "
 "N.J.: John Wiley &amp; Sons, 2003), 176, 204; for details of the settlement, "
 "see MCI press release, \"MCI Wins U.S. District Court Approval for SEC "
 "Settlement\" (7 July 2003), available at <ulink url=\"http://free-culture.cc/"
-"notes/\">link #37</ulink>."
+"notes/\">link #37</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
@@ -15011,7 +15024,7 @@ msgid ""
 "damages for pain and suffering.<placeholder type=\"footnote\" id=\"1\"/> Can "
 "common sense recognize the absurdity in a world where the maximum fine for "
 "downloading two songs off the Internet is more than the fine for a doctor's "
-"negligently butchering a patient?"
+"negligently butchering a patient? <placeholder type=\"indexterm\" id=\"2\"/>"
 msgstr ""
 
 #.  f3.
@@ -21623,13 +21636,13 @@ msgid ""
 "truth or not.)"
 msgstr ""
 "Jeg gikk glipp av ironien først gangen jeg leste den. Jeg lese den raskt og "
-"trodde forfatteren støttet idéen om at det våre myndigheter burde gjøre "
-"var å søke balanse. (Min kritikk av Ms Boland, selvfølgelig, var ikke om "
+"trodde forfatteren støttet idéen om at det våre myndigheter burde gjøre var "
+"å søke balanse. (Min kritikk av Ms Boland, selvfølgelig, var ikke om "
 "hvorvidt hun søkte balanse eller ikke; min kritikk var at hennes kommentarer "
-"avslørte en feil kun en førsteårs jussstudent burde kunne gjøre. Jeg har noen "
-"illusjon om ekstremismen hos våre myndigheter, uansett om de er republikanere "
-"eller demokrater. Min eneste tilsynelatende illusjon er hvorvidt våre "
-"myndigheter bør snakke sant eller ikke.)"
+"avslørte en feil kun en førsteårs jussstudent burde kunne gjøre. Jeg har "
+"noen illusjon om ekstremismen hos våre myndigheter, uansett om de er "
+"republikanere eller demokrater. Min eneste tilsynelatende illusjon er "
+"hvorvidt våre myndigheter bør snakke sant eller ikke.)"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -21669,14 +21682,14 @@ msgid ""
 "the government that it speak truth and not lies is just na&iuml;ve, then who "
 "have we, the most powerful democracy in the world, become?"
 msgstr ""
-"Men når det har blitt dumt å anta at rollen til våre myndigheter bør "
-"være å \"oppnå balanse\", da kan du regne meg blant de dumme, for det "
-"betyr at dette faktisk har blitt ganske seriøst.  Hvis det bør være "
-"åpenbart for alle at myndighetene ikke søker å oppnå balanse, at "
-"myndighetene ganske enkelt et verktøy for de mektigste lobbyistene, at "
-"ideen om å forvente bedre av myndighetene er absurd, at ideen om å "
-"kreve at myndighetene snakker sant og ikke lyver bare er naiv, hva har "
-"da vi, det mektigste demokratiet i verden, blitt?"
+"Men når det har blitt dumt å anta at rollen til våre myndigheter bør være å "
+"\"oppnå balanse\", da kan du regne meg blant de dumme, for det betyr at "
+"dette faktisk har blitt ganske seriøst.  Hvis det bør være åpenbart for alle "
+"at myndighetene ikke søker å oppnå balanse, at myndighetene ganske enkelt et "
+"verktøy for de mektigste lobbyistene, at ideen om å forvente bedre av "
+"myndighetene er absurd, at ideen om å kreve at myndighetene snakker sant og "
+"ikke lyver bare er naiv, hva har da vi, det mektigste demokratiet i verden, "
+"blitt?"
 
 #.  PAGE BREAK 276
 #. type: Content of: <book><chapter><para>
