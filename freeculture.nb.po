@@ -21262,7 +21262,7 @@ msgstr ""
 "temaet var både kommersielle og ikkekommersielle verker.  De "
 "involverte i hovedsak vitenskapet, men fra mange perspektiver.  Og "
 "WIPO var et ideelt sted for denne diskusjonen, siden WIPO var den "
-"dominerende internasjonale aktør som drev med immaterielle "
+"fremstående internasjonale aktør som drev med immaterielle "
 "rettighetsspørsmål."
 
 #.  PAGE BREAK 271
