@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-25 22:10+0300\n"
+"POT-Creation-Date: 2012-07-25 23:56+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -9428,6 +9428,10 @@ msgstr ""
 "on-line. alle kunne se hvordan nyhetsrapporter fra rundt om i verden dekkes "
 "hendelsene den dagen."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Movie Archive"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9445,7 +9449,7 @@ msgid ""
 "important part of our culture.  Want to see a copy of the \"Duck and Cover\" "
 "film that instructed children how to save themselves in the middle of "
 "nuclear attack? Go to archive.org, and you can download the film in a few "
-"minutes&mdash;for free."
+"minutes&mdash;for free.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Kahle hatt samme idé med film. arbeide med rick prelinger, som har arkiv av "
 "filmen inkluderer nær 45.000 \"flyktige filmer\" (det vil si filmer enn "
@@ -10707,9 +10711,16 @@ msgstr ""
 "av endringene innhold industrien ønsker."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid "Here's the metaphor that will capture the argument to follow."
-msgstr "Her er til metaforen vil fange opp argumentet å følge."
+msgstr "Her kommer metaforen som vil forklare argumentet."
+
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "DDT"
+msgstr "DDT"
+
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "Müller, Paul Hermann"
+msgstr "Müller, Paul Hermann"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -10718,7 +10729,7 @@ msgid ""
 "Hermann Müller won the Nobel Prize for his work demonstrating the "
 "insecticidal properties of DDT. By the 1950s, the insecticide was widely "
 "used around the world to kill disease-carrying pests. It was also used to "
-"increase farm production."
+"increase farm production.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "i 1873, ble kjemiske ddt først syntetisert. i 1948, sveitsisk apotek paul "
 "hermann müller vant nobel prisen for sitt arbeid demonstrere egenskapene "

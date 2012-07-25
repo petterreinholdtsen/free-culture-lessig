@@ -5553,6 +5553,7 @@ part of our culture.  Want to see a copy of the "Duck and Cover" film
 that instructed children how to save themselves in the middle of
 nuclear attack? Go to archive.org, and you can download the film in a
 few minutes&mdash;for free.
+<indexterm><primary>Movie Archive</primary></indexterm>
 </para>
 <para>
 Here again, Kahle is providing access to a part of our culture that we
@@ -6253,12 +6254,16 @@ effect of the changes the content industry wants.
 <para>
 Here's the metaphor that will capture the argument to follow.
 </para>
+<indexterm id="idxddt" class='startofrange'>
+  <primary>DDT</primary>
+</indexterm>
 <para>
 In 1873, the chemical DDT was first synthesized. In 1948, Swiss
 chemist Paul Hermann Müller won the Nobel Prize for his work
 demonstrating the insecticidal properties of DDT. By the 1950s, the
 insecticide was widely used around the world to kill disease-carrying
 pests. It was also used to increase farm production.
+<indexterm><primary>Müller, Paul Hermann</primary></indexterm>
 </para>
 <para>
 No one doubts that killing disease-carrying pests or increasing crop
@@ -6320,6 +6325,7 @@ In a line: To kill a gnat, we are spraying DDT with consequences
 for free culture that will be far more devastating than that this gnat will
 be lost.
 </para>
+<indexterm startref="idxddt" class='endofrange'/>
 </sect2>
 <sect2 id="beginnings">
 <title>Beginnings</title>
@@ -7060,46 +7066,42 @@ not allowed to show clips of the films as a way of selling them without
 Disney's permission.
 </para>
 <para>
-Now, you might think this is a close case, and I think the courts would
-consider it a close case. My point here is to map the change that gives
-Disney this power. Before the Internet, Disney couldn't really control
-how people got access to their content. Once a video was in the 
-		marketplace,
-the "first-sale doctrine" would free the seller to use the video as he
-wished, including showing portions of it in order to engender sales of the
-entire movie video. But with the Internet, it becomes possible for Disney
-to centralize control over access to this content. Because each use of the
-Internet produces a copy, use on the Internet becomes subject to the
-copyright owner's control. The technology expands the scope of effective
-control, because the technology builds a copy into every transaction.
+Now, you might think this is a close case, and I think the courts
+would consider it a close case. My point here is to map the change
+that gives Disney this power. Before the Internet, Disney couldn't
+really control how people got access to their content. Once a video
+was in the marketplace, the "first-sale doctrine" would free the
+seller to use the video as he wished, including showing portions of it
+in order to engender sales of the entire movie video. But with the
+Internet, it becomes possible for Disney to centralize control over
+access to this content. Because each use of the Internet produces a
+copy, use on the Internet becomes subject to the copyright owner's
+control. The technology expands the scope of effective control,
+because the technology builds a copy into every transaction.
 </para>
 <para>
 <!-- PAGE BREAK 158 -->
 No doubt, a potential is not yet an abuse, and so the potential for
-	control
-is not yet the abuse of control. Barnes &amp; Noble has the right to say
-you can't touch a book in their store; property law gives them that right.
-But the market effectively protects against that abuse. If Barnes &amp; 
-		Noble
-banned browsing, then consumers would choose other bookstores.
-Competition protects against the extremes. And it may well be (my 
-		argument
-so far does not even question this) that competition would prevent
-any similar danger when it comes to copyright. Sure, publishers 
-		exercising
-the rights that authors have assigned to them might try to regulate
-how many times you read a book, or try to stop you from sharing the book
-with anyone. But in a competitive market such as the book market, the
-dangers of this happening are quite slight.
+control is not yet the abuse of control. Barnes &amp; Noble has the
+right to say you can't touch a book in their store; property law gives
+them that right.  But the market effectively protects against that
+abuse. If Barnes &amp; Noble banned browsing, then consumers would
+choose other bookstores.  Competition protects against the
+extremes. And it may well be (my argument so far does not even
+question this) that competition would prevent any similar danger when
+it comes to copyright. Sure, publishers exercising the rights that
+authors have assigned to them might try to regulate how many times you
+read a book, or try to stop you from sharing the book with anyone. But
+in a competitive market such as the book market, the dangers of this
+happening are quite slight.
 </para>
 <para>
 Again, my aim so far is simply to map the changes that this changed
 architecture enables. Enabling technology to enforce the control of
 copyright means that the control of copyright is no longer defined by
-balanced policy. The control of copyright is simply what private 
-		owners
-choose. In some contexts, at least, that fact is harmless. But in some
-contexts it is a recipe for disaster.
+balanced policy. The control of copyright is simply what private
+owners choose. In some contexts, at least, that fact is harmless. But
+in some contexts it is a recipe for disaster.
 </para>
 </sect2>
 <sect2 id="lawforce">
@@ -7127,9 +7129,8 @@ Casablanca. Warner Brothers objected. They wrote a nasty letter to the
 Marxes, warning them that there would be serious legal consequences
 if they went forward with their plan.<footnote><para>
 <!-- f19 -->
-See David Lange, "Recognizing the Public Domain," Law and 
-		Contemporary
-Problems 44 (1981): 172&ndash;73.
+See David Lange, "Recognizing the Public Domain," Law and
+Contemporary Problems 44 (1981): 172&ndash;73.
 </para></footnote>
 </para>
 <para>
