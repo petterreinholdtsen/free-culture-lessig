@@ -2287,6 +2287,9 @@ rises in the ranks of stories. People read what is popular; what is
 popular has been selected by a very democratic process of
 peer-generated rankings.
 </para>
+<indexterm id="idxwinerdave" class='startofrange'>
+  <primary>Winer, Dave</primary>
+</indexterm>
 <para>
 There's a second way, as well, in which blogs have a different cycle
 <!-- PAGE BREAK 57 -->
@@ -2377,6 +2380,10 @@ Today there are probably a couple of million blogs where such writing
 happens. When there are ten million, there will be something
 extraordinary to report.
 </para>
+<indexterm startref="idxwinerdave" class='endofrange'/>
+<indexterm id="idxbrownjohnseely" class='startofrange'>
+  <primary>Brown, John Seely</primary>
+</indexterm>
 <para>
 John Seely Brown is the chief scientist of the Xerox Corporation.
 His work, as his Web site describes it, is "human learning and . . . the
@@ -2481,6 +2488,7 @@ natural tendencies of today's digital kids. . . . We're building an
 architecture that unleashes 60 percent of the brain [and] a legal
 system that closes down that part of the brain."
 </para>
+<indexterm startref="idxbrownjohnseely" class='endofrange'/>
 <para>
 We're building a technology that takes the magic of Kodak, mixes
 moving images and sound, and adds a space for commentary and an
@@ -7927,6 +7935,8 @@ owned by the network.
 While the number of channels has increased dramatically, the ownership
 of those channels has narrowed to an ever smaller and smaller few. As
 Barry Diller said to Bill Moyers,
+<indexterm><primary>Diller, Barry</primary></indexterm>
+<indexterm><primary>Moyers, Bill</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -8086,6 +8096,7 @@ diesel buses. Phillip Matier and Andrew Ross, "Antidiesel Group Fuming
 After Muni Rejects Ad," SFGate.com, 16 June 2003, available at
 <ulink url="http://free-culture.cc/notes/">link #32</ulink>. The ground
 was that the criticism was "too controversial."
+<indexterm><primary>Comcast</primary></indexterm>
 <indexterm><primary>Marijuana Policy Project</primary></indexterm>
 <indexterm><primary>WJOA</primary></indexterm>
 </para></footnote>
