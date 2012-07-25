@@ -21673,8 +21673,8 @@ msgid ""
 msgstr ""
 "Som Peter Drahos og John Braithwaite beskriver, dette er nøyaktig det valget "
 "vi nå gjør om immaterielle rettigheter.<placeholder type=\"footnote\" id="
-"\"0\"/> Vi vil ha et informasjonssamfunn.  Så mye er sikkert.  Vårt eneste "
-"valg nå er hvorvidt dette informasjonssamfunnet skal være fritt eller "
+"\"0\"/> Vi kommer til å få et informasjonssamfunn.  Så mye er sikkert.  Vårt "
+"eneste valg nå er hvorvidt dette informasjonssamfunnet skal være fritt eller "
 "føydalt.  Trenden er mot det føydale."
 
 #. type: Content of: <book><chapter><para>
