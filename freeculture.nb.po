@@ -12793,7 +12793,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
 msgid "Electronic Frontier Foundation"
-msgstr "Stiftelsen Elektronisk forpost (EFF)"
+msgstr "Elektronisk forpost-stiftelsen (EFF)"
 
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 msgid ""
@@ -21257,6 +21257,13 @@ msgid ""
 "discussion, since WIPO is the preeminent international body dealing with "
 "intellectual property issues."
 msgstr ""
+"Dermed var, fra perspektivet i denne boken, denne konferansen "
+"ideell.<placeholder type=\"footnote\" id=\"0\"/> Prosjektene innenfor "
+"temaet var både kommersielle og ikkekommersielle verker.  De "
+"involverte i hovedsak vitenskapet, men fra mange perspektiver.  Og "
+"WIPO var et ideelt sted for denne diskusjonen, siden WIPO var den "
+"dominerende internasjonale aktør som drev med immaterielle "
+"rettighetsspørsmål."
 
 #.  PAGE BREAK 271
 #. type: Content of: <book><chapter><para>
