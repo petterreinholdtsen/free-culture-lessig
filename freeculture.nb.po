@@ -21931,7 +21931,7 @@ msgstr ""
 "Surprised Targets; Single Mother in Calif., 12-Year-Old Girl in N.Y. Among "
 "Defendants,\" Washington Post, 10. september 2003, E1; Katie Dean, "
 "\"Schoolgirl Settles with RIAA,\" Wired News, 10. september 2003, "
-"tilgengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #67</"
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #67</"
 "ulink>."
 
 #.  f12.
