@@ -38,14 +38,18 @@
 
 <copyright>
   <year>2004</year>
-  <holder>
-Lawrence Lessig.  This version of Free Culture is licensed under a
-Creative Commons license. This license permits non-commercial use of
-this work, so long as attribution is given.  For more information
-about the license, click the icon above, or visit
-<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-  </holder>
+  <holder>Lawrence Lessig</holder>
 </copyright>
+
+ <legalnotice>
+  <para>
+This version of Free Culture is licensed under a Creative Commons
+license. This license permits non-commercial use of this work, so long
+as attribution is given.  For more information about the license,
+click the icon above, or visit
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
+  </para>
+ </legalnotice>
 
  <abstract>
   <title>ABOUT THE AUTHOR</title>
