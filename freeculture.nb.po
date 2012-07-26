@@ -24427,13 +24427,12 @@ msgstr "garantere retten til å engasjere seg i type-D-deling;"
 
 #.  2.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "permitting noncommercial type C sharing without liability, and commercial "
 "type C sharing at a low and fixed rate set by statute;"
 msgstr ""
-"tillater ikke-kommersiell type c deling uten erstatningsansvar og "
-"kommersielle type c deling med en lav og fast hastighet ved lov;"
+"tillate ikke-kommersiell type-C-deling uten erstatningsansvar, og "
+"kommersiell type-C-deling med en lav og fast rate fastsatt ved lov."
 
 #.  3.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
