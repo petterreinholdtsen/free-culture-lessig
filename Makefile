@@ -41,7 +41,7 @@ html: freeculture.html freeculture.nb.html
 	$(DBLATEX) $^ --param=lingua=nb
 
 %.html: %.xml
-	$(XP) $^ && mv index.html $@
+	xmlto html-nochunks $^
 
 %.epub: %.xml
 	$(DBTOEPUB) $^
