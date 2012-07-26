@@ -64,3 +64,5 @@
 2012-07-26T1256 565 oversatte meldinger, 946 antatte oversettelser, 247 uoversatte meldinger.
 2012-07-26T1323 572 oversatte meldinger, 946 antatte oversettelser, 249 uoversatte meldinger.
 2012-07-26T1713 579 oversatte meldinger, 941 antatte oversettelser, 249 uoversatte meldinger.
+2012-07-26T2125 586 oversatte meldinger, 937 antatte oversettelser, 246 uoversatte meldinger.
+2012-07-26T2202 592 oversatte meldinger, 931 antatte oversettelser, 246 uoversatte meldinger.
