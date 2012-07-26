@@ -8461,9 +8461,8 @@ msgstr ""
 "forstyrrer bruke transformative eller ikke."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER EIGHT: Transformers"
-msgstr "Kapittel åtte: transformatorer"
+msgstr "Kapittel åtte: Omformere"
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Allen, Paul"
