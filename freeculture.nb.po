@@ -2382,15 +2382,14 @@ msgstr ""
 "på dette interessant annen måte."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "But my purpose here is not to understand manga. It is to describe a variant "
 "on manga that from a lawyer's perspective is quite odd, but from a Disney "
 "perspective is quite familiar."
 msgstr ""
-"men min hensikt her er ikke å forstå manga. Det er å beskrive en variant på "
-"manga som fra en advokat perspektiv er ganske rart, men fra en disney "
-"perspektiv er ganske godt kjent."
+"Men mitt formål her er ikke å forstå manga.  Det er a beskrive en "
+"variant av manga som fra en avokats perspektiv er ganske merkelig, men "
+"som fra en Disneys perspektiv er ganske godt kjent."
 
 #.  PAGE BREAK 39
 #. type: Content of: <book><chapter><sect1><para>
@@ -2787,9 +2786,8 @@ msgstr ""
 "kultur. Den er på tur til å bli mindre fri."
 
 #. type: Content of: <book><chapter><sect1><title>
-#, mtrans, fuzzy
 msgid "CHAPTER TWO: \"Mere Copyists\""
-msgstr "Kapittel to: \"kun copyists\""
+msgstr "Kapittel to: \"Kun etter-apere\""
 
 #. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Daguerre, Louis"
