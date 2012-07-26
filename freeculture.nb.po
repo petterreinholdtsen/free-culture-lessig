@@ -17057,20 +17057,18 @@ msgid "BALANCES"
 msgstr "Maktfordeling"
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "So here's the picture: You're standing at the side of the road. Your car is "
 "on fire. You are angry and upset because in part you helped start the fire. "
 "Now you don't know how to put it out. Next to you is a bucket, filled with "
 "gasoline. Obviously, gasoline won't put the fire out."
 msgstr ""
-"så her er bildet: du står på siden av veien. bilen er på brann. du er sint "
-"og lei fordi delvis du hjalp starte til brann. nå vet du hvordan du setter "
-"det. siden du er en bøtte, fylt med bensin. åpenbart, bensin vil ikke sette "
-"brann ut."
+"Så her er bildet: Du står på siden av veien. Bilen din er på brann. Du er sint "
+"og opprørt fordi du delvis bidro til å starte brannen. Nå vet du ikke hvordan "
+"du slokker den.  Ved siden av deg er en bøtte, fylt med bensin. bensin vil "
+"selvfølgelig ikke slukke brannen."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "As you ponder the mess, someone else comes along. In a panic, she grabs the "
 "bucket. Before you have a chance to tell her to stop&mdash;or before she "
@@ -17078,11 +17076,12 @@ msgid ""
 "gasoline is about to hit the blazing car. And the fire that gasoline will "
 "ignite is about to ignite everything around."
 msgstr ""
-"som du tenke rotet, kommer noen andre. i en panikk griper hun bøtte. før du "
-"har en sjanse til å fortelle henne til å slutte&mdash; eller før hun forstår "
-"bare hvorfor hun bør stoppe&mdash;bøtte er i luften. til bensin er om å "
-"treffe Lynrask bilen. og brann som bensin vil antennes er om å antennes alt "
-"rundt."
+"Mens du tenker over situasjonen, kommer noen andre forbi.  I "
+"panikk griper hun bøtta, og før du har hatt sjansen til å be henne "
+"stoppe&mdash;eller før hun forstår hvorfor hun bør stoppe&mdash;er "
+"bøtten i svevet.  Bensinen er på tur mot den brennende bilen.  Og "
+"brannen som bensinen vil tenne vil straks sette fyr på alt i "
+"omgivelsene.'
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
