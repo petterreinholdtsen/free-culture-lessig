@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-26 13:13+0300\n"
+"POT-Creation-Date: 2012-07-26 16:53+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2588,7 +2588,10 @@ msgstr ""
 "begynne å tenke disse problemene, bør så bare om nå du være rådvill om noe "
 "du ikke hadde tenkt gjennom før."
 
-#.  f7
+#. type: Content of: <book><chapter><sect1><sect2><para><footnote><para><indexterm><primary>
+msgid "Vaidhyanathan, Siva"
+msgstr "Vaidhyanathan, Siva"
+
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -2597,7 +2600,8 @@ msgid ""
 "Press, 2001). See also Lawrence Lessig, The Future of Ideas (New York: "
 "Random House, 2001), 293 n. 26. The term accurately describes a set of "
 "\"property\" rights&mdash;copyright, patents, trademark, and trade-"
-"secret&mdash;but the nature of those rights is very different."
+"secret&mdash;but the nature of those rights is very different.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "begrepet immaterielle er relativt nylige opprinnelsesland. se siva "
 "vaidhyanathan, opphavsrett og copywrongs, 11 (new york: new york university "
@@ -4633,13 +4637,13 @@ msgstr ""
 msgid "Film"
 msgstr "filmen"
 
-#.  f1
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "I am grateful to Peter DiMauro for pointing me to this extraordinary "
 "history. See also Siva Vaidhyanathan, Copyrights and Copywrongs, "
-"87&ndash;93, which details Edison's \"adventures\" with copyright and patent."
+"87&ndash;93, which details Edison's \"adventures\" with copyright and "
+"patent.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Jeg er takknemlig til peter dimauro for å sette meg til dette ekstraordinære "
 "historie. Se også siva vaidhyanathan, opphavsrett og copywrongs, 87­93, som "
@@ -7267,14 +7271,15 @@ msgstr ""
 "bøker holdt oppe; alle konkurrenter som lagde bedre eller billigere utgaver, "
 "ble fjernet."
 
-#.  f3
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "As Siva Vaidhyanathan nicely argues, it is erroneous to call this a "
-"\"copyright law.\" See Vaidhyanathan, Copyrights and Copywrongs, 40."
+"\"copyright law.\" See Vaidhyanathan, Copyrights and Copywrongs, 40.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Aom Siva Vaidhyanathan pent hevder, er det feilaktige å kalle dette en \"lov "
-"om opphavsrett.\" Se vaidhyanathan, Copyrights and Copywrongs, 40."
+"Som Siva Vaidhyanathan så pent argumenterer, er det feilaktige å kalle dette "
+"en \"opphavsrettslov.\" Se Vaidhyanathan, Copyrights and Copywrongs, 40.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -7659,16 +7664,15 @@ msgstr ""
 "publiseringen av en bok, selv følgelig om \"Statute of Anne\" sa at de var "
 "falt i det fri. Dette, mente de, var den eneste måten å beskytte forfatterne."
 
-#.  f6
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
 "Lyman Ray Patterson, \"Free Speech, Copyright, and Fair Use,\" Vanderbilt "
 "Law Review 40 (1987): 28. For a wonderfully compelling account, see "
-"Vaidhyanathan, 37&ndash;48."
+"Vaidhyanathan, 37&ndash;48.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Lyman Ray Patterson, \"Free Speech, Copyright, and Fair Use,\" Vanderbilt "
-"Law Review 40 (1987): 28. For a wonderfully compelling account, see "
-"Vaidhyanathan, 37&ndash;48."
+"Law Review 40 (1987): 28. For en fantastisk overbevisende fortelling, se "
+"Vaidhyanathan, 37&ndash;48.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -12278,10 +12282,12 @@ msgstr ""
 "brødrene og advarte dem om at det ville få seriøse juridiske konsekvenser "
 "hvis de gikk videre med sin plan.<placeholder type=\"footnote\" id=\"0\"/>"
 
-#.  f20
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-msgid "Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
-msgstr "Ibid. Se også Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3."
+msgid ""
+"Ibid. See also Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
+msgstr "Ibid. Se også Vaidhyanathan, Copyrights and Copywrongs, 1&ndash;3.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -14136,15 +14142,15 @@ msgstr ""
 "færre hadde en lovfestet rett til å styre flere av utviklingen av vår kultur "
 "enn nå."
 
-#.  f35
 #. type: Content of: <book><chapter><sect1><sect2><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Siva Vaidhyanathan captures a similar point in his \"four surrenders\" of "
-"copyright law in the digital age. See Vaidhyanathan, 159&ndash;60."
+"copyright law in the digital age. See Vaidhyanathan, 159&ndash;60.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Siva vaidhyanathan registrerer en liknende punktet i sin \"fire etableres\" "
-"om opphavsrett i den digitale tidsalderen. se vaidhyanathan, 159­60."
+"Siva Vaidhyanathan fanger et lignende poeng i hans \"fire kapitulasjoner\" for "
+"opphavsrettsloven i den digitale tidsalder. Se Vaidhyanathan, 159&ndash;60.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
@@ -16797,12 +16803,17 @@ msgstr ""
 "prosentandel av befolkningen i kriminelle.\" Dette er sikkerhetsstillelse "
 "skader på borgerrettigheter vanligvis."
 
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "von Lohmann, Fred"
+msgstr "von Lohmann, Fred"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
-"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains,"
+"\"If you can treat someone as a putative lawbreaker,\" von Lohmann explains, "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"\"Hvis du kan behandle noen som en antatte lawbreaker,\" forklarer von sang,"
+"\"Hvis du kan behandle noen som en antatt lovbryter,\" forklarer von Lohmann, "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><sect2><blockquote><para>
 #, mtrans, fuzzy
@@ -16943,7 +16954,6 @@ msgid ""
 "expelled."
 msgstr ""
 
-#.  PAGE BREAK 216
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16954,7 +16964,8 @@ msgid ""
 "university might not believe her. It might treat this \"contraband\" as "
 "presumptive of guilt. And as any number of college students have already "
 "learned, our presumptions about innocence disappear in the middle of wars of "
-"prohibition. This war is no different.  Says von Lohmann,"
+"prohibition. This war is no different.  Says von Lohmann, <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "nå, selvfølgelig, hun vil ha rett til å forsvare seg selv. Du kan leie en "
 "advokat for henne (på $300 per time, hvis du er heldig), og hun kan erkjenne "
