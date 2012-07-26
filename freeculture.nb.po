@@ -2067,7 +2067,6 @@ msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Disney had created something very new, based upon something relatively new. "
 "Synchronized sound brought life to a form of creativity that had "
@@ -2077,26 +2076,25 @@ msgid ""
 "often, Disney's great genius, his spark of creativity, was built upon the "
 "work of others."
 msgstr ""
-"Disney hadde opprettet noe veldig nytt, basert på noe relativt nytt. "
-"synkronisert lyd brakt livet til en form av kreativitet som hadde "
-"sjelden&mdash;unntatt i disney's hender&mdash;blitt noe mer enn filler for "
-"andre filmer. gjennom animasjons tidlig historien var det disney's "
-"oppfinnelse som satte standarden som andre kjempet for å matche. og ganske "
-"ofte disney's stor geni, hans gnist av kreativitet, ble bygd på arbeidet til "
-"andre."
+"Disney hadde laget noe helt nyt, basert på noe relativt nytt. "
+"Synkronisert lyd ga liv til en form for kreativitet som sjeldent "
+"hadde&mdash;unntatt fra Disneys hender&mdash;vært noe annet en "
+"fyllstoff for andre filmer.  Gjennom animasjonens tidligere historie "
+"var det Disneys oppfinnelse som satte standarden som andre måtte sloss "
+"for å oppfylle.  Og ganske ofte var Disneys store geni, hans gnist av "
+"kreativitet, bygget på arbeidet til andre."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "This much is familiar. What you might not know is that 1928 also marks "
 "another important transition. In that year, a comic (as opposed to cartoon) "
 "genius created his last independently produced silent film.  That genius was "
 "Buster Keaton. The film was Steamboat Bill, Jr."
 msgstr ""
-"så er mye kjent. Hva du kanskje ikke vet er at 1928 også markerer en annen "
-"viktig endring. Dette året produsert en tegneserie (i motsetning til "
-"tegneserie) geni opprettet sitt siste uavhengig stumfilm. at geni var buster "
-"keaton. filmen var steamboat bill, jr."
+"Dette er kjent stoff.  Det du kanskje ikke vet er at 1928 også "
+"markerer en annen viktig overgang.  I samme år laget et komedie-geni "
+"(i motsetning til tegnefilm-geni) sin siste uavhengig produserte stumfilm.  "
+"Dette geniet var Buster Keaton.  Filmen var Steamboat Bill, Jr."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
