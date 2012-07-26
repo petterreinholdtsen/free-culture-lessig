@@ -2097,7 +2097,6 @@ msgstr ""
 "Dette geniet var Buster Keaton.  Filmen var Steamboat Bill, Jr."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Keaton was born into a vaudeville family in 1895. In the era of silent film, "
 "he had mastered using broad physical comedy as a way to spark uncontrollable "
@@ -2105,11 +2104,12 @@ msgid ""
 "famous among film buffs for its incredible stunts.  The film was classic "
 "Keaton&mdash;wildly popular and among the best of its genre."
 msgstr ""
-"Keaton ble født inn i en vaudeville familie i 1895. i æra av stumfilm, hadde "
-"han mestret med bred fysiske komedie som en måte å gnist lyste latter fra "
-"sitt publikum. Steamboat bill, jr. var en klassiker av dette skjemaet, kjent "
-"blant film buffs for sin utrolige stunts. filmen var klassisk keaton&mdash;"
-"vill populær og blant beste i sin sjanger."
+"Keaton ble født inn i en vauderville-familie i 1895.  I "
+"stumfilm-æraen hadde han mestret bruken av bredpenslet fysisk komedie "
+"på en måte som tente ukontrollerbar latter fra hans publikum. "
+"Steamboat Bill, Jr. var en klassier av denne typen, berømt blant "
+"film-elskere for sine utrolige stunts.  Filmen var en klassisk "
+"Keaton&mdash;fantastisk populær og blant de beste i sin sjanger."
 
 #.  f2
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
@@ -8469,7 +8469,6 @@ msgid "Allen, Paul"
 msgstr "Allen, Paul"
 
 #. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Alben, Alex"
 msgstr "Alben, Alex"
 
