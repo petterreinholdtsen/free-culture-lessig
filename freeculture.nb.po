@@ -1975,7 +1975,6 @@ msgid "CHAPTER ONE: Creators"
 msgstr "Kapittel en: Skaperne"
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "In 1928, a cartoon character was born. An early Mickey Mouse made his debut "
 "in May of that year, in a silent flop called Plane Crazy.  In November, in "
@@ -1983,13 +1982,13 @@ msgid ""
 "synchronized with sound, Steamboat Willie brought to life the character that "
 "would become Mickey Mouse."
 msgstr ""
-"en tegneserie tegnet ble født i 1928. en tidlig Mikke Mus debuterte i mai "
-"samme år, i en stille flop kalt flyet gal. i november, i new york city's "
-"colony theater, i de første spredt utover tegneserie synkronisert med lyden, "
-"steamboat willie brakt til liv tegnet som skulle bli Mikke Mus."
+"I 1928 ble en tegnefilmfigur født.  En tidlig Mikke Mus debuterte i "
+"mai dette året, i en stille flopp ved navn Plane Crazy.  I november, i "
+"Colony teateret i New York City, ble den første vidt distribuerte "
+"tegnefilmen med synkronisert lyd, Steamboat Willy, vist frem med "
+"figuren som skulle bli til Mikke Mus."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Synchronized sound had been introduced to film a year earlier in the movie "
 "The Jazz Singer. That success led Walt Disney to copy the technique and mix "
@@ -1998,38 +1997,38 @@ msgid ""
 "of 1928, the results were unambiguous.  As Disney describes that first "
 "experiment,"
 msgstr ""
-"synkroniserte lyd hadde blitt introdusert til film året tidligere i filmen "
-"jazz sanger. at suksess ledet walt disney å kopiere teknikken og blande lyd "
-"med tegneserier. ingen visste om det ville fungere, eller hvis det virket, "
-"om det ville vinne et publikum. men når disney kjørte en test sommeren 1928, "
-"resultatene var entydig. som disney beskriver det første eksperimentet"
+"Film med sykronisert lyd hadde blitt introdusert et år tidligere i "
+"filmen The Jazz Singer.  Suksessen fikk Walt Disney til å kopiere "
+"teknikken og mikse lyd med tegnefilm.  Ingen visste hvorvidt det ville "
+"virke eller ikke, og om det fungere, hvorvidt publikum villa ha sans "
+"for det.  Men da Disney gjorde en test sommeren 1928, var resutlatet "
+"entydig.  Som Disney beskriver dette første eksperimentet,"
 
 #.  PAGE BREAK 35
 #. type: Content of: <book><chapter><sect1><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "A couple of my boys could read music, and one of them could play a mouth "
 "organ. We put them in a room where they could not see the screen and "
 "arranged to pipe their sound into the room where our wives and friends were "
 "going to see the picture."
 msgstr ""
-"et par av mine gutter kan lese musikk, og en av dem kunne spille en munn "
-"orgel. Vi setter dem i et rom der de ikke kunne se skjermen og arrangert til "
-"datakanal sine lyd inn i rommet hvor våre hustruer og venner var kommer til "
-"å se bildet."
+"Et par av guttene mine kunne lese noteark, og en av dem kunne spille "
+"munnspill.  Vi stappet dem inn i et rom hvor de ikke kunne se "
+"skjermen, og gorde det slik at lyden de spilte ble sendt videre til et "
+"rom hvor våre koner og venner var plassert for å se på bildet."
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "The boys worked from a music and sound-effects score. After several false "
 "starts, sound and action got off with the gun. The mouth organist played the "
 "tune, the rest of us in the sound department bammed tin pans and blew slide "
 "whistles on the beat.  The synchronization was pretty close."
 msgstr ""
-"gutter jobbet fra en musikk og lydeffekter score. etter flere falske starter "
-"kom lyd og handling av med pistolen. munn-organisten spilte melodien, resten "
-"av oss i lyd avdeling bammed tin pans og blåste lysbilde plystre på beat. "
-"synkroniseringen var ganske nær."
+"Guttene brukte et note- og lydeffekt-ark.  Etter noen dårlige "
+"oppstarter, kom endelig lyd og handlig i gang med et smell. "
+"Munnspilleren spilte melodien, og resten av oss i lydavdelingen "
+"slamret på tinnkasseroller og blåste på slide-fløyte til rytmen. "
+"Synkroniseringen var nesten helt riktig."
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -2048,6 +2047,11 @@ msgid ""
 "again. It was terrible, but it was wonderful! And it was something new!"
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Effekten på vårt lille publikum var intet mindre enn elektrisk.  De "
+"reagerte nesten instiktivt til denne union av lyd og bevegelse.  Jeg "
+"trodde de tullet med meg.  Så de puttet meg i publikum og satte igang "
+"på nytt.  Det var grufult, men det var fantastisk.  Og det var noe "
+"nytt!<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Iwerks, Ub"
