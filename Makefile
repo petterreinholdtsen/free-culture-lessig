@@ -17,12 +17,6 @@ DBLATEX = dblatex \
 	-p data/pdf.xsl \
 	--param=lingua=nb
 
-# HTML rule
-XP = xsltproc \
-	--nonet \
-	--novalid \
-	--xinclude data/html.xsl
-
 DBTOEPUB = dbtoepub
 
 all: lint lint.nb epub pdf
