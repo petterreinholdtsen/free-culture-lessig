@@ -2012,7 +2012,7 @@ msgid ""
 msgstr ""
 "Et par av guttene mine kunne lese noteark, og en av dem kunne spille "
 "munnspill.  Vi stappet dem inn i et rom hvor de ikke kunne se skjermen, og "
-"gorde det slik at lyden de spilte ble sendt videre til et rom hvor våre "
+"gjorde det slik at lyden de spilte ble sendt videre til et rom hvor våre "
 "koner og venner var plassert for å se på bildet."
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
