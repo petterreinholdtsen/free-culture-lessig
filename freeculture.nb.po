@@ -17081,7 +17081,7 @@ msgstr ""
 "stoppe&mdash;eller før hun forstår hvorfor hun bør stoppe&mdash;er "
 "bøtten i svevet.  Bensinen er på tur mot den brennende bilen.  Og "
 "brannen som bensinen vil tenne vil straks sette fyr på alt i "
-"omgivelsene.'
+"omgivelsene."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
