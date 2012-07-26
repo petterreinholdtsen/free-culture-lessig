@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-26 00:41+0300\n"
+"POT-Creation-Date: 2012-07-26 13:13+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -71,12 +71,11 @@ msgid ""
 "visit <ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://"
 "creativecommons.org/licenses/by-nc/1.0/</ulink>"
 msgstr ""
-"Denne versjonen av "
-"Fri Kultur er lisensert med en Creative Commons-lisens.  Denne lisensen "
-"tillater ikke-kommersiell utnyttelse av verket, hvis opphavsinnehaveren er "
-"navngitt.  For mer informasjon om lisensen, klikk på ikonet over eller besøk "
-"<ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://"
-"creativecommons.org/licenses/by-nc/1.0/</ulink>"
+"Denne versjonen av Fri Kultur er lisensert med en Creative Commons-lisens.  "
+"Denne lisensen tillater ikke-kommersiell utnyttelse av verket, hvis "
+"opphavsinnehaveren er navngitt.  For mer informasjon om lisensen, klikk på "
+"ikonet over eller besøk <ulink url=\"http://creativecommons.org/licenses/by-"
+"nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
 
 #. type: Content of: <book><bookinfo><abstract><title>
 msgid "ABOUT THE AUTHOR"
@@ -1909,12 +1908,12 @@ msgid ""
 "the burden of the law&mdash;even the burden of the Byzantine complexity that "
 "copyright law has become. It was just one more expense of doing business."
 msgstr ""
-"For teknologiene til internettet dukket opp, betød ikke denne "
-"begrepsmessige sammenblandingen mye.  Teknologiene for å publisere var "
-"kostbare, som mente at det meste av publisering var kommersiell. "
-"Kommersielle aktører kunne håndtere byrden pålagt av loven&mdash;til "
-"og med byrden som den bysantiske kompleksiteten som opphavsrettsloven "
-"har blitt.  Det var bare nok en kostnad ved å drive forretning."
+"Før teknologiene til internettet dukket opp, betød ikke denne begrepsmessige "
+"sammenblandingen mye.  Teknologiene for å publisere var kostbare, som betød "
+"at det meste av publisering var kommersiell. Kommersielle aktører kunne "
+"håndtere byrden pålagt av loven&mdash;til og med byrden som den bysantiske "
+"kompleksiteten som opphavsrettsloven har blitt.  Det var bare nok en kostnad "
+"ved å drive forretning."
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 msgid "Florida, Richard"
@@ -1930,14 +1929,13 @@ msgid ""
 "also believe the conditions under which it will be enabled are much more "
 "tenuous.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"I The Rise of the Creative Class (New York: Basic Books, 2002), "
-"dokumenterer Richard Florida en endring i arbeidsstokken mot "
-"kreativitetsarbeide.  Hans tekst omhandler derimot ikke direkte de "
-"juridiske vilkår som kreativiteten blir muliggjort eller hindret "
-"under.  Jeg er helt klart enig med ham i viktigheten og betydningen av "
-"denne endringen, men jeg tror også at vilkårene som disse endringene "
-"blir aktivert under er mye vanskeligere.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"I The Rise of the Creative Class (New York: Basic Books, 2002), dokumenterer "
+"Richard Florida en endring i arbeidsstokken mot kreativitetsarbeide.  Hans "
+"tekst omhandler derimot ikke direkte de juridiske vilkår som kreativiteten "
+"blir muliggjort eller hindret under.  Jeg er helt klart enig med ham i "
+"viktigheten og betydningen av denne endringen, men jeg tror også at "
+"vilkårene som disse endringene blir aktivert under er mye vanskeligere.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1982,11 +1980,11 @@ msgid ""
 "synchronized with sound, Steamboat Willie brought to life the character that "
 "would become Mickey Mouse."
 msgstr ""
-"I 1928 ble en tegnefilmfigur født.  En tidlig Mikke Mus debuterte i "
-"mai dette året, i en stille flopp ved navn Plane Crazy.  I november, i "
-"Colony teateret i New York City, ble den første vidt distribuerte "
-"tegnefilmen med synkronisert lyd, Steamboat Willy, vist frem med "
-"figuren som skulle bli til Mikke Mus."
+"I 1928 ble en tegnefilmfigur født.  En tidlig Mikke Mus debuterte i mai "
+"dette året, i en stille flopp ved navn Plane Crazy.  I november, i Colony "
+"teateret i New York City, ble den første vidt distribuerte tegnefilmen med "
+"synkronisert lyd, Steamboat Willy, vist frem med figuren som skulle bli til "
+"Mikke Mus."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -1997,12 +1995,12 @@ msgid ""
 "of 1928, the results were unambiguous.  As Disney describes that first "
 "experiment,"
 msgstr ""
-"Film med sykronisert lyd hadde blitt introdusert et år tidligere i "
-"filmen The Jazz Singer.  Suksessen fikk Walt Disney til å kopiere "
-"teknikken og mikse lyd med tegnefilm.  Ingen visste hvorvidt det ville "
-"virke eller ikke, og om det fungere, hvorvidt publikum villa ha sans "
-"for det.  Men da Disney gjorde en test sommeren 1928, var resutlatet "
-"entydig.  Som Disney beskriver dette første eksperimentet,"
+"Film med sykronisert lyd hadde blitt introdusert et år tidligere i filmen "
+"The Jazz Singer.  Suksessen fikk Walt Disney til å kopiere teknikken og "
+"mikse lyd med tegnefilm.  Ingen visste hvorvidt det ville virke eller ikke, "
+"og om det fungere, hvorvidt publikum villa ha sans for det.  Men da Disney "
+"gjorde en test sommeren 1928, var resutlatet entydig.  Som Disney beskriver "
+"dette første eksperimentet,"
 
 #.  PAGE BREAK 35
 #. type: Content of: <book><chapter><sect1><blockquote><para>
@@ -2013,9 +2011,9 @@ msgid ""
 "going to see the picture."
 msgstr ""
 "Et par av guttene mine kunne lese noteark, og en av dem kunne spille "
-"munnspill.  Vi stappet dem inn i et rom hvor de ikke kunne se "
-"skjermen, og gorde det slik at lyden de spilte ble sendt videre til et "
-"rom hvor våre koner og venner var plassert for å se på bildet."
+"munnspill.  Vi stappet dem inn i et rom hvor de ikke kunne se skjermen, og "
+"gorde det slik at lyden de spilte ble sendt videre til et rom hvor våre "
+"koner og venner var plassert for å se på bildet."
 
 #. type: Content of: <book><chapter><sect1><blockquote><para>
 msgid ""
@@ -2024,11 +2022,10 @@ msgid ""
 "tune, the rest of us in the sound department bammed tin pans and blew slide "
 "whistles on the beat.  The synchronization was pretty close."
 msgstr ""
-"Guttene brukte et note- og lydeffekt-ark.  Etter noen dårlige "
-"oppstarter, kom endelig lyd og handlig i gang med et smell. "
-"Munnspilleren spilte melodien, og resten av oss i lydavdelingen "
-"slamret på tinnkasseroller og blåste på slide-fløyte til rytmen. "
-"Synkroniseringen var nesten helt riktig."
+"Guttene brukte et note- og lydeffekt-ark.  Etter noen dårlige oppstarter, "
+"kom endelig lyd og handlig i gang med et smell. Munnspilleren spilte "
+"melodien, og resten av oss i lydavdelingen slamret på tinnkasseroller og "
+"blåste på slide-fløyte til rytmen. Synkroniseringen var nesten helt riktig."
 
 #.  f1
 #. type: Content of: <book><chapter><sect1><blockquote><para><footnote><para>
@@ -2047,11 +2044,11 @@ msgid ""
 "again. It was terrible, but it was wonderful! And it was something new!"
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"Effekten på vårt lille publikum var intet mindre enn elektrisk.  De "
-"reagerte nesten instiktivt til denne union av lyd og bevegelse.  Jeg "
-"trodde de tullet med meg.  Så de puttet meg i publikum og satte igang "
-"på nytt.  Det var grufult, men det var fantastisk.  Og det var noe "
-"nytt!<placeholder type=\"footnote\" id=\"0\"/>"
+"Effekten på vårt lille publikum var intet mindre enn elektrisk.  De reagerte "
+"nesten instiktivt til denne union av lyd og bevegelse.  Jeg trodde de tullet "
+"med meg.  Så de puttet meg i publikum og satte igang på nytt.  Det var "
+"grufult, men det var fantastisk.  Og det var noe nytt!<placeholder type="
+"\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Iwerks, Ub"
@@ -3790,13 +3787,17 @@ msgstr ""
 "det er mange av alle politiske striper. og med blogger som ikke er politisk "
 "dekker politiske spørsmål når anledningen fortjener."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Dean, Howard"
+msgstr "Dean, Howard"
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
 "The significance of these blogs is tiny now, though not so tiny. The name "
 "Howard Dean may well have faded from the 2004 presidential race but for "
 "blogs. Yet even if the number of readers is small, the reading is having an "
-"effect."
+"effect.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "betydningen av disse bloggene er liten nå, men ikke så små. navnet howard "
 "dean kan godt har bleknet fra 2004 presidentvalget rase men for blogger. "
@@ -3812,6 +3813,10 @@ msgstr ""
 "Noah shachtman, \"med uopphørlig innlegg, en pundit stirs potten,\" new york "
 "times, 16 januar 2003, g5."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Lott, Trent"
+msgstr "Lott, Trent"
+
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "One direct effect is on stories that had a different life cycle in the "
@@ -3823,7 +3828,7 @@ msgid ""
 "the story. Over time, more and more instances of the same \"misspeaking\" "
 "emerged. Finally, the story broke back into the mainstream press. In the "
 "end, Lott was forced to resign as senate majority leader.<placeholder type="
-"\"footnote\" id=\"0\"/>"
+"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -5134,6 +5139,10 @@ msgid ""
 "owes the composer money for that performance."
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Lovett, Lyle"
+msgstr "Lovett, Lyle"
+
 #.  PAGE BREAK 72
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -5145,7 +5154,8 @@ msgid ""
 "by the Rolling Stones or Lyle Lovett. The recording artist is adding to the "
 "value of the composition performed on the radio station.  And if the law "
 "were perfectly consistent, the radio station would have to pay the recording "
-"artist for his work, just as it pays the composer of the music for his work."
+"artist for his work, just as it pays the composer of the music for his "
+"work.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "men når radiostasjonen spiller en post, det er ikke bare utføre en kopi av "
 "komponistens arbeid. radiostasjonen presterer også en kopi av den "
@@ -5170,6 +5180,10 @@ msgstr ""
 "komponisten. radiostasjonen får dermed en bit av noe for ingenting. det blir "
 "å utføre den Plateartist arbeid gratis, selv om det må betale komponisten "
 "noe for privilegiet av å spille sangen."
+
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Madonna"
+msgstr "Madonna"
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
 #, mtrans, fuzzy
@@ -5984,7 +5998,6 @@ msgstr ""
 "Fildelerne deler ulike typer innhold.  Vi kan derel disse ulike typene inn i "
 "fire typer."
 
-#.  A.
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5994,7 +6007,7 @@ msgid ""
 "takes it would actually have bought it if sharing didn't make it available "
 "for free. Most probably wouldn't have, but clearly there are some who "
 "would.  The latter are the target of category A: users who download instead "
-"of purchasing."
+"of purchasing.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Det er noen som bruker deling nettverk som erstatninger for å kjøpe innhold. "
 "Derfor, når en ny madonna cd frigis, i stedet for å kjøpe cd, disse brukerne "
@@ -8236,6 +8249,10 @@ msgstr ""
 "siterer meg, vil jeg slå deg til våre advokater.\" som assistent for herrera "
 "fortalte andre senere, \"de ikke gir faen. de vil bare penger.\""
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Day After Trinity, The"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8244,7 +8261,8 @@ msgid ""
 "reality was beyond the documentary filmmaker's budget. At the very last "
 "minute before the film was to be released, Else digitally replaced the shot "
 "with a clip from another film that he had worked on, The Day After Trinity, "
-"from ten years before.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"from ten years before.  <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "ellers har ikke penger til å kjøpe retten til å spille hva spilte på TV "
 "backstage ved san francisco opera. Hvis du vil gjenskape denne virkeligheten "
@@ -8357,7 +8375,10 @@ msgstr ""
 "dim visning av \"fair use\", og et krav om \"fair use\" kan slipe "
 "søknadsprosessen til å stoppe."
 
-#.  2.
+#. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para><indexterm><primary>
+msgid "Lucas, George"
+msgstr "Lucas, George"
+
 #. type: Content of: <book><chapter><sect1><blockquote><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -8368,7 +8389,8 @@ msgid ""
 "thinking that we would be granted free or cheap license to four seconds of "
 "Simpsons. As a documentary producer working to exhaustion on a shoestring, "
 "the last thing I wanted was to risk legal trouble, even nuisance legal "
-"trouble, and even to defend a principle."
+"trouble, and even to defend a principle.  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 msgstr ""
 "Jeg skulle trolig aldri ha spurt matt groening i utgangspunktet. men jeg "
 "visste (minst fra folklore) at fox hadde en historie for å spore ned og "
@@ -10159,7 +10181,6 @@ msgstr ""
 msgid "<graphic fileref=\"images/1331.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1331.png\"></graphic>"
 
-#.  PAGE BREAK 133
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10174,7 +10195,7 @@ msgid ""
 "willfully infringe Madonna's copyright by copying a song from her latest CD "
 "and posting it on the Web, you can be punished with a $150,000 fine. The "
 "fine is an ex post punishment for violating an ex ante rule. It is imposed "
-"by the state."
+"by the state.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "midt på dette bildet er et regulert punkt: på personen eller gruppen som er "
 "målet for regulering eller innehaveren av en rettighet. (i hvert fall i "
@@ -13449,6 +13470,10 @@ msgstr ""
 "Molly ivins, \"media konsolidering må stoppes,\" charleston gazette, 31 kan "
 "2003."
 
+#. type: Content of: <book><chapter><sect1><sect2><para><indexterm><primary>
+msgid "McCain, John"
+msgstr "McCain, John"
+
 #. type: Content of: <book><chapter><sect1><sect2><para>
 msgid ""
 "Changes in scope are the easier ones to describe. As Senator John McCain "
@@ -13458,7 +13483,8 @@ msgid ""
 "BMG, Sony Music Entertainment, Warner Music Group, and EMI control 84.8 "
 "percent of the U.S. music market.<placeholder type=\"footnote\" id=\"1\"/> "
 "The \"five largest cable companies pipe programming to 74 percent of the "
-"cable subscribers nationwide.\"<placeholder type=\"footnote\" id=\"2\"/>"
+"cable subscribers nationwide.\"<placeholder type=\"footnote\" id=\"2\"/> "
+"<placeholder type=\"indexterm\" id=\"3\"/>"
 msgstr ""
 
 #.  PAGE BREAK 174
@@ -14616,7 +14642,8 @@ msgid ""
 "a Tower Records and taking a CD off the shelf and walking out with it,\" "
 "that's true, at least in part. If, after Lyle Lovett (finally) releases a "
 "new album, rather than buying it, I go to Kazaa and find a free copy to "
-"take, that is very much like stealing a copy from Tower."
+"take, that is very much like stealing a copy from Tower.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "på samme måte når den andre siden, sier, \"fildeling er akkurat som å vandre "
 "inn i en tower records og tar en cd av sokkelen og vandre ut med det,\" som "
@@ -15372,7 +15399,7 @@ msgid ""
 "recommend music to its users. The idea behind this alternative was to "
 "leverage the revealed preferences of music listeners to recommend new "
 "artists. If you like Lyle Lovett, you're likely to enjoy Bonnie Raitt. And "
-"so on."
+"so on.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Hvis du vil gjøre dette systemet fungerer, men trengte mp3.com en pålitelig "
 "måte å anbefale musikk til sine brukere. idéen bak denne alternative var å "
@@ -18066,6 +18093,10 @@ msgstr ""
 "dag på støtning ned opphavsrett forlengelsen,\"orlando sentinel tribune, 9 "
 "oktober 2002."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Lucky Dog, The"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "Consider the story of Michael Agee, chairman of Hal Roach Studios, which "
@@ -18076,7 +18107,8 @@ msgid ""
 "the public domain. Because Agee controls the exclusive rights for these "
 "popular films, he makes a great deal of money. According to one estimate, "
 "\"Roach has sold about 60,000 videocassettes and 50,000 DVDs of the duo's "
-"silent films.\"<placeholder type=\"footnote\" id=\"0\"/>"
+"silent films.\"<placeholder type=\"footnote\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
@@ -20351,7 +20383,6 @@ msgstr ""
 "eiendommen eier, men de byrdene produserer et mye bedre system av "
 "beskyttelse for egenskapen generelt."
 
-#.  PAGE BREAK 259
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20363,7 +20394,8 @@ msgid ""
 "And like a car, there's no way to buy and sell creative property with "
 "confidence unless there is some simple way to authenticate who is the author "
 "and what rights he has. Simple transactions are destroyed in a world without "
-"formalities. Complex, expensive, lawyer transactions take their place."
+"formalities. Complex, expensive, lawyer transactions take their place.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "på samme måte er det spesielle fysikk som gjør formaliteter viktig i lov om "
 "opphavsrett. i motsetning til en snekker tabell er det ingenting i naturen "
@@ -20497,6 +20529,10 @@ msgstr ""
 "introdusere en Eldred-lov. og jeg hadde noen få som foreslo direkte at de "
 "kan være villige til å ta det første skrittet."
 
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
+msgid "Lofgren, Zoe"
+msgstr "Lofgren, Zoe"
+
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "One representative, Zoe Lofgren of California, went so far as to get the "
@@ -20504,14 +20540,16 @@ msgid ""
 "imposed the simplest requirement upon copyright owners possible. In May "
 "2003, it looked as if the bill would be introduced. On May 16, I posted on "
 "the Eldred Act blog, \"we are close.\" There was a general reaction in the "
-"blog community that something good might happen here."
+"blog community that something good might happen here.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "En representant, Zoe Lofgren fra California, gikk så langt som å få "
 "lovforslaget utarbeidet. Utkastet løste noen problemer med internasjonal "
 "lov. Det påla de enklest mulige forutsetninger på innehaverne av "
 "opphavsretter. I mai 2003 så det ut som om loven skulle være introdusert.  "
 "16. mai, postet jeg på Eldred Act-bloggen, \"vi er nære\".  Det oppstod en "
-"generell reaksjon i blogg-samfunnet om at noe godt kanne skje her."
+"generell reaksjon i blogg-samfunnet om at noe godt kunne skje her.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
