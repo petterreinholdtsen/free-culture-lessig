@@ -1902,7 +1902,6 @@ msgstr ""
 "kun publisering som ble berørt. Opphavsretten i dag regulerer begge."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Before the technologies of the Internet, this conflation didn't matter all "
 "that much. The technologies of publishing were expensive; that meant the "
@@ -1910,18 +1909,18 @@ msgid ""
 "the burden of the law&mdash;even the burden of the Byzantine complexity that "
 "copyright law has become. It was just one more expense of doing business."
 msgstr ""
-"før teknologien av Internett, gjorde ikke denne conflation saken alle så "
-"mye. teknologier i publisering var dyrt; Det betydde at det store flertallet "
-"av publisering ble kommersielt. kommersielle selskaper kunne bære byrden av "
-"loven&mdash;selv byrden av den bysantinske kompleksiteten som copyright lov "
-"har blitt. Det var bare en mer utgifter ved å gjøre forretninger."
+"For teknologiene til internettet dukket opp, betød ikke denne "
+"begrepsmessige sammenblandingen mye.  Teknologiene for å publisere var "
+"kostbare, som mente at det meste av publisering var kommersiell. "
+"Kommersielle aktører kunne håndtere byrden pålagt av loven&mdash;til "
+"og med byrden som den bysantiske kompleksiteten som opphavsrettsloven "
+"har blitt.  Det var bare nok en kostnad ved å drive forretning."
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 msgid "Florida, Richard"
 msgstr "Florida, Richard"
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "In The Rise of the Creative Class (New York: Basic Books, 2002), Richard "
 "Florida documents a shift in the nature of labor toward a labor of "
@@ -1931,12 +1930,14 @@ msgid ""
 "also believe the conditions under which it will be enabled are much more "
 "tenuous.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"i rise of creative klassen (new york: grunnleggende bøker, 2002), richard "
-"florida dokumenter et skifte i natur arbeid mot en arbeidskraft av "
-"kreativitet. hans arbeid, men adressen ikke direkte de juridiske "
-"betingelsene under at kreativiteten er aktivert eller halvkvalt. Jeg er enig "
-"med ham om betydningen og betydningen av denne endringen, men jeg tror også "
-"betingelser som funksjonen vil bli aktivert er mye vanskeligere."
+"I The Rise of the Creative Class (New York: Basic Books, 2002), "
+"dokumenterer Richard Florida en endring i arbeidsstokken mot "
+"kreativitetsarbeide.  Hans tekst omhandler derimot ikke direkte de "
+"juridiske vilkår som kreativiteten blir muliggjort eller hindret "
+"under.  Jeg er helt klart enig med ham i viktigheten og betydningen av "
+"denne endringen, men jeg tror også at vilkårene som disse endringene "
+"blir aktivert under er mye vanskeligere.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
