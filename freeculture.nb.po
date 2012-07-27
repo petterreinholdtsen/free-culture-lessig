@@ -11962,13 +11962,13 @@ msgstr ""
 "diagrammet på neste side)."
 
 #. type: Content of: <book><chapter><sect1><sect2><para>
-#, mtrans, fuzzy
 msgid ""
 "Finally, there is a tiny sliver of otherwise regulated copying uses that "
 "remain unregulated because the law considers these \"fair uses.\""
 msgstr ""
-"Endelig er det en liten sliver i regulert Ellers kopierer bruker som forblir "
-"unregulated fordi loven vurderer disse \"rimelig bruk\"."
+"Til slutt er det en tynn skive av ellers regulert kopierings-bruk "
+"som forblir uregluert på grunn av at loven anser dette som \"rimelig "
+"bruk\".
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid ""
@@ -12003,7 +12003,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid "Unregulated copying considered &quot;fair uses.&quot;"
-msgstr ""
+msgstr "Uregulert kopiering anses som &quot;rimelig bruk&quot;."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure>
 msgid "<graphic fileref=\"images/1542.png\"></graphic>"
