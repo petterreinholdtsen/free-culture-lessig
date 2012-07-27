@@ -17097,7 +17097,6 @@ msgstr ""
 
 #.  PAGE BREAK 219
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet policy makers are not willing to leave this fire to itself. Primed with "
 "plenty of lobbyists' money, they are keen to intervene to eliminate the "
@@ -17105,12 +17104,12 @@ msgid ""
 "this culture faces. For while we watch this small fire in the corner, there "
 "is a massive change in the way culture is made that is happening all around."
 msgstr ""
-"beslutningstakere er ennå ikke villige til å forlate denne brann til seg "
-"selv. primed med masse lobbyister penger, er de opptatt av å intervenere for "
-"å eliminere problemet de oppfatter. men problemet de oppfatter er ikke den "
-"virkelige trusselen denne kulturen står overfor. for mens vi se denne liten "
-"brann i hjørnet, det er massiv gjøres en endring i måten kultur som skjer "
-"rundt."
+"Likevel er ikke besluttningstagere villig til å la denne brannen i "
+"fred.  Ladet med masse penger fra lobbyister er de lystne på å gå i "
+"mellom for å fjerne problemet slik de oppfatter det.  Men problemet slik de "
+"oppfatter det er ikke den reelle trusselen som denne kulturen står med "
+"ansiktet mot.  For mens vi ser på denne lille brannen i hjørnet er det "
+"en massiv endring i hvordan kultur blir skapt som pågår over alt. "
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
