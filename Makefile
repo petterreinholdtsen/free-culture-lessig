@@ -19,7 +19,7 @@ DBLATEX = dblatex \
 
 DBTOEPUB = dbtoepub
 
-all: lint lint.nb epub pdf
+all: lint lint.nb html epub pdf
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -57,9 +57,9 @@ progress.png: stats.txt progress.gnuplot
 	gnuplot progress.gnuplot
 	rm stats.csv
 
-# Disabled --postvalid, as it fail to handle xref with xrefstyle.
+# Have to disable --postvalid, when using xref with xrefstyle.
 # See <URL: http://bugs.debian.org/682944 > for the bug report.
-XMLLINTOPTS = --nonet --noout  --xinclude # --postvalid 
+XMLLINTOPTS = --nonet --noout  --xinclude --postvalid 
 lint: freeculture.xml
 	xmllint $(XMLLINTOPTS) freeculture.xml
 
