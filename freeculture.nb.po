@@ -2355,15 +2355,15 @@ msgstr ""
 "sfæren presumptive bare for innhold fra før den store depresjonen."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Of course, Walt Disney had no monopoly on \"Walt Disney creativity.\" Nor "
 "does America. The norm of free culture has, until recently, and except "
 "within totalitarian nations, been broadly exploited and quite universal."
 msgstr ""
-"Selvfølgelig, walt disney hadde ingen monopol på \"walt disney kreativitet."
-"\" heller ikke Amerika. norm for fri kultur har, inntil nylig, og unntatt i "
-"totalitære nasjoner, vært forstand utnyttede og ganske universell."
+"Walt Disney hadde selvfølgelig ikke monopol på \"Walt "
+"Disney-kreativitet\".  Det har heller ikke USA.  Normen med fri kultur "
+"har, inntil nylig, og unntatt i totalitære nasjoner, vært bredt "
+"utnyttet og svært universell."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
