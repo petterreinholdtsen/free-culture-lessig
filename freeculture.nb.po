@@ -11968,7 +11968,7 @@ msgid ""
 msgstr ""
 "Til slutt er det en tynn skive av ellers regulert kopierings-bruk "
 "som forblir uregluert på grunn av at loven anser dette som \"rimelig "
-"bruk\".
+"bruk\"."
 
 #. type: Content of: <book><chapter><sect1><sect2><figure><title>
 msgid ""
