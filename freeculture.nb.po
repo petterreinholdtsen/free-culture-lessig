@@ -2315,7 +2315,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "At the end of a copyright term, a work passes into the public domain.  No "
 "permission is then needed to draw upon or use that work. No permission and, "
@@ -2324,13 +2323,14 @@ msgid ""
 "build upon in 1928. It was free for anyone&mdash; whether connected or not, "
 "whether rich or not, whether approved or not&mdash;to use and build upon."
 msgstr ""
-"på slutten av en opphavsrett sikt sender et arbeid i public domain. Ingen "
-"tillatelse kreves for deretter å trekke på, eller bruke som fungerer. Ingen "
-"tillatelse og derfor ingen jurister. public domain er en \"advokat-free zone."
-"\" dermed, det meste av innholdet fra det nittende århundre var gratis for "
-"disney du bruker, og bygger på i 1928. Det var gratis for alle&mdash;enten "
-"tilkoblet eller ikke, om det er rik eller ikke, om godkjente eller "
-"ikke&mdash;hvis du vil bruke, og bygge på."
+"Når opphavsrettens vernetid er over, faller et verk i det fri og blir "
+"allemannseie.  Ingen tillatelse trengs da for å bygge på eller bruke "
+"dette verket.  Ingen tillatelse og dermed, ingen advokater. "
+"Allemannseie er en \"advokat-fri sone\".  Det meste av innhold fra det "
+"nittende århundre var dermed fritt tilgjengelig for Disney å bruke "
+"eller bygge på i 1928.  Det var tilgjengelig for enhver&mdash;uansett "
+"om de hadde forbindelser eller ikke, om de var rik eller ikke, om de "
+"var akseptert eller ikke&mdash;til å bruke og bygge videre på."
 
 #.  PAGE BREAK 38
 #. type: Content of: <book><chapter><sect1><para>
