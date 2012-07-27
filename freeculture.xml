@@ -101,10 +101,7 @@ Code: And Other Laws of Cyberspace
 
 <!-- PAGE BREAK 4 -->
 <para>
-THE PENGUIN PRESS
-</para>
-<para>
-NEW YORK
+THE PENGUIN PRESS, NEW YORK
 </para>
 
 <!-- PAGE BREAK 5 -->
@@ -124,17 +121,11 @@ LAWRENCE LESSIG
 
 <!-- PAGE BREAK 6 -->
 <para>
-THE PENGUIN PRESS
-</para>
-<para>
-a member of Penguin Group (USA) Inc.  375 Hudson Street New
+THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street New
 York, New York
 </para>
 <para>
-Copyright &copy; Lawrence Lessig,
-</para>
-<para>
-All rights reserved
+Copyright &copy; Lawrence Lessig.  All rights reserved.
 </para>
 <para>
 Excerpt from an editorial titled "The Coming of Copyright Perpetuity,"
@@ -142,16 +133,11 @@ The New York Times, January 16, 2003. Copyright &copy; 2003 by The New
 York Times Co.  Reprinted with permission.
 </para>
 <para>
-Cartoon by Paul Conrad on page
-<xref xrefstyle="select: pagenumber" linkend="fig-1711"/> (<xref
-linkend="fig-1711"/>). Copyright Tribune Media Services, Inc.
+Cartoon in <xref linkend="fig-1711"/> by Paul Conrad, copyright Tribune
+Media Services, Inc.  All rights reserved. Reprinted with permission.
 </para>
 <para>
-All rights reserved. Reprinted with permission.
-</para>
-<para>
-Diagram on page <xref xrefstyle="select: pagenumber" linkend="fig-1761"/>
-(<xref linkend="fig-1761"/>) courtesy of the office of FCC
+Diagram in <xref linkend="fig-1761"/> courtesy of the office of FCC
 Commissioner, Michael J. Copps.
 </para>
 <para>
@@ -8703,17 +8689,14 @@ which they will be able to access digital media and the equipment
 that they will require to do so. Poor choices made this early in the
 game will retard the growth of this market, hurting everyone's
 interests.<footnote><para>
-<!-- f3. --> WIPO and the DMCA One Year Later: Assessing Consumer Access to
-Digital Entertainment on the Internet and Other Media: Hearing Before
-the Subcommittee on Telecommunications, Trade, and Consumer 
-		Protection,
-House Committee on Commerce, 106th Cong. 29 (1999) (statement
-of Peter Harter, vice president, Global Public Policy and Standards, 
-		EMusic.com),
-available in LEXIS, Federal Document Clearing House 
-		Congressional
-Testimony File.
-</para></footnote>
+<!-- f3. -->
+WIPO and the DMCA One Year Later: Assessing Consumer Access to Digital
+Entertainment on the Internet and Other Media: Hearing Before the
+Subcommittee on Telecommunications, Trade, and Consumer Protection,
+House Committee on Commerce, 106th Cong. 29 (1999) (statement of Peter
+Harter, vice president, Global Public Policy and Standards,
+EMusic.com), available in LEXIS, Federal Document Clearing House
+Congressional Testimony File.  </para></footnote>
 </para>
 </blockquote>
 <!-- PAGE BREAK 191 -->
@@ -8721,11 +8704,12 @@ Testimony File.
 In April 2001, eMusic.com was purchased by Vivendi Universal,
 one of "the major labels." Its position on these matters has now
 changed.
+<indexterm><primary>Vivendi Universal</primary></indexterm>
 </para>
 <para>
 Reversing our tradition of tolerance now will not merely quash
-piracy. It will sacrifice values that are important to this culture, and will
-kill opportunities that could be extraordinarily valuable.
+piracy. It will sacrifice values that are important to this culture,
+and will kill opportunities that could be extraordinarily valuable.
 </para>
 
 <!-- PAGE BREAK 192 -->
@@ -9070,6 +9054,9 @@ had a copy of the CD they wanted to access. So while this was 50,000
 copies, it was 50,000 copies directed at giving customers something
 they had already bought.
 </para>
+<indexterm id="idxvivendiuniversal" class='startofrange'>
+  <primary>Vivendi Universal</primary>
+</indexterm>
 <para>
 Nine days after MP3.com launched its service, the five major labels,
 headed by the RIAA, brought a lawsuit against MP3.com. MP3.com settled
@@ -9104,6 +9091,7 @@ industry directs its guns against them. It is also you. So those of
 you who believe the law should be less restrictive should realize that
 such a view of the law will cost you and your firm dearly.
 </para>
+<indexterm startref="idxvivendiuniversal" class='endofrange'/>
 <indexterm><primary>Hummer, John</primary></indexterm>
 <indexterm><primary>Barry, Hank</primary></indexterm>
 <para>
@@ -9112,27 +9100,25 @@ Universal and EMI brought a lawsuit against Hummer Winblad, the
 venture capital firm (VC) that had funded Napster at a certain stage of
 its development, its cofounder ( John Hummer), and general partner
 (Hank Barry).<footnote><para>
-<!-- f4. --> See Joseph Menn, "Universal, EMI Sue Napster Investor," Los Angeles
-Times, 23 April 2003. For a parallel argument about the effects on 
-		innovation
-in the distribution of music, see Janelle Brown, "The Music 
-		Revolution
-Will Not Be Digitized," Salon.com, 1 June 2001, available at 
-<ulink url="http://free-culture.cc/notes/">link #42</ulink>.
+<!-- f4. -->
+See Joseph Menn, "Universal, EMI Sue Napster Investor," Los Angeles
+Times, 23 April 2003. For a parallel argument about the effects on
+innovation in the distribution of music, see Janelle Brown, "The Music
+Revolution Will Not Be Digitized," Salon.com, 1 June 2001, available
+at <ulink url="http://free-culture.cc/notes/">link #42</ulink>.
 See also Jon Healey, "Online Music Services Besieged," Los Angeles
 Times, 28 May 2001.
 </para></footnote>
- The claim here, as well, was that the VC should have
-recognized the right of the content industry to control how the 
-		industry
-should develop. They should be held personally liable for funding a
-company whose business turned out to be beyond the law. Here again,
-the aim of the lawsuit is transparent: Any VC now recognizes that if
-you fund a company whose business is not approved of by the dinosaurs,
-you are at risk not just in the marketplace, but in the courtroom as well.
-Your investment buys you not only a company, it also buys you a lawsuit.
-So extreme has the environment become that even car manufacturers
-are afraid of technologies that touch content. In an article in Business
+The claim here, as well, was that the VC should have recognized the
+right of the content industry to control how the industry should
+develop. They should be held personally liable for funding a company
+whose business turned out to be beyond the law. Here again, the aim of
+the lawsuit is transparent: Any VC now recognizes that if you fund a
+company whose business is not approved of by the dinosaurs, you are at
+risk not just in the marketplace, but in the courtroom as well.  Your
+investment buys you not only a company, it also buys you a lawsuit.
+So extreme has the environment become that even car manufacturers are
+afraid of technologies that touch content. In an article in Business
 2.0, Rafe Needleman describes a discussion with BMW:
 </para>
 <blockquote>
@@ -13642,6 +13628,7 @@ available at
 If we make veterans suffer that burden, I don't see why we couldn't
 require authors to spend ten minutes every fifty years to file a
 single form.
+<indexterm><primary>veterans' pensions</primary></indexterm>
 </para></listitem>
 <listitem><para>
 <!-- (4) -->
