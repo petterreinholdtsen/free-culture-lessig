@@ -2500,16 +2500,12 @@ msgstr "Winick, Judd"
 
 #.  f5
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "For an excellent history, see Scott McCloud, Reinventing Comics (New "
-#| "York: Perennial, 2000)."
 msgid ""
 "For an excellent history, see Scott McCloud, <citetitle>Reinventing Comics</"
 "citetitle> (New York: Perennial, 2000)."
 msgstr ""
-"For en utmerket historie, se Scott McCloud, Reinventing Comics (New York: "
-"Perennial, 2000)."
+"For en utmerket historie, se Scott McCloud, <citetitle>Reinventing Comics</"
+"citetitle> (New York: Perennial, 2000)."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
