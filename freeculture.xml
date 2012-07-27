@@ -138,17 +138,21 @@ All rights reserved
 </para>
 <para>
 Excerpt from an editorial titled "The Coming of Copyright Perpetuity,"
-The New York Times, January 16, 2003. Copyright &copy; 2003 by The New York Times Co.
-Reprinted with permission.
+The New York Times, January 16, 2003. Copyright &copy; 2003 by The New
+York Times Co.  Reprinted with permission.
 </para>
 <para>
-Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc.
+Cartoon by Paul Conrad on page
+<xref xrefstyle="select: pagenumber" linkend="fig-1711"/> (<xref
+linkend="fig-1711"/>). Copyright Tribune Media Services, Inc.
 </para>
 <para>
 All rights reserved. Reprinted with permission.
 </para>
 <para>
-Diagram on page 164 courtesy of the office of FCC Commissioner, Michael J. Copps.
+Diagram on page <xref xrefstyle="select: pagenumber" linkend="fig-1761"/>
+(<xref linkend="fig-1761"/>) courtesy of the office of FCC
+Commissioner, Michael J. Copps.
 </para>
 <para>
 Library of Congress Cataloging-in-Publication Data
@@ -7660,7 +7664,7 @@ and bad uses.
 <para>
 The obvious point of Conrad's cartoon is the weirdness of a world
 where guns are legal, despite the harm they can do, while VCRs (and
-circumvention technologies) are illegal. Flash: No  one ever died from
+circumvention technologies) are illegal. Flash: No one ever died from
 copyright circumvention. Yet the law bans circumvention technologies
 absolutely, despite the potential that they might do some good, but
 permits guns, despite the obvious and tragic harm they do.
