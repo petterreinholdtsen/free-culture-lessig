@@ -2250,7 +2250,6 @@ msgstr ""
 "blandingen inn i sjelen til sin kultur. Hente, blande og brenne."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "This is a kind of creativity. It is a creativity that we should remember and "
 "celebrate. There are some who would say that there is no creativity except "
@@ -2260,12 +2259,14 @@ msgid ""
 "of expression and genius that builds upon the culture around us and makes it "
 "something different."
 msgstr ""
-"Dette er en slags kreativitet. Det er en kreativitet som vi bør huske og "
-"feire. Det er noen som vil si at det er ingen kreativitet bortsett fra denne "
-"typen. Vi trenger ikke å gå så langt å anerkjenne sin betydning. Vi kan "
-"kalle denne \"disney kreativitet,\" selv om det ville være litt misvisende. "
-"Det er mer presist, \"walt disney kreativitet\"&mdash;en form for uttrykk og "
-"geni som bygger på kultur rundt oss, og som gjør det noe annet."
+"Dette er en type kreativitet.  Det er en kreativitet som vi bør huske "
+"på og feire.  Det er noen som vil si at det finnes ingen kreativitet "
+"bortsett fra denne typen.  Vi trenger ikke gå så langt for å "
+"anerkjenne dens betydning.  Vi kan kalle dette "
+"\"Disney-kreativitet\", selv om det vil være litt misvisende.  Det er "
+"mer presist \"Walt Disney-kreativitet\"&mdash;en uttrykksform og "
+"genialitet som bygger på kulturen rundt oss og omformer den til noe "
+"annet."
 
 #.  f4
 #. type: Content of: <book><chapter><sect1><para><footnote><para>
