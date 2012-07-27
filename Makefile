@@ -57,8 +57,11 @@ progress.png: stats.txt progress.gnuplot
 	gnuplot progress.gnuplot
 	rm stats.csv
 
+# Disabled --postvalid, as it fail to handle xref with xrefstyle.
+# See <URL: http://bugs.debian.org/682944 > for the bug report.
+XMLLINTOPTS = --nonet --noout  --xinclude # --postvalid 
 lint: freeculture.xml
-	xmllint --nonet --noout --postvalid --xinclude freeculture.xml
+	xmllint $(XMLLINTOPTS) freeculture.xml
 
 lint.nb: freeculture.nb.xml
-	xmllint --nonet --noout --postvalid --xinclude freeculture.nb.xml
+	xmllint  $(XMLLINTOPTS) freeculture.nb.xml
