@@ -17080,7 +17080,6 @@ msgstr ""
 "vil straks sette fyr på alt i omgivelsene."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "A war about copyright rages all around&mdash;and we're all focusing on the "
 "wrong thing. No doubt, current technologies threaten existing businesses.  "
@@ -17089,11 +17088,12 @@ msgid ""
 "themselves against the current threats of the Internet. This is a fire that "
 "if let alone would burn itself out."
 msgstr ""
-"en krig om opphavsrett rages rundt&mdash; og vi alle fokuserer på feil. "
-"ingen tvil, truer aktuell teknologi eksisterende virksomheter. de kan uten "
-"tvil True kunstnere. men teknologier endre. næringen og Teknologorganisasjon "
-"har masse av veier å bruke teknologi for å beskytte seg mot gjeldende "
-"trusler på Internett. Dette er en brann at hvis enn si ville brenne seg."
+"En krig om opphavsrett pågår over alt&mdash; og vi fokuserer alle på "
+"feil ting.  Det er ingen tvil om at dagens teknologier truer "
+"eksisterende virksomheter.  Uten tvil kan de true artister.  Men "
+"teknologier endrer seg.  Industrien og teknologer har en rekke måter å "
+"bruke teknologi til å beskytte dem selv mot dagens trusler på "
+"Internet.  Dette er en brann som overlatt til seg selv vil brenne ut."
 
 #.  PAGE BREAK 219
 #. type: Content of: <book><chapter><para>
@@ -17112,41 +17112,40 @@ msgstr ""
 "en massiv endring i hvordan kultur blir skapt som pågår over alt. "
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Somehow we have to find a way to turn attention to this more important and "
 "fundamental issue. Somehow we have to find a way to avoid pouring gasoline "
 "onto this fire."
 msgstr ""
-"noe har vi å finne en måte å slå oppmerksomhet til dette mer viktig og "
-"grunnleggende problemet. noe har vi å finne en måte å unngå pouring bensin "
-"bort på denne brann."
+"På en eller annen måte må vi klare å snu oppmerksomheten mot dette "
+"mer viktige og fundametale problemet.  Vi må finne en måte å unngå å "
+"helle bensin på denne brannen."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We have not found that way yet. Instead, we seem trapped in a simpler, "
 "binary view. However much many people push to frame this debate more "
 "broadly, it is the simple, binary view that remains. We rubberneck to look "
 "at the fire when we should be keeping our eyes on the road."
 msgstr ""
-"Vi har ikke funnet den måten ennå. i stedet synes vi fanget i en enklere, "
-"binære visning. men mye mange folk skyve for å ramme denne debatten mer "
-"forstand, det er den enkle, binære visningen som gjenstår. Vi rubberneck for "
-"å se på ilden når vi skal holde våre øyne på veien."
+"Vi har ikke funne denne måten ennå.  Istedet synes vi å være fanget i "
+"en enklere og sort-hvit tenkning.  Uansett hvor mange folk som presser "
+"på for å gjøre rammen for debatten litt bredere, er det dette enkle "
+"sort-hvit-synet som består.  Vi kjører sakte forbi og stirrer på "
+"brannen når vi i stedet burde holde øynene på veien."
 
 #. type: Content of: <book><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This challenge has been my life these last few years. It has also been my "
 "failure. In the two chapters that follow, I describe one small brace of "
 "efforts, so far failed, to find a way to refocus this debate. We must "
 "understand these failures if we're to understand what success will require."
 msgstr ""
-"denne utfordringen har vært livet disse siste årene. Det har også vært min "
-"feil. i to kapitlene som følger, beskriver jeg en liten klammeparentes av "
-"innsats, så langt ikke klart, å finne en måte å refokusere denne debatten. "
-"Hvis vi å forstå hva suksess vil kreve, må vi forstå disse feil."
+"Denne utfordringen har vært livet mitt de siste årene.  Det har også "
+"vært min falitt.  I de to neste kapittlene, beskriver jeg en liten "
+"innsats, så langt uten suksess, på å finne en måte å endre fokus på "
+"denne debatten.  Vi må forstå disse mislyktede forsøkene hvis vi skal "
+"forstå hva som kreves for å lykkes."
 
 #. type: Content of: <book><chapter><sect1><title>
 msgid "CHAPTER THIRTEEN: Eldred"
