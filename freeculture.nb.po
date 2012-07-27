@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-27 10:16+0300\n"
+"POT-Creation-Date: 2012-07-27 11:04+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -143,12 +143,8 @@ msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><colophon><para>
-msgid "THE PENGUIN PRESS"
-msgstr "The Penguin Press"
-
-#. type: Content of: <book><colophon><para>
-msgid "NEW YORK"
-msgstr "New York"
+msgid "THE PENGUIN PRESS, NEW YORK"
+msgstr "The Penguin Press, New York"
 
 #. type: Content of: <book><colophon><para>
 msgid "FREE CULTURE"
@@ -160,16 +156,13 @@ msgstr "Lawrence Lessig"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"a member of Penguin Group (USA) Inc.  375 Hudson Street New York, New York"
+"THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street "
+"New York, New York"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-msgid "Copyright &copy; Lawrence Lessig,"
-msgstr "Opphavsrettbeskyttet &copy; Lawrence Lessig,"
-
-#. type: Content of: <book><colophon><para>
-msgid "All rights reserved"
-msgstr "Alle rettigheter reservert"
+msgid "Copyright &copy; Lawrence Lessig.  All rights reserved."
+msgstr "Opphavsrettbeskyttet &copy; Lawrence Lessig.  Alle rettigheter reservert."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -180,24 +173,14 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"Cartoon by Paul Conrad on page <xref xrefstyle=\"select: pagenumber\" "
-"linkend=\"fig-1711\"/> (<xref linkend=\"fig-1711\"/>). Copyright Tribune "
-"Media Services, Inc."
-msgstr ""
-"Tegningen på side <xref xrefstyle=\"select: pagenumber\" "
-"linkend=\"fig-1711\"/> (<xref linkend=\"fig-1711\"/>) "
-"er laget av Paul Conrad og opphavsrettighetene tilhører Tribune "
-"Media Services, Inc."
-
-#. type: Content of: <book><colophon><para>
-msgid "All rights reserved. Reprinted with permission."
+"Cartoon in <xref linkend=\"fig-1711\"/> by Paul Conrad, copyright Tribune "
+"Media Services, Inc.  All rights reserved. Reprinted with permission."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"Diagram on page <xref xrefstyle=\"select: pagenumber\" linkend=\"fig-1761\"/"
-"> (<xref linkend=\"fig-1761\"/>) courtesy of the office of FCC Commissioner, "
-"Michael J. Copps."
+"Diagram in <xref linkend=\"fig-1761\"/> courtesy of the office of FCC "
+"Commissioner, Michael J. Copps."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
@@ -14897,11 +14880,16 @@ msgid ""
 "everyone's interests.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+msgid "Vivendi Universal"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
 msgid ""
 "In April 2001, eMusic.com was purchased by Vivendi Universal, one of \"the "
-"major labels.\" Its position on these matters has now changed."
+"major labels.\" Its position on these matters has now changed.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "i april 2001, ble emusic.com kjøpt av vivendi universal, en av \"den store "
 "etiketter.\" posisjonen på disse sakene er nå endret."
@@ -17075,7 +17063,7 @@ msgstr ""
 "Så her er bildet: Du står på siden av veien. Bilen din er på brann. Du er "
 "sint og opprørt fordi du delvis bidro til å starte brannen. Nå vet du ikke "
 "hvordan du slokker den.  Ved siden av deg er en bøtte, fylt med bensin. "
-"bensin vil selvfølgelig ikke slukke brannen."
+"Bensin vil åpenbart ikke slukke brannen."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -17088,8 +17076,8 @@ msgstr ""
 "Mens du tenker over situasjonen, kommer noen andre forbi.  I panikk griper "
 "hun bøtta, og før du har hatt sjansen til å be henne stoppe&mdash;eller før "
 "hun forstår hvorfor hun bør stoppe&mdash;er bøtten i svevet.  Bensinen er på "
-"tur mot den brennende bilen.  Og brannen som bensinen vil tenne vil straks "
-"sette fyr på alt i omgivelsene."
+"tur mot den brennende bilen.  Og brannen som bensinen kommer til å fyre opp "
+"vil straks sette fyr på alt i omgivelsene."
 
 #. type: Content of: <book><chapter><para>
 #, mtrans, fuzzy
@@ -23539,6 +23527,10 @@ msgstr ""
 "or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), tilgjengelig fra "
 "<ulink url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 
+#. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para><indexterm><primary>
+msgid "veterans' pensions"
+msgstr ""
+
 #. type: Content of: <book><chapter><sect1><sect2><orderedlist><listitem><para>
 msgid ""
 "Keep it alive: Copyright should have to be renewed.  Especially if the "
@@ -23548,7 +23540,8 @@ msgid ""
 "granted for free. On average, it takes ninety minutes for a veteran to apply "
 "for a pension.<placeholder type=\"footnote\" id=\"0\"/> If we make veterans "
 "suffer that burden, I don't see why we couldn't require authors to spend ten "
-"minutes every fifty years to file a single form."
+"minutes every fifty years to file a single form.  <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  (4)
