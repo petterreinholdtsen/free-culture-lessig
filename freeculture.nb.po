@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-28 13:25+0300\n"
+"POT-Creation-Date: 2012-07-28 23:28+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3792,7 +3792,8 @@ msgid ""
 "16."
 msgstr ""
 "Se for eksempel Alexis de Tocqueville, <citetitle>Democracy in America</"
-"citetitle>, bk. 1, overs.  Henry Reeve (New York: Bantam Books, 2000), kap. 16."
+"citetitle>, bk. 1, overs.  Henry Reeve (New York: Bantam Books, 2000), kap. "
+"16."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9949,7 +9950,7 @@ msgstr ""
 msgid "Universal Pictures"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Warner Brothers"
 msgstr ""
 
@@ -12623,18 +12624,27 @@ msgstr ""
 "boken ti dager. til slutt, jeg har tillatelse til å bruke lese høyt knapp "
 "for å høre middlemarch lest høyt gjennom datamaskinen."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Aristotle"
+msgstr "Aristoteles"
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "<citetitle>Politics</citetitle>, (Aristotle)"
+msgstr "<citetitle>Politikk</citetitle>, (Aristotles)"
+
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Here's the e-book for another work in the public domain (including the "
-"translation): Aristotle's <citetitle>Politics</citetitle>."
+"translation): Aristotle's <citetitle>Politics</citetitle>.  <placeholder "
+"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"Her er e-bok for et annet arbeid i den offentlige sfæren (inkludert "
-"oversettelse): Aristoteles politikk."
+"Her er e-boken for et annet allemannseid verk (inkludert "
+"oversettelsen): Aristoteles <citetitle>Politikk</citetitle>  <placeholder "
+"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "E-book of Aristotle;s &quot;Politics&quot;"
-msgstr ""
+msgstr "E-bok av Aristoteles &quot;Politikk&quot;"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1621.png\"></graphic>"
