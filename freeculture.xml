@@ -794,6 +794,7 @@ This rough divide between the free and the controlled has now
 been erased.<footnote><para>
 See Jessica Litman, <citetitle>Digital Copyright</citetitle> (New York: Prometheus Books,
 2001), ch. 13.
+<indexterm><primary>Litman, Jessica</primary></indexterm>
 </para></footnote>
 The Internet has set the stage for this erasure and, pushed by big
 media, the law has now affected it. For the first time in our
@@ -4373,6 +4374,7 @@ as a way to make it easier for the Crown to control what was
 published.  But after it expired, there was no positive law that said
 that the publishers, or "Stationers," had an exclusive right to print
 books.
+<indexterm><primary>Licensing Act (1662)</primary></indexterm>
 </para>
 <para>
 There was no <emphasis>positive</emphasis> law, but that didn't mean
@@ -7116,6 +7118,9 @@ tradition embraced, who said whether and how the law would restrict
 your freedom.
 </para>
 <indexterm><primary>Casablanca</primary></indexterm>
+<indexterm id="idxmarxbrothers" class='startofrange'>
+  <primary>Marx Brothers</primary>
+</indexterm>
 <para>
 There's a famous story about a battle between the Marx Brothers
 and Warner Brothers. The Marxes intended to make a parody of
@@ -7147,16 +7152,16 @@ silly claim. This extremism was irrelevant to the real freedoms anyone
 (including Warner Brothers) enjoyed.
 </para>
 <para>
-On the Internet, however, there is no check on silly rules, because
-on the Internet, increasingly, rules are enforced not by a human but by
-a machine: Increasingly, the rules of copyright law, as interpreted by
-the copyright owner, get built into the technology that delivers 
-		copyrighted
-content. It is code, rather than law, that rules. And the problem
-with code regulations is that, unlike law, code has no shame. Code
-would not get the humor of the Marx Brothers. The consequence of
-that is not at all funny.
+On the Internet, however, there is no check on silly rules, because on
+the Internet, increasingly, rules are enforced not by a human but by a
+machine: Increasingly, the rules of copyright law, as interpreted by
+the copyright owner, get built into the technology that delivers
+copyrighted content. It is code, rather than law, that rules. And the
+problem with code regulations is that, unlike law, code has no
+shame. Code would not get the humor of the Marx Brothers. The
+consequence of that is not at all funny.
 </para>
+<indexterm startref="idxmarxbrothers" class='endofrange'/>
 <para>
 Consider the life of my Adobe eBook Reader.
 </para>
@@ -7222,7 +7227,8 @@ the book.
 </figure>
 <para>
 Finally (and most embarrassingly), here are the permissions for the
-original e-book version of my last book, <citetitle>The Future of Ideas</citetitle>:
+original e-book version of my last book, <citetitle>The Future of
+Ideas</citetitle>:
 </para>
 <!-- PAGE BREAK 162 -->
 <figure id="fig-1631">
@@ -7233,26 +7239,26 @@ original e-book version of my last book, <citetitle>The Future of Ideas</citetit
 No copying, no printing, and don't you dare try to listen to this book!
 </para>
 <para>
-Now, the Adobe eBook Reader calls these controls "permissions"&mdash;
-as if the publisher has the power to control how you use these works.
-For works under copyright, the copyright owner certainly does have
-the power&mdash;up to the limits of the copyright law. But for work not 
-		under
-copyright, there is no such copyright power.<footnote><para>
+Now, the Adobe eBook Reader calls these controls
+"permissions"&mdash; as if the publisher has the power to control how
+you use these works.  For works under copyright, the copyright owner
+certainly does have the power&mdash;up to the limits of the copyright
+law. But for work not under copyright, there is no such copyright
+power.<footnote><para>
 <!-- f21 -->
-In principle, a contract might impose a requirement on me. I might, for
-example, buy a book from you that includes a contract that says I will read
-it only three times, or that I promise to read it three times. But that 
-		obligation
-(and the limits for creating that obligation) would come from the
-contract, not from copyright law, and the obligations of contract would
-not necessarily pass to anyone who subsequently acquired the book.
+In principle, a contract might impose a requirement on me. I might,
+for example, buy a book from you that includes a contract that says I
+will read it only three times, or that I promise to read it three
+times. But that obligation (and the limits for creating that
+obligation) would come from the contract, not from copyright law, and
+the obligations of contract would not necessarily pass to anyone who
+subsequently acquired the book.
 </para></footnote>
-When my e-book of <citetitle>Middlemarch</citetitle> says I have the permission to
-copy only ten text selections into the memory every ten days, what
-that really means is that the eBook Reader has enabled the publisher
-to control how I use the book on my computer, far beyond the control
-that the law would enable.
+When my e-book of <citetitle>Middlemarch</citetitle> says I have the
+permission to copy only ten text selections into the memory every ten
+days, what that really means is that the eBook Reader has enabled the
+publisher to control how I use the book on my computer, far beyond the
+control that the law would enable.
 </para>
 <para>
 The control comes instead from the code&mdash;from the technology
@@ -7277,6 +7283,7 @@ These are <emphasis>controls</emphasis>, not permissions. Imagine a
 world where the Marx Brothers sold word processing software that, when
 you tried to type "Warner Brothers," erased "Brothers" from the
 sentence.
+<indexterm><primary>Marx Brothers</primary></indexterm>
 </para>
 <para>
 This is the future of copyright law: not so much copyright
@@ -7289,23 +7296,22 @@ built into the technology have no similar built-in check.
 </para>
 <para>
 How significant is this? Isn't it always possible to get around the
-controls built into the technology? Software used to be sold with 
-		technologies
-that limited the ability of users to copy the software, but those
-were trivial protections to defeat. Why won't it be trivial to defeat these
-protections as well?
+controls built into the technology? Software used to be sold with
+technologies that limited the ability of users to copy the software,
+but those were trivial protections to defeat. Why won't it be trivial
+to defeat these protections as well?
 </para>
 <para>
 We've only scratched the surface of this story. Return to the Adobe
 eBook Reader.
 </para>
 <para>
-Early in the life of the Adobe eBook Reader, Adobe suffered a 
-		public
-relations nightmare. Among the books that you could download for
-free on the Adobe site was a copy of <citetitle>Alice's Adventures in Wonderland</citetitle>.
-This wonderful book is in the public domain. Yet when you clicked on
-Permissions for that book, you got the following report:
+Early in the life of the Adobe eBook Reader, Adobe suffered a public
+relations nightmare. Among the books that you could download for free
+on the Adobe site was a copy of <citetitle>Alice's Adventures in
+Wonderland</citetitle>.  This wonderful book is in the public
+domain. Yet when you clicked on Permissions for that book, you got the
+following report:
 </para>
 <figure id="fig-1641">
 <title>List of the permissions for &quot;Alice's Adventures in
@@ -9266,6 +9272,7 @@ regulation, and subject to important qualifications outlined by Jessica
 Litman in her book <citetitle>Digital Copyright</citetitle>,<footnote><para>
 <!-- f9. --> Jessica Litman, <citetitle>Digital Copyright</citetitle> (Amherst, N.Y.: Prometheus Books,
 2001).
+<indexterm><primary>Litman, Jessica</primary></indexterm>
 </para></footnote>
  overall this history of copyright
 is not bad. As chapter 10 details, when new technologies have come
