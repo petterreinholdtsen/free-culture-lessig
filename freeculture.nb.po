@@ -2416,7 +2416,6 @@ msgstr ""
 
 #.  PAGE BREAK 39
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This is the phenomenon of <citetitle>doujinshi</citetitle>. Doujinshi are "
 "also comics, but they are a kind of copycat comic. A rich ethic governs the "
@@ -2431,17 +2430,19 @@ msgid ""
 "doujinshi for inclusion within shows and reject any copycat comic that is "
 "merely a copy."
 msgstr ""
-"Dette er fenomenet doujinshi. doujinshi er også tegneserier, men de er en "
-"slags copycat tegneserie. en rik ethic styrer opprettingen av doujinshi. Det "
-"er ikke doujinshi Hvis det er bare en kopi; kunstneren må gi et bidrag til "
-"kunst som han overfører, gjøre det subtly eller betydelig. en doujinshi "
-"tegneserie kan dermed ta en mainstream tegneserie og utvikle den "
-"annerledes&mdash;med en annen historie-linje. eller tegneserier kan holde "
-"tegnet i karakter, men endre sitt utseende litt. Det er ingen formel for det "
-"som gjør doujinshi tilstrekkelig \"annerledes.\", men de må være "
-"forskjellige hvis de skal anses som sann doujinshi. Det er faktisk komiteer "
-"som gjennomgå doujinshi for inkludering i viser og avvise enhver copycat "
-"tegneserie som er bare en kopi."
+"Dette er fenomenet <citetitle>doujinshi</citetitle>.  Doujinshi er "
+"også tegneserier, men de er slags etterapings-tegneserier.  En rik "
+"etikk styrer de som skaper doujinshi.  Det er ikke doujinshi hvis det "
+"<emphasis>bare</emphasis> er en kopi.  Kunstneren må gjøre et bidrag "
+"til kunsten han kopierer ved å omforme det entet subtilt eller "
+"betydelig.  En doujinshi-tegneserie kan dermed ta en "
+"massemarkeds-tegneserie og utvikle den i en annen retning&mdash;med en "
+"annen historie-linje.  Eller tegneserien kan beholde figuren som seg "
+"selv men endre litt på utseendet.  Det er ingen bestemt formel for "
+"hva som gjør en doujinshi tilstrekkelig \"forskjellig\".  Men de må "
+"være forskjellige hvis de skal anses som ekte doujinshi.  Det er "
+"faktisk komiteer som går igjennom doujinshi for å bli med på messer, "
+"og avviser etterapninger som bare er en kopi."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
