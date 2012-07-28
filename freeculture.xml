@@ -7121,6 +7121,9 @@ your freedom.
 <indexterm id="idxmarxbrothers" class='startofrange'>
   <primary>Marx Brothers</primary>
 </indexterm>
+<indexterm id="idxwarnerbrothers" class='startofrange'>
+  <primary>Warner Brothers</primary>
+</indexterm>
 <para>
 There's a famous story about a battle between the Marx Brothers
 and Warner Brothers. The Marxes intended to make a parody of
@@ -7161,6 +7164,7 @@ problem with code regulations is that, unlike law, code has no
 shame. Code would not get the humor of the Marx Brothers. The
 consequence of that is not at all funny.
 </para>
+<indexterm startref="idxwarnerbrothers" class='endofrange'/>
 <indexterm startref="idxmarxbrothers" class='endofrange'/>
 <para>
 Consider the life of my Adobe eBook Reader.
