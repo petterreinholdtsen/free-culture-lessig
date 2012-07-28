@@ -13803,37 +13803,34 @@ msgstr "<graphic fileref=\"images/1761.png\"></graphic>"
 
 #.  PAGE BREAK 175
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Does this concentration matter? Will it affect what is made, or what is "
 "distributed? Or is it merely a more efficient way to produce and distribute "
 "content?"
 msgstr ""
-"har denne konsentrasjonen saken? vil det påvirke hva er gjort, eller hva er "
-"distribuert? eller er det bare en mer effektiv måte å produsere og "
-"distribuere innhold?"
+"Betyr denne konsentrasjonen noe?  Påvirker det hva som blir laget, "
+"eller hva som blir distribuert?  Eller er det bare en mer effektiv "
+"måte å produsere og distribuere innhold?"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "My view was that concentration wouldn't matter. I thought it was nothing "
 "more than a more efficient financial structure. But now, after reading and "
 "listening to a barrage of creators try to convince me to the contrary, I am "
 "beginning to change my mind."
 msgstr ""
-"Jeg var at konsentrasjon ikke ville saken. Jeg trodde det var ingenting mer "
-"enn en mer effektive økonomiske strukturen. men nå, etter at lese og lytte "
-"til en barrage av skaperne prøver å overbevise meg om det motsatte, jeg "
-"begynner å endre meg sinn."
+"Mitt syn var at konsentrasjonen ikke betød noe.  Jeg tenkte det ikke "
+"var noe mer enn en mer effektiv finansiell struktur.  Men nå, etter å "
+"ha lest og hørt på en haug av skapere prøve å overbevise meg om det "
+"motsatte, har jeg begynt å endre mening."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Here's a representative story that begins to suggest how this integration "
 "may matter."
 msgstr ""
-"Her er en representant historie som begynner å foreslå hvordan denne "
-"integreringen kan saken."
+"Her er en representativ historie som kan foreslå hvorfor denne "
+"integreringen er viktig."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Lear, Norman"
@@ -13844,7 +13841,6 @@ msgid "All in the Family"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In 1969, Norman Lear created a pilot for <citetitle>All in the Family</"
 "citetitle>. He took the pilot to ABC. The network didn't like it. It was too "
@@ -13852,11 +13848,12 @@ msgid ""
 "than the first. ABC was exasperated. You're missing the point, they told "
 "Lear.  We wanted less edgy, not more."
 msgstr ""
-"i 1969, norman lear opprettet en pilot for alle i familien. Han tok piloten "
-"til abc. nettverket liker ikke det. Det var også irritabel, fortalte de "
-"lear. gjøre det igjen. Lear gjort en andre pilot, mer irritabel enn først. "
-"ABC var exasperated. du mangler punktet, fortalte de lear. Vi ønsket mindre "
-"irritabel, ikke mer."
+"I 1969 laget Norman Lear en polit for <citetitle>All in the "
+"Family</citetitle>.  Han tok piloten til ABC, og nettverket likte det "
+"ikke.  Da sa til Lear at det var for på kanten.  Gjør det om igjen. "
+"Lear lagde piloten på nytt, mer på kanten enn den første.  ABC ble fra "
+"seg.  Du får ikke med deg poenget, fortalte de Lear.  Vi vil ha det "
+"mindre på kanten, ikke mer."
 
 #.  f29
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13876,6 +13873,11 @@ msgid ""
 "Lear held assured an independence from network control.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"I stedet for å føye seg, to Lear ganske enkelt serien sin til noen "
+"andre.  CBS var glad for å ha seriene, og ABC kunne ikke stoppe Lear "
+"fra å gå til andre.  Opphavsretten som Lear hadde sikret uavhengighet "
+"fra nettverk-kontroll.<placeholder type="
+"\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 176
 #. type: Content of: <book><part><chapter><section><para>
