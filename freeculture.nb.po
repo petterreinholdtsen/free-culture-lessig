@@ -21216,22 +21216,16 @@ msgstr ""
 
 #.  f4.
 #. type: Content of: <book><part><partintro><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "International Intellectual Property Institute (IIPI), Patent Protection "
-#| "and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, a Report "
-#| "Prepared for the World Intellectual Property Organization (Washington, D."
-#| "C., 2000), 15."
 msgid ""
 "International Intellectual Property Institute (IIPI), <citetitle>Patent "
 "Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, a "
 "Report Prepared for the World Intellectual Property Organization</citetitle> "
 "(Washington, D.C., 2000), 15."
 msgstr ""
-"International Intellectual Property Institute (IIPI), Patent Protection and "
-"Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, en rapport "
-"forberedt for the World Intellectual Property Organization (Washington, D."
-"C., 2000), 15."
+"International Intellectual Property Institute (IIPI), <citetitle>Patent "
+"Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, en "
+"rapport forberedt for the World Intellectual Property Organization</citetitle> "
+"(Washington, D.C., 2000), 15."
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -23730,31 +23724,25 @@ msgid "2. Shorter Terms"
 msgstr "2. Kortere vernetid"
 
 #. type: Content of: <book><part><partintro><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The term of copyright has gone from fourteen years to ninety-five years for "
 "corporate authors, and life of the author plus seventy years for natural "
 "authors."
 msgstr ""
-"begrepet av opphavsrett har gått fra fjorten år til ninety-fem år for "
-"corporate forfattere og livet forfatter pluss sytti år for naturlig "
-"forfattere."
+"Vernetiden i opphavsretten har gått fra fjorten år til nittifem år "
+"der selskap har forfatterskapet , og livstiden til forfatteren pluss "
+"sytti år for individuelle forfattere."
 
 #.  f3.
 #. type: Content of: <book><part><partintro><section><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "\"A Radical Rethink,\" Economist, 366:8308 (25 January 2003): 15, "
-#| "available at <ulink url=\"http://free-culture.cc/notes/\">link #74</"
-#| "ulink>."
 msgid ""
 "\"A Radical Rethink,\" <citetitle>Economist</citetitle>, 366:8308 (25 "
 "January 2003): 15, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #74</ulink>."
 msgstr ""
-"\"A Radical Rethink,\" Economist, 366:8308 (25. januar 2003): 15, "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #74</"
-"ulink>."
+"\"A Radical Rethink,\" <citetitle>Economist</citetitle>, 366:8308 (25. "
+"januar 2003): 15, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #74</ulink>."
 
 #. type: Content of: <book><part><partintro><section><section><para>
 msgid ""
@@ -23940,16 +23928,12 @@ msgstr ""
 
 #.  f5.
 #. type: Content of: <book><part><partintro><section><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Benjamin Kaplan, An Unhurried View of Copyright (New York: Columbia "
-#| "University Press, 1967), 32."
 msgid ""
 "Benjamin Kaplan, <citetitle>An Unhurried View of Copyright</citetitle> (New "
 "York: Columbia University Press, 1967), 32."
 msgstr ""
-"Benjamin Kaplan, An Unhurried View of Copyright (New York: Columbia "
-"University Press, 1967), 32."
+"Benjamin Kaplan, <citetitle>An Unhurried View of Copyright</citetitle> (New "
+"York: Columbia University Press, 1967), 32."
 
 #. type: Content of: <book><part><partintro><section><section><para>
 msgid ""
@@ -24054,19 +24038,14 @@ msgid "Goldstein, Paul"
 msgstr "Goldstein, Paul"
 
 #. type: Content of: <book><part><partintro><section><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial "
-#| "Jukebox (Stanford: Stanford University Press, 2003), 187&ndash;216.  "
-#| "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgid ""
 "Paul Goldstein, <citetitle>Copyright's Highway: From Gutenberg to the "
 "Celestial Jukebox</citetitle> (Stanford: Stanford University Press, 2003), "
 "187&ndash;216.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Paul Goldstein, Copyright's Highway: From Gutenberg to the Celestial Jukebox "
-"(Stanford: Stanford University Press, 2003), 187&ndash;216.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Paul Goldstein, <citetitle>Copyright's Highway: From Gutenberg to the "
+"Celestial Jukebox</citetitle> (Stanford: Stanford University Press, 2003), "
+"187&ndash;216.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><partintro><section><section><para>
 msgid ""
@@ -24844,17 +24823,14 @@ msgstr ""
 
 #.  f10.
 #. type: Content of: <book><part><partintro><section><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
-#| "Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069&ndash;70."
 msgid ""
 "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
 "Memorial Lecture), <citetitle>UCLA Law Review</citetitle> 48 (2001): 1057, "
 "1069&ndash;70."
 msgstr ""
 "Lawrence Lessig, \"Copyright's First Amendment\" (Melville B. Nimmer "
-"Memorial Lecture), UCLA law Review 48 (2001): 1057, 1069&ndash;70."
+"Memorial Lecture), <citetitle>UCLA law Review</citetitle> 48 (2001): 1057, "
+"1069&ndash;70."
 
 #. type: Content of: <book><part><partintro><section><section><para>
 msgid ""
@@ -24887,23 +24863,6 @@ msgstr ""
 "om vår manglende evne til å faktisk ta inn over oss hva loven koster."
 
 #. type: Content of: <book><part><partintro><section><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "A good example is the work of Professor Stan Liebowitz. Liebowitz is to "
-#| "be commended for his careful review of data about infringement, leading "
-#| "him to question his own publicly stated position&mdash;twice. He "
-#| "initially predicted that downloading would substantially harm the "
-#| "industry. He then revised his view in light of the data, and he has since "
-#| "revised his view again.  Compare Stan J. Liebowitz, Rethinking the "
-#| "Network Economy: The True Forces That Drive the Digital Marketplace (New "
-#| "York: Amacom, 2002), (reviewing his original view but expressing "
-#| "skepticism) with Stan J.  Liebowitz, \"Will MP3s Annihilate the Record "
-#| "Industry?\" working paper, June 2003, available at <ulink url=\"http://"
-#| "free-culture.cc/notes/\">link #86</ulink>.  Liebowitz's careful analysis "
-#| "is extremely valuable in estimating the effect of file-sharing "
-#| "technology. In my view, however, he underestimates the costs of the legal "
-#| "system. See, for example, Rethinking, 174&ndash;76.  <placeholder type="
-#| "\"indexterm\" id=\"0\"/>"
 msgid ""
 "A good example is the work of Professor Stan Liebowitz. Liebowitz is to be "
 "commended for his careful review of data about infringement, leading him to "
@@ -24926,15 +24885,15 @@ msgstr ""
 "å stille spørsmål med sin egen uttalte posisjon&mdash;to ganger.  I starten "
 "predicated han at nedlasting ville påføre industrien vesentlig skade.  Han "
 "endret så sitt syn etter i lys av dataene, og han har siden endret sitt syn "
-"på nytt.  Sammenlign Stan J. Liebowitz, Rethinking the Network Economy: The "
-"True Forces That Drive the Digital Marketplace (New York: Amacom, 2002), "
+"på nytt.  Sammenlign Stan J. Liebowitz, <citetitle>Rethinking the Network Economy: The "
+"True Forces That Drive the Digital Marketplace</citetitle> (New York: Amacom, 2002), "
 "(gikk igjennom hans originale syn men uttrykte skepsis) med Stan J.  "
 "Liebowitz, \"Will MP3s Annihilate the Record Industry?\" artikkelutkast, "
 "juni 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
 "\">link #86</ulink>.  Den nøye analysen til Liebowitz er ekstremt verdifull "
 "i sin estimering av effekten av fildelingsteknologi.  Etter mitt syn "
 "underestimerer han forøvrig kostnaden til det juridiske system.  Se, for "
-"eksempel, Rethinking, 174&ndash;76.  <placeholder type=\"indexterm\" id="
+"eksempel, <citetitle>Rethinking</citetitle>, 174&ndash;76.  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 
 #. type: Content of: <book><part><partintro><section><section><para>
