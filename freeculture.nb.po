@@ -2952,13 +2952,12 @@ msgid "Coe, Brian"
 msgstr "Coe, Brian"
 
 #. type: Content of: <book><part><chapter><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Brian Coe, <citetitle>The Birth of Photography</citetitle> (New York: "
 "Taplinger Publishing, 1977), 53.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Brian coe, fødselen av fotografering (new york: taplinger publiserer, 1977), "
-"53."
+"Brian Coe, <citetitle>The Birth of Photography</citetitle> (New York: "
+"Taplinger Publishing, 1977), 53.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -2999,7 +2998,6 @@ msgstr ""
 
 #.  f5
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Coe, 58."
 msgstr "Coe, 58."
 
@@ -3086,14 +3084,14 @@ msgid "Warren, Samuel D."
 msgstr "Warren, Samuel D."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Samuel D. Warren and Louis D. Brandeis, \"The Right to Privacy,\" "
 "<citetitle>Harvard Law Review</citetitle> 4 (1890): 193.  <placeholder type="
 "\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"Samuel d. warren og louis d. brandeis, \"rett til personvern,\" harvard law "
-"gå gjennom 4 (1890): 193."
+"Samuel D. Warren and Louis D. Brandeis, \"The Right to Privacy,\" "
+"<citetitle>Harvard Law Review</citetitle> 4 (1890): 193.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3426,13 +3424,12 @@ msgstr ""
 "språket, og resten av oss er redusert til å være skrivebeskyttet."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"Read-only.\" Passive recipients of culture produced elsewhere.  Couch "
 "potatoes. Consumers. This is the world of media from the twentieth century."
 msgstr ""
-"\"lese-bare.\" passiv mottakerne av kultur produsert andre steder. Couch "
-"Poteter. forbrukere. Dette er verden av medier fra det tjuende århundre."
+"\"Skrivebeskyttet.\" Passive mottakerne av kultur produsert andre steder. "
+"Sofapoteter. Forbrukere. Dette er medieverden fra det tjuende århundre."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -3789,14 +3786,13 @@ msgstr ""
 
 #.  f15
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See, for example, Alexis de Tocqueville, <citetitle>Democracy in America</"
 "citetitle>, bk. 1, trans.  Henry Reeve (New York: Bantam Books, 2000), ch. "
 "16."
 msgstr ""
-"Se for eksempel alexis de tocqueville, demokrati i Amerika, bk. 1, trans. "
-"Henry reeve (new york: bantam books, 2000), ch. 16."
+"Se for eksempel Alexis de Tocqueville, <citetitle>Democracy in America</"
+"citetitle>, bk. 1, overs.  Henry Reeve (New York: Bantam Books, 2000), kap. 16."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
