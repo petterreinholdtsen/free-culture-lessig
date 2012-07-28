@@ -2169,6 +2169,16 @@ msgid ""
 "inspired by the song \"Steamboat Bill,\" that we get Steamboat Willie, and "
 "then from Steamboat Willie, Mickey Mouse."
 msgstr ""
+"<citetitle>Steamboat Bill, Jr</citetitle>. kom før Disneys tegnefilm "
+"Steamboat Willie.  Det er ingen tilfeldighet at titlene er så like. "
+"Steamboat Willie er en direkte tegneserieparodi av Steamboat "
+"Bill,<placeholder type=\"footnote\" id=\"0\"/> og begge bygger på en "
+"felles sang som kilde.  Det er ikke kun fra nyskapningen med "
+"synkronisert lyd i <citetitle>The Jazz Singer</citetitle> at vi får "
+"<citetitle>Steamboat Willie</citetitle>.  Det er også fra Buster "
+"Keatons nyskapning Steamboat Bill, Jr., som igjen var inspirert av "
+"sangen \"Steamboat Bill\", at vi får Steamboat Willie.  Og fra "
+"Steamboat Willie får vi så Mikke Mus."
 
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
