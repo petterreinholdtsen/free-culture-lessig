@@ -1033,9 +1033,9 @@ to which most of us remain oblivious.
 </para>
 </chapter>
 <!-- PAGE BREAK 29 -->
-<chapter id="c-piracy">
+<part id="c-piracy">
 <title>"PIRACY"</title>
-
+<partintro>
 <!-- PAGE BREAK 30 -->
 <indexterm id="idxmansfield1" class='startofrange'>
   <primary>Mansfield, William Murray, Lord</primary>
@@ -1195,9 +1195,10 @@ These burdens make no sense in our tradition. We should begin by
 understanding that tradition a bit more and by placing in their proper
 context the current battles about behavior labeled "piracy."
 </para>
+</partintro>
 
 <!-- PAGE BREAK 34 -->
-<section id="creators">
+<chapter id="creators">
 <title>CHAPTER ONE: Creators</title>
 <para>
 In 1928, a cartoon character was born. An early Mickey Mouse
@@ -1650,8 +1651,8 @@ free culture. It is becoming much less so.
 </para>
 
 <!-- PAGE BREAK 44 -->
-</section>
-<section id="mere-copyists">
+</chapter>
+<chapter id="mere-copyists">
 <title>CHAPTER TWO: "Mere Copyists"</title>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <para>
@@ -2511,8 +2512,8 @@ the law to close down that technology.
 chapter 9, quipped to me in a rare moment of despondence.
 </para>
 <!-- PAGE BREAK 61 -->
-</section>
-<section id="catalogs">
+</chapter>
+<chapter id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <para>
 In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
@@ -2726,8 +2727,8 @@ pick on him. But he wants to let people know that they're sending the
 wrong message. And he wants to correct the record."
 </para>
 <!-- PAGE BREAK 66 -->
-</section>
-<section id="pirates">
+</chapter>
+<chapter id="pirates">
 <title>CHAPTER FOUR: "Pirates"</title>
 <para>
 If "piracy" means using the creative property of others without
@@ -3232,8 +3233,8 @@ last. Every generation&mdash;until now.
 </para>
 <!-- PAGE BREAK 75 -->
 </section>
-</section>
-<section id="piracy">
+</chapter>
+<chapter id="piracy">
 <title>CHAPTER FIVE: "Piracy"</title>
 <para>
 There is piracy of copyrighted material. Lots of it. This piracy comes
@@ -4216,10 +4217,11 @@ it should be protected just as any other property is protected."
 </para>
 <!-- PAGE BREAK 93 -->
 </section>
-</section>
 </chapter>
-<chapter id="c-property">
+</part>
+<part id="c-property">
 <title>"PROPERTY"</title>
+<partintro>
 <para>
 
 <!-- PAGE BREAK 94 -->
@@ -4293,9 +4295,10 @@ statement&mdash;"copyright material is property"&mdash; will be a bit
 more clear, and its implications will be revealed as quite different
 from the implications that the copyright warriors would have us draw.
 </para>
+</partintro>
 
 <!-- PAGE BREAK 96 -->
-<section id="founders">
+<chapter id="founders">
 <title>CHAPTER SIX: Founders</title>
 <para>
 William Shakespeare wrote <citetitle>Romeo and Juliet</citetitle> in 1595. The play
@@ -4793,8 +4796,8 @@ world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
 <!-- PAGE BREAK 106 -->
-</section>
-<section id="recorders">
+</chapter>
+<chapter id="recorders">
 <title>CHAPTER SEVEN: Recorders</title>
 <para>
 Jon Else is a filmmaker. He is best known for his documentaries and
@@ -4990,8 +4993,8 @@ matured into a sword that interferes with any use, transformative or
 not.
 </para>
 <!-- PAGE BREAK 111 -->
-</section>
-<section id="transformers">
+</chapter>
+<chapter id="transformers">
 <title>CHAPTER EIGHT: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
 <indexterm><primary>Alben, Alex</primary></indexterm>
@@ -5347,8 +5350,8 @@ process is a process of paying lawyers&mdash;again a privilege, or perhaps a
 curse, reserved for the few.
 </para>
 <!-- PAGE BREAK 119 -->
-</section>
-<section id="collectors">
+</chapter>
+<chapter id="collectors">
 <title>CHAPTER NINE: Collectors</title>
 <para>
 In April 1996, millions of "bots"&mdash;computer codes designed to
@@ -5676,8 +5679,8 @@ someone's "property." And the law of property restricts the freedoms
 that Kahle and others would exercise.
 </para>
 <!-- PAGE BREAK 127 -->
-</section>
-<section id="property-i">
+</chapter>
+<chapter id="property-i">
 <title>CHAPTER TEN: "Property"</title>
 <para>
 Jack Valenti has been the president of the Motion Picture Association
@@ -8411,13 +8414,13 @@ lawyer.
 </para>
 <!-- PAGE BREAK 185 -->
 </section>
-</section>
 </chapter>
-<chapter id="c-puzzles">
+</part>
+<part id="c-puzzles">
 <title>PUZZLES</title>
-<para></para>
+
 <!-- PAGE BREAK 186 -->
-<section id="chimera">
+<chapter id="chimera">
 <title>CHAPTER ELEVEN: Chimera</title>
 <indexterm id="idxchimera" class='startofrange'>
   <primary>chimeras</primary>
@@ -8696,8 +8699,8 @@ and will kill opportunities that could be extraordinarily valuable.
 </para>
 
 <!-- PAGE BREAK 192 -->
-</section>
-<section id="harms">
+</chapter>
+<chapter id="harms">
 <title>CHAPTER TWELVE: Harms</title>
 <para>
 
@@ -10009,10 +10012,11 @@ effort through our democracy to change our law?
 
 <!-- PAGE BREAK 217 -->
 </section>
-</section>
 </chapter>
-<chapter id="c-balances">
+</part>
+<part id="c-balances">
 <title>BALANCES</title>
+<partintro>
 
 <!-- PAGE BREAK 218 -->
 <para>
@@ -10064,9 +10068,10 @@ brace of efforts, so far failed, to find a way to refocus this
 debate. We must understand these failures if we're to understand what
 success will require.
 </para>
+</partintro>
 
 <!-- PAGE BREAK 220 -->
-<section id="eldred">
+<chapter id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
 <para>
 In 1995, a father was frustrated that his daughters didn't seem to
@@ -11704,8 +11709,8 @@ fathered, the Supreme Court effectively renounced that commitment. A
 better lawyer would have made them see differently.
 </para>
 <!-- PAGE BREAK 254 -->
-</section>
-<section id="eldred-ii">
+</chapter>
+<chapter id="eldred-ii">
 <title>CHAPTER FOURTEEN: Eldred II</title>
 <para>
 The day <citetitle>Eldred</citetitle> was decided, fate would have it that I was to travel to
@@ -12093,10 +12098,11 @@ owner and gain permission to build upon his work. The future will be
 controlled by this dead (and often unfindable) hand of the past.
 </para>
 <!-- PAGE BREAK 264 -->
-</section>
 </chapter>
-<chapter id="c-conclusion">
+</part>
+<part id="c-conclusion">
 <title>CONCLUSION</title>
+<partintro>
 <para>
 There are more than 35 million people with the AIDS virus
 worldwide. Twenty-five million of them live in sub-Saharan Africa.
@@ -12812,9 +12818,12 @@ potential is ever to be realized.
 <!-- PAGE BREAK 279 -->
 
 </para>
-</chapter>
-<chapter id="c-afterword">
+</partintro>
+<chapter><title></title><para></para></chapter>
+</part>
+<part id="c-afterword">
 <title>AFTERWORD</title>
+<partintro>
 <para>
 
 <!-- PAGE BREAK 280 -->
@@ -14292,7 +14301,9 @@ keep your lawyers away.
 <!-- PAGE BREAK 312 -->
 </section>
 </section>
-</chapter>
+</partintro>
+<chapter><title></title><para></para></chapter>
+</part>
 <chapter id="c-notes">
 <title>NOTES</title>
 <para>
