@@ -2333,6 +2333,14 @@ msgid ""
 "see the Web site associated with this book, available at <ulink url=\"http://"
 "free-culture.cc/notes/\">link #6</ulink>."
 msgstr ""
+"Inntil 1976 ga opphavsrettsloven en forfatter to mulige verneperioder: "
+"en initiell periode, og en fornyingsperiode.  Jeg har beregnet "
+"\"gjennomsnittelig\" vernetid ved å finne vektet gjennomsnitt av de "
+"totale registreringer for et gitt år, og andelen fornyinger.  Hvis 100 "
+"opphavsretter ble registrert i år 1, bare 15 av dem ble fornyet, og "
+"fornyingsvernetiden er 28 år, så er gjennomsnittelig vernetid 32,2 år. "
+"Fornyingsdata og andre relevante data ligger på nettsidene tilknyttet "
+"denne boka, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #6</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2628,7 +2636,6 @@ msgstr ""
 "\"gratis tar\" av doujinshi kultur?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I spent four wonderful months in Japan, and I asked this question as often "
 "as I could. Perhaps the best account in the end was offered by a friend from "
@@ -2636,11 +2643,11 @@ msgid ""
 "afternoon. There \"just aren't enough resources to prosecute cases like this."
 "\""
 msgstr ""
-"Jeg tilbrakte fire fantastiske måneder i japan, og jeg spurt dette "
-"spørsmålet så ofte som jeg kunne. kanskje ble den beste kontoen til slutt "
-"tilbudt av en venn fra en større japansk advokatfirma. \"vi ikke har nok "
-"advokater,\" han fortalte meg en ettermiddag. det \"bare ikke er nok "
-"ressurser til å tiltale tilfeller som dette.\""
+"Jeg var fire nydelige måner i Japan, og jeg stillte dette spørsmål så "
+"ofte som jeg kunne.  Kanskje det beste svaret til slutt kom fra en "
+"venn i et større japansk advokatfirma. \"Vi har ikke nok advokater\", "
+"fortalte han meg en ettermiddag.  Det er \"bare ikke nok ressurser til "
+"å tiltale tilfeller som dette\"."
 
 #.  PAGE BREAK 41
 #. type: Content of: <book><part><chapter><para>
@@ -2667,15 +2674,14 @@ msgstr ""
 "en pause for et øyeblikk."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "If you're like I was a decade ago, or like most people are when they first "
 "start thinking about these issues, then just about now you should be puzzled "
 "about something you hadn't thought through before."
 msgstr ""
-"Hvis du er som jeg var et tiår siden, eller som folk flest er når de først "
-"begynne å tenke disse problemene, bør så bare om nå du være rådvill om noe "
-"du ikke hadde tenkt gjennom før."
+"Hvis du er som meg et tiår tilbake, eller som folk flest når de først "
+"begynner å tenke på disse temaene, da bør du omtrent nå være rådvill "
+"om noe du ikke hadde tenkt igjennom før."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Vaidhyanathan, Siva"
@@ -2728,17 +2734,17 @@ msgstr ""
 
 #.  PAGE BREAK 42
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Thus, even though the things that Disney took&mdash;or more generally, the "
 "things taken by anyone exercising Walt Disney creativity&mdash;are valuable, "
 "our tradition does not treat those takings as wrong. Some things remain free "
 "for the taking within a free culture, and that freedom is good."
 msgstr ""
-"Således, selv om tingene som disney tok&mdash; eller mer generelt, tingene "
-"som er tatt av noen utøve walt disney kreativitet&mdash;er verdifull, vår "
-"tradisjon ikke behandler disse takings som feil. noen ting fortsatt være "
-"gratis for å ta innenfor en fri kultur, og at frihet er bra."
+"Dermed, selv om de tingene som Disney tok&mdash;eller mer generellt, "
+"tingene som blir tatt av enhver som utøver Walt "
+"Disney-kreativitet&mdash;er verdifulle, så anser ikke vår tradisjon "
+"det som galt å ta disse tingene.  Noen ting forblir frie til å bli "
+"tatt i en fri kultur og denne friheten er bra."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
