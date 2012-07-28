@@ -4,6 +4,7 @@ Ordbok
 Se også http://i18n.skulelinux.no/nb/Fellesordl.eng-no.html
 
 public domain = allemannseie, uten opphavsrettslig vern ?
-property = eiendomsrett / eiendom / eierrettigheter ?
+property = eiendel / eiendomsrett / eiendom / eierrettigheter ?
 fair use = rimelig bruk
 copyright = kopirett / copyright / opphavsrett?
+intellectual property = immaterielle eiendeler / immaterielle rettigheter
