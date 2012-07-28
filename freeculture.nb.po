@@ -2334,7 +2334,6 @@ msgstr ""
 
 #.  PAGE BREAK 38
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "This is the ways things always were&mdash;until quite recently. For most of "
 "our history, the public domain was just over the horizon. From until 1978, "
@@ -2345,14 +2344,16 @@ msgid ""
 "Walt Disney to build upon without permission. Yet today, the public domain "
 "is presumptive only for content from before the Great Depression."
 msgstr ""
-"Dette er hvordan ting var alltid&mdash;inntil ganske nylig. for de fleste av "
-"vår historie var public domain litt over horisonten. fra 1978 var "
-"gjennomsnittlig opphavsrett begrepet aldri mer enn tretti-to år, noe som "
-"betyr at de fleste kultur bare generasjon og et halvt gamle var gratis for "
-"alle å bygge på uten tillatelse fra noen andre. dagens tilsvarende ville "
-"være til kreativt arbeid fra 1960- og 1970-tallet til nå være gratis for "
-"neste walt disney å bygge på uten tillatelse. ennå i dag, er den offentlige "
-"sfæren presumptive bare for innhold fra før den store depresjonen."
+"Dette er slik det alltid har vært&mdash;inntil ganske nylig.  For "
+"mesteparten av vår historie, har allemannseiet vært like over "
+"horisonten.  Fram til 1978 var den gjennomsnittelige opphavsrettslige "
+"vernetiden aldri mer enn trettito år, som gjorde at det meste av "
+"kultur fra en og en halv generasjon tidligere var tilgjengelig for "
+"enhver å bygge på uten tillatelse fra noen.  Tilsvarende for i dag "
+"ville være at kreative verker fra 1960- ot 1970-tallet nå ville være "
+"fritt tilgjengelig for de neste Walt Disney å bygge på uten "
+"tillatelse.  Men i dag er allemannseie presumtivt kun for innhold fra "
+"før mellomkrigstiden."
 
 #. type: Content of: <book><chapter><sect1><para>
 msgid ""
@@ -2366,7 +2367,6 @@ msgstr ""
 "utnyttet og svært universell."
 
 #. type: Content of: <book><chapter><sect1><para>
-#, mtrans, fuzzy
 msgid ""
 "Consider, for example, a form of creativity that seems strange to many "
 "Americans but that is inescapable within Japanese culture: <citetitle>manga</"
@@ -2376,13 +2376,15 @@ msgid ""
 "magazine stand, carried by a large proportion of commuters on Japan's "
 "extraordinary system of public transportation."
 msgstr ""
-"Tenk deg for eksempel en form av kreativitet som synes underlig for mange "
-"amerikanere, men det er uunngåelig i japansk kultur: manga, eller "
-"tegneserier. Japansk er fanatikere om tegneserier. noen 40 prosent av "
-"publikasjoner er tegneserier, og 30 prosent av publikasjonen inntekter "
-"kommer fra tegneserier. de er overalt i japanske samfunnet, på hver "
-"magasinet stå båret av en stor andel av pendlere på Japans ekstraordinære "
-"systemet av offentlig transport."
+"Vurder for eksempel en form for kreativitet som synes underlig for "
+"mange amerikanere, men som er overalt i japansk kultur: "
+"<citetitle>manga</citetitle>, eller tegneserier.  Japanerne er "
+"fanatiske når det gjelder tegneserier.  Over 40 prosent av "
+"publikasjoner er tegneserier, og 30 prosent av publikasjonsomsetningen "
+"stammer fra tegneserier.  De er over alt i det japanske samfunnet, "
+"tilgjengelig fra ethver tidsskriftsutsalg, og i hendene på en stor "
+"andel av pendlere på Japans ekstraordinære system for offentlig "
+"transport."
 
 #. type: Content of: <book><chapter><sect1><para>
 #, mtrans, fuzzy
