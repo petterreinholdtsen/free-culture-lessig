@@ -2424,7 +2424,7 @@ msgid ""
 "perspective is quite familiar."
 msgstr ""
 "Men mitt formål her er ikke å forstå manga.  Det er a beskrive en variant av "
-"manga som fra en avokats perspektiv er ganske merkelig, men som fra en "
+"manga som fra en advokats perspektiv er ganske merkelig, men som fra en "
 "Disneys perspektiv er ganske godt kjent."
 
 #.  PAGE BREAK 39
