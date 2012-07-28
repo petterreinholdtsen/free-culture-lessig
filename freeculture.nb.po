@@ -2926,16 +2926,12 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Reese V. Jenkins, Images and Enterprise (Baltimore: Johns Hopkins "
-#| "University Press, 1975), 112."
 msgid ""
 "Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: "
 "Johns Hopkins University Press, 1975), 112."
 msgstr ""
-"Reese V. Jenkins, Images and Enterprise (Baltimore: Johns Hopkins University "
-"Press, 1975), 112."
+"Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: "
+"Johns Hopkins University Press, 1975), 112."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3816,16 +3812,12 @@ msgstr ""
 
 #.  f16
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Bruce Ackerman and James Fishkin, \"Deliberation Day,\" Journal of "
-#| "Political Philosophy 10 (2) (2002): 129."
 msgid ""
 "Bruce Ackerman and James Fishkin, \"Deliberation Day,\" <citetitle>Journal "
 "of Political Philosophy</citetitle> 10 (2) (2002): 129."
 msgstr ""
-"Bruce Ackerman and James Fishkin, \"Deliberation Day,\" Journal of Political "
-"Philosophy 10 (2) (2002): 129."
+"Bruce Ackerman and James Fishkin, \"Deliberation Day,\" <citetitle>Journal "
+"of Political Philosophy</citetitle> 10 (2) (2002): 129."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3839,16 +3831,12 @@ msgstr ""
 
 #.  f17
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Cass Sunstein, Republic.com (Princeton: Princeton University Press, "
-#| "2001), 65&ndash;80, 175, 182, 183, 192."
 msgid ""
 "Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton "
 "University Press, 2001), 65&ndash;80, 175, 182, 183, 192."
 msgstr ""
-"Cass Sunstein, Republic.com (Princeton: Princeton University Press, 2001), "
-"65&ndash;80, 175, 182, 183, 192."
+"Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton "
+"University Press, 2001), 65&ndash;80, 175, 182, 183, 192."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4564,19 +4552,14 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
-#| "Alleges $97.8 Billion in Damages,\" Professional Media Group LCC 6 "
-#| "(2003): 5, available at 2003 WL 55179443."
 msgid ""
 "Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
 "Alleges $97.8 Billion in Damages,\" <citetitle>Professional Media Group LCC</"
 "citetitle> 6 (2003): 5, available at 2003 WL 55179443."
 msgstr ""
 "Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
-"Alleges $97.8 Billion in Damages,\" Professional Media Group LCC 6 (2003): "
-"5, tilgjengelig fra 2003 WL 55179443."
+"Alleges $97.8 Billion in Damages,\" <citetitle>Professional Media Group LCC</"
+"citetitle> 6 (2003): 5, tilgjengelig fra 2003 WL 55179443."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4667,16 +4650,12 @@ msgstr ""
 
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Douglas Lichtman makes a related point in \"KaZaA and Punishment,\" Wall "
-#| "Street Journal, 10 September 2003, A24."
 msgid ""
 "Douglas Lichtman makes a related point in \"KaZaA and Punishment,\" "
 "<citetitle>Wall Street Journal</citetitle>, 10 September 2003, A24."
 msgstr ""
 "Douglas Lichtman kommer med et relatert poeng i \"KaZaA and Punishment,\" "
-"Wall Street Journal, 10. september 2003, A24."
+"<citetitle>Wall Street Journal</citetitle>, 10. september 2003, A24."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4845,17 +4824,14 @@ msgstr ""
 
 #.  f3
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Marc Wanamaker, \"The First Studios,\" The Silents Majority, archived at "
-#| "<ulink url=\"http://free-culture.cc/notes/\">link #12</ulink>."
 msgid ""
 "Marc Wanamaker, \"The First Studios,\" <citetitle>The Silents Majority</"
 "citetitle>, archived at <ulink url=\"http://free-culture.cc/notes/\">link "
 "#12</ulink>."
 msgstr ""
-"Marc Wanamaker, \"The First Studios,\" The Silents Majority, arkivert på "
-"<ulink url=\"http://free-culture.cc/notes/\">link #12</ulink>."
+"Marc Wanamaker, \"The First Studios,\" <citetitle>The Silents Majority</"
+"citetitle>, arkivert på <ulink url=\"http://free-culture.cc/notes/\">link "
+"#12</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -5994,12 +5970,12 @@ msgstr "piratkopiering ii"
 
 #.  f4
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid "Bach v. Longman, 98 Eng. Rep. 1274 (1777)."
 msgid ""
 "<citetitle>Bach</citetitle> v. <citetitle>Longman</citetitle>, 98 Eng. Rep. "
 "1274 (1777)."
-msgstr "Bach v. Longman, 98 Eng. Rep. 1274 (1777)."
+msgstr ""
+"<citetitle>Bach</citetitle> v. <citetitle>Longman</citetitle>, 98 Eng. Rep. "
+"1274 (1777)."
 
 #.  PAGE BREAK 80
 #. type: Content of: <book><part><chapter><section><para>
