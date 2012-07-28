@@ -2423,7 +2423,7 @@ msgid ""
 "on manga that from a lawyer's perspective is quite odd, but from a Disney "
 "perspective is quite familiar."
 msgstr ""
-"Men mitt formål her er ikke å forstå manga.  Det er a beskrive en variant av "
+"Men mitt formål her er ikke å forstå manga.  Det er å beskrive en variant av "
 "manga som fra en advokats perspektiv er ganske merkelig, men som fra en "
 "Disneys perspektiv er ganske godt kjent."
 
