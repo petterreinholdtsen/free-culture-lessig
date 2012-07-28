@@ -1197,7 +1197,7 @@ context the current battles about behavior labeled "piracy."
 </para>
 
 <!-- PAGE BREAK 34 -->
-<sect1 id="creators">
+<section id="creators">
 <title>CHAPTER ONE: Creators</title>
 <para>
 In 1928, a cartoon character was born. An early Mickey Mouse
@@ -1650,8 +1650,8 @@ free culture. It is becoming much less so.
 </para>
 
 <!-- PAGE BREAK 44 -->
-</sect1>
-<sect1 id="mere-copyists">
+</section>
+<section id="mere-copyists">
 <title>CHAPTER TWO: "Mere Copyists"</title>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <para>
@@ -2511,8 +2511,8 @@ the law to close down that technology.
 chapter 9, quipped to me in a rare moment of despondence.
 </para>
 <!-- PAGE BREAK 61 -->
-</sect1>
-<sect1 id="catalogs">
+</section>
+<section id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <para>
 In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
@@ -2726,8 +2726,8 @@ pick on him. But he wants to let people know that they're sending the
 wrong message. And he wants to correct the record."
 </para>
 <!-- PAGE BREAK 66 -->
-</sect1>
-<sect1 id="pirates">
+</section>
+<section id="pirates">
 <title>CHAPTER FOUR: "Pirates"</title>
 <para>
 If "piracy" means using the creative property of others without
@@ -2737,7 +2737,7 @@ the content industry is a history of piracy. Every important sector of
 kind of piracy so defined. The consistent story is how last generation's
 pirates join this generation's country club&mdash;until now.
 </para>
-<sect2 id="film">
+<section id="film">
 <title>Film</title>
 <para>
 The film industry of Hollywood was built by fleeing pirates.<footnote><para>
@@ -2823,8 +2823,8 @@ time), by the time enough federal marshals appeared, the patents had
 expired. A new industry had been born, in part from the piracy of
 Edison's creative property.
 </para>
-</sect2>
-<sect2 id="recordedmusic">
+</section>
+<section id="recordedmusic">
 <title>Recorded Music</title>
 <para>
 The record industry was born of another kind of piracy, though to see
@@ -3019,8 +3019,8 @@ this report.</para></footnote>
 By limiting the rights musicians have, by partially pirating their
 creative work, the record producers, and the public, benefit.
 </para>
-</sect2>
-<sect2 id="radio">
+</section>
+<section id="radio">
 <title>Radio</title>
 <para>
 Radio was also born of piracy.
@@ -3096,8 +3096,8 @@ ordinarily gives the creator the right to make this choice. By making
 the choice for him or her, the law gives the radio station the right
 to take something for nothing.
 </para>
-</sect2>
-<sect2 id="cabletv">
+</section>
+<section id="cabletv">
 <title>Cable TV</title>
 <para>
 
@@ -3231,9 +3231,9 @@ could well be expanded. Every generation welcomes the pirates from the
 last. Every generation&mdash;until now.
 </para>
 <!-- PAGE BREAK 75 -->
-</sect2>
-</sect1>
-<sect1 id="piracy">
+</section>
+</section>
+<section id="piracy">
 <title>CHAPTER FIVE: "Piracy"</title>
 <para>
 There is piracy of copyrighted material. Lots of it. This piracy comes
@@ -3253,7 +3253,7 @@ outright copying, and the law should account for that ambiguity, as it
 has so often done in the past.
 <!-- PAGE BREAK 76 -->
 </para>
-<sect2 id="piracy-i">
+<section id="piracy-i">
 <title>Piracy I</title>
 <para>
 All across the world, but especially in Asia and Eastern Europe, there
@@ -3451,8 +3451,8 @@ These differences distinguish p2p sharing from true piracy. They
 should push us to find a way to protect artists while enabling this
 sharing to survive.
 </para>
-</sect2>
-<sect2 id="piracy-ii">
+</section>
+<section id="piracy-ii">
 <title>Piracy II</title>
 <para>
 The key to the "piracy" that the law aims to quash is a use that "rob[s]
@@ -4215,8 +4215,8 @@ arrest him?"
 it should be protected just as any other property is protected."
 </para>
 <!-- PAGE BREAK 93 -->
-</sect2>
-</sect1>
+</section>
+</section>
 </chapter>
 <chapter id="c-property">
 <title>"PROPERTY"</title>
@@ -4295,7 +4295,7 @@ from the implications that the copyright warriors would have us draw.
 </para>
 
 <!-- PAGE BREAK 96 -->
-<sect1 id="founders">
+<section id="founders">
 <title>CHAPTER SIX: Founders</title>
 <para>
 William Shakespeare wrote <citetitle>Romeo and Juliet</citetitle> in 1595. The play
@@ -4793,8 +4793,8 @@ world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
 <!-- PAGE BREAK 106 -->
-</sect1>
-<sect1 id="recorders">
+</section>
+<section id="recorders">
 <title>CHAPTER SEVEN: Recorders</title>
 <para>
 Jon Else is a filmmaker. He is best known for his documentaries and
@@ -4990,8 +4990,8 @@ matured into a sword that interferes with any use, transformative or
 not.
 </para>
 <!-- PAGE BREAK 111 -->
-</sect1>
-<sect1 id="transformers">
+</section>
+<section id="transformers">
 <title>CHAPTER EIGHT: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
 <indexterm><primary>Alben, Alex</primary></indexterm>
@@ -5347,8 +5347,8 @@ process is a process of paying lawyers&mdash;again a privilege, or perhaps a
 curse, reserved for the few.
 </para>
 <!-- PAGE BREAK 119 -->
-</sect1>
-<sect1 id="collectors">
+</section>
+<section id="collectors">
 <title>CHAPTER NINE: Collectors</title>
 <para>
 In April 1996, millions of "bots"&mdash;computer codes designed to
@@ -5676,8 +5676,8 @@ someone's "property." And the law of property restricts the freedoms
 that Kahle and others would exercise.
 </para>
 <!-- PAGE BREAK 127 -->
-</sect1>
-<sect1 id="property-i">
+</section>
+<section id="property-i">
 <title>CHAPTER TEN: "Property"</title>
 <para>
 Jack Valenti has been the president of the Motion Picture Association
@@ -6072,7 +6072,7 @@ of these groups might face.
 <indexterm><primary>Commons, John R.</primary></indexterm>
 </para></footnote>
 </para>
-<sect2 id="hollywood">
+<section id="hollywood">
 <title>Why Hollywood Is Right</title>
 <para>
 The most obvious point that this model reveals is just why, or just
@@ -6320,8 +6320,8 @@ for free culture that will be far more devastating than that this gnat will
 be lost.
 </para>
 <indexterm startref="idxddt" class='endofrange'/>
-</sect2>
-<sect2 id="beginnings">
+</section>
+<section id="beginnings">
 <title>Beginnings</title>
 <para>
 America copied English copyright law. Actually, we copied and improved
@@ -6400,8 +6400,8 @@ We will end here:
 Let me explain how.
 <!-- PAGE BREAK 144 -->
 </para>
-</sect2>
-<sect2 id="lawduration">
+</section>
+<section id="lawduration">
 <title>Law: Duration</title>
 <para>
 When the first Congress enacted laws to protect creative property, it
@@ -6578,8 +6578,8 @@ Posner, "Indefinitely Renewable Copyright," loc. cit.
 </para></footnote>
 </para>
 <!-- PAGE BREAK 147 -->
-</sect2>
-<sect2 id="lawscope">
+</section>
+<section id="lawscope">
 <title>Law: Scope</title>
 <para>
 The "scope" of a copyright is the range of rights granted by the law.
@@ -6775,8 +6775,8 @@ derivative right is unjustified. My aim just now is much narrower:
 to make clear that this expansion is a significant change from the
 rights originally granted.
 </para>
-</sect2>
-<sect2 id="lawreach">
+</section>
+<section id="lawreach">
 <title>Law and Architecture: Reach</title>
 <para>
 Whereas originally the law regulated only publishers, the change in
@@ -7088,8 +7088,8 @@ balanced policy. The control of copyright is simply what private
 owners choose. In some contexts, at least, that fact is harmless. But
 in some contexts it is a recipe for disaster.
 </para>
-</sect2>
-<sect2 id="lawforce">
+</section>
+<section id="lawforce">
 <title>Architecture and Law: Force</title>
 <para>
 The disappearance of unregulated uses would be change enough, but a
@@ -7705,8 +7705,8 @@ which you traveled at every moment that you drove; that would be just
 one step before the state started issuing tickets based upon the data you
 transmitted. That is, in effect, what is happening here.
 </para>
-</sect2>
-<sect2 id="marketconcentration">
+</section>
+<section id="marketconcentration">
 <title>Market: Concentration</title>
 <para>
 So copyright's duration has increased dramatically&mdash;tripled in
@@ -8099,8 +8099,8 @@ matters. You might like the positions the handful of companies
 selects. But you should not like a world in which a mere few get to
 decide which issues the rest of us get to know about.
 </para>
-</sect2>
-<sect2 id="together">
+</section>
+<section id="together">
 <title>Together</title>
 <para>
 There is something innocent and obvious about the claim of the
@@ -8410,14 +8410,14 @@ which creation requires permission and creativity must check with a
 lawyer.
 </para>
 <!-- PAGE BREAK 185 -->
-</sect2>
-</sect1>
+</section>
+</section>
 </chapter>
 <chapter id="c-puzzles">
 <title>PUZZLES</title>
 <para></para>
 <!-- PAGE BREAK 186 -->
-<sect1 id="chimera">
+<section id="chimera">
 <title>CHAPTER ELEVEN: Chimera</title>
 <indexterm id="idxchimera" class='startofrange'>
   <primary>chimeras</primary>
@@ -8696,8 +8696,8 @@ and will kill opportunities that could be extraordinarily valuable.
 </para>
 
 <!-- PAGE BREAK 192 -->
-</sect1>
-<sect1 id="harms">
+</section>
+<section id="harms">
 <title>CHAPTER TWELVE: Harms</title>
 <para>
 
@@ -8737,7 +8737,7 @@ confident the third is unintended. I'm less sure about the first two. The
 first two protect modern RCAs, but there is no Howard Armstrong in
 the wings to fight today's monopolists of culture.
 </para>
-<sect2 id="constrain">
+<section id="constrain">
 <title>Constraining Creators</title>
 <para>
 In the next ten years we will see an explosion of digital
@@ -8935,8 +8935,8 @@ cleared." You're not even going to get it on PBS without that kind of
 permission. That's the point at which they control it.
 </para>
 </blockquote>
-</sect2>
-<sect2 id="innovators">
+</section>
+<section id="innovators">
 <title>Constraining Innovators</title>
 <para>
 The story of the last section was a crunchy-lefty
@@ -9588,8 +9588,8 @@ or the left, who should endorse this use of the law. And yet there is
 practically no one, on either the right or the left, who is doing anything
 effective to prevent it.
 </para>
-</sect2>
-<sect2 id="corruptingcitizens">
+</section>
+<section id="corruptingcitizens">
 <title>Corrupting Citizens</title>
 <para>
 Overregulation stifles creativity. It smothers innovation. It gives 
@@ -10008,8 +10008,8 @@ effort through our democracy to change our law?
 </para>
 
 <!-- PAGE BREAK 217 -->
-</sect2>
-</sect1>
+</section>
+</section>
 </chapter>
 <chapter id="c-balances">
 <title>BALANCES</title>
@@ -10066,7 +10066,7 @@ success will require.
 </para>
 
 <!-- PAGE BREAK 220 -->
-<sect1 id="eldred">
+<section id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
 <para>
 In 1995, a father was frustrated that his daughters didn't seem to
@@ -11704,8 +11704,8 @@ fathered, the Supreme Court effectively renounced that commitment. A
 better lawyer would have made them see differently.
 </para>
 <!-- PAGE BREAK 254 -->
-</sect1>
-<sect1 id="eldred-ii">
+</section>
+<section id="eldred-ii">
 <title>CHAPTER FOURTEEN: Eldred II</title>
 <para>
 The day <citetitle>Eldred</citetitle> was decided, fate would have it that I was to travel to
@@ -12093,7 +12093,7 @@ owner and gain permission to build upon his work. The future will be
 controlled by this dead (and often unfindable) hand of the past.
 </para>
 <!-- PAGE BREAK 264 -->
-</sect1>
+</section>
 </chapter>
 <chapter id="c-conclusion">
 <title>CONCLUSION</title>
@@ -12844,7 +12844,7 @@ sketch changes that Congress could make to better secure a free culture.
 </para>
 <!-- PAGE BREAK 281 -->
 
-<sect1 id="usnow">
+<section id="usnow">
 <title>US, NOW</title>
 <para>
 Common sense is with the copyright warriors because the debate so far
@@ -12897,7 +12897,7 @@ way to restore a set of freedoms that we could just take for granted
 before.
 </para>
 
-<sect2 id="examples">
+<section id="examples">
 <title>Rebuilding Freedoms Previously Presumed: Examples</title>
 <para>
 If you step back from the battle I've been describing here, you will
@@ -13124,8 +13124,8 @@ presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
 
-</sect2>
-<sect2 id="oneidea">
+</section>
+<section id="oneidea">
 <title>Rebuilding Free Culture: One Idea</title>
 <indexterm id="idxcc" class='startofrange'>
   <primary>Creative Commons</primary>
@@ -13313,9 +13313,9 @@ creativity to spread more easily.
 <indexterm startref="idxcc" class='endofrange'/>
 
 <!-- PAGE BREAK 292 -->
-</sect2>
-</sect1>
-<sect1 id="themsoon">
+</section>
+</section>
+<section id="themsoon">
 <title>THEM, SOON</title>
 <para>
 We will not reclaim a free culture by individual action alone. It will
@@ -13331,7 +13331,7 @@ is a step, not an end. But any of these steps would carry us a long way
 to our end.
 </para>
 
-<sect2 id="formalities">
+<section id="formalities">
 <title>1. More Formalities</title>
 <para>
 If you buy a house, you have to record the sale in a deed. If you buy land
@@ -13396,7 +13396,7 @@ developed by others.
 
 <!-- PAGE BREAK 294 -->
 
-<sect3 id="registration">
+<section id="registration">
 <title>REGISTRATION AND RENEWAL</title>
 <para>
 Under the old system, a copyright owner had to file a registration
@@ -13444,8 +13444,8 @@ formality&mdash;while producing a database
 of registrations that would facilitate the licensing of content.
 </para>
 
-</sect3>
-<sect3 id="marking">
+</section>
+<section id="marking">
 <title>MARKING</title>
 <para>
 It used to be that the failure to include a copyright notice on a
@@ -13535,9 +13535,9 @@ that assertion at the appropriate time.
 </para>
 
 <!-- PAGE BREAK 297 -->
-</sect3>
-</sect2>
-<sect2 id="shortterms">
+</section>
+</section>
+<section id="shortterms">
 <title>2. Shorter Terms</title>
 <para>
 The term of copyright has gone from fourteen years to ninety-five
@@ -13640,8 +13640,8 @@ a more generous copyright law than Richard Nixon presided over?
 
 <!-- PAGE BREAK 299 -->
 
-</sect2>
-<sect2 id="freefairuse">
+</section>
+<section id="freefairuse">
 <title>3. Free Use Vs. Fair Use</title>
 <para>
 As I observed at the beginning of this book, property law originally
@@ -13752,9 +13752,9 @@ certain statutory conditions. Either way, the effect would be to free
 a great deal of culture to others to cultivate. And under a statutory
 rights regime, that reuse would earn artists more income.
 </para>
-</sect2>
+</section>
 
-<sect2 id="liberatemusic">
+<section id="liberatemusic">
 <title>4. Liberate the Music&mdash;Again</title>
 <para>
 The battle that got this whole war going was about music, so it
@@ -14167,9 +14167,9 @@ be on finding ways to break the Internet. Our focus until we're there
 should be on how to make sure the artists are paid, while protecting
 the space for innovation and creativity that the Internet is.
 </para>
-</sect2>
+</section>
 
-<sect2 id="firelawyers">
+<section id="firelawyers">
 <title>5. Fire Lots of Lawyers</title>
 <para>
 I'm a lawyer. I make lawyers for a living. I believe in the law. I believe
@@ -14290,8 +14290,8 @@ needed. Show me how it does good. And until you can show me both,
 keep your lawyers away.
 </para>
 <!-- PAGE BREAK 312 -->
-</sect2>
-</sect1>
+</section>
+</section>
 </chapter>
 <chapter id="c-notes">
 <title>NOTES</title>
