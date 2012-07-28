@@ -12661,7 +12661,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
-msgstr "Liste med tillatelser for Aristotles &quot;Politics&quot;."
+msgstr "Liste med tillatelser for Aristotles &quot;Politikk&quot;."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1622.png\"></graphic>"
