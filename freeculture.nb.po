@@ -17862,19 +17862,14 @@ msgstr ""
 
 #.  f3.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Associated Press, \"Disney Lobbying for Copyright Extension No Mickey "
-#| "Mouse Effort; Congress OKs Bill Granting Creators 20 More Years,\" "
-#| "Chicago Tribune, 17 October 1998, 22."
 msgid ""
 "Associated Press, \"Disney Lobbying for Copyright Extension No Mickey Mouse "
 "Effort; Congress OKs Bill Granting Creators 20 More Years,\" "
 "<citetitle>Chicago Tribune</citetitle>, 17 October 1998, 22."
 msgstr ""
 "Associated Press, \"Disney Lobbying for Copyright Extension No Mickey Mouse "
-"Effort; Congress OKs Bill Granting Creators 20 More Years,\" Chicago "
-"Tribune, 17. oktober 1998, 22."
+"Effort; Congress OKs Bill Granting Creators 20 More Years,\" "
+"<citetitle>Chicago Tribune</citetitle>, 17. oktober 1998, 22."
 
 #.  f4.
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -17888,19 +17883,14 @@ msgstr ""
 
 #.  f5.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" "
-#| "Congressional Quarterly This Week, 8 August 1990, available at <ulink url="
-#| "\"http://free-culture.cc/notes/\">link #50</ulink>."
 msgid ""
 "Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" "
 "<citetitle>Congressional Quarterly This Week</citetitle>, 8 August 1990, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #50</ulink>."
 msgstr ""
-"Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" Congressional "
-"Quarterly This Week, 8. august 1990, tilgjengelig fra <ulink url=\"http://"
-"free-culture.cc/notes/\">link #50</ulink>."
+"Alan K. Ota, \"Disney in Washington: The Mouse That Roars,\" "
+"<citetitle>Congressional Quarterly This Week</citetitle>, 8. august 1990, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #50</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21223,20 +21213,16 @@ msgid "Braithwaite, John"
 msgstr "Braithwaite, John"
 
 #. type: Content of: <book><part><partintro><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See Peter Drahos with John Braithwaite, Information Feudalism: Who Owns "
-#| "the Knowledge Economy? (New York: The New Press, 2003), 37.  <placeholder "
-#| "type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgid ""
-"See Peter Drahos with John Braithwaite, Information Feudalism: "
-"<citetitle>Who Owns the Knowledge Economy?</citetitle> (New York: The New "
+"See Peter Drahos with John Braithwaite, <citetitle>Information Feudalism: "
+"Who Owns the Knowledge Economy?</citetitle> (New York: The New "
 "Press, 2003), 37.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"Se Peter Drahos og John Braithwaite, Information Feudalism: Who Owns the "
-"Knowledge Economy? (New York: The New Press, 2003), 37.  <placeholder type="
-"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"Se Peter Drahos og John Braithwaite, Information Feudalism: "
+"<citetitle>Who Owns the Knowledge Economy?</citetitle> (New York: The New "
+"Press, 2003), 37.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
