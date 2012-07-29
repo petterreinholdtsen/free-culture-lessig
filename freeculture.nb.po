@@ -2650,7 +2650,6 @@ msgstr ""
 
 #.  PAGE BREAK 41
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This is a theme to which we will return: that regulation by law is a "
 "function of both the words on the books and the costs of making those words "
@@ -2662,15 +2661,16 @@ msgid ""
 "lawyers fighting this piracy help their clients or hurt them? Let's pause "
 "for a moment."
 msgstr ""
-"Dette er et tema som vi kommer tilbake: at regulering av loven er en "
-"funksjon av begge ordene på bøker og kostnadene ved å gjøre disse ordene har "
-"effekt. for nå, fokusere på det åpenbare spørsmålet som er ba: ville japan "
-"være bedre med mer advokater? ville manga bli rikere Hvis doujinshi artister "
-"regelmessig ble rettslig forfulgt? ville den japanske gevinsten noe viktig "
-"hvis de kunne avslutte denne praksisen med uncompensated deling? gjør vondt "
-"piratkopiering her ofre for piratkopiering, eller betyr det hjelpe dem? vil "
-"advokater slåss denne sjørøver hjelpe sine kunder eller skade dem? La oss ta "
-"en pause for et øyeblikk."
+"Dette er et tema vi kommer tilbake til: at lovens regulering både er "
+"en funksjon av ordene i bøkene, og kostnadene med å få disse ordene "
+"til å ha effekt.  Akkurat nå er er det endel åpenbare spørsmål som "
+"presser seg frem: Ville Japan gjøre det bedre med flere advokater? "
+"Ville manga være rikere hvis doujinshi-kunstnere ble regelmessig "
+"rettsforfulgt?  Ville japan vinne noe viktig hvis de kunne stoppe "
+"praksisen med deling uten kompensasjon?  Skader piratvirksomhet ofrene "
+"for piratvirksomheten, eller hjelper den dem?  Ville advokaters kamp "
+"mot denne piratvirksomheten hjelpe deres klienter, eller skade dem? "
+"La oss ta et øyeblikks pause."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
