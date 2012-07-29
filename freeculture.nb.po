@@ -2731,6 +2731,13 @@ msgid ""
 "diverse society cannot survive without property; a large, diverse, and "
 "modern society cannot flourish without intellectual property."
 msgstr ""
+"Vi lever i en verden som feirer \"eiendom\".  Jeg er en av de som "
+"feierer.  Jeg tror på verdien av eiendom generelt, og jeg tror også på "
+"verdien av den sære formen for eiendom som advokater kaller "
+"\"immaterielle eierrettigheter\".<placeholder type=\"footnote\" "
+"id=\"0\"/> Et stort og variert samfunn kan ikke overleve uten eiendom, "
+"og et moderte samfunn kan ikke blomstre uten immaterielle "
+"eierrettigheter."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
