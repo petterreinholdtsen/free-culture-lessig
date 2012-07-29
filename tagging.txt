@@ -51,3 +51,5 @@ dblatex
 
  - do not end a <part> when it should, gluing following chapters as if
    they belonged to the last <part> (BTS #683166).
+
+ - Incorrect hyphens for multipage index references (BTS #682901)
