@@ -6237,16 +6237,12 @@ msgid "How do these different types of sharing balance out?"
 msgstr "Hvordan balanserer disse ulike delingstypene?"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See Liebowitz, Rethinking the Network Economy,148&ndash;49.  <placeholder "
-#| "type=\"indexterm\" id=\"0\"/>"
 msgid ""
 "See Liebowitz, <citetitle>Rethinking the Network Economy</citetitle>, "
 "148&ndash;49.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Se Liebowitz, Rethinking the Network Economy,148&ndash;49.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Se Liebowitz, <citetitle>Rethinking the Network Economy</citetitle>, "
+"148&ndash;49.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -11018,17 +11014,14 @@ msgstr ""
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See, for example, James Boyle, \"A Politics of Intellectual Property: "
-#| "Environmentalism for the Net?\" Duke Law Journal 47 (1997): 87."
 msgid ""
 "See, for example, James Boyle, \"A Politics of Intellectual Property: "
 "Environmentalism for the Net?\" <citetitle>Duke Law Journal</citetitle> 47 "
 "(1997): 87."
 msgstr ""
-"Se, for eksempel, James Boyle, \"A Politics of Intellectual Property: "
-"Environmentalism for the Net?\" Duke Law Journal 47 (1997): 87."
+"Se for eksempel James Boyle, \"A Politics of Intellectual Property: "
+"Environmentalism for the Net?\" <citetitle>Duke Law Journal</citetitle> 47 "
+"(1997): 87."
 
 #.  PAGE BREAK 141
 #. type: Content of: <book><part><chapter><section><para>
@@ -12477,16 +12470,12 @@ msgstr ""
 
 #.  f19
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See David Lange, \"Recognizing the Public Domain,\" Law and Contemporary "
-#| "Problems 44 (1981): 172&ndash;73."
 msgid ""
 "See David Lange, \"Recognizing the Public Domain,\" <citetitle>Law and "
 "Contemporary Problems</citetitle> 44 (1981): 172&ndash;73."
 msgstr ""
-"Se David Lange, \"Recognizing the Public Domain,\" Law and Contemporary "
-"Problems 44 (1981): 172&ndash;73."
+"Se David Lange, \"Recognizing the Public Domain,\" <citetitle>Law and "
+"Contemporary Problems</citetitle> 44 (1981): 172&ndash;73."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13790,16 +13779,12 @@ msgstr ""
 "artikkel om rupert murdoch,"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (September 2003): "
-#| "89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgid ""
 "James Fallows, \"The Age of Murdoch,\" <citetitle>Atlantic Monthly</"
 "citetitle> (September 2003): 89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"James Fallows, \"The Age of Murdoch,\" Atlantic Monthly (september 2003): "
-"89.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"James Fallows, \"The Age of Murdoch,\" <citetitle>Atlantic Monthly</"
+"citetitle> (September 2003): 89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -13995,19 +13980,14 @@ msgstr ""
 
 #.  f32
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See, for example, \"Music Media Watch,\" The J@pan Inc. Newsletter, 3 "
-#| "April 2002, available at <ulink url=\"http://free-culture.cc/notes/"
-#| "\">link #76</ulink>."
 msgid ""
 "\"Barry Diller Takes on Media Deregulation,\" <citetitle>Now with Bill "
 "Moyers</citetitle>, Bill Moyers, 25 April 2003, edited transcript available "
 "at <ulink url=\"http://free-culture.cc/notes/\">link #31</ulink>."
 msgstr ""
-"For eksempel, se, \"Music Media Watch,\" The J@pan Inc. Newsletter, 3 April "
-"2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
-"#76</ulink>."
+"\"Barry Diller Takes on Media Deregulation,\" <citetitle>Now with Bill "
+"Moyers</citetitle>, Bill Moyers, 25 April 2003, redigert avskrift tilgjengelig "
+"fra <ulink url=\"http://free-culture.cc/notes/\">link #31</ulink>."
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
