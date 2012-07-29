@@ -12129,9 +12129,8 @@ controlled by this dead (and often unfindable) hand of the past.
 <!-- PAGE BREAK 264 -->
 </chapter>
 </part>
-<part id="c-conclusion">
+<chapter id="c-conclusion">
 <title>CONCLUSION</title>
-<partintro>
 <para>
 There are more than 35 million people with the AIDS virus
 worldwide. Twenty-five million of them live in sub-Saharan Africa.
@@ -12848,12 +12847,9 @@ potential is ever to be realized.
 <!-- PAGE BREAK 279 -->
 
 </para>
-</partintro>
-<chapter><title></title><para></para></chapter>
-</part>
-<part id="c-afterword">
+</chapter>
+<chapter id="c-afterword">
 <title>AFTERWORD</title>
-<partintro>
 <para>
 
 <!-- PAGE BREAK 280 -->
@@ -14332,9 +14328,7 @@ keep your lawyers away.
 <!-- PAGE BREAK 312 -->
 </section>
 </section>
-</partintro>
-<chapter><title></title><para></para></chapter>
-</part>
+</chapter>
 <chapter id="c-notes">
 <title>NOTES</title>
 <para>
@@ -14422,4 +14416,5 @@ grateful for her perpetual patience and love.
 <!-- PAGE BREAK 338 -->
 
 </chapter>
+<index></index>
 </book>
