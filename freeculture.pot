@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-07-28 23:28+0300\n"
+"POT-Creation-Date: 2012-07-29 10:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15806,9 +15806,9 @@ msgstr ""
 #. type: Content of: <book><part><partintro><para><footnote><para>
 #: freeculture.xml:12196
 msgid ""
-"See Peter Drahos with John Braithwaite, Information Feudalism: "
-"<citetitle>Who Owns the Knowledge Economy?</citetitle> (New York: The New "
-"Press, 2003), 37.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"See Peter Drahos with John Braithwaite, <citetitle>Information Feudalism: "
+"Who Owns the Knowledge Economy?</citetitle> (New York: The New Press, 2003), "
+"37.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
