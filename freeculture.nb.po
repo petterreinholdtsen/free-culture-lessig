@@ -23009,7 +23009,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Rebuilding Free Culture: One Idea"
-msgstr "Gjenoppbyggeing av fri kultur: En idé"
+msgstr "Gjenoppbygging av fri kultur: En idé"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
