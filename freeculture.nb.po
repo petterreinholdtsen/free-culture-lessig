@@ -2762,17 +2762,16 @@ msgstr ""
 "verdi. lov forbud at stjele i enhver form, enten store eller små."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet there is an obvious reluctance, even among Japanese lawyers, to say that "
 "the copycat comic artists are \"stealing.\" This form of Walt Disney "
 "creativity is seen as fair and right, even if lawyers in particular find it "
 "hard to say why."
 msgstr ""
-"Likevel er det en åpenbar uvilje mot, selv blant japanske advokater, for å "
-"si at copycat comic kunstnerne er \"stjele.\" denne formen for walt disney "
-"kreativitet er sett på som rettferdig og høyre, selv om advokater spesielt "
-"finner det vanskelig å si hvorfor."
+"Likevel er det en åpenbar motvilje, selv blant japanske advokater, "
+"for å si at etterapende tegneseriekunstnere \"stjeler\".  Denne formen "
+"for Walt Disney-kreativitet anses som rimelig og riktig, selv om "
+"spesielt advokater synes det er vanskelig å forklare hvorfor."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
