@@ -30,3 +30,24 @@ Docbook howtos
 http://developer.gnome.org/gdp-handbook/stable/docbook.html.en
 http://www.docbook.org/tdg/en/html/docbook.html
 http://www.docbook.org/tdg/en/html/indexterm.html
+
+Docbook processing
+------------------
+
+xmlto with fop backend
+
+ - Overlap footnote and text body in some cases (BTS #683197)
+
+ - incorrect index (missing page numbers for some, create wrong page
+   number for some).
+
+ - missing images (possibly BTS #567122)
+
+xmlto with default backend
+
+ - fail to process the docbook source (possibly BTW #683163)
+
+dblatex
+
+ - do not end a <part> when it should, gluing following chapters as if
+   they belonged to the last <part> (BTS #683166).
