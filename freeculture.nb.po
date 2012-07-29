@@ -2769,7 +2769,6 @@ msgstr ""
 "bra."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The same with the doujinshi culture. If a doujinshi artist broke into a "
 "publisher's office and ran off with a thousand copies of his latest "
@@ -2778,11 +2777,13 @@ msgid ""
 "stolen something of value. The law bans that stealing in whatever form, "
 "whether large or small."
 msgstr ""
-"det samme med doujinshi kultur. Hvis en doujinshi artist brøt inn i en "
-"publisher office og kjørte med tusen eksemplarer av hans siste verk&mdash; "
-"eller selv en kopi&mdash;uten å betale, ville vi har ingen nøle i sier "
-"kunstneren var galt. i tillegg til å ha begått, ville han har stjålet noe av "
-"verdi. lov forbud at stjele i enhver form, enten store eller små."
+"Det er det samme med doujinshi-kulturen.  Hvis en doujinshi-kunstner brøt seg "
+"inn på kontoret til en forlegger, og stakk av med tusen kopier av hans "
+"siste verk&mdash;elller bare en kopi&mdash;uten å betale, så ville vi "
+"uten å nøle si at kunstneren har gjort noe galt.  I tillegg til å å "
+"trengt seg inn på andres eiendom, ville han ha stjålet noe av verdi. "
+"Loven forbyr stjeling i enhver form, uansett hvor stort eller lite som "
+"blir tatt."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
