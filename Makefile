@@ -70,3 +70,9 @@ lint: freeculture.xml
 
 lint.nb: freeculture.nb.xml
 	xmllint  $(XMLLINTOPTS) freeculture.nb.xml
+
+images/cc.svg:
+	wget -O $@ http://upload.wikimedia.org/wikipedia/commons/9/97/CC_some_rights_reserved_new_2.svg
+
+images/cc.png: images/cc.svg
+	convert -adaptive-resize 500x200 $^ $@
