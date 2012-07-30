@@ -2979,6 +2979,11 @@ msgid ""
 "type=\"footnote\" id=\"0\"/> As he described in <citetitle>The Kodak Primer</"
 "citetitle>:"
 msgstr ""
+"Eastman utviklet bøybart, emulsjons-belagt papirfil og plasserte "
+"ruller med dette i små, enkle kameraer: Kodaken.  Enheten ble "
+"markedsfør med grunnlag dens enkelhet. \"Du trykker på knappen og vi "
+"fikser resten.\"<placeholder type=\"footnote\" id=\"0\"/> Som han "
+"beskrev det i <citetitle>The Kodak Primer</citetitle>:"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coe, Brian"
