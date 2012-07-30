@@ -1662,7 +1662,9 @@ free culture. It is becoming much less so.
 </chapter>
 <chapter id="mere-copyists">
 <title>CHAPTER TWO: "Mere Copyists"</title>
-<indexterm><primary>Daguerre, Louis</primary></indexterm>
+<indexterm id="idxphotography" class='startofrange'>
+  <primary>photography</primary>
+</indexterm>
 <para>
 In 1839, Louis Daguerre invented the first practical technology for
 producing what we would call "photographs." Appropriately enough, they
@@ -1671,6 +1673,7 @@ expensive, and the field was thus limited to professionals and a few
 zealous and wealthy amateurs. (There was even an American Daguerre
 Association that helped regulate the industry, as do all such
 associations, by keeping competition down so as to keep prices up.)
+<indexterm><primary>Daguerre, Louis</primary></indexterm>
 </para>
 <para>
 Yet despite high prices, the demand for daguerreotypes was strong.
@@ -1682,6 +1685,7 @@ the 1870s, dry plates were developed, making it easier to separate the
 taking of a picture from its developing. These were still plates of
 glass, and thus it was still not a process within reach of most
 amateurs.
+<indexterm><primary>Talbot, William</primary></indexterm>
 </para>
 <indexterm id="idxeastmangeorge" class='startofrange'>
   <primary>Eastman, George</primary>
@@ -1883,6 +1887,7 @@ doing something with media.  By doing, they think. By tinkering, they
 learn.
 </para>
 <indexterm startref="idxeastmangeorge" class='endofrange'/>
+<indexterm startref="idxphotography" class='endofrange'/>
 <para>
 These buses are not cheap, but the technology they carry is
 increasingly so. The cost of a high-quality digital video system has
