@@ -42,10 +42,17 @@
 
  <legalnotice>
    <para>
-     <figure id="CreativeCommons">
-       <title>Creative Commons, Some rights reserved</title>
-       <graphic fileref="images/cc.png"></graphic>
-     </figure>
+     <inlinemediaobject>
+       <imageobject>
+	 <imagedata fileref="images/cc.png" width="100%" align="center"/>
+       </imageobject>
+       <imageobject>
+	 <imagedata fileref="images/cc.svg" width="100%" align="center"/>
+       </imageobject>
+       <textobject>
+	 <phrase>Creative Commons, Some rights reserved</phrase>
+       </textobject>
+     </inlinemediaobject>
    </para>
 
    <para>
