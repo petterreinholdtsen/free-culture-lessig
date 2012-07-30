@@ -36,6 +36,8 @@ Docbook processing
 
 xmlto with fop backend
 
+ - showing norwegian language for system templates.
+
  - Overlap footnote and text body in some cases (BTS #683197)
 
  - incorrect index (missing page numbers for some, create wrong page
@@ -53,3 +55,5 @@ dblatex
    they belonged to the last <part> (BTS #683166).
 
  - Incorrect hyphens for multipage index references (BTS #682901)
+
+ - not showing norwegian language for system templates.
