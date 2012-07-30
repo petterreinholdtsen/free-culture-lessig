@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-30 17:21+0300\n"
+"POT-Creation-Date: 2012-07-30 19:50+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2716,15 +2716,14 @@ msgid ""
 "secret&mdash;but the nature of those rights is very different.  <placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Begrepet <citetitle>immateriell eiendom</citetitle> er av "
-"relativ ny opprinnelse. Se See Siva Vaidhyanathan, "
-"<citetitle>Copyrights and Copywrongs</citetitle>, 11 (New York: New "
-"York University Press, 2001). Se også Lawrence Lessig, <citetitle>The "
-"Future of Ideas</citetitle> (New York: Random House, 2001), 293 n. 26. "
-"Begrepet presist beskriver et sett med "
+"Begrepet <citetitle>immateriell eiendom</citetitle> er av relativ ny "
+"opprinnelse. Se See Siva Vaidhyanathan, <citetitle>Copyrights and "
+"Copywrongs</citetitle>, 11 (New York: New York University Press, 2001). Se "
+"også Lawrence Lessig, <citetitle>The Future of Ideas</citetitle> (New York: "
+"Random House, 2001), 293 n. 26. Begrepet presist beskriver et sett med "
 "\"eiendoms\"-rettigheter&mdash;opphavsretter, patenter, varemerker og "
-"forretningshemmeligheter&mdash;men egenskapene til disse rettighetene "
-"er svært forskjellige.<placeholder type=\"indexterm\" id=\"0\"/>"
+"forretningshemmeligheter&mdash;men egenskapene til disse rettighetene er "
+"svært forskjellige.<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2737,8 +2736,8 @@ msgid ""
 msgstr ""
 "Vi lever i en verden som feirer \"eiendom\".  Jeg er en av de som feierer.  "
 "Jeg tror på verdien av eiendom generelt, og jeg tror også på verdien av den "
-"sære formen for eiendom som advokater kaller \"immateriell eiendom"
-"\".<placeholder type=\"footnote\" id=\"0\"/> Et stort og variert samfunn kan "
+"sære formen for eiendom som advokater kaller \"immateriell eiendom\"."
+"<placeholder type=\"footnote\" id=\"0\"/> Et stort og variert samfunn kan "
 "ikke overleve uten eiendom, og et moderne samfunn kan ikke blomstre uten "
 "immaterielle eierrettigheter."
 
@@ -2813,18 +2812,17 @@ msgid ""
 "goes through cycles with a certain kind of movie: five asteroid films in the "
 "late 1990s; two volcano disaster films in 1997."
 msgstr ""
-"Det er det same med tusen eksempler som dukker opp over alt med en "
-"gang en begynner å se etter dem.  Forskene bygger på arbeidet til "
-"andre forskere uten å spørre eller betale for privilegiet. (\"Unnskyld "
-"meg, professor Einstein, men kan jeg få tillatelse til å bruke din "
-"relativitetsteori til å vise at du tok feil om kvantefysikk?\") "
-"Teatertropper viser frem bearbeidelser av verkene til Shapespere uten "
-"å sikre seg noen tillatelser.  (Er det <emphasis>noen</emphasis> som "
-"tror at Shakespeare ville vært mer spredt i vår kultur om det var et "
-"sentralt rettighetsklareringskontor for Shakespeare som alle som laget "
-"Shakespear-produksjoner måtte appelere til først?)  Og Hollywood går "
-"igjennom sykluser med en bestemt type filmer: fem astroidefilmer i "
-"slutten av 1990-tallet, to vulkamkatastrofefilmer i 1997."
+"Det er det same med tusen eksempler som dukker opp over alt med en gang en "
+"begynner å se etter dem.  Forskene bygger på arbeidet til andre forskere "
+"uten å spørre eller betale for privilegiet. (\"Unnskyld meg, professor "
+"Einstein, men kan jeg få tillatelse til å bruke din relativitetsteori til å "
+"vise at du tok feil om kvantefysikk?\") Teatertropper viser frem "
+"bearbeidelser av verkene til Shapespere uten å sikre seg noen tillatelser.  "
+"(Er det <emphasis>noen</emphasis> som tror at Shakespeare ville vært mer "
+"spredt i vår kultur om det var et sentralt rettighetsklareringskontor for "
+"Shakespeare som alle som laget Shakespear-produksjoner måtte appelere til "
+"først?)  Og Hollywood går igjennom sykluser med en bestemt type filmer: fem "
+"astroidefilmer i slutten av 1990-tallet, to vulkamkatastrofefilmer i 1997."
 
 #.  PAGE BREAK 43
 #. type: Content of: <book><part><chapter><para>
@@ -2838,15 +2836,14 @@ msgid ""
 "bit of its culture free for the taking&mdash;free societies more fully than "
 "unfree, perhaps, but all societies to some degree."
 msgstr ""
-"Skapere her og overalt har alltid og til alle tider bygd på "
-"kreativiteten som eksisterte før og som omringer dem nå.  Denne "
-"byggingen er alltid og overalt i det minste delvis gjort uten "
-"tillatelse og uten å kompensere den opprinnelige skaperen.  Intet "
-"samfunn, fritt eller kontrollert, har noen gang krevd at enhver bruk "
-"skulle bli betalt for eller at tillatelse for Walt Disney-kreativitet "
-"alltid måtte skaffes.  Istedet har ethvert samfunn latt en bestemt bit "
-"av sin kultur være fritt tilgjenglig for alle å ta&mdash;frie samfunn "
-"muligens i større grad enn ufrie, men en viss grad i alle samfunn."
+"Skapere her og overalt har alltid og til alle tider bygd på kreativiteten "
+"som eksisterte før og som omringer dem nå.  Denne byggingen er alltid og "
+"overalt i det minste delvis gjort uten tillatelse og uten å kompensere den "
+"opprinnelige skaperen.  Intet samfunn, fritt eller kontrollert, har noen "
+"gang krevd at enhver bruk skulle bli betalt for eller at tillatelse for Walt "
+"Disney-kreativitet alltid måtte skaffes.  Istedet har ethvert samfunn latt "
+"en bestemt bit av sin kultur være fritt tilgjenglig for alle å ta&mdash;frie "
+"samfunn muligens i større grad enn ufrie, men en viss grad i alle samfunn."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2860,17 +2857,16 @@ msgid ""
 "musicians generally, whether white or not? To filmmakers generally, whether "
 "affiliated with a studio or not?"
 msgstr ""
-"Det vanskelige spørsmålet er derfor ikke <emphasis>om</emphasis> en "
-"kultur er fri.  Alle kulturer er frie til en viss grad. Det vanskelige "
-"spørsmålet er i stedet \"<emphasis>hvor</emphasis> fri er denne "
-"kulturen er?\" Hvor mye og hvor bredt, er kulturen fritt tilgjengelig "
-"for andre å ta, og bygge på?  Er den friheten begrenset til "
-"partimedlemmer?  Til medlemmer av kongefamilien?  Til de ti største "
-"selskapene på New York-børsen?  Eller er at frihet bredt tilgjengelig? "
-"Til kunstnere generelt, uansett om de er tilknyttet til nasjonalmuseet "
-"eller ikke?  Til musikere generelt, uansett om de er hvite eller ikke? "
-"Til filmskapere generelt, uansett om de er tilknyttet et studio eller "
-"ikke?"
+"Det vanskelige spørsmålet er derfor ikke <emphasis>om</emphasis> en kultur "
+"er fri.  Alle kulturer er frie til en viss grad. Det vanskelige spørsmålet "
+"er i stedet \"<emphasis>hvor</emphasis> fri er denne kulturen er?\" Hvor mye "
+"og hvor bredt, er kulturen fritt tilgjengelig for andre å ta, og bygge på?  "
+"Er den friheten begrenset til partimedlemmer?  Til medlemmer av "
+"kongefamilien?  Til de ti største selskapene på New York-børsen?  Eller er "
+"at frihet bredt tilgjengelig? Til kunstnere generelt, uansett om de er "
+"tilknyttet til nasjonalmuseet eller ikke?  Til musikere generelt, uansett om "
+"de er hvite eller ikke? Til filmskapere generelt, uansett om de er "
+"tilknyttet et studio eller ikke?"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5853,8 +5849,12 @@ msgstr ""
 "av en egenskap. Det er akkurat hva \"property\" betyr."
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+msgid "GNU/Linux operating system"
+msgstr "GNU/Linux-operativsystemet"
+
+#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "Linux operating system"
-msgstr ""
+msgstr "Linux-operativsystemet"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Microsoft"
@@ -5881,7 +5881,8 @@ msgid ""
 "free GNU/Linux operating system, then these Chinese users would not "
 "eventually be buying Microsoft.  Without piracy, then, Microsoft would "
 "lose.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
-"\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
+"\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> "
+"<placeholder type=\"indexterm\" id=\"3\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -5913,7 +5914,7 @@ msgid ""
 "to say who gets access to what&mdash;at least ordinarily. And if the law "
 "properly balances the rights of the copyright owner with the rights of "
 "access, then violating the law is still wrong.  <placeholder type=\"indexterm"
-"\" id=\"0\"/>"
+"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  PAGE BREAK 79
@@ -6998,8 +6999,8 @@ msgstr ""
 "tross for. Hvis vi setter disse tilfellene sammen, et mønster er klart:"
 
 #. type: Content of: <book><part><chapter><section><table><title>
-msgid "Table"
-msgstr "Tabell"
+msgid "Pattern of Court and Congress response"
+msgstr "Mønster for respons fra rett og kongress"
 
 #. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
 #, mtrans, fuzzy
@@ -12818,6 +12819,10 @@ msgstr ""
 "Vi har bare riper i overflaten av denne historien. gå tilbake til adobe eBok-"
 "leser."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Alice's Adventures in Wonderland (Carroll)"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12825,7 +12830,8 @@ msgid ""
 "relations nightmare. Among the books that you could download for free on the "
 "Adobe site was a copy of <citetitle>Alice's Adventures in Wonderland</"
 "citetitle>.  This wonderful book is in the public domain. Yet when you "
-"clicked on Permissions for that book, you got the following report:"
+"clicked on Permissions for that book, you got the following report: "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "tidlig i livet av adobe eBok reader LED adobe et PR mareritt. Blant bøkene "
 "som du kan laste ned gratis på adobe siden var en kopi av alice's adventures "
@@ -14436,6 +14442,10 @@ msgstr ""
 "Fjern tilordning av endringene som har gjennomgått en lov om opphavsrett. i "
 "1790, loven så ut som dette:"
 
+#. type: Content of: <book><part><chapter><section><table><title>
+msgid "Law status in 1790"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
 msgid "PUBLISH"
 msgstr "Publiser"
@@ -14481,6 +14491,10 @@ msgstr ""
 msgid "By the end of the nineteenth century, the law had changed to this:"
 msgstr "ved slutten av det nittende århundre, hadde loven endres til dette:"
 
+#. type: Content of: <book><part><chapter><section><table><title>
+msgid "Law status at the end of ninetheenth centory"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14509,6 +14523,10 @@ msgstr ""
 "kunne som fotokopiering maskiner ble mer vanlig, vi si loven begynte å se "
 "slik ut:"
 
+#. type: Content of: <book><part><chapter><section><table><title>
+msgid "Law status in 1975"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
 msgid "COPY"
 msgstr "Kopier"
@@ -14530,6 +14548,10 @@ msgstr ""
 "men fortsatt mye med å kopiere utenfor det kommersielle markedet vært "
 "gratis. men konsekvensen av fremveksten av digitale teknologier, spesielt i "
 "sammenheng med en digital network, betyr at loven nå ser slik ut:"
+
+#. type: Content of: <book><part><chapter><section><table><title>
+msgid "Law status now"
+msgstr ""
 
 #.  PAGE BREAK 183
 #. type: Content of: <book><part><chapter><section><para>
@@ -16731,6 +16753,10 @@ msgstr ""
 "journal av økonomiske litteratur 36 (1998): 818 (undersøkelse av samsvar "
 "litteratur)."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "alcohol prohibition"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Wars of prohibition are nothing new in America. This one is just something "
@@ -16749,7 +16775,8 @@ msgid ""
 "that a majority of cash businesses regularly cheat.<placeholder type="
 "\"footnote\" id=\"2\"/> We pride ourselves on our \"free society,\" but an "
 "endless array of ordinary behavior is regulated within our society. And as a "
-"result, a huge proportion of Americans regularly violate at least some law."
+"result, a huge proportion of Americans regularly violate at least some law.  "
+"<placeholder type=\"indexterm\" id=\"3\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -18141,6 +18168,10 @@ msgid ""
 "\">link #51</ulink>."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Nashville Songwriters Association"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Some people view the public domain with contempt. In their brief before the "
@@ -18149,7 +18180,7 @@ msgid ""
 "id=\"0\"/> But it is not piracy when the law allows it; and in our "
 "constitutional system, our law requires it. Some may not like the "
 "Constitution's requirements, but that doesn't make the Constitution a "
-"pirate's charter."
+"pirate's charter.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -19121,7 +19152,15 @@ msgid ""
 "world's experts in the history of the Progress Clause. And of course, there "
 "was a new brief by Eagle Forum, repeating and strengthening its arguments.  "
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "American Association of Law Libraries"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "National Writers Union"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -19130,7 +19169,8 @@ msgid ""
 "Those briefs framed a legal argument. Then to support the legal argument, "
 "there were a number of powerful briefs by libraries and archives, including "
 "the Internet Archive, the American Association of Law Libraries, and the "
-"National Writers Union."
+"National Writers Union.  <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "disse truser innrammet et juridisk argument. deretter for å støtte "
 "argumentet juridiske, var det en rekke kraftige truser av biblioteker og "
@@ -21813,7 +21853,8 @@ msgid ""
 "to support \"open source and free software\" is not to oppose commercial "
 "entities. It is, instead, to support a mode of software development that is "
 "different from Microsoft's.<placeholder type=\"footnote\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/>"
+"<placeholder type=\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" "
+"id=\"2\"/>"
 msgstr ""
 "Jeg mener ikke å gå inn i den debatten her.  Det er viktig kun for å gjøre "
 "det klart at skillet ikke er mellom kommersiell og ikke-kommersiell "
@@ -21824,7 +21865,8 @@ msgstr ""
 "aktør. Dermed er det å støtte \"fri programvare\" ikke å motsette seg "
 "kommersielle aktører.  Det er i stedet å støtte en måte å drive "
 "programvareutvikling som er forskjellig fra Microsofts.<placeholder type="
-"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
+"<placeholder type=\"indexterm\" id=\"2\"/>"
 
 #.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
@@ -22812,13 +22854,14 @@ msgid ""
 "system, so that at least a strain of free software would survive. That was "
 "the birth of the GNU project, into which Linus Torvalds's \"Linux\" kernel "
 "was added to produce the GNU/Linux operating system.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Derfor, i 1984, startet Stallmann på et prosjekt for å bygge et fritt "
 "operativsystem, slik i hvert fall en flik av fri programvare skulle "
 "overleve.  Dette var starten på GNU-prosjektet, som \"Linux\"-kjernen til "
 "Linus Torvalds senere ble lagt til i for å produsere GNU/Linux-"
-"operativsystemet. <placeholder type=\"indexterm\" id=\"0\"/>"
+"operativsystemet. <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
