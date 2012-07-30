@@ -2755,6 +2755,18 @@ msgid ""
 "use would have been considered \"fair.\" There was nothing wrong with the "
 "taking from the Grimms because the Grimms' work was in the public domain."
 msgstr ""
+"Men det tar bare noen sekunders refleksjon for å innse at det er "
+"masse av verdi der ute som \"eiendom\" ikke dekker.  Jeg mener ikke "
+"\"kjærlighet kan ikke kjøpes med penger\" men heller, at en verdi som "
+"ganske enkelt er del av produksjonsprosessen, både for kommersiell og "
+"ikke-kommersiell produksjon.  Hvis Disneys animatører hadde stjålet et "
+"sett med blyanter for å tegne Steamboat Willie, vi ville ikke nølt med "
+"å dømme det som galt&mdash;selv om det er trivielt og selv om det ikke "
+"blir oppdaget.  Men det var intet galt, i hvert fall slik loven var "
+"da, med at Disney tok fra Buster Keaton eller fra Grimm-brødrene.  Det "
+"var intet galt med å ta fra Keaton, fordi Disneys bruk ville blitt "
+"ansett som \"rimelig\".  Det var intet galt med å ta fra brødrene "
+"Grimm fordi deres verker var allemannseie."
 
 #.  PAGE BREAK 42
 #. type: Content of: <book><part><chapter><para>
