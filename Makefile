@@ -19,6 +19,8 @@ DBLATEX = dblatex \
 
 DBTOEPUB = dbtoepub
 
+IMAGES = images/cc.png
+
 all: lint lint.nb html epub pdf
 
 freeculture.nb.po: freeculture.pot
@@ -31,19 +33,19 @@ pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
-%.pdf: %.xml
-	$(DBLATEX) $^ --param=lingua=nb
+%.pdf: %.xml $(IMAGES)
+	$(DBLATEX) $< --param=lingua=nb
 
 # Alternative processing path to dblatex is to use xmlto using fop to
 # create PDF like this.  The PDF output (visual design) is better, but
 # the PDF index and footnote handling is worse and images are missing.
 #	xmlto --noautosize -m xmlto-pdf.xsl --with-fop pdf $^
 
-%.html: %.xml
-	xmlto html-nochunks $^
+%.html: %.xml $(IMAGES)
+	xmlto html-nochunks $<
 
-%.epub: %.xml
-	$(DBTOEPUB) $^
+%.epub: %.xml, $(IMAGES)
+	$(DBTOEPUB) $^ $<
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
