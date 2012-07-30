@@ -4359,14 +4359,14 @@ msgstr ""
 "kreativiteten overalt. men bygger vi lov til å lukke den teknologien."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"No way to run a culture,\" as Brewster Kahle, whom we'll meet in chapter "
 "<xref xrefstyle=\"select: labelnumber\" linkend=\"collectors\"/>, quipped to "
 "me in a rare moment of despondence."
 msgstr ""
-"\"ingen måte å kjøre en kultur\" som brewster kahle, hvem vil vi møtes i "
-"kapittel 9, quipped til meg i en sjelden øyeblikk av despondence."
+"\"Ikke måten å drive en kultur på\", sa Brewster Kahle, som vi møtte "
+"i kapittel <xref xrefstyle=\"select: labelnumber\" linkend=\"collectors\"/>, "
+"kommenterte til meg i et sjeldent øyeblikk av nedstemthet."
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER THREE: Catalogs"
@@ -5480,9 +5480,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "Again, the demand of the copyright holders seemed reasonable enough:"
-msgstr "igjen, etterspørselen av rettighetshavere virket fornuftig nok:"
+msgstr "Igjen, kravene til opphavsrettsinnehaverne virket rimelige nok:"
 
 #.  f16
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
@@ -5503,6 +5502,10 @@ msgid ""
 "think there is any lesser word to describe it. I think there are harsher "
 "words which would fit it.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Alt vi ber om er en veldig enkel ting, at folk som tar vår eiendom "
+"gratis betaler for den.  Vi forsøker å stoppe piratvirksomhet og jeg "
+"kan ikke tenke på et svakere ord for å beskrive det.  Jeg tror det er "
+"sterkere ord som ville passe.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  f17
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
