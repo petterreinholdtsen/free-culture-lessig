@@ -77,4 +77,4 @@ images/cc.svg:
 	wget -O $@ http://upload.wikimedia.org/wikipedia/commons/9/97/CC_some_rights_reserved_new_2.svg
 
 images/cc.png: images/cc.svg
-	convert -adaptive-resize 500x200 $^ $@
+	inkscape -z -D --export-height=200 -D --export-png=$(shell pwd)/$@ $^
