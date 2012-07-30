@@ -44,6 +44,9 @@ html: freeculture.html freeculture.nb.html
 %.html: %.xml $(IMAGES)
 	xmlto html-nochunks $<
 
+%.txt: %.xml $(IMAGES)
+	xmlto txt $<
+
 %.epub: %.xml, $(IMAGES)
 	$(DBTOEPUB) $^ $<
 
