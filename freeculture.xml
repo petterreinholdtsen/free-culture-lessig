@@ -41,13 +41,20 @@
 </copyright>
 
  <legalnotice>
-  <para>
+   <para>
+     <figure id="CreativeCommons">
+       <title>Creative Commons, Some rights reserved</title>
+       <graphic fileref="images/cc.png"></graphic>
+     </figure>
+   </para>
+
+   <para>
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
 this work, so long as attribution is given.  For more information
 about the license, click the icon above, or visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-  </para>
+   </para>
  </legalnotice>
 
  <abstract>
@@ -205,13 +212,6 @@ materials. Your support of the author's rights is appreciated.
 <para>
 To Eric Eldred&mdash;whose work first drew me to this cause, and for whom
 it continues still.
-</para>
-
-<para>
-<figure id="CreativeCommons">
-<title>Creative Commons, Some rights reserved</title>
-<graphic fileref="images/cc.png"></graphic>
-</figure>
 </para>
 </dedication>
 
@@ -12443,6 +12443,7 @@ Aventis, Bayer, Bristol-Myers Squibb, Hoffmann-La Roche,
 Glaxo-SmithKline, IBM, Motorola, Novartis, Pfizer, and Searle.) It
 included the Global Positioning System, which Ronald Reagan set free
 in the early 1980s. And it included "open source and free software."
+<indexterm><primary>academic journals</primary></indexterm>
 <indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
 <para>
@@ -13106,6 +13107,9 @@ Finally, consider a very recent example that more directly resonates
 with the story of this book. This is the shift in the way academic and
 scientific journals are produced.
 </para>
+<indexterm id="idxacademocjournals" class='startofrange'>
+  <primary>academic journals</primary>
+</indexterm>
 <para>
 As digital technologies develop, it is becoming obvious to many that
 printing thousands of copies of journals every month and sending them
@@ -13179,6 +13183,7 @@ distribution of content. But competition in our tradition is
 presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
+<indexterm startref="idxacademocjournals" class='endofrange'/>
 
 </section>
 <section id="oneidea">
