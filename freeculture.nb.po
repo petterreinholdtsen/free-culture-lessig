@@ -3127,7 +3127,6 @@ msgstr ""
 
 #.  PAGE BREAK 47
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The arguments in favor of requiring permission will sound surprisingly "
 "familiar. The photographer was \"taking\" something from the person or "
@@ -3136,12 +3135,13 @@ msgid ""
 "take the pencils that his animators used to draw Mickey, so, too, should "
 "these photographers not be free to take images that they thought valuable."
 msgstr ""
-"argumenter for å trenge tillatelse vil lyde overraskende kjent. fotografen "
-"ble \"tar\" noe fra personen eller bygge med fotografi han skjøt&mdash;"
-"pirating noe av verdi. noen trodde selv han tok målets sjel. akkurat som "
-"disney ikke var fritt til å ta den blyanter hans animatører brukes til å "
-"tegne mickey, så bør også, disse fotografer ikke være fritt til å ta bilder "
-"som de trodde verdifull."
+"Argumentene til fordel for å kreve tillatelser vil høres overraskende "
+"kjent ut.  Fotografen \"tok\" noe fra personen eller bygningen som ble "
+"fotografert&mdash;røvet til seg noe av verdi.  Noen trodde til og med "
+"at han tok målets sjel.  På samme måte som Disney ikke var fri til å "
+"ta blyantene som hans animatører brukte til å tegne Mikke, så skulle "
+"heller ikke disse fotografene være fri til å ta bilder som de fant "
+"verdi i."
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Warren, Samuel D."
