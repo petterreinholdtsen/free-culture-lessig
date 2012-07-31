@@ -58,3 +58,8 @@ dblatex
    (BTS #682901).
 
  - not showing norwegian language for system templates (BTS #682936).
+
+xsltproc / fop
+
+ - both version 1.75.2+dfsg-5 (squeeze) and version 1.76.1+dfsg-1
+   (wheezy) give broken footnotes and index.
