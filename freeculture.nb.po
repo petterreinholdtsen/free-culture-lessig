@@ -3447,7 +3447,6 @@ msgid "computer games"
 msgstr "dataspill"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This skill is precisely the craft a filmmaker learns. As Daley describes, "
 "\"people are very surprised about how they are led through a film. [I]t is "
@@ -3455,11 +3454,12 @@ msgid ""
 "filmmaker succeeds you do not know how you were led.\" If you know you were "
 "led through a film, the film has failed."
 msgstr ""
-"denne ferdigheten er nøyaktig håndverket filmskaper lærer. som daley "
-"beskriver, er\"folk veldig overrasket om hvordan de er ledet gjennom en "
-"film. [i] t er perfekt konstruert for å hindre at du ser det, så du har "
-"ingen anelse om. Hvis en filmskaper lykkes du ikke vet hvordan du ble ledet."
-"\"Hvis du vet at du ble ledet gjennom en film, filmen mislyktes."
+"Akkurat denne ferdigheten er håndverket en lærer til de som lager filmer. "
+"Som Daley skriver, \"folk er svært overrrasket over hvordan de "
+"blir ledet gjennom en film.  Den er perfekt konstruert for å hindre "
+"deg fra å se det, så du aner det ikke.  Hvis en som lager filmer "
+"lykkes så vet du ikke at du har vært ledet.\" Hvis du vet at du ble "
+"ledet igjennom en film, så har filmen feilet."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
