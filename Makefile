@@ -20,6 +20,11 @@ DBTOEPUB = dbtoepub
 
 IMAGES = images/cc.png
 
+XSLTS = \
+  data/user_param.xsl \
+  data/xetex_param.xsl \
+  data/pdf.xsl
+
 all: lint lint.nb html epub pdf
 
 freeculture.nb.po: freeculture.pot
@@ -32,7 +37,7 @@ pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
-%.pdf: %.xml $(IMAGES)
+%.pdf: %.xml $(IMAGES) $(XSLTS)
 	$(DBLATEX) $< --param=lingua=nb
 
 # Alternative processing path to dblatex is to use xmlto using fop to
