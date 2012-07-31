@@ -3018,6 +3018,15 @@ msgid ""
 "the art. It can be employed without preliminary study, without a darkroom "
 "and without chemicals.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Prinsippet til Kodak-systemet er skillet mellom arbeidet som enhver "
+"kan utføre når en tar fotografier, fra arbeidet som kun en ekspert kan "
+"gjøre. . . . Vi utstyrte alle, menn, kvinner og barn, som hadde "
+"tilstrekkelig intelligens til å peke en boks i riktig retning og "
+"trykke på en knapp, med et instrument som helt fjernet fra praksisen "
+"med å fotografere nødvendigheten av uvanlig utstyr eller for den del, "
+"noe som helst spesiell kunskap om kunstarten.  Det kan tas i bruk uten "
+"forutgående studier, uten et mørkerom og uten kjemikalier.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
