@@ -4168,15 +4168,14 @@ msgid "Brown, John Seely"
 msgstr "Brown, John Seely"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "John Seely Brown is the chief scientist of the Xerox Corporation.  His work, "
 "as his Web site describes it, is \"human learning and &hellip; the creation "
 "of knowledge ecologies for creating &hellip; innovation.\""
 msgstr ""
-"John seely brown er den ledende vitenskapsmannen for xerox corporation. hans "
-"arbeid, som hans webområdet beskriver det, er \"menneskelige læring og... "
-"etableringen av kunnskap dagsykluser for å opprette... innovasjon.\""
+"John Seely Brown er sjefsforsker ved Xerox Corporation.  Hans arbeid, "
+"i følge hans eget nettsted, er \"menneskelig læring og &hellip; å "
+"skape kunnskapsøkologier for å skape &hellip; innovasjon\"."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
