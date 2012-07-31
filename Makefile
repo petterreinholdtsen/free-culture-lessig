@@ -12,6 +12,7 @@ DBLATEX = dblatex \
 	-P latex.class.options=a5paper \
 	-T db2latex \
 	--backend=xetex \
+	--param lingua=nb \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
 	-p data/pdf.xsl
