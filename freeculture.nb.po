@@ -4347,16 +4347,16 @@ msgstr ""
 "hjernen [og] en juridisk system stenger ned som en del av hjernen.\""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We're building a technology that takes the magic of Kodak, mixes moving "
 "images and sound, and adds a space for commentary and an opportunity to "
 "spread that creativity everywhere. But we're building the law to close down "
 "that technology."
 msgstr ""
-"bygger vi en teknologi som tar magiske kodak, mikser flytte bilder og lyd, "
-"og legger til et mellomrom for kommentarer og en mulighet til å spre at "
-"kreativiteten overalt. men bygger vi lov til å lukke den teknologien."
+"Vi bygger en teknologi som tar magien til Kodag, misker inn "
+"bevegelige bilder og lyd, og legger inn plass for kommentarer og en "
+"mulighet til å spre denne kreativiteten over alt.  Men vi bygger loven "
+"for å stenge ned denne teknologien."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
