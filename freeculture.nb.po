@@ -4937,8 +4937,8 @@ msgstr ""
 "California vokste naturligvis raskt, og effektiv håndhevelse av "
 "føderale lover spredte seg til slutt vestover.  Men fordi patenter "
 "tildeler patentinnehaveren et i sannhet \"begrenset" monopol (kun "
-"sytten år på den tiden), så innen nok føderale lovmenn dukket opp var "
-"patentene utgått.  En ny industri var født, delvis fra piratvirksomhet "
+"sytten år på den tiden), så patentene var utgått før nok føderale lovmenn "
+"dukket opp. En ny industri var født, delvis fra piratvirksomhet "
 "mot Edison's kreative rettigheter."
 
 #. type: Content of: <book><part><chapter><section><title>
