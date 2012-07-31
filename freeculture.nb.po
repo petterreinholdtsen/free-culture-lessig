@@ -3081,7 +3081,6 @@ msgstr ""
 "id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In this way, the Kodak camera and film were technologies of expression.  The "
 "pencil or paintbrush was also a technology of expression, of course. But it "
@@ -3094,15 +3093,16 @@ msgid ""
 "ordinary people a way to express themselves more easily than any tools could "
 "have before."
 msgstr ""
-"på denne måten var kodak-kamera og film teknologier uttrykksmåter. blyant "
-"eller paintbrush var også en teknologi uttrykksmåter, selvfølgelig. men det "
-"tok år med trening før de kan distribueres av amatører på noen nyttige eller "
-"effektiv måte. med kodak var uttrykk mulig mye raskere og enklere. barriere "
-"til uttrykk ble senket. snobs ville hånlig flir på sin \"kvalitet\"; "
-"profesjonelle ville rabatt det som irrelevant. Men se et barn studere "
-"hvordan du best som ramme for et bilde, og du får en følelse av opplevelsen "
-"av kreativitet som kodak aktivert. demokratiske verktøy ga vanlige folk en "
-"måte å uttrykke seg lettere enn noen verktøy kan har før."
+"På denne måten var Kodak-kameraet og film uttrykksteknologier. "
+"Blyanten og malepenselen var selvfølgelig også en uttrykksteknologi. "
+"Men det tok årevis med trening før de kunne bli brukt nyttig og "
+"effektiv av amatører.  Med Kodaken var uttrykk mulig mye raskere og "
+"enklere.  Barriæren for å uttrykke seg var senket.  Snobber ville "
+"fnyse over \"kvaliteten\", profesjonelle ville avvise den som "
+"irrelevant.  Men se et barn studere hvordan best velge bildemotiv og "
+"du får følelsen av hva slags kreativitesterfaring som Kodaken "
+"muliggjorde.  Demokratiske verktøy ga vanlige folk en måte å uttrykke "
+"dem selv på enklere enn noe annet verktøy kunne ha gjort før."
 
 #.  f6
 #. type: Content of: <book><part><chapter><para><footnote><para>
