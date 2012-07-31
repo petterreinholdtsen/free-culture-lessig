@@ -4,7 +4,6 @@
 <!--
   TODO
   * indexterm primary
-  * replace '. . .' with something else
   * quotes ?
 -->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
@@ -595,10 +594,10 @@ The audience was hearing something no one had thought possible:
 <blockquote>
 <para>
 A glass of water was poured before the microphone in Yonkers; it
-sounded like a glass of water being poured. . . . A paper was crumpled
+sounded like a glass of water being poured. &hellip; A paper was crumpled
 and torn; it sounded like paper and not like a crackling forest
-fire. . . . Sousa marches were played from records and a piano solo
-and guitar number were performed. . . . The music was projected with a
+fire. &hellip; Sousa marches were played from records and a piano solo
+and guitar number were performed. &hellip; The music was projected with a
 live-ness rarely if ever heard before from a radio "music
 box."<footnote><para>
 Lawrence Lessing, <citetitle>Man of High Fidelity: Edwin Howard Armstrong</citetitle>
@@ -648,8 +647,8 @@ described,
 The forces for FM, largely engineering, could not overcome the weight
 of strategy devised by the sales, patent, and legal offices to subdue
 this threat to corporate position. For FM, if allowed to develop
-unrestrained, posed . . . a complete reordering of radio power
-. . . and the eventual overthrow of the carefully restricted AM system
+unrestrained, posed &hellip; a complete reordering of radio power
+&hellip; and the eventual overthrow of the carefully restricted AM system
 on which RCA had grown to power.<footnote><para>Lessing, 226.
 </para></footnote>
 </para>
@@ -1485,9 +1484,9 @@ Yet this illegal market exists and indeed flourishes in Japan, and in
 the view of many, it is precisely because it exists that Japanese manga
 flourish. As American graphic novelist Judd Winick said to me, "The
 early days of comics in America are very much like what's going on
-in Japan now. . . . American  comics were born out of copying each
+in Japan now. &hellip; American  comics were born out of copying each
 <!-- PAGE BREAK 40 -->
-other. . . . That's how [the artists] learn to draw&mdash;by going into comic
+other. &hellip; That's how [the artists] learn to draw&mdash;by going into comic
 books and not tracing them, but looking at them and copying them"
 and building from them.<footnote><para>
 <!-- f5 -->
@@ -1716,7 +1715,7 @@ Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: Johns
 <para>
 The principle of the Kodak system is the separation of the work that
 any person whomsoever can do in making a photograph, from the work
-that only an expert can do. . . . We furnish anybody, man, woman or
+that only an expert can do. &hellip; We furnish anybody, man, woman or
 child, who has sufficient intelligence to point a box straight and
 press a button, with an instrument which altogether removes from the
 practice of photography the necessity for exceptional facilities or,
@@ -1760,7 +1759,7 @@ glimpse of places they would never otherwise see. Amateur photography
 gave them the ability to record their own lives in a way they had
 never been able to do before. As author Brian Coe notes, "For the
 first time the snapshot album provided the man on the street with a
-permanent record of his family and its activities. . . . For the first
+permanent record of his family and its activities. &hellip; For the first
 time in history there exists an authentic visual record of the
 appearance and activities of the common man made without [literary]
 interpretation or bias."<footnote><para>
@@ -1909,7 +1908,7 @@ learning more and more of something teachers call "media literacy."
 <para>
 <!-- PAGE BREAK 49 -->
 "Media literacy," as Dave Yanofsky, the executive director of Just
-Think!, puts it, "is the ability . . . to understand, analyze, and
+Think!, puts it, "is the ability &hellip; to understand, analyze, and
 deconstruct media images. Its aim is to make [kids] literate about the
 way media works, the way it's constructed, the way it's delivered, and
 the way people access it."
@@ -1962,7 +1961,7 @@ California's Annenberg Center for Communication and dean of the
 
 <!-- PAGE BREAK 50 -->
 USC School of Cinema-Television, explained to me, the grammar was
-about "the placement of objects, color, . . . rhythm, pacing, and
+about "the placement of objects, color, &hellip; rhythm, pacing, and
 texture."<footnote>
 <para>
 <!-- f11 -->
@@ -2100,10 +2099,10 @@ you. [But i]nstead, if you say, "Well, with all these things that you
 can do, let's talk about this issue. Play for me music that you think
 reflects that, or show me images that you think reflect that, or draw
 for me something that reflects that." Not by giving a kid a video
-camera and . . . saying, "Let's go have fun with the video camera and
+camera and &hellip; saying, "Let's go have fun with the video camera and
 make a little movie." But instead, really help you take these elements
 that you understand, that are your language, and construct meaning
-about the topic. . . .
+about the topic. &hellip;
 </para>
 <para>
 That empowers enormously. And then what happens, of
@@ -2412,8 +2411,8 @@ extraordinary to report.
 </indexterm>
 <para>
 John Seely Brown is the chief scientist of the Xerox Corporation.
-His work, as his Web site describes it, is "human learning and . . . the
-creation of knowledge ecologies for creating . . . innovation."
+His work, as his Web site describes it, is "human learning and &hellip; the
+creation of knowledge ecologies for creating &hellip; innovation."
 </para>
 <para>
 Brown thus looks at these technologies of digital creativity a bit
@@ -2444,7 +2443,7 @@ FS/OSS technology works can tinker with the code.
 </para>
 <para>
 This opportunity creates a "completely new kind of learning platform,"
-as Brown describes. "As soon as you start doing that, you . . .
+as Brown describes. "As soon as you start doing that, you &hellip;
 unleash a free collage on the community, so that other people can
 start looking at your code, tinkering with it, trying it out, seeing
 if they can improve it." Each effort is a kind of
@@ -2455,7 +2454,7 @@ In this process, "the concrete things you tinker with are abstract.
 They are code." Kids are "shifting to the ability to tinker in the
 abstract, and this tinkering is no longer an isolated activity that
 you're doing in your garage. You are tinkering with a community
-platform. . . .  You are tinkering with other people's stuff. The more
+platform. &hellip;  You are tinkering with other people's stuff. The more
 you tinker the more you improve." The more you improve, the more you
 learn.
 </para>
@@ -2465,8 +2464,8 @@ collaborative way when that content is part of the Web. As Brown puts
 it, "the Web [is] the first medium that truly honors multiple forms of
 intelligence." Earlier technologies, such as the typewriter or word
 processors, helped amplify text. But the Web amplifies much more than
-text. "The Web . . . says if you are musical, if you are artistic, if
-you are visual, if you are interested in film . . . [then] there is a
+text. "The Web &hellip; says if you are musical, if you are artistic, if
+you are visual, if you are interested in film &hellip; [then] there is a
 lot you can start to do on this medium. [It] can now amplify and honor
 these multiple forms of intelligence."
 </para>
@@ -2511,7 +2510,7 @@ and want to learn."
 <para>
 "Yet," as Brown continued, and as the balance of this book will
 evince, "we are building a legal system that completely suppresses the
-natural tendencies of today's digital kids. . . . We're building an
+natural tendencies of today's digital kids. &hellip; We're building an
 architecture that unleashes 60 percent of the brain [and] a legal
 system that closes down that part of the brain."
 </para>
@@ -2628,8 +2627,8 @@ them, he was increasingly astonished.
 </para>
 <para>
 "It was absurd," he told me. "I don't think I did anything
-wrong. . . .  I don't think there's anything wrong with the search
-engine that I ran or . . . what I had done to it. I mean, I hadn't
+wrong. &hellip;  I don't think there's anything wrong with the search
+engine that I ran or &hellip; what I had done to it. I mean, I hadn't
 modified it in any way that promoted or enhanced the work of
 pirates. I just modified the search engine in a way that would make it
 easier to use"&mdash;again, a <emphasis>search engine</emphasis>,
@@ -2730,7 +2729,7 @@ activist:
 <blockquote>
 <para>
 I was definitely not an activist [before]. I never really meant to be
-an activist. . . . [But] I've been pushed into this. In no way did I
+an activist. &hellip; [But] I've been pushed into this. In no way did I
 ever foresee anything like this, but I think it's just completely 
 absurd what the RIAA has done.
 </para>
@@ -2738,7 +2737,7 @@ absurd what the RIAA has done.
 <para>
 Jesse's parents betray a certain pride in their reluctant activist. As
 his father told me, Jesse "considers himself very conservative, and so do
-I. . . . He's  not a tree hugger. . . . I  think it's bizarre that they would
+I. &hellip; He's  not a tree hugger. &hellip; I  think it's bizarre that they would
 pick on him. But he wants to let people know that they're sending the
 wrong message. And he wants to correct the record."
 </para>
@@ -3199,7 +3198,7 @@ General Edwin Zimmerman put it,
 Our point here is that unlike the problem of whether you have any
 copyright protection at all, the problem here is whether copyright
 holders who are already compensated, who already have a monopoly,
-should be permitted to extend that monopoly. . . . The
+should be permitted to extend that monopoly. &hellip; The
 
 <!-- PAGE BREAK 74 -->
 question here is how much compensation they should have and
@@ -3243,7 +3242,7 @@ permission or compensation&mdash;has grown with the Internet."
 </para></footnote>
 &mdash; then <emphasis>every</emphasis> industry affected by copyright
 today is the product and beneficiary of a certain kind of
-piracy. Film, records, radio, cable TV. . . . The list is long and
+piracy. Film, records, radio, cable TV. &hellip; The list is long and
 could well be expanded. Every generation welcomes the pirates from the
 last. Every generation&mdash;until now.
 </para>
@@ -3357,7 +3356,7 @@ less money than they otherwise would have had.<footnote><para>
 <!-- f3 -->
 For an analysis of the economic impact of copying technology, see Stan
 Liebowitz, <citetitle>Rethinking the Network Economy</citetitle> (New York: Amacom, 2002),
-144&ndash;90. "In some instances . . . the impact of piracy on the
+144&ndash;90. "In some instances &hellip; the impact of piracy on the
 copyright holder's ability to appropriate the value of the work will
 be negligible. One obvious instance is the case where the individual
 engaging in pirating would not have purchased an original even if
@@ -3672,7 +3671,7 @@ regulating technology was the answer.
 <para>
 Yet soon thereafter, and before Congress was given an opportunity
 to enact regulation, MTV was launched, and the industry had a record
-turnaround. "In the end," Cap Gemini concludes, "the `crisis' . . . was
+turnaround. "In the end," Cap Gemini concludes, "the `crisis' &hellip; was
 not the fault of the tapers&mdash;who did not [stop after MTV came into
 <!-- PAGE BREAK 83 -->
 being]&mdash;but had to a large extent resulted from stagnation in musical
@@ -4598,7 +4597,7 @@ way to protect authors.
 This was a clever argument, and one that had the support of some of
 the leading jurists of the day. It also displayed extraordinary
 chutzpah.  Until then, as law professor Raymond Patterson has put it,
-"The publishers . . . had as much concern for authors as a cattle
+"The publishers &hellip; had as much concern for authors as a cattle
 rancher has for cattle."<footnote><para>
 <!-- f6 -->
 Lyman Ray Patterson, "Free Speech, Copyright, and Fair Use," <citetitle>Vanderbilt
@@ -4781,7 +4780,7 @@ reported:
 </para>
 <blockquote>
 <para>
-By the above decision . . . near 200,000 pounds worth of what was
+By the above decision &hellip; near 200,000 pounds worth of what was
 honestly purchased at public sale, and which was yesterday thought
 property is now reduced to nothing. The Booksellers of London and
 Westminster, many of whom sold estates and houses to purchase
@@ -4881,16 +4880,16 @@ Else said. He was just confirming the permission with Fox.
 </para>
 <para>
 Then, as Else told me, "two things happened. First we discovered
-. . . that Matt Groening doesn't own his own creation&mdash;or at
+&hellip; that Matt Groening doesn't own his own creation&mdash;or at
 least that someone [at Fox] believes he doesn't own his own creation."
 And second, Fox "wanted ten thousand dollars as a licensing fee for us
-to use this four-point-five seconds of . . . entirely unsolicited
+to use this four-point-five seconds of &hellip; entirely unsolicited
 <citetitle>Simpsons</citetitle> which was in the corner of the shot."
 </para>
 <para>
 Else was certain there was a mistake. He worked his way up to someone
 he thought was a vice president for licensing, Rebecca Herrera.  He
-explained to her, "There must be some mistake here. . . .  We're
+explained to her, "There must be some mistake here. &hellip;  We're
 asking for your educational rate on this." That was the educational
 rate, Herrera told Else. A day or so later, Else called again to
 confirm what he had been told.
@@ -4989,7 +4988,7 @@ principle.
 <listitem><para>
 <!-- 3. -->
 I did, in fact, speak with one of your colleagues at Stanford Law
-School . . . who confirmed that it was fair use. He also confirmed
+School &hellip; who confirmed that it was fair use. He also confirmed
 that Fox would "depose and litigate you to within an inch of your
 life," regardless of the merits of my claim. He made clear that it
 would boil down to who had the bigger legal department and the deeper
@@ -5153,7 +5152,7 @@ hands and said, "Oh, my gosh, a film, it's so many copyrights, there's
 the music, there's the screenplay, there's the director, there's the
 actors." But we just broke it down. We just put it into its
 constituent parts and said, "Okay, there's this many actors, this many
-directors, . . . this many musicians," and we just went at it very
+directors, &hellip; this many musicians," and we just went at it very
 systematically and cleared the rights.
 </para>
 </blockquote>
@@ -5180,7 +5179,7 @@ Did it make sense, I asked Alben, that this is the way a new work
 has to be made?
 </para>
 <para>
-For, as he acknowledged, "very few . . . have the time and resources,
+For, as he acknowledged, "very few &hellip; have the time and resources,
 and the will to do this," and thus, very few such works would ever be
 made. Does it make sense, I asked him, from the standpoint of what
 anybody really thought they were ever giving rights for originally, that
@@ -5189,9 +5188,9 @@ you would have to go clear rights for these kinds of clips?
 <blockquote>
 <para>
 I don't think so. When an actor renders a performance in a movie,
-he or she gets paid very well. . . . And then when 30 seconds of
+he or she gets paid very well. &hellip; And then when 30 seconds of
 that performance is used in a new product that is a retrospective
-of somebody's career, I don't think that that person . . . should be
+of somebody's career, I don't think that that person &hellip; should be
 compensated for that.
 </para>
 </blockquote>
@@ -5498,8 +5497,8 @@ graduate student wanting to study that, and you wanted to get those
 original back and forth exchanges between the two, the
 
 <!-- PAGE BREAK 122 -->
-<citetitle>60 Minutes</citetitle> episode that came out after it . . . it would be almost
-impossible. . . . Those materials are almost unfindable. . . .
+<citetitle>60 Minutes</citetitle> episode that came out after it &hellip; it would be almost
+impossible. &hellip; Those materials are almost unfindable. &hellip;
 </para>
 </blockquote>
 <para>
@@ -5671,13 +5670,13 @@ Kahle describes,
 <para>
 It looks like there's about two to three million recordings of music.
 Ever. There are about a hundred thousand theatrical releases of
-movies, . . . and about one to two million movies [distributed] during
+movies, &hellip; and about one to two million movies [distributed] during
 the twentieth century. There are about twenty-six million different
 titles of books. All of these would fit on computers that would fit in
 this room and be able to be afforded by a small company.  So we're at
 a turning point in our history. Universal access is the goal. And the
 opportunity of leading a different life, based on this, is
-. . . thrilling. It could be one of the things humankind would be most
+&hellip; thrilling. It could be one of the things humankind would be most
 proud of. Up there with the Library of Alexandria, putting a man on
 the moon, and the invention of the printing press.
 </para>
@@ -6261,7 +6260,7 @@ should be especially wary of the request. It is always a bad deal for
 the government to get into the business of regulating speech
 markets. The risks and dangers of that game are precisely why our
 framers created the First Amendment to our Constitution: "Congress
-shall make no law . . .  abridging the freedom of speech." So when
+shall make no law &hellip;  abridging the freedom of speech." So when
 Congress is being asked to pass laws that would "abridge" the freedom
 of speech, it should ask&mdash; carefully&mdash;whether such
 regulation is justified.
@@ -7857,7 +7856,7 @@ put it in a recent article about Rupert Murdoch,
 <para>
 Murdoch's companies now constitute a production system
 unmatched in its integration. They supply content&mdash;Fox movies
-. . .  Fox TV shows . . . Fox-controlled sports broadcasts, plus
+&hellip;  Fox TV shows &hellip; Fox-controlled sports broadcasts, plus
 newspapers and books. They sell the content to the public and to
 advertisers&mdash;in newspapers, on the broadcast network, on the
 cable channels. And they operate the physical distribution system
@@ -8538,7 +8537,7 @@ is affected," he reports.
 </para>
 <para>
 "What affects it?" the father asks.  "Those queer things that are
-called the eyes . . . are diseased . . . in such a way as to affect
+called the eyes &hellip; are diseased &hellip; in such a way as to affect
 his brain."
 </para>
 <para>
@@ -8560,7 +8559,7 @@ different from the DNA of the skin. This possibility is an underused
 <!-- PAGE BREAK 188 -->
 plot for murder mysteries. "But the DNA shows with 100 percent
 certainty that she was not the person whose blood was at the
-scene. . . ."
+scene. &hellip;"
 </para>
 <indexterm startref="idxtcotb" class='endofrange'/>
 <indexterm startref="idxwells" class="endofrange"/>
@@ -8989,7 +8988,7 @@ As Jed Horovitz, the businessman behind Video Pipeline, said to me,
 We're losing [creative] opportunities right and left. Creative people
 are being forced not to express themselves. Thoughts are not being
 expressed. And while a lot of stuff may [still] be created, it still
-won't get distributed. Even if the stuff gets made . . . you're not
+won't get distributed. Even if the stuff gets made &hellip; you're not
 going to get it distributed in the mainstream media unless
 <!-- PAGE BREAK 197 -->
 you've got a little note from a lawyer saying, "This has been
@@ -9174,7 +9173,7 @@ engineers in Germany had rigged a new vehicle to play MP3s via
 the car's built-in sound system, but that the company's marketing
 and legal departments weren't comfortable with pushing this 
 forward for release stateside. Even today, no new cars are sold in the
-United States with bona fide MP3 players. . . . <footnote>
+United States with bona fide MP3 players. &hellip; <footnote>
 <para>
 <!-- f5. -->
 Rafe Needleman, "Driving in Cars with MP3s," <citetitle>Business 2.0</citetitle>, 16 June
@@ -9440,7 +9439,7 @@ An almost unlimited number of FM stations was possible in the
 shortwaves, thus ending the unnatural restrictions imposed on radio in
 the crowded longwaves. If FM were freely developed, the number of
 stations would be limited only by economics and competition rather
-than by technical restrictions. . . . Armstrong likened the situation
+than by technical restrictions. &hellip; Armstrong likened the situation
 that had grown up in radio to that following the invention of the
 printing press, when governments and ruling interests attempted to
 control this new instrument of mass communications by imposing
@@ -9629,7 +9628,7 @@ some testimony about what they thought a willing buyer would
 pay to a willing seller, and it was much higher. It was ten times
 higher than what radio stations pay to perform the same songs for
 the same period of time. And so the attorneys representing the
-webcasters asked the RIAA, . . . "How  do  you  come  up  with a
+webcasters asked the RIAA, &hellip; "How  do  you  come  up  with a
 
 <!-- PAGE BREAK 208 -->
 rate that's so much higher? Why is it worth more than radio? 
@@ -9637,7 +9636,7 @@ rate that's so much higher? Why is it worth more than radio?
 here we have hundreds of thousands of webcasters who
 want to pay, and that should establish the market rate, and if you
 set the rate so high, you're going to drive the small webcasters out
-of business. . . ."
+of business. &hellip;"
 </para>
 <para>
 And the RIAA experts said, "Well, we don't really model this as an
@@ -9940,11 +9939,11 @@ explains,
 <blockquote>
 <para>
 then all of a sudden a lot of basic civil liberty protections
-evaporate to one degree or another. . . . If you're a copyright
+evaporate to one degree or another. &hellip; If you're a copyright
 infringer, how can you hope to have any privacy rights? If you're a
 copyright infringer, how can you hope to be secure against seizures of
 your computer? How can you hope to continue to receive Internet
-access? . . . Our sensibilities change as soon as we think, "Oh, well,
+access? &hellip; Our sensibilities change as soon as we think, "Oh, well,
 but that person's a criminal, a lawbreaker." Well, what this campaign
 against file sharing has done is turn a remarkable percentage of the
 American Internet-using population into "lawbreakers."
@@ -10061,7 +10060,7 @@ people use drugs, and I think that's the closest analog, [but] many
 have noted that the war against drugs has eroded all of our civil
 liberties because it's treated so many Americans as criminals. Well, I
 think it's fair to say that file sharing is an order of magnitude
-larger number of Americans than drug use. . . . If forty to sixty
+larger number of Americans than drug use. &hellip; If forty to sixty
 million Americans have become lawbreakers, then we're really on a
 slippery slope to lose a lot of civil liberties for all forty to sixty
 million of them.
@@ -10259,9 +10258,9 @@ different. As you know, the Constitution says,
 </para>
 <blockquote>
 <para>
-Congress has the power to promote the Progress of Science . . .
-by securing for limited Times to Authors . . . exclusive Right to
-their . . . Writings. . . .
+Congress has the power to promote the Progress of Science &hellip;
+by securing for limited Times to Authors &hellip; exclusive Right to
+their &hellip; Writings. &hellip;
 </para>
 </blockquote>
 <para>
@@ -10270,7 +10269,7 @@ clause of Article I, section 8 of our Constitution. Every other clause
 granting power to Congress simply says Congress has the power to do
 something&mdash;for example, to regulate "commerce among the several
 states" or "declare War." But here, the "something" is something quite
-specific&mdash;to "promote . . . Progress"&mdash;through means that
+specific&mdash;to "promote &hellip; Progress"&mdash;through means that
 are also specific&mdash; by "securing" "exclusive Rights" (i.e.,
 copyrights) "for limited Times."
 </para>
@@ -12253,7 +12252,7 @@ Owns the Knowledge Economy?</citetitle> (New York: The New Press, 2003), 37.
 <para>
 However, the United States government opposed the bill. Indeed, more
 than opposed. As the International Intellectual Property Association
-characterized it, "The U.S. government pressured South Africa . . .
+characterized it, "The U.S. government pressured South Africa &hellip;
 not to permit compulsory licensing or parallel
 imports."<footnote><para>
 <!-- f3. -->
@@ -12835,7 +12834,7 @@ available at
 Eminem has just been sued for "sampling" someone else's
 music.<footnote><para>
 <!-- f12. -->
-Jon Wiederhorn, "Eminem Gets Sued . . . by a Little Old Lady,"
+Jon Wiederhorn, "Eminem Gets Sued &hellip; by a Little Old Lady,"
 mtv.com, 17 September 2003, available at
 <ulink url="http://free-culture.cc/notes/">link #68</ulink>.
 </para></footnote>
