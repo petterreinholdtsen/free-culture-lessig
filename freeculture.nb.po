@@ -3197,6 +3197,15 @@ msgid ""
 "without clearing the rights to do the capturing.<placeholder type=\"footnote"
 "\" id=\"0\"/>)"
 msgstr ""
+"Heldigvis for Mr. Eastman, og for fotografering generelt, gikk disse "
+"tidligere avgjørelsene i favør av piratene.  Generelt ble det ikke "
+"nødvendig å sikre seg tillatelse før et bilde kunne tas og deles "
+"med andre.  I stedet var det antatt at tillatelse var gitt.  Frihet "
+"var utgangspunktet.  (Loven ga etter en stund et unntak for berømte "
+"personer: kommersielle fotografer som tok bilder av berømte personer "
+"for kommersielle formål har flere begresninger enn resten av oss.  Men "
+"i det vanlige tilfellet, kan bildet fanges uten å klarere rettighetene "
+"for a fange det.<placeholder type=\"footnote\" id=\"0\"/>)"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -4918,7 +4927,6 @@ msgstr ""
 
 #.  PAGE BREAK 68
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Of course, California grew quickly, and the effective enforcement of federal "
 "law eventually spread west. But because patents grant the patent holder a "
@@ -4926,11 +4934,12 @@ msgid ""
 "enough federal marshals appeared, the patents had expired. A new industry "
 "had been born, in part from the piracy of Edison's creative property."
 msgstr ""
-"Selvfølgelig, california vokste raskt, og effektiv håndhevelse av føderale "
-"lov til slutt spre vest. men fordi patenter gi patent holder en virkelig "
-"\"begrenset\" monopol (bare sytten år på den tiden), etter tid nok føderale "
-"marshals dukket opp, patentene var utløpt. en ny industri hadde blitt født, "
-"delvis fra piratkopiering av Edisons kreative eiendom."
+"California vokste naturligvis raskt, og effektiv håndhevelse av "
+"føderale lover spredte seg til slutt vestover.  Men fordi patenter "
+"tildeler patentinnehaveren et i sannhet \"begrenset" monopol (kun "
+"sytten år på den tiden), så innen nok føderale lovmenn dukket opp var "
+"patentene utgått.  En ny industri var født, delvis fra piratvirksomhet "
+"mot Edison's kreative rettigheter."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Recorded Music"
