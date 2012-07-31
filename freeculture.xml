@@ -6,8 +6,8 @@
   * indexterm primary
   * quotes ?
 -->
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
-"http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" 
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
    <!ENTITY copy "©">
    <!ENTITY translationblock "">
@@ -2846,6 +2846,9 @@ Edison's creative property.
 The record industry was born of another kind of piracy, though to see
 how requires a bit of detail about the way the law regulates music.
 </para>
+<indexterm id="idxfourneauxhenri" class='startofrange'>
+  <primary>Fourneaux, Henri</primary>
+</indexterm>
 <para>
 At the time that Edison and Henri Fourneaux invented machines
 for reproducing music (Edison the phonograph, Fourneaux the player
@@ -2875,6 +2878,7 @@ then made copies of those recordings.  Because of this gap in the law,
 then, I could effectively pirate someone else's song without paying
 its composer anything.
 </para>
+<indexterm startref="idxfourneauxhenri" class='endofrange'/>
 <para>
 The composers (and publishers) were none too happy about
 <!-- PAGE BREAK 69 -->
@@ -2945,6 +2949,7 @@ To Amend and Consolidate the Acts Respecting Copyright, 376 (prepared
 memorandum of Philip Mauro, general patent counsel of the American
 Graphophone Company Association).
 </para></footnote>
+<indexterm><primary>American Graphophone Company</primary></indexterm>
 </para>
 <para>
 The law soon resolved this battle in favor of the composer
