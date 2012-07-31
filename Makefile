@@ -14,8 +14,7 @@ DBLATEX = dblatex \
 	--backend=xetex \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
-	-p data/pdf.xsl \
-	--param=lingua=nb
+	-p data/pdf.xsl
 
 DBTOEPUB = dbtoepub
 
