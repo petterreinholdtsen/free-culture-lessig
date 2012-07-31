@@ -38,7 +38,7 @@ epub: freeculture.nb.epub
 html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml $(IMAGES) $(XSLTS)
-	$(DBLATEX) $< --param=lingua=nb
+	$(DBLATEX) $<
 
 # Alternative processing path to dblatex is to use xmlto using fop to
 # create PDF like this.  The PDF output (visual design) is better, but
