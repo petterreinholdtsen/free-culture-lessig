@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-31 14:33+0300\n"
+"POT-Creation-Date: 2012-07-31 17:52+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3135,13 +3135,12 @@ msgid ""
 "take the pencils that his animators used to draw Mickey, so, too, should "
 "these photographers not be free to take images that they thought valuable."
 msgstr ""
-"Argumentene til fordel for å kreve tillatelser vil høres overraskende "
-"kjent ut.  Fotografen \"tok\" noe fra personen eller bygningen som ble "
-"fotografert&mdash;røvet til seg noe av verdi.  Noen trodde til og med "
-"at han tok målets sjel.  På samme måte som Disney ikke var fri til å "
-"ta blyantene som hans animatører brukte til å tegne Mikke, så skulle "
-"heller ikke disse fotografene være fri til å ta bilder som de fant "
-"verdi i."
+"Argumentene til fordel for å kreve tillatelser vil høres overraskende kjent "
+"ut.  Fotografen \"tok\" noe fra personen eller bygningen som ble "
+"fotografert&mdash;røvet til seg noe av verdi.  Noen trodde til og med at han "
+"tok målets sjel.  På samme måte som Disney ikke var fri til å ta blyantene "
+"som hans animatører brukte til å tegne Mikke, så skulle heller ikke disse "
+"fotografene være fri til å ta bilder som de fant verdi i."
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Warren, Samuel D."
@@ -3455,11 +3454,11 @@ msgid ""
 "led through a film, the film has failed."
 msgstr ""
 "Akkurat denne ferdigheten er håndverket en lærer til de som lager filmer. "
-"Som Daley skriver, \"folk er svært overrrasket over hvordan de "
-"blir ledet gjennom en film.  Den er perfekt konstruert for å hindre "
-"deg fra å se det, så du aner det ikke.  Hvis en som lager filmer "
-"lykkes så vet du ikke at du har vært ledet.\" Hvis du vet at du ble "
-"ledet igjennom en film, så har filmen feilet."
+"Som Daley skriver, \"folk er svært overrrasket over hvordan de blir ledet "
+"gjennom en film.  Den er perfekt konstruert for å hindre deg fra å se det, "
+"så du aner det ikke.  Hvis en som lager filmer lykkes så vet du ikke at du "
+"har vært ledet.\" Hvis du vet at du ble ledet igjennom en film, så har "
+"filmen feilet."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -4866,6 +4865,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
+msgid "Fox, William"
+msgstr "Fox, William"
+
+#. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
 msgid "General Film Company"
 msgstr ""
 
@@ -4885,7 +4888,8 @@ msgid ""
 "exchanges, except for the one owned by the independent William Fox who "
 "defied the Trust even after his license was revoked.<placeholder type="
 "\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/>"
+"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
+"id=\"3\"/>"
 msgstr ""
 
 #.  f3
@@ -4940,6 +4944,10 @@ msgstr ""
 "Plateindustrien ble født av en annen type piratvirksomhet, dog for å forstå "
 "hvordan krever at en setter seg inn i detaljer om hvordan loven regulerer "
 "musikk."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Fourneaux, Henri"
+msgstr "Fourneaux, Henri"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -5100,6 +5108,10 @@ msgstr ""
 "memorandum of philip mauro, patent sjefsjurist for amerikansk graphophone "
 "selskapet association)."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "American Graphophone Company"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "These arguments have familiar echoes in the wars of our day. So, too, do the "
@@ -5113,7 +5125,8 @@ msgid ""
 "talk about `theft,'\" the general counsel of the American Graphophone "
 "Company wrote, \"is the merest claptrap, for there exists no property in "
 "ideas musical, literary or artistic, except as defined by statute."
-"\"<placeholder type=\"footnote\" id=\"1\"/>"
+"\"<placeholder type=\"footnote\" id=\"1\"/> <placeholder type=\"indexterm\" "
+"id=\"2\"/>"
 msgstr ""
 
 #.  PAGE BREAK 70
