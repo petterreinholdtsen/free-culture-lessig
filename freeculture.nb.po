@@ -8710,10 +8710,8 @@ msgstr ""
 "verste fall stoppe, prosessen."
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para><indexterm><primary>
-#, fuzzy
-#| msgid "Eastman, George"
 msgid "Lucas, George"
-msgstr "Eastman, George"
+msgstr "Lucas, George"
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
 #, fuzzy
