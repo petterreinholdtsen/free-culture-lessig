@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-30 20:27+0300\n"
+"POT-Creation-Date: 2012-07-31 12:08+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3039,9 +3039,9 @@ msgid ""
 "camera first went on sale in 1888; one year later, Kodak was printing more "
 "than six thousand negatives a day.  From 1888 through 1909, while industrial "
 "production was rising by 4.7 percent, photographic equipment and material "
-"sales increased by percent.<placeholder type=\"footnote\" id=\"0\"/> Eastman "
-"Kodak's sales during the same period experienced an average annual increase "
-"of over 17 percent.<placeholder type=\"footnote\" id=\"1\"/>"
+"sales increased by 11 percent.<placeholder type=\"footnote\" id=\"0\"/> "
+"Eastman Kodak's sales during the same period experienced an average annual "
+"increase of over 17 percent.<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 
 #.  f5
@@ -4353,10 +4353,10 @@ msgid ""
 "spread that creativity everywhere. But we're building the law to close down "
 "that technology."
 msgstr ""
-"Vi bygger en teknologi som tar magien til Kodag, misker inn "
-"bevegelige bilder og lyd, og legger inn plass for kommentarer og en "
-"mulighet til å spre denne kreativiteten over alt.  Men vi bygger loven "
-"for å stenge ned denne teknologien."
+"Vi bygger en teknologi som tar magien til Kodak, misker inn bevegelige "
+"bilder og lyd, og legger inn plass for kommentarer og en mulighet til å spre "
+"denne kreativiteten over alt.  Men vi bygger loven for å stenge ned denne "
+"teknologien."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4364,8 +4364,8 @@ msgid ""
 "<xref xrefstyle=\"select: labelnumber\" linkend=\"collectors\"/>, quipped to "
 "me in a rare moment of despondence."
 msgstr ""
-"\"Ikke måten å drive en kultur på\", sa Brewster Kahle, som vi møtte "
-"i kapittel <xref xrefstyle=\"select: labelnumber\" linkend=\"collectors\"/>, "
+"\"Ikke måten å drive en kultur på\", sa Brewster Kahle, som vi møtte i "
+"kapittel <xref xrefstyle=\"select: labelnumber\" linkend=\"collectors\"/>, "
 "kommenterte til meg i et sjeldent øyeblikk av nedstemthet."
 
 #. type: Content of: <book><part><chapter><title>
@@ -5502,10 +5502,10 @@ msgid ""
 "think there is any lesser word to describe it. I think there are harsher "
 "words which would fit it.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"Alt vi ber om er en veldig enkel ting, at folk som tar vår eiendom "
-"gratis betaler for den.  Vi forsøker å stoppe piratvirksomhet og jeg "
-"kan ikke tenke på et svakere ord for å beskrive det.  Jeg tror det er "
-"sterkere ord som ville passe.<placeholder type=\"footnote\" id=\"0\"/>"
+"Alt vi ber om er en veldig enkel ting, at folk som tar vår eiendom gratis "
+"betaler for den.  Vi forsøker å stoppe piratvirksomhet og jeg kan ikke tenke "
+"på et svakere ord for å beskrive det.  Jeg tror det er sterkere ord som "
+"ville passe.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  f17
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13360,6 +13360,10 @@ msgstr ""
 "selv krenker andres opphavsrett, hans akademiske papir var aktivere andre "
 "til å krenke andres opphavsrett."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Conrad, Paul"
+msgstr "Conrad, Paul"
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13369,7 +13373,8 @@ msgid ""
 "consumers to copy films without the permission of the copyright owner. No "
 "doubt there were uses of the technology that were legal: Fred Rogers, aka "
 "\"<citetitle>Mr. Rogers</citetitle>,\" for example, had testified in that "
-"case that he wanted people to feel free to tape Mr. Rogers' Neighborhood."
+"case that he wanted people to feel free to tape Mr. Rogers' Neighborhood.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "bizarreness av disse argumentene er fanget i en tegneserie tegnet i 1981 av "
 "paul conrad. på den tiden, en domstol i california hadde holdt at "
@@ -13425,7 +13430,8 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
-"This led Conrad to draw the cartoon below, which we can adopt to the DMCA."
+"This led Conrad to draw the cartoon below, which we can adopt to the DMCA.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Dette førte conrad å trekke tegneserie nedenfor, som vi kan vedta å dmca."
 
@@ -13483,7 +13489,8 @@ msgid ""
 "technologies) are illegal. Flash: <emphasis>No one ever died from copyright "
 "circumvention</emphasis>. Yet the law bans circumvention technologies "
 "absolutely, despite the potential that they might do some good, but permits "
-"guns, despite the obvious and tragic harm they do."
+"guns, despite the obvious and tragic harm they do.  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "den åpenbare punkt conrad's tegneserie er weirdness av en verden der guns er "
 "juridisk, til tross for skade som de kan gjøre, mens videospillere (og "
@@ -14990,6 +14997,10 @@ msgstr ""
 "for å begynne å tenke på hvordan vi skal reagere på denne chimera. hvilke "
 "regler bør styre det?"
 
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "Conyers, John, Jr."
+msgstr "Conyers, John, Jr."
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Berman, Howard L."
 msgstr "Berman, Howard L."
@@ -15023,7 +15034,8 @@ msgid ""
 "sharer identities, see James Collins, \"RIAA Steps Up Bid to Force BC, MIT "
 "to Name Students,\" <citetitle>Boston Globe</citetitle>, 8 August 2003, D3, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #36</ulink>.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -21870,6 +21882,10 @@ msgstr ""
 "University Stern School of Business (3. mai 2001), tilgjengelig fra <ulink "
 "url=\"http://free-culture.cc/notes/\">link #63</ulink>."
 
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "\"copyleft\" licenses"
+msgstr ""
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "I don't mean to enter that debate here. It is important only to make clear "
@@ -21882,7 +21898,7 @@ msgid ""
 "entities. It is, instead, to support a mode of software development that is "
 "different from Microsoft's.<placeholder type=\"footnote\" id=\"0\"/> "
 "<placeholder type=\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" "
-"id=\"2\"/>"
+"id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/>"
 msgstr ""
 "Jeg mener ikke å gå inn i den debatten her.  Det er viktig kun for å gjøre "
 "det klart at skillet ikke er mellom kommersiell og ikke-kommersiell "
@@ -21894,7 +21910,8 @@ msgstr ""
 "kommersielle aktører.  Det er i stedet å støtte en måte å drive "
 "programvareutvikling som er forskjellig fra Microsofts.<placeholder type="
 "\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/>"
+"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
+"id=\"3\"/>"
 
 #.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
@@ -22720,6 +22737,10 @@ msgstr ""
 msgid "Amazon"
 msgstr "Amazon"
 
+#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+msgid "cookies, Internet"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -22730,7 +22751,7 @@ msgid ""
 "pages. Now, because of the architecture of the Net and the function of "
 "cookies on the Net, it is easier to collect the data than not. The friction "
 "has disappeared, and hence any \"privacy\" protected by the friction "
-"disappears, too."
+"disappears, too.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Angi Internett, der kostnaden for sporing av surfing spesielt har blitt "
 "ganske liten. Hvis du er en kunde på amazon, deretter samler som du blar "
