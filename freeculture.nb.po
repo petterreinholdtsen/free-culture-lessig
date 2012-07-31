@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-31 13:47+0300\n"
+"POT-Creation-Date: 2012-07-31 14:33+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4173,9 +4173,9 @@ msgid ""
 "as his Web site describes it, is \"human learning and &hellip; the creation "
 "of knowledge ecologies for creating &hellip; innovation.\""
 msgstr ""
-"John Seely Brown er sjefsforsker ved Xerox Corporation.  Hans arbeid, "
-"i følge hans eget nettsted, er \"menneskelig læring og &hellip; å "
-"skape kunnskapsøkologier for å skape &hellip; innovasjon\"."
+"John Seely Brown er sjefsforsker ved Xerox Corporation.  Hans arbeid, i "
+"følge hans eget nettsted, er \"menneskelig læring og &hellip; å skape "
+"kunnskapsøkologier for å skape &hellip; innovasjon\"."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -20432,14 +20432,23 @@ msgstr "Bolling, Ruben"
 msgid ""
 "The best responses were in the cartoons. There was a gaggle of hilarious "
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
-"case, was Ruben Bolling's, reproduced on the next page. The \"powerful and "
-"wealthy\" line is a bit unfair. But the punch in the face felt exactly like "
-"that.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"case, was Ruben Bolling's, reproduced on the next page (<xref linkend="
+"\"fig-18\"/>). The \"powerful and wealthy\" line is a bit unfair. But the "
+"punch in the face felt exactly like that.  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 msgstr ""
 "de beste svarene var i tegneserier. Det var en gaggle av morsom bilder&mdash;"
 "av mickey i fengsel og lignende. best, fra min mening i saken, var ruben "
 "bolling, gjengis på neste side. linjen \"kraftige og velstående\" er en "
 "smule urettferdig. Men slag i ansiktet følte akkurat sånn."
+
+#. type: Content of: <book><part><chapter><figure><title>
+msgid "Tom the Dancing Bug cartoon"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><figure>
+msgid "<graphic fileref=\"images/18.png\"></graphic>"
+msgstr "<graphic fileref=\"images/18.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
