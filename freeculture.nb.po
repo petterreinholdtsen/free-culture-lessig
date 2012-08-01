@@ -3172,7 +3172,6 @@ msgstr ""
 
 #.  f8
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See Melville B. Nimmer, \"The Right of Publicity,\" <citetitle>Law and "
 "Contemporary Problems</citetitle> 19 (1954): 203; William L. Prosser, "
@@ -3181,10 +3180,12 @@ msgid ""
 "Electronics America, Inc</citetitle>., 971 F.  2d 1395 (9th Cir. 1992), "
 "cert. denied, 508 U.S. 951 (1993)."
 msgstr ""
-"se melville b. nimmer, \"rett publisitet,\" lov og moderne problemer 19 "
-"(1954): 203; William l. prosser, \"personvern\", california lov gå gjennom "
-"48 (1960) 398­407; hvite v. samsung electronics america, inc., 971 f. 2D 1395 "
-"(9 cir. 1992), cert. nektet, 508 amerikansk 951 (1993)."
+"Se Melville B. Nimmer, \"The Right of Publicity,\" <citetitle>Law and "
+"Contemporary Problems</citetitle> 19 (1954): 203; William L. Prosser, "
+"\"Privacy,\" <citetitle>California Law Review</citetitle> 48 (1960) "
+"398&ndash;407; <citetitle>White</citetitle> mot <citetitle>Samsung "
+"Electronics America, Inc</citetitle>., 971 F.  2d 1395 (9th Cir. 1992), "
+"sert. nektet, 508 U.S. 951 (1993)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
