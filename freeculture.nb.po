@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-07-31 17:52+0300\n"
+"POT-Creation-Date: 2012-08-01 23:51+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1169,7 +1169,14 @@ msgstr ""
 "Men de fleste legger ikke engang merke til denne endringen som internettet "
 "har introdusert."
 
-#.  PAGE BREAK 23
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Barlow, Joel"
+msgstr "Barlow, Joel"
+
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Webster, Noah"
+msgstr "Webster, Noah"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "We can glimpse a sense of this change by distinguishing between commercial "
@@ -1179,7 +1186,8 @@ msgid ""
 "rest. When old men sat around parks or on street corners telling stories "
 "that kids and others consumed, that was noncommercial culture. When Noah "
 "Webster published his \"Reader,\" or Joel Barlow his poetry, that was "
-"commercial culture."
+"commercial culture.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Vi kan få en følelse av denne endringen ved å skille mellom kommersiell og "
 "ikke-kommersiell kultur, ved å knytte lovens reguleringer til hver av dem.  "
@@ -1188,7 +1196,8 @@ msgstr ""
 "kultur\" mener jeg alt det andre. Da gamle menn satt rundt i parker eller på "
 "gatehjørner og fortalte historier som unger og andre lyttet til, så var det "
 "ikke-kommersiell kultur.  Da Noah Webster publiserte sin \"Reader\", eller "
-"Joel Barlow sin poesi, så var det kommersiell kultur."
+"Joel Barlow sin poesi, så var det kommersiell kultur.  <placeholder type=\""
+"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -3225,19 +3234,18 @@ msgid ""
 "developed pictures. We could imagine a system developing to demonstrate that "
 "permission."
 msgstr ""
-"Vi kan kun spekulere om hvordan fotografering ville ha utviklet seg "
-"om loven hadde slått ut den andre veien.  Hvis den hadde vært mot "
-"fotografen, da ville fotografen måttet dokumentere at tillatelse var på "
-"plass.  Kanskje Eastman Kodak også måtte ha dokumentert at tillatelse "
-"var gitt, før de utviklet filmen som bildene ble fanget på.  Tross "
-"alt, hvis tillatelse ikke var gitt, da ville Eastman Kodak ha nytt "
-"fordeler fra \"tyveriet\" begått av fotografer.  På samme måte som "
-"Napster nøt fordeler fra opphavsrettsbrudd utført av Napster-brukere, "
-"så ville Kodak nytt fordeler fra \"bilde-rettighets\"-brudd til deres "
-"fotografer.  Vi kan forestille oss at loven da krevede at en form for "
-"tillatelse ble vist frem før et selskap fremkalte bildene.  Vi kan "
-"forestille oss utviklingen av et system for å legge frem slike "
-"tillatelser."
+"Vi kan kun spekulere om hvordan fotografering ville ha utviklet seg om loven "
+"hadde slått ut den andre veien.  Hvis den hadde vært mot fotografen, da "
+"ville fotografen måttet dokumentere at tillatelse var på plass.  Kanskje "
+"Eastman Kodak også måtte ha dokumentert at tillatelse var gitt, før de "
+"utviklet filmen som bildene ble fanget på.  Tross alt, hvis tillatelse ikke "
+"var gitt, da ville Eastman Kodak ha nytt fordeler fra \"tyveriet\" begått av "
+"fotografer.  På samme måte som Napster nøt fordeler fra opphavsrettsbrudd "
+"utført av Napster-brukere, så ville Kodak nytt fordeler fra \"bilde-"
+"rettighets\"-brudd til deres fotografer.  Vi kan forestille oss at loven da "
+"krevede at en form for tillatelse ble vist frem før et selskap fremkalte "
+"bildene.  Vi kan forestille oss utviklingen av et system for å legge frem "
+"slike tillatelser."
 
 #.  PAGE BREAK 48
 #. type: Content of: <book><part><chapter><para>
@@ -23347,7 +23355,14 @@ msgstr ""
 "første utskrift er oppbrukt måneder før utgiveren hadde forventet. denne "
 "første romanen av en science fiction-forfatteren var en total suksess."
 
-#.  PAGE BREAK 290
+#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+msgid "Free for All (Wayner)"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+msgid "Wayner, Peter"
+msgstr "Wayner, Peter"
+
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23357,7 +23372,9 @@ msgid ""
 "citetitle>, made an electronic version of his book free on-line under a "
 "Creative Commons license after the book went out of print. He then monitored "
 "used book store prices for the book. As predicted, as the number of "
-"downloads increased, the used book price for his book increased, as well."
+"downloads increased, the used book price for his book increased, as well.  "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 msgstr ""
 "idéen at gratis innhold kan øke verdien av nonfree innhold ble bekreftet av "
 "opplevelsen av en annen forfatter. Peter wayner, som skrev en bok om fri "
