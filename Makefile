@@ -64,7 +64,7 @@ html: freeculture.html freeculture.nb.html
 %.txt: %.xml $(IMAGES)
 	xmlto txt $<
 
-%.epub: %.xml, $(IMAGES)
+%.epub: %.xml $(IMAGES)
 	$(DBTOEPUB) $^ $<
 
 freeculture.xml:
