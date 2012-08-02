@@ -3332,22 +3332,22 @@ msgid ""
 "the way it's constructed, the way it's delivered, and the way people access "
 "it.\" <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"\"Mediekompetanse,\" som administrerende direktør Dave Yanofsky i Just "
+"\"Media-leseferdighet,\" som administrerende direktør Dave Yanofsky i Just "
 "Think!, sier det, \"er evnen til &hellip; å forstå, analysere og "
-"dekonstruere mediebilder. Dets mål er å gjøre [unger] kompetent om "
-"måten mediene fungerer, hvordan de er konstruert, hvordan de blir levert, "
+"dekonstruere mediebilder. Dets mål er å gjøre [unger] i stand til å lese "
+"hvordan mediene fungerer, hvordan de er konstruert, hvordan de blir levert, "
 "og hvordan folk bruker dem.\""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This may seem like an odd way to think about \"literacy.\" For most people, "
 "literacy is about reading and writing. Faulkner and Hemingway and noticing "
 "split infinitives are the things that \"literate\" people know about."
 msgstr ""
-"Dette kan virke som en merkelig måte å tenke på \"leseferdighet.\" for folk "
-"flest, leseferdighet handler om lesing og skriving. Faulkner og hemingway og "
-"merke delte infinitiv er det ting som \"literate\" folk vet om."
+"Dette kan virke som en litt rar måte å tenke på \"leseferdighet\". "
+"For de fleste handler leseferdighet å kunne lese og skrive.  Faulkner, "
+"Hemingway og å legge merke til delte infinitiver er de tingene som "
+"\"leseferdige\" folk kjenner til."
 
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
