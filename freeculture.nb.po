@@ -3453,7 +3453,6 @@ msgstr ""
 "artikkel, hvordan det utløser følelser eller bygger spenning."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It took filmmaking a generation before it could do these things well.  But "
 "even then, the knowledge was in the filming, not in writing about the film. "
@@ -3462,12 +3461,12 @@ msgid ""
 "one has written. One learns to write with images by making them and then "
 "reflecting upon what one has created."
 msgstr ""
-"Det tok filmskapning en generasjon før det kunne gjøre disse tingene godt. "
-"men selv da kunnskap var av filming, ikke skriftlig om filmen. ferdigheten "
-"kom fra opplever inngåelse av en film, ikke fra å lese en bok om den. en "
-"lærer å skrive ved å skrive og deretter gjenspeiler på hva man har skrevet. "
-"en lærer å skrive med bilder ved å gjøre dem og deretter reflektere over hva "
-"man har opprettet."
+"Det tok filmkusten en generasjon før den kunne gjøre disse tingene "
+"bra.  Men selv da, så var kunskapen i filmingen, ikke i å skrive om "
+"filmen.  Ferdigheten kom fra erfaring med å lage en film, ikke fra å "
+"lese en bok om den.  En lærer å skrive ved å skrive, og deretter "
+"reflektere over det en har skrevet.  En lærer å skrive med bilder ved "
+"å lage dem, og deretter reflektere over det en har laget."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Crichton, Michael"
