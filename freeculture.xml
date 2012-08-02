@@ -34,7 +34,7 @@
    <surname>Lessig</surname>
   </author>
  </authorgroup>
-<para>
+
 <!-- <subjectset> and cover <mediaobject> Based on example from
      http://jfearn.fedorapeople.org/en-US/Publican/2.7/html/Users_Guide/chap-Users_Guide-Creating_a_document.html
 -->
@@ -52,7 +52,7 @@
      <subjectterm>Art&mdash;United States.</subjectterm>
    </subject>
  </subjectset>
-</para>
+
 
  <publisher>
    <publishername>The Penguin Press</publishername>
@@ -109,24 +109,7 @@ Appeals.
   </para>
  </abstract>
 
- <cover>
-   <para role="tagline">The Official Documentation for DocBook</para>
-   <mediaobject>
-     <imageobject>
-       <imagedata fileref="graphics/duck-cover.png">
-	 <info>
-	   <othercredit>
-	     <orgname>O'Reilly Media</orgname>
-	   </othercredit>
-	   <othercredit>
-	     <orgname>Dover Archives</orgname>
-	   </othercredit>
-	 </info>
-       </imagedata>
-     </imageobject>
-   </mediaobject>
- </cover>
-
+<!-- testing different ways to tag the cover page -->
  <mediaobject role="cover">
    <imageobject remap="lrg" role="front-large">
      <imagedata fileref="images/cover.png" format="PNG" width="444" />
@@ -143,6 +126,14 @@ Appeals.
    </imageobject>
 -->
  </mediaobject>
+
+ <biblioid class="isbn">1-59420-006-8</biblioid>
+
+<!-- LCCN from
+     http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
+     -->
+  <biblioid class="libraryofcongress">2003063276</biblioid>
+
 </bookinfo>
 
 <colophon>
@@ -226,14 +217,7 @@ p. cm.
 Includes index.
 </para>
 <para>
-ISBN <biblioid class="isbn">1-59420-006-8</biblioid> (hardcover)
-</para>
-
-<!-- LCCN from
-     http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
-     -->
-<para>
-LCCN <biblioid class="libraryofcongress">2003063276</biblioid>
+ISBN 1-59420-006-8 (hardcover)
 </para>
 
 <para>
