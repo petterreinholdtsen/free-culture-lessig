@@ -3345,7 +3345,7 @@ msgstr ""
 "som de finner over alt rundt seg.  Hvert år besøker disse bussene mer "
 "enn tredve skoler og gir mellom tre hundre og fire hundre barn "
 "muligheten til å lære noe om media ved å gjøre noe med media.  Ved å "
-"gjøre, så tenker de.  Det å fikle, så lærer de."
+"gjøre, så tenker de.  Ved å fikle, så lærer de."
 
 #.  f9
 #. type: Content of: <book><part><chapter><para><footnote><para>
