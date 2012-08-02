@@ -34,12 +34,35 @@
    <surname>Lessig</surname>
   </author>
  </authorgroup>
+<para>
+<!-- <subjectset> and cover <mediaobject> Based on example from
+     http://jfearn.fedorapeople.org/en-US/Publican/2.7/html/Users_Guide/chap-Users_Guide-Creating_a_document.html
+-->
+ <subjectset scheme="libraryofcongress">
+   <subject>
+     <subjectterm>Intellectual property&mdash;United States.</subjectterm>
+   </subject>
+   <subject>
+     <subjectterm>Mass media&mdash;United States.</subjectterm>
+   </subject>
+   <subject>
+     <subjectterm>Technological innovations&mdash;United States.</subjectterm>
+   </subject>
+   <subject>
+     <subjectterm>Art&mdash;United States.</subjectterm>
+   </subject>
+ </subjectset>
+</para>
 
-<copyright>
-  <year>2004</year>
-  <holder>Lawrence Lessig</holder>
-</copyright>
+ <publisher>
+   <publishername>The Penguin Press</publishername>
+   <address><city>New York</city></address>
+ </publisher>
 
+ <copyright>
+   <year>2004</year>
+   <holder>Lawrence Lessig</holder>
+ </copyright>
  <legalnotice>
    <para>
      <inlinemediaobject>
@@ -85,6 +108,41 @@ clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of
 Appeals.
   </para>
  </abstract>
+
+ <cover>
+   <para role="tagline">The Official Documentation for DocBook</para>
+   <mediaobject>
+     <imageobject>
+       <imagedata fileref="graphics/duck-cover.png">
+	 <info>
+	   <othercredit>
+	     <orgname>O'Reilly Media</orgname>
+	   </othercredit>
+	   <othercredit>
+	     <orgname>Dover Archives</orgname>
+	   </othercredit>
+	 </info>
+       </imagedata>
+     </imageobject>
+   </mediaobject>
+ </cover>
+
+ <mediaobject role="cover">
+   <imageobject remap="lrg" role="front-large">
+     <imagedata fileref="images/cover.png" format="PNG" width="444" />
+   </imageobject>
+<!--
+   <imageobject remap="s" role="front">
+     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+   </imageobject>
+   <imageobject remap="xs" role="front-small">
+     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+   </imageobject>
+   <imageobject remap="cs" role="thumbnail">
+     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+   </imageobject>
+-->
+ </mediaobject>
 </bookinfo>
 
 <colophon>
@@ -168,8 +226,16 @@ p. cm.
 Includes index.
 </para>
 <para>
-ISBN 1-59420-006-8 (hardcover)
+ISBN <biblioid class="isbn">1-59420-006-8</biblioid> (hardcover)
 </para>
+
+<!-- LCCN from
+     http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
+     -->
+<para>
+LCCN <biblioid class="libraryofcongress">2003063276</biblioid>
+</para>
+
 <para>
 1. Intellectual property&mdash;United States. 2. Mass media&mdash;United States.
 </para>
