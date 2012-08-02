@@ -3325,7 +3325,6 @@ msgid "Yanofsky, Dave"
 msgstr "Yanofsky, Dave"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"Media literacy,\" as Dave Yanofsky, the executive director of Just Think!, "
 "puts it, \"is the ability &hellip; to understand, analyze, and deconstruct "
@@ -3333,10 +3332,11 @@ msgid ""
 "the way it's constructed, the way it's delivered, and the way people access "
 "it.\" <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"\"media leseferdighet,\" som dave yanofsky, administrerende direktør i "
-"Tenk!, sier det, \"er... du kan forstå, analysere og deconstruct media "
-"bilder. Målet er å gjøre [barn] literate om måten mediet fungerer, hvordan "
-"den er konstruert, slik den er levert, og måten å få tilgang til den.\""
+"\"Mediekompetanse,\" som administrerende direktør Dave Yanofsky i Just "
+"Think!, sier det, \"er evnen til &hellip; å forstå, analysere og "
+"dekonstruere mediebilder. Dets mål er å gjøre [unger] kompetent om "
+"måten mediene fungerer, hvordan de er konstruert, hvordan de blir levert, "
+"og hvordan folk bruker dem.\""
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
