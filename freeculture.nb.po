@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-01 23:51+0300\n"
+"POT-Creation-Date: 2012-08-02 16:54+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -58,11 +58,33 @@ msgstr "Lawrence"
 msgid "Lessig"
 msgstr "Lessig"
 
+#. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+msgid "Intellectual property&mdash;United States."
+msgstr ""
+
+#. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+msgid "Mass media&mdash;United States."
+msgstr ""
+
+#. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+msgid "Technological innovations&mdash;United States."
+msgstr ""
+
+#. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+msgid "Art&mdash;United States."
+msgstr ""
+
+#. type: Content of: <book><bookinfo><publisher><address>
+#, no-wrap
+msgid "<city>New York</city>"
+msgstr ""
+
 #. type: Content of: <book><bookinfo>
 msgid ""
-"<copyright> <year>2004</year> <holder>Lawrence Lessig</holder> </copyright>"
+"<publisher> <publishername>The Penguin Press</publishername> <placeholder "
+"type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
+"<holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
-"<copyright> <year>2004</year> <holder>Lawrence Lessig</holder> </copyright>"
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject>
 msgid ""
@@ -133,6 +155,35 @@ msgstr ""
 "University of Pennsylvania, Cambridge University, og Yale Law School, "
 "assisterte Lessig dommer Richard Posner ved U.S. Seventh Circuit Court of "
 "Appeals."
+
+#
+#
+#
+#.  testing different ways to tag the cover page
+#.    <imageobject remap="s" role="front">
+#.      <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+#.    </imageobject>
+#.    <imageobject remap="xs" role="front-small">
+#.      <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+#.    </imageobject>
+#.    <imageobject remap="cs" role="thumbnail">
+#.      <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+#.    </imageobject>
+#. type: Content of: <book><bookinfo><mediaobject>
+msgid ""
+"<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata fileref=\"images/"
+"cover.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
+msgstr ""
+
+#.  LCCN from
+#.      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
+#.     
+#. type: Content of: <book><bookinfo>
+msgid ""
+"  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
+"\">1-59420-006-8</biblioid> <biblioid class=\"libraryofcongress"
+"\">2003063276</biblioid>"
+msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
@@ -1196,8 +1247,8 @@ msgstr ""
 "kultur\" mener jeg alt det andre. Da gamle menn satt rundt i parker eller på "
 "gatehjørner og fortalte historier som unger og andre lyttet til, så var det "
 "ikke-kommersiell kultur.  Da Noah Webster publiserte sin \"Reader\", eller "
-"Joel Barlow sin poesi, så var det kommersiell kultur.  <placeholder type=\""
-"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"Joel Barlow sin poesi, så var det kommersiell kultur.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -3336,7 +3387,7 @@ msgstr ""
 "Think!, sier det, \"er evnen til &hellip; å forstå, analysere og "
 "dekonstruere mediebilder. Dets mål er å gjøre [unger] i stand til å lese "
 "hvordan mediene fungerer, hvordan de er konstruert, hvordan de blir levert, "
-"og hvordan folk bruker dem.\""
+"og hvordan folk bruker dem\". <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3344,10 +3395,10 @@ msgid ""
 "literacy is about reading and writing. Faulkner and Hemingway and noticing "
 "split infinitives are the things that \"literate\" people know about."
 msgstr ""
-"Dette kan virke som en litt rar måte å tenke på \"leseferdighet\". "
-"For de fleste handler leseferdighet å kunne lese og skrive.  Faulkner, "
-"Hemingway og å legge merke til delte infinitiver er de tingene som "
-"\"leseferdige\" folk kjenner til."
+"Dette kan virke som en litt rar måte å tenke på \"leseferdighet\". For de "
+"fleste handler leseferdighet å kunne lese og skrive.  Faulkner, Hemingway og "
+"å legge merke til delte infinitiver er de tingene som \"leseferdige\" folk "
+"kjenner til."
 
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
