@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-02 16:54+0300\n"
+"POT-Creation-Date: 2012-08-02 20:16+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3323,29 +3323,27 @@ msgid ""
 "to learn something about media by doing something with media.  By doing, "
 "they think. By tinkering, they learn."
 msgstr ""
-"Men selv om vi kan tenke oss dette godkjenningssystemet, så vil det "
-"være svært vanskelig å se hvordan fotografering skulle ha blomstret "
-"slik det gjorde hvis det var bygt inn krav om godkjenning i reglene "
-"som styrte det.  Fotografering ville eksistert.  Det ville ha økt sin "
-"betydning over tid.  Profesjonelle ville ha fortsatt å bruke "
-"teknologien slik de gjorde&mdash;siden profesjonelle enklere kunne "
-"håndtert byrdene pålagt dem av godkjenningssystemet.  Men spredningen "
-"av fotografering til vanlige folk villa aldri ha skjedd.  Veksten det "
-"skapte kunne aldri ha skjedd.  Og det ville uten tvil aldri vært "
-"realisert en slik vekst i demokratisk uttrykkstenkologi.  Hvis du "
-"kjører gjennom området Presidio i San Francisco, kan det hende du ser "
-"to gusjegule skolebusser overmalt med fargefulle og iøynefallende "
-"bilder, og logoen \"Just Think!\" i stedet for navnet på en skole. "
-"Men det er lite som er \"bare\" mentalt i prosjektene som disse "
-"bussene muliggjør.  Disse bussene er fylt med tekologi som lærer unger "
-"å fikle med film.  Ikke filmen til Eastman.  Ikke en gang filmen i din "
-"videospiller.  I stedet er det snakk om \"filmen\" til digitale "
-"kamera.  Just Think! er et prosjekt som gjør det mulig for unger å "
-"lage filmer, som en måte å forstå og kritisere den filmede kulturet "
-"som de finner over alt rundt seg.  Hvert år besøker disse bussene mer "
-"enn tredve skoler og gir mellom tre hundre og fire hundre barn "
-"muligheten til å lære noe om media ved å gjøre noe med media.  Ved å "
-"gjøre, så tenker de.  Ved å fikle, så lærer de."
+"Men selv om vi kan tenke oss dette godkjenningssystemet, så vil det være "
+"svært vanskelig å se hvordan fotografering skulle ha blomstret slik det "
+"gjorde hvis det var bygt inn krav om godkjenning i reglene som styrte det.  "
+"Fotografering ville eksistert.  Det ville ha økt sin betydning over tid.  "
+"Profesjonelle ville ha fortsatt å bruke teknologien slik de gjorde&mdash;"
+"siden profesjonelle enklere kunne håndtert byrdene pålagt dem av "
+"godkjenningssystemet.  Men spredningen av fotografering til vanlige folk "
+"villa aldri ha skjedd.  Veksten det skapte kunne aldri ha skjedd.  Og det "
+"ville uten tvil aldri vært realisert en slik vekst i demokratisk "
+"uttrykkstenkologi.  Hvis du kjører gjennom området Presidio i San Francisco, "
+"kan det hende du ser to gusjegule skolebusser overmalt med fargefulle og "
+"iøynefallende bilder, og logoen \"Just Think!\" i stedet for navnet på en "
+"skole. Men det er lite som er \"bare\" mentalt i prosjektene som disse "
+"bussene muliggjør.  Disse bussene er fylt med tekologi som lærer unger å "
+"fikle med film.  Ikke filmen til Eastman.  Ikke en gang filmen i din "
+"videospiller.  I stedet er det snakk om \"filmen\" til digitale kamera.  "
+"Just Think! er et prosjekt som gjør det mulig for unger å lage filmer, som "
+"en måte å forstå og kritisere den filmede kulturet som de finner over alt "
+"rundt seg.  Hvert år besøker disse bussene mer enn tredve skoler og gir "
+"mellom tre hundre og fire hundre barn muligheten til å lære noe om media ved "
+"å gjøre noe med media.  Ved å gjøre, så tenker de.  Ved å fikle, så lærer de."
 
 #.  f9
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5080,17 +5078,20 @@ msgstr ""
 "deretter Kopier av disse innspillinger. på grunn av dette hullet i loven, så "
 "kunne jeg effektivt pirat andres sang uten å betale sin komponist noe."
 
-#.  PAGE BREAK 69
+#. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
+msgid "Kittredge, Alfred"
+msgstr "Kittredge, Alfred"
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
 "The composers (and publishers) were none too happy about this capacity to "
-"pirate. As South Dakota senator Alfred Kittredge put it,"
+"pirate. As South Dakota senator Alfred Kittredge put it, <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "komponister (og utgivere) var ingen så glade om denne kapasiteten til pirat. "
 "som i Sør-dakota senator alfred sa kittredge,"
 
-#.  f4
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -5099,7 +5100,7 @@ msgid ""
 "sess. (1906) (statement of Senator Alfred B. Kittredge, of South Dakota, "
 "chairman), reprinted in <citetitle>Legislative History of the Copyright Act</"
 "citetitle>, E. Fulton Brylawski and Abe Goldman, eds. (South Hackensack, N."
-"J.: Rothman Reprints, 1976)."
+"J.: Rothman Reprints, 1976).  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "endre og konsolidere handlinger som respekterer copyright: hearings på s. "
 "6330 og hr 19853 før (felles) komiteer på patenter, 59th cong. 59, 1 sess. "
@@ -10045,6 +10046,10 @@ msgstr "Kapittel ti: \"Eiendom\""
 msgid "Johnson, Lyndon"
 msgstr "Johnson, Lyndon"
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Kennedy, John F."
+msgstr "Kennedy, John F."
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10054,7 +10059,8 @@ msgid ""
 "on Air Force One after the assassination of President Kennedy has Valenti in "
 "the background. In his almost forty years of running the MPAA, Valenti has "
 "established himself as perhaps the most prominent and effective lobbyist in "
-"Washington.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"Washington.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Jack valenti har vært president i motion picture association of america "
 "siden 1966. først kom han til washington, DC, med lyndon johnson's "
@@ -16318,7 +16324,6 @@ msgid ""
 "radio."
 msgstr ""
 
-#.  PAGE BREAK 204
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16329,7 +16334,8 @@ msgid ""
 "\"Happy Birthday\"&mdash;to memorialize her famous performance before "
 "President Kennedy at Madison Square Garden&mdash; then whenever that "
 "recording was played on the radio, the current copyright owners of \"Happy "
-"Birthday\" would get some money, whereas Marilyn Monroe would not."
+"Birthday\" would get some money, whereas Marilyn Monroe would not.  "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "som jeg beskrevet i kapittel 4, når en radiostasjon spiller en sang, får "
 "ikke innspillingen artisten betalt for at \"radio ytelse\" med mindre han "
@@ -21169,6 +21175,10 @@ msgstr ""
 "hollywood: de fleste folk ikke gjenkjenner årsakene til å begrense "
 "opphavsrett vilkår; Det er derfor fremdeles mulig å se god tro i motstanden."
 
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Kelly, Kevin"
+msgstr "Kelly, Kevin"
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21179,7 +21189,7 @@ msgid ""
 "to exercise continued control over his content. It would simply liberate "
 "what Kevin Kelly calls the \"Dark Content\" that fills archives around the "
 "world. So when the warriors oppose a change like this, we should ask one "
-"simple question:"
+"simple question: <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "men når opphavsrett eierne motsette et forslag som eldred act, så, til "
 "slutt, er det et eksempel at legger bare naken selfinterest kjører denne "
@@ -24162,6 +24172,10 @@ msgstr ""
 "Benjamin Kaplan, <citetitle>An Unhurried View of Copyright</citetitle> (New "
 "York: Columbia University Press, 1967), 32."
 
+#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+msgid "Kaplan, Benjamin"
+msgstr "Kaplan, Benjamin"
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "Congress granted the beginnings of this right in 1870, when it expanded the "
@@ -24169,7 +24183,7 @@ msgid ""
 "dramatizations of a work.<placeholder type=\"footnote\" id=\"0\"/> The "
 "courts have expanded it slowly through judicial interpretation ever since. "
 "This expansion has been commented upon by one of the law's greatest judges, "
-"Judge Benjamin Kaplan."
+"Judge Benjamin Kaplan.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  f6.
