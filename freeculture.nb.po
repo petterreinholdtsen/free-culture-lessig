@@ -3299,7 +3299,6 @@ msgstr ""
 
 #.  PAGE BREAK 48
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But though we could imagine this system of permission, it would be very hard "
 "to see how photography could have flourished as it did if the requirement "
@@ -3370,6 +3369,16 @@ msgid ""
 "across the country where kids are learning more and more of something "
 "teachers call \"media literacy.\""
 msgstr ""
+"Disse bussene er ikke billige, men teknologien de har med seg blir "
+"billigere og billigere.  Kostnaden til et høykvalitets digitalt "
+"videosystem har falt dramatisk.  Som en analytiker omtalte det, \"for "
+"fem år siden kostet et godt sanntids redigerinssystem for digital "
+"video $25 000.  I dag kan du få profesjonell kvalitet for "
+"$595.\"<placeholder type=\"footnote\" id=\"0\"/> Disse bussene er fylt "
+"med teknologi som ville kostet hundre-tusenvis av dollar for bare ti "
+"år siden.  Og det er nå mulig å forestille seg ikke bare slike busser, "
+"men klasserom rundt om i landet hvor unger kan lære mer og mer av det "
+"lærerne kaller \"medie-leseferdighet\" eller \"mediekompetanse\"."
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Yanofsky, Dave"
@@ -3383,7 +3392,7 @@ msgid ""
 "the way it's constructed, the way it's delivered, and the way people access "
 "it.\" <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"\"Media-leseferdighet,\" som administrerende direktør Dave Yanofsky i Just "
+"\"Media-leseferdighet,\" eller \"mediekompetanse\" som administrerende direktør Dave Yanofsky i Just "
 "Think!, sier det, \"er evnen til &hellip; å forstå, analysere og "
 "dekonstruere mediebilder. Dets mål er å gjøre [unger] i stand til å lese "
 "hvordan mediene fungerer, hvordan de er konstruert, hvordan de blir levert, "
@@ -3402,15 +3411,14 @@ msgstr ""
 
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Judith Van Evra, <citetitle>Television and Child Development</citetitle> "
 "(Hillsdale, N.J.: Lawrence Erlbaum Associates, 1990); \"Findings on Family "
 "and TV Study,\" <citetitle>Denver Post</citetitle>, 25 May 1997, B6."
 msgstr ""
-"Judith van evra, TV og barn utvikling (hillsdale, NJ: lawrence erlbaum "
-"associates, 1990); \"funn på familie og tv studie,\" denver innlegg, 25 mai "
-"1997, b6."
+"Judith Van Evra, <citetitle>Television and Child Development</citetitle> "
+"(Hillsdale, N.J.: Lawrence Erlbaum Associates, 1990); \"Findings on Family "
+"and TV Study,\" <citetitle>Denver Post</citetitle>, 25. mai 1997, B6."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
