@@ -3540,17 +3540,16 @@ msgstr ""
 "filmen feilet."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet the push for an expanded literacy&mdash;one that goes beyond text to "
 "include audio and visual elements&mdash;is not about making better film "
 "directors.  The aim is not to improve the profession of filmmaking at all.  "
 "Instead, as Daley explained,"
 msgstr ""
-"men Skyv for en utvidet leseferdighet&mdash;en som går utover tekst til å "
-"inkludere lyd og visuelle elementer&mdash;ikke handler om å gjøre bedre film "
-"styremedlemmer. Målet er ikke å forbedre yrket i filmskapning overhodet. i "
-"stedet, som daley forklart,"
+"Likevel er innsatsen for å utvide leseferdigheten&mdash;til en som "
+"går ut over tekst til å ta med lyd og visuelle elementer&mdash;handler "
+"ikke om å lage bedre filmregisører.  Målet er ikke å forbedre "
+"filmyrket i det hele tatt.  I stedet, som Daley forklarer,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
