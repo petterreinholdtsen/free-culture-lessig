@@ -4071,17 +4071,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This different cycle is possible because the same commercial pressures don't "
 "exist with blogs as with other ventures. Television and newspapers are "
 "commercial entities. They must work to keep attention.  If they lose "
 "readers, they lose revenue. Like sharks, they must move on."
 msgstr ""
-"Denne forskjellige syklusen er mulig fordi de samme kommersielt press ikke "
-"finnes med blogger som med andre ventures. TV og aviser er kommersielle "
-"selskaper. de må arbeide for å holde oppmerksomheten. Hvis de mister lesere, "
-"mister de inntekt. som haier, må de flytte."
+"Denne annerledes syklusen er mulig på grunn av at et tilsvarende "
+"kommersiellt press ikke eksisterer hos blogger slik det gjør hos andre "
+"kanaler.  Televisjon og aviser er kommersielle aktører.  De må arbeide "
+"for å holde på oppmerksomheten.  Hvis de mister lesere, så mister de "
+"inntekter.  Som haier, må de bevege seg videre."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -4254,17 +4254,17 @@ msgstr ""
 "kunnskapsøkologier for å skape &hellip; innovasjon\"."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Brown thus looks at these technologies of digital creativity a bit "
 "differently from the perspectives I've sketched so far. I'm sure he would be "
 "excited about any technology that might improve democracy. But his real "
 "excitement comes from how these technologies affect learning."
 msgstr ""
-"brun dermed ser på disse teknologiene av digitale kreativitet litt "
-"annerledes fra perspektiver jeg har skisserte så langt. Jeg er sikker på at "
-"han ville bli begeistret for enhver teknologi som kan forbedre demokrati. "
-"men hans håv kommer fra hvordan disse teknologiene berører læring."
+"Brown ser dermed på disse teknologiene for digital kreativitet litt "
+"annerledes enn fra perspektivene jeg har skissert opp så langt.  Jeg "
+"er sikker på at han blir begeistret for enhver teknologi som kan "
+"forbedre demokratiet.  Men det han virkelig blir begeistret over er "
+"hvordan disse teknologiene påvirker læring."
 
 #.  PAGE BREAK 59
 #. type: Content of: <book><part><chapter><para>
