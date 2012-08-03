@@ -4390,16 +4390,16 @@ msgstr ""
 
 #.  f22
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See, for example, Edward Felten and Andrew Appel, \"Technological Access "
 "Control Interferes with Noninfringing Scholarship,\" "
 "<citetitle>Communications of the Association for Computer Machinery</"
 "citetitle> 43 (2000): 9."
 msgstr ""
-"Se for eksempel edward felten og andrew appel, \"teknologiske "
-"tilgangskontroll forstyrrer noninfringing stipend,\" kommunikasjon av "
-"association for computer machinery 43 (2000): 9."
+"Se for eksempel, Edward Felten og Andrew Appel, \"Technological Access "
+"Control Interferes with Noninfringing Scholarship,\" "
+"<citetitle>Communications of the Association for Computer Machinery</"
+"citetitle> 43 (2000): 9."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4413,18 +4413,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"This is where education in the twenty-first century is going,\" Brown "
 "explains. We need to \"understand how kids who grow up digital think and "
 "want to learn.\""
 msgstr ""
-"\"Dette er hvor utdanning i det tjueførste århundret er kommer,\" brown "
-"forklarer. Vi trenger å \"forstå hvordan barn som vokser opp digital tror og "
-"vil lære.\""
+"\"Dette er uviklingen av utdanning i det tjueførste århundret er på "
+"vei\", forklarer Brown.  Vi må \"forstå hvordan unger som vokser opp "
+"digitalt tenker og ønsker å lære\"."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"Yet,\" as Brown continued, and as the balance of this book will evince, "
 "\"we are building a legal system that completely suppresses the natural "
@@ -4432,10 +4430,11 @@ msgid ""
 "that unleashes 60 percent of the brain [and] a legal system that closes down "
 "that part of the brain.\""
 msgstr ""
-"\"ennå,\" som brown fortsatte, og som balanse av denne boken vil evince, "
-"\"vi bygger en juridisk system som undertrykker helt naturlig tendensene til "
-"dagens digitale barn.... bygger vi en arkitektur som unleashes 60 prosent av "
-"hjernen [og] en juridisk system stenger ned som en del av hjernen.\""
+"\"Likevel\", fortsatte Brown, og som balansen i denne boken vil føre "
+"bevis for, \"bygger vi et juridisk system som fullstendig undertrykker "
+"den naturlige tendensen i dagens digitale unger. &hellip; We bygger en "
+"arkitektur som frigjør 60 prosent av hjernen [og] et juridisk "
+"system som stenger ned den delen av hjernen\"."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
