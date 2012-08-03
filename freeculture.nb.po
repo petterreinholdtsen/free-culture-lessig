@@ -3852,7 +3852,6 @@ msgstr ""
 
 #.  PAGE BREAK 54
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I don't mean simply to praise the Internet&mdash;though I do think the "
 "people who supported this form of speech should be praised. I mean instead "
@@ -3861,11 +3860,13 @@ msgid ""
 "on the \"Just Think!\" bus, the visual images could be mixed with sound or "
 "text."
 msgstr ""
-"Jeg trenger ikke bety bare å prise Internett - selv om jeg tror de som "
-"støttes av denne formen for tale skal rost. Jeg mener i stedet til å peke "
-"til en betydning i denne formen for tale. for som en kodak muliggjør "
-"Internett folk til å ta bilder. og som i en film av en student på \"bare "
-"tror!\"-bussen visuelle bilder kan blandes med lyd eller tekst."
+"Det er ikke så enkelt som at jeg ønsker å lovprise "
+"internettet&mdash;selv om jeg mener at folkene som støtter denne "
+"formen for tale bør lovprises.  Jeg ønsker i stedet å peke på "
+"viktigheten av denne formen for tale.  For på samme måte som en Kodak, "
+"gjør internettet folk i stand til å fange bilder.  Og på samme måte "
+"som med en film laget av en av studentene på \"Just Think!"-bussen, "
+"kan visuelle bilder bli blandet med lyd og tekst."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
