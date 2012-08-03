@@ -4359,16 +4359,16 @@ msgstr ""
 
 #.  PAGE BREAK 60
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Brown is talking about what Elizabeth Daley, Stephanie Barish, and Just "
 "Think! teach: that this tinkering with culture teaches as well as creates. "
 "It develops talents differently, and it builds a different kind of "
 "recognition."
 msgstr ""
-"Brown snakker om hva elizabeth daley, stephanie barish og tror bare! lære: "
-"som fiksing og denne triksing med kultur lærer samt oppretter. det utvikler "
-"talenter annerledes, og det bygger en annen type gjenkjenning."
+"Brown snakker om hva Elizabeth Daley, Stephanie Barish Og Just Think! "
+"lærer bort: at denne fiklingen med kultur lærer såvel som den skaper. "
+"Den utvikler talenter litt anderledes, og den bygger en annen type "
+"gjenkjenning."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
