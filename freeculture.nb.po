@@ -3630,7 +3630,6 @@ msgstr ""
 "vold."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The class was held on Friday afternoons, and it created a relatively new "
 "problem for the school. While the challenge in most classes was getting the "
@@ -3639,12 +3638,12 @@ msgid ""
 "were working harder than in any other class to do what education should be "
 "about&mdash;learning how to express themselves."
 msgstr ""
-"klassen ble avholdt fredag ettermiddagen, og det opprettes et relativt nytt "
-"problem for skolen. mens utfordringen i de fleste klasser fikk barna "
-"framover, var utfordringen i denne klassen holde dem unna. The \"barna var "
-"vise opp til 6 am og forlate ved 5 om natten,\" sa barish. de jobber hardere "
-"enn i noen annen klasse å gjøre hva utdanning bør være omtrent&mdash;lære å "
-"uttrykke seg."
+"Klassen møttes fredag ettermiddag, og skapte et relativt nytt problem "
+"for skolen.  Mens utfordringen i de fleste klasser er å få ungene til "
+"å dukke opp, var utfordringen for denne klassen å holde dem unna. "
+"\"Ungene dukket opp 6:00, og dro igjen 05:00 på natta\", sa Barish. "
+"De jobbet hardere enn i noen annen klasse for å gjøre det utdanning "
+"burde handle om&mdash;å lære hvordan de skulle uttrykke seg."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
