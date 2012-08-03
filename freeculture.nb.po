@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-02 20:16+0300\n"
+"POT-Creation-Date: 2012-08-03 21:54+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3042,19 +3042,23 @@ msgstr ""
 "Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: "
 "Johns Hopkins University Press, 1975), 112."
 
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Kodak Primer, The (Eastman)"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Eastman developed flexible, emulsion-coated paper film and placed rolls of "
 "it in small, simple cameras: the Kodak. The device was marketed on the basis "
 "of its simplicity. \"You press the button and we do the rest.\"<placeholder "
 "type=\"footnote\" id=\"0\"/> As he described in <citetitle>The Kodak Primer</"
-"citetitle>:"
+"citetitle>: <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Eastman utviklet bøybart, emulsjons-belagt papirfil og plasserte ruller med "
 "dette i små, enkle kameraer: Kodaken.  Enheten ble markedsfør med grunnlag "
 "dens enkelhet. \"Du trykker på knappen og vi fikser resten.\"<placeholder "
 "type=\"footnote\" id=\"0\"/> Som han beskrev det i <citetitle>The Kodak "
-"Primer</citetitle>:"
+"Primer</citetitle>: <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coe, Brian"
@@ -3860,13 +3864,12 @@ msgid ""
 "on the \"Just Think!\" bus, the visual images could be mixed with sound or "
 "text."
 msgstr ""
-"Det er ikke så enkelt som at jeg ønsker å lovprise "
-"internettet&mdash;selv om jeg mener at folkene som støtter denne "
-"formen for tale bør lovprises.  Jeg ønsker i stedet å peke på "
-"viktigheten av denne formen for tale.  For på samme måte som en Kodak, "
-"gjør internettet folk i stand til å fange bilder.  Og på samme måte "
-"som med en film laget av en av studentene på \"Just Think!"-bussen, "
-"kan visuelle bilder bli blandet med lyd og tekst."
+"Det er ikke så enkelt som at jeg ønsker å lovprise internettet&mdash;selv om "
+"jeg mener at folkene som støtter denne formen for tale bør lovprises.  Jeg "
+"ønsker i stedet å peke på viktigheten av denne formen for tale.  For på "
+"samme måte som en Kodak, gjør internettet folk i stand til å fange bilder.  "
+"Og på samme måte som med en film laget av en av studentene på \"Just Think!"
+"\"-bussen, kan visuelle bilder bli blandet med lyd og tekst."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -7107,6 +7110,10 @@ msgstr ""
 "Universal city studios, inc. v. sony Corporation of america, 659 f. 2d 963 "
 "(9 cir. 1981)."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Kozinski, Alex"
+msgstr "Kozinski, Alex"
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "It took eight years for this case to be resolved by the Supreme Court. In "
@@ -7118,7 +7125,7 @@ msgid ""
 "Valenti had called \"the Boston Strangler of the American film industry"
 "\" (worse yet, it was a <emphasis>Japanese</emphasis> Boston Strangler of "
 "the American film industry)&mdash;was an illegal technology.<placeholder "
-"type=\"footnote\" id=\"0\"/>"
+"type=\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #.  PAGE BREAK 90
@@ -18578,6 +18585,10 @@ msgstr ""
 msgid "Agee, Michael"
 msgstr "Agee, Michael"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Laurel and Hardy Films"
+msgstr ""
+
 #.  f11.
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -22102,6 +22113,10 @@ msgstr ""
 "Krim, \"The Quiet War over Open-Source,\" tilgjengelig fra <ulink url="
 "\"http://free-culture.cc/notes/\">link #64</ulink>."
 
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Krim, Jonathan"
+msgstr "Krim, Jonathan"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "It is therefore understandable that as a proprietary software developer, "
@@ -22111,7 +22126,7 @@ msgid ""
 "Jonathan Krim of the <citetitle>Washington Post</citetitle>, Microsoft's "
 "lobbyists succeeded in getting the United States government to veto the "
 "meeting.<placeholder type=\"footnote\" id=\"0\"/> And without U.S. backing, "
-"the meeting was canceled."
+"the meeting was canceled.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Det er dermed forståelig at Microsoft, som utviklere av proprietær "
 "programvare, gikk imot et slikt WIPO-møte, og like fullt forståelig at de "
@@ -22120,7 +22135,7 @@ msgstr ""
 "følge Jonathan Krim i <citetitle>Washington Post</citetitle>, lyktes "
 "Microsofts lobbyister i å få USAs myndigheter til å legge ned veto mot et "
 "slikt møte.<placeholder type=\"footnote\" id=\"0\"/> Og uten støtte fra USA "
-"ble møtet avlyst."
+"ble møtet avlyst.  <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
