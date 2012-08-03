@@ -4299,6 +4299,12 @@ msgid ""
 "program run. And anyone eager to learn how a particular bit of FS/OSS "
 "technology works can tinker with the code."
 msgstr ""
+"Det beste eksemplet i større skala så langt på denne typen fikling er "
+"fri programvare og åpen kildekode (FS/OSS).  FS/OSS er programvare der "
+"kildekoden deles ut.  Alle kan laste ned teknologien som får et "
+"FS/OSS-program til å fungere.  Og enhver som har lyst til å lære "
+"hvordan en bestemt bit av FS/OSS-teknologi fungerer kan fikle med "
+"koden."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
