@@ -3563,7 +3563,7 @@ msgstr ""
 "om en har tilgnag til en boks eller ikke.  Det er evnen til å ha kontroll "
 "over språket som boksen bruker.  I motsatt fall er det bare noen få "
 "som kan skrive i dette språket, og alle oss andre er redusert til å "
-"kun kunne lese."
+"ikke kunne skrive."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3581,7 +3581,6 @@ msgstr ""
 
 #.  f31
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Ibid."
 msgstr "ibid."
 
