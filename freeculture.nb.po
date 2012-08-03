@@ -3112,6 +3112,18 @@ msgid ""
 "Eastman Kodak's sales during the same period experienced an average annual "
 "increase of over 17 percent.<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
+"For $25 kunne alle ta bilder.  Det var allerede film i kameraet, og "
+"når det var brukt ble kameraet returnert til en Eastman-fabrikk hvor "
+"filmen ble fremkalt.  Etter hvert, naturligvis, ble både kostnaden til "
+"kameraet og hvor enkelt et var å bruke forbedret.  Film på rull ble "
+"dermed grunnlaget for en eksplosiv vekst i fotografering blant folket. "
+"Eastmans kamera ble lagt ut for salg i 1888, og et år senere trykket "
+"Kodak mer enn seks tusen negativer om dagen.  Fra 1888 til 1909, mens "
+"produksjonen i industrien vokste med 4,7 prosent, økte salget av "
+"fotografisk utstyr og materiale med 11 prosent.<placeholder "
+"type=\"footnote\" id=\"0\"/> Salget til Eastman Kodak i samme periode "
+"opplevde en årlig vekst på over 17 prosent.<placeholder "
+"type=\"footnote\" id=\"1\"/>"
 
 #.  f5
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3185,6 +3197,14 @@ msgid ""
 "could capture and print whatever image he wanted. Their answer was no."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Hva krevdes for at denne teknologien skulle blomstre.  Eastmans "
+"genialitet var åpenbart en viktig del.  Men den juridiske miljøet som "
+"Eastmans oppfinnelse vokste i var også viktig.  For tidlig i historien "
+"til fotografering, var det en rekke av rettsavgjørelser som godt kunne "
+"ha endret kursen til fotograferingen betydelig.  Domstoler ble spurt "
+"om fotografen, amatør eller profesjonell, måtte ha ha tillatelse før "
+"han kunne fange og trykke hvilket som helst bilde han ønsket.  Svaret "
+"var nei.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 47
 #. type: Content of: <book><part><chapter><para>
