@@ -3553,17 +3553,17 @@ msgstr ""
 "stedet, som daley forklart,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "From my perspective, probably the most important digital divide is not "
 "access to a box. It's the ability to be empowered with the language that "
 "that box works in. Otherwise only a very few people can write with this "
 "language, and all the rest of us are reduced to being read-only."
 msgstr ""
-"fra mitt perspektiv er sannsynligvis den viktigste digital dividere ikke "
-"tilgang til en boks. Det er muligheten til å få flere muligheter med språket "
-"at boksen fungerer i. ellers bare en svært få mennesker kan skrive med dette "
-"språket, og resten av oss er redusert til å være skrivebeskyttet."
+"Fra mitt perspektiv er antagelig det viktigste digitale skillet ikke "
+"om en har tilgnag til en boks eller ikke.  Det er evnen til å ha kontroll "
+"over språket som boksen bruker.  I motsatt fall er det bare noen få "
+"som kan skrive i dette språket, og alle oss andre er redusert til å "
+"kun kunne lese."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
