@@ -65,7 +65,7 @@ html: freeculture.html freeculture.nb.html
 	xmlto txt $<
 
 %.epub: %.xml $(IMAGES)
-	$(DBTOEPUB) $^ $<
+	$(DBTOEPUB) $<
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
