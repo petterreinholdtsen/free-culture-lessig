@@ -3595,6 +3595,16 @@ msgid ""
 "language of the twenty-first century.\"<placeholder type=\"footnote\" id="
 "\"1\"/>"
 msgstr ""
+"Det tjueførste århundret kan bli annerledes.  Dette er et kritisk "
+"punkt: Det kan bli både lesing og skriving.  Eller i det minste lesing "
+"og bedre forståelse for håndverket å skrive.  Eller det beste, lesing "
+"og forstå verktøyene som gir skriving mulighet til å veilede eller "
+"villede.  Målet med enhver leseferdighet, og denne leseferdigheten "
+"spesielt, er å \"gi folket myndighet til å velge det språket som "
+"passer for det de trenger å lage eller uttrykke\".<placeholder "
+"type=\"footnote\" id=\"0\"/> Det gir studenter mulighet \"til å "
+"kommunsere i språket til det tjueførste århundret\".<placeholder "
+"type=\"footnote\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
