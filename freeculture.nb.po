@@ -23269,13 +23269,12 @@ msgid "Rebuilding Free Culture: One Idea"
 msgstr "Gjenoppbygging av fri kultur: En idé"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The same strategy could be applied to culture, as a response to the "
 "increasing control effected through law and technology."
 msgstr ""
-"samme strategi som kan brukes til kultur, som et svar på økende kontrollen "
-"berørt gjennom lov og teknologi."
+"Den samme strategien kan brukes på kultur, som et svar på den økende "
+"kontrollen som gjennomføres gjennom lov og teknologi."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
