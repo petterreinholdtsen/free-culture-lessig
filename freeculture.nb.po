@@ -7397,13 +7397,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "\"It is <emphasis>our property</emphasis>,\" the warriors insist. \"And it "
 "should be protected just as any other property is protected.\""
 msgstr ""
-"\"det er vår eiendom,\" insisterer warriors. \"og det bør være beskyttet på "
-"samme måte som en annen egenskap er beskyttet."
+"\"Det er <emphasis>vår eiendom</emphasis>,\" insisterer krigerne. \"og den "
+"bør være beskyttet på samme måte som all annen eiendom er beskyttet.\""
 
 #. type: Content of: <book><part><title>
 msgid "\"PROPERTY\""
