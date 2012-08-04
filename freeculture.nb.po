@@ -3805,7 +3805,6 @@ msgstr ""
 "hele verden ville være å se."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "These retellings had an increasingly familiar feel. There was music scored "
 "for the intermissions, and fancy graphics that flashed across the screen. "
@@ -3813,11 +3812,12 @@ msgid ""
 "This was news choreographed in the way we have increasingly come to expect "
 "it, \"news as entertainment,\" even if the entertainment is tragedy."
 msgstr ""
-"disse retellings hadde en stadig familiær stemning. Det var musikk scoret "
-"for intermissions og fancy grafikk som flashed hele skjermen. Det var en "
-"formel til intervjuer. Det var \"balanse\" og seriøsitet. Dette var nyheter "
-"koreograferte i måten vi er stadig mer vant til det, \"nyheter som "
-"underholdning,\" selv om underholdning er tragedie."
+"Disse gjenfortellingene ga en økende familiær følelse.  Det var "
+"musikk spesiallaget for mellom-innslagene, og avansert grafikk som "
+"blinket tvers over skjermen.  Det var en formel for intervjuer.  Det "
+"var \"balanse\" og seriøsitet.  Dette var nyheter koreaografert slik "
+"vi i stadig større grad forventer det, \"nyheter som underholdning\", "
+"selv om underholdningen er en tragedie."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "ABC"
