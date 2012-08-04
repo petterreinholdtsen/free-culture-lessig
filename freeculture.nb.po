@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-04 14:44+0300\n"
+"POT-Creation-Date: 2012-08-04 15:51+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3253,16 +3253,15 @@ msgid ""
 "Bill, Jr</citetitle>. or the Brothers Grimm, the photographer should be free "
 "to capture an image without compensating the source."
 msgstr ""
-"På den andre siden var et argument som også bør bør være kjent. "
-"Joda, det var kanskje noe av verdi som ble brukt.  Men borgerne burde "
-"ha rett til å fange i hvert fall de bildene som var tatt av offentlig "
-"område.  (Louis Brandeis, som senere ble høyesterettsjustitiarus, "
-"mente regelen skulle være annerledes for bilder tatt av private "
-"områder.<placeholder type=\"footnote\" id=\"0\"/>) Det kan være at "
-"dette betyr at fotografen får noe for ingenting.  På samme måte som "
-"Disney kunne hente inspirasjon fra <citetitle>Steamboat Bill, "
-"Jr</citetitle>. eller Grimm-brødrene, så burde fotografene stå fritt "
-"til å fange et bilde uten å kompensere kilden."
+"På den andre siden var et argument som også bør bør være kjent. Joda, det "
+"var kanskje noe av verdi som ble brukt.  Men borgerne burde ha rett til å "
+"fange i hvert fall de bildene som var tatt av offentlig område.  (Louis "
+"Brandeis, som senere ble høyesterettsjustitiarus, mente regelen skulle være "
+"annerledes for bilder tatt av private områder.<placeholder type=\"footnote\" "
+"id=\"0\"/>) Det kan være at dette betyr at fotografen får noe for "
+"ingenting.  På samme måte som Disney kunne hente inspirasjon fra "
+"<citetitle>Steamboat Bill, Jr</citetitle>. eller Grimm-brødrene, så burde "
+"fotografene stå fritt til å fange et bilde uten å kompensere kilden."
 
 #.  f8
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -16716,13 +16715,12 @@ msgid "time zone where the signal was received (user);"
 msgstr "tidssone der signalet ble mottatt (bruker);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-msgid "Unique User identifier;"
-msgstr "Unik bruker-identifikator;"
-
+msgid "unique user identifier;"
+msgstr "unik bruker-identifikator;"
+`
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "the country in which the user received the transmissions."
-msgstr "landet som brukeren mottok sendinger."
+msgstr "landet til brukeren som mottok sendingene."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
