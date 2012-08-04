@@ -39,24 +39,26 @@ epub: freeculture.nb.epub
 html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml $(IMAGES) $(XSLTS)
-	$(DBLATEX) $<
+#	$(DBLATEX) $<
 
 # Alternative processing path to dblatex is to use xmlto using fop to
 # create PDF like this.  The PDF output (visual design) is better, but
-# the PDF index and footnote handling is worse and images are missing.
+# the footnote handling is worse and images are missing.
 #	xmlto --noautosize --stringparam paper.type=A5 \
+#          --stringparam fop1.extensions=1 \
 #	  --with-fop pdf $<
 
 # Third alternative is to use xsltproc and fop directly, as
 # recommended by <URL: http://www.sagehill.net/docbookxsl/index.html > .
-# This include images, but the index and footnote handling is
+# This include images, but the index refs and footnote handling is
 # broken.
-#	xsltproc  \
-#	  --output myfile.fo	\
-#	  --stringparam paper.type A5 \
-#	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
-#	  $<
-#	fop -fo myfile.fo -pdf $@
+	xsltproc  \
+	  --output myfile.fo	\
+	  --stringparam paper.type A5 \
+	  --stringparam fop1.extensions 1 \
+	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
+	  $<
+	fop -fo myfile.fo -pdf $@
 
 %.html: %.xml $(IMAGES)
 	xmlto html-nochunks $<
