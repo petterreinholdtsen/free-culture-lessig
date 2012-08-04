@@ -3253,6 +3253,16 @@ msgid ""
 "Bill, Jr</citetitle>. or the Brothers Grimm, the photographer should be free "
 "to capture an image without compensating the source."
 msgstr ""
+"På den andre siden var et argument som også bør bør være kjent. "
+"Joda, det var kanskje noe av verdi som ble brukt.  Men borgerne burde "
+"ha rett til å fange i hvert fall de bildene som var tatt av offentlig "
+"område.  (Louis Brandeis, som senere ble høyesterettsjustitiarus, "
+"mente regelen skulle være annerledes for bilder tatt av private "
+"områder.<placeholder type=\"footnote\" id=\"0\"/>) Det kan være at "
+"dette betyr at fotografen får noe for ingenting.  På samme måte som "
+"Disney kunne hente inspirasjon fra <citetitle>Steamboat Bill, "
+"Jr</citetitle>. eller Grimm-brødrene, så burde fotografene stå fritt "
+"til å fange et bilde uten å kompensere kilden."
 
 #.  f8
 #. type: Content of: <book><part><chapter><para><footnote><para>
