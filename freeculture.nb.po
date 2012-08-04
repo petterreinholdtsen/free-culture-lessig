@@ -4062,16 +4062,17 @@ msgid "Dean, Howard"
 msgstr "Dean, Howard"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The significance of these blogs is tiny now, though not so tiny. The name "
 "Howard Dean may well have faded from the 2004 presidential race but for "
 "blogs. Yet even if the number of readers is small, the reading is having an "
 "effect.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"betydningen av disse bloggene er liten nå, men ikke så små. navnet howard "
-"dean kan godt har bleknet fra 2004 presidentvalget rase men for blogger. "
-"Selv om antall lesere er liten, er ennå lesing har en effekt."
+"Betydningene av disse bloggene er liten nå, men ikke ubetydelig. "
+"Navnet Howard Dean har i stor grad forsvunnet fra "
+"2004-presidentvalgkampen bortsett fra hos noen få blogger.  Men selv "
+"om antallet lesere er lavt, så har det å lese dem en effekt. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  f18
 #. type: Content of: <book><part><chapter><para><footnote><para>
