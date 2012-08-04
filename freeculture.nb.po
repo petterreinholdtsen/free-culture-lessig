@@ -16622,7 +16622,7 @@ msgstr "kanalen til programmet (AM/FM-stasjoner bruker stasjons-ID);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "type of program (archived/looped/live);"
-msgstr "type program (fra arkivet/i løkke/direkte);
+msgstr "type program (fra arkivet/i løkke/direkte);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "date of transmission;"
