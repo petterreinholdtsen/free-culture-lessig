@@ -9656,7 +9656,7 @@ date and time that the user logged out (in the user's time zone);
 time zone where the signal was received (user);
 </para></listitem>
 <listitem><para>
-Unique User identifier;
+unique user identifier;
 </para></listitem>
 <listitem><para>
 the country in which the user received the transmissions.
