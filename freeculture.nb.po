@@ -16613,32 +16613,28 @@ msgstr ""
 "ville ha til å samle inn følgende data fra hver lytting transaksjon:"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "name of the service;"
-msgstr "navnet på tjenesten,"
+msgstr "navn på tjenesten,"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "channel of the program (AM/FM stations use station ID);"
-msgstr ""
+msgstr "kanalen til programmet (AM/FM-stasjoner bruker stasjons-ID);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "type of program (archived/looped/live);"
-msgstr ""
+msgstr "type program (fra arkivet/i løkke/direkte);
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "date of transmission;"
-msgstr "dato for overføring;"
+msgstr "dato for sending;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "time of transmission;"
-msgstr "tidspunktet for overføring;"
+msgstr "tidspunkt for sending;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "time zone of origination of transmission;"
-msgstr "tidssonen til opprinnelse av overføring;"
+msgstr "tidssone til opprinnelsen for sending;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 #, mtrans, fuzzy
@@ -16647,19 +16643,16 @@ msgid ""
 msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "duration of transmission (to nearest second);"
-msgstr "varigheten av overføring (til nærmeste sekund):"
+msgstr "varigheten av sending (til nærmeste sekund):"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "sound recording title;"
-msgstr "Lydinnspilling-tittel;"
+msgstr "lydinnspilling-tittel;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "ISRC code of the recording;"
-msgstr "ISRC-koden på opptaket;"
+msgstr "ISRC-kode for opptaket;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 #, mtrans, fuzzy
@@ -16672,47 +16665,38 @@ msgstr ""
 "av albumet og kopi høyre datoen for spor;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "featured recording artist;"
-msgstr "anbefalte Plateartist;"
+msgstr "spillende plateartist;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "retail album title;"
-msgstr "detaljhandel albumtittel;"
+msgstr "tittel på album i butikker;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "recording label;"
 msgstr "plateselskap;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "UPC code of the retail album;"
-msgstr "UPC koden for selge i detalj albumet;"
+msgstr "UPC-koden for albumet i butikker;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "catalog number;"
 msgstr "katalognummer;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "copyright owner information;"
-msgstr "opphavsrettsinnehaveren informasjon;"
+msgstr "informasjon om opphavsrettsinnehaver;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "musical genre of the channel or program (station format);"
-msgstr "musikksjanger av kanal eller -programmet (stasjon format);"
+msgstr "musikksjanger for kanal eller programmet (stasjonsformat);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "name of the service or entity;"
-msgstr "navnet på tjenesten eller selskap;"
+msgstr "navn på tjenesten eller selskap;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "channel or program;"
 msgstr "kanal eller program;"
 
@@ -16732,9 +16716,8 @@ msgid "time zone where the signal was received (user);"
 msgstr "tidssone der signalet ble mottatt (bruker);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "Unique User identifier;"
-msgstr "unik bruker identifikator;"
+msgstr "Unik bruker-identifikator;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 #, mtrans, fuzzy
