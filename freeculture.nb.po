@@ -16717,7 +16717,7 @@ msgstr "tidssone der signalet ble mottatt (bruker);"
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "unique user identifier;"
 msgstr "unik bruker-identifikator;"
-`
+
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "the country in which the user received the transmissions."
 msgstr "landet til brukeren som mottok sendingene."
