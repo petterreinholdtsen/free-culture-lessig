@@ -21304,7 +21304,6 @@ msgstr ""
 "dele sin egen etablering."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "What is hard to understand is why the public takes this view. It is as if "
 "the law made airplanes trespassers. The MPAA stands with the Causbys and "
@@ -21312,11 +21311,12 @@ msgid ""
 "these remote and forgotten copyright holders might block the progress of "
 "others."
 msgstr ""
-"Hva er vanskelig å forstå er grunnen til at offentligheten tar denne "
-"visningen. Det er som om loven gjort fly trespassers. mpaa står med causbys "
-"og krav at deres ekstern og unyttig eiendomsrettigheter bli respektert, slik "
-"at disse eksterne og glemt innehaver av opphavsrett kan blokkere fremdriften "
-"for andre."
+"Det som er vanskelig å forstå er hvorfor folket innehar dette synet. "
+"Det er som om loven gjorde at flymaskiner tok seg inn på annen manns "
+"eiendom.  MPAA står side om side med Causbyene og krever at deres "
+"fjerne og ubrukelige eierrettigheter blir respektert, slik at disse "
+"fjerne og glemte opphavsrettsinnehaverne kan blokkere fremgangen til "
+"andre."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
