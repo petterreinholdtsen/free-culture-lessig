@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-04 15:51+0300\n"
+"POT-Creation-Date: 2012-08-04 20:55+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -6083,6 +6083,14 @@ msgstr ""
 "tjeneste som de vil bruke det, og ikke den andre når de blir jurister (og må "
 "betale høy abonnementsavgift)."
 
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Internet Explorer"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Netscape"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Still, the argument is not terribly persuasive. We don't give the alcoholic "
@@ -6095,7 +6103,8 @@ msgid ""
 "to say who gets access to what&mdash;at least ordinarily. And if the law "
 "properly balances the rights of the copyright owner with the rights of "
 "access, then violating the law is still wrong.  <placeholder type=\"indexterm"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/>"
 msgstr ""
 
 #.  PAGE BREAK 79
@@ -13860,10 +13869,6 @@ msgid ""
 msgstr ""
 "Det er her to sorter endringer: omfanget av konsentrasjon, og dens natur."
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "BMG"
-msgstr "BMG"
-
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -13896,8 +13901,24 @@ msgstr ""
 "2003."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "BMG"
+msgstr "BMG"
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "EMI"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "McCain, John"
 msgstr "McCain, John"
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Universal Music Group"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Warner Music Group"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13909,7 +13930,9 @@ msgid ""
 "percent of the U.S. music market.<placeholder type=\"footnote\" id=\"1\"/> "
 "The \"five largest cable companies pipe programming to 74 percent of the "
 "cable subscribers nationwide.\"<placeholder type=\"footnote\" id=\"2\"/> "
-"<placeholder type=\"indexterm\" id=\"3\"/>"
+"<placeholder type=\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" "
+"id=\"4\"/> <placeholder type=\"indexterm\" id=\"5\"/> <placeholder type="
+"\"indexterm\" id=\"6\"/> <placeholder type=\"indexterm\" id=\"7\"/>"
 msgstr ""
 
 #.  PAGE BREAK 174
@@ -16038,7 +16061,8 @@ msgid ""
 "not only a company, it also buys you a lawsuit.  So extreme has the "
 "environment become that even car manufacturers are afraid of technologies "
 "that touch content. In an article in <citetitle>Business 2.0</citetitle>, "
-"Rafe Needleman describes a discussion with BMW:"
+"Rafe Needleman describes a discussion with BMW: <placeholder type=\"indexterm"
+"\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
@@ -20555,7 +20579,7 @@ msgstr ""
 "menneskeheten er en av grunnene til at vi lever i en tid med slike fruktbart "
 "kreative gjære."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><figure><indexterm><primary>
 msgid "Bolling, Ruben"
 msgstr "Bolling, Ruben"
 
@@ -20579,8 +20603,11 @@ msgid "Tom the Dancing Bug cartoon"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure>
-msgid "<graphic fileref=\"images/18.png\"></graphic>"
-msgstr "<graphic fileref=\"images/18.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/18.png\"></graphic> <placeholder type=\"indexterm"
+"\" id=\"0\"/>"
+msgstr "<graphic fileref=\"images/18.png\"></graphic> <placeholder type=\"indexterm"
+"\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -24865,40 +24892,38 @@ msgid ""
 "\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "William Fisher, <citetitle>Digital Music: Problems and Possibilities</"
-"citetitle> (sist revidert: 10. oktober 2000), tilgjengelig fra <ulink url=\"http://"
-"free-culture.cc/notes/\">link #77</ulink>; William Fisher, "
+"citetitle> (sist revidert: 10. oktober 2000), tilgjengelig fra <ulink url="
+"\"http://free-culture.cc/notes/\">link #77</ulink>; William Fisher, "
 "<citetitle>Promises to Keep: Technology, Law, and the Future of "
-"Entertainment</citetitle> (kommer) (Stanford: Stanford University "
-"Press, 2004), kap. 6, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"Entertainment</citetitle> (kommer) (Stanford: Stanford University Press, "
+"2004), kap. 6, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
 "\">link #78</ulink>. Professor Netanel har foreslått en relatert ide som "
 "ville gjøre at opphavsretten ikke gjelder ikke-kommersiell deling fra og "
-"ville etablere kompenasjon til kunstnere for å balansere eventuelle tap. "
-"Se Neil Weinstock "
-"Netanel, \"Impose a Noncommercial Use Levy to Allow Free P2P File Sharing,\" "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #79</ulink>. "
-"For andre forslag, se Lawrence Lessig, \"Who's Holding Back Broadband?\" "
-"<citetitle>Washington Post</citetitle>, 8. january 2002, A17; Philip S. "
-"Corwin på vegne av Sharman Networks, Et brev til Senator Joseph R. Biden, "
-"Jr., leder i the Senate Foreign Relations Committee, 26. februar. 2002, "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #80</"
-"ulink>; Serguei Osokine, <citetitle>A Quick Case for Intellectual Property "
-"Use Fee (IPUF)</citetitle>, 3. mars 2002, tilgjengelig fra <ulink url=\""
-"http://free-culture.cc/notes/\">link #81</ulink>; Jefferson Graham, \"Kazaa, "
-"Verizon Propose to Pay Artists Directly,\" <citetitle>USA Today</citetitle>, "
-"13. mai 2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/"
-"notes/\">link #82</ulink>; Steven M. Cherry, \"Getting Copyright Right,\" "
-"IEEE Spectrum Online, 1. juli 2002, tilgjengelig fra <ulink url=\"http://"
-"free-culture.cc/notes/\">link #83</ulink>; Declan McCullagh, \"Verizon's "
-"Copyright Campaign,\" CNET News.com, 27. august 2002, tilgjengelig fra "
-"<ulink url=\"http://free-culture.cc/notes/\">link #84</ulink>.  Forslaget "
-"fra Fisher er ganske likt forslaget til Richard "
-"Stallman når det gjelder DAT.  I motsetning til Fishers forslag, "
-"ville Stallmanns forslag ikke betale kunstnere proposjonalt, selv om "
-"mer populære artister ville få mer betalt enn mindre populære.  Slik "
-"det er typisk med Stallman, la han fram sitt forslag omtrent ti år før "
-"dagens debatt. Se <ulink url=\"http://free-"
-"culture.cc/notes/\">link #85</ulink>.  <placeholder type=\"indexterm\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"ville etablere kompenasjon til kunstnere for å balansere eventuelle tap. Se "
+"Neil Weinstock Netanel, \"Impose a Noncommercial Use Levy to Allow Free P2P "
+"File Sharing,\" tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #79</ulink>. For andre forslag, se Lawrence Lessig, \"Who's Holding "
+"Back Broadband?\" <citetitle>Washington Post</citetitle>, 8. january 2002, "
+"A17; Philip S. Corwin på vegne av Sharman Networks, Et brev til Senator "
+"Joseph R. Biden, Jr., leder i the Senate Foreign Relations Committee, 26. "
+"februar. 2002, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #80</ulink>; Serguei Osokine, <citetitle>A Quick Case for "
+"Intellectual Property Use Fee (IPUF)</citetitle>, 3. mars 2002, tilgjengelig "
+"fra <ulink url=\"http://free-culture.cc/notes/\">link #81</ulink>; Jefferson "
+"Graham, \"Kazaa, Verizon Propose to Pay Artists Directly,\" <citetitle>USA "
+"Today</citetitle>, 13. mai 2002, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #82</ulink>; Steven M. Cherry, \"Getting Copyright "
+"Right,\" IEEE Spectrum Online, 1. juli 2002, tilgjengelig fra <ulink url="
+"\"http://free-culture.cc/notes/\">link #83</ulink>; Declan McCullagh, "
+"\"Verizon's Copyright Campaign,\" CNET News.com, 27. august 2002, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #84</"
+"ulink>.  Forslaget fra Fisher er ganske likt forslaget til Richard Stallman "
+"når det gjelder DAT.  I motsetning til Fishers forslag, ville Stallmanns "
+"forslag ikke betale kunstnere proposjonalt, selv om mer populære artister "
+"ville få mer betalt enn mindre populære.  Slik det er typisk med Stallman, "
+"la han fram sitt forslag omtrent ti år før dagens debatt. Se <ulink url="
+"\"http://free-culture.cc/notes/\">link #85</ulink>.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
