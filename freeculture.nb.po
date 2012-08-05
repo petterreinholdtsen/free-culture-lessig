@@ -3721,7 +3721,7 @@ msgstr ""
 "'du må gjøre dette i tekstform', så hadde de bare kastet hendene i været og "
 "gått og gjort noe annet\", forklarer Barish.  Delvis, uten tvil, fordi å "
 "uttrykke seg selv i tekstform ikke er noe disse studentene gjør godt. Heller "
-"ikke er tekstform en form som kan uttrykke <emphasis>disse</empasis> ideene "
+"ikke er tekstform en form som kan uttrykke <emphasis>disse</emphasis> ideene "
 "godt.  Kraften i denne meldingen avhenger av dens forbindelse med denne for "
 "for uttrykk."
 
