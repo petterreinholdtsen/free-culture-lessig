@@ -4437,7 +4437,6 @@ msgstr ""
 "talenter litt anderledes, og den bygger en annen type gjenkjenning."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet the freedom to tinker with these objects is not guaranteed.  Indeed, as "
 "we'll see through the course of this book, that freedom is increasingly "
@@ -4447,12 +4446,13 @@ msgid ""
 "increasingly, technology interfere with a freedom that technology, and "
 "curiosity, would otherwise ensure."
 msgstr ""
-"frihet til å tinker med disse objektene er ennå ikke garantert. som vi ser "
-"gjennom i løpet av denne boken, er faktisk at freedom stadig svært omstridt. "
-"mens det er ingen tvil om at din far hadde rett til å tinker med motor, er "
-"det stor tvil om at barnet ditt vil ha rett til å tinker med bilder hun "
-"finner rundt. lov og, i økende grad teknologi forstyrre en frihet som "
-"teknologi, og nysgjerrighet, ellers ville sikre."
+"Likevel er friheten til å fikle med disse objektene ikke garantert. "
+"Faktisk, som vi vil se i løpet av denne boken, er den friheten i "
+"stadig større grad omstridt.  Mens det ikke er noe tvil om at din far "
+"hadde rett til å fikle med bilmotoren, så er det stor tvil om dine "
+"barn vil ha retten til å fikle med bilder som hun finner over "
+"alt. Loven, og teknologi i stadig større grad, forstyrrer friheten som "
+"teknolog, nysgjerrigheten, ellers ville sikre."
 
 #.  f22
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4492,9 +4492,9 @@ msgid ""
 "explains. We need to \"understand how kids who grow up digital think and "
 "want to learn.\""
 msgstr ""
-"\"Dette er uviklingen av utdanning i det tjueførste århundret er på vei\", "
-"forklarer Brown.  Vi må \"forstå hvordan unger som vokser opp digitalt "
-"tenker og ønsker å lære\"."
+"\"Dette er dit utviklingen av utdanning i det tjueførste århundret er på "
+"vei\", forklarer Brown.  Vi må \"forstå hvordan unger som vokser opp "
+"digitalt tenker og ønsker å lære\"."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
