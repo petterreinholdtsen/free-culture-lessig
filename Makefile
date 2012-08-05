@@ -45,7 +45,8 @@ html: freeculture.html freeculture.nb.html
 # create PDF like this.  The PDF output (visual design) is better, but
 # the footnote handling is worse and images are missing.
 #	xmlto --noautosize --stringparam paper.type=A5 \
-#          --stringparam fop1.extensions=1 \
+#	  --stringparam fop1.extensions=1 \
+#	  --stringparam insert.xref.page.number=1 \
 #	  --with-fop pdf $<
 
 # Third alternative is to use xsltproc and fop directly, as
@@ -56,6 +57,7 @@ html: freeculture.html freeculture.nb.html
 	  --output myfile.fo	\
 	  --stringparam paper.type A5 \
 	  --stringparam fop1.extensions 1 \
+	  --stringparam insert.xref.page.number 1 \
 	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 	  $<
 	fop -fo myfile.fo -pdf $@
