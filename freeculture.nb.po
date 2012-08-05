@@ -4402,7 +4402,6 @@ msgstr ""
 "forbedre, jo mer du lærer."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This same thing happens with content, too. And it happens in the same "
 "collaborative way when that content is part of the Web. As Brown puts it, "
@@ -4414,15 +4413,16 @@ msgid ""
 "start to do on this medium. [It] can now amplify and honor these multiple "
 "forms of intelligence.\""
 msgstr ""
-"Denne samme ting skjer med innhold, også. og det skjer på samme måte som "
-"samarbeid når innholdet er en del av nettet. som brown sier det, \"web [er] "
-"første mediet som virkelig tar hensyn til flere former for intelligens.\" "
-"tidligere teknologi, for eksempel skrivemaskin eller "
-"tekstbehandlingsprogrammer, bidro til å forsterke tekst. Men nettet "
-"forsterker mye mer enn tekst. \"web... sier Hvis du er musikalske, hvis du "
-"er kunstnerisk, hvis du er visuelle, hvis du er interessert i filmen... [] "
-"er det mye du kan begynne å gjøre på dette mediet. [det] kan nå forsterke og "
-"respektere disse flere former for intelligens.\""
+"Denne sammen tingen skjer også med innhold.  Og det skjer på samme "
+"samarbeidende måte når dette innholdet er del av nettet.  Som Brown "
+"formulerer det, \"nettet er det første medium som virkelig tar hensyn "
+"til flere former for intelligens\".  Tidligere teknologier, slik som "
+"skrivemaskin eller tekstbehandling, hjelper med å fremme tekst.  Men "
+"nettet fremmer mye mer enn tekst.  \"Nettet &hellip; si hvis du er "
+"musikalsk, hvis du er kunstnerisk, hvis du er visuell, hvis du er "
+"interessert i film &hellip;da er det en masse du kan gå igang med på "
+"dette mediet.  Det kan fremme og ta hensyn til alle disse formene for "
+"intelligens.\""
 
 #.  PAGE BREAK 60
 #. type: Content of: <book><part><chapter><para>
