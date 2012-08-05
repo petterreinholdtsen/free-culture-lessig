@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-05 08:05+0300\n"
+"POT-Creation-Date: 2012-08-05 19:39+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5416,7 +5416,7 @@ msgstr ""
 "ved å begrense fordel rettighetene musikere har, ved delvis pirating sine "
 "skapende arbeid, registrere produsentene og offentligheten."
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Radio"
 msgstr "Radio"
 
@@ -5557,7 +5557,7 @@ msgstr ""
 "gjøre dette valget. ved å gjøre valg for ham eller henne, gir loven "
 "radiostasjonen retten til å ta noe for ingenting."
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
 msgstr "Kabel-TV"
 
@@ -7208,69 +7208,65 @@ msgstr ""
 "Kongressen var overbevist om at amerikanske film fikk nok, denne \"tar\" til "
 "tross for. Hvis vi setter disse tilfellene sammen, et mønster er klart:"
 
-#. type: Content of: <book><part><chapter><section><table><title>
-msgid "Pattern of Court and Congress response"
-msgstr "Mønster for respons fra rett og kongress"
-
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 #, mtrans, fuzzy
 msgid "CASE"
 msgstr "tilfelle"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 #, mtrans, fuzzy
 msgid "WHOSE VALUE WAS \"PIRATED\""
 msgstr "verdien var \"piratkopiert\""
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 #, mtrans, fuzzy
 msgid "RESPONSE OF THE COURTS"
 msgstr "Svar til domstolene"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 #, mtrans, fuzzy
 msgid "RESPONSE OF CONGRESS"
 msgstr "Responsen til Kongressen"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recordings"
 msgstr "Innspillinger"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Composers"
 msgstr "Komponister"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "No protection"
 msgstr "Ingen beskyttelse"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
 msgid "Statutory license"
 msgstr "lovbestemte lisens"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recording artists"
 msgstr "Innspillingsartister"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Nothing"
 msgstr "Ingenting"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Broadcasters"
 msgstr "Kringkastere"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 #, mtrans, fuzzy
 msgid "VCR"
 msgstr "Videoopptakere"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Film creators"
 msgstr "Filmskapere"
 
@@ -14672,32 +14668,27 @@ msgstr ""
 "Fjern tilordning av endringene som har gjennomgått en lov om opphavsrett. i "
 "1790, loven så ut som dette:"
 
-#. type: Content of: <book><part><chapter><section><table><title>
-msgid "Law status in 1790"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "PUBLISH"
-msgstr "Publiser"
+msgstr "Publisere"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
-#, mtrans, fuzzy
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "TRANSFORM"
-msgstr "transformere"
+msgstr "Omforme"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Commercial"
 msgstr "Kommersiell"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy;"
 msgstr "&copy;"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Free"
 msgstr "Fri"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Noncommercial"
 msgstr "Ikke-kommersiell"
 
@@ -14717,13 +14708,9 @@ msgstr ""
 "kommersielt arbeid var også gratis."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "By the end of the nineteenth century, the law had changed to this:"
-msgstr "ved slutten av det nittende århundre, hadde loven endres til dette:"
-
-#. type: Content of: <book><part><chapter><section><table><title>
-msgid "Law status at the end of ninetheenth centory"
 msgstr ""
+"På slutten av det nittende århundre hadde loven blitt endret til dette:"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14753,15 +14740,11 @@ msgstr ""
 "kunne som fotokopiering maskiner ble mer vanlig, vi si loven begynte å se "
 "slik ut:"
 
-#. type: Content of: <book><part><chapter><section><table><title>
-msgid "Law status in 1975"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><table><tgroup><thead><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "COPY"
-msgstr "Kopier"
+msgstr "Kopiere"
 
-#. type: Content of: <book><part><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy;/Free"
 msgstr "&copy;/Fri"
 
@@ -14778,10 +14761,6 @@ msgstr ""
 "men fortsatt mye med å kopiere utenfor det kommersielle markedet vært "
 "gratis. men konsekvensen av fremveksten av digitale teknologier, spesielt i "
 "sammenheng med en digital network, betyr at loven nå ser slik ut:"
-
-#. type: Content of: <book><part><chapter><section><table><title>
-msgid "Law status now"
-msgstr ""
 
 #.  PAGE BREAK 183
 #. type: Content of: <book><part><chapter><section><para>
