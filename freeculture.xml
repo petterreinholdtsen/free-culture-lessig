@@ -4165,8 +4165,7 @@ enough, this "taking" notwithstanding.  If we put these cases
 together, a pattern is clear:
 </para>
 
-<table id="t1">
-<title>Pattern of Court and Congress response</title>
+<informaltable id="t1">
 <tgroup cols="4" align="char">
 <thead>
  <row>
@@ -4203,7 +4202,7 @@ together, a pattern is clear:
  </row>
 </tbody>
 </tgroup>
-</table>
+</informaltable>
 
 <para>
 In each case throughout our history, a new technology changed the
@@ -8306,8 +8305,7 @@ combine these two distinctions and draw a clear map of the changes
 that copyright law has undergone.  In 1790, the law looked like this:
 </para>
 
-<table id="t2">
-<title>Law status in 1790</title>
+<informaltable id="t2">
 <tgroup cols="3" align="char">
 <thead>
  <row>
@@ -8329,7 +8327,7 @@ that copyright law has undergone.  In 1790, the law looked like this:
  </row>
 </tbody>
 </tgroup>
-</table>
+</informaltable>
 
 <para>
 The act of publishing a map, chart, and book was regulated by
@@ -8344,8 +8342,7 @@ noncommercial work was also free.
 By the end of the nineteenth century, the law had changed to this:
 </para>
 
-<table id="t3">
-<title>Law status at the end of ninetheenth centory</title>
+<informaltable id="t3">
 <tgroup cols="3" align="char">
 <thead>
  <row>
@@ -8367,7 +8364,7 @@ By the end of the nineteenth century, the law had changed to this:
  </row>
 </tbody>
 </tgroup>
-</table>
+</informaltable>
 
 <para>
 Derivative works were now regulated by copyright law&mdash;if
@@ -8383,8 +8380,7 @@ expanded.  Thus by 1975, as photocopying machines became more common,
 we could say the law began to look like this:
 </para>
 
-<table id="t4">
-<title>Law status in 1975</title>
+<informaltable id="t4">
 <tgroup cols="3" align="char">
 <thead>
  <row>
@@ -8406,7 +8402,7 @@ we could say the law began to look like this:
  </row>
 </tbody>
 </tgroup>
-</table>
+</informaltable>
 
 <para>
 The law was interpreted to reach noncommercial copying through, say,
@@ -8416,8 +8412,7 @@ technologies, especially in the context of a digital network, means
 that the law now looks like this:
 </para>
 
-<table id="t5">
-<title>Law status now</title>
+<informaltable id="t5">
 <tgroup cols="3" align="char">
 <thead>
  <row>
@@ -8439,7 +8434,7 @@ that the law now looks like this:
  </row>
 </tbody>
 </tgroup>
-</table>
+</informaltable>
 
 <para>
 Every realm is governed by copyright law, whereas before most
