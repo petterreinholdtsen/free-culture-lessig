@@ -6372,7 +6372,7 @@ msgid ""
 "File sharers share different kinds of content. We can divide these different "
 "kinds into four types."
 msgstr ""
-"Fildelerne deler ulike typer innhold.  Vi kan derel disse ulike typene inn i "
+"Fildelerne deler ulike typer innhold.  Vi kan dele disse ulike typene inn i "
 "fire typer."
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
@@ -7446,17 +7446,17 @@ msgstr "\"Eiendom\""
 
 #.  PAGE BREAK 94
 #. type: Content of: <book><part><partintro><para>
-#, mtrans, fuzzy
 msgid ""
 "The copyright warriors are right: A copyright is a kind of property. It can "
 "be owned and sold, and the law protects against its theft. Ordinarily, the "
 "copyright owner gets to hold out for any price he wants. Markets reckon the "
 "supply and demand that partially determine the price she can get."
 msgstr ""
-"opphavsrett warriors er rett: opphavsretten er en type bolig. Det kan være "
-"eid og solgt, og loven beskytter mot sin tyveri. vanligvis får eieren av "
-"opphavsretten til å holde for noen pris som han ønsker. markeder regner "
-"tilbud og etterspørsel som delvis bestemmer prisen hun kan få."
+"Opphavsretts-krigerne har rett: Opphavsretten er en type eiendom. "
+"Den kan eies og selges, og loven beskytter mot at den blir stjålet. "
+"Vanligvis, kan opphavsrettseieren be om hvilken som helst pris som han "
+"ønsker.  Markeder bestemmer tilbud og etterspørsel som i hvert "
+"tilfelle bestemmer prisen hun kan få."
 
 #. type: Content of: <book><part><partintro><para>
 #, mtrans, fuzzy
@@ -7482,15 +7482,14 @@ msgstr ""
 
 #.  f1
 #. type: Content of: <book><part><partintro><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Letter from Thomas Jefferson to Isaac McPherson (13 August 1813) in "
 "<citetitle>The Writings of Thomas Jefferson</citetitle>, vol. 6 (Andrew A. "
 "Lipscomb and Albert Ellery Bergh, eds., 1903), 330, 333&ndash;34."
 msgstr ""
-"brev fra thomas jefferson til isaac mcpherson (13 august 1813) i skrifter av "
-"thomas jefferson, vol. 6 (andrew a. lipscomb og albert ellery bergh, Red., "
-"1903), 330, 333­34."
+"Brev fra Thomas Jefferson til Isaac McPherson (13. august 1813) i "
+"<citetitle>The Writings of Thomas Jefferson</citetitle>, vol. 6 (Andrew A. "
+"Lipscomb and Albert Ellery Bergh, eds., 1903), 330, 333&ndash;34."
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
