@@ -7144,7 +7144,6 @@ msgstr ""
 "<citetitle>Universal City Studios, Inc</citetitle>. mot <citetitle>Sony Corp. "
 "of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
 
-
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Kozinski, Alex"
 msgstr "Kozinski, Alex"
