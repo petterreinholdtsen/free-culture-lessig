@@ -4482,7 +4482,7 @@ msgstr ""
 "<xref xrefstyle=\"select: labelnumber\" linkend=\"property-i\"/>) har "
 "utviklet et kraftfylt argument til fordel for \"retten til å fikle\" "
 "slik det gjøres i informatikk og til kunnskap generelt.<placeholder "
-"type=\"footnote\" " "id=\"0\"/> Men bekymringen til Brown er "
+"type=\"footnote\" id=\"0\"/> Men bekymringen til Brown er "
 "tidligere, og mer fundamentalt.  Det handler om hva slags læring unger "
 "kan få, eller ikke kan få, på grunn av loven."
 
