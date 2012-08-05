@@ -44,10 +44,20 @@ html: freeculture.html freeculture.nb.html
 # Alternative processing path to dblatex is to use xmlto using fop to
 # create PDF like this.  The PDF output (visual design) is better, but
 # the footnote handling is worse and images are missing.
-#	xmlto --noautosize --stringparam paper.type=A5 \
+#	xmlto --noautosize \
 #	  --stringparam fop1.extensions=1 \
 #	  --stringparam insert.xref.page.number=1 \
-#	  --with-fop pdf $<
+#	  --stringparam page.width=6in \
+#	  --stringparam page.height=9in \
+#	  --stringparam page.margin.inner=1.0in \
+#	  --stringparam page.margin.outer=0.8in \
+#	  --stringparam body.start.indent=0pt \
+#	  --stringparam body.font.family=Times \
+#	  --stringparam title.font.family=Times \
+#	  --stringparam dingbat.font.family=Times \
+#	  --stringparam generate.toc='book toc title' \
+#	  --stringparam hyphenate=false \
+	  --with-fop pdf $<
 
 # Third alternative is to use xsltproc and fop directly, as
 # recommended by <URL: http://www.sagehill.net/docbookxsl/index.html > .
@@ -55,9 +65,18 @@ html: freeculture.html freeculture.nb.html
 # broken.
 	xsltproc  \
 	  --output myfile.fo	\
-	  --stringparam paper.type A5 \
 	  --stringparam fop1.extensions 1 \
 	  --stringparam insert.xref.page.number 1 \
+	  --stringparam page.width 6in \
+	  --stringparam page.height 9in \
+	  --stringparam page.margin.inner 1.0in \
+	  --stringparam page.margin.outer 0.8in \
+	  --stringparam body.start.indent 0pt \
+	  --stringparam body.font.family  Times \
+	  --stringparam title.font.family Times \
+	  --stringparam dingbat.font.family Times \
+	  --stringparam generate.toc 'book toc title' \
+	  --stringparam hyphenate false \
 	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 	  $<
 	fop -fo myfile.fo -pdf $@
