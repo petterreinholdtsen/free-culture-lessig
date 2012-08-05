@@ -7137,13 +7137,13 @@ msgstr ""
 
 #.  f22
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>Universal City Studios, Inc</citetitle>. v. <citetitle>Sony Corp. "
 "of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
 msgstr ""
-"Universal city studios, inc. v. sony Corporation of america, 659 f. 2d 963 "
-"(9 cir. 1981)."
+"<citetitle>Universal City Studios, Inc</citetitle>. mot <citetitle>Sony Corp. "
+"of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
+
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Kozinski, Alex"
@@ -7177,13 +7177,12 @@ msgstr ""
 
 #.  f23
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>Sony Corp. of America</citetitle> v. <citetitle>Universal City "
 "Studios, Inc</citetitle>., 464 U.S. 417, 431 (1984)."
 msgstr ""
-"Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
-"417, 431 (1984)."
+"<citetitle>Sony Corp. of America</citetitle> mot <citetitle>Universal City "
+"Studios, Inc</citetitle>., 464 U.S. 417, 431 (1984)."
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -7209,22 +7208,18 @@ msgstr ""
 "tross for. Hvis vi setter disse tilfellene sammen, et mønster er klart:"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "CASE"
-msgstr "tilfelle"
+msgstr "Tilfelle"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "WHOSE VALUE WAS \"PIRATED\""
-msgstr "verdien var \"piratkopiert\""
+msgstr "Hvems verdi ble \"røvet\""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "RESPONSE OF THE COURTS"
-msgstr "Svar til domstolene"
+msgstr "Responsen til domstolene"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
-#, mtrans, fuzzy
 msgid "RESPONSE OF CONGRESS"
 msgstr "Responsen til Kongressen"
 
