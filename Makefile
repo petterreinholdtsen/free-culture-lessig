@@ -76,7 +76,7 @@ freeculture.pot: freeculture.xml
 	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
 
 stats: update-stats progress.png
-update-stats:
+update-stats: freeculture.nb.po
 	( \
 	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
