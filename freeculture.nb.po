@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-05 19:39+0300\n"
+"POT-Creation-Date: 2012-08-05 21:22+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4446,13 +4446,12 @@ msgid ""
 "increasingly, technology interfere with a freedom that technology, and "
 "curiosity, would otherwise ensure."
 msgstr ""
-"Likevel er friheten til å fikle med disse objektene ikke garantert. "
-"Faktisk, som vi vil se i løpet av denne boken, er den friheten i "
-"stadig større grad omstridt.  Mens det ikke er noe tvil om at din far "
-"hadde rett til å fikle med bilmotoren, så er det stor tvil om dine "
-"barn vil ha retten til å fikle med bilder som hun finner over "
-"alt. Loven, og teknologi i stadig større grad, forstyrrer friheten som "
-"teknolog, nysgjerrigheten, ellers ville sikre."
+"Likevel er friheten til å fikle med disse objektene ikke garantert. Faktisk, "
+"som vi vil se i løpet av denne boken, er den friheten i stadig større grad "
+"omstridt.  Mens det ikke er noe tvil om at din far hadde rett til å fikle "
+"med bilmotoren, så er det stor tvil om dine barn vil ha retten til å fikle "
+"med bilder som hun finner over alt. Loven, og teknologi i stadig større "
+"grad, forstyrrer friheten som teknolog, nysgjerrigheten, ellers ville sikre."
 
 #.  f22
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4477,14 +4476,13 @@ msgid ""
 "id=\"0\"/> But Brown's concern is earlier, or younger, or more fundamental. "
 "It is about the learning that kids can do, or can't do, because of the law."
 msgstr ""
-"Disse begresningene har blitt fokusen for forskere og akademikere. "
-"Professor Ed Felten ved Princeton (som vi vil se mer fra i kapittel "
-"<xref xrefstyle=\"select: labelnumber\" linkend=\"property-i\"/>) har "
-"utviklet et kraftfylt argument til fordel for \"retten til å fikle\" "
-"slik det gjøres i informatikk og til kunnskap generelt.<placeholder "
-"type=\"footnote\" id=\"0\"/> Men bekymringen til Brown er "
-"tidligere, og mer fundamentalt.  Det handler om hva slags læring unger "
-"kan få, eller ikke kan få, på grunn av loven."
+"Disse begresningene har blitt fokusen for forskere og akademikere. Professor "
+"Ed Felten ved Princeton (som vi vil se mer fra i kapittel <xref xrefstyle="
+"\"select: labelnumber\" linkend=\"property-i\"/>) har utviklet et kraftfylt "
+"argument til fordel for \"retten til å fikle\" slik det gjøres i informatikk "
+"og til kunnskap generelt.<placeholder type=\"footnote\" id=\"0\"/> Men "
+"bekymringen til Brown er tidligere, og mer fundamentalt.  Det handler om hva "
+"slags læring unger kan få, eller ikke kan få, på grunn av loven."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4492,9 +4490,9 @@ msgid ""
 "explains. We need to \"understand how kids who grow up digital think and "
 "want to learn.\""
 msgstr ""
-"\"Dette er dit utviklingen av utdanning i det tjueførste århundret er på "
-"vei\", forklarer Brown.  Vi må \"forstå hvordan unger som vokser opp "
-"digitalt tenker og ønsker å lære\"."
+"\"Dette er dit utviklingen av utdanning i det tjueførste århundret er på vei"
+"\", forklarer Brown.  Vi må \"forstå hvordan unger som vokser opp digitalt "
+"tenker og ønsker å lære\"."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -7154,8 +7152,8 @@ msgid ""
 "<citetitle>Universal City Studios, Inc</citetitle>. v. <citetitle>Sony Corp. "
 "of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
 msgstr ""
-"<citetitle>Universal City Studios, Inc</citetitle>. mot <citetitle>Sony Corp. "
-"of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
+"<citetitle>Universal City Studios, Inc</citetitle>. mot <citetitle>Sony "
+"Corp. of America</citetitle>, 659 F. 2d 963 (9th Cir.  1981)."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Kozinski, Alex"
@@ -18622,6 +18620,10 @@ msgid "Agee, Michael"
 msgstr "Agee, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Hal Roach Studios"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Laurel and Hardy Films"
 msgstr ""
 
@@ -19458,6 +19460,14 @@ msgstr ""
 msgid "Fried, Charles"
 msgstr "Fried, Charles"
 
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Morrison, Alan"
+msgstr "Morrison, Alan"
+
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Public Citizen"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19470,7 +19480,8 @@ msgid ""
 "individual rights; my colleague and dean, Kathleen Sullivan, who had argued "
 "many cases in the Court, and who had advised us early on about a First "
 "Amendment strategy; and finally, former solicitor general Charles Fried.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
 msgstr ""
 "samme innsats på balanse ble reflektert i det juridiske teamet vi samles for "
 "å skrive våre truser i tilfelle. jones dag advokater hadde blitt med oss fra "
