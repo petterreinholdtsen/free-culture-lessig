@@ -79,7 +79,7 @@ html: freeculture.html freeculture.nb.html
 	  --stringparam hyphenate false \
 	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 	  $<
-	fop -fo myfile.fo -pdf $@
+	fop -c data/fop-params.xconf -fo myfile.fo -pdf $@
 
 %.html: %.xml $(IMAGES)
 	xmlto html-nochunks $<

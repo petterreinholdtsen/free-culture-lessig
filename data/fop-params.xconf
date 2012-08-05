@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+  <renderers>
+    <renderer mime="application/pdf">
+      <!-- Full path to truetype fonts to be embedded in PDF file -->
+      <fonts>
+	<font embed-url="file:///usr/share/fonts/truetype/freefont/FreeSerif.ttf">
+	  <font-triplet name="Times" style="normal" weight="normal"/>
+	</font>
+	<font embed-url="file:///usr/share/fonts/truetype/freefont/FreeSerifBold.ttf">
+	  <font-triplet name="Times" style="normal" weight="bold"/>
+	</font>
+	<font embed-url="file:///usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf">
+	  <font-triplet name="Times" style="italic" weight="normal"/>
+	</font>
+	<font embed-url="file:///usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf">
+	  <font-triplet name="Times" style="italic" weight="bold"/>
+	</font>
+      </fonts>
+    </renderer>
+  </renderers>
+</fop>
