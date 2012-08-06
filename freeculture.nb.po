@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-06 12:41+0300\n"
+"POT-Creation-Date: 2012-08-06 20:11+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4973,11 +4973,11 @@ msgid ""
 "citetitle>, 87&ndash;93, which details Edison's \"adventures\" with "
 "copyright and patent.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Jeg er takknemlig til Peter DiMauro for å ha pekt meg i retning av "
-"denne ekstraordinære historien.  Se også Siva Vaidhyanathan, "
-"<citetitle>Copyrights and Copywrongs</" "citetitle>, 87&ndash;93, som "
-"forteller detaljer om Edisons \"eventyr\" med opphavsrett og patent. "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"Jeg er takknemlig til Peter DiMauro for å ha pekt meg i retning av denne "
+"ekstraordinære historien.  Se også Siva Vaidhyanathan, <citetitle>Copyrights "
+"and Copywrongs</citetitle>, 87&ndash;93, som forteller detaljer om Edisons "
+"\"eventyr\" med opphavsrett og patent. <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 
 #.  PAGE BREAK 67
 #. type: Content of: <book><part><chapter><section><para>
@@ -5704,14 +5704,18 @@ msgstr ""
 "på et svakere ord for å beskrive det.  Jeg tror det er sterkere ord som "
 "ville passe.<placeholder type=\"footnote\" id=\"0\"/>"
 
-#.  f17
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Heston, Charlton"
+msgstr "Heston, Charlton"
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
 "Copyright Law Revision&mdash;CATV, 209 (statement of Charlton Heston, "
-"president of the Screen Actors Guild)."
+"president of the Screen Actors Guild).  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 msgstr ""
 "Copyright Law Revision&mdash;CATV, 209 (vitnemål fra Charlton Heston, "
-"president i Screen Actors Guild)."
+"president i Screen Actors Guild).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7589,6 +7593,10 @@ msgstr ""
 msgid "CHAPTER SIX: Founders"
 msgstr "Kapittel seks: Grunnleggerne"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Henry V"
+msgstr "Henry V"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "William Shakespeare wrote <citetitle>Romeo and Juliet</citetitle> in 1595. "
@@ -7867,6 +7875,10 @@ msgstr ""
 "fremføres, om verket kunne oversettes eller om Kenneth Branagh ville hatt "
 "lov til å lage filmer. \"Kopi-retten\" var bare en eksklusiv rett til å "
 "trykke--ikke noe mindre, selvfølgelig, men heller ikke mer."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Henry VIII, King of England"
+msgstr "Henry VIII, Konge av England"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -17672,6 +17684,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER THIRTEEN: Eldred"
 msgstr "Kapittel tretten: Eldred"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Hawthorne, Nathaniel"
+msgstr "Hawthorne, Nathaniel"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
