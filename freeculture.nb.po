@@ -3633,7 +3633,7 @@ msgid ""
 "\"Read-only.\" Passive recipients of culture produced elsewhere.  Couch "
 "potatoes. Consumers. This is the world of media from the twentieth century."
 msgstr ""
-"\"Skrivebeskyttet.\" Passive mottakerne av kultur produsert andre steder. "
+"\"ikke kunne skrive.\" Passive mottakerne av kultur produsert andre steder. "
 "Sofapoteter. Forbrukere. Dette er medieverden fra det tjuende århundre."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3930,7 +3930,6 @@ msgstr ""
 "umiddelbart."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "September 11 was not an aberration. It was a beginning. Around the same "
 "time, a form of communication that has grown dramatically was just beginning "
@@ -3940,13 +3939,13 @@ msgid ""
 "public way&mdash;it's a kind of electronic <citetitle>Jerry Springer</"
 "citetitle>, available anywhere in the world."
 msgstr ""
-"11 september var ikke en villfarelse. Det var en begynnelse. rundt samme "
-"tid, en form for kommunikasjon som har vokst dramatisk var bare begynnelsen "
-"framover i offentlig bevissthet: web-loggen, eller bloggen. bloggen er en "
-"type offentlig dagbok, og i noen kulturer, slik som i japan, det fungerer "
-"veldig mye som en dagbok. i disse kulturer, den registrerer privat fakta i "
-"en offentlig måte&mdash;det er en slags elektronisk jerry springer, "
-"tilgjengelig overalt i verden."
+"11. september var ikke et avvik.  Det var en start.  Omtrent på samme "
+"tid, begynte en form for kommunkasjon som hadde vokst dramatisk å "
+"komme inn i offentlig bevissthet: web-loggen, eller blog.  Bloggen er "
+"en slags offentlig dagbok, og i noen kulturer, slik som i Japan, "
+"fungerer den veldig lik en dagbok.  I disse kulturene registrerer den "
+"private fakta på en offentlig måte&mdash;det er en slags elektronisk "
+"<citetitle>Jerry Springer</citetitle>, tilgjengelig overalt i verden."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
