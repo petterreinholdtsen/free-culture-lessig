@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-06 07:54+0300\n"
+"POT-Creation-Date: 2012-08-06 10:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,9 +100,10 @@ msgstr ""
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject>
 #: freeculture.xml:69
 msgid ""
-"<imageobject> <imagedata fileref=\"images/cc.png\" width=\"100%\" "
-"align=\"center\"/> </imageobject> <imageobject> <imagedata "
-"fileref=\"images/cc.svg\" width=\"100%\" align=\"center\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/cc.png\" contentdepth=\"3em\" "
+"width=\"100%\" align=\"center\"/> </imageobject> <imageobject> <imagedata "
+"fileref=\"images/cc.svg\" contentdepth=\"3em\" width=\"100%\" "
+"align=\"center\"/> </imageobject>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject><textobject><phrase>
