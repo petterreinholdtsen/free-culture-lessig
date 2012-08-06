@@ -14213,16 +14213,16 @@ msgid "Moyers, Bill"
 msgstr "Moyers, Bill"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "While the number of channels has increased dramatically, the ownership of "
 "those channels has narrowed to an ever smaller and smaller few. As Barry "
 "Diller said to Bill Moyers, <placeholder type=\"indexterm\" id=\"0\"/> "
 "<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"mens antall kanaler har økt dramatisk, har eierskap av disse kanalene "
-"begrenses til en stadig mindre og mindre få. som barry diller sa til bill "
-"moyers,"
+"Mens antall kanaler har økt dramatisk, har eierskapet til disse "
+"kanalene snevret inn fra få til stadig færre.  Som Barry Diller sa til "
+"Bill Moyers, <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/>"
 
 #.  f32
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
