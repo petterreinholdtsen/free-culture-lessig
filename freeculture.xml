@@ -137,7 +137,7 @@ Appeals.
 </bookinfo>
 <!-- PAGE BREAK 1 -->
 <dedication id="salespoints">
-<title>Where to buy this book</title>
+<title></title>
 <para>
 You can buy a copy of this book by clicking on one of the links below:
 </para>
@@ -151,7 +151,10 @@ You can buy a copy of this book by clicking on one of the links below:
 <!-- PAGE BREAK 2 -->
 <!-- PAGE BREAK 3 -->
 <dedication id="alsobylessig">
-<title>ALSO BY LAWRENCE LESSIG</title>
+<title></title>
+<para
+ALSO BY LAWRENCE LESSIG
+</para>
 <para>
 The Future of Ideas: The Fate of the Commons in a Connected World
 </para>
@@ -161,14 +164,14 @@ Code: And Other Laws of Cyberspace
 </dedication>
 <!-- PAGE BREAK 4 -->
 <dedication id="frontpublisher">
-<title>Publisher</title>
+<title></title>
 <para>
 THE PENGUIN PRESS, NEW YORK
 </para>
 </dedication>
 <!-- PAGE BREAK 5 -->
 <dedication id="frontbookinfo">
-<title>Publisher</title>
+<title></title>
 <para>
 FREE CULTURE
 </para>
