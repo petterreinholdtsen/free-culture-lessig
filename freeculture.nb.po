@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-06 10:43+0300\n"
+"POT-Creation-Date: 2012-08-06 11:31+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -34,7 +34,7 @@ msgstr "Fri kultur"
 msgid "<abbrev>\"freeculture\"</abbrev>"
 msgstr "<abbrev>\"frikultur\"</abbrev>"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid ""
 "HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
 "CREATIVITY"
@@ -187,44 +187,44 @@ msgid ""
 "\">2003063276</biblioid>"
 msgstr ""
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
 msgstr ""
 "Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
 
-#. type: Content of: <book><colophon><itemizedlist><listitem><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
 msgstr "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
 
-#. type: Content of: <book><colophon><itemizedlist><listitem><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.barnesandnoble.com/\">B&amp;N</ulink>"
 msgstr "<ulink url=\"http://www.barnesandnoble.com/\">B&amp;N</ulink>"
 
-#. type: Content of: <book><colophon><itemizedlist><listitem><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 msgstr "<ulink url=\"http://www.penguin.com/\">Penguin</ulink>"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "ALSO BY LAWRENCE LESSIG"
 msgstr "Andre bøker av Lawrence Lessig"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
 msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "THE PENGUIN PRESS, NEW YORK"
 msgstr "The Penguin Press, New York"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "FREE CULTURE"
 msgstr "Fri Kultur"
 
-#. type: Content of: <book><colophon><para>
+#. type: Content of: <book><dedication><para>
 msgid "LAWRENCE LESSIG"
 msgstr "Lawrence Lessig"
 
