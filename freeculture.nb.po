@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-06 20:23+0300\n"
+"POT-Creation-Date: 2012-08-06 21:49+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2020,6 +2020,10 @@ msgstr ""
 msgid "Florida, Richard"
 msgstr "Florida, Richard"
 
+#. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
+msgid "Rise of the Creative Class, The (Florida)"
+msgstr ""
+
 #. type: Content of: <book><part><partintro><para><footnote><para>
 msgid ""
 "In <citetitle>The Rise of the Creative Class</citetitle> (New York: Basic "
@@ -2028,7 +2032,8 @@ msgid ""
 "the legal conditions under which that creativity is enabled or stifled. I "
 "certainly agree with him about the importance and significance of this "
 "change, but I also believe the conditions under which it will be enabled are "
-"much more tenuous.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"much more tenuous.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "I <citetitle>The Rise of the Creative Class</citetitle> (New York: Basic "
 "Books, 2002), dokumenterer Richard Florida en endring i arbeidsstokken mot "
@@ -2036,7 +2041,8 @@ msgstr ""
 "vilkår som kreativiteten blir muliggjort eller hindret under.  Jeg er helt "
 "klart enig med ham i viktigheten og betydningen av denne endringen, men jeg "
 "tror også at vilkårene som disse endringene blir aktivert under er mye "
-"vanskeligere.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"vanskeligere.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -4553,6 +4559,14 @@ msgstr ""
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER THREE: Catalogs"
 msgstr "Kapittel tre: Kataloger"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "RPI"
+msgstr "RPI"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Rensselaer Polytechnic Institute (RPI)"
+msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9762,6 +9776,10 @@ msgstr ""
 "for en svært lav avgift. \"men annet enn at, [TV] er nesten utilgjengelig,\" "
 "fortalte kahle meg. \"Hvis du var barbara walters du kan få tilgang til "
 "[arkivene], men hvis du er bare en utdannet student?\" som kahle sa,"
+
+#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
+msgid "Quayle, Dan"
+msgstr "Quayle, Dan"
 
 #.  PAGE BREAK 122
 #. type: Content of: <book><part><chapter><blockquote><para>
@@ -15929,6 +15947,10 @@ msgstr ""
 "fortalt i fremtiden for idéer og som har kommet i en måte at selv jeg "
 "(pessimist extraordinaire) ville aldri ha forutsett."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Roberts, Michael"
+msgstr "Roberts, Michael"
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -16826,6 +16848,10 @@ msgstr ""
 "hvorfor? Hva rettferdiggjør denne forskjellen? var det noen studier av "
 "økonomiske konsekvensene fra Internett-radio som ville forsvare disse "
 "forskjellene? var motivet å beskytte kunstnere mot piratkopiering?"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Real Networks"
+msgstr "Real Networks"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18279,6 +18305,10 @@ msgstr ""
 "nasjonal skala, påvirker utdanningen handel. en konstitusjon som er utformet "
 "for å begrense Kongressens makt ble i stedet tolket for å innføre ingen "
 "grense."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Rehnquist, William H."
+msgstr "Rehnquist, William H."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23605,6 +23635,10 @@ msgstr ""
 "gikk ut av print. han overvåket deretter brukt boka store priser for boken. "
 "som spådd, som antall nedlastinger økt, brukte boken-pris for sin bok øker "
 "også."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Public Enemy"
+msgstr "Public Enemy"
 
 #.  f2.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
