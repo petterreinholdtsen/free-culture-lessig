@@ -3912,7 +3912,6 @@ msgstr ""
 "\"-bussen, kan visuelle bilder bli blandet med lyd og tekst."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But unlike any technology for simply capturing images, the Internet allows "
 "these creations to be shared with an extraordinary number of people, "
@@ -3922,12 +3921,13 @@ msgid ""
 "images, sound, and commentary can be widely spread practically "
 "instantaneously."
 msgstr ""
-"men i motsetning til noen teknologi for bare skjermbilder, Internett kan "
-"disse kreasjoner som skal deles med en ekstraordinære antall mennesker, "
-"nesten umiddelbart. Dette er noe nytt i vår tradisjon&mdash;ikke bare som "
-"kultur kan fanges mekanisk, og åpenbart ikke bare at hendelser er kommentert "
-"kritisk, men at denne blandingen av tatt bilder, lyd, og kommentarer kan "
-"være vidt spredt nesten umiddelbart."
+"Men i motsetning til en hvilken som helst teknologi for å "
+"enkelt fange bilder, tillater internettet at en nesten umiddelbart deler 
+"disse kreasjonene "med et ekstraordinært antall menesker.  Dette er "
+"noe nytt i vår tradisjon&mdash;ikke bare kan kultur fanges inn mekanisk, og "
+"åpenbart heller ikke at hendelser blir kommentert kritisk, men at denne "
+"blandingen av  bilder, lyd og kommentar kan spres vidt omkring nesten "
+"umiddelbart."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -3977,7 +3977,6 @@ msgstr ""
 
 #.  PAGE BREAK 55
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "That's a strong statement. Yet it says as much about our democracy as it "
 "does about blogs. This is the part of America that is most difficult for "
@@ -3987,13 +3986,14 @@ msgid ""
 "elections. The cycle of these elections has become totally professionalized "
 "and routinized. Most of us think this is democracy."
 msgstr ""
-"Det er en sterk uttalelse. Likevel står det så mye om vårt demokrati som det "
-"gjør om blogger. Dette er delen av Amerika som er mest vanskelig for de av "
-"oss som elsker Amerika for å godta: vårt demokrati har atrofier. "
-"selvfølgelig vi har valg, og mesteparten av tiden domstolene tillate disse "
-"valgene til å telle. et relativt lite antall folk stemme i disse valgene. "
-"syklusen av disse valgene blir helt professionalized og routinized. de "
-"fleste av oss tror dette er demokrati."
+"Dette er en sterk uttalelse.  Likevel sier den like mye om vårt "
+"demokrati som den sier om blogger.  Dette er delen av USA som det er "
+"mest vanskelig for oss som elsker USA å akseptere: vårt demokrati har "
+"svunnet hen.  Vi har naturligvis valg, og mesteparten av tiden "
+"tillater domstolene at disse valgene teller.  Et relativt lite antall "
+"mennesker stemmer i disse valgene.  Syklusen med disse valgene har "
+"blitt totalt profesjonalisert og rutinepreget.  De fleste av oss "
+"tenker på dette som demokrati."
 
 #.  f15
 #. type: Content of: <book><part><chapter><para><footnote><para>
