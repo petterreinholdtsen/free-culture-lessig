@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-06 11:31+0300\n"
+"POT-Creation-Date: 2012-08-06 12:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2786,7 +2786,7 @@ msgid ""
 "&hellip; saying, \"Let's go have fun with the video camera and make a little "
 "movie.\" But instead, really help you take these elements that you "
 "understand, that are your language, and construct meaning about the "
-"topic. &hellip;"
+"topic.&hellip;"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
