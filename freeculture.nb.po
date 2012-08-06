@@ -3248,7 +3248,7 @@ msgid ""
 "<citetitle>Harvard Law Review</citetitle> 4 (1890): 193.  <placeholder type="
 "\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"Samuel D. Warren and Louis D. Brandeis, \"The Right to Privacy,\" "
+"Samuel D. Warren og Louis D. Brandeis, \"The Right to Privacy,\" "
 "<citetitle>Harvard Law Review</citetitle> 4 (1890): 193.  <placeholder type="
 "\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
