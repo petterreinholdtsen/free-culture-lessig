@@ -1227,6 +1227,7 @@ Byzantine complexity that copyright law has become. It was just one
 more expense of doing business.
 </para>
 <indexterm><primary>Florida, Richard</primary></indexterm>
+<indexterm><primary>Rise of the Creative Class (Florida)</primary></indexterm>
 <para>
 But with the birth of the Internet, this natural limit to the reach of
 the law has disappeared. The law controls not just the creativity of
@@ -1244,17 +1245,20 @@ commercial and noncommercial creativity, the law burdens this
 creativity with insanely complex and vague rules and with the threat
 of obscenely severe penalties. We may
 <!-- PAGE BREAK 33 -->
-be seeing, as Richard Florida writes, the "Rise of the Creative Class."<footnote>
+be seeing, as Richard Florida writes, the "Rise of the Creative
+Class."<footnote>
 <para>
 <!-- f4 -->
-In <citetitle>The Rise of the Creative Class</citetitle> (New York: Basic Books, 2002),
-Richard Florida documents a shift in the nature of labor toward a
-labor of creativity.  His work, however, doesn't directly address the
-legal conditions under which that creativity is enabled or stifled. I
-certainly agree with him about the importance and significance of this
-change, but I also believe the conditions under which it will be
-enabled are much more tenuous.
+In <citetitle>The Rise of the Creative Class</citetitle> (New York:
+Basic Books, 2002), Richard Florida documents a shift in the nature of
+labor toward a labor of creativity.  His work, however, doesn't
+directly address the legal conditions under which that creativity is
+enabled or stifled. I certainly agree with him about the importance
+and significance of this change, but I also believe the conditions
+under which it will be enabled are much more tenuous.
+
 <indexterm><primary>Florida, Richard</primary></indexterm>
+<indexterm><primary>Rise of the Creative Class (Florida)</primary></indexterm>
 </para></footnote>
 Unfortunately, we are also seeing an extraordinary rise of regulation of
 this creative class.
@@ -2592,6 +2596,10 @@ quipped to me in a rare moment of despondence.
 </chapter>
 <chapter label="3" id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
+<indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute</see></indexterm>
+<indexterm id="idxrensselaer" class='startofrange'>
+  <primary>Rensselaer Polytechnic Institute (RPI)</primary>
+</indexterm>
 <para>
 In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
 a freshman at Rensselaer Polytechnic Institute, in Troy, New York.
@@ -2729,6 +2737,7 @@ Suit Alleges $97.8 Billion in Damages," <citetitle>Professional Media Group LCC<
 (2003): 5, available at 2003 WL 55179443.
 </para></footnote>
 </para>
+<indexterm startref="idxrensselaer" class='endofrange'/>
 <para>
 Jesse called his parents. They were supportive but a bit frightened.
 An uncle was a lawyer. He began negotiations with the RIAA. They
@@ -9103,6 +9112,7 @@ Consider one example to make the point, a story whose beginning
 I told in <citetitle>The Future of Ideas</citetitle> and which has progressed in a way that
 even I (pessimist extraordinaire) would never have predicted.
 </para>
+<indexterm><primary>Roberts, Michael</primary></indexterm>
 <para>
 In 1997, Michael Roberts launched a company called MP3.com.  MP3.com
 was keen to remake the music business. Their goal was not just to
