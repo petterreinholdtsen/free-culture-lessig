@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-06 20:11+0300\n"
+"POT-Creation-Date: 2012-08-06 20:23+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -190,7 +190,8 @@ msgstr ""
 #. type: Content of: <book><dedication><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
 msgstr ""
-"Du kan kjøpe et eksemplar av denne boken ved å klikke på en av lenkene nedenfor:"
+"Du kan kjøpe et eksemplar av denne boken ved å klikke på en av lenkene "
+"nedenfor:"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
@@ -5623,14 +5624,18 @@ msgstr "Anello, Douglas"
 msgid "Burdick, Quentin"
 msgstr "Burdick, Quentin"
 
-#.  f13
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Hyde, Rosel H."
+msgstr "Hyde, Rosel H."
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV: Hearing on S. 1006 Before the "
 "Subcommittee on Patents, Trademarks, and Copyrights of the Senate Committee "
 "on the Judiciary, 89th Cong., 2nd sess., 78 (1966)  (statement of Rosel H. "
-"Hyde, chairman of the Federal Communications Commission)."
+"Hyde, chairman of the Federal Communications Commission).  <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Copyright lov revision&mdash;catv: høre s. 1006 før subcommittee on "
 "patenter, varemerker og opphavsrett for senatets komité på rettsvesenet, "
@@ -16073,6 +16078,10 @@ msgstr ""
 msgid "Hummer, John"
 msgstr "Hummer, John"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Hummer Winblad"
+msgstr "Hummer Winblad"
+
 #.  f4.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -16422,6 +16431,10 @@ msgstr ""
 "gjennomføre for attenuated å gjøre distributøren ansvarlig for krenkelse av "
 "medvirkende eller stedfortredende erstatningsansvar."
 
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Hollings, Fritz"
+msgstr "Hollings, Fritz"
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
 "For example, in July 2002, Representative Howard Berman introduced the Peer-"
@@ -16436,7 +16449,8 @@ msgid ""
 "copyright protection technology in all digital media devices. See GartnerG2, "
 "\"Copyright and Digital Media in a Post-Napster World,\" 27 June 2003, "
 "33&ndash;34, available at <ulink url=\"http://free-culture.cc/notes/\">link "
-"#44</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"#44</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
