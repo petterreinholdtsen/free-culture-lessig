@@ -17,5 +17,17 @@
     <xsl:text>\input{</xsl:text>po4a/hyphenation.<xsl:value-of select="$lingua"/><xsl:text>.tex}</xsl:text>
     -->
   </xsl:template>
-</xsl:stylesheet>
 
+  <xsl:param name="hyphenate">false</xsl:param>
+  <xsl:param name="generate.toc">book toc title</xsl:param>
+
+  <xsl:param name="local.l10n.xml" select="document('')"/> 
+  <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+    <l:l10n language="en">
+      <l:context name="title-numbered">
+	<l:template name="chapter" text="%n.&#160;%t"/>
+      </l:context>
+    </l:l10n>
+  </l:i18n>
+
+</xsl:stylesheet>

@@ -16,5 +16,8 @@
 <xsl:param name="draft.watermark">0</xsl:param>
 <xsl:param name="doc.collab.show">0</xsl:param>
 
+<xsl:param name="insert.xref.page.number">1</xsl:param>
+
+<xsl:include href="lulu.xsl" />
 
 </xsl:stylesheet>
