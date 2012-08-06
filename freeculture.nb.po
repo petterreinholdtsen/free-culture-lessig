@@ -190,7 +190,7 @@ msgstr ""
 #. type: Content of: <book><dedication><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
 msgstr ""
-"Du kan kjøpe en kopi av denne boken ved å klikke på en av lenkene nedenfor:"
+"Du kan kjøpe et eksemplar av denne boken ved å klikke på en av lenkene nedenfor:"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "<ulink url=\"http://www.amazon.com/\">Amazon</ulink>"
