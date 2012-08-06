@@ -3250,6 +3250,7 @@ United Artists Television, Inc.).
 </para></footnote>
 </para>
 </blockquote>
+<indexterm><primary>Heston, Charlton</primary></indexterm>
 <para>
 These were "free-ride[rs]," Screen Actor's Guild president Charlton
 Heston said, who were "depriving actors of
@@ -3257,7 +3258,9 @@ compensation."<footnote><para>
 <!-- f17 -->
 Copyright Law Revision&mdash;CATV, 209 (statement of Charlton Heston,
 president of the Screen Actors Guild).
-</para></footnote>
+<indexterm><primary>Heston, Charlton</primary></indexterm>
+</para>
+</footnote>
 </para>
 <para>
 But again, there was another side to the debate. As Assistant Attorney
@@ -4408,6 +4411,7 @@ even recognize their source.  I once overheard someone commenting on
 Kenneth Branagh's adaptation of Henry V: "I liked it, but Shakespeare
 is so full of clichés."
 </para>
+<indexterm><primary>Henry V</primary></indexterm>
 <para>
 In 1774, almost 180 years after <citetitle>Romeo and Juliet</citetitle> was written, the
 "copy-right" for the work was still thought by many to be the exclusive
@@ -4539,41 +4543,35 @@ distribute, the exclusive right to perform, and so on.
 <para>
 So, for example, even if the copyright to Shakespeare's works were
 perpetual, all that would have meant under the original meaning of the
-term was that no one could reprint Shakespeare's work without the 
-		permission
-of the Shakespeare estate. It would not have controlled 
-		anything,
-for example, about how the work could be performed, whether
+term was that no one could reprint Shakespeare's work without the
+permission of the Shakespeare estate. It would not have controlled
+anything, for example, about how the work could be performed, whether
 the work could be translated, or whether Kenneth Branagh would be
-allowed to make his films. The "copy-right" was only an exclusive right
-to print&mdash;no less, of course, but also no more.
+allowed to make his films. The "copy-right" was only an exclusive
+right to print&mdash;no less, of course, but also no more.
 </para>
 <para>
 Even that limited right was viewed with skepticism by the British.
-They had had a long and ugly experience with "exclusive rights," 
-		especially
-"exclusive rights" granted by the Crown. The English had fought
-a civil war in part about the Crown's practice of handing out 
-		monopolies&mdash;especially
-monopolies for works that already existed. King Henry
-VIII granted a patent to print the Bible and a monopoly to Darcy to
-print playing cards. The English Parliament began to fight back
-against this power of the Crown. In 1656, it passed the Statute of 
-		Monopolies,
-limiting monopolies to patents for new inventions. And by
-1710, Parliament was eager to deal with the growing monopoly in
-publishing.
+They had had a long and ugly experience with "exclusive rights,"
+especially "exclusive rights" granted by the Crown. The English had
+fought a civil war in part about the Crown's practice of handing out
+monopolies&mdash;especially monopolies for works that already
+existed. King Henry VIII granted a patent to print the Bible and a
+monopoly to Darcy to print playing cards. The English Parliament began
+to fight back against this power of the Crown. In 1656, it passed the
+Statute of Monopolies, limiting monopolies to patents for new
+inventions. And by 1710, Parliament was eager to deal with the growing
+monopoly in publishing.
 </para>
+<indexterm><primary>Henry VIII, King of England</primary></indexterm>
 <para>
-Thus the "copy-right," when viewed as a monopoly right, was 
-		naturally
-viewed as a right that should be limited. (However convincing
-the claim that "it's my property, and I should have it forever," try
+Thus the "copy-right," when viewed as a monopoly right, was naturally
+viewed as a right that should be limited. (However convincing the
+claim that "it's my property, and I should have it forever," try
 sounding convincing when uttering, "It's my monopoly, and I should
-have it forever.") The state would protect the exclusive right, but only
-so long as it benefited society. The British saw the harms from 
-		specialinterest
-favors; they passed a law to stop them.
+have it forever.") The state would protect the exclusive right, but
+only so long as it benefited society. The British saw the harms from
+specialinterest favors; they passed a law to stop them.
 </para>
 <para>
 Second, about booksellers. It wasn't just that the copyright was a
@@ -10192,6 +10190,9 @@ success will require.
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
+<indexterm id="idxhawthornenathaniel" class='startofrange'>
+  <primary>Hawthorne, Nathaniel</primary>
+</indexterm>
 <para>
 In 1995, a father was frustrated that his daughters didn't seem to
 like Hawthorne. No doubt there was more than one such father, but at
@@ -10231,6 +10232,7 @@ animated cartoons, sometimes successfully (<citetitle>Cinderella</citetitle>), s
 (<citetitle>The Hunchback of Notre Dame</citetitle>, <citetitle>Treasure Planet</citetitle>). These are all
 commercial publications of public domain works.
 </para>
+<indexterm startref="idxhawthornenathaniel" class='endofrange'/>
 <para>
 The Internet created the possibility of noncommercial publications of
 public domain works. Eldred's is just one example. There are literally
