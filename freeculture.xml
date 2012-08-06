@@ -67,10 +67,10 @@
    <para>
      <inlinemediaobject>
        <imageobject>
-	 <imagedata fileref="images/cc.png" width="100%" align="center"/>
+	 <imagedata fileref="images/cc.png" contentdepth="3em" width="100%" align="center"/>
        </imageobject>
        <imageobject>
-	 <imagedata fileref="images/cc.svg" width="100%" align="center"/>
+	 <imagedata fileref="images/cc.svg" contentdepth="3em" width="100%" align="center"/>
        </imageobject>
        <textobject>
 	 <phrase>Creative Commons, Some rights reserved</phrase>
