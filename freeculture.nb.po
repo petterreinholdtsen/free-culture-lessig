@@ -14941,15 +14941,14 @@ msgstr ""
 
 #.  f1.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "H. G. Wells, \"The Country of the Blind\" (1904, 1911). See H. G. Wells, "
 "<citetitle>The Country of the Blind and Other Stories</citetitle>, Michael "
 "Sherborne, ed. (New York: Oxford University Press, 1996)."
 msgstr ""
-"h. g. wells, \"land for blind\" (1904, 1911). se h. g. wells, landet av "
-"blind og andre historier, michael sherborne, ed. (new york: oxford "
-"university press, 1996)."
+"H. G. Wells, \"The Country of the Blind\" (1904, 1911). Se H. G. Wells, "
+"<citetitle>The Country of the Blind and Other Stories</citetitle>, Michael "
+"Sherborne, ed. (New York: Oxford University Press, 1996)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -15578,6 +15577,12 @@ msgid ""
 "<ulink url=\"http://free-culture.cc/notes/\">link #37</ulink>.  <placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
+"Se Lynne W. Jeter, <citetitle>Disconnected: Deceit and Betrayal at "
+"WorldCom</citetitle> (Hoboken, N.J.: John Wiley &amp; Sons, 2003), 176, 204; "
+"for detaljer om dette forliket, se pressemelding fra MCI, \"MCI Wins U.S. "
+"District Court Approval for SEC Settlement\" (7. juli 2003), tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #37</ulink>.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Bush, George W."
