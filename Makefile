@@ -22,7 +22,7 @@ DBTOEPUB = dbtoepub
 
 IMAGES = images/cc.png
 
-XSLTS = \
+XSLT = \
   data/user_param.xsl
 
 DB_XSLT = \
@@ -52,7 +52,7 @@ pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
-%.pdf: %.xml $(IMAGES) $(PDF_XSLTS)
+%.pdf: %.xml $(IMAGES) $(PDF_XSLT)
 #	$(DBLATEX) $<
 
 # Alternative processing path to dblatex is to use xmlto using fop to
