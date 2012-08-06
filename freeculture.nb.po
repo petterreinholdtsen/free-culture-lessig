@@ -3729,7 +3729,6 @@ msgstr ""
 
 #.  PAGE BREAK 52
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "\"But isn't education about teaching kids to write?\" I asked. In part, of "
 "course, it is. But why are we teaching kids to write? Education, Daley "
@@ -3739,13 +3738,14 @@ msgid ""
 "not the most powerful part&mdash;of constructing meaning. As Daley explained "
 "in the most moving part of our interview,"
 msgstr ""
-"\"men ikke opplæring om undervise barna å skrive?\" spurte jeg. delvis, "
-"selvfølgelig, er det. men hvorfor er vi lærer barna å skrive? utdanning, "
-"daley forklart, handler om å gi elever en måte å \"konstruksjon av ny "
-"betydning.\" å si at det betyr bare skrive er som å si undervisning skriving "
-"er bare om å undervise barna hvordan å stave. teksten er én del&mdash; og i "
-"økende grad, ikke den mektigste delen&mdash;for å bygge betydning. som daley "
-"forklart i den mest flyttende del av vårt intervju"
+"\"Men handler ikke utdanning om å lære unger å skrive?\" spurte jeg. "
+"Jo delvis, naturligvis.  Men hvorfor lærer vi unger å skrive? "
+"Utdanning, forklarer Daley, handler om å gi studentene en måte å "
+"\"konstruere mening\".  Å si at det kun betyr skriving er som å si at "
+"å lære bort skriving kun handler om å lære ungene å stave. "
+"Tekstforming er bare en del&mdash;og i større grad ikke den kraftigste "
+"delen&mdahs;for å konstruere mening.  Som Daley forklarte i den mest "
+"rørende delen av vårt intervju,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
