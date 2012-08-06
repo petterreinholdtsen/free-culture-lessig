@@ -20,4 +20,7 @@
 
 <xsl:include href="lulu.xsl" />
 
+<!-- fall back to A4 if not creating PDF  for LULU. -->
+<xsl:param name="paper.type">A4</xsl:param>
+
 </xsl:stylesheet>
