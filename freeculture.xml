@@ -489,7 +489,7 @@ book is written.
 <!-- PAGE BREAK 15 -->
 
 <!-- PAGE BREAK 16 -->
-<chapter id="c-introduction">
+<chapter label="0" id="c-introduction">
 <title>INTRODUCTION</title>
 <para>
 On December 17, 1903, on a windy North Carolina beach for just
@@ -1261,7 +1261,7 @@ context the current battles about behavior labeled "piracy."
 </partintro>
 
 <!-- PAGE BREAK 34 -->
-<chapter id="creators">
+<chapter label="1" id="creators">
 <title>CHAPTER ONE: Creators</title>
 <para>
 In 1928, a cartoon character was born. An early Mickey Mouse
@@ -1715,7 +1715,7 @@ free culture. It is becoming much less so.
 
 <!-- PAGE BREAK 44 -->
 </chapter>
-<chapter id="mere-copyists">
+<chapter label="2" id="mere-copyists">
 <title>CHAPTER TWO: "Mere Copyists"</title>
 <indexterm id="idxphotography" class='startofrange'>
   <primary>photography</primary>
@@ -2584,7 +2584,7 @@ quipped to me in a rare moment of despondence.
 </para>
 <!-- PAGE BREAK 61 -->
 </chapter>
-<chapter id="catalogs">
+<chapter label="3" id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <para>
 In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
@@ -2799,7 +2799,7 @@ wrong message. And he wants to correct the record."
 </para>
 <!-- PAGE BREAK 66 -->
 </chapter>
-<chapter id="pirates">
+<chapter label="4" id="pirates">
 <title>CHAPTER FOUR: "Pirates"</title>
 <para>
 If "piracy" means using the creative property of others without
@@ -3313,7 +3313,7 @@ last. Every generation&mdash;until now.
 <!-- PAGE BREAK 75 -->
 </section>
 </chapter>
-<chapter id="piracy">
+<chapter label="5" id="piracy">
 <title>CHAPTER FIVE: "Piracy"</title>
 <para>
 There is piracy of copyrighted material. Lots of it. This piracy comes
@@ -4389,7 +4389,7 @@ from the implications that the copyright warriors would have us draw.
 </partintro>
 
 <!-- PAGE BREAK 96 -->
-<chapter id="founders">
+<chapter label="6" id="founders">
 <title>CHAPTER SIX: Founders</title>
 <para>
 William Shakespeare wrote <citetitle>Romeo and Juliet</citetitle> in 1595. The play
@@ -4890,7 +4890,7 @@ protected.
 </para>
 <!-- PAGE BREAK 106 -->
 </chapter>
-<chapter id="recorders">
+<chapter label="7" id="recorders">
 <title>CHAPTER SEVEN: Recorders</title>
 <para>
 Jon Else is a filmmaker. He is best known for his documentaries and
@@ -5087,7 +5087,7 @@ not.
 </para>
 <!-- PAGE BREAK 111 -->
 </chapter>
-<chapter id="transformers">
+<chapter label="8" id="transformers">
 <title>CHAPTER EIGHT: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
 <indexterm><primary>Alben, Alex</primary></indexterm>
@@ -5444,7 +5444,7 @@ curse, reserved for the few.
 </para>
 <!-- PAGE BREAK 119 -->
 </chapter>
-<chapter id="collectors">
+<chapter label="9" id="collectors">
 <title>CHAPTER NINE: Collectors</title>
 <para>
 In April 1996, millions of "bots"&mdash;computer codes designed to
@@ -5773,7 +5773,7 @@ that Kahle and others would exercise.
 </para>
 <!-- PAGE BREAK 127 -->
 </chapter>
-<chapter id="property-i">
+<chapter label="10" id="property-i">
 <title>CHAPTER TEN: "Property"</title>
 <para>
 Jack Valenti has been the president of the Motion Picture Association
@@ -8526,7 +8526,7 @@ lawyer.
 <title>PUZZLES</title>
 
 <!-- PAGE BREAK 186 -->
-<chapter id="chimera">
+<chapter label="11" id="chimera">
 <title>CHAPTER ELEVEN: Chimera</title>
 <indexterm id="idxchimera" class='startofrange'>
   <primary>chimeras</primary>
@@ -8806,7 +8806,7 @@ and will kill opportunities that could be extraordinarily valuable.
 
 <!-- PAGE BREAK 192 -->
 </chapter>
-<chapter id="harms">
+<chapter label="12" id="harms">
 <title>CHAPTER TWELVE: Harms</title>
 <para>
 To fight "piracy," to protect "property," the content industry has
@@ -10184,7 +10184,7 @@ success will require.
 </partintro>
 
 <!-- PAGE BREAK 220 -->
-<chapter id="eldred">
+<chapter label="13" id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
 <para>
 In 1995, a father was frustrated that his daughters didn't seem to
@@ -11840,7 +11840,7 @@ better lawyer would have made them see differently.
 </para>
 <!-- PAGE BREAK 254 -->
 </chapter>
-<chapter id="eldred-ii">
+<chapter label="14" id="eldred-ii">
 <title>CHAPTER FOURTEEN: Eldred II</title>
 <para>
 The day <citetitle>Eldred</citetitle> was decided, fate would have it that I was to travel to
@@ -12232,7 +12232,7 @@ controlled by this dead (and often unfindable) hand of the past.
 <!-- PAGE BREAK 264 -->
 </chapter>
 </part>
-<chapter id="c-conclusion">
+<chapter label="15" id="c-conclusion">
 <title>CONCLUSION</title>
 <para>
 There are more than 35 million people with the AIDS virus
@@ -12957,7 +12957,7 @@ potential is ever to be realized.
 
 </para>
 </chapter>
-<chapter id="c-afterword">
+<chapter label="16" id="c-afterword">
 <title>AFTERWORD</title>
 <para>
 
@@ -14454,7 +14454,7 @@ keep your lawyers away.
 </section>
 </section>
 </chapter>
-<chapter id="c-notes">
+<chapter label="17" id="c-notes">
 <title>NOTES</title>
 <para>
 Throughout this text, there are references to links on the World Wide
@@ -14471,7 +14471,7 @@ the material.
 <!-- PAGE BREAK 336 -->
 
 </chapter>
-<chapter id="c-acknowledgments">
+<chapter label="18" id="c-acknowledgments">
 <title>ACKNOWLEDGMENTS</title>
 <para>
 This book is the product of a long and as yet unsuccessful struggle that
