@@ -135,8 +135,8 @@ Appeals.
   <biblioid class="libraryofcongress">2003063276</biblioid>
 
 </bookinfo>
+<preface id="salespoints">
 
-<colophon>
 <!-- PAGE BREAK 1 -->
 
 <para>
@@ -148,8 +148,9 @@ You can buy a copy of this book by clicking on one of the links below:
 <listitem><para><ulink url="http://www.penguin.com/">Penguin</ulink></para></listitem>
 <!-- <ulink url="">Local Bookstore</ulink> -->
 </itemizedlist>
+</preface>
 <!-- PAGE BREAK 2 -->
-
+<preface id="alsobylessig">
 <!-- PAGE BREAK 3 -->
 <para>
 ALSO BY LAWRENCE LESSIG
@@ -160,11 +161,15 @@ The Future of Ideas: The Fate of the Commons in a Connected World
 <para>
 Code: And Other Laws of Cyberspace
 </para>
+</preface>
+<preface id="frontpublisher">
 
 <!-- PAGE BREAK 4 -->
 <para>
 THE PENGUIN PRESS, NEW YORK
 </para>
+</preface>
+<preface id="frontbookinfo">
 
 <!-- PAGE BREAK 5 -->
 <para>
@@ -180,8 +185,9 @@ AND CONTROL CREATIVITY
 <para>
 LAWRENCE LESSIG
 </para>
-
+</preface>
 <!-- PAGE BREAK 6 -->
+<colophon>
 <para>
 THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street New
 York, New York
