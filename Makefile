@@ -8,14 +8,15 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 # Valid book options are a4paper, a5paper, b5paper, letterpaper,
 # legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
 # titlepage, openany, draft, fleqn, leqno
+#  -P latex.class.options=a5paper
 DBLATEX = dblatex \
-	-P latex.class.options=a5paper \
 	-T db2latex \
 	--backend=xetex \
 	--param lingua=nb \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
 	-p data/pdf.xsl
+
 
 DBTOEPUB = dbtoepub
 
