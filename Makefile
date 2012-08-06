@@ -59,7 +59,10 @@ html: freeculture.html freeculture.nb.html
 	fop -c data/fop-params.xconf -fo myfile.fo -pdf $@
 
 %.html: %.xml $(IMAGES)
-	xmlto html-nochunks $<
+	xmlto \
+	  -x data/stylesheet-html.xsl \
+	  html-nochunks \
+	  $<
 
 %.txt: %.xml $(IMAGES)
 	xmlto txt $<
