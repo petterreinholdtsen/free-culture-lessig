@@ -22,9 +22,22 @@ DBTOEPUB = dbtoepub
 IMAGES = images/cc.png
 
 XSLTS = \
-  data/user_param.xsl \
-  data/xetex_param.xsl \
-  data/pdf.xsl
+  data/user_param.xsl
+
+DB_XSLT = \
+  data/xetex_param.xsl
+
+HTML_XSLT = \
+  $(XSLT) \
+  data/html.xsl \
+  data/stylesheet-html.xsl
+
+PDF_XSLT = \
+  $(XSLT) \
+  data/lulu.xsl \
+  data/pdf.xsl \
+  data/stylesheet-fo.xsl
+
 
 all: lint lint.nb html epub pdf
 
@@ -38,7 +51,7 @@ pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
-%.pdf: %.xml $(IMAGES) $(XSLTS)
+%.pdf: %.xml $(IMAGES) $(PDF_XSLTS)
 #	$(DBLATEX) $<
 
 # Alternative processing path to dblatex is to use xmlto using fop to
@@ -58,7 +71,7 @@ html: freeculture.html freeculture.nb.html
 	  $<
 	fop -c data/fop-params.xconf -fo myfile.fo -pdf $@
 
-%.html: %.xml $(IMAGES)
+%.html: %.xml $(IMAGES) $(HTML_XSLT)
 	xmlto \
 	  -x data/stylesheet-html.xsl \
 	  html-nochunks \
