@@ -4,7 +4,7 @@
 <!-- settings for LuLu PDF version -->
 
 <xsl:param name="doc.collab.show">0</xsl:param>
-<xsl:param name="paper.type">book6x9</xsl:param>
+<xsl:param name="paper.type">us-trade-6x9</xsl:param>
 <xsl:param name="page.width">6in</xsl:param>
 <xsl:param name="page.height">9in</xsl:param>
 <xsl:param name="page.margin.inner">1.0in</xsl:param>
