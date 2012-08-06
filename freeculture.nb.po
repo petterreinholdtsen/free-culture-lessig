@@ -4122,13 +4122,12 @@ msgstr ""
 
 #.  f18
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Noah Shachtman, \"With Incessant Postings, a Pundit Stirs the Pot,\" New "
 "York Times, 16 January 2003, G5."
 msgstr ""
-"Noah shachtman, \"med uopphørlig innlegg, en pundit stirs potten,\" new york "
-"times, 16 januar 2003, g5."
+"Noah Shachtman, \"With Incessant Postings, a Pundit Stirs the Pot,\" New "
+"York Times, 16. januar 2003, G5."
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Lott, Trent"
@@ -4871,15 +4870,14 @@ msgstr ""
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Occupational Employment Survey, U.S. Dept. of Labor (2001)  "
 "(27&ndash;2042&mdash;Musicians and Singers). See also National Endowment for "
 "the Arts, <citetitle>More Than One in a Blue Moon</citetitle> (2000)."
 msgstr ""
-"yrkesmessig sysselsetting undersøkelse, US dept. of labor (2001) (27­"
-"2042&mdash;musikere og vokalister). Se også nasjonale legat for arts, mer "
-"enn en i en blå månen (2000)."
+"Occupational Employment Survey, U.S. Dept. of Labor (2001)  "
+"(27&ndash;2042&mdash;Musikere og Sangere). Se også National Endowment for "
+"the Arts, <citetitle>More Than One in a Blue Moon</citetitle> (2000)."
 
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4965,21 +4963,21 @@ msgstr ""
 "denne generasjon country club&mdash;før nå."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, mtrans, fuzzy
 msgid "Film"
-msgstr "filmen"
+msgstr "Film"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "I am grateful to Peter DiMauro for pointing me to this extraordinary "
 "history. See also Siva Vaidhyanathan, <citetitle>Copyrights and Copywrongs</"
 "citetitle>, 87&ndash;93, which details Edison's \"adventures\" with "
 "copyright and patent.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Jeg er takknemlig til peter dimauro for å sette meg til dette ekstraordinære "
-"historie. Se også siva vaidhyanathan, opphavsrett og copywrongs, 87­93, som "
-"inneholder informasjon om edison's \"opplevelser\" med opphavsrett og patent."
+"Jeg er takknemlig til Peter DiMauro for å ha pekt meg i retning av "
+"denne ekstraordinære historien.  Se også Siva Vaidhyanathan, "
+"<citetitle>Copyrights and Copywrongs</" "citetitle>, 87&ndash;93, som "
+"forteller detaljer om Edisons \"eventyr\" med opphavsrett og patent. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  PAGE BREAK 67
 #. type: Content of: <book><part><chapter><section><para>
