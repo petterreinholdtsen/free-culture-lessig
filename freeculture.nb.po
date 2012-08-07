@@ -4042,7 +4042,7 @@ msgid ""
 "Bruce Ackerman and James Fishkin, \"Deliberation Day,\" <citetitle>Journal "
 "of Political Philosophy</citetitle> 10 (2) (2002): 129."
 msgstr ""
-"Bruce Ackerman and James Fishkin, \"Deliberation Day,\" <citetitle>Journal "
+"Bruce Ackerman og James Fishkin, \"Deliberation Day,\" <citetitle>Journal "
 "of Political Philosophy</citetitle> 10 (2) (2002): 129."
 
 #. type: Content of: <book><part><chapter><para>
