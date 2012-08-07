@@ -4298,7 +4298,7 @@ msgstr ""
 "internettet for å gjenfortelle hva de hadde sett.<placeholder "
 "type=\"footnote\" id=\"0\"/> Og det får lesere til å lese på tvers av "
 "en rekke fortellinger og \"triangulere\", som Winer formulerer det, "
-"sannheten.  Blogger, sier Winer, "kommunserer direkte med vår "
+"sannheten.  Blogger, sier Winer, \"kommunserer direkte med vår "
 "velgermasse, og mellommannen er fjernet\"&mdash; med alle de fordeler "
 "og ulemper det kan føre med seg."
 
