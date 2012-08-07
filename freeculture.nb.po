@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-07 16:40+0300\n"
+"POT-Creation-Date: 2012-08-07 17:53+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -13122,7 +13122,6 @@ msgstr ""
 msgid "<graphic fileref=\"images/1641.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1641.png\"></graphic>"
 
-#.  PAGE BREAK 164
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13227,16 +13226,15 @@ msgstr ""
 "cuddles, og følger deg. det spiser bare elektrisitet og som ikke la så mye "
 "av et rot (i det minste i huset)."
 
-#.  PAGE BREAK 165
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
 "The Aibo is expensive and popular. Fans from around the world have set up "
 "clubs to trade stories. One fan in particular set up a Web site to enable "
-"information about the Aibo dog to be shared. This fan set up aibopet.com "
-"(and aibohack.com, but that resolves to the same site), and on that site he "
-"provided information about how to teach an Aibo to do tricks in addition to "
-"the ones Sony had taught it."
+"information about the Aibo dog to be shared. This fan set <beginpage pagenum="
+"\"165\"/> up aibopet.com (and aibohack.com, but that resolves to the same "
+"site), and on that site he provided information about how to teach an Aibo "
+"to do tricks in addition to the ones Sony had taught it."
 msgstr ""
 "aibo er dyrt og populære. fans fra hele verden har satt opp klubber til "
 "handel historier. en vifte spesielt satt opp et webområde slik at "
