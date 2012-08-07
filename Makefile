@@ -68,10 +68,10 @@ html: freeculture.html freeculture.nb.html
 # This include images, but the index refs and footnote handling is
 # broken.
 	xsltproc  \
-	  --output myfile.fo	\
+	  --output $(subst .pdf,.fo,$@) \
 	  data/stylesheet-fo.xsl \
 	  $<
-	fop -c data/fop-params.xconf -fo myfile.fo -pdf $@
+	fop -c data/fop-params.xconf -fo $(subst .pdf,.fo,$@) -pdf $@
 
 %.html: %.xml $(IMAGES) $(HTML_XSLT)
 	xmlto \
