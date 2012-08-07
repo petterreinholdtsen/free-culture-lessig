@@ -4195,7 +4195,6 @@ msgstr "Winer, Dave"
 
 #.  PAGE BREAK 57
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There's a second way, as well, in which blogs have a different cycle from "
 "the mainstream press. As Dave Winer, one of the fathers of this movement and "
@@ -4206,13 +4205,14 @@ msgid ""
 "interest is so easily disclosed that you know you can sort of get it out of "
 "the way.\""
 msgstr ""
-"Det er en annen måte, så vel i hvilke blogger har en annen syklus fra "
-"ordinære trykk. som dave vin fortalte en av fedre av denne bevegelsen og "
-"forfatter av en programvare i mange tiår, meg, en annen forskjell er "
-"fraværet av en økonomisk \"interessekonflikt.\" Jeg tror du har til å ta "
-"konflikt av interesse\"ut av journalistikk, fortalte vin meg. \"en amatør "
-"journalist simpelthen har ikke en konflikt av interesse, eller konflikt av "
-"interesse er så lett avslørt at du vet du kan liksom få det ut av veien.\""
+"Det er også en annen måte, hvor blogger har en annen syklus enn de "
+"store mediene.  Som Dave Winer, en av fedrene til denne bevegelsen og "
+"en programvareutvikler i mange tiår fortalte meg, er en annen "
+"forskjell fraværet av finansiell \"interessekonflikt\".  \"Jeg tror du "
+"må ta interessekonflikten\" ut av journalismen, fortalte Winer meg. "
+"\"En amatørjournalist har ganske enkelt ikke interessekonflikt, eller "
+"interessekonflikten er så enkelt å avsløre at du liksom vet du kan "
+"rydde den av veien.\""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "CNN"
