@@ -138,3 +138,6 @@
 2012-08-06T2014 806 oversatte meldinger, 784 antatte oversettelser, 245 uoversatte meldinger.
 2012-08-06T2025 809 oversatte meldinger, 784 antatte oversettelser, 245 uoversatte meldinger.
 2012-08-06T2156 816 oversatte meldinger, 784 antatte oversettelser, 246 uoversatte meldinger.
+2012-08-07T1114 817 oversatte meldinger, 783 antatte oversettelser, 246 uoversatte meldinger.
+2012-08-07T1124 821 oversatte meldinger, 783 antatte oversettelser, 246 uoversatte meldinger.
+2012-08-07T1139 823 oversatte meldinger, 783 antatte oversettelser, 247 uoversatte meldinger.
