@@ -88,8 +88,11 @@ html: freeculture.html freeculture.nb.html
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
 
+# <beginpage> workaround can be removed when BTS #684137 is fixed in
+# po4a.
 freeculture.pot: freeculture.xml
-	po4a-gettextize -f docbook -m $^  > $@.new && mv $@.new $@
+	po4a-gettextize -o nodefault='<beginpage>' -o inline='<beginpage>' \
+	  -f docbook -m $^  > $@.new && mv $@.new $@
 
 stats: update-stats progress.png
 update-stats: freeculture.nb.po
