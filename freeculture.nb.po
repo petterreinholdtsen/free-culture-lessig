@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-06 21:49+0300\n"
+"POT-Creation-Date: 2012-08-07 11:21+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3964,17 +3964,16 @@ msgid ""
 "criticizing with or adding to them.  They are arguably the most important "
 "form of unchoreographed public discourse that we have."
 msgstr ""
-"Men i USA har blogger inntatt en svært annerledes karakter.  Det er "
-"noen som bruker denne plassen til å snakke om sitt private liv.  Men "
-"det er mange som bruker denne plassen til å delta i offentlig debatt. "
-"Diskuterer saker med offentlig interesse, kritiserer andre som har "
-"feil synspunkt, kritisere politigere for avgjørelser de tar, tilbyr "
-"løsninger på problemer vi alle ser.  Blogger skaper en følelse av et "
-"virtuelt offentlig møte, men et hvor vi ikke alle håper å være "
-"tilstede på samme tid og hvor konversasjonene ikke nødvendigvis er "
-"koblet sammen.  De beste av bloggoppføringene er relativt korte.  De "
-"peker direkte til ord bruk av andre, kritiserer dem eller bidrar til "
-"dem.  Det kan argumenteres for at de er den viktigste form for "
+"Men i USA har blogger inntatt en svært annerledes karakter.  Det er noen som "
+"bruker denne plassen til å snakke om sitt private liv.  Men det er mange som "
+"bruker denne plassen til å delta i offentlig debatt. Diskuterer saker med "
+"offentlig interesse, kritiserer andre som har feil synspunkt, kritisere "
+"politigere for avgjørelser de tar, tilbyr løsninger på problemer vi alle "
+"ser.  Blogger skaper en følelse av et virtuelt offentlig møte, men et hvor "
+"vi ikke alle håper å være tilstede på samme tid og hvor konversasjonene ikke "
+"nødvendigvis er koblet sammen.  De beste av bloggoppføringene er relativt "
+"korte.  De peker direkte til ord bruk av andre, kritiserer dem eller bidrar "
+"til dem.  Det kan argumenteres for at de er den viktigste form for "
 "ukoreografert offentlig debatt som vi har."
 
 #.  PAGE BREAK 55
@@ -5129,6 +5128,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Fourneaux, Henri"
 msgstr "Fourneaux, Henri"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Russel, Phil"
+msgstr "Russel, Phil"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -8138,14 +8141,17 @@ msgstr ""
 "kampen var den skotske bokselgeren Alexander Donaldson.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
-#.  f8
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Rose, Mark"
+msgstr "Rose, Mark"
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "Mark Rose, <citetitle>Authors and Owners</citetitle> (Cambridge: Harvard "
-"University Press, 1993), 92."
+"University Press, 1993), 92.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Mark Rose, <citetitle>Authors and Owners</citetitle> (Cambridge: Harvard "
-"University Press, 1993), 92."
+"University Press, 1993), 92.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  f9
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -12072,7 +12078,10 @@ msgid ""
 "fundamentally different from the wrong of direct piracy."
 msgstr ""
 
-#.  f15
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Rubenfeld, Jeb"
+msgstr "Rubenfeld, Jeb"
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12081,7 +12090,7 @@ msgid ""
 "First Amendment) between mere \"copies\" and derivative works. See Jed "
 "Rubenfeld, \"The Freedom of Imagination: Copyright's Constitutionality,\" "
 "<citetitle>Yale Law Journal</citetitle> 112 (2002): 1&ndash;60 (see "
-"especially pp. 53&ndash;59)."
+"especially pp. 53&ndash;59).  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "professor rubenfeld har presentert en kraftig konstitusjonelle argument om "
 "forskjellen som lov om opphavsrett bør trekke (fra perspektivet til den "
@@ -13594,6 +13603,10 @@ msgstr ""
 "selv krenker andres opphavsrett, hans akademiske papir var aktivere andre "
 "til å krenke andres opphavsrett."
 
+#. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
+msgid "Rogers, Fred"
+msgstr "Rogers, Fred""
+
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Conrad, Paul"
 msgstr "Conrad, Paul"
@@ -13618,7 +13631,6 @@ msgstr ""
 "juridiske: fred rogers, aka \"mr. rogers,\" for eksempel hadde vitnet i så "
 "fall at han ønsket å fremkalle gratis å tape mr. rogers' neighborhood."
 
-#.  f23
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13626,7 +13638,8 @@ msgid ""
 "City Studios, Inc</citetitle>., 464 U.S. 417, 455 fn. 27 (1984). Rogers "
 "never changed his view about the VCR. See James Lardner, <citetitle>Fast "
 "Forward: Hollywood, the Japanese, and the Onslaught of the VCR</citetitle> "
-"(New York: W. W. Norton, 1987), 270&ndash;71."
+"(New York: W. W. Norton, 1987), 270&ndash;71.  <placeholder type=\"indexterm"
+"\" id=\"0\"/>"
 msgstr ""
 "Sony corporation of america v. universal city studios, inc., 464 amerikanske "
 "417, 455 fn. 27 (1984). Rogers endret aldri sitt syn om videoopptakeren. se "
