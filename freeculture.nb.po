@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-07 11:21+0300\n"
+"POT-Creation-Date: 2012-08-07 11:37+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -410,7 +410,7 @@ msgstr ""
 "igjen. Slå av modemet, koble fra datamaskinen, og eventuelle problemer som "
 "finnes <emphasis>den</emphasis> virkeligheten ville ikke \"påvirke\" oss mer."
 
-#.  PAGE BREAK 12
+#. PAGE BREAK 12
 #. type: Content of: <book><preface><para>
 msgid ""
 "Pogue might have been right in 1999&mdash;I'm skeptical, but maybe.  But "
@@ -583,7 +583,7 @@ msgstr ""
 "som Stallman beskrev for tiår siden.  Man kan dermed godt argumentere for at "
 "dette verket kun er et avledet verk."
 
-#.  PAGE BREAK 14
+#. PAGE BREAK 14
 #. type: Content of: <book><preface><para>
 msgid ""
 "I accept that criticism, if indeed it is a criticism. The work of a lawyer "
@@ -795,7 +795,7 @@ msgstr ""
 msgid "\"Common sense revolts at the idea.\""
 msgstr "\"Idéen er i strid med sunn fornuft.\""
 
-#.  PAGE BREAK 18
+#. PAGE BREAK 18
 #. type: Content of: <book><chapter><para>
 msgid ""
 "This is how the law usually works. Not often this abruptly or impatiently, "
@@ -956,7 +956,7 @@ msgstr ""
 "noen gang før hadde vært hørt fra en radio-\"musikk-boks\".<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
-#.  PAGE BREAK 20
+#. PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
 msgid ""
 "As our own common sense tells us, Armstrong had discovered a vastly superior "
@@ -1131,7 +1131,7 @@ msgstr ""
 "skrev Armstrong i 1954 en kort beskjed til sin kone, før han gikk ut av et "
 "vindu i trettende etasje og falt i døden."
 
-#.  PAGE BREAK 22
+#. PAGE BREAK 22
 #. type: Content of: <book><chapter><para>
 msgid ""
 "This is how the law sometimes works. Not often this tragically, and rarely "
@@ -1619,7 +1619,7 @@ msgstr ""
 "loven skulle ta affære for å stoppe denne inntrengingen i annen manns "
 "eiendom."
 
-#.  PAGE BREAK 27
+#. PAGE BREAK 27
 #. type: Content of: <book><chapter><para>
 msgid ""
 "And thus, when geeks and technologists defend their Armstrong or Wright "
@@ -11074,6 +11074,10 @@ msgstr ""
 "måten å drive virksomhet, eller som john seely brown beskriver den, dens "
 "\"arkitektur av inntekter.\""
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "railroad industry"
+msgstr "jernbaneindustri"
+
 #.  f5
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -19563,6 +19567,10 @@ msgstr "Morrison, Alan"
 msgid "Public Citizen"
 msgstr ""
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Reagan, Ronald"
+msgstr "Reagan, Ronald"
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -19576,7 +19584,8 @@ msgid ""
 "many cases in the Court, and who had advised us early on about a First "
 "Amendment strategy; and finally, former solicitor general Charles Fried.  "
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
+"\"indexterm\" id=\"3\"/>"
 msgstr ""
 "samme innsats på balanse ble reflektert i det juridiske teamet vi samles for "
 "å skrive våre truser i tilfelle. jones dag advokater hadde blitt med oss fra "
@@ -23653,6 +23662,10 @@ msgstr ""
 msgid "Public Enemy"
 msgstr "Public Enemy"
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "rap music"
+msgstr ""
+
 #.  f2.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
@@ -25574,7 +25587,7 @@ msgstr ""
 "forskning og til Laura Lynch, som briljant håndterte hæren de samlet, samt "
 "bidro med sitt egen kritisk blikk på mye av dette."
 
-#.  PAGE BREAK 337
+#. PAGE BREAK 337
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Yuko Noguchi helped me to understand the laws of Japan as well as its "
