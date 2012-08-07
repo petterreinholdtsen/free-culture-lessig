@@ -7465,8 +7465,15 @@ often crazy.
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.
 </para>
-<indexterm id="idxaibo" class='startofrange'>
+<indexterm id="idxaibo1" class='startofrange'>
   <primary>Aibo robotic dog</primary>
+</indexterm>
+<indexterm id="idxroboticdog1" class='startofrange'>
+  <primary>robotic dog</primary>
+</indexterm>
+<indexterm id="idxsonyaibo1" class='startofrange'>
+  <primary>Sony</primary>
+  <secondary>Aibo robotic dog produced by</secondary>
 </indexterm>
 <para>
 Consider the robotic dog made by Sony named "Aibo." The Aibo
@@ -7491,16 +7498,18 @@ was giving information to users of the Aibo pet about how to hack
 their computer "dog" to make it do new tricks (thus, aibohack.com).
 </para>
 <para>
-If you're not a programmer or don't know many programmers, the
-word <citetitle>hack</citetitle> has a particularly unfriendly connotation. Nonprogrammers
-hack bushes or weeds. Nonprogrammers in horror movies do even
-worse. But to programmers, or coders, as I call them, <citetitle>hack</citetitle> is a much
-more positive term. <citetitle>Hack</citetitle> just means code that enables the program to
-do something it wasn't originally intended or enabled to do. If you buy
-a new printer for an old computer, you might find the old computer
-doesn't run, or "drive," the printer. If you discovered that, you'd later be
-happy to discover a hack on the Net by someone who has written a
-driver to enable the computer to drive the printer you just bought.
+If you're not a programmer or don't know many programmers, the word
+<citetitle>hack</citetitle> has a particularly unfriendly
+connotation. Nonprogrammers hack bushes or weeds. Nonprogrammers in
+horror movies do even worse. But to programmers, or coders, as I call
+them, <citetitle>hack</citetitle> is a much more positive
+term. <citetitle>Hack</citetitle> just means code that enables the
+program to do something it wasn't originally intended or enabled to
+do. If you buy a new printer for an old computer, you might find the
+old computer doesn't run, or "drive," the printer. If you discovered
+that, you'd later be happy to discover a hack on the Net by someone
+who has written a driver to enable the computer to drive the printer
+you just bought.
 </para>
 <para>
 Some hacks are easy. Some are unbelievably hard. Hackers as a
@@ -7516,7 +7525,9 @@ dance jazz. The dog wasn't programmed to dance jazz. It was a clever
 bit of tinkering that turned the dog into a more talented creature
 than Sony had built.
 </para>
-<indexterm startref="idxaibo" class='endofrange'/>
+<indexterm startref="idxsonyaibo1" class='endofrange'/>
+<indexterm startref="idxroboticdog1" class='endofrange'/>
+<indexterm startref="idxaibo1" class='endofrange'/>
 <para>
 I've told this story in many contexts, both inside and outside the
 United States. Once I was asked by a puzzled member of the audience,
@@ -7603,6 +7614,16 @@ academic essay, unintelligible to most people. But it clearly showed the
 weakness in the SDMI system, and why SDMI would not, as presently
 constituted, succeed.
 </para>
+<indexterm id="idxaibo2" class='startofrange'>
+  <primary>Aibo robotic dog</primary>
+</indexterm>
+<indexterm id="idxroboticdog2" class='startofrange'>
+  <primary>robotic dog</primary>
+</indexterm>
+<indexterm id="idxsonyaibo2" class='startofrange'>
+  <primary>Sony</primary>
+  <secondary>Aibo robotic dog produced by</secondary>
+</indexterm>
 <para>
 What links these two, aibopet.com and Felten, is the letters they
 then received. Aibopet.com received a letter from Sony about the
@@ -7616,6 +7637,9 @@ AIBO-ware's copy protection protocol constituting a violation of the
 anti-circumvention provisions of the Digital Millennium Copyright Act.
 </para>
 </blockquote>
+<indexterm startref="idxsonyaibo2" class='endofrange'/>
+<indexterm startref="idxroboticdog2" class='endofrange'/>
+<indexterm startref="idxaibo2" class='endofrange'/>
 <para>
 And though an academic paper describing the weakness in a system
 of encryption should also be perfectly legal, Felten received a letter
@@ -7662,6 +7686,12 @@ measures. It was designed to ban those devices, whether or not the use
 of the copyrighted material made possible by that circumvention would
 have been a copyright violation.
 </para>
+<indexterm><primary>Aibo robotic dog</primary></indexterm>
+<indexterm><primary>robotic dog</primary></indexterm>
+<indexterm>
+  <primary>Sony</primary>
+  <secondary>Aibo robotic dog produced by</secondary>
+</indexterm>
 <para>
 Aibopet.com and Felten make the point. The Aibo hack circumvented a
 copyright protection system for the purpose of enabling the dog to
@@ -7762,6 +7792,12 @@ technologies absolutely, despite the potential that they might do some
 good, but permits guns, despite the obvious and tragic harm they do.
 <indexterm><primary>Conrad, Paul</primary></indexterm>
 </para>
+<indexterm><primary>Aibo robotic dog</primary></indexterm>
+<indexterm><primary>robotic dog</primary></indexterm>
+<indexterm>
+  <primary>Sony</primary>
+  <secondary>Aibo robotic dog produced by</secondary>
+</indexterm>
 <para>
 The Aibo and RIAA examples demonstrate how copyright owners are
 changing the balance that copyright law grants. Using code, copyright
