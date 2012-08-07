@@ -13,5 +13,6 @@
 <xsl:param name="body.font.family">Times</xsl:param>
 <xsl:param name="title.font.family">Times</xsl:param>
 <xsl:param name="dingbat.font.family">Times</xsl:param>
+<xsl:param name="double.sided">1</xsl:param>
 
 </xsl:stylesheet>
