@@ -36,6 +36,7 @@ HTML_XSLT = \
 PDF_XSLT = \
   $(XSLT) \
   data/lulu.xsl \
+  data/licentia.xsl \
   data/pdf.xsl \
   data/stylesheet-fo.xsl
 
