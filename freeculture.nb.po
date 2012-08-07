@@ -13605,7 +13605,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Rogers, Fred"
-msgstr "Rogers, Fred""
+msgstr "Rogers, Fred"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Conrad, Paul"
