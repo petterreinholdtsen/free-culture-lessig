@@ -19,6 +19,7 @@
 <!-- ~~~~~~~~~~~~~~~~ -->
 <!-- Paragraph layout -->
 <!-- ~~~~~~~~~~~~~~~~ -->
+<!-- did not work, hides footnote numbers in front of footnote text.
 <xsl:template match="para[1]">
   <fo:block xsl:use-attribute-sets="normal.para.spacing">
     <xsl:call-template name="anchor"/>
@@ -36,5 +37,5 @@
     <xsl:apply-templates/>
   </fo:block>
 </xsl:template>
-
+-->
 </xsl:stylesheet>
