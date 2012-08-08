@@ -4728,21 +4728,20 @@ msgstr ""
 "maskinen holde filen var fortsatt on-line."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Jesse's engine went on-line in late October. Over the following six months, "
 "he continued to tweak it to improve its functionality. By March, the system "
 "was functioning quite well. Jesse had more than one million files in his "
 "directory, including every type of content that might be on users' computers."
 msgstr ""
-"jesse's motor gikk on-line i slutten av oktober. de følgende seks måneder "
-"fortsatte han å tweak det for å forbedre funksjonaliteten. av mars, var "
-"systemet fungerer ganske bra. Jesse hatt mer enn én million filer i hans "
-"mappen, inkludert alle typer innhold som kan være på brukernes datamaskiner."
+"Motoren til Jesse kom pa nett i slutten av oktober.  I løpet av de "
+"følgende seks månedene fortsatte han å justere den for å forbedre dens "
+"funksjonalitet.  I mars fungerte systemet ganske bra.  Jesse hadde mer "
+"enn en million filer i sin katalog, inkludert alle mulige typer "
+"innhold som fantes på brukernes datamaskiner."
 
 #.  PAGE BREAK 63
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Thus the index his search engine produced included pictures, which students "
 "could use to put on their own Web sites; copies of notes or research; copies "
@@ -4750,11 +4749,12 @@ msgid ""
 "university brochures&mdash;basically anything that users of the RPI network "
 "made available in a public folder of their computer."
 msgstr ""
-"dermed the index sin søkemotor produsert inkludert bilder, som elevene kan "
-"bruke til å sette på sine egne webområder; Kopier av notater eller "
-"forskning; Kopier av informasjon hefter; filmklipp studenter har opprettet; "
-"Universitetet brosjyrer&mdash;i utgangspunktet alt som brukere av rpi-"
-"nettverket gjøres tilgjengelig i en fellesmappe på datamaskinen."
+"Dermed inneholdt indeksen som hans søkemotor produserte bilder, som "
+"studentene kunne bruke til å legge inn på sine egne nettsider, kopier "
+"av notater og forskning, kopier av informasjonshefter, filmklipp som "
+"studentene kanskje hadde laget, universitetsbrosjyrer&mdash;ganske "
+"enkelt alt som brukerne av RPI-nettverket hadde gjort tilgjengelig i "
+"en fellesmappe på sine datamaskiner."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
