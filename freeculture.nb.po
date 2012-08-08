@@ -4060,7 +4060,7 @@ msgstr ""
 "type=\"footnote\" id=\"0\"/> Og i noen landsbyer i New England er det "
 "noe i nærheten av diskusjon igjen.  Men for de fleste av oss "
 "mesteparten av tiden, er det ingen tid og sted for å gjennomføre "
-"\"demokratisk diskusjon"."
+"\"demokratisk diskusjon\"."
 
 #.  f17
 #. type: Content of: <book><part><chapter><para><footnote><para>
