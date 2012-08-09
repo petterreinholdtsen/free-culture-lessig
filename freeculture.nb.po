@@ -24,7 +24,7 @@ msgstr "©"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
-msgstr "nb"
+msgstr "no"
 
 #. type: Content of: <book><bookinfo><title>
 msgid "Free Culture"
@@ -1784,7 +1784,7 @@ msgstr ""
 
 #. type: Content of: <book><part><title>
 msgid "\"PIRACY\""
-msgstr "\"Piratvirksomhet\""
+msgstr "<quote>Piratvirksomhet</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mansfield, William Murray, Lord"
@@ -2966,7 +2966,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER TWO: \"Mere Copyists\""
-msgstr "Kapittel to: \"Kun etter-apere\""
+msgstr "Kapittel to: <quote>Kun etter-apere</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "photography"
@@ -5019,7 +5019,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER FOUR: \"Pirates\""
-msgstr "Kapittel fire: \"Pirater\""
+msgstr "Kapittel fire: <quote>Pirater</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -5901,7 +5901,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER FIVE: \"Piracy\""
-msgstr "Kapittel fem: \"Piratvirksomhet\""
+msgstr "Kapittel fem: <quote>Piratvirksomhet</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -7554,7 +7554,7 @@ msgstr ""
 
 #. type: Content of: <book><part><title>
 msgid "\"PROPERTY\""
-msgstr "\"Eiendom\""
+msgstr "<quote>Eiendom</quote>"
 
 #.  PAGE BREAK 94
 #. type: Content of: <book><part><partintro><para>
@@ -10250,7 +10250,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER TEN: \"Property\""
-msgstr "Kapittel ti: \"Eiendom\""
+msgstr "Kapittel ti: <quote>Eiendom</quote>"
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Johnson, Lyndon"
@@ -13003,7 +13003,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "E-book of Aristotle;s &quot;Politics&quot;"
-msgstr "E-bok av Aristoteles &quot;Politikk&quot;"
+msgstr "E-bok av Aristoteles <quote>Politikk</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1621.png\"></graphic>"
