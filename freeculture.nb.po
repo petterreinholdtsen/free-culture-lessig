@@ -5266,14 +5266,14 @@ msgid "Kittredge, Alfred"
 msgstr "Kittredge, Alfred"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The composers (and publishers) were none too happy about this capacity to "
 "pirate. As South Dakota senator Alfred Kittredge put it, <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
-"komponister (og utgivere) var ingen så glade om denne kapasiteten til pirat. "
-"som i Sør-dakota senator alfred sa kittredge,"
+"Komponistene (og utgiverne) var ikke veldig glade for denne "
+"kapasiteten til å røve.  Som Senator Alfred Kittredge fra Sør-Dakota "
+"formulerte det,<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 #, mtrans, fuzzy
@@ -5300,16 +5300,22 @@ msgid ""
 "without any regard for [their] rights.<placeholder type=\"footnote\" id="
 "\"0\"/>"
 msgstr ""
+"Forestill dere denne urettferdigheten.  En komponist skriver en sang "
+"eller en opera.  En utgiver kjøper til et høy sum rettighetene til denne, "
+"og registrerer opphavsretten til den.  Så kommer de fonografiske "
+"selskapene og selskapene som skjærer musikk-ruller og med vitende og "
+"vilje stjeler arbeidet som kommer fra hjernet til komponisten og "
+"utgiveren uten å bry seg om [deres] rettigheter.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #.  f5
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright, 223 (statement of "
 "Nathan Burkan, attorney for the Music Publishers Association)."
 msgstr ""
-"endre og konsolidere handlinger som respekterer opphavsrett, 223 (setning av "
-"nathan burkan, advokat for musikk publishers association)."
+"To Amend and Consolidate the Acts Respecting Copyright, 223 (uttalelse fra "
+"Nathan Burkan, advokat for the Music Publishers Association)."
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
