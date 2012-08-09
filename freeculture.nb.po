@@ -5090,7 +5090,7 @@ msgstr ""
 "kartellet og fortsatte sin forretningsvirksomhet uten å bøye seg for "
 "Edisons monopol.  Sommeren 1909 var bevegelsen av de uavhenginge i "
 "full sving, med prudsenter og kinoeiere som brukte ulovlig utstyr og "
-"importerte filmer for å lage sitt eget undergrunnsmarked."
+"importerte filmlager for å opprette sitt eget undergrunnsmarked."
 
 #.  f2
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
