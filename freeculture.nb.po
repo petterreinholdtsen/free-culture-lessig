@@ -5071,9 +5071,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "As one commentator tells one part of the story,"
-msgstr "som en kommentator forteller en del av historien,"
+msgstr "Som en kommentaror forteller en del av historien,"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 #, mtrans, fuzzy
@@ -5085,12 +5084,13 @@ msgid ""
 "in full-swing, with producers and theater owners using illegal equipment and "
 "imported film stock to create their own underground market."
 msgstr ""
-"en tidsfrist for januar 1909 ble angitt for alle selskaper i samsvar med "
-"lisens. februar, ulisensiert outlaws, som henviste til seg selv som "
-"independents protesterte tillit og videreførte virksomhet uten å sende til "
-"edison-monopol. i løpet av 1909 sommeren var uavhengige bevegelsen i full-"
-"swing, med produsenter og teater eiere bruker ulovlig utstyr og importerte "
-"film lager til å lage sine egne underjordisk marked."
+"En tidsfrist ble satt til januar 1909 for alle selskaper å komme i "
+"samsvar med lisensen.  Når februar opprand, protesterte de "
+"ulisensierte fredløse, som refererte til seg selv som uavhengige, mot "
+"kartellet og fortsatte sin forretningsvirksomhet uten å bøye seg for "
+"Edisons monopol.  Sommeren 1909 var bevegelsen av de uavhenginge i "
+"full sving, med prudsenter og kinoeiere som brukte ulovlig utstyr og "
+"importerte filmer for å lage sitt eget undergrunnsmarked."
 
 #.  f2
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
@@ -5531,9 +5531,8 @@ msgid "Radio"
 msgstr "Radio"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "Radio was also born of piracy."
-msgstr "Radio ble også født av piratkopiering."
+msgstr "Radio kom også fra piratvirksomhet."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Hand, Learned"
@@ -5672,9 +5671,8 @@ msgid "Cable TV"
 msgstr "Kabel-TV"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "Cable TV was also born of a kind of piracy."
-msgstr "kabel-tv ble også født av en form for piratkopiering."
+msgstr "Kabel-TV kom også fra en form for piratvirksomhet."
 
 #.  PAGE BREAK 73
 #. type: Content of: <book><part><chapter><section><para>
@@ -5825,14 +5823,14 @@ msgid "Zimmerman, Edwin"
 msgstr "Zimmerman, Edwin"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 216 (statement of Edwin M.  Zimmerman, "
 "acting assistant attorney general).  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Copyright lov revision&mdash;catv, 216 (setning av edwin m. Zimmerman "
-"fungerende assistent justisministeren)."
+"Copyright Law Revision&mdash;CATV, 216 (uttalelse fra Edwin M. Zimmerman, "
+"fungerende assisterende justisministeren).  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
