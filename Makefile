@@ -73,6 +73,19 @@ html: freeculture.html freeculture.nb.html
 	  $<
 	fop -c data/fop-params.xconf -fo $(subst .pdf,.fo,$@) -pdf $@
 
+pdf-compare: freeculture.xml $(IMAGES)
+	dblatex -o freeculture-dblatex.pdf freeculture.xml
+	dblatex -T db2latex \-o freeculture-dblatex-db2latex.pdf freeculture.xml
+
+	# plain xmlto fail
+	#xmlto pdf freeculture.xml && mv freeculture.pdf freeculture-xmlto.pdf
+	xmlto --with-fop pdf freeculture.xml && mv freeculture.pdf freeculture-xmlto-fop.pdf
+
+	xsltproc --output freeculture-docbook-xsl.fo \
+	  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
+	  freeculture.xml
+	fop -fo freeculture-docbook-xsl.fo -pdf freeculture-docbook-xsl.pdf
+
 %.html: %.xml $(IMAGES) $(HTML_XSLT)
 	xmlto \
 	  -x data/stylesheet-html.xsl \
