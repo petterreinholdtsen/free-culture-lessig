@@ -5319,23 +5319,21 @@ msgstr ""
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright, 226 (statement of "
 "Nathan Burkan, attorney for the Music Publishers Association)."
 msgstr ""
-"endre og konsolidere handlinger som respekterer opphavsrett, 226 (setning av "
-"nathan burkan, advokat for musikk publishers association)."
+"To Amend and Consolidate the Acts Respecting Copyright, 226 (uttalelse fra "
+"Nathan Burkan, advokat for the Music Publishers Association)."
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright, 23 (statement of "
 "John Philip Sousa, composer)."
 msgstr ""
-"endre og konsolidere handlinger som respekterer opphavsrett, 23 (setning av "
-"john philip sousa, komponist)."
+"To Amend and Consolidate the Acts Respecting Copyright, 23 (uttalelse fra "
+"John Philip Sousa, komponist)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -5350,15 +5348,14 @@ msgstr ""
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright, 283&ndash;84 "
 "(statement of Albert Walker, representative of the Auto-Music Perforating "
 "Company of New York)."
 msgstr ""
-"endre og konsolidere handlinger som respekterer opphavsrett, 283­84 (setning "
-"av albert walker, er representative for auto-musikk perforating selskapet i "
-"new york)."
+"To Amend and Consolidate the Acts Respecting Copyright, 283&ndash;84 "
+"(uttalelse fra Albert Walker, representant for the Auto-Music Perforating "
+"Company of New York)."
 
 #.  f9
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
