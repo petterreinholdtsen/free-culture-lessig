@@ -4910,7 +4910,7 @@ msgstr ""
 "resten av hans liv.  Han nektet.  De fikk han til å forstå at denne "
 "prosessen med å bli saksøkt ikke kom til å bli hyggelig.  (Som faren "
 "til Jesse refererte til meg, fortalte sjefsadvokaten på saken, Matt "
-"Oppenheimer, "Du ønsker ikke et tannlegebesøk hso meg flere ganger\") "
+"Oppenheimer, \"Du ønsker ikke et tannlegebesøk hos meg flere ganger\") "
 "Og gjennom det hele insisterte RIAA at de ikke ville inngå forlik før "
 "de hadde tatt hver eneste øre som Jesse hadde spart opp."
 
