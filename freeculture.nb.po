@@ -7580,7 +7580,6 @@ msgstr ""
 "kan få."
 
 #. type: Content of: <book><part><partintro><para>
-#, mtrans, fuzzy
 msgid ""
 "But in ordinary language, to call a copyright a \"property\" right is a bit "
 "misleading, for the property of copyright is an odd kind of property.  "
@@ -7592,14 +7591,16 @@ msgid ""
 "example, going to Sears, buying a table, and putting it in my backyard? What "
 "is the thing I am taking then?"
 msgstr ""
-"men i vanlig språk, å ringe en copyright \"property\" høyre er litt "
-"misvisende, for copyright-egenskapen er en odde type bolig. selve idéen om "
-"eiendom i noen idé eller et annet uttrykk er faktisk svært ulike. Jeg "
-"forstår hva jeg tar når jeg tar picnic bord du innlegge din bakgård. Jeg tar "
-"en ting, picnic bord, og etter at jeg tar det, du har ikke det. men hva jeg "
-"ta når jeg tar god idé du måtte sette en picnic bord i bakgården&mdash;av, "
-"for eksempel skal sears, kjøpe en tabell, og sette det i min bakgård? Hva er "
-"det jeg tar deretter?"
+"Men i vanlig språk er det å kalle opphavsrett for en "
+"\"eiendoms\"-rett litt misvisende, for eindommen i opphavsretten er en "
+"merkelig type eiendom.  Selve ideen om eienrettigheter til en ide "
+"eller et uttrykk er nemlig veldig merkelig.  Jeg forstår hva jeg tar "
+"når jeg tar en picnic-bord som du plasserte i din bakhage.  Jeg tar en "
+"ting, picnic-bokrdet, og etter at jeg tar det har ikke du det.  Men "
+"hva tar jeg når jeg tar den gode <emphasis>ideen</emphasis> som du "
+"hadde om å plassere picnic-bordet i bakhagen&mdash;ved å for eksempel "
+"dra til butikken Sears, kjøpe et bord, og plassere det i min egen "
+"bakhage? Hva er tingen jeg tar da?"
 
 #.  f1
 #. type: Content of: <book><part><partintro><para><footnote><para>
@@ -7628,17 +7629,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><partintro><para>
-#, mtrans, fuzzy
 msgid ""
 "The exceptions to free use are ideas and expressions within the reach of the "
 "law of patent and copyright, and a few other domains that I won't discuss "
 "here. Here the law says you can't take my idea or expression without my "
 "permission: The law turns the intangible into property."
 msgstr ""
-"unntakene til fri bruk er idéer og uttrykk innenfor rekkevidden av loven om "
-"patent og opphavsrett, og noen andre domener som jeg ikke diskutere her. Her "
-"loven sier du ikke kan ta min idé eller uttrykk uten min tillatelse: loven "
-"blir immaterielle eiendom."
+"Unntakene til fri bruk er ideer og uttrykk innenfor dekningsområdet "
+"til loven om patent og opphavsrett, og noen få andre områder som jeg "
+"ikke vil diskutere her.  Her sier loven at du ikke kan ta min ide "
+"eller uttrykk uten min tilatelse: Loven gjør det flyktige til eiendom. "
 
 #.  f2
 #. type: Content of: <book><part><partintro><para><footnote><para>
