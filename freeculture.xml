@@ -1273,6 +1273,9 @@ context the current battles about behavior labeled "piracy."
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
 <title>CHAPTER ONE: Creators</title>
+<indexterm id="idxanimadedcartoons" class='startofrange'>
+  <primary>animated cartoons</primary>
+</indexterm>
 <para>
 In 1928, a cartoon character was born. An early Mickey Mouse
 made his debut in May of that year, in a silent flop called <citetitle>Plane Crazy</citetitle>.
@@ -1417,6 +1420,7 @@ creativity from the culture around him, mixed that creativity with his
 own extraordinary talent, and then burned that mix into the soul of
 his culture. Rip, mix, and burn.
 </para>
+<indexterm startref="idxanimadedcartoons" class='endofrange'/>
 <para>
 This is a kind of creativity. It is a creativity that we should
 remember and celebrate. There are some who would say that there is no
