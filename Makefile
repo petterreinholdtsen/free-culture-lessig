@@ -11,7 +11,6 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 #  -P latex.class.options=a5paper
 DBLATEX = dblatex \
 	-T db2latex \
-	--backend=xetex \
 	--param lingua=nb \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
