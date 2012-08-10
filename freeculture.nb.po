@@ -24,7 +24,7 @@ msgstr "©"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
-msgstr "no"
+msgstr "nb"
 
 #. type: Content of: <book><bookinfo><title>
 msgid "Free Culture"
