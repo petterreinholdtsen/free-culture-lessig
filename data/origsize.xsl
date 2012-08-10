@@ -8,8 +8,8 @@
 <xsl:param name="page.width">5in</xsl:param>
 <xsl:param name="page.height">7.51in</xsl:param>
 
-<xsl:param name="page.margin.inner">1.0in</xsl:param>
-<xsl:param name="page.margin.outer">0.8in</xsl:param>
+<xsl:param name="page.margin.inner">0.8in</xsl:param>
+<xsl:param name="page.margin.outer">0.6in</xsl:param>
 <xsl:param name="body.start.indent">0pt</xsl:param>
 <xsl:param name="body.font.family">Times</xsl:param>
 <xsl:param name="title.font.family">Times</xsl:param>
