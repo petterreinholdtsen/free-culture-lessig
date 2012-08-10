@@ -3333,8 +3333,6 @@ msgstr ""
 "kultur. Den er på tur til å bli mindre fri."
 
 #. type: Content of: <book><part><chapter><title>
-#, fuzzy
-#| msgid "CHAPTER TWO: \"Mere Copyists\""
 msgid "CHAPTER TWO: <quote>Mere Copyists</quote>"
 msgstr "Kapittel to: <quote>Kun etter-apere</quote>"
 
@@ -5702,18 +5700,6 @@ msgstr ""
 "forbauset."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "\"It was absurd,\" he told me. \"I don't think I did anything wrong. "
-#| "&hellip; I don't think there's anything wrong with the search engine that "
-#| "I ran or &hellip; what I had done to it. I mean, I hadn't modified it in "
-#| "any way that promoted or enhanced the work of pirates. I just modified "
-#| "the search engine in a way that would make it easier to use\"&mdash;"
-#| "again, a <emphasis>search engine</emphasis>, which Jesse had not himself "
-#| "built, using the Windows filesharing system, which Jesse had not himself "
-#| "built, to enable members of the RPI community to get access to content, "
-#| "which Jesse had not himself created or posted, and the vast majority of "
-#| "which had nothing to do with music."
 msgid ""
 "<quote>It was absurd,</quote> he told me. <quote>I don't think I did "
 "anything wrong. &hellip; I don't think there's anything wrong with the "
@@ -5726,11 +5712,11 @@ msgid ""
 "content, which Jesse had not himself created or posted, and the vast "
 "majority of which had nothing to do with music."
 msgstr ""
-"\"Det var absurd\", fortalte han meg. \"Jeg mener at jeg ikke gjorde noe "
+"<quote>Det var absurd</quote>, fortalte han meg. <quote>Jeg mener at jeg ikke gjorde noe "
 "galt. &hellip; Jeg mener det ikke er noe galt med søkemotoren som jeg kjørte "
 "eller &hellip; hva jeg hadde gjort med den.  Jeg mener, jeg hadde ikke "
 "endret den på noen måte som fremmet eller forbedret arbeidet til pirater.  "
-"Jeg endret kun søkemotoren slik at den ble enklere å bruke\"&mdash;igjen, en "
+"Jeg endret kun søkemotoren slik at den ble enklere å bruke</quote>&mdash;igjen, en "
 "<emphasis>søkemotor</emphasis>, som Jesse ikke hadde bygd selv, som brukte "
 "fildelingssystemet til Windows, som Jesse ikke hadde bygd selv, for å gjøre "
 "det mulig for medlemmer av RPI-fellesskapet å få tilgang til innhold, som "
@@ -5739,16 +5725,6 @@ msgstr ""
 
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "But the RIAA branded Jesse a pirate. They claimed he operated a network "
-#| "and had therefore \"willfully\" violated copyright laws. They demanded "
-#| "that he pay them the damages for his wrong. For cases of \"willful "
-#| "infringement,\" the Copyright Act specifies something lawyers call "
-#| "\"statutory damages.\" These damages permit a copyright owner to claim "
-#| "$150,000 per infringement. As the RIAA alleged more than one hundred "
-#| "specific copyright infringements, they therefore demanded that Jesse pay "
-#| "them at least $15,000,000."
 msgid ""
 "But the RIAA branded Jesse a pirate. They claimed he operated a network and "
 "had therefore <quote>willfully</quote> violated copyright laws. They "
@@ -5760,42 +5736,26 @@ msgid ""
 "that Jesse pay them at least $15,000,000."
 msgstr ""
 "Men RIAA kalte Jesse en pirat.  De hevdet at han opererte et nettverk og "
-"dermed \"med vilje\" hadde brutt opphavsrettslovene.  De krevde at han "
+"dermed <quote>med vilje</quote> hadde brutt opphavsrettslovene.  De krevde at han "
 "betalte dem skadeerstatning for det han hadde gjort galt.  I saker med "
-"\"krenkelser med vilje\", spesifiserer opphavsrettsloven noe som advokater "
-"kaller \"lovbestemte skader\".  Disse skadene tillater en "
+"<quote>krenkelser med vilje</quote>, spesifiserer opphavsrettsloven noe som advokater "
+"kaller <quote>lovbestemte skader</quote>.  Disse skadene tillater en "
 "opphavsrettighetseier å kreve $150&nbsp;000 per krenkelse.  Etter som RIAA "
 "påsto det var mer enn et hundre spesifikke opphavsrettskrenkelser, krevde de "
 "dermed at Jesse betalte dem minst $15&nbsp;000&nbsp;000."
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
-#| "Alleges $97.8 Billion in Damages,\" <citetitle>Professional Media Group "
-#| "LCC</citetitle> 6 (2003): 5, available at 2003 WL 55179443."
 msgid ""
 "Tim Goral, <quote>Recording Industry Goes After Campus P-2-P Networks: Suit "
 "Alleges $97.8 Billion in Damages,</quote> <citetitle>Professional Media "
 "Group LCC</citetitle> 6 (2003): 5, available at 2003 WL 55179443."
 msgstr ""
-"Tim Goral, \"Recording Industry Goes After Campus P-2-P Networks: Suit "
-"Alleges $97.8 Billion in Damages,\" <citetitle>Professional Media Group LCC</"
+"Tim Goral, <quote>Recording Industry Goes After Campus P-2-P Networks: Suit "
+"Alleges $97.8 Billion in Damages,</quote> <citetitle>Professional Media Group LCC</"
 "citetitle> 6 (2003): 5, tilgjengelig fra 2003 WL 55179443."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "Similar lawsuits were brought against three other students: one other "
-#| "student at RPI, one at Michigan Technical University, and one at "
-#| "Princeton. Their situations were similar to Jesse's. Though each case was "
-#| "different in detail, the bottom line in each was exactly the same: huge "
-#| "demands for \"damages\" that the RIAA claimed it was entitled to.  If you "
-#| "added up the claims, these four lawsuits were asking courts in the United "
-#| "States to award the plaintiffs close to $100 <emphasis>billion</"
-#| "emphasis>&mdash;six times the <emphasis>total</emphasis> profit of the "
-#| "film industry in 2001.<placeholder type=\"footnote\" id=\"0\"/>"
 msgid ""
 "Similar lawsuits were brought against three other students: one other "
 "student at RPI, one at Michigan Technical University, and one at Princeton. "
@@ -5810,7 +5770,7 @@ msgstr ""
 "Lignende søksmål ble gjort mot tre andre studenter: en annen student ved "
 "RPI, en ved Michegan Technical University og en ved Princeton. Deres "
 "situasjoner var lik den til Jesse.  Selv om hver sak hadde forskjellige "
-"detaljer, var hovedpoenget nøyaktig det samme: store krav om \"erstatning\" "
+"detaljer, var hovedpoenget nøyaktig det samme: store krav om <quote>erstatning</quote> "
 "som RIAA påsto de hadde rett på.  Hvis du summerte opp disse kravene, ba "
 "disse fire søksmålene domstolene i USA å tildele saksøkerne nesten $100 "
 "<emphasis>milliarder</emphasis>&mdash;seks ganger det <emphasis>totale</"
@@ -5830,17 +5790,6 @@ msgstr ""
 "sommerjobber og annet arbeid.  De krevde 12&nbsp;000 for å trekke saken."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "The RIAA wanted Jesse to admit to doing something wrong. He refused. They "
-#| "wanted him to agree to an injunction that would essentially make it "
-#| "impossible for him to work in many fields of technology for the rest of "
-#| "his life. He refused. They made him understand that this process of being "
-#| "sued was not going to be pleasant. (As Jesse's father recounted to me, "
-#| "the chief lawyer on the case, Matt Oppenheimer, told Jesse, \"You don't "
-#| "want to pay another visit to a dentist like me.\") And throughout, the "
-#| "RIAA insisted it would not settle the case until it took every penny "
-#| "Jesse had saved."
 msgid ""
 "The RIAA wanted Jesse to admit to doing something wrong. He refused. They "
 "wanted him to agree to an injunction that would essentially make it "
@@ -5857,8 +5806,8 @@ msgstr ""
 "det umulig for han å arbeide i mange områder innen teknologi for resten av "
 "hans liv.  Han nektet.  De fikk han til å forstå at denne prosessen med å "
 "bli saksøkt ikke kom til å bli hyggelig.  (Som faren til Jesse refererte til "
-"meg, fortalte sjefsadvokaten på saken, Matt Oppenheimer, \"Du ønsker ikke et "
-"tannlegebesøk hos meg flere ganger\") Og gjennom det hele insisterte RIAA at "
+"meg, fortalte sjefsadvokaten på saken, Matt Oppenheimer, <quote>Du ønsker ikke et "
+"tannlegebesøk hos meg flere ganger</quote>) Og gjennom det hele insisterte RIAA at "
 "de ikke ville inngå forlik før de hadde tatt hver eneste øre som Jesse hadde "
 "spart opp."
 
@@ -5903,15 +5852,11 @@ msgstr ""
 
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Douglas Lichtman makes a related point in \"KaZaA and Punishment,\" "
-#| "<citetitle>Wall Street Journal</citetitle>, 10 September 2003, A24."
 msgid ""
 "Douglas Lichtman makes a related point in <quote>KaZaA and Punishment,</"
 "quote> <citetitle>Wall Street Journal</citetitle>, 10 September 2003, A24."
 msgstr ""
-"Douglas Lichtman kommer med et relatert poeng i \"KaZaA and Punishment,\" "
+"Douglas Lichtman kommer med et relatert poeng i <quote>KaZaA and Punishment,</quote> "
 "<citetitle>Wall Street Journal</citetitle>, 10. september 2003, A24."
 
 #. type: Content of: <book><part><chapter><para>
@@ -6606,15 +6551,6 @@ msgstr ""
 "Madonna ønsker å synge din sang offentlig, må hun få din tillatelse."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "Imagine she does sing your song, and imagine she likes it a lot. She then "
-#| "decides to make a recording of your song, and it becomes a top hit. Under "
-#| "our law, every time a radio station plays your song, you get some money. "
-#| "But Madonna gets nothing, save the indirect effect on the sale of her "
-#| "CDs. The public performance of her recording is not a \"protected\" "
-#| "right. The radio station thus gets to <emphasis>pirate</emphasis> the "
-#| "value of Madonna's work without paying her anything."
 msgid ""
 "Imagine she does sing your song, and imagine she likes it a lot. She then "
 "decides to make a recording of your song, and it becomes a top hit. Under "
@@ -6624,12 +6560,12 @@ msgid ""
 "The radio station thus gets to <emphasis>pirate</emphasis> the value of "
 "Madonna's work without paying her anything."
 msgstr ""
-"Tenkt deg videre at hun syner din sang, og at hun liker den veldig godt.  "
+"Tenkt deg videre at hun synger din sang, og at hun liker den veldig godt. "
 "Hun bestemmer seg deretter for å spille inn sangen din, og den blir en "
 "populær hitlåt.  Med vår lov vil du få litt penger hver gang en radiostasjon "
 "spiller din sang.  Men Madonna får ingenting, fortsett fra de indirekte "
 "effektene fra salg av hennes CD-er.  Den offentlige fremføringen av hennes "
-"innspilling er ikke en \"beskyttet\" rettighet. Radiostasjonen får dermed "
+"innspilling er ikke en <quote>beskyttet</quote> rettighet. Radiostasjonen får dermed "
 "<emphasis>røve</emphasis> verdien av Madonnas arbeid uten å betale henne "
 "noen ting."
 
@@ -6784,18 +6720,13 @@ msgstr ""
 "president i Screen Actors Guild).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "These were \"free-ride[rs],\" Screen Actor's Guild president Charlton "
-#| "Heston said, who were \"depriving actors of compensation.\"<placeholder "
-#| "type=\"footnote\" id=\"0\"/>"
 msgid ""
 "These were <quote>free-ride[rs],</quote> Screen Actor's Guild president "
 "Charlton Heston said, who were <quote>depriving actors of compensation.</"
 "quote><placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"Disse var \"gratispassasjerer\", sa presidenten Charlton Heston i Screen "
-"Actor's Guild, som \"tok lønna fra skuespillerne\"<placeholder type="
+"Disse var <quote>gratispassasjerer</quote>, sa presidenten Charlton Heston i Screen "
+"Actor's Guild, som <quote>tok lønna fra skuespillerne</quote><placeholder type="
 "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -6887,8 +6818,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
-#, fuzzy
-#| msgid "CHAPTER FIVE: \"Piracy\""
 msgid "CHAPTER FIVE: <quote>Piracy</quote>"
 msgstr "Kapittel fem: <quote>Piratvirksomhet</quote>"
 
@@ -6927,9 +6856,8 @@ msgstr ""
 "det så ofte har gjort i fortiden."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, mtrans, fuzzy
 msgid "Piracy I"
-msgstr "piratkopiering jeg"
+msgstr "Piratvirksomhet I"
 
 #.  f1
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7315,9 +7243,8 @@ msgstr ""
 "overleve."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, mtrans, fuzzy
 msgid "Piracy II"
-msgstr "piratkopiering ii"
+msgstr "Piratvirksomhet II"
 
 #.  f4
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8576,7 +8503,7 @@ msgstr ""
 
 #. type: Content of: <book><part><title>
 msgid "<quote>PROPERTY</quote>"
-msgstr ""
+msgstr "<quote>Eiendom</quote>"
 
 #.  PAGE BREAK 94
 #. type: Content of: <book><part><partintro><para>
@@ -11687,8 +11614,6 @@ msgstr ""
 "og andre vil utøve."
 
 #. type: Content of: <book><part><chapter><title>
-#, fuzzy
-#| msgid "CHAPTER TEN: \"Property\""
 msgid "CHAPTER TEN: <quote>Property</quote>"
 msgstr "Kapittel ti: <quote>Eiendom</quote>"
 
@@ -12995,10 +12920,8 @@ msgid "We will end here:"
 msgstr "Vi kommer til å ende opp her:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "&quot;Copyright&quot; today."
 msgid "<quote>Copyright</quote> today."
-msgstr "&quot;Opphavsrett&quot; i dag."
+msgstr "<quote>Opphavsrett</quote> i dag."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1442.png\"></graphic>"
