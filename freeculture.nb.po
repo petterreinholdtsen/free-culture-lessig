@@ -5631,20 +5631,19 @@ msgid "Madonna"
 msgstr "Madonna"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This difference can be huge. Imagine you compose a piece of music.  Imagine "
 "it is your first. You own the exclusive right to authorize public "
 "performances of that music. So if Madonna wants to sing your song in public, "
 "she has to get your permission."
 msgstr ""
-"denne forskjellen kan være stor. Tenk du komponere musikk. forestille seg "
-"det er din første. du eier den eksklusive retten til å godkjenne "
-"teateroppsetninger av at musikk. så hvis madonna ønsker å synge sangen i det "
-"offentlige, hun har å bli din tillatelse."
+"Denne forskjellen kan bli stor.  Forestill deg at du komponerer et "
+"stykke musikk.  Se for deg at det er ditt første stykke.  Du eier de "
+"eksklusive rettighetene til å godkjenne offentlig fremføring av den "
+"musikken.  Så hvis Madonna ønsker å synge din sang offentlig, må hun "
+"få din tillatelse."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Imagine she does sing your song, and imagine she likes it a lot. She then "
 "decides to make a recording of your song, and it becomes a top hit. Under "
@@ -5654,13 +5653,14 @@ msgid ""
 "station thus gets to <emphasis>pirate</emphasis> the value of Madonna's work "
 "without paying her anything."
 msgstr ""
-"forestille hun gjør synge sangen, og forestille hun liker det mye. Hun "
-"deretter bestemmer seg for å gjøre en innspilling av sangen, og det blir en "
-"øverste treffet. under vår lov, hver gang en radiostasjon spiller sangen, "
-"kan du få noen penger. men madonna får ingenting, lagre den indirekte "
-"effekten på salget av hennes CDer. offentlig fremføring av hennes "
-"innspilling er ikke en \"beskyttet\" høyre. radiostasjonen får dermed pirat "
-"verdien av madonna's arbeid uten å betale henne noe."
+"Tenkt deg videre at hun syner din sang, og at hun liker den veldig "
+"godt.  Hun bestemmer seg deretter for å spille inn sangen din, og den "
+"blir en populær hitlåt.  Med vår lov vil du få litt penger hver gang "
+"en radiostasjon spiller din sang.  Men Madonna får ingenting, fortsett "
+"fra de indirekte effektene fra salg av hennes CD-er.  Den offentlige "
+"fremføringen av hennes innspilling er ikke en \"beskyttet\" rettighet. "
+"Radiostasjonen får dermed <emphasis>røve</emphasis> verdien av "
+"Madonnas arbeid uten å betale henne noen ting."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
