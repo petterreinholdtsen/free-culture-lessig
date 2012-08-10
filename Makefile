@@ -70,7 +70,7 @@ html: freeculture.html freeculture.nb.html
 #   This include images, but the index refs and footnote handling
 #   is broken.
 
-	pipeline=dblatex; \
+	pipeline=docbook-xsl; \
 	echo "Using $$pipeline pipeline" ; \
 	case "$$pipeline" in  \
 	dblatex) \
