@@ -53,24 +53,42 @@ epub: freeculture.nb.epub
 html: freeculture.html freeculture.nb.html 
 
 %.pdf: %.xml $(IMAGES) $(PDF_XSLT)
-#	$(DBLATEX) $<
+# Possible pipelines:
+#
+# dblatex:
+#   This converts the docbook content to latex and leave it to latex
+#   to format it.
+#
+# xmlto:
+#   Alternative processing path to dblatex is to use xmlto using fop
+#   to create PDF like this.  The PDF output (visual design) is
+#   better, but the footnote handling is worse and images are missing.
+#
+# docbook-xsl:
+#   Third alternative is to use xsltproc and fop directly, as
+#   recommended by <URL: http://www.sagehill.net/docbookxsl/index.html >.
+#   This include images, but the index refs and footnote handling
+#   is broken.
 
-# Alternative processing path to dblatex is to use xmlto using fop to
-# create PDF like this.  The PDF output (visual design) is better, but
-# the footnote handling is worse and images are missing.
-#	xmlto --noautosize \
-#	-x data/stylesheet-fo.xsl \
-#	  --with-fop pdf $<
-
-# Third alternative is to use xsltproc and fop directly, as
-# recommended by <URL: http://www.sagehill.net/docbookxsl/index.html > .
-# This include images, but the index refs and footnote handling is
-# broken.
-	xsltproc  \
-	  --output $(subst .pdf,.fo,$@) \
-	  data/stylesheet-fo.xsl \
-	  $<
-	fop -c data/fop-params.xconf -fo $(subst .pdf,.fo,$@) -pdf $@
+	pipeline=dblatex; \
+	echo "Using $$pipeline pipeline" ; \
+	case "$$pipeline" in  \
+	dblatex) \
+	  $(DBLATEX) $< ; \
+	  ;; \
+	xmlto) \
+	  xmlto --noautosize \
+	    -x data/stylesheet-fo.xsl \
+	    --with-fop pdf $< ; \
+	  ;; \
+	docbook-xsl) \
+	  xsltproc  \
+	    --output $(subst .pdf,.fo,$@) \
+	    data/stylesheet-fo.xsl \
+	    $< ; \
+	  fop -c data/fop-params.xconf -fo $(subst .pdf,.fo,$@) -pdf $@ ; \
+	  ;; \
+	esac
 
 pdf-compare: freeculture.xml $(IMAGES)
 	dblatex -o freeculture-dblatex.pdf freeculture.xml
