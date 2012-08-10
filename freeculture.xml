@@ -12314,6 +12314,15 @@ controlled by this dead (and often unfindable) hand of the past.
 </part>
 <chapter label="15" id="c-conclusion">
 <title>CONCLUSION</title>
+<indexterm id="idxantiretroviraldrugs" class='startofrange'>
+  <primary>antiretroviral drugs</primary>
+</indexterm>
+<indexterm id="idxhivaidstherapies" class='startofrange'>
+  <primary>HIV/AIDS therapies</primary>
+</indexterm>
+<indexterm id="idxafricahivmed" class='startofrange'>
+  <primary>Africa, medications for HIV patients in</primary>
+</indexterm>
 <para>
 There are more than 35 million people with the AIDS virus
 worldwide. Twenty-five million of them live in sub-Saharan Africa.
@@ -12547,8 +12556,13 @@ critical eye that helps us see the difference between truth and
 extremism.  A certain property fundamentalism, having no connection to
 our tradition, now reigns in this culture&mdash;bizarrely, and with
 consequences more grave to the spread of ideas and culture than almost
-any other single policy decision that we as a democracy will make.  A
-simple idea blinds us, and under the cover of darkness, much happens
+any other single policy decision that we as a democracy will make.
+</para>
+<indexterm startref="idxafricahivmed" class='endofrange'/>
+<indexterm startref="idxhivaidstherapies" class='endofrange'/>
+<indexterm startref="idxantiretroviraldrugs" class='endofrange'/>
+<para>
+A simple idea blinds us, and under the cover of darkness, much happens
 that most of us would reject if any of us looked. So uncritically do
 we accept the idea of property in ideas that we don't even notice how
 monstrous it is to deny ideas to a people who are dying without
