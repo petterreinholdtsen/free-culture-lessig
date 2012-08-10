@@ -1991,6 +1991,7 @@ people, literacy is about reading and writing. Faulkner and Hemingway
 and noticing split infinitives are the things that <quote>literate</quote> people know
 about.
 </para>
+<indexterm><primary>advertising</primary></indexterm>
 <para>
 Maybe. But in a world where children see on average 390 hours of
 television commercials per year, or between 20,000 and 45,000 
@@ -2482,6 +2483,9 @@ extraordinary to report.
 <indexterm id="idxbrownjohnseely" class='startofrange'>
   <primary>Brown, John Seely</primary>
 </indexterm>
+<indexterm id='idxadvertising1' class='startofrange'>
+  <primary>advertising</primary>
+</indexterm>
 <para>
 John Seely Brown is the chief scientist of the Xerox Corporation.
 His work, as his Web site describes it, is <quote>human learning and &hellip; the
@@ -2542,6 +2546,7 @@ you are visual, if you are interested in film &hellip; [then] there is a
 lot you can start to do on this medium. [It] can now amplify and honor
 these multiple forms of intelligence.</quote>
 </para>
+<indexterm startref='idxadvertising1' class='endofrange'/>
 <indexterm><primary>Barish, Stephanie</primary></indexterm>
 <para>
 Brown is talking about what Elizabeth Daley, Stephanie Barish, and
@@ -6288,6 +6293,7 @@ on the content industry's way of doing business, or as John Seely
 Brown describes it, its <quote>architecture of revenue.</quote>
 </para>
 <indexterm><primary>railroad industry</primary></indexterm>
+<indexterm><primary>advertising</primary></indexterm>
 <para>
 But just because a particular interest asks for government support, it
 doesn't follow that support should be granted. And just because
@@ -7115,6 +7121,9 @@ grounded in fair use makes sense when the vast majority of uses are
 presumptively regulated, then the protections of fair use are not
 enough.
 </para>
+<indexterm id='idxadvertising2' class='startofrange'>
+  <primary>advertising</primary>
+</indexterm>
 <para>
 The case of Video Pipeline is a good example. Video Pipeline was
 in the business of making <quote>trailer</quote> advertisements for movies available
@@ -7165,6 +7174,7 @@ permitted to list the titles of the films they were selling, but they were
 not allowed to show clips of the films as a way of selling them without
 Disney's permission.
 </para>
+<indexterm startref='idxadvertising2' class='endofrange'/>
 <para>
 Now, you might think this is a close case, and I think the courts
 would consider it a close case. My point here is to map the change
@@ -8196,6 +8206,9 @@ is through votes that we are to choose policy. But to do that, we
 depend fundamentally upon the press to help inform Americans about
 these issues.
 </para>
+<indexterm id='idxadvertising3' class='startofrange'>
+  <primary>advertising</primary>
+</indexterm>
 <para>
 Beginning in 1998, the Office of National Drug Control Policy launched
 a media campaign as part of the <quote>war on drugs.</quote> The campaign produced
@@ -8266,6 +8279,7 @@ was that the criticism was <quote>too controversial.</quote>
 <indexterm><primary>NBC</primary></indexterm>
 <indexterm><primary>WJOA</primary></indexterm>
 <indexterm><primary>WRC</primary></indexterm>
+<indexterm><primary>advertising</primary></indexterm>
 </para></footnote>
 </para>
 <para>
@@ -8279,6 +8293,7 @@ matters. You might like the positions the handful of companies
 selects. But you should not like a world in which a mere few get to
 decide which issues the rest of us get to know about.
 </para>
+<indexterm startref='idxadvertising3' class='endofrange'/>
 </section>
 <section id="together">
 <title>Together</title>
@@ -10813,7 +10828,9 @@ digitized, and hence will simply rot away on shelves. But the
 		consequence
 for other creative works is much more dire.
 </para>
-<indexterm><primary>Agee, Michael</primary></indexterm>
+<indexterm id='idxageemichael' class='startofrange'>
+  <primary>Agee, Michael</primary>
+</indexterm>
 <indexterm><primary>Hal Roach Studios</primary></indexterm>
 <indexterm><primary>Laurel and Hardy Films</primary></indexterm>
 <para>
@@ -10907,6 +10924,7 @@ would outweigh the legal costs. Thus, for the vast majority of old
 films, Agee argued, the film will not be restored and distributed until
 the copyright expires.
 </para>
+<indexterm startref='idxageemichael' class='endofrange'/>
 <para>
 But by the time the copyright for these films expires, the film will
 have expired. These films were produced on nitrate-based stock, and
