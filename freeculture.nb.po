@@ -23307,7 +23307,7 @@ msgstr ""
 "Sakte begynner noen å forstå at denne friheten trenger ikke å bety anarki.  "
 "Vi kan få med oss fri kultur inn i det tjueførste århundre, uten at artister "
 "taper og uten at potensialet for digital teknologi blir knust.  Det vil "
-"kreve omtanke, og viktigere, det vil kreve at noen omforme RCAene av i dag "
+"kreve omtanke, og viktigere, det vil kreve at noen omformer RCA-ene av i dag "
 "til Causbyere."
 
 #.  PAGE BREAK 279
