@@ -2801,6 +2801,10 @@ paper saying he and his family were bankrupt.
 So Jesse faced a mafia-like choice: $250,000 and a chance at winning,
 or $12,000 and a settlement.
 </para>
+<indexterm>
+<primary>artists</primary>
+<secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 The recording industry insists this is a matter of law and morality.
 Let's put the law aside for a moment and think about the morality.
@@ -3149,6 +3153,10 @@ creative work, the record producers, and the public, benefit.
 </section>
 <section id="radio">
 <title>Radio</title>
+<indexterm id='idxartistspayments1' class='startofrange'>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 Radio was also born of piracy.
 </para>
@@ -3223,6 +3231,7 @@ ordinarily gives the creator the right to make this choice. By making
 the choice for him or her, the law gives the radio station the right
 to take something for nothing.
 </para>
+<indexterm startref='idxartistspayments1' class='endofrange'/>
 </section>
 <section id="cabletv">
 <title>Cable TV</title>
@@ -4062,6 +4071,10 @@ technology.  In this adjustment, the law sought to ensure the
 legitimate rights of creators while protecting innovation. Sometimes
 this has meant more rights for creators. Sometimes less.
 </para>
+<indexterm>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 So, as we've seen, when <quote>mechanical reproduction</quote> threatened the
 interests of composers, Congress balanced the rights of composers
@@ -9560,6 +9573,10 @@ available at
 But there is one example that captures the flavor of them all. This is
 the story of the demise of Internet radio.
 </para>
+<indexterm>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 
 <!-- PAGE BREAK 204 -->
@@ -9657,6 +9674,10 @@ those imposed by the law. Copyright law is one such law. So the first
 question we should ask is, what copyright rules would govern Internet
 radio?
 </para>
+<indexterm id='idxartistspayments2' class='startofrange'>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 But here the power of the lobbyists is reversed. Internet radio is a
 new industry. The recording artists, on the other hand, have a very
@@ -9703,6 +9724,7 @@ interests, that could have been done in a media-neutral way.</quote>
 A regular radio station broadcasting the same content would pay no
 equivalent fee.
 </para>
+<indexterm startref='idxartistspayments2' class='endofrange'/>
 <para>
 The burden is not financial only. Under the original rules that were
 proposed, an Internet radio station (but not a terrestrial radio
@@ -9826,6 +9848,10 @@ that should establish the market rate, and if you set the rate so
 high, you're going to drive the small webcasters out of
 business. &hellip;</quote>
 </para>
+<indexterm>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 And the RIAA experts said, <quote>Well, we don't really model this as an
 industry with thousands of webcasters, <emphasis>we think it should be
@@ -14339,6 +14365,10 @@ The idea would be a modification of a proposal that has been
 floated by Harvard law professor William Fisher.<footnote>
 <para>
 <!-- f9. -->
+<indexterm id='idxartistspayments3' class='startofrange'>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 William Fisher, <citetitle>Digital Music: Problems and Possibilities</citetitle> (last
 revised: 10 October 2000), available at
 <ulink url="http://free-culture.cc/notes/">link #77</ulink>; William
@@ -14375,6 +14405,7 @@ debate by about a decade. See
 <indexterm><primary>Fisher, William</primary></indexterm>
 <indexterm><primary>Netanel, Neil Weinstock</primary></indexterm>
 <indexterm><primary>Promises to Keep (Fisher)</primary></indexterm>
+<indexterm startref='idxartistspayments3' class='endofrange'/>
 </para></footnote>
 Fisher suggests a very clever way around the current impasse of the
 Internet. Under his plan, all content capable of digital transmission
@@ -14402,6 +14433,10 @@ longer necessary, then the system could lapse into the old system of
 controlling access.
 <indexterm><primary>Promises to Keep (Fisher)</primary></indexterm>
 </para>
+<indexterm>
+  <primary>artists</primary>
+  <secondary>recording industry payments to</secondary>
+</indexterm>
 <para>
 Fisher would balk at the idea of allowing the system to lapse. His aim
 is not just to ensure that artists are paid, but also to ensure that
