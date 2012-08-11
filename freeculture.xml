@@ -12,9 +12,6 @@
    <!ENTITY copy "©">
    <!ENTITY translationblock "">
 ]>
-<!--
--->
-
 <book id="index" lang="en">
 <bookinfo>
  <title>Free Culture</title>
@@ -498,6 +495,17 @@ book is written.
 <!-- PAGE BREAK 16 -->
 <chapter label="0" id="c-introduction">
 <title>INTRODUCTION</title>
+<indexterm id='idxairtraffic' class='startofrange'>
+  <primary>air traffic, land ownership vs.</primary>
+</indexterm>
+<indexterm id='idxlandownership' class='startofrange'>
+  <primary>land ownership, air traffic and</primary>
+</indexterm>
+<indexterm id='idxproprigtair' class='startofrange'>
+  <primary>property rights</primary>
+  <secondary>air traffic vs.</secondary>
+</indexterm>
+<indexterm><primary>Wright brothers</primary></indexterm>
 <para>
 On December 17, 1903, on a windy North Carolina beach for just
 shy of one hundred seconds, the Wright brothers demonstrated that a
@@ -593,6 +601,7 @@ as solid as rock in one age crumble in another.
 </para>
 <indexterm><primary>Causby, Thomas Lee</primary></indexterm>
 <indexterm><primary>Causby, Tinie</primary></indexterm>
+<indexterm><primary>Wright brothers</primary></indexterm>
 <para>
 Or at least, this is how things happen when there's no one powerful
 on the other side of the change. The Causbys were just farmers. And
@@ -611,8 +620,11 @@ end, the force of what seems <quote>obvious</quote> to everyone else&mdash;the p
 <quote>common sense</quote>&mdash;would prevail. Their <quote>private interest</quote> would not be
 allowed to defeat an obvious public gain.
 </para>
+<indexterm startref='idxproprigtair' class='endofrange'/>
+<indexterm startref='idxlandownership' class='endofrange'/>
+<indexterm startref='idxairtraffic' class='endofrange'/>
 <para>
-Edwin Howard Armstrong is one of America's forgotten inventor
+<emphasis role='strong'>Edwin Howard Armstrong</emphasis> is one of America's forgotten inventor
 geniuses. He came to the great American inventor scene just after the
 titans Thomas Edison and Alexander Graham Bell. But his work in
 the area of radio technology was perhaps the most important of any
@@ -1013,6 +1025,7 @@ trespass.
 </para>
 <indexterm><primary>Causby, Thomas Lee</primary></indexterm>
 <indexterm><primary>Causby, Tinie</primary></indexterm>
+<indexterm><primary>Wright brothers</primary></indexterm>
 <para>
 And thus, when geeks and technologists defend their Armstrong or
 Wright brothers technology, most of us are simply unsympathetic.
@@ -5122,7 +5135,9 @@ not.
 <chapter label="8" id="transformers">
 <title>CHAPTER EIGHT: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
-<indexterm><primary>Alben, Alex</primary></indexterm>
+<indexterm id='idxalbenalex1' class='startofrange'>
+  <primary>Alben, Alex</primary>
+</indexterm>
 <para>
 In 1993, Alex Alben was a lawyer working at Starwave, Inc.  Starwave
 was an innovative company founded by Microsoft cofounder Paul Allen to
@@ -5130,7 +5145,6 @@ develop digital entertainment. Long before the Internet became
 popular, Starwave began investing in new technology for delivering
 entertainment in anticipation of the power of networks.
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Alben had a special interest in new technology. He was intrigued by
 the emerging market for CD-ROM technology&mdash;not to distribute
@@ -5141,7 +5155,6 @@ chosen was Clint Eastwood. The idea was to showcase all of the work of
 Eastwood, with clips from his films and interviews with figures
 important to his career.
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 At that time, Eastwood had made more than fifty films, as an actor and
 as a director. Alben began with a series of interviews with Eastwood,
@@ -5156,7 +5169,6 @@ posters, scripts, and other material relating to the films Eastwood
 made. Most of his career was spent at Warner Brothers, and so it was
 relatively easy to get permission for that content.
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Then Alben and his team decided to include actual film clips. <quote>Our
 goal was that we were going to have a clip from every one of
@@ -5165,12 +5177,10 @@ arose. <quote>No one had ever really done this before,</quote> Alben explained. 
 one had ever tried to do this in the context of an artistic look at an
 actor's career.</quote>
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Alben brought the idea to Michael Slade, the CEO of Starwave.
 Slade asked, <quote>Well, what will it take?</quote>
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Alben replied, <quote>Well, we're going to have to clear rights from
 everyone who appears in these films, and the music and everything
@@ -5186,6 +5196,7 @@ Burn</quote> creativity, as this chapter evinces.
 <primary>artists</primary>
 <secondary>publicity rights on images of</secondary>
 </indexterm>
+<indexterm><primary>Alben, Alex</primary></indexterm>
 </para></footnote>
 </para>
 <para>
@@ -5222,7 +5233,6 @@ we put together a team, my assistant and some others, and we just
 started calling people.
 </para>
 </blockquote>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Some actors were glad to help&mdash;Donald Sutherland, for example,
 followed up himself to be sure that the rights had been cleared.
@@ -5238,7 +5248,6 @@ career.
 It was one <emphasis>year</emphasis> later&mdash;<quote>and even then we
 weren't sure whether we were totally in the clear.</quote>
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Alben is proud of his work. The project was the first of its kind and
 the only time he knew of that a team had undertaken such a massive
@@ -5261,7 +5270,6 @@ systematically and cleared the rights.
 And no doubt, the product itself was exceptionally good. Eastwood
 loved it, and it sold very well.
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <indexterm><primary>Drucker, Peter</primary></indexterm>
 <para>
 But I pressed Alben about how weird it seems that it would have to
@@ -5324,7 +5332,6 @@ to cost me, and a certain number of people are going to hold me up for
 money,</quote> then it becomes difficult to put one of these things together.
 </para>
 </blockquote>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 Alben worked for a big company. His company was backed by some of the
 richest investors in the world. He therefore had authority and access
@@ -5342,6 +5349,7 @@ change, they make no sense at all. Or at least, a well-trained,
 regulationminimizing Republican should look at the rights and ask,
 <quote>Does this still make sense?</quote>
 </para>
+<indexterm startref='idxalbenalex1' class='endofrange'/>
 <para>
 I've seen the flash of recognition when people get this point, but only
 a few times. The first was at a conference of federal judges in California.
@@ -5368,6 +5376,7 @@ began his talk with a question: <quote>Do you know how many federal laws
 were just violated in this room?</quote>
 </para>
 <indexterm><primary>Boies, David</primary></indexterm>
+<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 For of course, the two brilliantly talented creators who made this
 film hadn't done what Alben did. They hadn't spent a year clearing the
@@ -9750,8 +9759,10 @@ Why? What justifies this difference? Was there any study of the
 economic consequences from Internet radio that would justify these
 differences? Was the motive to protect artists against piracy?
 </para>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <indexterm><primary>Real Networks</primary></indexterm>
+<indexterm id='idxalbenalex2' class='startofrange'>
+  <primary>Alben, Alex</primary>
+</indexterm>
 <para>
 In a rare bit of candor, one RIAA expert admitted what seemed obvious
 to everyone at the time. As Alex Alben, vice president for Public
@@ -9781,6 +9792,7 @@ high rate and it's a stable, predictable market</emphasis>.</quote> (Emphasis
 added.)
 </para>
 </blockquote>
+<indexterm startref='idxalbenalex2' class='endofrange'/>
 <para>
 Translation: The aim is to use the law to eliminate competition, so
 that this platform of potentially immense competition, which would
@@ -13915,6 +13927,11 @@ a more generous copyright law than Richard Nixon presided over?
 </section>
 <section id="freefairuse">
 <title>3. Free Use Vs. Fair Use</title>
+<indexterm><primary>land ownership, air traffic and</primary></indexterm>
+<indexterm>
+  <primary>property rights</primary>
+  <secondary>air traffic vs.</secondary>
+</indexterm>
 <para>
 As I observed at the beginning of this book, property law originally
 granted property owners the right to control their property from the
@@ -13988,6 +14005,7 @@ technologies enable; now imagine pouring molasses into the
 machines. That's what this general requirement of permission does to
 the creative process. Smothers it.
 </para>
+<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
 This was the point that Alben made when describing the making of the
 Clint Eastwood CD. While it makes sense to require negotiation for
