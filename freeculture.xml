@@ -5665,6 +5665,11 @@ their coverage during the week of September 11 available free on-line.
 Anyone could see how news reports from around the world covered the
 events of that day.
 </para>
+<indexterm><primary>Movie Archive</primary></indexterm>
+<indexterm>
+  <primary>archive.org</primary>
+  <seealso>Internet Archive</seealso>
+</indexterm>
 <para>
 Kahle had the same idea with film. Working with Rick Prelinger, whose
 archive of film includes close to 45,000 <quote>ephemeral films</quote> (meaning
@@ -5682,7 +5687,6 @@ part of our culture.  Want to see a copy of the <quote>Duck and Cover</quote> fi
 that instructed children how to save themselves in the middle of
 nuclear attack? Go to archive.org, and you can download the film in a
 few minutes&mdash;for free.
-<indexterm><primary>Movie Archive</primary></indexterm>
 </para>
 <para>
 Here again, Kahle is providing access to a part of our culture that we
@@ -6080,6 +6084,7 @@ could easily be more harsh than many of the punishments imposed by the
 state. The mark of the difference is not the severity of the rule, but
 the source of the enforcement.
 </para>
+<indexterm><primary>market constraints</primary></indexterm>
 <para>
 The market is a third type of constraint. Its constraint is effected
 through conditions: You can do X if you pay Y; you'll be paid M if you
@@ -6090,6 +6095,7 @@ sold. But given a set of norms, and a background of property and
 contract law, the market imposes a simultaneous constraint upon how an
 individual or group might behave.
 </para>
+<indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <para>
 Finally, and for the moment, perhaps, most mysteriously,
 <quote>architecture</quote>&mdash;the physical world as one finds it&mdash;is a
@@ -6125,6 +6131,8 @@ must consider how these four in particular interact.
 <indexterm id="idxdrivespeed" class='startofrange'>
   <primary>driving speed, constraints on</primary>
 </indexterm>
+<indexterm><primary>architecture, constraint effected through</primary></indexterm>
+<indexterm><primary>market constraints</primary></indexterm>
 <para>
 So, for example, consider the <quote>freedom</quote> to drive a car at a high
 speed. That freedom is in part restricted by laws: speed limits that
@@ -6171,6 +6179,7 @@ driving.
 <title>Law has a special role in affecting the three.</title>
 <graphic fileref="images/1361.png"></graphic>
 </figure>
+<indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <para>
 These constraints can thus change, and they can be changed. To
 understand the effective protection of liberty or protection of
@@ -6211,6 +6220,8 @@ those interventions should be accounted for in order to understand the
 effective liberty that each of these groups might face.
 <indexterm><primary>Americans with Disabilities Act (1990)</primary></indexterm>
 <indexterm><primary>Commons, John R.</primary></indexterm>
+<indexterm><primary>architecture, constraint effected through</primary></indexterm>
+<indexterm><primary>market constraints</primary></indexterm>
 </para></footnote>
 </para>
 <section id="hollywood">
@@ -6242,6 +6253,7 @@ uses of copyrighted material may well be infringement, but the norms
 of our society (before the Internet, at least) had no problem with
 this form of infringement.
 </para>
+<indexterm><primary>market constraints</primary></indexterm>
 <para>
 Enter the Internet, or, more precisely, technologies such as MP3s and
 p2p sharing. Now the constraint of architecture changes dramatically,
@@ -9158,6 +9170,7 @@ other aspect by substituting <quote>free market</quote> every place I've spoken 
 <quote>free culture.</quote>  The point is the same, even if the interests
 affecting culture are more fundamental.
 </para>
+<indexterm><primary>market constraints</primary></indexterm>
 <para>
 The charge I've been making about the regulation of culture is the
 same charge free marketers make about regulating markets. Everyone, of
@@ -9355,6 +9368,7 @@ innovation. If innovation is constantly checked by this uncertain and
 unlimited liability, we will have much less vibrant innovation and
 much less creativity.
 </para>
+<indexterm><primary>market constraints</primary></indexterm>
 <para>
 The point is directly parallel to the crunchy-lefty point about fair
 use. Whatever the <quote>real</quote> law is, realism about the effect of law in
