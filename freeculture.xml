@@ -623,6 +623,9 @@ allowed to defeat an obvious public gain.
 <indexterm startref='idxproprigtair' class='endofrange'/>
 <indexterm startref='idxlandownership' class='endofrange'/>
 <indexterm startref='idxairtraffic' class='endofrange'/>
+<indexterm id='idxarmstrongedwin' class='startofrange'>
+  <primary>Armstrong, Edwin Howard</primary>
+</indexterm>
 <para>
 <emphasis role='strong'>Edwin Howard Armstrong</emphasis> is one of America's forgotten inventor
 geniuses. He came to the great American inventor scene just after the
@@ -772,6 +775,7 @@ would not even cover Armstrong's lawyers' fees. Defeated, broken, and
 now broke, in 1954 Armstrong wrote a short note to his wife and then
 stepped out of a thirteenth-story window to his death.
 </para>
+<indexterm startref='idxarmstrongedwin' class='endofrange'/>
 <para>
 This is how the law sometimes works. Not often this tragically, and
 rarely with heroic drama, but sometimes, this is how it works. From
@@ -2467,6 +2471,7 @@ request. Last year Steve Olafson, a <citetitle>Houston Chronicle</citetitle> rep
 fired for keeping a personal Web log, published under a pseudonym,
 that dealt with some of the issues and people he was covering.</quote>)
 <indexterm><primary>CNN</primary></indexterm>
+<indexterm><primary>Olafson, Steve</primary></indexterm>
 </para></footnote>
 But it is clear that we are still in transition. <quote>A
 
@@ -2770,6 +2775,7 @@ demanded to know how much money Jesse had. Jesse had saved
 $12,000 from summer jobs and other employment. They demanded
 $12,000 to dismiss the case.
 </para>
+<indexterm><primary>Oppenheimer, Matt</primary></indexterm>
 <para>
 The RIAA wanted Jesse to admit to doing something wrong. He
 refused. They wanted him to agree to an injunction that would
@@ -5504,6 +5510,9 @@ the world. Using a technology called <quote>the Way Back Machine,</quote> you co
 enter a Web page, and see all of its copies going back to 1996, as
 well as when those pages changed.
 </para>
+<indexterm id='idxorwellgeorge' class='startofrange'>
+  <primary>Orwell, George</primary>
+</indexterm>
 <para>
 This is the thing about the Internet that Orwell would have
 appreciated.  In the dystopia described in <citetitle>1984</citetitle>, old newspapers were
@@ -5524,6 +5533,7 @@ the same as the content you read before. The page may seem the same,
 but the content could easily be different. The Internet is Orwell's
 library&mdash;constantly updated, without any reliable memory.
 </para>
+<indexterm startref='idxorwellgeorge' class='endofrange'/>
 <para>
 Until the Way Back Machine, at least. With the Way Back Machine, and
 the Internet Archive underlying it, you can see what the Internet
@@ -6073,6 +6083,7 @@ with a $150,000 fine. The fine is an ex post punishment for violating
 an ex ante rule. It is imposed by the state.
 <indexterm><primary>Madonna</primary></indexterm>
 </para>
+<indexterm><primary>norms, regulatory influence of</primary></indexterm>
 <para>
 Norms are a different kind of constraint. They, too, punish an
 individual for violating a rule. But the punishment of a norm is
@@ -6133,6 +6144,7 @@ must consider how these four in particular interact.
 </indexterm>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>market constraints</primary></indexterm>
+<indexterm><primary>norms, regulatory influence of</primary></indexterm>
 <para>
 So, for example, consider the <quote>freedom</quote> to drive a car at a high
 speed. That freedom is in part restricted by laws: speed limits that
@@ -6240,6 +6252,8 @@ Internet:
 <title>Copyright's regulation before the Internet.</title>
 <graphic fileref="images/1331.png"></graphic>
 </figure>
+<indexterm><primary>market constraints</primary></indexterm>
+<indexterm><primary>norms, regulatory influence of</primary></indexterm>
 <para>
 <!-- PAGE BREAK 136 -->
 There is balance between law, norms, market, and architecture. The law
@@ -6253,7 +6267,6 @@ uses of copyrighted material may well be infringement, but the norms
 of our society (before the Internet, at least) had no problem with
 this form of infringement.
 </para>
-<indexterm><primary>market constraints</primary></indexterm>
 <para>
 Enter the Internet, or, more precisely, technologies such as MP3s and
 p2p sharing. Now the constraint of architecture changes dramatically,
@@ -8941,6 +8954,7 @@ the side of the Causbys and the content industry. The extreme claims
 of control in the name of property still resonate; the uncritical
 rejection of <quote>piracy</quote> still has play.
 </para>
+<indexterm><primary>Armstrong, Edwin Howard</primary></indexterm>
 <para>
 <!-- PAGE BREAK 193 -->
 There will be many consequences of continuing this war. I want to
@@ -9039,6 +9053,7 @@ the maximum fine for downloading two songs off the Internet is more
 than the fine for a doctor's negligently butchering a patient?
 <indexterm><primary>Worldcom</primary></indexterm>
 </para>
+<indexterm><primary>art, underground</primary></indexterm>
 <para>
 The consequence of this legal uncertainty, tied to these extremely
 high penalties, is that an extraordinary amount of creativity will
@@ -9580,6 +9595,7 @@ easily develop and market their content to a relatively large number
 of users worldwide. According to some estimates, more than eighty
 million users worldwide have tuned in to this new form of radio.
 </para>
+<indexterm><primary>Armstrong, Edwin Howard</primary></indexterm>
 <para>
 
 <!-- PAGE BREAK 205 -->
@@ -11407,6 +11423,7 @@ Between February and October, there was little I did beyond preparing
 for this case. Early on, as I said, I set the strategy.
 </para>
 <indexterm><primary>Rehnquist, William H.</primary></indexterm>
+<indexterm><primary>O'Connor, Sandra Day</primary></indexterm>
 <para>
 The Supreme Court was divided into two important camps. One camp we
 called <quote>the Conservatives.</quote> The other we called <quote>the Rest.</quote>  The
@@ -11584,6 +11601,7 @@ where I intended to stay: on the question of the limits on Congress's
 power. This was a case about enumerated powers, I said, and whether
 those enumerated powers had any limit.
 </para>
+<indexterm><primary>O'Connor, Sandra Day</primary></indexterm>
 <para>
 Justice O'Connor stopped me within one minute of my opening.
 The history was bothering her.
@@ -11671,6 +11689,7 @@ Amendment analysis or under a proper reading of the limits built
 into the Copyright Clause.
 </para>
 </blockquote>
+<indexterm><primary>Olson, Theodore B.</primary></indexterm>
 <para>
 Things went better for us when the government gave its argument;
 for now the Court picked up on the core of our claim. As Justice Scalia
@@ -11818,6 +11837,7 @@ Defeat brings depression. They say it is a sign of health when
 depression gives way to anger. My anger came quickly, but it didn't cure
 the depression. This anger was of two sorts.
 </para>
+<indexterm><primary>originalism</primary></indexterm>
 <para>
 It was first anger with the five <quote>Conservatives.</quote> It would have been
 one thing for them to have explained why the principle of <citetitle>Lopez</citetitle> didn't
