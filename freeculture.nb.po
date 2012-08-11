@@ -5524,7 +5524,6 @@ msgstr ""
 
 #.  PAGE BREAK 70
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The law soon resolved this battle in favor of the composer <emphasis>and</"
 "emphasis> the recording artist. Congress amended the law to make sure that "
@@ -5537,19 +5536,20 @@ msgid ""
 "his song, others are free to record the same song, so long as they pay the "
 "original composer a fee set by the law."
 msgstr ""
-"loven løst snart denne kampen til fordel for komponisten og opptak "
-"kunstneren. kongressen endret loven å sørge for at komponister ville bli "
-"betalt for \"mekaniske reproduksjoner\" av musikken deres. men i stedet for "
-"å bare gi komponisten full kontroll over høyre for å gjøre mekanisk "
-"reproduksjoner, Kongressen ga artister rett til å spille inn musikk, til en "
-"pris som er fastsatt av Kongressen, når komponisten tillater det å "
-"registreres én gang. Dette er delen av lov om opphavsrett som gjør dekke "
-"sanger mulig. Når en komponist autoriserer en innspilling av sangen, er "
-"andre gratis å registrere samme sang, så lenge de betaler den opprinnelige "
-"komponisten et gebyr som er angitt av loven."
+"Loven løste snart denne kampen i favør av <emphasis>både</emphasis> "
+"komponisten og innspillingsartisten.  Kongressen endret loven slik at "
+"komponisten fikk betalt for den <quote>mekaniske "
+"reproduksjonen</quote> av deres musikk.  Men i stedet for å ganske "
+"enkelt gi komponisten full kontroll over rettigheten til å lage "
+"mekaniske reproduksjoner, ga kongressen innspillingsartister rett en "
+"til å spille inn musikk, til en pris satt av kongressen, så snart "
+"komponisten har tillatt at den ble spilt inn en gang.  Det er denne "
+"delen av opphavsrettsloven som gjør cover-låter mulig.  Så snart en "
+"komponist tillater en innspilling av hans sang, har andre mulighet til "
+"å spille inn samme sang, så lenge de betaler den originale komponisten "
+"et gebyr fastsatt av loven."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "American law ordinarily calls this a <quote>compulsory license,</quote> but "
 "I will refer to it as a <quote>statutory license.</quote> A statutory "
@@ -5558,19 +5558,19 @@ msgid ""
 "distribute copies of recordings so long as they paid the composer (or "
 "copyright holder)  the fee set by the statute."
 msgstr ""
-"amerikansk lov vanligvis kaller dette en \"tvangslisens\", men jeg vil se "
-"det som en \"lovbestemte lisens.\" en lovbestemte lisens er en lisens som "
-"hovedtermene angis av loven. etter congress's endring av copyright act i "
-"1909 var plateselskaper fri til å distribuere kopier av opptakene så lenge "
-"de betalte komponist (eller opphavsrettsinnehaver) gebyr som er angitt av "
-"Vedtektene."
+"Amerikansk lov kaller dette vanligvis en <quote>tvangslisens</quote>, "
+"men jeg vil referere til dette som en <quote>lovbestemt "
+"lisens</quote>.  En lovbestemt lisens er en lisens hvis nøkkelvilkår "
+"er bestemt i lovverket.  Etter kongressens endring av "
+"opphavsrettsloven i 1909, sto plateselskapene fritt til å distribuere "
+"kopier av innspillinger så lenge som de betalte komponisten (eller "
+"opphavsrettsinnehaveren) gebyret spesifisert i lovverket."
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "Grisham, John"
 msgstr "Grisham, John"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This is an exception within the law of copyright. When John Grisham writes a "
 "novel, a publisher is free to publish that novel only if Grisham gives the "
@@ -5580,12 +5580,13 @@ msgid ""
 "work except with permission of Grisham.  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Dette er et unntak i henhold til loven om opphavsrett. Når john grisham "
-"skriver en roman, er en utgiver gratis å publisere denne romanen bare hvis "
-"grisham gir publisher-tillatelse. Grisham, i sin tur er gratis å belaste det "
-"han ønsker for denne tillatelsen. prisen til å publisere grisham dermed er "
-"satt av grisham og lov om opphavsrett sier vanligvis du har ikke tillatelse "
-"til å bruke grisham's arbeide bortsett med tillatelse fra grisham."
+"Dette er et unntak i opphavsrettsloven.  Når John Grisham skriver en "
+"roman så kan en utgiver kun utgi denne romanen hvis Grisham gir "
+"utgiveren tillatelse til det.  Girsham står fritt til å kreve hvilken "
+"som helst betaling for den tillatelsen.  Prisen for å publisere "
+"Grisham er dermed bestemt av Grisham og opphavsrettsloven sier at du "
+"ikke har tillatelse til å bruke Grishams verker med mindre du har "
+"tillatelse fra Grisham.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  f10
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -5621,15 +5622,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "While the recording industry has been quite coy about this recently, "
 "historically it has been quite a supporter of the statutory license for "
 "records. As a 1967 report from the House Committee on the Judiciary relates,"
 msgstr ""
-"mens musikkindustrien har vært ganske sjenert om dette nylig, historisk har "
-"det vært ganske en tilhenger av lovbestemte lisensen for poster. som en 1967 "
-"relaterer rapport fra house committee på rettsvesenet,"
+"Mens musikkindustrien har vært ganske stille om dette i det siste, har "
+"de historisk vært høylytte tilhengere av den lovbestemte lisensen for "
+"innspillinger.  Som det sto i en rapport fra 1967 utgitt av House "
+"Committee on the Judiciary:"
 
 #.  f11
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
