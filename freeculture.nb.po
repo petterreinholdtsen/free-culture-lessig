@@ -24570,7 +24570,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para><indexterm><primary>
 msgid "veterans' pensions"
-msgstr ""
+msgstr "veteranpensjoner"
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
 msgid ""
