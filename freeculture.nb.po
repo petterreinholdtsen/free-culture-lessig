@@ -9515,14 +9515,6 @@ msgid "Nimmer, David"
 msgstr "Nimmer, David"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "When the lights came up, I looked over to my copanelist, David Nimmer, "
-#| "perhaps the leading copyright scholar and practitioner in the nation. He "
-#| "had an astonished look on his face, as he peered across the room of over "
-#| "250 well-entertained judges. Taking an ominous tone, he began his talk "
-#| "with a question: \"Do you know how many federal laws were just violated "
-#| "in this room?\""
 msgid ""
 "When the lights came up, I looked over to my copanelist, David Nimmer, "
 "perhaps the leading copyright scholar and practitioner in the nation. He had "
@@ -9535,8 +9527,8 @@ msgstr ""
 "kanskje den ledende opphavsrettakademiker og utøver i nasjonen. Han hadde en "
 "forbauset uttrykk i ansiktet sitt, mens han tittet ut over rommet med over "
 "250 godt underholdte dommere. Med en en illevarslende tone, begynte han sin "
-"tale med et spørsmål: \"Vet dere hvor mange føderale lover som nettopp brutt "
-"i dette rommet?\""
+"tale med et spørsmål: <quote>Vet dere hvor mange føderale lover som nettopp brutt "
+"i dette rommet?</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Boies, David"
@@ -11481,18 +11473,13 @@ msgstr ""
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See, for example, James Boyle, \"A Politics of Intellectual Property: "
-#| "Environmentalism for the Net?\" <citetitle>Duke Law Journal</citetitle> "
-#| "47 (1997): 87."
 msgid ""
 "See, for example, James Boyle, <quote>A Politics of Intellectual Property: "
 "Environmentalism for the Net?</quote> <citetitle>Duke Law Journal</"
 "citetitle> 47 (1997): 87."
 msgstr ""
-"Se for eksempel James Boyle, \"A Politics of Intellectual Property: "
-"Environmentalism for the Net?\" <citetitle>Duke Law Journal</citetitle> 47 "
+"Se for eksempel James Boyle, <quote>A Politics of Intellectual Property: "
+"Environmentalism for the Net?</quote> <citetitle>Duke Law Journal</citetitle> 47 "
 "(1997): 87."
 
 #.  PAGE BREAK 141
@@ -12261,19 +12248,13 @@ msgstr ""
 "endringer, så vel som ordrett opprinnelige arbeidet."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Jonathan Zittrain, \"The Copyright Cage,\" <citetitle>Legal Affairs</"
-#| "citetitle>, July/August 2003, available at <ulink url=\"http://free-"
-#| "culture.cc/notes/\">link #26</ulink>.  <placeholder type=\"indexterm\" id="
-#| "\"0\"/>"
 msgid ""
 "Jonathan Zittrain, <quote>The Copyright Cage,</quote> <citetitle>Legal "
 "Affairs</citetitle>, July/August 2003, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #26</ulink>.  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Jonathan Zittrain, \"The Copyright Cage,\" <citetitle>Legal Affairs</"
+"Jonathan Zittrain, <quote>The Copyright Cage</quote>, <citetitle>Legal Affairs</"
 "citetitle>, julu/august 2003,tilgjengelig fra <ulink url=\"http://free-"
 "culture.cc/notes/\">link #26</ulink>.  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
@@ -12500,16 +12481,12 @@ msgstr ""
 "diagrammet på neste side)."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "Finally, there is a tiny sliver of otherwise regulated copying uses that "
-#| "remain unregulated because the law considers these \"fair uses.\""
 msgid ""
 "Finally, there is a tiny sliver of otherwise regulated copying uses that "
 "remain unregulated because the law considers these <quote>fair uses.</quote>"
 msgstr ""
 "Til slutt er det en tynn skive av ellers regulert kopierings-bruk som "
-"forblir uregluert på grunn av at loven anser dette som \"rimelig bruk\"."
+"forblir uregluert på grunn av at loven anser dette som <quote>rimelig bruk</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid ""
@@ -12543,10 +12520,8 @@ msgstr ""
 "grunner."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "Unregulated copying considered &quot;fair uses.&quot;"
 msgid "Unregulated copying considered <quote>fair uses.</quote>"
-msgstr "Uregulert kopiering anses som &quot;rimelig bruk&quot;."
+msgstr "Uregulert kopiering anses som <quote>rimelig bruk</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1542.png\"></graphic>"
@@ -12960,15 +12935,11 @@ msgstr ""
 
 #.  f19
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "See David Lange, \"Recognizing the Public Domain,\" <citetitle>Law and "
-#| "Contemporary Problems</citetitle> 44 (1981): 172&ndash;73."
 msgid ""
 "See David Lange, <quote>Recognizing the Public Domain,</quote> "
 "<citetitle>Law and Contemporary Problems</citetitle> 44 (1981): 172&ndash;73."
 msgstr ""
-"Se David Lange, \"Recognizing the Public Domain,\" <citetitle>Law and "
+"Se David Lange, <quote>Recognizing the Public Domain</quote>, <citetitle>Law and "
 "Contemporary Problems</citetitle> 44 (1981): 172&ndash;73."
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -12995,15 +12966,6 @@ msgstr ""
 "citetitle>, 1&ndash;3.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "This led the Marx Brothers to respond in kind. They warned Warner "
-#| "Brothers that the Marx Brothers \"were brothers long before you were."
-#| "\"<placeholder type=\"footnote\" id=\"0\"/> The Marx Brothers therefore "
-#| "owned the word <citetitle>brothers</citetitle>, and if Warner Brothers "
-#| "insisted on trying to control <citetitle>Casablanca</citetitle>, then the "
-#| "Marx Brothers would insist on control over <citetitle>brothers</"
-#| "citetitle>."
 msgid ""
 "This led the Marx Brothers to respond in kind. They warned Warner Brothers "
 "that the Marx Brothers <quote>were brothers long before you were.</"
@@ -13013,7 +12975,7 @@ msgid ""
 "Marx Brothers would insist on control over <citetitle>brothers</citetitle>."
 msgstr ""
 "Dette fikk Marx-brødrene til å svare tilbake med samme mynt.  De advarte "
-"Warner Brothers om at Marx-brødrene \"var brødre lenge før dere var det\"."
+"Warner Brothers om at Marx-brødrene <quote>var brødre lenge før dere var det</quote>."
 "<placeholder type=\"footnote\" id=\"0\"/> Marx-brødrene eide derfor ordet "
 "<citetitle>Brothers</citetitle>, og hvis Warner Brothers insisterte på å "
 "forsøke å kontrollere <citetitle>Casablanca</citetitle>, så ville Marx-"
@@ -13162,8 +13124,6 @@ msgstr ""
 "id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "E-book of Aristotle;s &quot;Politics&quot;"
 msgid "E-book of Aristotle;s <quote>Politics</quote>"
 msgstr "E-bok av Aristoteles <quote>Politikk</quote>"
 
@@ -13181,8 +13141,6 @@ msgstr ""
 "hele tatt. men heldigvis kan du bruke lese høyt knappen for å høre boken."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
 msgid "List of the permissions for Aristotle;s <quote>Politics</quote>."
 msgstr "Liste med tillatelser for Aristotles &quot;Politikk&quot;."
 
@@ -13200,10 +13158,8 @@ msgstr ""
 "opprinnelige e-bok-versjonen av boken min siste, fremtiden for idéer:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
 msgid "List of the permissions for <quote>The Future of Ideas</quote>."
-msgstr "Liste med tillatelser for Aristotles &quot;Politikk&quot;."
+msgstr "Liste med tillatelser for <quote>The Future of Ideas</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1631.png\"></graphic>"
@@ -13353,11 +13309,9 @@ msgstr ""
 "du klikket på tillatelser for boken, fikk du det fulgte rapporten:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
-#| msgid "List of the permissions for Aristotle;s &quot;Politics&quot;."
 msgid ""
 "List of the permissions for <quote>Alice's Adventures in Wonderland</quote>."
-msgstr "Liste med tillatelser for Aristotles &quot;Politikk&quot;."
+msgstr "Liste med tillatelser for <quote>Alice i Eventyrland</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1641.png\"></graphic>"
@@ -14338,17 +14292,12 @@ msgstr ""
 "artikkel om rupert murdoch,"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "James Fallows, \"The Age of Murdoch,\" <citetitle>Atlantic Monthly</"
-#| "citetitle> (September 2003): 89.  <placeholder type=\"indexterm\" id="
-#| "\"0\"/>"
 msgid ""
 "James Fallows, <quote>The Age of Murdoch,</quote> <citetitle>Atlantic "
 "Monthly</citetitle> (September 2003): 89.  <placeholder type=\"indexterm\" "
 "id=\"0\"/>"
 msgstr ""
-"James Fallows, \"The Age of Murdoch,\" <citetitle>Atlantic Monthly</"
+"James Fallows, <quote>The Age of Murdoch</quote>, <citetitle>Atlantic Monthly</"
 "citetitle> (September 2003): 89.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
@@ -14545,18 +14494,12 @@ msgstr ""
 
 #.  f32
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "\"Barry Diller Takes on Media Deregulation,\" <citetitle>Now with Bill "
-#| "Moyers</citetitle>, Bill Moyers, 25 April 2003, edited transcript "
-#| "available at <ulink url=\"http://free-culture.cc/notes/\">link #31</"
-#| "ulink>."
 msgid ""
 "<quote>Barry Diller Takes on Media Deregulation,</quote> <citetitle>Now with "
 "Bill Moyers</citetitle>, Bill Moyers, 25 April 2003, edited transcript "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #31</ulink>."
 msgstr ""
-"\"Barry Diller Takes on Media Deregulation,\" <citetitle>Now with Bill "
+"<quote>Barry Diller Takes on Media Deregulation</quote>, <citetitle>Now with Bill "
 "Moyers</citetitle>, Bill Moyers, 25 April 2003, redigert avskrift "
 "tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #31</"
 "ulink>."
@@ -14966,17 +14909,12 @@ msgstr ""
 "enn nå."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Siva Vaidhyanathan captures a similar point in his \"four surrenders\" of "
-#| "copyright law in the digital age. See Vaidhyanathan, 159&ndash;60.  "
-#| "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgid ""
 "Siva Vaidhyanathan captures a similar point in his <quote>four surrenders</"
 "quote> of copyright law in the digital age. See Vaidhyanathan, "
 "159&ndash;60.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Siva Vaidhyanathan fanger et lignende poeng i hans \"fire kapitulasjoner\" "
+"Siva Vaidhyanathan fanger et lignende poeng i hans <quote>fire kapitulasjoner</quote> "
 "for opphavsrettsloven i den digitale tidsalder. Se Vaidhyanathan, "
 "159&ndash;60.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
@@ -15274,17 +15212,12 @@ msgstr ""
 
 #.  f1.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "H. G. Wells, \"The Country of the Blind\" (1904, 1911). See H. G. Wells, "
-#| "<citetitle>The Country of the Blind and Other Stories</citetitle>, "
-#| "Michael Sherborne, ed. (New York: Oxford University Press, 1996)."
 msgid ""
 "H. G. Wells, <quote>The Country of the Blind</quote> (1904, 1911). See H. G. "
 "Wells, <citetitle>The Country of the Blind and Other Stories</citetitle>, "
 "Michael Sherborne, ed. (New York: Oxford University Press, 1996)."
 msgstr ""
-"H. G. Wells, \"The Country of the Blind\" (1904, 1911). Se H. G. Wells, "
+"H. G. Wells, <quote>The Country of the Blind</quote> (1904, 1911). Se H. G. Wells, "
 "<citetitle>The Country of the Blind and Other Stories</citetitle>, Michael "
 "Sherborne, ed. (New York: Oxford University Press, 1996)."
 
