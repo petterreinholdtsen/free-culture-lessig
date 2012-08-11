@@ -4905,7 +4905,7 @@ msgid ""
 "watched the news reports about them, he was increasingly astonished."
 msgstr ""
 "Den 3. april 2003 ble Jesse kontaktet av lederen for studentkontoret ved "
-"RPI.  Lederen fortalte Jesse at Foreningen for innspillingsindustri i USA, "
+"RPI.  Lederen fortalte Jesse at Foreningen for musikkindustri i USA, "
 "RIAA, wille levere inn et søksmål mot han og tre andre studenter som han "
 "ikke en gang kjente, to av dem på andre undersiteter.  Noen få timer senere "
 "ble Jesse forkynt søksmålet og fikk overlevert dokumentene.  Mens han leste "
@@ -5063,7 +5063,7 @@ msgstr "artister"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "recording industry payments to"
-msgstr "innspillingsindustriens betaling til"
+msgstr "musikkindustriens betaling til"
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5097,7 +5097,7 @@ msgid ""
 "and direct policy. So where is the morality in taking money from a student "
 "for running a search engine?<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
-"Innspillingsindustrien insisterer at dette er et spørsmål om lov og moral.  "
+"Musikkindustrien insisterer at dette er et spørsmål om lov og moral.  "
 "La oss legge loven til side for et øyeblikk og tenke på moralen.  Hvor er "
 "moralen i et søksmål som dette?  Hva er dyden i å skape offerlam.  RIAA er "
 "en spesielt mektig lobby.  Presidenten i RIAA tjener i følge rapporter mer "
@@ -5323,7 +5323,7 @@ msgid ""
 "The record industry was born of another kind of piracy, though to see how "
 "requires a bit of detail about the way the law regulates music."
 msgstr ""
-"Plateindustrien ble født av en annen type piratvirksomhet, dog for å forstå "
+"Musikkindustrien ble født av en annen type piratvirksomhet, dog for å forstå "
 "hvordan krever at en setter seg inn i detaljer om hvordan loven regulerer "
 "musikk."
 
@@ -5662,13 +5662,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "By limiting the rights musicians have, by partially pirating their creative "
 "work, the record producers, and the public, benefit."
 msgstr ""
-"ved å begrense fordel rettighetene musikere har, ved delvis pirating sine "
-"skapende arbeid, registrere produsentene og offentligheten."
+"Ved å begrense rettighetene musikere hadde, ved å delvis røve deres "
+"kreative verk, fikk innspillingsprodusentene, og folket, fordeler."
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Radio"
@@ -5796,7 +5795,6 @@ msgstr ""
 "betale henne noen ting."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "No doubt, one might argue that, on balance, the recording artists benefit. "
 "On average, the promotion they get is worth more than the performance rights "
@@ -5804,11 +5802,12 @@ msgid ""
 "the right to make this choice. By making the choice for him or her, the law "
 "gives the radio station the right to take something for nothing."
 msgstr ""
-"ingen tvil, kan man argumentere at, på saldo, artistene nytte. i "
-"gjennomsnitt er kampanjen de får verdt mer enn ytelse rettigheter de gir "
-"opp. kanskje. men selv om så, loven vanligvis gir skaperen retten til å "
-"gjøre dette valget. ved å gjøre valg for ham eller henne, gir loven "
-"radiostasjonen retten til å ta noe for ingenting."
+"Uten tvil kan en argumentere at, totalt sett, tjener "
+"innspillingsartistene på dette.  I snitt er reklamen de får verdt mer "
+"enn enn fremføringsrettighetene de frasier seg.  Kanskje.  Men selv om "
+"det er slik, så gir loven vanligvis skaperen retten til å gjøre dette "
+"valget.  Ved å gjøre valgen for ham eller henne, gir loven "
+"radiostasjonen rett til å ta noe uten å betale."
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
