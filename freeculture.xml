@@ -5493,6 +5493,9 @@ curse, reserved for the few.
 </chapter>
 <chapter label="9" id="collectors">
 <title>CHAPTER NINE: Collectors</title>
+<indexterm id='idxarchivesdigital1' class='startofrange'>
+  <primary>archives, digital</primary>
+</indexterm>
 <para>
 In April 1996, millions of <quote>bots</quote>&mdash;computer codes designed to
 <quote>spider,</quote> or automatically search the Internet and copy content&mdash;began
@@ -5827,6 +5830,7 @@ the <quote>content</quote> that is collected in these digital spaces is also
 someone's <quote>property.</quote> And the law of property restricts the freedoms
 that Kahle and others would exercise.
 </para>
+<indexterm startref='idxarchivesdigital1' class='endofrange'/>
 <!-- PAGE BREAK 127 -->
 </chapter>
 <chapter label="10" id="property-i">
@@ -8605,6 +8609,7 @@ build upon or transform a creative work. American culture was born
 free, and for almost 180 years our country consistently protected a
 vibrant and rich free culture.
 </para>
+<indexterm><primary>archives, digital</primary></indexterm>
 <para>
 We achieved that free culture because our law respected important
 limits on the scope of the interests protected by <quote>property.</quote> The very
@@ -10795,6 +10800,7 @@ wanted to make available to the world in your iArchive project the
 		remaining
 9,873. What would you have to do?
 </para>
+<indexterm><primary>archives, digital</primary></indexterm>
 <para>
 Well, first, you'd have to determine which of the 9,873 books were
 still under copyright. That requires going to a library (these data are
@@ -11043,6 +11049,9 @@ would not have interfered with anything.
 <para>
 But this situation has now changed.
 </para>
+<indexterm id='idxarchivesdigital2' class='startofrange'>
+  <primary>archives, digital</primary>
+</indexterm>
 <para>
 One crucially important consequence of the emergence of digital
 technologies is to enable the archive that Brewster Kahle dreams of.
@@ -11094,6 +11103,7 @@ role is to archive culture, whether there's a demand for any
 particular bit of that culture or not&mdash;then we can't count on the
 commercial market to do our library work for us.
 </para>
+<indexterm startref='idxarchivesdigital2' class='endofrange'/>
 <para>
 I would be the first to agree that it should do as much as it can: We
 should rely upon the market as much as possible to spread and enable
