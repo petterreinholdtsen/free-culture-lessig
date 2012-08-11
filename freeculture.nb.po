@@ -6821,17 +6821,12 @@ msgid "Black, Jane"
 msgstr "Black, Jane"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
-#| msgid ""
-#| "Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13 "
-#| "February 2003, available at <ulink url=\"http://free-culture.cc/notes/"
-#| "\">link #17</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgid ""
 "Jane Black, <quote>Big Music's Broken Record,</quote> BusinessWeek online, "
 "13 February 2003, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #17</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Jane Black, \"Big Music's Broken Record,\" BusinessWeek online, 13. februar "
+"Jane Black, <quote>Big Music's Broken Record</quote>, BusinessWeek online, 13. februar "
 "2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
 "#17</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
@@ -7093,16 +7088,12 @@ msgstr ""
 "denne balansen blir funnet bare med tid."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "\"But isn't the war just a war against illegal sharing? Isn't the target "
-#| "just what you call type A sharing?\""
 msgid ""
 "<quote>But isn't the war just a war against illegal sharing? Isn't the "
 "target just what you call type A sharing?</quote>"
 msgstr ""
-"Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke angrepsmålet "
-"bare det du kaller type A-deling?"
+"<quote>Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke angrepsmålet "
+"bare det du kaller type-A-deling?</quote>"
 
 #.  f17
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7435,10 +7426,8 @@ msgid "CASE"
 msgstr "Tilfelle"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
-#, fuzzy
-#| msgid "WHOSE VALUE WAS \"PIRATED\""
 msgid "WHOSE VALUE WAS <quote>PIRATED</quote>"
-msgstr "Hvems verdi ble \"røvet\""
+msgstr "Hvems verdi ble <quote>røvet</quote>"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "RESPONSE OF THE COURTS"
@@ -7651,17 +7640,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
-#| msgid ""
-#| "\"It is <emphasis>our property</emphasis>,\" the warriors insist. \"And "
-#| "it should be protected just as any other property is protected.\""
 msgid ""
 "<quote>It is <emphasis>our property</emphasis>,</quote> the warriors insist. "
 "<quote>And it should be protected just as any other property is protected.</"
 "quote>"
 msgstr ""
-"\"Det er <emphasis>vår eiendom</emphasis>,\" insisterer krigerne. \"og den "
-"bør være beskyttet på samme måte som all annen eiendom er beskyttet.\""
+"<quote>Det er <emphasis>vår eiendom</emphasis>,</quote> insisterer krigerne. <quote>og den "
+"bør være beskyttet på samme måte som all annen eiendom er beskyttet.</quote>"
 
 #. type: Content of: <book><part><title>
 msgid "<quote>PROPERTY</quote>"
