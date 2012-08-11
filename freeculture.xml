@@ -7250,6 +7250,7 @@ copy, use on the Internet becomes subject to the copyright owner's
 control. The technology expands the scope of effective control,
 because the technology builds a copy into every transaction.
 </para>
+<indexterm><primary>Barnes &amp; Noble</primary></indexterm>
 <para>
 <!-- PAGE BREAK 158 -->
 No doubt, a potential is not yet an abuse, and so the potential for
@@ -12701,6 +12702,9 @@ noticed. Powerful lobbies, complex issues, and MTV attention spans
 produce the <quote>perfect storm</quote> for free culture.
 </para>
 <indexterm><primary>Reagan, Ronald</primary></indexterm>
+<indexterm id='idxbiomedicalresearch' class='startofrange'>
+  <primary>biomedical research</primary>
+</indexterm>
 <para>
 In August 2003, a fight broke out in the United States about a
 decision by the World Intellectual Property Organization to cancel a
@@ -12737,6 +12741,7 @@ in the early 1980s. And it included <quote>open source and free software.</quote
 <indexterm><primary>IBM</primary></indexterm>
 <indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
+<indexterm startref='idxbiomedicalresearch' class='endofrange'/>
 <para>
 The aim of the meeting was to consider this wide range of projects
 from one common perspective: that none of these projects relied upon
@@ -13129,6 +13134,7 @@ kids who use a computer to share content.
 <indexterm><primary>Causby, Tinie</primary></indexterm>
 <indexterm><primary>Creative Commons</primary></indexterm>
 <indexterm><primary>Gil, Gilberto</primary></indexterm>
+<indexterm><primary>BBC</primary></indexterm>
 <para>
 Yet on the other side of the Atlantic, the BBC has just announced
 that it will build a <quote>Creative Archive,</quote> from which British citizens can
