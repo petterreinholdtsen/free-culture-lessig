@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-12 07:45+0300\n"
+"POT-Creation-Date: 2012-08-12 14:38+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5442,6 +5442,10 @@ msgstr ""
 "arbeidet som kommer fra hjernet til komponisten og utgiveren uten å bry seg "
 "om [deres] rettigheter.<placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Sousa, John Philip"
+msgstr "Sousa, John Philip"
+
 #.  f5
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -5481,14 +5485,13 @@ msgid ""
 "type=\"footnote\" id=\"2\"/>"
 msgstr ""
 "Innovatørene som utviklet teknologien for å spille inn andres arbeide "
-"<quote>snyltet på innsatsen, arbeidet, tallentet og geniet til "
-"amerikanske komponister</quote>,<placeholder type=\"footnote\" "
-"id=\"0\"/> og <quote>musikkpubliseringsindistrien</quote> var dermed "
-"<quote>fullstendig i denne piratens vold</quote>.<placeholder "
-"type=\"footnote\" id=\"1\"/> Som John Philip Sousa formulerte det, så "
-"direkte som det kan sies, <quote>når de tjener penger på mine stykker, "
-"så vil jeg ha en andel</quote>.<placeholder type=\"footnote\" "
-"id=\"2\"/>"
+"<quote>snyltet på innsatsen, arbeidet, tallentet og geniet til amerikanske "
+"komponister</quote>,<placeholder type=\"footnote\" id=\"0\"/> og "
+"<quote>musikkpubliseringsindistrien</quote> var dermed <quote>fullstendig i "
+"denne piratens vold</quote>.<placeholder type=\"footnote\" id=\"1\"/> Som "
+"John Philip Sousa formulerte det, så direkte som det kan sies, <quote>når de "
+"tjener penger på mine stykker, så vil jeg ha en andel</quote>.<placeholder "
+"type=\"footnote\" id=\"2\"/>"
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -5509,8 +5512,8 @@ msgid ""
 "Graphophone Company Association)."
 msgstr ""
 "To Amend and Consolidate the Acts Respecting Copyright, 376 (forberedt "
-"innspill fra Philip Mauro, sjefspatentrådgiver for the American "
-"Graphophone Company Association)."
+"innspill fra Philip Mauro, sjefspatentrådgiver for the American Graphophone "
+"Company Association)."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "American Graphophone Company"
@@ -5725,11 +5728,11 @@ msgid ""
 "The radio station thus owes the composer money for that performance."
 msgstr ""
 "Når en radiostasjon spiller en plate på luften, så utgjør dette en "
-"<quote>offentlig fremføring</quote> av komponistens verk.<placeholder "
-"type=\"footnote\" id=\"0\"/> Som jeg beskrev over, gir loven "
-"komponisten (eller opphavsrettsinnehaveren) en eksklusiv rett til "
-"offentlige fremføringer av hans verk.  Radiostasjonen skylder dermed "
-"komponisten penger for denne fremføringe."
+"<quote>offentlig fremføring</quote> av komponistens verk.<placeholder type="
+"\"footnote\" id=\"0\"/> Som jeg beskrev over, gir loven komponisten (eller "
+"opphavsrettsinnehaveren) en eksklusiv rett til offentlige fremføringer av "
+"hans verk.  Radiostasjonen skylder dermed komponisten penger for denne "
+"fremføringe."
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Lovett, Lyle"
@@ -9107,6 +9110,10 @@ msgstr ""
 "<quote>visual cue sheet</quote> med alle kilder og lisens-status på alle "
 "scener i filmen. De har et smalt syn på <quote>fair use</quote>, og å påstå "
 "at noe er nettopp det kan forsinke, og i verste fall stoppe, prosessen."
+
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+msgid "<citetitle>Star Wars</citetitle>"
+msgstr "<citetitle>Star Wars</citetitle>"
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para><indexterm><primary>
 msgid "Lucas, George"
@@ -23939,6 +23946,10 @@ msgid ""
 msgstr ""
 "Den samme strategien kan brukes på kultur, som et svar på den økende "
 "kontrollen som gjennomføres gjennom lov og teknologi."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Stanford University"
+msgstr "Stanford University"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
