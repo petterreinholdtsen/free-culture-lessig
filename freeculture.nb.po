@@ -5299,6 +5299,16 @@ msgid ""
 "pirate his inventions without fear of the law. And the leaders of Hollywood "
 "filmmaking, Fox most prominently, did just that."
 msgstr ""
+"Napsterne i de dager, de <quote>uavhengige</quote>, var selskaper som "
+"Fox.  Og ikke mindre enn i dag ble disse uavhengige intenst "
+"motarbeidet.  <quote>Opptak ble avbrutt av stjålet maskineri, og "
+"'uhell' som førte til tapte negativer, utstyr, bygninger og noen "
+"ganger liv og lemmer skjedde ofte.</quote><placeholder "
+"type=\"footnote\" id=\"0\"/> Dette fikk de uavhengige til å flykte til "
+"østkysten.  Californa var fjernt nok fra Edisons innflytelse til at "
+"filmskaperne der kunne røve hans nyvinninger uten å frykte loven.  Og "
+"lederne blant Hollywods filmskapere, Fox mest fremtredende, gjorde "
+"akkurat dette."
 
 #.  PAGE BREAK 68
 #. type: Content of: <book><part><chapter><section><para>
