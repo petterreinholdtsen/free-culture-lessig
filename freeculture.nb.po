@@ -5480,6 +5480,15 @@ msgid ""
 "they make money out of my pieces, I want a share of it.</quote><placeholder "
 "type=\"footnote\" id=\"2\"/>"
 msgstr ""
+"Innovatørene som utviklet teknologien for å spille inn andres arbeide "
+"<quote>snyltet på innsatsen, arbeidet, tallentet og geniet til "
+"amerikanske komponister</quote>,<placeholder type=\"footnote\" "
+"id=\"0\"/> og <quote>musikkpubliseringsindistrien</quote> var dermed "
+"<quote>fullstendig i denne piratens vold</quote>.<placeholder "
+"type=\"footnote\" id=\"1\"/> Som John Philip Sousa formulerte det, så "
+"direkte som det kan sies, <quote>når de tjener penger på mine stykker, "
+"så vil jeg ha en andel</quote>.<placeholder type=\"footnote\" "
+"id=\"2\"/>"
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -5494,15 +5503,14 @@ msgstr ""
 
 #.  f9
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright, 376 (prepared "
 "memorandum of Philip Mauro, general patent counsel of the American "
 "Graphophone Company Association)."
 msgstr ""
-"endre og konsolidere handlinger som respekterer opphavsrett, 376 (forberedt "
-"memorandum of philip mauro, patent sjefsjurist for amerikansk graphophone "
-"selskapet association)."
+"To Amend and Consolidate the Acts Respecting Copyright, 376 (forberedt "
+"innspill fra Philip Mauro, sjefspatentrådgiver for the American "
+"Graphophone Company Association)."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "American Graphophone Company"
