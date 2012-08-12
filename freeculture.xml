@@ -2914,7 +2914,9 @@ limits imposed by Victor on phonographs, see Randal C. Picker, <quote>From
 Edison to the Broadcast Flag: Mechanisms of Consent and Refusal and
 the Propertization of Copyright</quote> (September 2002), University of
 Chicago Law School, James M. Olin Program in Law and Economics,
-Working Paper No. 159.  </para></footnote>
+Working Paper No. 159.
+<indexterm><primary>broadcast flag</primary></indexterm>
+</para></footnote>
 <indexterm><primary>Fox, William</primary></indexterm>
 <indexterm><primary>General Film Company</primary></indexterm>
 <indexterm><primary>Picker, Randal C.</primary></indexterm>
@@ -4288,6 +4290,7 @@ controlling the technology of DAT. See Audio Home Recording Act of
 eliminate the opportunity for free riding in the sense I've described. See
 Lessig, <citetitle>Future</citetitle>, 71. See also Picker, <quote>From Edison to the Broadcast Flag,</quote>
 <citetitle>University of Chicago Law Review</citetitle> 70 (2003): 293&ndash;96.
+<indexterm><primary>broadcast flag</primary></indexterm>
 <indexterm><primary>Picker, Randal C.</primary></indexterm>
 </para></footnote>
 In each case, throughout our history,
@@ -5430,6 +5433,7 @@ and paste architecture of the Internet created&mdash;in a second you can
 find just about any image you want; in another second, you can have it
 planted in your presentation.
 </para>
+<indexterm><primary>Camp Chaos</primary></indexterm>
 <para>
 But presentations are just a tiny beginning. Using the Internet and
 <!-- PAGE BREAK 117 -->
@@ -5440,7 +5444,6 @@ takes images of politicians and blends them with music to create
 biting political commentary. A site called Camp Chaos has produced
 some of the most biting criticism of the record industry that there is
 through the mixing of Flash! and music.
-<indexterm><primary>Camp Chaos</primary></indexterm>
 </para>
 <para>
 All of these creations are technically illegal. Even if the creators
@@ -5818,6 +5821,10 @@ we are for the first time at a point where that dream is possible. As
 Kahle describes,
 </para>
 <blockquote>
+<indexterm>
+  <primary>books</primary>
+  <secondary>total number of</secondary>
+</indexterm>
 <para>
 It looks like there's about two to three million recordings of music.
 Ever. There are about a hundred thousand theatrical releases of
@@ -6387,6 +6394,8 @@ market. But does anyone believe we should regulate remotes to
 reinforce commercial television?  (Maybe by limiting them to function
 only once a second, or to switch to only ten channels within an hour?)
 </para>
+<indexterm><primary>Brezhnev, Leonid</primary></indexterm>
+<indexterm><primary>Gates, Bill</primary></indexterm>
 <para>
 The obvious answer to these obviously rhetorical questions is no.
 In a free society, with a free market, supported by free enterprise and
@@ -6407,7 +6416,6 @@ not only the market but also the government is a world in which
 competitors with new ideas will not succeed. It is a world of stasis and
 increasingly concentrated stagnation. It is the Soviet Union under
 Brezhnev.
-<indexterm><primary>Gates, Bill</primary></indexterm>
 </para>
 <para>
 Thus, while it is understandable for industries threatened with new
@@ -6462,13 +6470,12 @@ production is a good thing. No one doubts that the work of Müller was
 important and valuable and probably saved lives, possibly millions.
 </para>
 <indexterm><primary>Carson, Rachel</primary></indexterm>
+<indexterm><primary>Silent Sprint (Carson)</primary></indexterm>
 <para>
 But in 1962, Rachel Carson published <citetitle>Silent Spring</citetitle>, which argued that
 DDT, whatever its primary benefits, was also having unintended
 environmental consequences. Birds were losing the ability to
 reproduce.  Whole chains of the ecology were being destroyed.
-<indexterm><primary>Carson, Rachel</primary></indexterm>
-<indexterm><primary>Silent Sprint (Carson)</primary></indexterm>
 </para>
 <para>
 No one set out to destroy the environment. Paul Müller certainly did
@@ -9460,6 +9467,7 @@ of content.  One obvious response to this efficiency is thus to make
 the Internet less efficient. If the Internet enables <quote>piracy,</quote> then,
 this response says, we should break the kneecaps of the Internet.
 </para>
+<indexterm><primary>broadcast flag</primary></indexterm>
 <para>
 The examples of this form of legislation are many. At the urging of
 the content industry, some in Congress have threatened legislation that
@@ -9576,6 +9584,7 @@ available at
 <ulink url="http://free-culture.cc/notes/">link #44</ulink>.
 <indexterm><primary>Berman, Howard L.</primary></indexterm>
 <indexterm><primary>Hollings, Fritz</primary></indexterm>
+<indexterm><primary>broadcast flag</primary></indexterm>
 </para></footnote>
 But there is one example that captures the flavor of them all. This is
 the story of the demise of Internet radio.
@@ -14244,6 +14253,7 @@ Rockies&mdash;you can instantaneously be connected to the
 Internet. Imagine the Internet as ubiquitous as the best cell-phone
 service, where with the flip of a device, you are connected.
 </para>
+<indexterm><primary>cell phones, music streamed over</primary></indexterm>
 <para>
 In that world, it will be extremely easy to connect to services that
 give you access to content on the fly&mdash;such as Internet radio,
@@ -14666,6 +14676,7 @@ away from areas that we know it will only harm. And that is precisely
 what the law will too often do if too much of our culture is left to
 its review.
 </para>
+<indexterm><primary>Brezhnev, Leonid</primary></indexterm>
 <para>
 Think about the amazing things your kid could do or make with digital
 technology&mdash;the film, the music, the Web page, the blog. Or think
