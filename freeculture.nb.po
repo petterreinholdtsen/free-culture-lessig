@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-11 23:22+0300\n"
+"POT-Creation-Date: 2012-08-12 07:45+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5229,7 +5229,10 @@ msgstr ""
 "som brukte ulovlig utstyr og importerte filmlager for å opprette sitt eget "
 "undergrunnsmarked."
 
-#.  f2
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "broadcast flag"
+msgstr "kringkastingsflagg"
+
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 msgid ""
 "J. A. Aberdeen, <citetitle>Hollywood Renegades: The Society of Independent "
@@ -5242,7 +5245,7 @@ msgid ""
 "to the Broadcast Flag: Mechanisms of Consent and Refusal and the "
 "Propertization of Copyright</quote> (September 2002), University of Chicago "
 "Law School, James M. Olin Program in Law and Economics, Working Paper No. "
-"159."
+"159.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
@@ -7558,7 +7561,7 @@ msgid ""
 "Lessig, <citetitle>Future</citetitle>, 71. See also Picker, <quote>From "
 "Edison to the Broadcast Flag,</quote> <citetitle>University of Chicago Law "
 "Review</citetitle> 70 (2003): 293&ndash;96.  <placeholder type=\"indexterm\" "
-"id=\"0\"/>"
+"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "disse er de viktigste forekomstene i vår historie, men det finnes andre "
 "tilfeller også. teknologi for digital audio tape (dat), for eksempel var "
@@ -9675,10 +9678,11 @@ msgstr ""
 "omtrent alle bildet du ønsker; i en annen andre, kan du ha det plantet i "
 "presentasjonen."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Camp Chaos"
 msgstr ""
 
+#.  PAGE BREAK 117
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -9689,7 +9693,7 @@ msgid ""
 "politicians and blends them with music to create biting political "
 "commentary. A site called Camp Chaos has produced some of the most biting "
 "criticism of the record industry that there is through the mixing of Flash! "
-"and music.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"and music."
 msgstr ""
 "men presentasjoner er bare en liten begynnelse. ved hjelp av Internett og "
 "sine arkiver, er musikere i stand til streng sammen mikser lydens aldri før "
@@ -10404,6 +10408,14 @@ msgstr ""
 "omfanget av dette potensielle arkivet er noe vi har aldri forestilt meg før. "
 "brewster kahles i vår historie har drømt om det; men vi er for første gang "
 "ved et punkt der det er mulig at drømmen. som kahle beskriver,"
+
+#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
+msgid "books"
+msgstr "bøker"
+
+#. type: Content of: <book><part><chapter><blockquote><indexterm><secondary>
+msgid "total number of"
+msgstr "totalt antall"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
@@ -11425,6 +11437,14 @@ msgid ""
 "switch to only ten channels within an hour?)"
 msgstr ""
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Brezhnev, Leonid"
+msgstr "Brezhnev, Leonid"
+
+#. type: Content of: <book><chapter><para><indexterm><primary>
+msgid "Gates, Bill"
+msgstr "Gates, Bill"
+
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -11433,10 +11453,6 @@ msgid ""
 "1994), 170&ndash;71."
 msgstr ""
 "Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
-
-#. type: Content of: <book><chapter><para><indexterm><primary>
-msgid "Gates, Bill"
-msgstr "Gates, Bill"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -11452,8 +11468,7 @@ msgid ""
 "radio.) A world in which competitors with new ideas must fight not only the "
 "market but also the government is a world in which competitors with new "
 "ideas will not succeed. It is a world of stasis and increasingly "
-"concentrated stagnation. It is the Soviet Union under Brezhnev.  "
-"<placeholder type=\"indexterm\" id=\"1\"/>"
+"concentrated stagnation. It is the Soviet Union under Brezhnev."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11557,11 +11572,11 @@ msgstr ""
 "som er en god ting. ingen tvil at arbeidet med müller var viktig og "
 "verdifull og sannsynligvis lagret liv, kanskje millioner."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Carson, Rachel"
 msgstr "Carson, Rachel"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Silent Sprint (Carson)"
 msgstr ""
 
@@ -11571,8 +11586,7 @@ msgid ""
 "But in 1962, Rachel Carson published <citetitle>Silent Spring</citetitle>, "
 "which argued that DDT, whatever its primary benefits, was also having "
 "unintended environmental consequences. Birds were losing the ability to "
-"reproduce.  Whole chains of the ecology were being destroyed.  <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"reproduce.  Whole chains of the ecology were being destroyed."
 msgstr ""
 "men i 1962, rachel carson publisert stille våren, som hevdet at ddt, uansett "
 "dens primære fordeler, hadde også utilsiktede miljømessige konsekvenser. "
@@ -16851,7 +16865,8 @@ msgid ""
 "devices. See GartnerG2, <quote>Copyright and Digital Media in a Post-Napster "
 "World,</quote> 27 June 2003, 33&ndash;34, available at <ulink url=\"http://"
 "free-culture.cc/notes/\">link #44</ulink>.  <placeholder type=\"indexterm\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -18286,12 +18301,13 @@ msgid ""
 "Cong. Rec. H9946, 9951-2 (October 7, 1998)."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> hele teksten er: \"sonny [bono] ønsket av opphavsrettslig vern til å vare "
-"evig. Jeg informert av ansatte at slik endring ville bryte Grunnloven. Jeg "
-"inviterer alle til å arbeide med meg å styrke våre lover om opphavsrett i "
-"alle måter som er tilgjengelig for oss. som du vet, er det også jack valenti "
-"forslag til et uttrykk til å vare evig mindre en dag. Komiteen kan kanskje "
-"se på at neste Kongressen,\"144 cong. REC h9946, 9951-2 (7. oktober 1998)."
+"id=\"1\"/> hele teksten er: \"sonny [bono] ønsket av opphavsrettslig vern "
+"til å vare evig. Jeg informert av ansatte at slik endring ville bryte "
+"Grunnloven. Jeg inviterer alle til å arbeide med meg å styrke våre lover om "
+"opphavsrett i alle måter som er tilgjengelig for oss. som du vet, er det "
+"også jack valenti forslag til et uttrykk til å vare evig mindre en dag. "
+"Komiteen kan kanskje se på at neste Kongressen,\"144 cong. REC h9946, 9951-2 "
+"(7. oktober 1998)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -25226,6 +25242,10 @@ msgstr ""
 "kobles til Internett. Tenk deg så allestedsnærværende som beste "
 "mobiltelefonen tjenesten, der med flippen på en enhet, du er tilkoblet "
 "Internett."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "cell phones, music streamed over"
+msgstr "mobiltelefoner, musikk streamet via"
 
 #.  f8.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
