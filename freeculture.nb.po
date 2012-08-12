@@ -4953,9 +4953,8 @@ msgstr ""
 "og der det store flertall av dette ikke hadde noe å gjøre med musikk."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "statutory damages"
-msgstr "lovbestemte lisens"
+msgstr "lovbestemte skader"
 
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
