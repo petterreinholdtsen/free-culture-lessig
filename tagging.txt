@@ -59,7 +59,19 @@ dblatex
 
  - not showing norwegian language for system templates (BTS #682936).
 
-xsltproc / fop
+docbook-xsl (aka xsltproc + fop)
 
  - both version 1.75.2+dfsg-5 (squeeze) and version 1.76.1+dfsg-1
    (wheezy) give broken footnotes and index.
+
+Some ideas for docbook proposed processors:
+
+  XMLMind (editor with PDF export support)
+  Oxygen (editor with PDF export support)
+  publican
+
+
+Interesting links
+
+  http://wepod.wordpress.com/lulu-specs/
+  http://left.subtree.org/2011/04/09/wordpress-blog-to-print-book-a-case-study/
