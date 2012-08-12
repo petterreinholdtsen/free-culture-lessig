@@ -31,7 +31,7 @@
   </l:i18n>
 
 
-<!-- Fix bugs in default nb locale -->
+  <!-- Fix bugs in default nb locale -->
   <xsl:template name="gentext.startquote">
     <xsl:text>«</xsl:text>
   </xsl:template>
@@ -39,7 +39,7 @@
     <xsl:text>»</xsl:text>
   </xsl:template>
 
-<!-- This is not working.  No idea why --
+  <!-- This is not working.  No idea why -->
   <xsl:template name="gentext.Index">
     <xsl:text>Register</xsl:text>
   </xsl:template>
