@@ -21,11 +21,12 @@
   <xsl:param name="hyphenate">false</xsl:param>
   <xsl:param name="generate.toc">book toc title</xsl:param>
 
+  <!-- Drop the number in front of chapters -->
   <xsl:param name="local.l10n.xml" select="document('')"/> 
   <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
-    <l:l10n language="en">
+    <l:l10n language="nb">
       <l:context name="title-numbered">
-	<l:template name="chapter" text="%n.&#160;%t"/>
+	<l:template name="chapter" text="%t"/>
       </l:context>
     </l:l10n>
   </l:i18n>
