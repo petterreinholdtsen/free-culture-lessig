@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-12 14:38+0300\n"
+"POT-Creation-Date: 2012-08-12 22:22+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -511,7 +511,11 @@ msgstr ""
 msgid "CodePink Women in Peace"
 msgstr ""
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><preface><indexterm><primary>
+msgid "Stevens, Ted"
+msgstr "Stevens, Ted"
+
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Safire, William"
 msgstr "Safire, William"
 
@@ -2720,6 +2724,10 @@ msgstr ""
 "tegneseriebøker og ikke følge streken, men ved å se på dem og kopiere dem</"
 "quote> og bygge basert på dem.<placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Superman comics"
+msgstr "Supermann-tegneserier"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "American comics now are quite different, Winick explains, in part because of "
@@ -4090,6 +4098,10 @@ msgstr ""
 "Syklusen med disse valgene har blitt totalt profesjonalisert og "
 "rutinepreget.  De fleste av oss tenker på dette som demokrati."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Tocqueville, Alexis de"
+msgstr "Tocqueville, Alexis de"
+
 #.  f15
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -4234,6 +4246,10 @@ msgstr ""
 "Howard Dean har i stor grad forsvunnet fra 2004-presidentvalgkampen bortsett "
 "fra hos noen få blogger.  Men selv om antallet lesere er lavt, så har det å "
 "lese dem en effekt. <placeholder type=\"indexterm\" id=\"0\"/>"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Thurmond, Strom"
+msgstr "Thurmond, Strom"
 
 #.  f18
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4936,6 +4952,11 @@ msgstr ""
 "få tilgang til innhold, som Jesse ikke hadde laget eller gjort tilgjengelig, "
 "og der det store flertall av dette ikke hadde noe å gjøre med musikk."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
+msgid "statutory damages"
+msgstr "lovbestemte lisens"
+
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5276,17 +5297,16 @@ msgid ""
 "id=\"3\"/>"
 msgstr ""
 "Med et land som så en kolosal økning i antall billige kinoer, såkalte "
-"nickelodeons, reagerte patentselskapet på bevegelsen av uavhengige med "
-"å stifte et hardhendt datterselskap ved navn General Film Company for "
-"å blokkere innføringen av ulisensierte uavhengige.  Med "
-"tvangstaktikker som har blitt legendariske, konfiserte General Film "
-"ulisensiert utstyr, stoppet varelevering til kinoer som viste "
-"ulisensiert fil, og effektivt monopoliserte distribusjon ved å kjøpe "
-"opp alle USAs filmsentraler, med unntak av den ene som var eid av den "
-"uavhengige William Fox som motsto kartellet selv etter at hans lisens "
-"var trukket tilbake.<placeholder type= \"footnote\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/> <placeholder "
-"type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
+"nickelodeons, reagerte patentselskapet på bevegelsen av uavhengige med å "
+"stifte et hardhendt datterselskap ved navn General Film Company for å "
+"blokkere innføringen av ulisensierte uavhengige.  Med tvangstaktikker som "
+"har blitt legendariske, konfiserte General Film ulisensiert utstyr, stoppet "
+"varelevering til kinoer som viste ulisensiert fil, og effektivt "
+"monopoliserte distribusjon ved å kjøpe opp alle USAs filmsentraler, med "
+"unntak av den ene som var eid av den uavhengige William Fox som motsto "
+"kartellet selv etter at hans lisens var trukket tilbake.<placeholder type= "
+"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
+"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
 "id=\"3\"/>"
 
 #.  f3
@@ -5312,16 +5332,15 @@ msgid ""
 "pirate his inventions without fear of the law. And the leaders of Hollywood "
 "filmmaking, Fox most prominently, did just that."
 msgstr ""
-"Napsterne i de dager, de <quote>uavhengige</quote>, var selskaper som "
-"Fox.  Og ikke mindre enn i dag ble disse uavhengige intenst "
-"motarbeidet.  <quote>Opptak ble avbrutt av stjålet maskineri, og "
-"'uhell' som førte til tapte negativer, utstyr, bygninger og noen "
-"ganger liv og lemmer skjedde ofte.</quote><placeholder "
-"type=\"footnote\" id=\"0\"/> Dette fikk de uavhengige til å flykte til "
-"østkysten.  Californa var fjernt nok fra Edisons innflytelse til at "
-"filmskaperne der kunne røve hans nyvinninger uten å frykte loven.  Og "
-"lederne blant Hollywods filmskapere, Fox mest fremtredende, gjorde "
-"akkurat dette."
+"Napsterne i de dager, de <quote>uavhengige</quote>, var selskaper som Fox.  "
+"Og ikke mindre enn i dag ble disse uavhengige intenst motarbeidet.  "
+"<quote>Opptak ble avbrutt av stjålet maskineri, og 'uhell' som førte til "
+"tapte negativer, utstyr, bygninger og noen ganger liv og lemmer skjedde ofte."
+"</quote><placeholder type=\"footnote\" id=\"0\"/> Dette fikk de uavhengige "
+"til å flykte til østkysten.  Californa var fjernt nok fra Edisons "
+"innflytelse til at filmskaperne der kunne røve hans nyvinninger uten å "
+"frykte loven.  Og lederne blant Hollywods filmskapere, Fox mest "
+"fremtredende, gjorde akkurat dette."
 
 #.  PAGE BREAK 68
 #. type: Content of: <book><part><chapter><section><para>
@@ -5775,18 +5794,17 @@ msgid ""
 "work, just as it pays the composer of the music for his work.  <placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Men når en radiostasjon spiller en plage, så fremfører det ikke bare "
-"et eksemplar av <emphasis>komponistens</emphasis> verk. "
-"Radiostasjonen fremfører også et eksemplar av "
-"<emphasis>innspillingsartistens</emphasis> verk.  Det er en ting å få "
-"<quote>Happy Birthday</quote> sunget på radio av det lokale "
-"barnekoret.  Det er noe ganske annet å få det sunget av Rolling Stones "
-"eller Lyle Lovett.  Innspillingsartisten legger til verdi på "
-"komposisjonen fremført på radiostasjonen.  Og hvis loven var "
-"fullstendig konsistent, så burde radiostasjonen også vært nødt til å "
-"betale innspillingsartisten for hans verk, på samme måten som den "
-"betaler komponisten av musikken for hans verk.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Men når en radiostasjon spiller en plage, så fremfører det ikke bare et "
+"eksemplar av <emphasis>komponistens</emphasis> verk. Radiostasjonen "
+"fremfører også et eksemplar av <emphasis>innspillingsartistens</emphasis> "
+"verk.  Det er en ting å få <quote>Happy Birthday</quote> sunget på radio av "
+"det lokale barnekoret.  Det er noe ganske annet å få det sunget av Rolling "
+"Stones eller Lyle Lovett.  Innspillingsartisten legger til verdi på "
+"komposisjonen fremført på radiostasjonen.  Og hvis loven var fullstendig "
+"konsistent, så burde radiostasjonen også vært nødt til å betale "
+"innspillingsartisten for hans verk, på samme måten som den betaler "
+"komponisten av musikken for hans verk.  <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -5796,12 +5814,11 @@ msgid ""
 "nothing. It gets to perform the recording artist's work for free, even if it "
 "must pay the composer something for the privilege of playing the song."
 msgstr ""
-"Men det gjør den ikke.  I følge loven som styrer radiofremføringer, "
-"trenger ikke radiostasjonen å betale noe til innspillingsartisten. "
-"Radiostasjonen trenger kun å betale komponisten.  Radiostasjonen får "
-"dermed noe uten å betale.  Den får fremføre innspillingsartistens verk "
-"gratis, selv om den må betale komponisten noe for privilegiet det er å "
-"spille sangen."
+"Men det gjør den ikke.  I følge loven som styrer radiofremføringer, trenger "
+"ikke radiostasjonen å betale noe til innspillingsartisten. Radiostasjonen "
+"trenger kun å betale komponisten.  Radiostasjonen får dermed noe uten å "
+"betale.  Den får fremføre innspillingsartistens verk gratis, selv om den må "
+"betale komponisten noe for privilegiet det er å spille sangen."
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Madonna"
@@ -8203,6 +8220,10 @@ msgstr ""
 msgid "Henry VIII, King of England"
 msgstr "Henry VIII, Konge av England"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Statute of Monopolies (1656)"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Even that limited right was viewed with skepticism by the British.  They had "
@@ -8532,6 +8553,10 @@ msgstr ""
 "Donaldson. Flere tiltak var vellykkede, den viktigste var den tidlig seieren "
 "i kampen mellom <citetitle>Millar</citetitle> og <citetitle>Taylor</"
 "citetitle>."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Taylor, Robert"
+msgstr "Taylor, Robert"
 
 #.  f11
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9416,6 +9441,10 @@ msgstr ""
 "stuntman? og så begynte vi bare, vi satt sammen et team, min assistent og "
 "noen andre, og vi bare ringe personer."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Sutherland, Donald"
+msgstr "Sutherland, Donald"
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10085,6 +10114,10 @@ msgstr ""
 "først av prosjekter av denne andrew carnegie av Internett. ved desember "
 "2002, arkivet hadde over 10 milliarder sider, og det ble vokser om en "
 "milliard sider per måned."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Vanderbilt University"
+msgstr "Vanderbilt University"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11400,6 +11433,10 @@ msgstr ""
 "innovativ markedsføring teknikker, (3) Teknologorganisasjon push for å "
 "utvikle kode for å beskytte opphavsrettsbeskyttet materiale og (4) lærere "
 "skal utdanne barn å bedre beskytte opphavsretten."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "steel industry"
+msgstr "stålindustri"
 
 #.  PAGE BREAK 138
 #. type: Content of: <book><part><chapter><section><para>
@@ -16894,26 +16931,31 @@ msgstr ""
 "medvirkende eller stedfortredende erstatningsansvar."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Tauzin, Billy"
+msgstr "Tauzin, Billy"
+
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Hollings, Fritz"
 msgstr "Hollings, Fritz"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
-"For example, in July 2002, Representative Howard Berman introduced the Peer-"
-"to-Peer Piracy Prevention Act (H.R. 5211), which would immunize copyright "
-"holders from liability for damage done to computers when the copyright "
-"holders use technology to stop copyright infringement. In August 2002, "
-"Representative Billy Tauzin introduced a bill to mandate that technologies "
-"capable of rebroadcasting digital copies of films broadcast on TV (i.e., "
-"computers) respect a <quote>broadcast flag</quote> that would disable "
-"copying of that content. And in March of the same year, Senator Fritz "
-"Hollings introduced the Consumer Broadband and Digital Television Promotion "
-"Act, which mandated copyright protection technology in all digital media "
-"devices. See GartnerG2, <quote>Copyright and Digital Media in a Post-Napster "
-"World,</quote> 27 June 2003, 33&ndash;34, available at <ulink url=\"http://"
-"free-culture.cc/notes/\">link #44</ulink>.  <placeholder type=\"indexterm\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> For example, in July 2002, "
+"Representative Howard Berman introduced the Peer-to-Peer Piracy Prevention "
+"Act (H.R. 5211), which would immunize copyright holders from liability for "
+"damage done to computers when the copyright holders use technology to stop "
+"copyright infringement. In August 2002, Representative Billy Tauzin "
+"introduced a bill to mandate that technologies capable of rebroadcasting "
+"digital copies of films broadcast on TV (i.e., computers) respect a "
+"<quote>broadcast flag</quote> that would disable copying of that content. "
+"And in March of the same year, Senator Fritz Hollings introduced the "
+"Consumer Broadband and Digital Television Promotion Act, which mandated "
+"copyright protection technology in all digital media devices. See GartnerG2, "
+"<quote>Copyright and Digital Media in a Post-Napster World,</quote> 27 June "
+"2003, 33&ndash;34, available at <ulink url=\"http://free-culture.cc/notes/"
+"\">link #44</ulink>.  <placeholder type=\"indexterm\" id=\"1\"/> "
+"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
+"id=\"3\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -19662,6 +19704,10 @@ msgstr ""
 "tilfeller er vanligvis hørt i paneler med tre, med unntak av viktige saker "
 "eller tilfeller som øke problemer som er spesifikke for kretsen som helhet, "
 "der domstolen skal sitte \"no banc\" for å høre tilfelle."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Tatel, David"
+msgstr "Tatel, David"
 
 #.  PAGE BREAK 236
 #. type: Content of: <book><part><chapter><para>
@@ -22478,6 +22524,10 @@ msgstr ""
 msgid "biomedical research"
 msgstr ""
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Wellcome Trust"
+msgstr "Wellcome Trust"
+
 #.  f6.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -23101,7 +23151,7 @@ msgstr ""
 "for å bevare en tradisjon som har vært en del av vår tradisjon for "
 "mesteparten av vår historie&mdash;fri kultur."
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Turner, Ted"
 msgstr "Turner, Ted"
 
@@ -23115,8 +23165,7 @@ msgid ""
 "interests as diverse as the NRA, the ACLU, Moveon.org, William Safire, Ted "
 "Turner, and CodePink Women for Peace organized to oppose this change in FCC "
 "policy. An astonishing 700,000 letters were sent to the FCC, demanding more "
-"hearings and a different result.  <placeholder type=\"indexterm\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/>"
+"hearings and a different result."
 msgstr ""
 "Hvis dette er galskap, så la det være mer gærninger.  Snart. Det finnes "
 "øyeblikk av håp i denne kampen. Og øyeblikk som overrasker. Da FCC vurderte "
@@ -23126,8 +23175,7 @@ msgstr ""
 "organiserte interesser så forskjellige som NRA, ACLU, moveon.org, William "
 "Safire, Ted Turner og Codepink Women for Piece seg for å protestere på denne "
 "endringen i FCC-reglene.  Så mange som 700 000 brev ble sendt til FCC med "
-"krav om flere høringer og et annet resultat.  <placeholder type=\"indexterm"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"krav om flere høringer og et annet resultat."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23755,6 +23803,10 @@ msgstr ""
 "programvare hadde blitt slettet av en endring i økonomien i databehandling. "
 "og som han mente, hvis han gjorde ikke noe om det, og frihet til å endre og "
 "dele programvare ville være grundig svekket."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Torvalds, Linus"
+msgstr "Torvalds, Linus"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
