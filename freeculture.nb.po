@@ -3541,7 +3541,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "advertising"
-msgstr ""
+msgstr "markedsføring"
 
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4410,7 +4410,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Olafson, Steve"
-msgstr ""
+msgstr "Olafson, Steve"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -5716,6 +5716,12 @@ msgid ""
 "copyright holder)  an exclusive right to public performances of his work. "
 "The radio station thus owes the composer money for that performance."
 msgstr ""
+"Når en radiostasjon spiller en plate på luften, så utgjør dette en "
+"<quote>offentlig fremføring</quote> av komponistens verk.<placeholder "
+"type=\"footnote\" id=\"0\"/> Som jeg beskrev over, gir loven "
+"komponisten (eller opphavsrettsinnehaveren) en eksklusiv rett til "
+"offentlige fremføringer av hans verk.  Radiostasjonen skylder dermed "
+"komponisten penger for denne fremføringe."
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Lovett, Lyle"
