@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-13 08:02+0300\n"
+"POT-Creation-Date: 2012-08-13 08:57+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1052,6 +1052,10 @@ msgstr ""
 "fra AM-radioen vår. Jeg trodde ikke han skulle starte en revolusjon &mdash; "
 "starte en hel forbannet ny industri i konkurranse med RCA.<placeholder type="
 "\"footnote\" id=\"0\"/>"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Lessing, Lawrence"
+msgstr "Lessing, Lawrence"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -7961,19 +7965,28 @@ msgstr ""
 "Kenneth Branaghs utgave av Henry V: <quote>Jeg likte det, men Shakespeare er "
 "så full av klisjeer.</quote>"
 
-#.  f1
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "Jonson, Ben"
+msgstr "Jonson, Ben"
+
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "Dryden, John"
+msgstr "Dryden, John"
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
-"Jacob Tonson is typically remembered for his associations with prominent "
-"eighteenth-century literary figures, especially John Dryden, and for his "
-"handsome <quote>definitive editions</quote> of classic works. In addition to "
-"<citetitle>Romeo and Juliet</citetitle>, he published an astonishing array "
-"of works that still remain at the heart of the English canon, including "
-"collected works of Shakespeare, Ben Jonson, John Milton, and John Dryden. "
-"See Keith Walker, <quote>Jacob Tonson, Bookseller,</quote> "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> Jacob Tonson is typically remembered for his associations with "
+"prominent eighteenth-century literary figures, especially John Dryden, and "
+"for his handsome <quote>definitive editions</quote> of classic works. In "
+"addition to <citetitle>Romeo and Juliet</citetitle>, he published an "
+"astonishing array of works that still remain at the heart of the English "
+"canon, including collected works of Shakespeare, Ben Jonson, John Milton, "
+"and John Dryden. See Keith Walker, <quote>Jacob Tonson, Bookseller,</quote> "
 "<citetitle>American Scholar</citetitle> 61:3 (1992): 424&ndash;31."
 msgstr ""
-"Jacob Tonson er vanligvis husket for sin omgang med 1700-tallets litterære "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> Jacob Tonson er vanligvis husket for sin omgang med 1700-tallets litterære "
 "storheter, spesielt John Dryden, og for hans kjekke<quote>ferdige versjoner</"
 "quote> av klassiske verk. I tillegg til <citetitle>Romeo og Julie</"
 "citetitle>, utga han en utrolig rekke liste av verk som ennå er hjertet av "
@@ -21919,7 +21932,7 @@ msgstr ""
 "hollywood: de fleste folk ikke gjenkjenner årsakene til å begrense "
 "opphavsrett vilkår; Det er derfor fremdeles mulig å se god tro i motstanden."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kelly, Kevin"
 msgstr "Kelly, Kevin"
 
@@ -21933,7 +21946,7 @@ msgid ""
 "to exercise continued control over his content. It would simply liberate "
 "what Kevin Kelly calls the <quote>Dark Content</quote> that fills archives "
 "around the world. So when the warriors oppose a change like this, we should "
-"ask one simple question: <placeholder type=\"indexterm\" id=\"0\"/>"
+"ask one simple question:"
 msgstr ""
 "men når opphavsrett eierne motsette et forslag som eldred act, så, til "
 "slutt, er det et eksempel at legger bare naken selfinterest kjører denne "
@@ -24275,6 +24288,10 @@ msgstr "Public Enemy"
 msgid "rap music"
 msgstr ""
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Leaphart, Walter"
+msgstr "Leaphart, Walter"
+
 #.  f2.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
@@ -24283,10 +24300,6 @@ msgid ""
 "Hittelman, a Fiat Lucre production, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #72</ulink>."
 msgstr ""
-
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-msgid "Leaphart, Walter"
-msgstr "Leaphart, Walter"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -24304,7 +24317,7 @@ msgid ""
 "quote> Public Enemy to sample anymore, because the legal costs are so "
 "high<placeholder type=\"footnote\" id=\"0\"/>), these artists release into "
 "the creative environment content that others can build upon, so that their "
-"form of creativity might grow.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"form of creativity might grow."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
