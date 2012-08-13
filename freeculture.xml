@@ -1173,6 +1173,9 @@ piracy.
 </para>
 </blockquote>
 <indexterm><primary>Dreyfuss, Rochelle</primary></indexterm>
+<indexterm id='idxifvalue' class='startofrange'>
+  <primary><quote>if value, then right</quote> theory</primary>
+</indexterm>
 <para>
 This view runs deep within the current debates. It is what NYU law
 professor Rochelle Dreyfuss criticizes as the <quote>if value, then right</quote> 
@@ -1205,6 +1208,7 @@ of law protecting creative property. But the <quote>if value, then right</quote>
 theory of creative property has never been America's theory of
 creative property.  It has never taken hold within our law.
 </para>
+<indexterm startref='idxifvalue' class='endofrange'/>
 <para>
 Instead, in our tradition, intellectual property is an instrument. It
 sets the groundwork for a richly creative society but remains
@@ -2405,6 +2409,7 @@ conflict of interest is so easily disclosed that you know you can sort of
 get it out of the way.</quote>
 </para>
 <indexterm><primary>CNN</primary></indexterm>
+<indexterm><primary>Iraq war</primary></indexterm>
 <para>
 These conflicts become more important as media becomes more
 concentrated (more on this below). A concentrated media can hide more
@@ -2449,6 +2454,7 @@ not clear that <quote>journalism</quote> is happy about this&mdash;some journali
 have been told to curtail their blogging.<footnote>
 <para>
 <!-- f21 -->
+<indexterm><primary>Iraq war</primary></indexterm>
 See Michael Falcone, <quote>Does an Editor's Pencil Ruin a Web Log?</quote> <citetitle>New
 York Times</citetitle>, 29 September 2003, C4. (<quote>Not all news organizations have
 been as accepting of employees who blog. Kevin Sites, a CNN
@@ -2841,13 +2847,17 @@ wrong message. And he wants to correct the record.</quote>
 </chapter>
 <chapter label="4" id="pirates">
 <title>CHAPTER FOUR: <quote>Pirates</quote></title>
+<indexterm><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
-If <quote>piracy</quote> means using the creative property of others without
-their permission&mdash;if <quote>if value, then right</quote> is true&mdash;then the history of
-the content industry is a history of piracy. Every important sector of
-<quote>big media</quote> today&mdash;film, records, radio, and cable TV&mdash;was born of a
-kind of piracy so defined. The consistent story is how last generation's
-pirates join this generation's country club&mdash;until now.
+<emphasis role="strong">If <quote>piracy</quote> means</emphasis>
+using the creative property of others without their
+permission&mdash;if <quote>if value, then right</quote> is
+true&mdash;then the history of the content industry is a history of
+piracy. Every important sector of <quote>big media</quote>
+today&mdash;film, records, radio, and cable TV&mdash;was born of a
+kind of piracy so defined. The consistent story is how last
+generation's pirates join this generation's country club&mdash;until
+now.
 </para>
 <section id="film">
 <title>Film</title>
@@ -5571,6 +5581,7 @@ was. You have the power to see what you remember. More importantly,
 perhaps, you also have the power to find what you don't remember and
 what others might prefer you forget.<footnote><para>
 <!-- f1 -->
+<indexterm><primary>Iraq war</primary></indexterm>
 <indexterm><primary>White House press releases</primary></indexterm>
 The temptations remain, however. Brewster Kahle reports that the White
 House changes its own press releases without notice. A May 13, 2003,
