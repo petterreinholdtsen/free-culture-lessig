@@ -8844,6 +8844,7 @@ that no computer is used to commit this crime. These responses might
 be extreme, but each of them has either been proposed or actually
 implemented.<footnote><para>
 <!-- f2. -->
+<indexterm><primary>ISPs (Internet service providers), user identities revealed by</primary></indexterm>
 For an excellent summary, see the report prepared by GartnerG2 and the
 Berkman Center for Internet and Society at Harvard Law School,
 <quote>Copyright and Digital Media in a Post-Napster World,</quote> 27 June 2003,
@@ -9124,6 +9125,7 @@ See Danit Lidor, <quote>Artists Just Wanna Be Free,</quote> <citetitle>Wired</ci
 In the act of mixing the culture around us with an expression that is
 critical or reflective.
 </para>
+<indexterm><primary>ISPs (Internet service providers), user identities revealed by</primary></indexterm>
 <para>
 Part of the reason for this fear of illegality has to do with the
 changing law. I described that change in detail in chapter
@@ -10157,14 +10159,19 @@ understandable why we as a democracy continue to choose as we do. Jack
 
 Valenti is charming; but not so charming as to justify giving up a
 tradition as deep and important as our tradition of free culture.
-There's one more aspect to this corruption that is particularly
-important to civil liberties, and follows directly from any war of
-prohibition.  As Electronic Frontier Foundation attorney Fred von
-Lohmann describes, this is the <quote>collateral damage</quote> that <quote>arises
-whenever you turn a very large percentage of the population into
-criminals.</quote> This is the collateral damage to civil liberties
-generally.
+</para>
 <indexterm><primary>Electronic Frontier Foundation</primary></indexterm>
+<indexterm id='idxisps' class='startofrange'>
+  <primary>ISPs (Internet service providers), user identities revealed by</primary>
+</indexterm>
+<para>
+<emphasis role="strong">There's one</emphasis> more aspect to this
+corruption that is particularly important to civil liberties, and
+follows directly from any war of prohibition.  As Electronic Frontier
+Foundation attorney Fred von Lohmann describes, this is the
+<quote>collateral damage</quote> that <quote>arises whenever you turn
+a very large percentage of the population into criminals.</quote> This
+is the collateral damage to civil liberties generally.
 </para>
 <para>
 <quote>If you can treat someone as a putative lawbreaker,</quote> von Lohmann
@@ -10265,6 +10272,7 @@ Are Weapons at Universities,</quote> <citetitle>USA Today</citetitle>, 26 Septem
 your daughter can lose the right to use the university's computer
 network.  She can, in some cases, be expelled.
 </para>
+<indexterm startref='idxisps' class='endofrange'/>
 <para>
 Now, of course, she'll have the right to defend herself. You can hire
 a lawyer for her (at $300 per hour, if you're lucky), and she can
