@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-13 19:19+0300\n"
+"POT-Creation-Date: 2012-08-13 21:10+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4450,9 +4450,10 @@ msgid ""
 "dealt with some of the issues and people he was covering.</quote>)"
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Se Michael Falcone, <quote>Does an Editor's Pencil Ruin a Web Log?</quote> "
-"<citetitle>New York Times</citetitle>, 29. september 2003, C4. (<quote>Ikke "
-"alle nyhetsorganisasjoner har hatt like stor aksept for ansatte som blogger. "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Se Michael Falcone, "
+"<quote>Does an Editor's Pencil Ruin a Web Log?</quote> <citetitle>New York "
+"Times</citetitle>, 29. september 2003, C4. (<quote>Ikke alle "
+"nyhetsorganisasjoner har hatt like stor aksept for ansatte som blogger. "
 "Kevin Sites, en CNN-korrespondent i Irak som startet en blogg om sin "
 "rapportering av krigen 9. mars, stoppet å publisere 12 dager senere på "
 "forespørsel fra sine sjefer. I fjor fikk Steve Olafson, en "
@@ -13735,6 +13736,10 @@ msgstr ""
 "pet om hvordan å hacke datamaskinen \"hund\" slik at den gjør nye triks "
 "(derfor aibohack.com)."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "hacks"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14097,7 +14102,7 @@ msgstr ""
 msgid "Rogers, Fred"
 msgstr "Rogers, Fred"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Conrad, Paul"
 msgstr "Conrad, Paul"
 
@@ -14196,6 +14201,10 @@ msgstr ""
 "opphavsrettsbeskyttet materiale på måter som vil anses rimelig bruk&mdash;en "
 "god slutt."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "handguns"
+msgstr ""
+
 #.  PAGE BREAK 171
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14227,8 +14236,7 @@ msgid ""
 "technologies) are illegal. Flash: <emphasis>No one ever died from copyright "
 "circumvention</emphasis>. Yet the law bans circumvention technologies "
 "absolutely, despite the potential that they might do some good, but permits "
-"guns, despite the obvious and tragic harm they do.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"guns, despite the obvious and tragic harm they do."
 msgstr ""
 "den åpenbare punkt conrad's tegneserie er weirdness av en verden der guns er "
 "juridisk, til tross for skade som de kan gjøre, mens videospillere (og "

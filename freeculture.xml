@@ -7607,6 +7607,7 @@ how to teach the dog to do new tricks is just to say that aibopet.com
 was giving information to users of the Aibo pet about how to hack
 their computer <quote>dog</quote> to make it do new tricks (thus, aibohack.com).
 </para>
+<indexterm><primary>hacks</primary></indexterm>
 <para>
 If you're not a programmer or don't know many programmers, the word
 <citetitle>hack</citetitle> has a particularly unfriendly
@@ -7881,6 +7882,9 @@ pirating of copyrighted material&mdash;a bad end. Or they can be used
 to enable the use of particular copyrighted materials in ways that
 would be considered fair use&mdash;a good end.
 </para>
+<indexterm id='idxhandguns' class='startofrange'>
+  <primary>handguns</primary>
+</indexterm>
 <para>
 A handgun can be used to shoot a police officer or a child. Most
 <!-- PAGE BREAK 171 -->
@@ -7893,6 +7897,7 @@ and bad uses.
 <title>VCR/handgun cartoon.</title>
 <graphic fileref="images/1711.png"></graphic>
 </figure>
+<indexterm><primary>Conrad, Paul</primary></indexterm>
 <para>
 The obvious point of Conrad's cartoon is the weirdness of a world
 where guns are legal, despite the harm they can do, while VCRs (and
@@ -7900,8 +7905,8 @@ circumvention technologies) are illegal. Flash: <emphasis>No one ever
 died from copyright circumvention</emphasis>. Yet the law bans circumvention
 technologies absolutely, despite the potential that they might do some
 good, but permits guns, despite the obvious and tragic harm they do.
-<indexterm><primary>Conrad, Paul</primary></indexterm>
 </para>
+<indexterm startref='idxhandguns' class='endofrange'/>
 <indexterm><primary>Aibo robotic dog</primary></indexterm>
 <indexterm><primary>robotic dog</primary></indexterm>
 <indexterm>
