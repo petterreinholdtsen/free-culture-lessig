@@ -5879,7 +5879,6 @@ msgstr "Kabel-TV kom også fra en form for piratvirksomhet."
 
 #.  PAGE BREAK 73
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "When cable entrepreneurs first started wiring communities with cable "
 "television in 1948, most refused to pay broadcasters for the content that "
@@ -5889,13 +5888,13 @@ msgid ""
 "egregiously than anything Napster ever did&mdash; Napster never charged for "
 "the content it enabled others to give away."
 msgstr ""
-"da kabel gründere startet ledningsnett fellesskap med kabel-TV i 1948, mest "
-"nektet å betale broadcasters for innhold som de echoed til sine kunder. selv "
-"når kabelselskaper begynte å selge tilgang til TV-sendinger, nektet de å "
-"betale for hva de solgte. kabelselskaper var dermed napsterizing "
-"broadcasters' innhold, men mer egregiously enn noe napster gjorde "
-"noensinne&mdash;napster belastet aldri for innholdet det aktivert andre til "
-"å gi bort."
+"Da kabel-TV-gründere først begynte å koble opp fellesskap med "
+"kabel-TV i 1948, nektet de fleste å betale kringkasterne for innholdet "
+"som de sendte videre til sine kunder.  Selv da kabelselskapene begynte "
+"å selge tilgang til TV-kringkastinger, nektet de å betale for det de "
+"solgte.  Kabelselskapene Napsteriserte dermed kringkasternes innhold, "
+"men grovere enn det Napster noen gang gjorde&mdash;Napster tok aldri "
+"betalt for innholdet som det ble mulig for andre å gi bort."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Anello, Douglas"
