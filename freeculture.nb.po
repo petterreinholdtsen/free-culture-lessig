@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-12 22:22+0300\n"
+"POT-Creation-Date: 2012-08-13 08:02+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3931,6 +3931,10 @@ msgstr ""
 "bruke det språket de ikke håndterte veldig bra.  Men de hadde begynt å "
 "forstå at de hadde mye gjennomslagskraft med dette språket."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "World Trade Center"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "When two planes crashed into the World Trade Center, another into the "
@@ -4978,6 +4982,14 @@ msgstr ""
 "opphavsrettskrenkelser, krevde de dermed at Jesse betalte dem minst "
 "$15&nbsp;000&nbsp;000."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Princeton University"
+msgstr "Princeton University"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Michigan Technical University"
+msgstr "Michigan Technical University"
+
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -5888,13 +5900,13 @@ msgid ""
 "egregiously than anything Napster ever did&mdash; Napster never charged for "
 "the content it enabled others to give away."
 msgstr ""
-"Da kabel-TV-gründere først begynte å koble opp fellesskap med "
-"kabel-TV i 1948, nektet de fleste å betale kringkasterne for innholdet "
-"som de sendte videre til sine kunder.  Selv da kabelselskapene begynte "
-"å selge tilgang til TV-kringkastinger, nektet de å betale for det de "
-"solgte.  Kabelselskapene Napsteriserte dermed kringkasternes innhold, "
-"men grovere enn det Napster noen gang gjorde&mdash;Napster tok aldri "
-"betalt for innholdet som det ble mulig for andre å gi bort."
+"Da kabel-TV-gründere først begynte å koble opp fellesskap med kabel-TV i "
+"1948, nektet de fleste å betale kringkasterne for innholdet som de sendte "
+"videre til sine kunder.  Selv da kabelselskapene begynte å selge tilgang til "
+"TV-kringkastinger, nektet de å betale for det de solgte.  Kabelselskapene "
+"Napsteriserte dermed kringkasternes innhold, men grovere enn det Napster "
+"noen gang gjorde&mdash;Napster tok aldri betalt for innholdet som det ble "
+"mulig for andre å gi bort."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Anello, Douglas"
@@ -6382,7 +6394,7 @@ msgstr "GNU/Linux-operativsystemet"
 msgid "Linux operating system"
 msgstr "Linux-operativsystemet"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Microsoft"
 msgstr "Microsoft"
 
@@ -10010,15 +10022,19 @@ msgstr ""
 "Internett er orwell's bibliotek&mdash;oppdatert hele tiden, uten noen "
 "pålitelig minne."
 
-#.  f1
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "White House press releases"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"The temptations remain, however. Brewster Kahle reports that the White House "
-"changes its own press releases without notice. A May 13, 2003, press release "
-"stated, <quote>Combat Operations in Iraq Have Ended.</quote> That was later "
-"changed, without notice, to <quote>Major Combat Operations in Iraq Have "
-"Ended.</quote> E-mail from Brewster Kahle, 1 December 2003."
+"<placeholder type=\"indexterm\" id=\"0\"/> The temptations remain, however. "
+"Brewster Kahle reports that the White House changes its own press releases "
+"without notice. A May 13, 2003, press release stated, <quote>Combat "
+"Operations in Iraq Have Ended.</quote> That was later changed, without "
+"notice, to <quote>Major Combat Operations in Iraq Have Ended.</quote> E-mail "
+"from Brewster Kahle, 1 December 2003."
 msgstr ""
 "fristelsene fortsatt, men. Brewster kahle rapporterer at det hvite hus "
 "endrer sin egen pressemeldinger uten varsel. en mai 13, 2003, pressemelding "
@@ -25593,7 +25609,7 @@ msgstr ""
 msgid "Fisher, William"
 msgstr "Fisher, William"
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Promises to Keep (Fisher)"
 msgstr ""
 
@@ -25698,7 +25714,7 @@ msgid ""
 "years. If it continues to make sense to facilitate free exchange of content, "
 "supported through a taxation system, then it can be continued. If this form "
 "of protection is no longer necessary, then the system could lapse into the "
-"old system of controlling access.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"old system of controlling access."
 msgstr ""
 "fisher's forslag er grundige og omfattende. det reiser en million "
 "spørsmålene, mest av som han svarer godt i hans kommende bok, lover å holde. "
