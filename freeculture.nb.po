@@ -6104,6 +6104,15 @@ msgid ""
 "could well be expanded. Every generation welcomes the pirates from the last. "
 "Every generation&mdash;until now."
 msgstr ""
+"Disse separate historiene synger en felles melodi.  Hvis "
+"<quote>piratvirksomhet</quote> betyr å bruke verdien fra noen andres "
+"kreative eiendom uten tillatelse fra dets skaper&mdash;slik det stadig "
+"oftere beskrives i dag<placeholder type=\"footnote\" id=\"0\"/> "
+"&mdash;da er <emphasis>enhver</emphasis> industri påvirket av "
+"opphavsrett i dag produktet og de som har nytt godt av ulike former "
+"for piratvirksomhet.  Film, plater, radio, kabel-TV. &hellip; Listen "
+"er lang og kunne vært lengre.  Hver generasjon ønsker piratene fra den "
+"forrige velkommen.  Hver generasjon&mdash;inntil nå."
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER FIVE: <quote>Piracy</quote>"
@@ -7741,14 +7750,14 @@ msgstr ""
 
 #.  f26
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "John Schwartz, <quote>New Economy: The Attack on Peer-to-Peer Software "
 "Echoes Past Efforts,</quote> <citetitle>New York Times</citetitle>, 22 "
 "September 2003, C3."
 msgstr ""
-"John schwartz, \"nye økonomien: angrepet på node-til-node-programvare "
-"reflekterer forbi innsats,\" new york times, 22 september 2003, c3."
+"John Schwartz, <quote>New Economy: The Attack on Peer-to-Peer Software "
+"Echoes Past Efforts,</quote> <citetitle>New York Times</citetitle>, 22. "
+"september 2003, C3."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
