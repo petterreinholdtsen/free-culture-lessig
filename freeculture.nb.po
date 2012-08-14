@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-13 22:43+0300\n"
+"POT-Creation-Date: 2012-08-14 07:31+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1951,6 +1951,10 @@ msgstr ""
 #. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "Dreyfuss, Rochelle"
 msgstr "Dreyfuss, Rochelle"
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "Girl Schouts"
+msgstr "Jentespeidere"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>if value, then right</quote> theory"
@@ -11580,7 +11584,7 @@ msgstr ""
 msgid "Brezhnev, Leonid"
 msgstr "Brezhnev, Leonid"
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Gates, Bill"
 msgstr "Gates, Bill"
 
@@ -16966,18 +16970,22 @@ msgstr ""
 "domstoler og Kongressen innført juridiske restriksjoner som vil ha effekten "
 "av smothering ny for å dra nytte av gamle."
 
-#.  f10.
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Grokster, Ltd."
+msgstr "Grokster, Ltd."
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"The only circuit court exception is found in <citetitle>Recording Industry "
-"Association of America (RIAA)</citetitle> v. <citetitle>Diamond Multimedia "
-"Systems</citetitle>, 180 F. 3d 1072 (9th Cir. 1999). There the court of "
-"appeals for the Ninth Circuit reasoned that makers of a portable MP3 player "
-"were not liable for contributory copyright infringement for a device that is "
-"unable to record or redistribute music (a device whose only copying function "
-"is to render portable a music file already stored on a user's hard drive).  "
-"At the district court level, the only exception is found in <citetitle>Metro-"
+"<placeholder type=\"indexterm\" id=\"0\"/> The only circuit court exception "
+"is found in <citetitle>Recording Industry Association of America (RIAA)</"
+"citetitle> v. <citetitle>Diamond Multimedia Systems</citetitle>, 180 F. 3d "
+"1072 (9th Cir. 1999). There the court of appeals for the Ninth Circuit "
+"reasoned that makers of a portable MP3 player were not liable for "
+"contributory copyright infringement for a device that is unable to record or "
+"redistribute music (a device whose only copying function is to render "
+"portable a music file already stored on a user's hard drive).  At the "
+"district court level, the only exception is found in <citetitle>Metro-"
 "Goldwyn-Mayer Studios, Inc</citetitle>. v. <citetitle>Grokster, Ltd</"
 "citetitle>., 259 F. Supp. 2d 1029 (C.D.  Cal., 2003), where the court found "
 "the link between the distributor and any given user's conduct too attenuated "
@@ -20338,6 +20346,10 @@ msgstr ""
 msgid "Breyer, Stephen"
 msgstr "Breyer, Stephen"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Ginsburg, Ruth Bader"
+msgstr "Ginsburg, Ruth Bader"
+
 #.  PAGE BREAK 242
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -21495,27 +21507,30 @@ msgstr ""
 msgid "Berne Convention (1908)"
 msgstr "Bern-konvensjonen (1908)"
 
-#.  f1.
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "German copyright law"
+msgstr "Tysk opphavsrettslov"
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"Until the 1908 Berlin Act of the Berne Convention, national copyright "
-"legislation sometimes made protection depend upon compliance with "
-"formalities such as registration, deposit, and affixation of notice of the "
-"author's claim of copyright. However, starting with the 1908 act, every text "
-"of the Convention has provided that <quote>the enjoyment and the exercise</"
-"quote> of rights guaranteed by the Convention <quote>shall not be subject to "
-"any formality.</quote> The prohibition against formalities is presently "
-"embodied in Article 5(2) of the Paris Text of the Berne Convention. Many "
-"countries continue to impose some form of deposit or registration "
-"requirement, albeit not as a condition of copyright. French law, for "
-"example, requires the deposit of copies of works in national repositories, "
-"principally the National Museum.  Copies of books published in the United "
-"Kingdom must be deposited in the British Library. The German Copyright Act "
-"provides for a Registrar of Authors where the author's true name can be "
-"filed in the case of anonymous or pseudonymous works. Paul Goldstein, "
-"<citetitle>International Intellectual Property Law, Cases and Materials</"
-"citetitle> (New York: Foundation Press, 2001), 153&ndash;54."
+"<placeholder type=\"indexterm\" id=\"0\"/> Until the 1908 Berlin Act of the "
+"Berne Convention, national copyright legislation sometimes made protection "
+"depend upon compliance with formalities such as registration, deposit, and "
+"affixation of notice of the author's claim of copyright. However, starting "
+"with the 1908 act, every text of the Convention has provided that <quote>the "
+"enjoyment and the exercise</quote> of rights guaranteed by the Convention "
+"<quote>shall not be subject to any formality.</quote> The prohibition "
+"against formalities is presently embodied in Article 5(2) of the Paris Text "
+"of the Berne Convention. Many countries continue to impose some form of "
+"deposit or registration requirement, albeit not as a condition of copyright. "
+"French law, for example, requires the deposit of copies of works in national "
+"repositories, principally the National Museum.  Copies of books published in "
+"the United Kingdom must be deposited in the British Library. The German "
+"Copyright Act provides for a Registrar of Authors where the author's true "
+"name can be filed in the case of anonymous or pseudonymous works. Paul "
+"Goldstein, <citetitle>International Intellectual Property Law, Cases and "
+"Materials</citetitle> (New York: Foundation Press, 2001), 153&ndash;54."
 msgstr ""
 "før det 1908 berlin handle av berne konvensjonen, nasjonal opphavsrett "
 "lovgivning noen ganger gjort beskyttelse som er avhengige av samsvar med "
@@ -22990,6 +23005,10 @@ msgstr ""
 "tilgivelig hos en førsteårs jusstudent, men pinlig fra en høyt plassert "
 "statstjenestemann som håndterer utfordringer rundt immaterielle rettigheter."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "generic drugs"
+msgstr "generiske medisiner"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Second, who ever said that WIPO's exclusive aim was to <quote>promote</"
@@ -23027,8 +23046,7 @@ msgid ""
 "away more than $20 billion to do good in the world, that is not inconsistent "
 "with the objectives of the property system. That is, on the contrary, just "
 "what a property system is supposed to be about: giving individuals the right "
-"to decide what to do with <emphasis>their</emphasis> property.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"to decide what to do with <emphasis>their</emphasis> property."
 msgstr ""
 "For det tredje, selv om en tror at formålet med WIPO var å maksimere "
 "immaterielle rettigheter, så innehas immaterielle rettigheter, i vår "
@@ -23039,8 +23057,7 @@ msgstr ""
 "Bill Gates gir bort mer enn $20 milliarder til gode formål, så er ikke det "
 "uforenelig med målene til eiendomssystemet.  Det er heller tvert i mot, "
 "akkurat hva eiendomssysstemet er ment å oppnå, at individer har retten til å "
-"bestemme hva de vil gjøre med <emphasis>sin</emphasis> eiendom.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"bestemme hva de vil gjøre med <emphasis>sin</emphasis> eiendom."
 
 #.  PAGE BREAK 274
 #. type: Content of: <book><chapter><para>

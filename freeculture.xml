@@ -1173,6 +1173,7 @@ piracy.
 </para>
 </blockquote>
 <indexterm><primary>Dreyfuss, Rochelle</primary></indexterm>
+<indexterm><primary>Girl Schouts</primary></indexterm>
 <indexterm id='idxifvalue' class='startofrange'>
   <primary><quote>if value, then right</quote> theory</primary>
 </indexterm>
@@ -9576,6 +9577,7 @@ that will have the effect of smothering the new to benefit the old.
 <para>
 The response by the courts has been fairly universal.<footnote><para>
 <!-- f10. -->
+<indexterm><primary>Grokster, Ltd.</primary></indexterm>
 The only circuit court exception is found in <citetitle>Recording Industry
 Association of America (RIAA)</citetitle> v. <citetitle>Diamond Multimedia Systems</citetitle>, 180 F. 3d
 1072 (9th Cir. 1999). There the court of appeals for the Ninth Circuit
@@ -11532,6 +11534,9 @@ of cases that said that an enumerated power had to be interpreted to
 assure that Congress's powers had limits.
 </para>
 <indexterm><primary>Breyer, Stephen</primary></indexterm>
+<indexterm id='idxginsburg' class='startofrange'>
+  <primary>Ginsburg, Ruth Bader</primary>
+</indexterm>
 <para>
 The Rest were the four Justices who had strongly opposed limits on
 Congress's power. These four&mdash;Justice Stevens, Justice Souter,
@@ -11564,6 +11569,7 @@ also very sensitive to free speech concerns. And as we strongly
 believed, there was a very important free speech argument against
 these retrospective extensions.
 </para>
+<indexterm startref='idxginsburg' class='endofrange'/>
 <para>
 The only vote we could be confident about was that of Justice
 Stevens. History will record Justice Stevens as one of the greatest
@@ -11862,6 +11868,7 @@ distinguish the principle in this case from the principle in
 cited. The argument that was the core argument of our case did not
 even appear in the Court's opinion.
 </para>
+<indexterm><primary>Ginsburg, Ruth Bader</primary></indexterm>
 <para>
 
 <!-- PAGE BREAK 249 -->
@@ -12159,6 +12166,7 @@ linkend="property-i"/>, formalities in copyright law were
 removed in 1976, when Congress followed the Europeans by abandoning
 any formal requirement before a copyright is granted.<footnote><para>
 <!-- f1. -->
+<indexterm><primary>German copyright law</primary></indexterm>
 Until the 1908 Berlin Act of the Berne Convention, national copyright
 legislation sometimes made protection depend upon compliance with
 formalities such as registration, deposit, and affixation of notice of
@@ -12950,6 +12958,7 @@ in understanding&mdash;the sort of mistake that is excusable in a
 first-year law student, but an embarrassment from a high government
 official dealing with intellectual property issues.
 </para>
+<indexterm><primary>generic drugs</primary></indexterm>
 <para>
 Second, who ever said that WIPO's exclusive aim was to <quote>promote</quote>
 intellectual property maximally? As I had been scolded at the
@@ -12963,6 +12972,7 @@ based on drugs whose patent has expired) contrary to the WIPO mission?
 Does the public domain weaken intellectual property? Would it have
 been better if the protocols of the Internet had been patented?
 </para>
+<indexterm><primary>Gates, Bill</primary></indexterm>
 <para>
 Third, even if one believed that the purpose of WIPO was to maximize
 intellectual property rights, in our tradition, intellectual property
@@ -12975,7 +12985,6 @@ good in the world, that is not inconsistent with the objectives of the
 property system. That is, on the contrary, just what a property system
 is supposed to be about: giving individuals the right to decide what
 to do with <emphasis>their</emphasis> property.
-<indexterm><primary>Gates, Bill</primary></indexterm>
 </para>
 <para>
 When Ms. Boland says that there is something wrong with a meeting
