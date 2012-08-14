@@ -3987,6 +3987,10 @@ statutory licensing, they don't have to pay the copyright owner for
 the content they sell.
 </para>
 <indexterm><primary>Bernstein, Leonard</primary></indexterm>
+<indexterm>
+  <primary>books</primary>
+  <secondary>out of print</secondary>
+</indexterm>
 <para>
 Type C sharing, then, is very much like used book stores or used
 record stores. It is different, of course, because the person making
@@ -4008,6 +4012,10 @@ stores. Or put differently, if you think that type C sharing should be
 stopped, do you think that libraries and used book stores should be
 shut as well?
 </para>
+<indexterm id='idxbooksfreeonline1' class='startofrange'>
+  <primary>books</primary>
+  <secondary>free on-line releases of</secondary>
+</indexterm>
 <para>
 Finally, and perhaps most importantly, file-sharing networks enable
 type D sharing to occur&mdash;the sharing of content that copyright owners
@@ -4025,6 +4033,7 @@ type D content. If sharing networks enable his work to be spread, then
 both he and society are better off. (Actually, much better off: It is a
 great book!)
 </para>
+<indexterm startref='idxbooksfreeonline1' class='endofrange'/>
 <para>
 Likewise for work in the public domain: This sharing benefits society
 with no legal harm to authors at all. If efforts to solve the problem
@@ -4494,6 +4503,10 @@ from the implications that the copyright warriors would have us draw.
 <title>CHAPTER SIX: Founders</title>
 <indexterm><primary>Henry V</primary></indexterm>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
+<indexterm id='idxbooksenglishlaw' class='startofrange'>
+  <primary>books</primary>
+  <secondary>English copyright law developed for</secondary>
+</indexterm>
 <para>
 <emphasis role='strong'>William Shakespeare</emphasis> wrote
 <citetitle>Romeo and Juliet</citetitle> in 1595. The play was first
@@ -4992,6 +5005,7 @@ antimonopoly, resistant to the protectionist pleas of publishers. In a
 world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
+<indexterm startref='idxbooksenglishlaw' class='endofrange'/>
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
@@ -5811,10 +5825,18 @@ build an archive of knowledge about our history. In this second life,
 the content can continue to inform even if that information is no
 longer sold.
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>out of print</secondary>
+</indexterm>
 <para>
 The same has always been true about books. A book goes out of print
 very quickly (the average today is after about a year<footnote><para>
 <!-- f3 -->
+<indexterm>
+  <primary>books</primary>
+  <secondary>out of print</secondary>
+</indexterm>
 Dave Barns, <quote>Fledgling Career in Antique Books: Woodstock Landlord,
 Bar Owner Starts a New Chapter by Adopting Business,</quote> <citetitle>Chicago Tribune</citetitle>,
 5 September 1997, at Metro Lake 1L. Of books published between 1927
@@ -6747,6 +6769,10 @@ M. Landes and Richard A.  Posner, <quote>Indefinitely Renewable Copyright,</quot
 <citetitle>University of Chicago Law Review</citetitle> 70 (2003): 471, 498&ndash;501, and
 accompanying figures.  </para></footnote>
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>out of print</secondary>
+</indexterm>
 <para>
 Even today, this structure would make sense. Most creative work
 has an actual commercial life of just a couple of years. Most books fall
@@ -7146,6 +7172,10 @@ In real space, then, the possible uses of a book are divided into three
 sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed <quote>fair</quote> regardless of the copyright owner's views.
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>on Internet</secondary>
+</indexterm>
 <para>
 Enter the Internet&mdash;a distributed, digital network where every use
 of a copyrighted work produces a copy.<footnote><para>
@@ -7179,6 +7209,10 @@ night before you went to bed. None of those instances of
 use&mdash;reading&mdash; could be regulated by copyright law because
 none of those uses produced a copy.
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>on Internet</secondary>
+</indexterm>
 <para>
 But the same book as an e-book is effectively governed by a different
 set of rules. Now if the copyright owner says you may read the book
@@ -7391,6 +7425,10 @@ like the Marx Brothers, knew that no court would ever enforce such a
 silly claim. This extremism was irrelevant to the real freedoms anyone
 (including Warner Brothers) enjoyed.
 </para>
+<indexterm id='idxbooksoninternet' class='startofrange'>
+  <primary>books</primary>
+  <secondary>on Internet</secondary>
+</indexterm>
 <para>
 On the Internet, however, there is no check on silly rules, because on
 the Internet, increasingly, rules are enforced not by a human but by a
@@ -7604,6 +7642,7 @@ control.  That incentive is understandable, yet what it creates is
 often crazy.
 </para>
 <indexterm startref="idxadobeebookreader" class='endofrange'/>
+<indexterm startref='idxbooksoninternet' class='endofrange'/>
 <para>
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.
@@ -13705,6 +13744,10 @@ freedoms, expressed in ways so that humans without lawyers can use
 them&mdash;are needed. Creative Commons gives people a way effectively
 to begin to build those rules.
 </para>
+<indexterm id='idxbooksfreeonline2' class='startofrange'>
+  <primary>books</primary>
+  <secondary>free on-line releases of</secondary>
+</indexterm>
 <para>
 Why would creators participate in giving up total control? Some
 participate to better spread their content. Cory Doctorow, for
@@ -13730,6 +13773,8 @@ conclusion.  The book's first printing was exhausted months before the
 publisher had expected. This first novel of a science fiction author
 was a total success.
 </para>
+<indexterm><primary>Free for All (Wayner)</primary></indexterm>
+<indexterm><primary>Wayner, Peter</primary></indexterm>
 <para>
 The idea that free content might increase the value of nonfree content
 was confirmed by the experience of another author. Peter Wayner,
@@ -13740,9 +13785,8 @@ Commons license after the book went out of print. He then monitored
 used book store prices for the book. As predicted, as the number of
 downloads increased, the used book price for his book increased, as
 well.
-<indexterm><primary>Free for All (Wayner)</primary></indexterm>
-<indexterm><primary>Wayner, Peter</primary></indexterm>
 </para>
+<indexterm startref='idxbooksfreeonline2' class='endofrange'/>
 <indexterm><primary>Public Enemy</primary></indexterm>
 <indexterm><primary>rap music</primary></indexterm>
 <indexterm><primary>Leaphart, Walter</primary></indexterm>
@@ -14428,6 +14472,10 @@ unavailable because the work is forgotten. Either way, the aim of the
 law should be to facilitate the access to this content, ideally in a
 way that returns something to the artist.
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>out of print</secondary>
+</indexterm>
 <para>
 Again, the model here is the used book store. Once a book goes out of
 print, it may still be available in libraries and used book

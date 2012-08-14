@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-14 15:16+0300\n"
+"POT-Creation-Date: 2012-08-14 18:52+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4481,15 +4481,14 @@ msgid ""
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
-"\"indexterm\" id=\"3\"/>  Se Michael Falcone, "
-"<quote>Does an Editor's Pencil Ruin a Web Log?</quote> <citetitle>New York "
-"Times</citetitle>, 29. september 2003, C4. (<quote>Ikke alle "
-"nyhetsorganisasjoner har hatt like stor aksept for ansatte som blogger. "
-"Kevin Sites, en CNN-korrespondent i Irak som startet en blogg om sin "
-"rapportering av krigen 9. mars, stoppet å publisere 12 dager senere på "
-"forespørsel fra sine sjefer. I fjor fikk Steve Olafson, en "
-"<citetitle>Houston Chronicle</citetitle>-reporter, sparken for å ha hatt en "
-"personlig web-logg, publisert under pseudonym, som handlet om noen av "
+"\"indexterm\" id=\"3\"/>  Se Michael Falcone, <quote>Does an Editor's Pencil "
+"Ruin a Web Log?</quote> <citetitle>New York Times</citetitle>, 29. september "
+"2003, C4. (<quote>Ikke alle nyhetsorganisasjoner har hatt like stor aksept "
+"for ansatte som blogger. Kevin Sites, en CNN-korrespondent i Irak som "
+"startet en blogg om sin rapportering av krigen 9. mars, stoppet å publisere "
+"12 dager senere på forespørsel fra sine sjefer. I fjor fikk Steve Olafson, "
+"en <citetitle>Houston Chronicle</citetitle>-reporter, sparken for å ha hatt "
+"en personlig web-logg, publisert under pseudonym, som handlet om noen av "
 "temaene og folkene som han dekket.</quote>)"
 
 #.  PAGE BREAK 58
@@ -7161,6 +7160,14 @@ msgstr ""
 msgid "Bernstein, Leonard"
 msgstr "Bernstein, Leonard"
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "books"
+msgstr "bøker"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "out of print"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -7201,6 +7208,10 @@ msgstr ""
 "være bedre, den følger ikke at det ville være fint å forbud brukte "
 "bokhandlere. eller sagt på en annen måte, hvis du tror at typen c deling bør "
 "stoppes, tror du at biblioteker og brukte bokhandlere bør være stengt også?"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "free on-line releases of"
+msgstr "gratis online-utgivelser av"
 
 #.  PAGE BREAK 86
 #. type: Content of: <book><part><chapter><section><para>
@@ -8006,6 +8017,10 @@ msgstr "Henry V"
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
 msgstr "Branagh, Kenneth"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "English copyright law developed for"
+msgstr "Engelsk opphavsrettslov utviklet for"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10492,17 +10507,16 @@ msgstr ""
 "kunnskap om vår historie. i denne second life, kan innholdet fortsette å "
 "informere selv om denne informasjonen ikke lenger er solgt."
 
-#.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"Dave Barns, <quote>Fledgling Career in Antique Books: Woodstock Landlord, "
-"Bar Owner Starts a New Chapter by Adopting Business,</quote> "
-"<citetitle>Chicago Tribune</citetitle>, 5 September 1997, at Metro Lake 1L. "
-"Of books published between 1927 and 1946, only 2.2 percent were in print in "
-"2002. R. Anthony Reese, <quote>The First Sale Doctrine in the Era of Digital "
-"Networks,</quote> <citetitle>Boston College Law Review</citetitle> 44 "
-"(2003): 593 n. 51."
+"<placeholder type=\"indexterm\" id=\"0\"/> Dave Barns, <quote>Fledgling "
+"Career in Antique Books: Woodstock Landlord, Bar Owner Starts a New Chapter "
+"by Adopting Business,</quote> <citetitle>Chicago Tribune</citetitle>, 5 "
+"September 1997, at Metro Lake 1L. Of books published between 1927 and 1946, "
+"only 2.2 percent were in print in 2002. R. Anthony Reese, <quote>The First "
+"Sale Doctrine in the Era of Digital Networks,</quote> <citetitle>Boston "
+"College Law Review</citetitle> 44 (2003): 593 n. 51."
 msgstr ""
 "Dave barns, \"fledgling karriere i antikke bøker: woodstock utleier, bar "
 "eier starter et nytt kapittel ved å innta virksomhet,\" chicago tribune, 5 "
@@ -10591,10 +10605,6 @@ msgstr ""
 "omfanget av dette potensielle arkivet er noe vi har aldri forestilt meg før. "
 "brewster kahles i vår historie har drømt om det; men vi er for første gang "
 "ved et punkt der det er mulig at drømmen. som kahle beskriver,"
-
-#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
-msgid "books"
-msgstr "bøker"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><secondary>
 msgid "total number of"
@@ -12886,6 +12896,10 @@ msgstr ""
 "tre sorterer: (1) unregulated bruker, (2) regulert bruker og (3) regulert "
 "bruker som likevel anses \"rettferdig\" uavhengig av copyrighteieren "
 "visninger."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on Internet"
+msgstr "på internet"
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -24439,14 +24453,15 @@ msgstr ""
 "første utskrift er oppbrukt måneder før utgiveren hadde forventet. denne "
 "første romanen av en science fiction-forfatteren var en total suksess."
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Free for All (Wayner)"
 msgstr ""
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Wayner, Peter"
 msgstr "Wayner, Peter"
 
+#.  PAGE BREAK 290
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -24456,9 +24471,7 @@ msgid ""
 "citetitle>, made an electronic version of his book free on-line under a "
 "Creative Commons license after the book went out of print. He then monitored "
 "used book store prices for the book. As predicted, as the number of "
-"downloads increased, the used book price for his book increased, as well.  "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
+"downloads increased, the used book price for his book increased, as well."
 msgstr ""
 "idéen at gratis innhold kan øke verdien av nonfree innhold ble bekreftet av "
 "opplevelsen av en annen forfatter. Peter wayner, som skrev en bok om fri "
