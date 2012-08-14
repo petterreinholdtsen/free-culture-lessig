@@ -3959,6 +3959,10 @@ available, the vast majority of it is unavailable solely because the
 publisher or the distributor has decided it no longer makes economic
 sense <emphasis>to the company</emphasis> to make it available.
 </para>
+<indexterm>
+  <primary>books</primary>
+  <secondary>resales of</secondary>
+</indexterm>
 <para>
 In real space&mdash;long before the Internet&mdash;the market had a simple
 <!-- PAGE BREAK 85 -->
@@ -3966,15 +3970,19 @@ response to this problem: used book and record stores. There are
 thousands of used book and used record stores in America
 today.<footnote><para>
 <!-- f16 -->
-While there are not good estimates of the number of used record stores in
-existence, in 2002, there were 7,198 used book dealers in the United States,
-an increase of 20 percent since 1993. See Book Hunter Press, <citetitle>The Quiet
-Revolution: The Expansion of the Used Book Market</citetitle> (2002), available at 
-<ulink url="http://free-culture.cc/notes/">link #19</ulink>. Used records accounted for $260 million in sales in 2002. See 
-		National
-Association of Recording Merchandisers, <quote>2002 Annual Survey 
-		Results,</quote>
-available at 
+<indexterm>
+  <primary>books</primary>
+  <secondary>resales of</secondary>
+</indexterm>
+While there are not good estimates of the number of used record stores
+in existence, in 2002, there were 7,198 used book dealers in the
+United States, an increase of 20 percent since 1993. See Book Hunter
+Press, <citetitle>The Quiet Revolution: The Expansion of the Used Book
+Market</citetitle> (2002), available at
+<ulink url="http://free-culture.cc/notes/">link #19</ulink>. Used
+records accounted for $260 million in sales in 2002. See National
+Association of Recording Merchandisers, <quote>2002 Annual Survey
+Results,</quote> available at
 <ulink url="http://free-culture.cc/notes/">link #20</ulink>.
 </para></footnote>
 These stores buy content from owners, then sell the content they
@@ -4684,6 +4692,9 @@ have it forever.</quote>) The state would protect the exclusive right, but
 only so long as it benefited society. The British saw the harms from
 specialinterest favors; they passed a law to stop them.
 </para>
+<indexterm id='idxbooksellers' class='startofrange'>
+  <primary>booksellers, English</primary>
+</indexterm>
 <para>
 Second, about booksellers. It wasn't just that the copyright was a
 monopoly. It was also that it was a monopoly held by the booksellers.
@@ -4999,6 +5010,7 @@ context</emphasis>, not a context in which the choices about what
 culture is available to people and how they get access to it are made
 by the few despite the wishes of the many.
 </para>
+<indexterm startref='idxbooksellers' class='endofrange'/>
 <para>
 At least, this was the rule in a world where the Parliament is
 antimonopoly, resistant to the protectionist pleas of publishers. In a
@@ -6773,6 +6785,10 @@ accompanying figures.  </para></footnote>
   <primary>books</primary>
   <secondary>out of print</secondary>
 </indexterm>
+<indexterm>
+  <primary>books</primary>
+  <secondary>resales of</secondary>
+</indexterm>
 <para>
 Even today, this structure would make sense. Most creative work
 has an actual commercial life of just a couple of years. Most books fall
@@ -7112,6 +7128,10 @@ empty circle.
 <title>All potential uses of a book.</title>
 <graphic fileref="images/1521.png"></graphic>
 </figure>
+<indexterm id='idxbooksusetypes' class='startofrange'>
+  <primary>books</primary>
+  <secondary>three types of uses of</secondary>
+</indexterm>
 <para>
 <!-- PAGE BREAK 152 -->
 Think about a book in real space, and imagine this circle to represent
@@ -7172,6 +7192,7 @@ In real space, then, the possible uses of a book are divided into three
 sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed <quote>fair</quote> regardless of the copyright owner's views.
 </para>
+<indexterm startref='idxbooksusetypes' class='endofrange'/>
 <indexterm>
   <primary>books</primary>
   <secondary>on Internet</secondary>
@@ -14475,6 +14496,10 @@ way that returns something to the artist.
 <indexterm>
   <primary>books</primary>
   <secondary>out of print</secondary>
+</indexterm>
+<indexterm>
+  <primary>books</primary>
+  <secondary>resales of</secondary>
 </indexterm>
 <para>
 Again, the model here is the used book store. Once a book goes out of

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-14 18:52+0300\n"
+"POT-Creation-Date: 2012-08-14 23:49+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -7128,18 +7128,25 @@ msgid ""
 "<emphasis>to the company</emphasis> to make it available."
 msgstr ""
 
-#.  f16
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "books"
+msgstr "bøker"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "resales of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
-"While there are not good estimates of the number of used record stores in "
-"existence, in 2002, there were 7,198 used book dealers in the United States, "
-"an increase of 20 percent since 1993. See Book Hunter Press, <citetitle>The "
-"Quiet Revolution: The Expansion of the Used Book Market</citetitle> (2002), "
-"available at <ulink url=\"http://free-culture.cc/notes/\">link #19</ulink>. "
-"Used records accounted for $260 million in sales in 2002. See National "
-"Association of Recording Merchandisers, <quote>2002 Annual Survey Results,</"
-"quote> available at <ulink url=\"http://free-culture.cc/notes/\">link #20</"
-"ulink>."
+"<placeholder type=\"indexterm\" id=\"0\"/> While there are not good "
+"estimates of the number of used record stores in existence, in 2002, there "
+"were 7,198 used book dealers in the United States, an increase of 20 percent "
+"since 1993. See Book Hunter Press, <citetitle>The Quiet Revolution: The "
+"Expansion of the Used Book Market</citetitle> (2002), available at <ulink "
+"url=\"http://free-culture.cc/notes/\">link #19</ulink>. Used records "
+"accounted for $260 million in sales in 2002. See National Association of "
+"Recording Merchandisers, <quote>2002 Annual Survey Results,</quote> "
+"available at <ulink url=\"http://free-culture.cc/notes/\">link #20</ulink>."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -7159,10 +7166,6 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Bernstein, Leonard"
 msgstr "Bernstein, Leonard"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "books"
-msgstr "bøker"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "out of print"
@@ -8367,6 +8370,10 @@ msgstr ""
 "skal ha det for alltid.</quote>) Staten ville beskytte eneretten, men bare "
 "så lenge det gavnet samfunnet. Britene så skadene særinteresserte kunne "
 "skape; de vedtok en lov for å stoppe dem."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "booksellers, English"
+msgstr "bokselgere, Engelske"
 
 #.  f4
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -12772,6 +12779,10 @@ msgstr "Alle potensielle bruk av en bok."
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1521.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1521.png\"></graphic>"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "three types of uses of"
+msgstr "tre typer bruk av"
 
 #.  PAGE BREAK 152
 #. type: Content of: <book><part><chapter><section><para>
