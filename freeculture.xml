@@ -431,7 +431,10 @@ visibly, on the concentration of power produced by a radical change in
 the effective scope of the law. The law is changing; that change is
 altering the way our culture gets made; that change should worry
 you&mdash;whether or not you care about the Internet, and whether you're on
-Safire's left or on his right.  The inspiration for the title and for
+Safire's left or on his right.
+</para>
+<para>
+<emphasis role="strong">The inspiration</emphasis> for the title and for
 much of the argument of this book comes from the work of Richard
 Stallman and the Free Software Foundation. Indeed, as I reread
 Stallman's own work, especially the essays in <citetitle>Free Software, Free
@@ -486,7 +489,7 @@ book is written.
 </indexterm>
 <indexterm><primary>Wright brothers</primary></indexterm>
 <para>
-On December 17, 1903, on a windy North Carolina beach for just
+<emphasis role="strong">On December 17</emphasis>, 1903, on a windy North Carolina beach for just
 shy of one hundred seconds, the Wright brothers demonstrated that a
 heavier-than-air, self-propelled vehicle could fly. The moment was electric
 and its importance widely understood. Almost immediately, there
@@ -605,21 +608,21 @@ allowed to defeat an obvious public gain.
 <indexterm id='idxarmstrongedwin' class='startofrange'>
   <primary>Armstrong, Edwin Howard</primary>
 </indexterm>
-<para>
-<emphasis role='strong'>Edwin Howard Armstrong</emphasis> is one of America's forgotten inventor
-geniuses. He came to the great American inventor scene just after the
-titans Thomas Edison and Alexander Graham Bell. But his work in
-the area of radio technology was perhaps the most important of any
-single inventor in the first fifty years of radio. He was better educated
-than Michael Faraday, who as a bookbinder's apprentice had discovered
-electric induction in 1831. But he had the same intuition about
-how the world of radio worked, and on at least three occasions,
-Armstrong invented profoundly important technologies that advanced our
-understanding of radio.
-<!-- PAGE BREAK 19 -->
 <indexterm><primary>Bell, Alexander Graham</primary></indexterm>
 <indexterm><primary>Edison, Thomas</primary></indexterm>
 <indexterm><primary>Faraday, Michael</primary></indexterm>
+<para>
+<emphasis role='strong'>Edwin Howard Armstrong</emphasis> is one of
+America's forgotten inventor geniuses. He came to the great American
+inventor scene just after the titans Thomas Edison and Alexander
+Graham Bell. But his work in the area of radio technology was perhaps
+the most important of any single inventor in the first fifty years of
+radio. He was better educated than Michael Faraday, who as a
+bookbinder's apprentice had discovered electric induction in 1831. But
+he had the same intuition about how the world of radio worked, and on
+at least three occasions, Armstrong invented profoundly important
+technologies that advanced our understanding of radio.
+<!-- PAGE BREAK 19 -->
 </para>
 <para>
 On the day after Christmas, 1933, four patents were issued to Armstrong
@@ -776,7 +779,7 @@ process. RCA had what the Causbys did not: the power to stifle the
 effect of technological change.
 </para>
 <para>
-There's no single inventor of the Internet. Nor is there any good date
+<emphasis role="strong">There's no</emphasis> single inventor of the Internet. Nor is there any good date
 upon which to mark its birth. Yet in a very short time, the Internet
 has become part of ordinary American life. According to the Pew
 Internet and American Life Project, 58 percent of Americans had access
@@ -996,7 +999,7 @@ come to understand the source of this war. We must resolve it soon.
 <indexterm><primary>Causby, Thomas Lee</primary></indexterm>
 <indexterm><primary>Causby, Tinie</primary></indexterm>
 <para>
-Like the Causbys' battle, this war is, in part, about <quote>property.</quote>  The
+<emphasis role="strong">Like the Causbys'</emphasis> battle, this war is, in part, about <quote>property.</quote>  The
 property of this war is not as tangible as the Causbys', and no
 innocent chicken has yet to lose its life. Yet the ideas surrounding
 this <quote>property</quote> are as obvious to most as the Causbys' claim about the
@@ -1070,7 +1073,7 @@ this silliness will be much more profound.
 <!-- PAGE BREAK 28 -->
 </para>
 <para>
-The struggle that rages just now centers on two ideas: <quote>piracy</quote> and
+<emphasis role="strong">The struggle</emphasis> that rages just now centers on two ideas: <quote>piracy</quote> and
 <quote>property.</quote> My aim in this book's next two parts is to explore these two
 ideas.
 </para>
@@ -1111,7 +1114,7 @@ to which most of us remain oblivious.
   <primary>Mansfield, William Murray, Lord</primary>
 </indexterm>
 <para>
-Since the inception of the law regulating creative property, there has
+<emphasis role="strong">Since the inception</emphasis> of the law regulating creative property, there has
 been a war against <quote>piracy.</quote> The precise contours of this concept,
 <quote>piracy,</quote> are hard to sketch, but the animating injustice is easy to
 capture.  As Lord Mansfield wrote in a case that extended the reach of
@@ -1283,7 +1286,7 @@ context the current battles about behavior labeled <quote>piracy.</quote>
   <primary>animated cartoons</primary>
 </indexterm>
 <para>
-In 1928, a cartoon character was born. An early Mickey Mouse
+<emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
 made his debut in May of that year, in a silent flop called <citetitle>Plane Crazy</citetitle>.
 In November, in New York City's Colony Theater, in the first widely
 distributed cartoon synchronized with sound, <citetitle>Steamboat Willie</citetitle> brought
@@ -1481,7 +1484,7 @@ permission. Yet today, the public domain is presumptive only for
 content from before the Great Depression.
 </para>
 <para>
-Of course, Walt Disney had no monopoly on <quote>Walt Disney creativity.</quote>
+<emphasis role="strong">Of course</emphasis>, Walt Disney had no monopoly on <quote>Walt Disney creativity.</quote>
 Nor does America. The norm of free culture has, until recently, and
 except within totalitarian nations, been broadly exploited and quite
 universal.
@@ -1627,7 +1630,9 @@ Japanese gain something important if they could end this practice of
 uncompensated sharing? Does piracy here hurt the victims of the
 piracy, or does it help them? Would lawyers fighting this piracy help
 their clients or hurt them?
-Let's pause for a moment.
+</para>
+<para>
+<emphasis role='strong'>Let's pause</emphasis> for a moment.
 </para>
 <para>
 If you're like I was a decade ago, or like most people are when they
@@ -1741,15 +1746,16 @@ free culture. It is becoming much less so.
 <indexterm id="idxphotography" class='startofrange'>
   <primary>photography</primary>
 </indexterm>
+<indexterm><primary>Daguerre, Louis</primary></indexterm>
 <para>
-In 1839, Louis Daguerre invented the first practical technology for
-producing what we would call <quote>photographs.</quote> Appropriately enough, they
-were called <quote>daguerreotypes.</quote> The process was complicated and
+<emphasis role='strong'>In 1839</emphasis>, Louis Daguerre invented
+the first practical technology for producing what we would call
+<quote>photographs.</quote> Appropriately enough, they were called
+<quote>daguerreotypes.</quote> The process was complicated and
 expensive, and the field was thus limited to professionals and a few
 zealous and wealthy amateurs. (There was even an American Daguerre
 Association that helped regulate the industry, as do all such
 associations, by keeping competition down so as to keep prices up.)
-<indexterm><primary>Daguerre, Louis</primary></indexterm>
 </para>
 <para>
 Yet despite high prices, the demand for daguerreotypes was strong.
@@ -1950,19 +1956,23 @@ easily borne the burdens of the permission system. But the spread of
 photography to ordinary people would not have occurred. Nothing like
 that growth would have been realized. And certainly, nothing like that
 growth in a democratic technology of expression would have been
-realized.  If you drive through San Francisco's Presidio, you might
-see two gaudy yellow school buses painted over with colorful and
-striking images, and the logo <quote>Just Think!</quote> in place of the name of a
-school. But there's little that's <quote>just</quote> cerebral in the projects that
-these busses enable.  These buses are filled with technologies that
-teach kids to tinker with film. Not the film of Eastman. Not even the
-film of your VCR.  Rather the <quote>film</quote> of digital cameras. Just Think!
-is a project that enables kids to make films, as a way to understand
-and critique the filmed culture that they find all around them. Each
-year, these busses travel to more than thirty schools and enable three
-hundred to five hundred children to learn something about media by
-doing something with media.  By doing, they think. By tinkering, they
-learn.
+realized.
+</para>
+<para>
+<emphasis role='strong'>If you drive</emphasis> through San
+Francisco's Presidio, you might see two gaudy yellow school buses
+painted over with colorful and striking images, and the logo
+<quote>Just Think!</quote> in place of the name of a school. But
+there's little that's <quote>just</quote> cerebral in the projects
+that these busses enable.  These buses are filled with technologies
+that teach kids to tinker with film. Not the film of Eastman. Not even
+the film of your VCR.  Rather the <quote>film</quote> of digital
+cameras. Just Think!  is a project that enables kids to make films, as
+a way to understand and critique the filmed culture that they find all
+around them. Each year, these busses travel to more than thirty
+schools and enable three hundred to five hundred children to learn
+something about media by doing something with media.  By doing, they
+think. By tinkering, they learn.
 </para>
 <indexterm startref="idxeastmangeorge" class='endofrange'/>
 <indexterm startref="idxphotography" class='endofrange'/>
@@ -2203,15 +2213,16 @@ had a lot of power with this language.
 </blockquote>
 <indexterm><primary>World Trade Center</primary></indexterm>
 <para>
-When two planes crashed into the World Trade Center, another into the
-Pentagon, and a fourth into a Pennsylvania field, all media around the
-world shifted to this news. Every moment of just about every day for
-that week, and for weeks after, television in particular, and media
-generally, retold the story of the events we had just witnessed. The
-telling was a retelling, because we had seen the events that were
-described. The genius of this awful act of terrorism was that the
-delayed second attack was perfectly timed to assure that the whole
-world would be watching.
+<emphasis role='strong'>When two planes</emphasis> crashed into the
+World Trade Center, another into the Pentagon, and a fourth into a
+Pennsylvania field, all media around the world shifted to this
+news. Every moment of just about every day for that week, and for
+weeks after, television in particular, and media generally, retold the
+story of the events we had just witnessed. The telling was a
+retelling, because we had seen the events that were described. The
+genius of this awful act of terrorism was that the delayed second
+attack was perfectly timed to assure that the whole world would be
+watching.
 </para>
 <para>
 These retellings had an increasingly familiar feel. There was music
@@ -2500,9 +2511,10 @@ extraordinary to report.
   <primary>advertising</primary>
 </indexterm>
 <para>
-John Seely Brown is the chief scientist of the Xerox Corporation.
-His work, as his Web site describes it, is <quote>human learning and &hellip; the
-creation of knowledge ecologies for creating &hellip; innovation.</quote>
+<emphasis role='strong'>John Seely Brown</emphasis> is the chief
+scientist of the Xerox Corporation.  His work, as his Web site
+describes it, is <quote>human learning and &hellip; the creation of
+knowledge ecologies for creating &hellip; innovation.</quote>
 </para>
 <para>
 Brown thus looks at these technologies of digital creativity a bit
@@ -2626,11 +2638,12 @@ quipped to me in a rare moment of despondence.
   <primary>Rensselaer Polytechnic Institute (RPI)</primary>
 </indexterm>
 <para>
-In the fall of 2002, Jesse Jordan of Oceanside, New York, enrolled as
-a freshman at Rensselaer Polytechnic Institute, in Troy, New York.
-His major at RPI was information technology. Though he is not a
-programmer, in October Jesse decided to begin to tinker with search
-engine technology that was available on the RPI network.
+<emphasis role='strong'>In the fall</emphasis> of 2002, Jesse Jordan
+of Oceanside, New York, enrolled as a freshman at Rensselaer
+Polytechnic Institute, in Troy, New York.  His major at RPI was
+information technology. Though he is not a programmer, in October
+Jesse decided to begin to tinker with search engine technology that
+was available on the RPI network.
 </para>
 <para>
 RPI is one of America's foremost technological research institutions.
@@ -2851,7 +2864,7 @@ wrong message. And he wants to correct the record.</quote>
 <title>CHAPTER FOUR: <quote>Pirates</quote></title>
 <indexterm><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
-<emphasis role="strong">If <quote>piracy</quote> means</emphasis>
+<emphasis role='strong'>If <quote>piracy</quote> means</emphasis>
 using the creative property of others without their
 permission&mdash;if <quote>if value, then right</quote> is
 true&mdash;then the history of the content industry is a history of
@@ -3358,10 +3371,10 @@ companies thus built their empire in part upon a <quote>piracy</quote> of the va
 created by broadcasters' content.
 </para>
 <para>
-These separate stories sing a common theme. If <quote>piracy</quote> means
-using value from someone else's creative property without permission
-from that creator&mdash;as it is increasingly described
-today<footnote><para>
+<emphasis role='strong'>These separate stories</emphasis> sing a
+common theme. If <quote>piracy</quote> means using value from someone
+else's creative property without permission from that creator&mdash;as
+it is increasingly described today<footnote><para>
 <!-- f19 -->
 See, for example, National Music Publisher's Association, <citetitle>The Engine
 of Free Expression: Copyright on the Internet&mdash;The Myth of Free
@@ -3382,12 +3395,12 @@ last. Every generation&mdash;until now.
 <chapter label="5" id="piracy">
 <title>CHAPTER FIVE: <quote>Piracy</quote></title>
 <para>
-There is piracy of copyrighted material. Lots of it. This piracy comes
-in many forms. The most significant is commercial piracy, the
-unauthorized taking of other people's content within a commercial
-context. Despite the many justifications that are offered in its
-defense, this taking is wrong. No one should condone it, and the law
-should stop it.
+<emphasis role='strong'>There is piracy</emphasis> of copyrighted
+material. Lots of it. This piracy comes in many forms. The most
+significant is commercial piracy, the unauthorized taking of other
+people's content within a commercial context. Despite the many
+justifications that are offered in its defense, this taking is
+wrong. No one should condone it, and the law should stop it.
 </para>
 <para>
 But as well as copy-shop piracy, there is another kind of <quote>taking</quote>
@@ -4370,15 +4383,18 @@ fight.</quote><footnote><para>
 John Schwartz, <quote>New Economy: The Attack on Peer-to-Peer Software
 Echoes Past Efforts,</quote> <citetitle>New York Times</citetitle>, 22 September 2003, C3.
 </para></footnote>
-Yet when anyone begins to talk about <quote>balance,</quote> the copyright warriors
-raise a different argument. <quote>All this hand waving about balance and
-incentives,</quote> they say, <quote>misses a fundamental point. Our content,</quote> the
-warriors insist, <quote>is our <emphasis>property</emphasis>. Why should we
-wait for Congress to `rebalance' our property rights? Do you have to
-wait before calling the police when your car has been stolen? And why
-should Congress deliberate at all about the merits of this theft? Do
-we ask whether the car thief had a good use for the car before we
-arrest him?</quote>
+</para>
+<para>
+<emphasis role='strong'>Yet when anyone</emphasis> begins to talk
+about <quote>balance,</quote> the copyright warriors raise a different
+argument. <quote>All this hand waving about balance and
+incentives,</quote> they say, <quote>misses a fundamental point. Our
+content,</quote> the warriors insist, <quote>is our
+<emphasis>property</emphasis>. Why should we wait for Congress to
+`rebalance' our property rights? Do you have to wait before calling
+the police when your car has been stolen? And why should Congress
+deliberate at all about the merits of this theft? Do we ask whether
+the car thief had a good use for the car before we arrest him?</quote>
 </para>
 <para>
 <quote>It is <emphasis>our property</emphasis>,</quote> the warriors
@@ -4395,11 +4411,11 @@ is protected.</quote>
 <para>
 
 <!-- PAGE BREAK 94 -->
-The copyright warriors are right: A copyright is a kind of
-property. It can be owned and sold, and the law protects against its
-theft. Ordinarily, the copyright owner gets to hold out for any price he
-wants. Markets reckon the supply and demand that partially determine
-the price she can get.
+<emphasis role='strong'>The copyright warriors</emphasis> are right: A
+copyright is a kind of property. It can be owned and sold, and the law
+protects against its theft. Ordinarily, the copyright owner gets to
+hold out for any price he wants. Markets reckon the supply and demand
+that partially determine the price she can get.
 </para>
 <para>
 But in ordinary language, to call a copyright a <quote>property</quote> right is a
@@ -4473,15 +4489,16 @@ from the implications that the copyright warriors would have us draw.
 <indexterm><primary>Henry V</primary></indexterm>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
 <para>
-William Shakespeare wrote <citetitle>Romeo and Juliet</citetitle> in 1595. The play
-was first published in 1597. It was the eleventh major play that
-Shakespeare had written. He would continue to write plays through
-1613, and the plays that he wrote have continued to define
-Anglo-American culture ever since. So deeply have the works of a
-sixteenth-century writer seeped into our culture that we often don't
-even recognize their source.  I once overheard someone commenting on
-Kenneth Branagh's adaptation of Henry V: <quote>I liked it, but Shakespeare
-is so full of clichés.</quote>
+<emphasis role='strong'>William Shakespeare</emphasis> wrote
+<citetitle>Romeo and Juliet</citetitle> in 1595. The play was first
+published in 1597. It was the eleventh major play that Shakespeare had
+written. He would continue to write plays through 1613, and the plays
+that he wrote have continued to define Anglo-American culture ever
+since. So deeply have the works of a sixteenth-century writer seeped
+into our culture that we often don't even recognize their source.  I
+once overheard someone commenting on Kenneth Branagh's adaptation of
+Henry V: <quote>I liked it, but Shakespeare is so full of
+clichés.</quote>
 </para>
 <para>
 In 1774, almost 180 years after <citetitle>Romeo and Juliet</citetitle> was written, the
@@ -4974,11 +4991,11 @@ protected.
 <chapter label="7" id="recorders">
 <title>CHAPTER SEVEN: Recorders</title>
 <para>
-Jon Else is a filmmaker. He is best known for his documentaries and
-has been very successful in spreading his art. He is also a teacher, and
-as a teacher myself, I envy the loyalty and admiration that his students
-feel for him. (I met, by accident, two of his students at a dinner party.
-He was their god.)
+<emphasis role='strong'>Jon Else</emphasis> is a filmmaker. He is best
+known for his documentaries and has been very successful in spreading
+his art. He is also a teacher, and as a teacher myself, I envy the
+loyalty and admiration that his students feel for him. (I met, by
+accident, two of his students at a dinner party.  He was their god.)
 </para>
 <para>
 Else worked on a documentary that I was involved in. At a break,
@@ -5179,11 +5196,12 @@ not.
 </indexterm>
 <indexterm><primary>Microsoft</primary></indexterm>
 <para>
-In 1993, Alex Alben was a lawyer working at Starwave, Inc.  Starwave
-was an innovative company founded by Microsoft cofounder Paul Allen to
-develop digital entertainment. Long before the Internet became
-popular, Starwave began investing in new technology for delivering
-entertainment in anticipation of the power of networks.
+<emphasis role='strong'>In 1993</emphasis>, Alex Alben was a lawyer
+working at Starwave, Inc.  Starwave was an innovative company founded
+by Microsoft cofounder Paul Allen to develop digital
+entertainment. Long before the Internet became popular, Starwave began
+investing in new technology for delivering entertainment in
+anticipation of the power of networks.
 </para>
 <indexterm id='idxartistsretrospective' class='startofrange'>
   <primary>artists</primary>
@@ -5488,8 +5506,9 @@ which if made, under this plan, would produce new income for artists.
 What reason would anyone have to oppose it?
 </para>
 <para>
-In February 2003, DreamWorks studios announced an agreement with Mike
-Myers, the comic genius of <citetitle>Saturday Night Live</citetitle> and
+<emphasis role='strong'>In February 2003</emphasis>, DreamWorks
+studios announced an agreement with Mike Myers, the comic genius of
+<citetitle>Saturday Night Live</citetitle> and
 <!-- PAGE BREAK 118 -->
 Austin Powers. According to the announcement, Myers and Dream-Works
 would work together to form a <quote>unique filmmaking pact.</quote> Under the
@@ -5539,13 +5558,15 @@ curse, reserved for the few.
   <primary>archives, digital</primary>
 </indexterm>
 <para>
-In April 1996, millions of <quote>bots</quote>&mdash;computer codes designed to
-<quote>spider,</quote> or automatically search the Internet and copy content&mdash;began
-running across the Net. Page by page, these bots copied Internet-based
-information onto a small set of computers located in a basement in San
-Francisco's Presidio. Once the bots finished the whole of the Internet,
-they started again. Over and over again, once every two months, these
-bits of code took copies of the Internet and stored them.
+<emphasis role='strong'>In April 1996</emphasis>, millions of
+<quote>bots</quote>&mdash;computer codes designed to
+<quote>spider,</quote> or automatically search the Internet and copy
+content&mdash;began running across the Net. Page by page, these bots
+copied Internet-based information onto a small set of computers
+located in a basement in San Francisco's Presidio. Once the bots
+finished the whole of the Internet, they started again. Over and over
+again, once every two months, these bits of code took copies of the
+Internet and stored them.
 </para>
 <para>
 By October 2001, the bots had collected more than five years of
@@ -5597,7 +5618,7 @@ Have Ended.</quote>  E-mail from Brewster Kahle, 1 December 2003.
 </para>
 <indexterm><primary>history, records of</primary></indexterm>
 <para>
-<emphasis role="strong">We take it</emphasis> for granted that we can
+<emphasis role='strong'>We take it</emphasis> for granted that we can
 go back to see what we remember reading. Think about newspapers. If
 you wanted to study the reaction of your hometown newspaper to the
 race riots in Watts in 1965, or to Bull Connor's water cannon in 1963,
@@ -5813,12 +5834,12 @@ what a certain limited market demands.  Beyond that, culture
 disappears.
 </para>
 <para>
-For most of the twentieth century, it was economics that made this
-so. It would have been insanely expensive to collect and make
-accessible all television and film and music: The cost of analog
-copies is extraordinarily high. So even though the law in principle
-would have restricted the ability of a Brewster Kahle to copy culture
-generally, the
+<emphasis role='strong'>For most of</emphasis> the twentieth century,
+it was economics that made this so. It would have been insanely
+expensive to collect and make accessible all television and film and
+music: The cost of analog copies is extraordinarily high. So even
+though the law in principle would have restricted the ability of a
+Brewster Kahle to copy culture generally, the
 <!-- PAGE BREAK 125 -->
 real restriction was economics. The market made it impossibly
 difficult to do anything about this ephemeral culture; the law had
@@ -5885,16 +5906,17 @@ that Kahle and others would exercise.
 </chapter>
 <chapter label="10" id="property-i">
 <title>CHAPTER TEN: <quote>Property</quote></title>
-<para>
-Jack Valenti has been the president of the Motion Picture Association
-of America since 1966. He first came to Washington, D.C., with Lyndon
-Johnson's administration&mdash;literally. The famous picture of
-Johnson's swearing-in on Air Force One after the assassination of
-President Kennedy has Valenti in the background. In his almost forty
-years of running the MPAA, Valenti has established himself as perhaps
-the most prominent and effective lobbyist in Washington.
 <indexterm><primary>Johnson, Lyndon</primary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
+<para>
+<emphasis role='strong'>Jack Valenti</emphasis> has been the president
+of the Motion Picture Association of America since 1966. He first came
+to Washington, D.C., with Lyndon Johnson's
+administration&mdash;literally. The famous picture of Johnson's
+swearing-in on Air Force One after the assassination of President
+Kennedy has Valenti in the background. In his almost forty years of
+running the MPAA, Valenti has established himself as perhaps the most
+prominent and effective lobbyist in Washington.
 </para>
 <para>
 The MPAA is the American branch of the international Motion Picture
@@ -6032,10 +6054,12 @@ notwithstanding, in assuring that the new can displace them. No
 organization does. No person does. (Ask me about tenure, for example.)
 But what's good for the MPAA is not necessarily good for America. A
 society that defends the ideals of free culture must preserve
-precisely the opportunity for new creativity to threaten the old.  To
-get just a hint that there is something fundamentally wrong in
-Valenti's argument, we need look no further than the United States
-Constitution itself.
+precisely the opportunity for new creativity to threaten the old.
+</para>
+<para>
+<emphasis role='strong'>To get</emphasis> just a hint that there is
+something fundamentally wrong in Valenti's argument, we need look no
+further than the United States Constitution itself.
 </para>
 <para>
 The framers of our Constitution loved <quote>property.</quote> Indeed, so strongly
@@ -8476,7 +8500,8 @@ copyright law in the digital age. See Vaidhyanathan, 159&ndash;60.
 </para></footnote>
 </para>
 <para>
-This has been a long chapter. Its point can now be briefly stated.
+<emphasis role='strong'>This has been</emphasis> a long chapter. Its
+point can now be briefly stated.
 </para>
 <para>
 At the start of this book, I distinguished between commercial and
@@ -8721,9 +8746,10 @@ lawyer.
 </indexterm>
 
 <para>
-In a well-known short story by H. G. Wells, a mountain climber
-named Nunez trips (literally, down an ice slope) into an unknown and
-isolated valley in the Peruvian Andes.<footnote><para>
+<emphasis role='strong'>In a well-known</emphasis> short story by
+H. G. Wells, a mountain climber named Nunez trips (literally, down an
+ice slope) into an unknown and isolated valley in the Peruvian
+Andes.<footnote><para>
 <!-- f1. -->
 H. G. Wells, <quote>The Country of the Blind</quote> (1904, 1911). See H. G. Wells,
 <citetitle>The Country of the Blind and Other Stories</citetitle>, Michael Sherborne, ed. (New
@@ -8785,10 +8811,13 @@ irritant bodies [the eyes].</quote>
 Nunez of this condition necessary for him to be allowed his bride.
 (You'll have to read the original to learn what happens in the end. I
 believe in free culture, but never in giving away the end of a story.)
-It sometimes happens that the eggs of twins fuse in the mother's
-womb. That fusion produces a <quote>chimera.</quote> A chimera is a single creature
-with two sets of DNA. The DNA in the blood, for example, might be
-different from the DNA of the skin. This possibility is an underused
+</para>
+<para>
+<emphasis role='strong'>It sometimes</emphasis> happens that the eggs
+of twins fuse in the mother's womb. That fusion produces a
+<quote>chimera.</quote> A chimera is a single creature with two sets
+of DNA. The DNA in the blood, for example, might be different from the
+DNA of the skin. This possibility is an underused
 
 <!-- PAGE BREAK 188 -->
 plot for murder mysteries. <quote>But the DNA shows with 100 percent
@@ -8992,11 +9021,12 @@ and will kill opportunities that could be extraordinarily valuable.
 <chapter label="12" id="harms">
 <title>CHAPTER TWELVE: Harms</title>
 <para>
-To fight <quote>piracy,</quote> to protect <quote>property,</quote> the content industry has
-launched a war. Lobbying and lots of campaign contributions have now
-brought the government into this war. As with any war, this one will
-have both direct and collateral damage. As with any war of
-prohibition, these damages will be suffered most by our own people.
+<emphasis role='strong'>To fight</emphasis> <quote>piracy,</quote> to
+protect <quote>property,</quote> the content industry has launched a
+war. Lobbying and lots of campaign contributions have now brought the
+government into this war. As with any war, this one will have both
+direct and collateral damage. As with any war of prohibition, these
+damages will be suffered most by our own people.
 </para>
 <para>
 My aim so far has been to describe the consequences of this war, in
@@ -9479,10 +9509,14 @@ do everything it can to limit the reach of the
 law where the law is not doing any good. The transaction costs buried
 within a permission culture are enough to bury a wide range of
 creativity.  Someone needs to do a lot of justifying to justify that
-result.  The uncertainty of the law is one burden on innovation. There
-is a second burden that operates more directly. This is the effort by
-many in the content industry to use the law to directly regulate the
-technology of the Internet so that it better protects their content.
+result.
+</para>
+<para>
+<emphasis role='strong'>The uncertainty</emphasis> of the law is one
+burden on innovation. There is a second burden that operates more
+directly. This is the effort by many in the content industry to use
+the law to directly regulate the technology of the Internet so that it
+better protects their content.
 </para>
 <para>
 The motivation for this response is obvious. The Internet enables the
@@ -9540,9 +9574,9 @@ harm than good.
 <indexterm><primary>Intel</primary></indexterm>
 </para>
 <para>
-There is one more obvious way in which this war has harmed
-innovation&mdash;again, a story that will be quite familiar to the
-free market crowd.
+<emphasis role='strong'>There is one</emphasis> more obvious way in
+which this war has harmed innovation&mdash;again, a story that will be
+quite familiar to the free market crowd.
 </para>
 <para>
 Copyright may be property, but like all property, it is also a form
@@ -10189,7 +10223,7 @@ tradition as deep and important as our tradition of free culture.
   <primary>ISPs (Internet service providers), user identities revealed by</primary>
 </indexterm>
 <para>
-<emphasis role="strong">There's one</emphasis> more aspect to this
+<emphasis role='strong'>There's one more</emphasis> aspect to this
 corruption that is particularly important to civil liberties, and
 follows directly from any war of prohibition.  As Electronic Frontier
 Foundation attorney Fred von Lohmann describes, this is the
@@ -10352,10 +10386,11 @@ effort through our democracy to change our law?
 
 <!-- PAGE BREAK 218 -->
 <para>
-So here's the picture: You're standing at the side of the road. Your
-car is on fire. You are angry and upset because in part you helped start
-the fire. Now you don't know how to put it out. Next to you is a bucket,
-filled with gasoline. Obviously, gasoline won't put the fire out.
+<emphasis role='strong'>So here's</emphasis> the picture: You're
+standing at the side of the road. Your car is on fire. You are angry
+and upset because in part you helped start the fire. Now you don't
+know how to put it out. Next to you is a bucket, filled with
+gasoline. Obviously, gasoline won't put the fire out.
 </para>
 <para>
 As you ponder the mess, someone else comes along. In a panic, she
@@ -10366,12 +10401,13 @@ blazing car. And the fire that gasoline will ignite is about to ignite
 everything around.
 </para>
 <para>
-A war about copyright rages all around&mdash;and we're all focusing on
-the wrong thing. No doubt, current technologies threaten existing
-businesses.  No doubt they may threaten artists. But technologies
-change.  The industry and technologists have plenty of ways to use
-technology to protect themselves against the current threats of the
-Internet. This is a fire that if let alone would burn itself out.
+<emphasis role='strong'>A war</emphasis> about copyright rages all
+around&mdash;and we're all focusing on the wrong thing. No doubt,
+current technologies threaten existing businesses.  No doubt they may
+threaten artists. But technologies change.  The industry and
+technologists have plenty of ways to use technology to protect
+themselves against the current threats of the Internet. This is a fire
+that if let alone would burn itself out.
 </para>
 <para>
 <!-- PAGE BREAK 219 -->
@@ -10409,13 +10445,13 @@ success will require.
   <primary>Hawthorne, Nathaniel</primary>
 </indexterm>
 <para>
-In 1995, a father was frustrated that his daughters didn't seem to
-like Hawthorne. No doubt there was more than one such father, but at
-least one did something about it. Eric Eldred, a retired computer
-programmer living in New Hampshire, decided to put Hawthorne on the
-Web. An electronic version, Eldred thought, with links to pictures and
-explanatory text, would make this nineteenth-century author's work
-come alive.
+<emphasis role='strong'>In 1995</emphasis>, a father was frustrated
+that his daughters didn't seem to like Hawthorne. No doubt there was
+more than one such father, but at least one did something about
+it. Eric Eldred, a retired computer programmer living in New
+Hampshire, decided to put Hawthorne on the Web. An electronic version,
+Eldred thought, with links to pictures and explanatory text, would
+make this nineteenth-century author's work come alive.
 </para>
 <para>
 It didn't work&mdash;at least for his daughters. They didn't find
@@ -10694,17 +10730,16 @@ Alan K. Ota, <quote>Disney in Washington: The Mouse That Roars,</quote>
 
 </para>
 <para>
-Constitutional law is not oblivious to the obvious. Or at least,
-it need not be. So when I was considering Eldred's complaint, this 
-		reality
-about the never-ending incentives to increase the copyright term
-was central to my thinking. In my view, a pragmatic court committed
-to interpreting and applying the Constitution of our framers would see
-that if Congress has the power to extend existing terms, then there
-would be no effective constitutional requirement that terms be 
-		<quote>limited.</quote>
-If they could extend it once, they would extend it again and again
-and again.
+<emphasis role='strong'>Constitutional law</emphasis> is not oblivious
+to the obvious. Or at least, it need not be. So when I was considering
+Eldred's complaint, this reality about the never-ending incentives to
+increase the copyright term was central to my thinking. In my view, a
+pragmatic court committed to interpreting and applying the
+Constitution of our framers would see that if Congress has the power
+to extend existing terms, then there would be no effective
+constitutional requirement that terms be <quote>limited.</quote> If
+they could extend it once, they would extend it again and again and
+again.
 </para>
 <para>
 It was also my judgment that <emphasis>this</emphasis> Supreme Court
@@ -10801,8 +10836,9 @@ devote my life to teaching constitutional law if these nine Justices
 were going to be petty politicians.
 </para>
 <para>
-Now let's pause for a moment to make sure we understand what the
-argument in <citetitle>Eldred</citetitle> was not about. By insisting on the
+<emphasis role='strong'>Now let's pause</emphasis> for a moment to
+make sure we understand what the argument in
+<citetitle>Eldred</citetitle> was not about. By insisting on the
 Constitution's limits to copyright, obviously Eldred was not endorsing
 piracy.  Indeed, in an obvious sense, he was fighting a kind of
 piracy&mdash;piracy of the public domain. When Robert Frost wrote his
@@ -10847,18 +10883,15 @@ not expired, and will not expire, so long as Congress is free to be
 bought to extend them again.
 </para>
 <para>
-It is valuable copyrights that are responsible for terms being 
-		extended.
-Mickey Mouse and <quote>Rhapsody in Blue.</quote> These works are too
-valuable for copyright owners to ignore. But the real harm to our 
-		society
-from copyright extensions is not that Mickey Mouse remains 
-		Disney's.
-Forget Mickey Mouse. Forget Robert Frost. Forget all the works
-from the 1920s and 1930s that have continuing commercial value. The
-real harm of term extension comes not from these famous works. The
-real harm is to the works that are not famous, not commercially 
-		exploited,
+<emphasis role='strong'>It is valuable</emphasis> copyrights that are
+responsible for terms being extended.  Mickey Mouse and
+<quote>Rhapsody in Blue.</quote> These works are too valuable for
+copyright owners to ignore. But the real harm to our society from
+copyright extensions is not that Mickey Mouse remains Disney's.
+Forget Mickey Mouse. Forget Robert Frost. Forget all the works from
+the 1920s and 1930s that have continuing commercial value. The real
+harm of term extension comes not from these famous works. The real
+harm is to the works that are not famous, not commercially exploited,
 and no longer available as a result.
 </para>
 <para>
@@ -11070,13 +11103,12 @@ in which they are now stored will be filled with nothing more
 than dust.
 </para>
 <para>
-Of all the creative work produced by humans anywhere, a tiny
-fraction has continuing commercial value. For that tiny fraction, the
-copyright is a crucially important legal device. For that tiny fraction,
-the copyright creates incentives to produce and distribute the 
-		creative
-work. For that tiny fraction, the copyright acts as an <quote>engine of
-free expression.</quote>
+<emphasis role='strong'>Of all the</emphasis> creative work produced
+by humans anywhere, a tiny fraction has continuing commercial
+value. For that tiny fraction, the copyright is a crucially important
+legal device. For that tiny fraction, the copyright creates incentives
+to produce and distribute the creative work. For that tiny fraction,
+the copyright acts as an <quote>engine of free expression.</quote>
 </para>
 <para>
 But even for that tiny fraction, the actual time during which the
@@ -11212,12 +11244,13 @@ December 2002, available at
 
 </para>
 <para>
-In January 1999, we filed a lawsuit on Eric Eldred's behalf in federal
-district court in Washington, D.C., asking the court to declare the
-Sonny Bono Copyright Term Extension Act unconstitutional. The two
-central claims that we made were (1) that extending existing terms
-violated the Constitution's <quote>limited Times</quote> requirement, and (2) that
-extending terms by another twenty years violated the First Amendment.
+<emphasis role='strong'>In January 1999</emphasis>, we filed a lawsuit
+on Eric Eldred's behalf in federal district court in Washington, D.C.,
+asking the court to declare the Sonny Bono Copyright Term Extension
+Act unconstitutional. The two central claims that we made were (1)
+that extending existing terms violated the Constitution's
+<quote>limited Times</quote> requirement, and (2) that extending terms
+by another twenty years violated the First Amendment.
 </para>
 <para>
 The district court dismissed our claims without even hearing an
@@ -11267,14 +11300,15 @@ was set for October of 2002. The summer would be spent writing
 briefs and preparing for argument.
 </para>
 <para>
-It is over a year later as I write these words. It is still
-astonishingly hard. If you know anything at all about this story, you
-know that we lost the appeal. And if you know something more than just
-the minimum, you probably think there was no way this case could have
-been won. After our defeat, I received literally thousands of missives
-by well-wishers and supporters, thanking me for my work on behalf of
-this noble but doomed cause. And none from this pile was more
-significant to me than the e-mail from my client, Eric Eldred.
+<emphasis role='strong'>It is over</emphasis> a year later as I write
+these words. It is still astonishingly hard. If you know anything at
+all about this story, you know that we lost the appeal. And if you
+know something more than just the minimum, you probably think there
+was no way this case could have been won. After our defeat, I received
+literally thousands of missives by well-wishers and supporters,
+thanking me for my work on behalf of this noble but doomed cause. And
+none from this pile was more significant to me than the e-mail from my
+client, Eric Eldred.
 </para>
 <para>
 But my client and these friends were wrong. This case could have
@@ -11284,11 +11318,11 @@ mistake lost it.
 </para>
 <indexterm><primary>Steward, Geoffrey</primary></indexterm>
 <para>
-The mistake was made early, though it became obvious only at the very
-end. Our case had been supported from the very beginning by an
-extraordinary lawyer, Geoffrey Stewart, and by the law firm he had
-moved to, Jones, Day, Reavis and Pogue. Jones Day took a great deal of
-heat
+<emphasis role='strong'>The mistake</emphasis> was made early, though
+it became obvious only at the very end. Our case had been supported
+from the very beginning by an extraordinary lawyer, Geoffrey Stewart,
+and by the law firm he had moved to, Jones, Day, Reavis and
+Pogue. Jones Day took a great deal of heat
 <!-- PAGE BREAK 237 -->
 from its copyright-protectionist clients for supporting us. They
 ignored this pressure (something that few law firms today would ever
@@ -11518,8 +11552,11 @@ mean that there was no limit to the power of Congress to extend
 copyrights&mdash;extensions that would further concentrate the market;
 it would also mean that there was no limit to Congress's power to play
 favorites, through copyright, with who has the right to speak.
-Between February and October, there was little I did beyond preparing
-for this case. Early on, as I said, I set the strategy.
+</para>
+<para>
+<emphasis role='strong'>Between February</emphasis> and October, there
+was little I did beyond preparing for this case. Early on, as I said,
+I set the strategy.
 </para>
 <indexterm><primary>Rehnquist, William H.</primary></indexterm>
 <indexterm><primary>O'Connor, Sandra Day</primary></indexterm>
@@ -11603,11 +11640,12 @@ was limited, then so, too, must Congress's power to regulate copyright
 be limited.
 </para>
 <para>
-The argument on the government's side came down to this: Congress has
-done it before. It should be allowed to do it again. The government
-claimed that from the very beginning, Congress has been extending the
-term of existing copyrights. So, the government argued, the Court
-should not now say that practice is unconstitutional.
+<emphasis role='strong'>The argument</emphasis> on the government's
+side came down to this: Congress has done it before. It should be
+allowed to do it again. The government claimed that from the very
+beginning, Congress has been extending the term of existing
+copyrights. So, the government argued, the Court should not now say
+that practice is unconstitutional.
 </para>
 <para>
 There was some truth to the government's claim, but not much. We
@@ -11630,10 +11668,12 @@ was no reason to expect that cycle would end. This Court had not
 		hesitated
 to intervene where Congress was in a similar cycle of extension.
 There was no reason it couldn't intervene here.
-Oral argument was scheduled for the first week in October. I 
-		arrived
-in D.C. two weeks before the argument. During those two
-weeks, I was repeatedly <quote>mooted</quote> by lawyers who had volunteered to
+</para>
+<para>
+<emphasis role='strong'>Oral argument</emphasis> was scheduled for the
+first week in October. I arrived in D.C. two weeks before the
+argument. During those two weeks, I was repeatedly
+<quote>mooted</quote> by lawyers who had volunteered to
 
 <!-- PAGE BREAK 244 -->
 help in the case. Such <quote>moots</quote> are basically practice rounds, where
@@ -11675,9 +11715,12 @@ does the right thing&mdash;not because of politics but because it is right. As
 I listened to Ayer's plea for passion in pressing politics, I understood
 his point, and I rejected it. Our argument was right. That was enough.
 Let the politicians learn to see that it was also good.
-The night before the argument, a line of people began to form
-in front of the Supreme Court. The case had become a focus of the
-press and of the movement to free culture. Hundreds stood in line
+</para>
+<para>
+<emphasis role='strong'>The night before</emphasis> the argument, a
+line of people began to form in front of the Supreme Court. The case
+had become a focus of the press and of the movement to free
+culture. Hundreds stood in line
 
 <!-- PAGE BREAK 245 -->
 for the chance to see the proceedings. Scores spent the night on the
@@ -11821,8 +11864,9 @@ Copyright and Patent Clause. All true. But it wasn't going to move the
 Court to my side.
 </para>
 <para>
-As I left the court that day, I knew there were a hundred points I
-wished I could remake. There were a hundred questions I wished I had
+<emphasis role='strong'>As I left</emphasis> the court that day, I
+knew there were a hundred points I wished I could remake. There were a
+hundred questions I wished I had
 
 <!-- PAGE BREAK 248 -->
 answered differently. But one way of thinking about this case left me
@@ -11844,11 +11888,12 @@ the Conservatives&mdash;would feel itself constrained by the rule of
 law that it had established elsewhere.
 </para>
 <para>
-The morning of January 15, 2003, I was five minutes late to the office
-and missed the 7:00 A.M. call from the Supreme Court clerk. Listening to
-the message, I could tell in an instant that she had bad news to report.The
-Supreme Court had affirmed the decision of the Court of Appeals. Seven
-justices had voted in the majority. There were two dissents.
+<emphasis role='strong'>The morning</emphasis> of January 15, 2003, I
+was five minutes late to the office and missed the 7:00 A.M. call from
+the Supreme Court clerk. Listening to the message, I could tell in an
+instant that she had bad news to report.The Supreme Court had affirmed
+the decision of the Court of Appeals. Seven justices had voted in the
+majority. There were two dissents.
 </para>
 <para>
 A few seconds later, the opinions arrived by e-mail. I took the
@@ -11937,9 +11982,10 @@ anyone having addressed the argument that we had carried from Judge
 Sentelle. It was <citetitle>Hamlet</citetitle> without the Prince.
 </para>
 <para>
-Defeat brings depression. They say it is a sign of health when
-depression gives way to anger. My anger came quickly, but it didn't cure
-the depression. This anger was of two sorts.
+<emphasis role='strong'>Defeat brings depression</emphasis>. They say
+it is a sign of health when depression gives way to anger. My anger
+came quickly, but it didn't cure the depression. This anger was of two
+sorts.
 </para>
 <indexterm><primary>originalism</primary></indexterm>
 <para>
@@ -12043,10 +12089,13 @@ here again Peter was right. Either I was not ready to argue this case in
 a way that would do some good or they were not ready to hear this case
 in a way that would do some good. Either way, the decision to bring
 this case&mdash;a decision I had made four years before&mdash;was wrong.
-While the reaction to the Sonny Bono Act itself was almost
-unanimously negative, the reaction to the Court's decision was mixed.
-No one, at least in the press, tried to say that extending the term of
-copyright was a good idea. We had won that battle over ideas. Where
+</para>
+<para>
+<emphasis role='strong'>While the reaction</emphasis> to the Sonny
+Bono Act itself was almost unanimously negative, the reaction to the
+Court's decision was mixed.  No one, at least in the press, tried to
+say that extending the term of copyright was a good idea. We had won
+that battle over ideas. Where
 
 <!-- PAGE BREAK 253 -->
 the decision was praised, it was praised by papers that had been
@@ -12092,13 +12141,15 @@ better lawyer would have made them see differently.
 <chapter label="14" id="eldred-ii">
 <title>CHAPTER FOURTEEN: Eldred II</title>
 <para>
-The day <citetitle>Eldred</citetitle> was decided, fate would have it that I was to travel to
-Washington, D.C. (The day the rehearing petition in <citetitle>Eldred</citetitle> was
-denied&mdash;meaning the case was really finally over&mdash;fate would
-have it that I was giving a speech to technologists at Disney World.)
-This was a particularly long flight to my least favorite city. The
-drive into the city from Dulles was delayed because of traffic, so I
-opened up my computer and wrote an op-ed piece.
+<emphasis role='strong'>The day</emphasis>
+<citetitle>Eldred</citetitle> was decided, fate would have it that I
+was to travel to Washington, D.C. (The day the rehearing petition in
+<citetitle>Eldred</citetitle> was denied&mdash;meaning the case was
+really finally over&mdash;fate would have it that I was giving a
+speech to technologists at Disney World.)  This was a particularly
+long flight to my least favorite city. The drive into the city from
+Dulles was delayed because of traffic, so I opened up my computer and
+wrote an op-ed piece.
 </para>
 <indexterm><primary>Ayer, Don</primary></indexterm>
 <para>
@@ -12336,10 +12387,11 @@ into the public domain within fifty years. What do you think?
 </para>
 <indexterm><primary>Forbes, Steve</primary></indexterm>
 <para>
-When Steve Forbes endorsed the idea, some in Washington began to pay
-attention. Many people contacted me pointing to representatives who
-might be willing to introduce the Eldred Act. And I had a few who
-directly suggested that they might be willing to take the first step.
+<emphasis role='strong'>When Steve Forbes</emphasis> endorsed the
+idea, some in Washington began to pay attention. Many people contacted
+me pointing to representatives who might be willing to introduce the
+Eldred Act. And I had a few who directly suggested that they might be
+willing to take the first step.
 </para>
 <para>
 One representative, Zoe Lofgren of California, went so far as to get
@@ -12389,14 +12441,14 @@ or not&mdash;a controversial claim in any case&mdash;unless they know
 about a copyright, they're not likely to.
 </para>
 <para>
-At the beginning of this book, I told two stories about the law
-reacting to changes in technology. In the one, common sense prevailed.
-In the other, common sense was delayed. The difference between the two
-stories was the power of the opposition&mdash;the power of the side
-that fought to defend the status quo. In both cases, a new technology
-threatened old interests. But in only one case did those interest's
-have the power to protect themselves against this new competitive
-threat.
+<emphasis role='strong'>At the beginning</emphasis> of this book, I
+told two stories about the law reacting to changes in technology. In
+the one, common sense prevailed.  In the other, common sense was
+delayed. The difference between the two stories was the power of the
+opposition&mdash;the power of the side that fought to defend the
+status quo. In both cases, a new technology threatened old
+interests. But in only one case did those interest's have the power to
+protect themselves against this new competitive threat.
 </para>
 <para>
 I used these two cases as a way to frame the war that this book has
@@ -12494,11 +12546,11 @@ controlled by this dead (and often unfindable) hand of the past.
   <primary>Africa, medications for HIV patients in</primary>
 </indexterm>
 <para>
-There are more than 35 million people with the AIDS virus
-worldwide. Twenty-five million of them live in sub-Saharan Africa.
-Seventeen million have already died. Seventeen million Africans
-is proportional percentage-wise to seven million Americans. More
-importantly, it is seventeen million Africans.
+<emphasis role='strong'>There are more</emphasis> than 35 million
+people with the AIDS virus worldwide. Twenty-five million of them live
+in sub-Saharan Africa.  Seventeen million have already died. Seventeen
+million Africans is proportional percentage-wise to seven million
+Americans. More importantly, it is seventeen million Africans.
 </para>
 <para>
 There is no cure for AIDS, but there are drugs to slow its
@@ -12732,13 +12784,13 @@ any other single policy decision that we as a democracy will make.
 <indexterm startref="idxhivaidstherapies" class='endofrange'/>
 <indexterm startref="idxantiretroviraldrugs" class='endofrange'/>
 <para>
-A simple idea blinds us, and under the cover of darkness, much happens
-that most of us would reject if any of us looked. So uncritically do
-we accept the idea of property in ideas that we don't even notice how
-monstrous it is to deny ideas to a people who are dying without
-them. So uncritically do we accept the idea of property in culture
-that we don't even question when the control of that property removes
-our
+<emphasis role='strong'>A simple idea</emphasis> blinds us, and under
+the cover of darkness, much happens that most of us would reject if
+any of us looked. So uncritically do we accept the idea of property in
+ideas that we don't even notice how monstrous it is to deny ideas to a
+people who are dying without them. So uncritically do we accept the
+idea of property in culture that we don't even question when the
+control of that property removes our
 <!-- PAGE BREAK 269 -->
 ability, as a people, to develop our culture democratically. Blindness
 becomes our common sense. And the challenge for anyone who would
@@ -12765,9 +12817,9 @@ produce the <quote>perfect storm</quote> for free culture.
 </indexterm>
 <indexterm><primary>Wellcome Trust</primary></indexterm>
 <para>
-In August 2003, a fight broke out in the United States about a
-decision by the World Intellectual Property Organization to cancel a
-meeting.<footnote><para>
+<emphasis role='strong'>In August 2003</emphasis>, a fight broke out
+in the United States about a decision by the World Intellectual
+Property Organization to cancel a meeting.<footnote><para>
 <!-- f6. --> Jonathan Krim, <quote>The Quiet War over Open-Source,</quote> <citetitle>Washington Post</citetitle>,
 August 2003, E1, available at 
 <ulink url="http://free-culture.cc/notes/">link #59</ulink>; William New, <quote>Global Group's
@@ -13090,16 +13142,18 @@ been part of our tradition for most of our history&mdash;free culture.
 <indexterm><primary>Safire, William</primary></indexterm>
 <indexterm><primary>Turner, Ted</primary></indexterm>
 <para>
-If this is crazy, then let there be more crazies. Soon.  There are
-moments of hope in this struggle. And moments that surprise. When the
-FCC was considering relaxing ownership rules, which would thereby
-further increase the concentration in media ownership, an
-extraordinary bipartisan coalition formed to fight this change. For
-perhaps the first time in history, interests as diverse as the NRA,
-the ACLU, Moveon.org, William Safire, Ted Turner, and CodePink Women
-for Peace organized to oppose this change in FCC policy. An
-astonishing 700,000 letters were sent to the FCC, demanding more
-hearings and a different result.
+If this is crazy, then let there be more crazies. Soon.
+</para>
+<para>
+<emphasis role='strong'>There are moments</emphasis> of hope in this
+struggle. And moments that surprise. When the FCC was considering
+relaxing ownership rules, which would thereby further increase the
+concentration in media ownership, an extraordinary bipartisan
+coalition formed to fight this change. For perhaps the first time in
+history, interests as diverse as the NRA, the ACLU, Moveon.org,
+William Safire, Ted Turner, and CodePink Women for Peace organized to
+oppose this change in FCC policy. An astonishing 700,000 letters were
+sent to the FCC, demanding more hearings and a different result.
 </para>
 <para>
 This activism did not stop the FCC, but soon after, a broad coalition
@@ -13147,8 +13201,9 @@ of our tragedy.
 </para>
 <indexterm><primary>Dylan, Bob</primary></indexterm>
 <para>
-As I write these final words, the news is filled with stories about
-the RIAA lawsuits against almost three hundred individuals.<footnote><para>
+<emphasis role='strong'>As I write</emphasis> these final words, the
+news is filled with stories about the RIAA lawsuits against almost
+three hundred individuals.<footnote><para>
 <!-- f11. -->
 John Borland, <quote>RIAA Sues 261 File Swappers,</quote> CNET News.com, September
 2003, available at
@@ -13235,9 +13290,9 @@ potential is ever to be realized.
 <para>
 
 <!-- PAGE BREAK 280 -->
-At least some who have read this far will agree with me that something
-must be done to change where we are heading. The balance of this book
-maps what might be done.
+<emphasis role='strong'>At least some</emphasis> who have read this
+far will agree with me that something must be done to change where we
+are heading. The balance of this book maps what might be done.
 </para>
 <para>
 I divide this map into two parts: that which anyone can do now,
@@ -13264,10 +13319,11 @@ sketch changes that Congress could make to better secure a free culture.
 <section id="usnow">
 <title>US, NOW</title>
 <para>
-Common sense is with the copyright warriors because the debate so far
-has been framed at the extremes&mdash;as a grand either/or: either
-property or anarchy, either total control or artists won't be paid. If
-that really is the choice, then the warriors should win.
+<emphasis role='strong'>Common sense</emphasis> is with the copyright
+warriors because the debate so far has been framed at the
+extremes&mdash;as a grand either/or: either property or anarchy,
+either total control or artists won't be paid. If that really is the
+choice, then the warriors should win.
 </para>
 <para>
 The mistake here is the error of the excluded middle. There are
@@ -13750,11 +13806,11 @@ creativity to spread more easily.
 <section id="themsoon">
 <title>THEM, SOON</title>
 <para>
-We will not reclaim a free culture by individual action alone. It will
-also take important reforms of laws. We have a long way to go before
-the politicians will listen to these ideas and implement these reforms.
-But that also means that we have time to build awareness around the
-changes that we need.
+<emphasis role='strong'>We will</emphasis> not reclaim a free culture
+by individual action alone. It will also take important reforms of
+laws. We have a long way to go before the politicians will listen to
+these ideas and implement these reforms.  But that also means that we
+have time to build awareness around the changes that we need.
 </para>
 <para>
 In this chapter, I outline five kinds of changes: four that are general,
