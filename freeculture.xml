@@ -2276,6 +2276,7 @@ such as in Japan, it functions very much like a diary. In those
 cultures, it records private facts in a public way&mdash;it's a kind
 of electronic <citetitle>Jerry Springer</citetitle>, available anywhere in the world.
 </para>
+<indexterm><primary>blogs (Web-logs)</primary></indexterm>
 <para>
 But in the United States, blogs have taken on a very different
 character.  There are some who use the space simply to talk about
@@ -2347,6 +2348,9 @@ Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton Univers
 </para></footnote> We say what our friends want to hear, and hear very
 little beyond what our friends say.
 </para>
+<indexterm id='idxblogs1' class='startofrange'>
+  <primary>blogs (Web-logs)</primary>
+</indexterm>
 <para>
 Enter the blog. The blog's very architecture solves one part of this
 problem. People post when they want to post, and people read when they
@@ -2470,6 +2474,7 @@ have been told to curtail their blogging.<footnote>
 <indexterm><primary>CNN</primary></indexterm>
 <indexterm><primary>Iraq war</primary></indexterm>
 <indexterm><primary>Olafson, Steve</primary></indexterm>
+<indexterm><primary>blogs (Web-logs)</primary></indexterm>
 See Michael Falcone, <quote>Does an Editor's Pencil Ruin a Web Log?</quote> <citetitle>New
 York Times</citetitle>, 29 September 2003, C4. (<quote>Not all news organizations have
 been as accepting of employees who blog. Kevin Sites, a CNN
@@ -2503,6 +2508,7 @@ Today there are probably a couple of million blogs where such writing
 happens. When there are ten million, there will be something
 extraordinary to report.
 </para>
+<indexterm startref='idxblogs1' class='endofrange'/>
 <indexterm startref="idxwinerdave" class='endofrange'/>
 <indexterm id="idxbrownjohnseely" class='startofrange'>
   <primary>Brown, John Seely</primary>
@@ -12986,6 +12992,7 @@ its lobbying here, and nothing terribly surprising about the most
 powerful software producer in the United States having succeeded in
 its lobbying efforts.
 </para>
+<indexterm><primary>Boland, Lois</primary></indexterm>
 <para>
 What was surprising was the United States government's reason for
 opposing the meeting. Again, as reported by Krim, Lois Boland, acting
@@ -13038,6 +13045,9 @@ property system. That is, on the contrary, just what a property system
 is supposed to be about: giving individuals the right to decide what
 to do with <emphasis>their</emphasis> property.
 </para>
+<indexterm id='idxboland' class='startofrange'>
+  <primary>Boland, Lois</primary>
+</indexterm>
 <para>
 When Ms. Boland says that there is something wrong with a meeting
 <quote>which has as its purpose to disclaim or waive such rights,</quote> she's
@@ -13105,6 +13115,7 @@ mistake. I have no illusion about the extremism of our government,
 whether Republican or Democrat. My only illusion apparently is about
 whether our government should speak the truth or not.)
 </para>
+<indexterm startref='idxboland' class='endofrange'/>
 <para>
 Obviously, however, the poster was not supporting that idea.  Instead,
 the poster was ridiculing the very idea that in the real world, the
