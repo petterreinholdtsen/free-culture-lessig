@@ -5607,7 +5607,7 @@ msgid ""
 "Graphophone Company Association)."
 msgstr ""
 "To Amend and Consolidate the Acts Respecting Copyright, 376 (forberedt "
-"innspill fra Philip Mauro, sjefspatentrådgiver for the American Graphophone "
+"innlegg fra Philip Mauro, sjefspatentrådgiver for the American Graphophone "
 "Company Association)."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
@@ -5800,7 +5800,7 @@ msgstr ""
 "forretningsområde på en halv milliard dollar som er veldig viktig for "
 "økonomien i USA og resten av verden. Plater er i dag den viktigste "
 "måten å spre musikk, og dette fører til spesielle problemer, siden "
-"utøvere trenger uhindret tilgnag til musikalsk materiale på "
+"utøvere trenger uhindret tilgang til musikalsk materiale på "
 "ikke-diskriminerende vilkår.  Plateprodusentene pekte på at historisk "
 "var det ingen innspillingsrettigheter før 1909 og 1909-endringen i "
 "lovverket vedtok tvangslisensen som en gjennomtenkt mekanisme for å "
@@ -6076,15 +6076,14 @@ msgstr "Igjen, kravene til opphavsrettsinnehaverne virket rimelige nok:"
 
 #.  f16
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 169 (joint statement of Arthur B.  Krim, "
 "president of United Artists Corp., and John Sinn, president of United "
 "Artists Television, Inc.)."
 msgstr ""
-"Copyright lov revision&mdash;catv, 169 (felleserklæringen av arthur b. Krim, "
-"president i united artists Corporation og john sinn, president i united "
-"artists TV, inc.)."
+"Endring i opphavsrettsloven&mdash;Kabel-TV, 169 (felles uttalelse "
+"fra Arthur B.  Krim, president i United Artists Corp. og John Sinn, "
+"president i United Artists Television Inc.)."
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -6201,6 +6200,12 @@ msgid ""
 "someone else's creative work without permission or compensation&mdash;has "
 "grown with the Internet.</quote>"
 msgstr ""
+"Se for eksempel National Music Publisher's Association, <citetitle>The "
+"Engine of Free Expression: Copyright on the Internet&mdash;The Myth of Free "
+"Information</citetitle>, tilgjengelig fra <ulink url=\"http://free-culture.cc/"
+"notes/\">link #13</ulink>. <quote>Trusselen fra "
+"piratvirksomhet&mdash;bruken av noen andres kreative verker uten "
+"tillatelse eller kompenasjons&mdash;har vokst med internettet.</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
