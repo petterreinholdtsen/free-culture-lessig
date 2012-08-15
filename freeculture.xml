@@ -7311,6 +7311,7 @@ to video stores. The video stores displayed the trailers as a way to sell
 videos. Video Pipeline got the trailers from the film distributors, put
 the trailers on tape, and sold the tapes to the retail stores.
 </para>
+<indexterm><primary>browsing</primary></indexterm>
 <para>
 The company did this for about fifteen years. Then, in 1997, it began
 to think about the Internet as another way to distribute these
@@ -7370,6 +7371,7 @@ control. The technology expands the scope of effective control,
 because the technology builds a copy into every transaction.
 </para>
 <indexterm><primary>Barnes &amp; Noble</primary></indexterm>
+<indexterm><primary>browsing</primary></indexterm>
 <para>
 <!-- PAGE BREAK 158 -->
 No doubt, a potential is not yet an abuse, and so the potential for
@@ -13449,6 +13451,9 @@ before.
 
 <section id="examples">
 <title>Rebuilding Freedoms Previously Presumed: Examples</title>
+<indexterm id='browsing' class='startofrange'>
+  <primary>browsing</primary>
+</indexterm>
 <para>
 If you step back from the battle I've been describing here, you will
 recognize this problem from other contexts. Think about
@@ -13501,6 +13506,7 @@ you. If it becomes simple to gather and sort who does what in
 electronic spaces, then the friction-induced privacy of yesterday
 disappears.
 </para>
+<indexterm startref='browsing' class='endofrange'/>
 <para>
 It is this reality that explains the push of many to define <quote>privacy</quote>
 on the Internet. It is the recognition that technology can remove what
