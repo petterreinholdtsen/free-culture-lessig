@@ -6785,13 +6785,12 @@ msgstr ""
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Amy Harmon, <quote>Industry Offers a Carrot in Online Music Fight,</quote> "
 "<citetitle>New York Times</citetitle>, 6 June 2003, A1."
 msgstr ""
-"Amy harmon, \"industri tilbyr en gulrot i online musikk kamp,\" new york "
-"times, 6. juni 2003 a1."
+"Amy Harmon, <quote>Industry Offers a Carrot in Online Music Fight,</quote> "
+"<citetitle>New York Times</citetitle>, 6. juni 2003, A1."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6999,9 +6998,8 @@ msgstr ""
 
 #.  f11
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid "U.S. Congress, <citetitle>Copyright and Home Copying</citetitle>, 4."
-msgstr "amerikanske Kongressen, copyright og hjem kopiering, 4."
+msgstr "U.S. Congress, <citetitle>Copyright and Home Copying</citetitle>, 4."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7731,9 +7729,8 @@ msgid "No protection"
 msgstr "Ingen beskyttelse"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "Statutory license"
-msgstr "lovbestemte lisens"
+msgstr "Lovbestemt lisens"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recording artists"
@@ -7752,9 +7749,8 @@ msgid "Broadcasters"
 msgstr "Kringkastere"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
-#, mtrans, fuzzy
 msgid "VCR"
-msgstr "Videoopptakere"
+msgstr "Videospiller/opptaker"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Film creators"
@@ -7842,13 +7838,12 @@ msgstr ""
 
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>Sony Corp. of America</citetitle> v. <citetitle>Universal City "
 "Studios, Inc</citetitle>., 464 U.S. 417, (1984)."
 msgstr ""
-"Sony Corporation of america v. universal city studios, inc., 464 amerikanske "
-"417, (1984)."
+"<citetitle>Sony Corp. of America</citetitle> mot <citetitle>Universal City "
+"Studios, Inc</citetitle>., 464 U.S. 417, (1984)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
