@@ -1285,6 +1285,9 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 <indexterm id="idxanimadedcartoons" class='startofrange'>
   <primary>animated cartoons</primary>
 </indexterm>
+<indexterm id='idxcartoonfilms' class='startofrange'>
+  <primary>cartoon films</primary>
+</indexterm>
 <para>
 <emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
 made his debut in May of that year, in a silent flop called <citetitle>Plane Crazy</citetitle>.
@@ -1483,6 +1486,7 @@ to now be free for the next Walt Disney to build upon without
 permission. Yet today, the public domain is presumptive only for
 content from before the Great Depression.
 </para>
+<indexterm startref='idxcartoonfilms' class='endofrange'/>
 <para>
 <emphasis role="strong">Of course</emphasis>, Walt Disney had no monopoly on <quote>Walt Disney creativity.</quote>
 Nor does America. The norm of free culture has, until recently, and
