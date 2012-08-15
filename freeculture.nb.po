@@ -5321,6 +5321,18 @@ msgid ""
 "Law School, James M. Olin Program in Law and Economics, Working Paper No. "
 "159.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
+"J. A. Aberdeen, <citetitle>Hollywood Renegades: The Society of Independent "
+"Motion Picture Producers</citetitle> (Cobblestone Entertainment, 2000) og "
+"utvidede tekster lagt ut på <quote>The Edison Movie Monopoly: The Motion "
+"Picture Patents Company vs. the Independent Outlaws</quote>, tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #11</ulink>. For en "
+"diskusjon om det økomiske motivet bak begge disse begresningene, og "
+"begresningene pålagt av Victor på fonografer, se Randal C. Picker, "
+"<quote>From Edison to the Broadcast Flag: Mechanisms of Consent and "
+"Refusal and the Propertization of Copyright</quote> (september 2002), "
+"University of Chicago Law School, James M. Olin Program in Law and "
+"Economics, Working Paper No.  159.  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
 msgid "Fox, William"
@@ -5506,7 +5518,6 @@ msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "To Amend and Consolidate the Acts Respecting Copyright: Hearings on S. 6330 "
 "and H.R. 19853 Before the ( Joint) Committees on Patents, 59th Cong. 59, 1st "
@@ -5515,11 +5526,13 @@ msgid ""
 "citetitle>, E. Fulton Brylawski and Abe Goldman, eds. (South Hackensack, N."
 "J.: Rothman Reprints, 1976).  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"endre og konsolidere handlinger som respekterer copyright: hearings på s. "
-"6330 og hr 19853 før (felles) komiteer på patenter, 59th cong. 59, 1 sess. "
-"(1906) (setning av senator alfred b. kittredge av Sør-dakota, formann), "
-"reprinted i lovgivningens bakgrunn av copyright act, e. brylawski for fulton "
-"og abe goldman, Red. (south hackensack, NJ: rothman opptrykk, 1976)."
+"Endre og slå sammen lovforslag om å respektere opphavsretten: Høring "
+"om S. 6330 og H.R. 19853 foran (felles)-komiteene om patenter, "
+"59. kongr. 59, 1. sess. (1906) (uttalelse til senator Alfred "
+"B. Kittredge fra Sør-Dakota, formann), gjengitt i "
+"<citetitle>Legislative History of the 1909 Copyright Act</citetitle>, "
+"E.  Fulton Brylawski og Abe Goldman, red. (South Hackensack, N.J.: "
+"Rothman Reprints, 1976).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -5712,7 +5725,6 @@ msgstr ""
 
 #.  f10
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision: Hearings on S. 2499, S. 2900, H.R. 243, and H.R. "
 "11794 Before the ( Joint) Committee on Patents, 60th Cong., 1st sess., 217 "
@@ -5721,11 +5733,12 @@ msgid ""
 "Fulton Brylawski and Abe Goldman, eds. (South Hackensack, N.J.: Rothman "
 "Reprints, 1976)."
 msgstr ""
-"Copyright lov revision: hearings på s. 2499, s. 2900, hr 243 og hr 11794 før "
-"(felles) komiteen på patenter, 60 cong., 1 sess., 217 (1908) (setning av "
-"senator reed smoot, formann), reprinted i lovgivningens bakgrunn av 1909 "
-"copyright act, e. brylawski for fulton og abe goldman, Red. (south "
-"hackensack, NJ: rothman opptrykk, 1976)."
+"Endring i opphavsrettsloven: Høring om S. 2499, S.2900, H.R. 243, og "
+"H.R. 11794 foran (felles)-komiteen om patenter, 60. kongr., 1. sess., "
+"217 (1908) (uttalelse fra senator Reed Smooth, formann), gjengitt i "
+"<citetitle>Legislative History of the 1909 Copyright Act</citetitle>, "
+"E.  Fulton Brylawski og Abe Goldman, red. (South Hackensack, N.J.: "
+"Rothman Reprints, 1976)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -5769,16 +5782,15 @@ msgstr ""
 
 #.  f11
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision: Report to Accompany H.R. 2512, House Committee on "
 "the Judiciary, 90th Cong., 1st sess., House Document no. 83, (8 March 1967). "
 "I am grateful to Glenn Brown for drawing my attention to this report."
 msgstr ""
-"Copyright lov revision: rapporten skal følge med HR 2512, huset committee on "
-"rettsvesenet, 90th cong., 1 sess., huset dokument nr. 83, (8 mars 1967). Jeg "
-"er takknemlig for glenn brun for tegning min oppmerksomhet til denne "
-"rapporten."
+"Endring av opphavsrettsloven: Rapport som følger H.R. 2512, House "
+"Committee on the Judiciary, 90. Kongr., 1. sess., House Document "
+"no. 83, (8. mars 1967).  Jeg er takknemlig til Glenn Brown for å ha "
+"gjort meg oppmerksom på denne rapporten."
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -6015,8 +6027,8 @@ msgid ""
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Endring i opphavsrettsloven&mdash;Kabel-TV: Høring om S. 1006 foran "
-"underkomiteen om patenter, varemerker og opphavsrett av senatets "
-"komite om det juridiske, 89. Kong., 2. sess., 78 (1966) (uttalelse fra "
+"underkomiteen om patenter, varemerker og opphavsrett av Senate Committee "
+"on the Judiciary, 89. Kongr., 2. sess., 78 (1966) (uttalelse fra "
 "Rosel H. Hyde, styreleder i den føderale "
 "kommunikasjonskommisjonen.<placeholder type=\"indexterm\" id=\"0\"/>"
 
