@@ -5830,7 +5830,6 @@ msgid "Hand, Learned"
 msgstr "Hand, Learned"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See 17 <citetitle>United States Code</citetitle>, sections 106 and 110. At "
 "the beginning, record companies printed <quote>Not Licensed for Radio "
@@ -5845,15 +5844,19 @@ msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/>"
 msgstr ""
-"se 17, united states code, inndelinger 106 og 110. på begynnelsen av, spille "
-"inn selskapene skrives ut \"ikke lisensiert for radiosendingen\" og andre "
-"meldinger purporting å begrense muligheten til å spille en post på en "
-"radiostasjon. dommer lært hånd avvist argumentet at en advarsel som er "
-"knyttet til en post kan begrense rettighetene til radiostasjonen. se rca "
-"produksjon co v. whiteman, 114 f. 2d 86 (2nd cir. 1940). Se også randal c. "
-"datovelger, \"fra edison til kringkasting flagg: mekanismer av samtykke og "
-"nektet og propertization av opphavsrett,\" university of chicago lov gå "
-"gjennom 70 (2003): 281."
+"Se 17 <citetitle>United States Code</citetitle>, seksjon 106 og "
+"110. I begynnelsen skrev noen plateselskaper <quote>Ikke lisensiert "
+"for radiokringkasting</quote> og andre meldinger som ga inntrykk av å "
+"begrense muligheten tli å spille en plate på en radiostasjon.  Dommer "
+"Learned Hand avviste argumentet om at en advarsel klistret på en plate "
+"kunne begrense rettighetene til radiostasjonen. Se <citetitle>RCA "
+"Manufacturing Co</citetitle>. mot <citetitle>Whiteman</citetitle>, 114 "
+"F. 2d 86 (2nd Cir. 1940).  Se også Randal C.  Picker, <quote>From "
+"Edison to the Broadcast Flag: Mechanisms of Consent and Refusal and "
+"the Propertization of Copyright,</quote> <citetitle>University of "
+"Chicago Law Review</citetitle> 70 (2003): 281.  <placeholder "
+"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6004,7 +6007,6 @@ msgid "Hyde, Rosel H."
 msgstr "Hyde, Rosel H."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV: Hearing on S. 1006 Before the "
 "Subcommittee on Patents, Trademarks, and Copyrights of the Senate Committee "
@@ -6012,20 +6014,21 @@ msgid ""
 "Hyde, chairman of the Federal Communications Commission).  <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Copyright lov revision&mdash;catv: høre s. 1006 før subcommittee on "
-"patenter, varemerker og opphavsrett for senatets komité på rettsvesenet, "
-"89nde cong., 2nd sess., 78 (1966) (setning av rosel h. hyde, formann i "
-"federal communications commission)."
+"Endring i opphavsrettsloven&mdash;Kabel-TV: Høring om S. 1006 foran "
+"underkomiteen om patenter, varemerker og opphavsrett av senatets "
+"komite om det juridiske, 89. Kong., 2. sess., 78 (1966) (uttalelse fra "
+"Rosel H. Hyde, styreleder i den føderale "
+"kommunikasjonskommisjonen.<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  f14
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 116 (statement of Douglas A. Anello, "
 "general counsel of the National Association of Broadcasters)."
 msgstr ""
-"Copyright lov revision&mdash;catv, 116 (setning av douglas a. anello, "
-"sjefsjurist av national association of broadcasters)."
+"Endring i opphavsretttsloven&mdash;Kabel-TV, 116 (uttalelse fra "
+"Douglas A. Anello, sjefsjuristen i Nasjonalforeningen for "
+"kringkastere)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6052,13 +6055,13 @@ msgstr ""
 
 #.  f15
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Law Revision&mdash;CATV, 126 (statement of Ernest W. Jennes, "
 "general counsel of the Association of Maximum Service Telecasters, Inc.)."
 msgstr ""
-"Copyright lov revision&mdash;catv, 126 (setning av ernest w. jennes, "
-"sjefsjurist av tilknytningen for maksimal service telecasters, inc.)."
+"Endring i opphavsrettsloven&mdash;Kabel-TV, 126 (uttalelse fra Ernest "
+"W. Jennes, sjefsjurist ved Association of Maximum Service Telecasters, "
+"Inc.). "
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -6107,7 +6110,7 @@ msgid ""
 "president of the Screen Actors Guild).  <placeholder type=\"indexterm\" id="
 "\"0\"/>"
 msgstr ""
-"Copyright Law Revision&mdash;CATV, 209 (vitnemål fra Charlton Heston, "
+"Copyright Law Revision&mdash;CATV, 209 (uttalelse fra Charlton Heston, "
 "president i Screen Actors Guild).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
