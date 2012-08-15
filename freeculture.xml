@@ -4557,6 +4557,9 @@ one else could publish copies of a book to which they held the
 copyright.  Prices of the classics were thus kept high; competition to
 produce better or cheaper editions was eliminated.
 </para>
+<indexterm id='idxbritishparliament' class='startofrange'>
+  <primary>British Parliament</primary>
+</indexterm>
 <para>
 Now, there's something puzzling about the year 1774 to anyone who
 knows a little about copyright law. The better-known year in the
@@ -5017,6 +5020,7 @@ antimonopoly, resistant to the protectionist pleas of publishers. In a
 world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
+<indexterm startref='idxbritishparliament' class='endofrange'/>
 <indexterm startref='idxbooksenglishlaw' class='endofrange'/>
 <!-- PAGE BREAK 106 -->
 </chapter>
@@ -5589,6 +5593,7 @@ curse, reserved for the few.
 <indexterm id='idxarchivesdigital1' class='startofrange'>
   <primary>archives, digital</primary>
 </indexterm>
+<indexterm><primary>bots</primary></indexterm>
 <para>
 <emphasis role='strong'>In April 1996</emphasis>, millions of
 <quote>bots</quote>&mdash;computer codes designed to
@@ -8058,6 +8063,7 @@ never be interfered with by the copyright police. You were free in
 that space to do as you wished with this part of our culture. You were
 allowed to build on it as you wished without fear of legal control.
 </para>
+<indexterm><primary>bots</primary></indexterm>
 <para>
 But if you moved your club onto the Internet, and made it generally
 available for others to join, the story would be very different. Bots
