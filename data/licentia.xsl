@@ -18,4 +18,7 @@
 <xsl:param name="dingbat.font.family">Times</xsl:param>
 <xsl:param name="double.sided">1</xsl:param>
 
+<xsl:param name="latex.class.book">scrreprt</xsl:param>
+<xsl:param name="latex.class.options">paper=12cm:19cm,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
+
 </xsl:stylesheet>

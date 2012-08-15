@@ -15,6 +15,9 @@
 <xsl:param name="title.font.family">Times</xsl:param>
 <xsl:param name="dingbat.font.family">Times</xsl:param>
 
+<xsl:param name="latex.class.book">scrreprt</xsl:param>
+<xsl:param name="latex.class.options">paper=5in:7.5in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
+
 <!-- from http://cygwin.com/ml/docbook-apps/2004-q2/msg00107.html -->
 <!-- ~~~~~~~~~~~~~~~~ -->
 <!-- Paragraph layout -->

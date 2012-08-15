@@ -16,11 +16,7 @@
 <xsl:param name="double.sided">1</xsl:param>
 
 <!-- used by dblatex -->
-<!--
-
 <xsl:param name="latex.class.book">scrreprt</xsl:param>
-<xsl:param name="latex.class.options">paper=10in:10in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
-
--->
+<xsl:param name="latex.class.options">paper=6in:9in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
 
 </xsl:stylesheet>

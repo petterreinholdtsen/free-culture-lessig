@@ -10,7 +10,7 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 # titlepage, openany, draft, fleqn, leqno
 #  -P latex.class.options=a5paper
 DBLATEX = dblatex \
-	-T db2latex \
+	-T simple \
 	--param lingua=nb \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
@@ -70,7 +70,7 @@ html: freeculture.html freeculture.nb.html
 #   This include images, but the index refs and footnote handling
 #   is broken.
 
-	pipeline=docbook-xsl; \
+	pipeline=dblatex; \
 	echo "Using $$pipeline pipeline" ; \
 	case "$$pipeline" in  \
 	dblatex) \
