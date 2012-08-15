@@ -15616,11 +15616,11 @@ msgstr "Nøtter"
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER ELEVEN: Chimera"
-msgstr "Kapittel elleve: Chimera"
+msgstr "Kapittel elleve: Fantasifoster"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "chimeras"
-msgstr ""
+msgstr "fantasifoster/chimera"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Wells, H. G."
