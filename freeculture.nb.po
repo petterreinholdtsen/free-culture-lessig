@@ -2166,7 +2166,7 @@ msgstr "Kapittel en: Skaperne"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "animated cartoons"
-msgstr "tegnefilmer"
+msgstr "animasjonsfilmer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "cartoon films"
