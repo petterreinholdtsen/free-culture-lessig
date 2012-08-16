@@ -11,16 +11,8 @@
 \LoadClassWithOptions{scrreprt}
 % report, book, memoir, scrreprt or scrbook ?
 
-%\setlength\paperheight {7.5in}%
-%\setlength\paperwidth  {5in}%
-
-%\setlength\topmargin{0.5in}
-%\setlength\headheight{0.5in}
-%\setlength\headsep{0.2in}
-%\setlength\textheight{5.6in}
-%\setlength\textwidth{4in}
-%\setlength\oddsidemargin{0.5in}
-%\setlength\evensidemargin{0.5in}
+%\usepackage{endnotes}
+%\let\footnote=\endnote
 
 %\usepackage[margin=1in, paperwidth=6in, paperheight=9in]{geometry}
 %\usepackage[margin=0.8in]{geometry}
