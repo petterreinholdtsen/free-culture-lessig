@@ -3263,8 +3263,10 @@ to take something for nothing.
 </section>
 <section id="cabletv">
 <title>Cable TV</title>
+<indexterm id='idxcabletv1' class='startofrange'>
+  <primary>cable television</primary>
+</indexterm>
 <para>
-
 Cable TV was also born of a kind of piracy.
 </para>
 <para>
@@ -3380,6 +3382,7 @@ exercise veto power over the emerging technologies of cable. Cable
 companies thus built their empire in part upon a <quote>piracy</quote> of the value
 created by broadcasters' content.
 </para>
+<indexterm startref='idxcabletv1' class='endofrange'/>
 <para>
 <emphasis role='strong'>These separate stories</emphasis> sing a
 common theme. If <quote>piracy</quote> means using value from someone
@@ -4137,6 +4140,9 @@ respected (since the radio station did not have to pay them for the
 creativity it broadcast), Congress rejected their claim. An indirect
 benefit was enough.
 </para>
+<indexterm id='idxcabletv2' class='startofrange'>
+  <primary>cable television</primary>
+</indexterm>
 <para>
 Cable TV followed the pattern of record albums. When the courts
 rejected the claim that cable broadcasters had to pay for the content
@@ -4163,6 +4169,7 @@ Congress chose a path that would assure
 <emphasis>compensation</emphasis> without giving the past
 (broadcasters) control over the future (cable).
 </para>
+<indexterm startref='idxcabletv2' class='endofrange'/>
 <indexterm><primary>Betamax</primary></indexterm>
 <para>
 In the same year that Congress struck this balance, two major
@@ -8131,6 +8138,7 @@ of the media.
 These changes are of two sorts: the scope of concentration, and its
 nature.
 </para>
+<indexterm><primary>cable television</primary></indexterm>
 <para>
 Changes in scope are the easier ones to describe. As Senator John
 McCain summarized the data produced in the FCC's review of media
@@ -8169,6 +8177,7 @@ markets, the two largest broadcasters control 74 percent of that
 market's revenues. Overall, just four companies control 90 percent of
 the nation's radio advertising revenues.
 </para>
+<indexterm><primary>cable television</primary></indexterm>
 <para>
 Newspaper ownership is becoming more concentrated as well.  Today,
 there are six hundred fewer daily newspapers in the United States than
@@ -14696,6 +14705,7 @@ there will be a great deal of competition to offer and sell music
 on-line.
 </para>
 <indexterm><primary>Asia, commercial piracy in</primary></indexterm>
+<indexterm><primary>cable television</primary></indexterm>
 <para>
 This competition has already occurred against the background of <quote>free</quote>
 music from p2p systems. As the sellers of cable television have known

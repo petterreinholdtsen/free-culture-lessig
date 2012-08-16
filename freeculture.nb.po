@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-16 21:43+0300\n"
+"POT-Creation-Date: 2012-08-16 22:38+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5976,6 +5976,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
 msgstr "Kabel-TV"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "cable television"
+msgstr "kabel-TV"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Cable TV was also born of a kind of piracy."
