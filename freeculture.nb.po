@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-15 14:18+0300\n"
+"POT-Creation-Date: 2012-08-16 11:34+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -6304,19 +6304,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This is piracy plain and simple. Nothing in the argument of this book, nor "
 "in the argument that most people make when talking about the subject of this "
 "book, should draw into doubt this simple point: This piracy is wrong."
 msgstr ""
-"Dette er piratkopiering ren og enkel. ingenting i argumentet av denne boken, "
-"og heller ikke i argumentet om at fleste gjør når du snakker om emnet av "
-"denne boken, bør trekke i tvil dette enkle punktet: denne piratkopiering er "
-"galt."
+"Dette er enkelt og greit piratvirksomhet.  Ingenting i argumentet i "
+"denne boken, og heller ikke i argumentet til de fleste folkene som "
+"omtaler temaet i denne boken, bør trekke i tvil dette enkle poenget: "
+"Slik piratvirksomhet er galt."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Which is not to say that excuses and justifications couldn't be made for it. "
 "We could, for example, remind ourselves that for the first one hundred years "
@@ -6325,12 +6323,13 @@ msgid ""
 "for us to insist so strongly that other developing nations treat as wrong "
 "what we, for the first hundred years of our existence, treated as right."
 msgstr ""
-"som er ikke å si at unnskyldninger og justifications ikke kunne laget for "
-"den. Vi kan, for eksempel minne oss at for de første hundre år av den "
-"amerikanske Republikken, Amerika ikke ære utenlandske opphavsrettigheter. Vi "
-"ble født, i denne forstand, en pirat nasjon. Det kan derfor synes "
-"hypocritical for oss å insistere så sterkt at andre utviklingsland behandle "
-"feil hva vi, for de første hundre år av vår eksistens, behandlet som høyre."
+"Hvilket ikke er å si at unnskyldninger og begrunnelser ikke kan lages "
+"for det.  Vi kan, for eksempel, minne oss selv om at for de første "
+"hundre årene USA har vært republikk, respekterte ikke USA utenlandske "
+"opphavsrettigheter.  Vi ble på en måte skapt som en piratnasjon.  Det "
+"kan dermed synes hyklersk for oss å insistere så sterkt at andre "
+"utviklingsland skal behandle som galt det vi, for de første hundre "
+"årene vi eksisterte, behandlet som riktig."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
