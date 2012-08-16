@@ -6332,7 +6332,6 @@ msgstr ""
 "årene vi eksisterte, behandlet som riktig."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "That excuse isn't terribly strong. Technically, our law did not ban the "
 "taking of foreign works. It explicitly limited itself to American works. "
@@ -6344,15 +6343,16 @@ msgid ""
 "legal wrong, and not just an internationally legal wrong, but a locally "
 "legal wrong as well."
 msgstr ""
-"den unnskyldning er ikke veldig sterk. teknisk, vår lov ikke Ben å ta av "
-"utenlandske fungerer. det begrenset eksplisitt seg til amerikanske works. "
-"Dermed ble er amerikansk utgivere som publisert utenlandske fungerer uten "
-"tillatelse fra utenlandske forfattere ikke bryter reglementet. "
-"kopieringsfirmaer i asia, derimot, er krenkjer asiatiske lov. asiatiske lov "
-"beskytter utenlandske opphavsrettigheter, og handlingene til "
-"kopieringsfirmaer bryter den lov. så feil for piratvirksomhet som de delta i "
-"er ikke bare en moralsk galt, men en juridisk galt, og ikke bare et "
-"internasjonalt juridiske galt, men en lokalt juridiske galt også."
+"Denne unnskyldningen er ikke veldig vektig.  Teknisk sett forbød ikke "
+"vårt lovverk å ta utenlandske verker.  Det begrenset seg eksplisitt "
+"til amerikanske verker.  Dermed brøt de amerikanske forleggerne som "
+"publiserte utenlandske verker uten tillatelse fra de utenlandske "
+"forfattere noen regler.  Kopierings-selskapene i asia bryter derimot "
+"loven i asia.  Loven i asia beskytter utenlandsk opphavsrett, og "
+"aktiviteten til kopierings-selskapene bryter den loven.  Så det at "
+"piratvirksomheten er galt er ikke bare moralsk galt, men juridisk "
+"galt.  Og ikke bare galt i følge internasjonal lovgiving, men også "
+"juridisk galt etter lokal lovgiving."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -6370,7 +6370,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "agricultural patents"
-msgstr ""
+msgstr "næringsmiddelpatenter"
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 msgid "Drahos, Peter"
@@ -22974,7 +22974,7 @@ msgid ""
 "view, the very idea of balance in intellectual property had been lost."
 msgstr ""
 "Faktisk fikk jeg en gang offentlig kjeft for å ikke anerkjenne dette faktum "
-"om WIPO.  I februar 2003 leverte jeg et hovedinnlegg på en forberedende "
+"om WIPO.  I februar 2003 leverte jeg et nøkkelforedrag på en forberedende "
 "konferanse for World Summit on the Information Society (WSIS).  På en "
 "pressekonferanse før innlegget, ble jeg spurt hva jeg skulle snakke om.  Jeg "
 "svarte at jeg skulle snakke litt om viktigheten av balanse rundt "
