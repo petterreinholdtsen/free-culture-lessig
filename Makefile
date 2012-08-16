@@ -52,7 +52,7 @@ pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub 
 html: freeculture.html freeculture.nb.html 
 
-%.pdf: %.xml $(IMAGES) $(PDF_XSLT)
+%.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile
 # Possible pipelines:
 #
 # dblatex:
