@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-15 14:18+0300\n"
+"POT-Creation-Date: 2012-08-16 12:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6513,7 +6513,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:4827 freeculture.xml:14934
+#: freeculture.xml:4827 freeculture.xml:14937
 msgid "Rose, Mark"
 msgstr ""
 
@@ -19752,12 +19752,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#: freeculture.xml:14927
+#: freeculture.xml:14930
 msgid "ACKNOWLEDGMENTS"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14929
+#: freeculture.xml:14932
 msgid ""
 "This book is the product of a long and as yet unsuccessful struggle that "
 "began when I read of Eric Eldred's war to keep books free. Eldred's work "
@@ -19766,7 +19766,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14936
+#: freeculture.xml:14939
 msgid ""
 "I received guidance in various places from friends and academics, including "
 "Glenn Brown, Peter DiCola, Jennifer Mnookin, Richard Posner, Mark Rose, and "
@@ -19782,7 +19782,7 @@ msgstr ""
 
 #. PAGE BREAK 337
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14949
+#: freeculture.xml:14952
 msgid ""
 "Yuko Noguchi helped me to understand the laws of Japan as well as its "
 "culture. I am thankful to her, and to the many in Japan who helped me "
@@ -19795,7 +19795,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14960
+#: freeculture.xml:14963
 msgid ""
 "These are the traditional sorts of help that academics regularly draw "
 "upon. But in addition to them, the Internet has made it possible to receive "
@@ -19817,7 +19817,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14980
+#: freeculture.xml:14983
 msgid ""
 "Richard Stallman and Michael Carroll each read the whole book in draft, and "
 "each provided extremely helpful correction and advice.  Michael helped me to "
@@ -19828,7 +19828,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14989
+#: freeculture.xml:14992
 msgid ""
 "Finally, and forever, I am thankful to Bettina, who has always insisted that "
 "there would be unending happiness away from these battles, and who has "
