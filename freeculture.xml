@@ -4283,7 +4283,7 @@ together, a pattern is clear:
 </para>
 
 <informaltable id="t1">
-<tgroup cols="4" align="char">
+<tgroup cols="4" align="left">
 <thead>
  <row>
  <entry>CASE</entry>
@@ -8590,7 +8590,7 @@ that copyright law has undergone.  In 1790, the law looked like this:
 </para>
 
 <informaltable id="t2">
-<tgroup cols="3" align="char">
+<tgroup cols="3" align="left">
 <thead>
  <row>
  <entry></entry>
@@ -8627,7 +8627,7 @@ By the end of the nineteenth century, the law had changed to this:
 </para>
 
 <informaltable id="t3">
-<tgroup cols="3" align="char">
+<tgroup cols="3" align="left">
 <thead>
  <row>
  <entry></entry>
@@ -8665,7 +8665,7 @@ we could say the law began to look like this:
 </para>
 
 <informaltable id="t4">
-<tgroup cols="3" align="char">
+<tgroup cols="3" align="left">
 <thead>
  <row>
  <entry></entry>
@@ -8697,7 +8697,7 @@ that the law now looks like this:
 </para>
 
 <informaltable id="t5">
-<tgroup cols="3" align="char">
+<tgroup cols="3" align="left">
 <thead>
  <row>
  <entry></entry>
