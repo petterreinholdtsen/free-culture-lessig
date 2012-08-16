@@ -2,21 +2,21 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version='1.0'
 		xmlns:fo="http://www.w3.org/1999/XSL/Format" >
 
-<!-- settings from original PDF version -->
+<!-- settings from original 2004 hardcover version -->
 
 <xsl:param name="paper.type">book5x7.5</xsl:param>
-<xsl:param name="page.width">5in</xsl:param>
-<xsl:param name="page.height">7.51in</xsl:param>
+<xsl:param name="page.width">5.51in</xsl:param>
+<xsl:param name="page.height">8.23in</xsl:param>
 
-<xsl:param name="page.margin.inner">0.8in</xsl:param>
-<xsl:param name="page.margin.outer">0.6in</xsl:param>
+<xsl:param name="page.margin.inner">0.67in</xsl:param>
+<xsl:param name="page.margin.outer">0.71in</xsl:param>
 <xsl:param name="body.start.indent">0pt</xsl:param>
 <xsl:param name="body.font.family">Times</xsl:param>
 <xsl:param name="title.font.family">Times</xsl:param>
 <xsl:param name="dingbat.font.family">Times</xsl:param>
 
-<xsl:param name="latex.class.book">scrreprt</xsl:param>
-<xsl:param name="latex.class.options">paper=5in:7.5in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
+<xsl:param name="latex.class.book">scrreprtmargins</xsl:param>
+<xsl:param name="latex.class.options">paper=5.51in:8.23in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
 
 <!-- from http://cygwin.com/ml/docbook-apps/2004-q2/msg00107.html -->
 <!-- ~~~~~~~~~~~~~~~~ -->
