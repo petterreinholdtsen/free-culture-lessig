@@ -6451,6 +6451,12 @@ msgid ""
 "American CDs at $15 a copy. So no one really has any less money than they "
 "otherwise would have had.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Alternativt, så kan vi forsøke å unnskylde denne piratvirksomheten "
+"ved å legge merke til at det uansett ikke skader industrien. "
+"Kineserne som får tilgang til amerikanske CDer for 50 cent pr. utgave "
+"er ikke folk som ville kjøpt disse CDene for #15 per utgave.  Så ingen "
+"har egentlig noe mindre penger enn de ellers ville hatt.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -6564,11 +6570,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Internet Explorer"
-msgstr ""
+msgstr "Internet Exporer"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Netscape"
-msgstr ""
+msgstr "Netscape"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
