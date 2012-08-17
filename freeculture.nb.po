@@ -6362,7 +6362,6 @@ msgstr ""
 "internasjonal lovgiving, men også juridisk galt etter lokal lovgiving."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "True, these local rules have, in effect, been imposed upon these countries. "
 "No country can be part of the world economy and choose <beginpage pagenum="
@@ -6370,10 +6369,11 @@ msgid ""
 "pirate nation, but we will not allow any other nation to have a similar "
 "childhood."
 msgstr ""
-"sant, disse lokale regler har, i kraft, blitt påtvunget disse landene. ikke "
-"noe land kan være en del av verdensøkonomien og velge ikke å beskytte "
-"opphavsretten internasjonalt. Vi kan ha vært født en pirat nasjon, men vi "
-"tillater ikke noen annen nasjon til å ha en lignende barndom."
+"Joda, disse reglene har i praksis blitt påtvunget disse landene. "
+"Intet land kan være del av verdensøkonomien og velge <beginpage "
+"pagenum=\"77\"/> å ikke beskytte opphavsrett internasjonalt.  Vi ble "
+"kanskje skapt som en piratnasjon, men vi tillater ingen annen nasjon å "
+"ha en tilsvarende barndom."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "agricultural patents"
@@ -6425,6 +6425,14 @@ msgid ""
 "when they don't, then their laws should be respected. And under the laws of "
 "these nations, this piracy is wrong."
 msgstr ""
+"Men likevel, hvis et land skal behandles som selvstending da er "
+"landets lover landets lover, uavhengig av deres kilde.  De "
+"internasjonale lovene som disse landene lever under gir dem noen "
+"muligheter til å slippe unna byrden til immaterielle "
+"rettighetslover.<placeholder type=\"footnote\" id=\"0\"/> Etter mitt "
+"syn burde flere utviklingsland utnytte den muligheten, men når de ikke "
+"gjør det bør deres lover likevel respekteres.  Og i følge lovene i "
+"disse landene, er piratvirksomhet galt."
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Liebowitz, Stan"
