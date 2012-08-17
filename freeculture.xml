@@ -1747,6 +1747,9 @@ free culture. It is becoming much less so.
 </chapter>
 <chapter label="2" id="mere-copyists">
 <title>CHAPTER TWO: <quote>Mere Copyists</quote></title>
+<indexterm id='idxcameratech' class='startofrange'>
+  <primary>camera technology</primary>
+</indexterm>
 <indexterm id="idxphotography" class='startofrange'>
   <primary>photography</primary>
 </indexterm>
@@ -1836,6 +1839,7 @@ an average annual increase of over 17 percent.<footnote><para>
 Based on a chart in Jenkins, p. 178.
 </para></footnote>
 </para>
+<indexterm startref='idxcameratech' class='endofrange'/>
 <indexterm><primary>Coe, Brian</primary></indexterm>
 <para>
 
@@ -1962,6 +1966,7 @@ that growth would have been realized. And certainly, nothing like that
 growth in a democratic technology of expression would have been
 realized.
 </para>
+<indexterm><primary>camera technology</primary></indexterm>
 <para>
 <emphasis role='strong'>If you drive</emphasis> through San
 Francisco's Presidio, you might see two gaudy yellow school buses
@@ -6463,6 +6468,7 @@ Brown describes it, its <quote>architecture of revenue.</quote>
 </para>
 <indexterm><primary>railroad industry</primary></indexterm>
 <indexterm><primary>advertising</primary></indexterm>
+<indexterm><primary>camera technology</primary></indexterm>
 <para>
 But just because a particular interest asks for government support, it
 doesn't follow that support should be granted. And just because
@@ -9524,6 +9530,7 @@ discussion with BMW:
 </para>
 <blockquote>
 <indexterm><primary>BMW</primary></indexterm>
+<indexterm><primary>cars, MP3 sound system in</primary></indexterm>
 <para>
 I asked why, with all the storage capacity and computer power in
 the car, there was no way to play MP3 files. I was told that BMW
