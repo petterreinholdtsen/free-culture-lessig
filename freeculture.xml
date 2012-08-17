@@ -3813,6 +3813,10 @@ about radio, and broadcasters complained about cable TV, the music
 industry complains that type A sharing is a kind of <quote>theft</quote> that is
 <quote>devastating</quote> the industry.
 </para>
+<indexterm id='idxcassette' class='startofrange'>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <para>
 While the numbers do suggest that sharing is harmful, how
 harmful is harder to reckon. It has long been the recording industry's
@@ -3821,6 +3825,7 @@ cassette recording is a good example. As a study by Cap Gemini Ernst
 &amp; Young put it, <quote>Rather than exploiting this new, popular
 technology, the labels fought it.</quote><footnote><para>
 <!-- f10 -->
+<indexterm><primary>cassette recording</primary></indexterm>
 See Cap Gemini Ernst &amp; Young, <citetitle>Technology Evolution and the
 Music Industry's Business Model Crisis</citetitle> (2003), 3. This report
 describes the music industry's effort to stigmatize the budding
@@ -3850,6 +3855,7 @@ innovation at the major labels.</quote><footnote><para>
 U.S. Congress, <citetitle>Copyright and Home Copying</citetitle>, 4.
 </para></footnote>
 </para>
+<indexterm startref='idxcassette' class='endofrange'/>
 <para>
 But just because the industry was wrong before does not mean it is
 wrong today. To evaluate the real threat that p2p sharing presents to
@@ -4176,6 +4182,10 @@ Congress chose a path that would assure
 </para>
 <indexterm startref='idxcabletv2' class='endofrange'/>
 <indexterm><primary>Betamax</primary></indexterm>
+<indexterm id='idxcassettevcrs1' class='startofrange'>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <para>
 In the same year that Congress struck this balance, two major
 producers and distributors of film content filed a lawsuit against
@@ -4332,7 +4342,7 @@ together, a pattern is clear:
 </tbody>
 </tgroup>
 </informaltable>
-
+<indexterm startref='idxcassettevcrs1' class='endofrange'/>
 <para>
 In each case throughout our history, a new technology changed the
 way content was distributed.<footnote><para>
@@ -7941,6 +7951,10 @@ Thus, even though he was not himself infringing anyone's copyright,
 his academic paper was enabling others to infringe others' copyright.
 </para>
 <indexterm><primary>Rogers, Fred</primary></indexterm>
+<indexterm id='idxcassettevcrs2' class='startofrange'>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <para>
 The bizarreness of these arguments is captured in a cartoon drawn in
 1981 by Paul Conrad. At that time, a court in California had held that
@@ -7969,6 +7983,10 @@ but I just feel that anything that allows a person to be more active
 in the control of his or her life, in a healthy way, is
 important.<footnote><para>
 <!-- f23 -->
+<indexterm>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <citetitle>Sony Corporation of America</citetitle> v. <citetitle>Universal City Studios, Inc</citetitle>., 464 U.S. 417,
 455 fn. 27 (1984). Rogers never changed his view about the VCR. See
 James Lardner, <citetitle>Fast Forward: Hollywood, the Japanese, and the Onslaught of
@@ -8024,6 +8042,7 @@ technologies absolutely, despite the potential that they might do some
 good, but permits guns, despite the obvious and tragic harm they do.
 </para>
 <indexterm startref='idxhandguns' class='endofrange'/>
+<indexterm startref='idxcassettevcrs2' class='endofrange'/>
 <indexterm><primary>Aibo robotic dog</primary></indexterm>
 <indexterm><primary>robotic dog</primary></indexterm>
 <indexterm>
@@ -9678,6 +9697,10 @@ of regulation. It is a regulation that benefits some and harms others.
 When done right, it benefits creators and harms leeches. When done
 wrong, it is regulation the powerful use to defeat competitors.
 </para>
+<indexterm>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <para>
 As I described in chapter <xref xrefstyle="select: labelnumber"
 linkend="property-i"/>, despite this feature of copyright as
@@ -14415,6 +14438,10 @@ content that is not copyrighted or to get access that the copyright
 owner plainly endorses.
 </para></listitem>
 </orderedlist>
+<indexterm>
+  <primary>cassette recording</primary>
+  <secondary>VCRs</secondary>
+</indexterm>
 <para>
 Any reform of the law needs to keep these different uses in focus. It
 must avoid burdening type D even if it aims to eliminate type A. The
