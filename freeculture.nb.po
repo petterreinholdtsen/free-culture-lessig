@@ -6673,27 +6673,27 @@ msgstr ""
 "piratkopiering."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "For (1) like the original Hollywood, p2p sharing escapes an overly "
 "controlling industry; and (2) like the original recording industry, it "
 "simply exploits a new way to distribute content; but (3) unlike cable TV, no "
 "one is selling the content that is shared on p2p services."
 msgstr ""
-"for (1) som den opprinnelige hollywood, p2p fildeling rømming en altfor "
-"kontrollerende industrien; og (2) som opprinnelige recording industry, det "
-"bare utnytter en ny måte å distribuere innhold; men det er (3) i motsetning "
-"til kabel-tv, ingen selger innholdet som er delt på p2p tjenester."
+"For (1) på samme måte som det opprinnelige Hollywod, rømmer "
+"p2p-fildeling fra en altfor kontrollerene industri og (2) på samme "
+"måte som den opprinnelige innspillingsindustrien, ganske enkelt "
+"utnytter den nye måter å spre innhold på, men (3) til forskjell fra "
+"kabel-TV er det ingen som selger innholdet som blir delt med "
+"p2p-tjenester."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "These differences distinguish p2p sharing from true piracy. They should push "
 "us to find a way to protect artists while enabling this sharing to survive."
 msgstr ""
-"disse forskjellene skille p2p fildeling fra sant piratkopiering. de push oss "
-"å finne en måte å beskytte kunstnere samtidig som du gir denne deling til å "
-"overleve."
+"Disse forskjellene skiller p2p-deling fra virkelig piratvirksomhet. "
+"Forskjellen bør få oss til å finne en måte å beskytte kustnerne mens "
+"vi gjør det mulig for denne delingen å overleve."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Piracy II"
