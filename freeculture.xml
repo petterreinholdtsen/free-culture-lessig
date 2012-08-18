@@ -3433,6 +3433,10 @@ has so often done in the past.
 <section id="piracy-i">
 <title>Piracy I</title>
 <indexterm><primary>Asia, commercial piracy in</primary></indexterm>
+<indexterm id='idxcdsforeign' class='startofrange'>
+  <primary>CDs</primary>
+  <secondary>foreign piracy of</secondary>
+</indexterm>
 <para>
 All across the world, but especially in Asia and Eastern Europe, there
 are businesses that do nothing but take others people's copyrighted
@@ -3542,6 +3546,7 @@ from a computer network, there is not one less CD that can be sold.
 The physics of piracy of the intangible are different from the physics of
 piracy of the tangible.
 </para>
+<indexterm startref='idxcdsforeign' class='endofrange'/>
 <para>
 This argument is still very weak. However, although copyright is a
 property right of a very special sort, it <emphasis>is</emphasis> a
@@ -5269,6 +5274,9 @@ anticipation of the power of networks.
   <primary>artists</primary>
   <secondary>retrospective compilations on</secondary>
 </indexterm>
+<indexterm id='idxcdroms' class='startofrange'>
+  <primary>CD-ROMs, film clips used in</primary>
+</indexterm>
 <para>
 Alben had a special interest in new technology. He was intrigued by
 the emerging market for CD-ROM technology&mdash;not to distribute
@@ -5464,6 +5472,7 @@ that the average Web designer would not have. So if it took him a
 year, how long would it take someone else? And how much creativity is
 never made just because the costs of clearing the rights are so high?
 </para>
+<indexterm startref='idxcdroms' class='endofrange'/>
 <indexterm startref='idxartistsretrospective' class='endofrange'/>
 <para>
 These costs are the burdens of a kind of regulation. Put on a
@@ -14120,6 +14129,10 @@ evolve. The best way to ensure that the system evolves is to limit the
 Copyright Office's role to that of approving standards for marking
 content that have been crafted elsewhere.
 </para>
+<indexterm>
+  <primary>CDs</primary>
+  <secondary>copyright marking of</secondary>
+</indexterm>
 <para>
 For example, if a recording industry association devises a method for
 marking CDs, it would propose that to the Copyright Office. The
