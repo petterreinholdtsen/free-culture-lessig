@@ -3882,6 +3882,10 @@ therefore have little <emphasis>static</emphasis> reason to resist
 them.
 
 </para>
+<indexterm id='idxcdssales' class='startofrange'>
+  <primary>CDs</primary>
+  <secondary>sales levels of</secondary>
+</indexterm>
 <para>
 Could that be true? Could the industry as a whole be gaining because
 of file sharing? Odd as that might sound, the data about CD sales
@@ -3956,6 +3960,7 @@ percent drop. If 2.6 times the number of CDs sold were downloaded for
 free, and yet sales revenue dropped by just 6.7 percent, then there is
 a huge difference between <quote>downloading a song and stealing a CD.</quote>
 </para>
+<indexterm startref='idxcdssales' class='endofrange'/>
 <para>
 These are the harms&mdash;alleged and perhaps exaggerated but, let's
 assume, real. What of the benefits? File sharing may impose costs on
@@ -9444,13 +9449,17 @@ facilitate new ways to create content. Unlike the major labels,
 MP3.com offered creators a venue to distribute their creativity,
 without demanding an exclusive engagement from the creators.
 </para>
+<indexterm><primary>Lovett, Lyle</primary></indexterm>
+<indexterm id='idxcdsprefdata' class='startofrange'>
+  <primary>CDs</primary>
+  <secondary>preference data on</secondary>
+</indexterm>
 <para>
 To make this system work, however, MP3.com needed a reliable way to
 recommend music to its users. The idea behind this alternative was to
 leverage the revealed preferences of music listeners to recommend new
 artists. If you like Lyle Lovett, you're likely to enjoy Bonnie
 Raitt. And so on.
-<indexterm><primary>Lovett, Lyle</primary></indexterm>
 </para>
 <para>
 This idea required a simple way to gather data about user preferences.
@@ -9473,6 +9482,7 @@ my.mp3.com service was to give users access to their own content, and
 as a by-product, by seeing the content they already owned, to discover
 the kind of content the users liked.
 </para>
+<indexterm startref='idxcdsprefdata' class='endofrange'/>
 <para>
 To make this system function, however, MP3.com needed to copy 50,000
 CDs to a server. (In principle, it could have been the user who
@@ -10264,7 +10274,11 @@ Apple Corporation went so far as to suggest that <quote>freedom</quote> was a
 right: In a series of commercials, Apple endorsed the <quote>Rip, Mix, Burn</quote>
 capacities of digital technologies.
 </para>
-<indexterm><primary>Adromeda</primary></indexterm>
+<indexterm><primary>Andromeda</primary></indexterm>
+<indexterm id='idxcdsmix' class='startofrange'>
+  <primary>CDs</primary>
+  <secondary>mix technology and</secondary>
+</indexterm>
 <para>
 This <quote>use</quote> of my records is certainly valuable. I have begun a large
 process at home of ripping all of my and my wife's CDs, and storing
@@ -10300,6 +10314,7 @@ the world where we either listened to music by manipulating pieces of
 plastic or were part of a massively complex <quote>digital rights
 management</quote> system.
 </para>
+<indexterm startref='idxcdsmix' class='endofrange'/>
 <para>
 If the only way to assure that artists get paid were the elimination
 of the ability to freely move content, then these technologies to
