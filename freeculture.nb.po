@@ -7239,7 +7239,7 @@ msgstr "bøker"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "resales of"
-msgstr ""
+msgstr "selge på nytt"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -9585,7 +9585,7 @@ msgstr ""
 "om publisitet&mdash;rettigheten en artist har til å kontrollere den "
 "kommersielle utnyttelsen av hans bilde.  Men disse rettighetene "
 "belaster også <quote>rip, miks, brenn</quote>-kreativiteten slik dette "
-"kapittelet demonstrerer.  <placeholder type=\"indexterm\" id="\"0\"/> "
+"kapittelet demonstrerer.  <placeholder type=\"indexterm\" id=\"0\"/> "
 "<placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
