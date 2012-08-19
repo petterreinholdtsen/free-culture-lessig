@@ -9574,7 +9574,6 @@ msgid "publicity rights on images of"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Technically, the rights that Alben had to clear were mainly those of "
 "publicity&mdash;rights an artist has to control the commercial exploitation "
@@ -9582,11 +9581,12 @@ msgid ""
 "creativity, as this chapter evinces.  <placeholder type=\"indexterm\" id="
 "\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"teknisk, rettighetene som alben hadde å fjerne var hovedsakelig de "
-"publisitet&mdash;rettigheter kunstner har til å kontrollere kommersiell "
-"utnyttelse av hans bilde. men disse rettighetene også, belaster \"rip, "
-"mikse, brenne\" kreativitet, som evinces i dette kapitlet.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Teknisk sett var rettighetene som Alben måtte klarere i hovedsak de "
+"om publisitet&mdash;rettigheten en artist har til å kontrollere den "
+"kommersielle utnyttelsen av hans bilde.  Men disse rettighetene "
+"belaster også <quote>rip, miks, brenn</quote>-kreativiteten slik dette "
+"kapittelet demonstrerer.  <placeholder type=\"indexterm\" id="\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9737,6 +9737,10 @@ msgid ""
 "citetitle>, available at <ulink url=\"http://free-culture.cc/notes/\">link "
 "#22</ulink>."
 msgstr ""
+"U.S. Department of Commerce Office of Acquisition Management, "
+"<citetitle>Seven Steps to Performance-Based Services Acquisition</"
+"citetitle>, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#22</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
