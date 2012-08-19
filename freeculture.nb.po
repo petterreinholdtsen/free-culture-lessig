@@ -6758,6 +6758,13 @@ msgid ""
 "and crew had simply put together components that had been developed "
 "independently.  <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
+"Peer-to-peer-deling ble gjort berømt av Napster.  Men oppfinnerne av "
+"Napster-teknologien hadde ikke gjort noen store teknologiske "
+"nyskapninger.  Som ethvert stort steg i nyskapningen på internettet "
+"(og, kan det argumenteres for, utenfor internettet<placeholder "
+"type=\"footnote\" id=\"0\"/>) hadde Shawn Fanning og hans bemanning "
+"ganske enkelt satt sammen deler som hadde blitt utviklet uavhengig av "
+"hverandre. <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
