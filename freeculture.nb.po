@@ -9465,43 +9465,37 @@ msgstr ""
 "urettferdig piratkonkurranse, hadde utviklet seg til et sverd som slo ned på "
 "_all_ bruk, transformativ* eller ikke."
 
-#. type: Content of: <book><part><chapter><title>
+#. type: Content of: <book><chapter><sect1><title>
+#, mtrans
 msgid "CHAPTER EIGHT: Transformers"
-msgstr "Kapittel åtte: Omformere"
+msgstr "Kapittel åtte: Omformerne"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Allen, Paul"
 msgstr "Allen, Paul"
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><sect2><indexterm><primary>
+#, mtrans
 msgid "Alben, Alex"
 msgstr "Alben, Alex"
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"<emphasis role='strong'>In 1993</emphasis>, Alex Alben was a lawyer working "
-"at Starwave, Inc.  Starwave was an innovative company founded by Microsoft "
-"cofounder Paul Allen to develop digital entertainment. Long before the "
-"Internet became popular, Starwave began investing in new technology for "
-"delivering entertainment in anticipation of the power of networks."
+"In 1993, Alex Alben was a lawyer working at Starwave, Inc.  Starwave was an "
+"innovative company founded by Microsoft cofounder Paul Allen to develop "
+"digital entertainment. Long before the Internet became popular, Starwave "
+"began investing in new technology for delivering entertainment in "
+"anticipation of the power of networks."
 msgstr ""
-"i 1993 var alex alben en advokat som jobber på starwave, inc. starwave var "
-"en nyskapende selskap grunnlagt av microsoft cofounder paul allen å utvikle "
-"digital underholdning. lenge før Internett ble populært, begynte starwave å "
-"investere i ny teknologi for å levere underholdning i påvente av the power "
-"of networks."
+"I 1993 var Alex Alben en jurist som arbeidet hos Starwave Inc. Starwave var "
+"et innovativt firma grunnlagt av Paul Allen, som også hadde vært med på å "
+"grunnlegge Microsoft.Starwaves mål var å utvikle digital underholdning. Lenge "
+"før internett ble superpopulært, forsket Starwave på ny teknologi for å "
+"levere underholdning utennettverk."
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-msgid "retrospective compilations on"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "CD-ROMs, film clips used in"
-msgstr "CD-ROMer, filmklipp brukt i"
-
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Alben had a special interest in new technology. He was intrigued by the "
 "emerging market for CD-ROM technology&mdash;not to distribute film, but to "
@@ -9511,30 +9505,30 @@ msgid ""
 "idea was to showcase all of the work of Eastwood, with clips from his films "
 "and interviews with figures important to his career."
 msgstr ""
-"Alben hadde en spesiell interesse i ny teknologi. Han var fascinert av det "
-"voksende markedet for CD-ROM-teknologi&mdash;ikke å distribuere film, men å "
-"gjøre ting med film som ellers ville være svært vanskelig. i 1993 lanserte "
-"han et initiativ for å utvikle et produkt for å bygge retrospectives på "
-"arbeidet til bestemt aktører. den første skuespilleren valgt var clint "
-"eastwood. idéen var å presentere alt arbeidet av eastwood, med klipp fra "
-"hans filmer og intervjuer med tallene viktig til sin karriere."
+"Alben var veldig interessert i ny teknologi. Han var fascinert av det "
+"voksende markedet for CD-ROM-teknologi&mdash;ikke for å distribuere film, men "
+"for å gjøre ting med filmen som før ville vært svært vanskelig. I 1993 "
+"lanserte han ideen om å utvikle et produkt for å vise retrospectives* rundt "
+"verkene av en bestemt kunstner. Den første skuespilleren som ble valgt, var "
+"Clint Eastwood. Ideen var å vise alle Eastwoods verker, sammen med klipp fra "
+"filmene hans og intervjuer av personer som hadde vært viktige i hans karriere."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "At that time, Eastwood had made more than fifty films, as an actor and as a "
 "director. Alben began with a series of interviews with Eastwood, asking him "
 "about his career. Because Starwave produced those interviews, it was free to "
 "include them on the CD."
 msgstr ""
-"på den tiden, hadde eastwood gjort mer enn femti filmer, som skuespiller og "
-"som styremedlem. Alben begynte med en rekke intervjuer med eastwood, ber ham "
-"om hans karriere. fordi starwave produsert de intervjuene, var det gratis å "
-"inkludere dem på CD-ROMen."
+"På den tiden hadde Eastwood lagd over femti filmer, både som skuespiller og "
+"som regissør. Alben begynte med en serie intervjuer med Eastwood, hvor tema "
+"var hans karriere. Siden Starwave produserte disse intervjuene, kunne de "
+"fritt ha dem med på CD-en."
 
 #.  PAGE BREAK 112
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "That alone would not have made a very interesting product, so Starwave "
 "wanted to add content from the movies in Eastwood's career: posters, "
@@ -9542,67 +9536,71 @@ msgid ""
 "career was spent at Warner Brothers, and so it was relatively easy to get "
 "permission for that content."
 msgstr ""
-"som alene ville ikke ha gjort en meget interessant produkt, så starwave "
-"ønsket å legge til innhold fra filmer i Eastwoods karriere: plakater, skript "
-"og annet materiale som er knyttet til filmer eastwood gjort. de fleste av "
-"sin karriere ble brukt på warner brothers, og så var det relativt lett å få "
-"tillatelse for innholdet."
+"Men det alene hadde ikke blitt noe interessant produkt, så Starwave ønsket å "
+"legge til litt innhold fra noen av Eastwoods filmer, noen plakater, manus og "
+"andre ting som kunne knyttes til filmene hans. Mesteparten av Eastwoods "
+"karriere hadde foregått hos Warner Brothers og det var relativt enkelt å få "
+"tillatelse for det materialet."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"Then Alben and his team decided to include actual film clips. <quote>Our "
-"goal was that we were going to have a clip from every one of Eastwood's "
-"films,</quote> Alben told me. It was here that the problem arose. <quote>No "
-"one had ever really done this before,</quote> Alben explained. <quote>No one "
-"had ever tried to do this in the context of an artistic look at an actor's "
-"career.</quote>"
+"Then Alben and his team decided to include actual film clips. \"Our goal was "
+"that we were going to have a clip from every one of Eastwood's films,\" "
+"Alben told me. It was here that the problem arose. \"No one had ever really "
+"done this before,\" Alben explained. \"No one had ever tried to do this in "
+"the context of an artistic look at an actor's career.\""
 msgstr ""
-"deretter alben og hans team besluttet å inkludere faktiske film klipp. "
-"\"vårt mål var at vi skulle ha et klipp fra hver og en av Eastwoods film,\" "
-"fortalte alben meg. Det var her at problemet oppsto. \"ingen hadde noensinne "
-"virkelig gjort dette før,\" forklarte alben. \"ingen hadde noen gang prøvd å "
-"gjøre dette i sammenheng med en kunstnerisk titt på en skuespiller-karriere."
-"\""
+"Deretter ønsket Alben og hans team å bruke noen faktiske klipp fra aktuelle "
+"filmer. \"Vårt mål var å ha et klipp fra alle Eastwoods filmer\" fortalte "
+"Alben meg. Det var her problemene startet. \"Ingen hadde noensinne gjort "
+"dette før,\" forklarte Alben. \"Ingen hadde prøvd å presentere et slikt "
+"kunstnerisk overblikk over en skuespillers karriere.\""
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Alben brought the idea to Michael Slade, the CEO of Starwave.  Slade asked, "
-"<quote>Well, what will it take?</quote>"
+"\"Well, what will it take?\""
 msgstr ""
-"Alben brakt idéen til michael slade, ceo i starwave. Slade som ble spurt, "
-"\"Vel, hva vil det ta?\""
+"Alben tok ideen videre til Michael Slade, leder for Starwave. Slade spurte "
+"\"Vel, hvor mye vil det kreve?\""
 
-#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><primary>
+msgid "artists"
+msgstr "artister"
+
+#. type: Content of: <book><chapter><sect1><para><footnote><para><indexterm><secondary>
 msgid "publicity rights on images of"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><footnote><para>
+#. type: Content of: <book><chapter><sect1><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Technically, the rights that Alben had to clear were mainly those of "
 "publicity&mdash;rights an artist has to control the commercial exploitation "
-"of his image.  But these rights, too, burden <quote>Rip, Mix, Burn</quote> "
-"creativity, as this chapter evinces.  <placeholder type=\"indexterm\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"of his image.  But these rights, too, burden \"Rip, Mix, Burn\" creativity, "
+"as this chapter evinces.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "teknisk, rettighetene som alben hadde å fjerne var hovedsakelig de "
 "publisitet&mdash;rettigheter kunstner har til å kontrollere kommersiell "
 "utnyttelse av hans bilde. men disse rettighetene også, belaster \"rip, "
 "mikse, brenne\" kreativitet, som evinces i dette kapitlet.  <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"type=\"indexterm\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><chapter><sect1><para>
 msgid ""
-"Alben replied, <quote>Well, we're going to have to clear rights from "
-"everyone who appears in these films, and the music and everything else that "
-"we want to use in these film clips.</quote> Slade said, <quote>Great! Go for "
-"it.</quote><placeholder type=\"footnote\" id=\"0\"/>"
+"Alben replied, \"Well, we're going to have to clear rights from everyone who "
+"appears in these films, and the music and everything else that we want to "
+"use in these film clips.\" Slade said, \"Great! Go for it.\"<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Alben svarte, \"Tja, vi måå innhente tillatelse fra lle som opptrer i disse "
+"filmene, for musikken og for alt annet som er i disse filmklippene.\" Slade "
+"svarte \"Flott! Gjør det.\"<placeholder type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "The problem was that neither Alben nor Slade had any idea what clearing "
 "those rights would mean. Every actor in each of the films could have a claim "
@@ -9610,42 +9608,39 @@ msgid ""
 "in the contracts for the actors, so there was no clear way to know just what "
 "Starwave was to do."
 msgstr ""
-"problemet var at verken alben eller slade hadde noen idé hva å fjerne disse "
-"rettighetene ville bety. hver aktør i hver film kan ha et krav til royalties "
-"for gjenbruk av at filmen. men cd-ROMene hadde ikke angitt i kontrakter for "
-"skuespillerne, så det var ingen klar måte å vite akkurat hva starwave var å "
-"gjøre."
+"Problemet var at verken Alben eller Slade forstod hva det innebar å innhente "
+"disse tillatelsene. Alle skuespillerne i hver av filmene kunne ha krav på "
+"royalties for bruk av sin film. Men CD-ROM hadde ikke vært spesifisert i "
+"skuespillernes kontrakter, så ingen visste helt hva Starwave skulle gjøre."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "I asked Alben how he dealt with the problem. With an obvious pride in his "
 "resourcefulness that obscured the obvious bizarreness of his tale, Alben "
 "recounted just what they did:"
 msgstr ""
-"Jeg spurte alben hvor han jobbet med problemet. med en opplagt stolthet i "
-"hans resourcefulness som skjult åpenbare bizarreness av hans tale, recounted "
-"alben bare hva de gjorde:"
+"Jeg spurte Alben om hvordan han løste problemet. Med en tydelig stolthet over "
+"hvor bisarr historien var, så fortalte han hva de de gjorde:"
 
-#. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><blockquote><para>
+#, mtrans
 msgid ""
 "So we very mechanically went about looking up the film clips.  We made some "
 "artistic decisions about what film clips to include&mdash;of course we were "
-"going to use the <quote>Make my day</quote> clip from <citetitle>Dirty "
-"Harry</citetitle>. But you then need to get the guy on the ground who's "
-"wiggling under the gun and you need to get his permission.  And then you "
-"have to decide what you are going to pay him."
+"going to use the \"Make my day\" clip from Dirty Harry. But you then need to "
+"get the guy on the ground who's wiggling under the gun and you need to get "
+"his permission.  And then you have to decide what you are going to pay him."
 msgstr ""
-"så vi gikk veldig mekanisk about looking up film klipp. Vi har gjort noen "
-"kunstneriske beslutninger om hva film klipp for å inkludere&mdash;"
-"selvfølgelig vi skulle bruke \"gjøre dagen min\" utklippet fra dirty harry. "
-"men du må få fyren på bakken som er vrir under pistol og du trenger for å få "
-"sin tillatelse. og deretter må du bestemme hva du skal betale ham."
+"Så vi dro og fant frem filmene og gjorde noen kunstneriske beslutninger om "
+"hvilke klipp som skulle være med. Selvsagt skulle vi bruke \"Make my "
+"day\"-scenen fra Dirty Harry. Men da måtte vi oppsøke den personen som ligger "
+"på bakken under geværet og få hans tillatelse. Og så måtte vi bestemme hva "
+"han skulle få betalt."
 
 #.  PAGE BREAK 113
-#. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><blockquote><para>
+#, mtrans
 msgid ""
 "We decided that it would be fair if we offered them the dayplayer rate for "
 "the right to reuse that performance. We're talking about a clip of less than "
@@ -9656,161 +9651,154 @@ msgid ""
 "then we just, we put together a team, my assistant and some others, and we "
 "just started calling people."
 msgstr ""
-"vi besluttet at det ville være rettferdig hvis vi tilbudt dem dayplayer-rate "
-"for retten til å gjenbruke denne prestasjonen. Vi snakker om et klipp av "
-"mindre enn et minutt, men hvis du vil bruke denne prestasjonen på CD-ROM-"
-"hastigheten på tiden var ca $600. så vi hadde å identifisere menneskene – "
-"noen av dem var vanskelig å identifisere fordi i eastwood filmer du ikke kan "
-"fortelle som fyren krasjer gjennom glass – er det skuespiller eller er det "
-"stuntman? og så begynte vi bare, vi satt sammen et team, min assistent og "
-"noen andre, og vi bare ringe personer."
+"Vi bestemte at det ville være rettferdig hvis vi tilbydde dem en "
+"dagspiller-sats for retten til å bruke klippet. Vi snakker tross alt om et "
+"klipp på under et minutt, men satsen for å bruke klippet på CD-ROM lå på den "
+"tiden på $600. Så vi måtte identifisere personene - noen var vanskelig å "
+"identifisere, siden det ofte er vanskelig å vite hvem som er skuespilleren og "
+"hvem som er stuntmannen i Eastwoods filmer. Og deretter samlet vi oss en "
+"gjeng og begynte å ringe rundt."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Sutherland, Donald"
-msgstr "Sutherland, Donald"
-
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Some actors were glad to help&mdash;Donald Sutherland, for example, followed "
 "up himself to be sure that the rights had been cleared.  Others were "
-"dumbfounded at their good fortune. Alben would ask, <quote>Hey, can I pay "
-"you $600 or maybe if you were in two films, you know, $1,200?</quote> And "
-"they would say, <quote>Are you for real? Hey, I'd love to get $1,200.</"
-"quote> And some of course were a bit difficult (estranged ex-wives, in "
-"particular). But eventually, Alben and his team had cleared the rights to "
-"this retrospective CD-ROM on Clint Eastwood's career."
+"dumbfounded at their good fortune. Alben would ask, \"Hey, can I pay you "
+"$600 or maybe if you were in two films, you know, $1,200?\" And they would "
+"say, \"Are you for real? Hey, I'd love to get $1,200.\" And some of course "
+"were a bit difficult (estranged ex-wives, in particular). But eventually, "
+"Alben and his team had cleared the rights to this retrospective CD-ROM on "
+"Clint Eastwood's career."
 msgstr ""
-"enkelte aktører var glad for å hjelpe&mdash;donald sutherland, for eksempel "
-"fulgt opp seg å være sikker på at rettigheter hadde blitt fjernet. andre var "
-"målløs på deres hell. Alben vil spørre: \"Hei, kan jeg betale $600 eller "
-"kanskje Hvis du var i to filmer, du vet, $1200?\" og de ville si, \"er du "
-"for real? Hei, jeg ville elske å få $1200. \"og noen selvfølgelig var litt "
-"vanskelig (fraseparerte ex-kone, spesielt). men til slutt, alben og teamet "
-"hans hadde klarert rettighetene til denne retrospektiv CD-ROMen på clint "
-"eastwood karriere."
+"Noen skuespillere var glade for å kunne hjelpe - Donald Sutherland fulgte for "
+"eksempel opp saken personlig for å sørge for at alt var greit. Andre brydde "
+"seg mest om pengene. Alben kunne spørre \"Hei, kan jeg betale deg $600, eller "
+"hvis du var i to filmer $1200?\" Og de kunne svare \"Er det sant? Jeg vil "
+"svært gjerne ha $1200.\" Og noen kunne være litt vanskelige av seg (særlig "
+"krevende eks-koner). Men til slutt greide Alben og hans team å gjøre rede for "
+"alle rettighetene til CD-en om Clint Eastwoods karriere."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"It was one <emphasis>year</emphasis> later&mdash;<quote>and even then we "
-"weren't sure whether we were totally in the clear.</quote>"
+"It was one year later&mdash;\"and even then we weren't sure whether we were "
+"totally in the clear.\""
 msgstr ""
-"Det var ett år senere, \"og selv da vi var ikke sikker på om vi var helt i "
-"klartekst.\""
+"Det gått ett år \"og selv da var vi ikke sikre på om alt var helt klart.\""
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Alben is proud of his work. The project was the first of its kind and the "
 "only time he knew of that a team had undertaken such a massive project for "
 "the purpose of releasing a retrospective."
 msgstr ""
-"Alben er stolte av sitt arbeid. prosjektet ble først i sitt slag, og den "
-"eneste gangen han visste av som et lag hadde påtatt seg et kjempestort "
-"prosjekt for å slippe en retrospektiv."
+"Alben var stolt av arbeidet sitt. Prosjektet var det første av sitt slag, og "
+"første gang han hadde hørt om et team som hadde tatt på seg så mye arbeid for "
+"å gi ut en retrospective*."
 
-#. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><blockquote><para>
+#, mtrans
 msgid ""
 "Everyone thought it would be too hard. Everyone just threw up their hands "
-"and said, <quote>Oh, my gosh, a film, it's so many copyrights, there's the "
-"music, there's the screenplay, there's the director, there's the actors.</"
-"quote> But we just broke it down. We just put it into its constituent parts "
-"and said, <quote>Okay, there's this many actors, this many directors, "
-"&hellip; this many musicians,</quote> and we just went at it very "
-"systematically and cleared the rights."
+"and said, \"Oh, my gosh, a film, it's so many copyrights, there's the music, "
+"there's the screenplay, there's the director, there's the actors.\" But we "
+"just broke it down. We just put it into its constituent parts and said, "
+"\"Okay, there's this many actors, this many directors, . . . this many "
+"musicians,\" and we just went at it very systematically and cleared the "
+"rights."
 msgstr ""
-"alle trodde det ville være for hardt. alle bare kastet opp sine hender og "
-"sa, \"oh, mine gosh, en film, det er så mange opphavsrettigheter, er det "
-"musikken, det er manuskriptet, det er direktør, det er skuespillere.\" men "
-"vi bare brøt det ned. vi bare sette det inn i sin bærende deler og sa: \"OK, "
-"det er så mange aktører, så mange styremedlemmer... så mange musikere,\" og "
-"vi bare gikk på den svært systematisk og fjernet rettighetene."
+"Alle hadde trodd det skulle bli for vanskelig. De hadde puttet hendene i "
+"været og sagt \"Oi, en film. Det er så mange rettigheter; det er musikk, det "
+"er screenplay*, det er skuespillere, det er regissører.\" Men vi gjorde det! "
+"Vi tok delen fra hverandre og sa \"okei, det er så mange skuespillere, så "
+"mange regissører ... så mange musikere,\" så gikk vi systematisk igjennom det "
+"og fikk tak i rettighetene."
 
 #.  PAGE BREAK 114
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "And no doubt, the product itself was exceptionally good. Eastwood loved it, "
 "and it sold very well."
 msgstr ""
-"og ingen tvil, selve produktet var usedvanlig god. Eastwood elsket det, og "
-"det selges godt."
+"Og produktet ble uten tvil særdeles godt. Eastwood elsket det og det solgte "
+"veldig godt."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Drucker, Peter"
 msgstr "Drucker, Peter"
 
 #.  f2
-#. type: Content of: <book><part><chapter><para><footnote><para>
+#. type: Content of: <book><chapter><sect1><para><footnote><para>
 msgid ""
-"U.S. Department of Commerce Office of Acquisition Management, "
-"<citetitle>Seven Steps to Performance-Based Services Acquisition</"
-"citetitle>, available at <ulink url=\"http://free-culture.cc/notes/\">link "
-"#22</ulink>."
+"U.S. Department of Commerce Office of Acquisition Management, Seven Steps to "
+"Performance-Based Services Acquisition, available at <ulink url=\"http://"
+"free-culture.cc/notes/\">link #22</ulink>."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "But I pressed Alben about how weird it seems that it would have to take a "
 "year's work simply to clear rights. No doubt Alben had done this "
-"efficiently, but as Peter Drucker has famously quipped, <quote>There is "
-"nothing so useless as doing efficiently that which should not be done at all."
-"</quote><placeholder type=\"footnote\" id=\"0\"/> Did it make sense, I asked "
+"efficiently, but as Peter Drucker has famously quipped, \"There is nothing "
+"so useless as doing efficiently that which should not be done at all."
+"\"<placeholder type=\"footnote\" id=\"0\"/> Did it make sense, I asked "
 "Alben, that this is the way a new work has to be made?"
 msgstr ""
+"Men jeg spurte Alben om hvor merkelig det syntes at det skulle ta et helt år "
+"bare å få orden på rettigheter. Alben hadde gjort det hele svært effektivt, "
+"men som Peter Drucker så berømmelig har sagt \"Det er ikke noe som er så "
+"ubrukelig å gjøre effektivt enn det som egentlig ikke gjøres i det "
+"heletatt.\"<placeholder type=\"footnote\" id=\"0\"/> Var det noe fornuft i at "
+"det var slik et nye verk skulle skapes, spurte jeg Alben."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"For, as he acknowledged, <quote>very few &hellip; have the time and "
-"resources, and the will to do this,</quote> and thus, very few such works "
-"would ever be made. Does it make sense, I asked him, from the standpoint of "
-"what anybody really thought they were ever giving rights for originally, "
-"that you would have to go clear rights for these kinds of clips?"
+"For, as he acknowledged, \"very few . . . have the time and resources, and "
+"the will to do this,\" and thus, very few such works would ever be made. "
+"Does it make sense, I asked him, from the standpoint of what anybody really "
+"thought they were ever giving rights for originally, that you would have to "
+"go clear rights for these kinds of clips?"
 msgstr ""
-"for, som han erkjente, \"svært få... har tid og ressurser og viljen til å "
-"gjøre dette,\" og dermed svært få slike arbeider noensinne vil bli gjort. "
-"betyr det fornuftig, jeg spurte ham, fra standpunktet av hva noen trodde de "
-"var noensinne å gi rettigheter for opprinnelig, som du må gå klart "
-"rettigheter for disse typer utklipp?"
+"For, som han innrømmet, \"veldig få ... har tid og ressurser, og ikke minst "
+"vilje til å gjøre dett,\" og veldig få slike verk harblitt lagd, Gir det noen "
+"mening, spurte jeg ham, ********* at du må gjøre alt dette for å få rett til "
+"å bruke disse klippene?"
 
-#. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><blockquote><para>
+#, mtrans
 msgid ""
 "I don't think so. When an actor renders a performance in a movie, he or she "
-"gets paid very well. &hellip; And then when 30 seconds of that performance "
-"is used in a new product that is a retrospective of somebody's career, I "
-"don't think that that person &hellip; should be compensated for that."
+"gets paid very well. . . . And then when 30 seconds of that performance is "
+"used in a new product that is a retrospective of somebody's career, I don't "
+"think that that person . . . should be compensated for that."
 msgstr ""
-"jeg tror ikke det. Når en aktør gjengir en forestilling i en film, han eller "
-"hun får svært godt betalt.... og deretter når 30 sekunder av denne "
-"prestasjonen brukes i et nytt produkt som er en retrospektiv av en persons "
-"karriere, jeg tror ikke at vedkommende... skal kompenseres for som."
+"Jeg tror ikke det. Når en skuespiller gjengir en forestilling i en film, får "
+"han eller hun veldig godt betalt ... Og derfor, når 30 sekunder av denne "
+"forestillingen blir brukt i et nytt produkt som er et tilbakeblikk på noens "
+"karriere, så tror jeg ikke at den personen ... burde få kompensasjon for det."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"Or at least, is this <emphasis>how</emphasis> the artist should be "
-"compensated? Would it make sense, I asked, for there to be some kind of "
-"statutory license that someone could pay and be free to make derivative use "
-"of clips like this? Did it really make sense that a follow-on creator would "
-"have to track down every artist, actor, director, musician, and get explicit "
-"permission from each? Wouldn't a lot more be created if the legal part of "
-"the creative process could be made to be more clean?"
+"Or at least, is this how the artist should be compensated? Would it make "
+"sense, I asked, for there to be some kind of statutory license that someone "
+"could pay and be free to make derivative use of clips like this? Did it "
+"really make sense that a follow-on creator would have to track down every "
+"artist, actor, director, musician, and get explicit permission from each? "
+"Wouldn't a lot more be created if the legal part of the creative process "
+"could be made to be more clean?"
 msgstr ""
-"eller minst, er dette hvordan kunstneren skal kompenseres? vil det være "
-"fornuftig, jeg spurte, for det for å være en slags lovbestemte lisens som "
-"noen kunne betale, og være fri til å gjøre avledede bruk av utklipp som "
-"dette? det virkelig fornuftig som en etterarbeid skaperen ville ha til å "
-"spore hver kunstner, skuespiller, regissør, musiker, og få tillatelse fra "
-"hver? ville ikke mye mer opprettes hvis den juridiske delen av den kreative "
-"prosessen kan gjøres for å være mer ren?"
+"Eller er det kanskje slik en kunstner burde få kompensasjon? Gir det noen "
+"mening, spurte jeg, om det var en form for statutory*-lisens som noen kan "
+"betale og fritt vidreutvikle og bearbeide klipp som disse?"
 
 #.  PAGE BREAK 115
-#. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><blockquote><para>
+#, mtrans
 msgid ""
 "Absolutely. I think that if there were some fair-licensing mechanism&mdash;"
 "where you weren't subject to hold-ups and you weren't subject to estranged "
@@ -9823,67 +9811,62 @@ msgid ""
 "product hard to get off the ground. If you knew I have a hundred minutes of "
 "film in this product and it's going to cost me X, then you build your budget "
 "around it, and you can get investments and everything else that you need to "
-"produce it. But if you say, <quote>Oh, I want a hundred minutes of something "
-"and I have no idea what it's going to cost me, and a certain number of "
-"people are going to hold me up for money,</quote> then it becomes difficult "
-"to put one of these things together."
+"produce it. But if you say, \"Oh, I want a hundred minutes of something and "
+"I have no idea what it's going to cost me, and a certain number of people "
+"are going to hold me up for money,\" then it becomes difficult to put one of "
+"these things together."
 msgstr ""
-"absolutt. Jeg tror at hvis det var noen fair-lisensiering mekanisme&mdash;"
-"der du ikke var underlagt hold-ups, og du ikke var underlagt fraseparerte "
-"tidligere ektefeller&mdash;du ville se mye mer av dette arbeidet, fordi det "
-"ikke ville være så skremmende å prøve å sette sammen en retrospektiv av noen "
-"er karriere og meningsfull måte illustrere det med mange medier fra "
-"personens karriere. du vil bygge inn en kostnad som produsent av en av disse "
-"tingene. du vil bygge inn en kostnadene til betale x dollar til talent som "
-"utføres. men det ville være en kjent kostnad. Det er ting som turer alle opp "
-"og gjør denne typen produkt som er vanskelig å få av bakken. Hvis du visste "
-"at jeg har en hundre minutter med film i dette produktet og det kommer til å "
-"koste meg x, deretter du bygge budsjettet rundt det, og du kan få "
-"investeringer og alt annet du vil produsere den. men hvis du sier, \"oh, jeg "
-"ønsker en hundre minutter av noe jeg aner ikke hva det vil koste meg og et "
-"visst antall mennesker kommer til å holde meg opp for penger\", og det blir "
-"vanskeligere å sette en av disse tingene sammen."
+"Absolutt. Jeg tror at hvis det fantes en form for lisensieringsmekanisme - "
+"hvor du ikke risikerte å bli offer for forglemmelser eller problematiske "
+"ekskoner - ville man kanskje ha sett mange flere av denne typen verk, rett og "
+"slett fordi det ikke ville sett så skrekkinngytende ut å sette sammen et "
+"tilbakeblikk på noens karriere og å bruke mange media-illustrasjoner fra "
+"dennes karriere. Du ville kunne lage en budsjettpost på dette. Sette opp en "
+"kostnad på X dollar til talentet som fremførte. Og det ville være en kjent "
+"kostnad. Det er kanskje kjerneproblemet med å produsere slike produkter. Hvis "
+"man visste at man hadde 100 minutter med film, kunne man si at dette vil "
+"koste meg så og så mange dollar, og lage et budsjett rundt det. Deretter kan "
+"du skaffe investorer og alt annet som trengs for å produsere det. Men dersom "
+"man kun kan si \"Hm, jeg ønsker 100 minutter med noe, og jeg aner ikke hvor "
+"mye det vil koste meg, og et bestemt antall personer vil kreve penger,\" vil "
+"det være ganske vanskelig å få til slike ting."
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Alben worked for a big company. His company was backed by some of the "
 "richest investors in the world. He therefore had authority and access that "
 "the average Web designer would not have. So if it took him a year, how long "
 "would it take someone else? And how much creativity is never made just "
-"because the costs of clearing the rights are so high?"
+"because the costs of clearing the rights are so high? These costs are the "
+"burdens of a kind of regulation. Put on a Republican hat for a moment, and "
+"get angry for a bit. The government defines the scope of these rights, and "
+"the scope defined determines how much it's going to cost to negotiate them. "
+"(Remember the idea that land runs to the heavens, and imagine the pilot "
+"purchasing flythrough rights as he negotiates to fly from Los Angeles to San "
+"Francisco.)  These rights might well have once made sense; but as "
+"circumstances change, they make no sense at all. Or at least, a well-"
+"trained, regulationminimizing Republican should look at the rights and ask, "
+"\"Does this still make sense?\""
 msgstr ""
-
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
-msgid ""
-"These costs are the burdens of a kind of regulation. Put on a Republican hat "
-"for a moment, and get angry for a bit. The government defines the scope of "
-"these rights, and the scope defined determines how much it's going to cost "
-"to negotiate them. (Remember the idea that land runs to the heavens, and "
-"imagine the pilot purchasing flythrough rights as he negotiates to fly from "
-"Los Angeles to San Francisco.)  These rights might well have once made "
-"sense; but as circumstances change, they make no sense at all. Or at least, "
-"a well-trained, regulationminimizing Republican should look at the rights "
-"and ask, <quote>Does this still make sense?</quote>"
-msgstr ""
-"Alben jobbet for et stort selskap. hans selskap var støttet av noen av de "
-"rikeste investorene i verden. derfor hadde han myndighet og pålogging som "
-"gjennomsnittlig webdesigner ikke ville. så hvis det tok ham et år, hvor "
-"lenge vil det ta noen andre? og hvor mye kreativitet er aldri gjort bare "
-"fordi kostnadene ved å fjerne rettigheter er så høy? disse kostnadene er "
-"byrdene av en slags regulering. Sett på en republikanske lue for et "
-"øyeblikk, og bli sint for litt. regjeringen definerer omfanget av disse "
-"rettighetene, og omfanget definert bestemmer hvor mye det vil koste å "
-"forhandle dem. (Husk at idéen om at landet kjører til himmelen, og Tenk "
-"piloten kjøper flythrough rettigheter idet han forhandler om å fly fra los "
-"angeles til san francisco.) disse rettighetene ha også en gang gjort "
-"fornuftig; men som omstendigheter endring, de gir ingen mening i det hele "
-"tatt. eller på minst, en frisk-utdannet, regulationminimizing republikanske "
-"bør se på rettighetene og spør, \"betyr dette fortsatt fornuftig?\""
+"Alben jobbet for et stort selskap. Hans selskap var støttet av noen av de "
+"rikeste investorene i verden. Derfor hadde han myndighet og ressurser som en "
+"gjennomsnittlig webdesigner ikke kunne drømme om. Så hvis det tok ham et år, "
+"hvor lang tid ville det ta noen andre? Og hvor mye kreativitet får aldri form "
+"på grunn av kostnadene rundt å kartlegge og skaffe rettigheter? Disse "
+"kostnadene er byrdene av en form for regulering. Vi kan prøve å ta på oss en "
+"republikanerhatt og bli sinte for et øyeblikk. Staten styrer disse "
+"rettighetenes *scope*, og *scope* bestemmer hvor mye det vil koste å krenke "
+"disse rettighetene. (Husker dere ideen om at en eiendom strakte seg til "
+"universets grense? Og se for dere piloten som må betale for å krysse "
+"eiendommen som han krenker ved å fly fra Los Angeles til San Fracisco.) Disse "
+"rettighetene gav sikkert mening en gang, men nå som forholdene har endret "
+"seg, er meningen borte.Ihvertfall så burde en veltrenet, reguleringsfientlig "
+"republikaner se på rettighetene og spørre \"Gir dette mening nå?\""
 
 #.  PAGE BREAK 116
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "I've seen the flash of recognition when people get this point, but only a "
 "few times. The first was at a conference of federal judges in California.  "
@@ -9892,51 +9875,51 @@ msgid ""
 "L.A. firm, introduced the panel with a video that he and a friend, Robert "
 "Fairbank, had produced."
 msgstr ""
-"Jeg har sett flash av anerkjennelse når folk får dette punktet, men bare et "
-"par ganger. Først var på en konferanse av føderale dommere i california. "
-"dommernes var samlet for å diskutere nye temaet cyber-loven. Jeg ble bedt om "
-"å være på panelet. Harvey saferstein, et godt respektert advokat fra en l.a. "
-"firmaet, introdusert i panelet med en video som han og en venn, robert "
-"fairbank, hadde produsert."
+"Jeg har sett glimt av gjenkjennelse på dette punktet, men bare noen få "
+"ganger. Første gang var på en konferanse for føderale dommere i California. "
+"Dommerne var samlet for å dikutere det økende temaet cyber-lov. Jeg ble spurt "
+"om å sitte i panelet. Harvey Saferstein, en respektert lawyer fra et firma i "
+"Los Angeles, introduserte en film han og hans venn Robert Fairbank hadde "
+"laget for panelet."
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "The video was a brilliant collage of film from every period in the twentieth "
-"century, all framed around the idea of a <citetitle>60 Minutes</citetitle> "
-"episode.  The execution was perfect, down to the sixty-minute stopwatch. The "
-"judges loved every minute of it."
+"century, all framed around the idea of a 60 Minutes episode.  The execution "
+"was perfect, down to the sixty-minute stopwatch. The judges loved every "
+"minute of it."
 msgstr ""
 "Videoen var en glimrende sammenstilling av filmer fra hver periode i det "
-"tjuende århundret, rammet inn rundt idéen om en episode i TV-serien "
-"<citetitle>60 Minutes</citetitle>. Utførelsen var perfekt, ned til seksti "
-"minutter stoppeklokken. Dommerne elsket enhver minutt av den."
+"tjuende århundret, rammet inn rundt idéen om en episode i TV-serien 60 "
+"Minutes. Utførelsen var perfekt, ned til seksti minutter stoppeklokken. "
+"Dommerne elsket enhver minutt av den."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Nimmer, David"
 msgstr "Nimmer, David"
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><chapter><sect1><para>
 msgid ""
 "When the lights came up, I looked over to my copanelist, David Nimmer, "
 "perhaps the leading copyright scholar and practitioner in the nation. He had "
 "an astonished look on his face, as he peered across the room of over 250 "
 "well-entertained judges. Taking an ominous tone, he began his talk with a "
-"question: <quote>Do you know how many federal laws were just violated in "
-"this room?</quote>"
+"question: \"Do you know how many federal laws were just violated in this "
+"room?\""
 msgstr ""
 "Da lysene kom på, kikket jeg over til min medpaneldeltager, David Nimmer, "
 "kanskje den ledende opphavsrettakademiker og utøver i nasjonen. Han hadde en "
 "forbauset uttrykk i ansiktet sitt, mens han tittet ut over rommet med over "
 "250 godt underholdte dommere. Med en en illevarslende tone, begynte han sin "
-"tale med et spørsmål: <quote>Vet dere hvor mange føderale lover som nettopp "
-"brutt i dette rommet?</quote>"
+"tale med et spørsmål: \"Vet dere hvor mange føderale lover som nettopp brutt "
+"i dette rommet?\""
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><indexterm><primary>
 msgid "Boies, David"
 msgstr "Boies, David"
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "For of course, the two brilliantly talented creators who made this film "
 "hadn't done what Alben did. They hadn't spent a year clearing the rights to "
@@ -9951,40 +9934,37 @@ msgid ""
 "enable. Technology means you can now do amazing things easily; but you "
 "couldn't easily do them legally."
 msgstr ""
-"for selvfølgelig to briljant talentfulle skaperne som laget denne filmen "
-"ikke hadde gjort hva alben gjorde. de hadde ikke tilbrakte et år å fjerne "
-"rettighetene til disse klippene; teknisk, hva de hadde gjort brudd på loven. "
-"Selvfølgelig, det var ikke som om de eller noen skulle prosecuted for dette "
-"krenkelse (tilstedeværelse av 250 dommere) og en gaggle av føderale marshals "
-"til tross for. men nimmer var å gjøre et viktig poeng: et år før noen hadde "
-"hørt om word-napster, og to år før et annet medlem av panelet, david boies, "
-"ville forsvare napster før niende circuit court of appeals, nimmer prøvde å "
-"få dommere å se at loven ikke skulle vennlig til kapasitetene som gir denne "
-"teknologien. teknologi betyr at du kan nå gjøre fantastiske ting enkelt; men "
-"du ikke kunne enkelt gjøre dem lovlig."
+"Og selvsagt hadde ikke disse to briljante talentene gjort hva Alben hadde "
+"gjort. De hadde ikke ordnet alle rettighetene til klippene de brukte. Rent "
+"teknisk hadde de brutt loven. Men ingen kom til å straffeforfølge disse to "
+"(selv om de viste den for 250 dommere og en gjeng føderale marshaller\". Men "
+"Nimmer hadde et viktig poeng: Et år før noen hadde hørt ordet Napster, og to "
+"år før et annet medlem av panelet, David Boies, ville forsvare Napster for "
+"den niende Circuit Court of Appeals, prøvde Nimmer å få domemrne til å forstå "
+"at loven ikke var særlig åpen for de nye kapasitetene den nye teknologien "
+"ville gi. Teknologi betyr at du kan gjøre fantastiske ting, enkelt. Men du "
+"kan ikke nødvendigvis gjøre dem enkelt, lovlig."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"We live in a <quote>cut and paste</quote> culture enabled by technology. "
-"Anyone building a presentation knows the extraordinary freedom that the cut "
-"and paste architecture of the Internet created&mdash;in a second you can "
-"find just about any image you want; in another second, you can have it "
-"planted in your presentation."
+"We live in a \"cut and paste\" culture enabled by technology. Anyone "
+"building a presentation knows the extraordinary freedom that the cut and "
+"paste architecture of the Internet created&mdash;in a second you can find "
+"just about any image you want; in another second, you can have it planted in "
+"your presentation."
 msgstr ""
-"Vi lever i en \"klippe og lime\" kultur aktiveres av teknologi. alle bygge "
-"en presentasjon vet ekstraordinære friheten som klippe- og limefunksjon "
-"arkitekturen av Internett opprettet&mdash;i et sekund som du kan finne "
-"omtrent alle bildet du ønsker; i en annen andre, kan du ha det plantet i "
-"presentasjonen."
+"Vi lever i en \"klippe og lime\"-kultur som er muliggjort av dagens "
+"teknologi. Alle som lager presentasjoner vet hvilken eksepsjonell frihet "
+"internettets \"klippe-lime\"-arkitektur gir - på et sekund kan du finne "
+"akkurat det bildet du vil ha, og du kan få den inn i presentasjonen din."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><sect1><para><indexterm><primary>
 msgid "Camp Chaos"
-msgstr ""
+msgstr "Camp Chaos"
 
-#.  PAGE BREAK 117
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "But presentations are just a tiny beginning. Using the Internet and its "
 "archives, musicians are able to string together mixes of sound never before "
@@ -9993,117 +9973,114 @@ msgid ""
 "politicians and blends them with music to create biting political "
 "commentary. A site called Camp Chaos has produced some of the most biting "
 "criticism of the record industry that there is through the mixing of Flash! "
-"and music."
+"and music.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"men presentasjoner er bare en liten begynnelse. ved hjelp av Internett og "
-"sine arkiver, er musikere i stand til streng sammen mikser lydens aldri før "
-"hadde forestilt deg; filmskapere er i stand til å lage filmer ut av klipp på "
-"datamaskiner rundt om i verden. en ekstraordinære området i Sverige tar "
-"bilder av politikere og blander dem med musikk å opprette bite politiske "
-"kommentarer. et område kalt leiren kaos har produsert noen av de mest skarp "
-"kritikken av rullebladet industri som det er gjennom blanding av flash! og "
-"musikk."
+"Men presentasjoner er bare en liten begynnelse. Ved hjelp av internett og "
+"dets arkiver, er musikere i stand til å sy sammen nye lydmikser som ingen "
+"hadde kunnet forestille seg; filmskapere er i stand til å lage filmer ut av "
+"klipp på datamaskiner rundt om i verden. Et spesielt nettsted i Sverige tar "
+"bilder av politikere og blander dem med musikk å skape bitende politiske "
+"kommentarer. En nettside kalt Camp Chaos har skapt noe av den skarpeste "
+"kritikken som finnes mot musikkindustrien, gjennom å mikse Flash! og musikk.<"
+"placeholder type=\"indexterm\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "All of these creations are technically illegal. Even if the creators wanted "
-"to be <quote>legal,</quote> the cost of complying with the law is impossibly "
-"high. Therefore, for the law-abiding sorts, a wealth of creativity is never "
-"made. And for that part that is made, if it doesn't follow the clearance "
-"rules, it doesn't get released."
+"to be \"legal,\" the cost of complying with the law is impossibly high. "
+"Therefore, for the law-abiding sorts, a wealth of creativity is never made. "
+"And for that part that is made, if it doesn't follow the clearance rules, it "
+"doesn't get released."
 msgstr ""
-"alle disse kreasjoner er teknisk ulovlig. Selv om skaperne ønsket å være "
-"\"lovlig\", er kostnadene for å overholde loven impossibly høy. Derfor "
-"lovlydige sorteringer, er et vell av kreativitet aldri gjort. og for den "
-"aktuelle delen er gjort, hvis det ikke følger reglene for klaring, det ikke "
-"komme ut."
+"Men alt dette er rent teknisk ulovlig. Selv om skaperen ønsket å holde seg på "
+"rett side av loven, ville kostnadene ved å følge loven vært umenneskelige. "
+"Derfor vil de som ønsker å følge loven bli hindret i å bruke sin kreativitet, "
+"og mye blir aldri skapt. Og det som er skapt, vil ikke bli publisert fordi "
+"det ikke følger clearence-rules*."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "To some, these stories suggest a solution: Let's alter the mix of rights so "
 "that people are free to build upon our culture. Free to add or mix as they "
 "see fit. We could even make this change without necessarily requiring that "
-"the <quote>free</quote> use be free as in <quote>free beer.</quote> Instead, "
-"the system could simply make it easy for follow-on creators to compensate "
-"artists without requiring an army of lawyers to come along: a rule, for "
-"example, that says <quote>the royalty owed the copyright owner of an "
-"unregistered work for the derivative reuse of his work will be a flat 1 "
-"percent of net revenues, to be held in escrow for the copyright owner.</"
-"quote> Under this rule, the copyright owner could benefit from some royalty, "
-"but he would not have the benefit of a full property right (meaning the "
-"right to name his own price) unless he registers the work."
+"the \"free\" use be free as in \"free beer.\" Instead, the system could "
+"simply make it easy for follow-on creators to compensate artists without "
+"requiring an army of lawyers to come along: a rule, for example, that says "
+"\"the royalty owed the copyright owner of an unregistered work for the "
+"derivative reuse of his work will be a flat 1 percent of net revenues, to be "
+"held in escrow for the copyright owner.\" Under this rule, the copyright "
+"owner could benefit from some royalty, but he would not have the benefit of "
+"a full property right (meaning the right to name his own price) unless he "
+"registers the work."
 msgstr ""
-"til noen, disse historiene foreslå en løsning: La oss endre blanding av "
-"rettigheter, slik at folk er gratis å bygge på vår kultur. gratis å legge "
-"til eller blande som de ønsker. Vi kan selv foreta denne endringen uten "
-"nødvendigvis som krever at \"gratis\" Bruk være fri som i «gratis øl.\"i "
-"stedet, systemet kan bare gjør det enkelt for etterarbeid skaperne å "
-"kompensere kunstnere uten å kreve en hær av advokater framover: regel, for "
-"eksempel som sier\"royalty skyldte opphavsrettighetene til en uregistrert "
-"arbeid for avledede gjenbruk av hans arbeid vil være en flat 1 prosent av "
-"netto inntekterskal holdes i escrow for opphavsrett eieren. \"under denne "
-"regelen, eieren av opphavsretten som kunne ha nytte av noen royalty, men han "
-"ville ikke ha nytte av en full immaterielle rettigheter (som betyr retten "
-"til å gi navn til sin egen pris) med mindre han registrerer arbeidet."
+"Noen ser synes at denne historien kommer med et forslag til forbedring: La "
+"oss fjerne miksen av rettigheter slik at folk fritt kan bygge på vår kultur. "
+"Fritt å legge til eller mikse som de synes det passer. Vi kunne innføre dette "
+"uten at det ble fritt som i \"free beer\". I stedet kunne systemet gjøre det "
+"lettere for nye kunstnere å kompensere den originale artisten uten at det "
+"krever en hær av jurister. Hva med regler som f. eks. \"kompensasjon til en "
+"opphavsrettholder for uregistrerte verk vil for *derivated* verk fære 1% av "
+"netto overskudd (*to be "
+"held in escrow for the copyright owner.*)\" Med en slik regel ville "
+"opphavsrettholderen få em inntekt, men han vil ikke ha en full eiendomsrett "
+"over opphavsretten (som betyr retten til å sette sin egen pris) uten å ha "
+"registrert verket."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Who could possibly object to this? And what reason would there be for "
 "objecting? We're talking about work that is not now being made; which if "
 "made, under this plan, would produce new income for artists.  What reason "
 "would anyone have to oppose it?"
 msgstr ""
-"Hvem ville muligens objektet til dette? og hva grunn ville det være for "
-"objecting? Vi snakker om arbeid som ikke nå blir gjort; som hvis gjort, "
-"under denne plan, ville produsere nye inntekter for kunstnere. Hva grunn "
-"ville alle ha til å motsette seg det?"
+"Hve vil nekte å bli med på det? Og hvilke grunner finner for å nekte dette? "
+"Vi snakker om et verk som ikke blir lagd akkurat nå, men om det blir lagd "
+"under denne planen, vil det skape inntekter for artistene. Hvilke baktanker "
+"kan noen ha for motarbeide det?"
 
 #.  PAGE BREAK 118
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"<emphasis role='strong'>In February 2003</emphasis>, DreamWorks studios "
-"announced an agreement with Mike Myers, the comic genius of "
-"<citetitle>Saturday Night Live</citetitle> and Austin Powers. According to "
-"the announcement, Myers and Dream-Works would work together to form a "
-"<quote>unique filmmaking pact.</quote> Under the agreement, DreamWorks "
-"<quote>will acquire the rights to existing motion picture hits and classics, "
-"write new storylines and&mdash;with the use of stateof-the-art digital "
-"technology&mdash;insert Myers and other actors into the film, thereby "
-"creating an entirely new piece of entertainment.</quote>"
+"In February 2003, DreamWorks studios announced an agreement with Mike Myers, "
+"the comic genius of Saturday Night Live and Austin Powers. According to the "
+"announcement, Myers and Dream-Works would work together to form a \"unique "
+"filmmaking pact.\" Under the agreement, DreamWorks \"will acquire the rights "
+"to existing motion picture hits and classics, write new storylines and&mdash;"
+"with the use of stateof-the-art digital technology&mdash;insert Myers and "
+"other actors into the film, thereby creating an entirely new piece of "
+"entertainment.\""
 msgstr ""
-"i februar 2003 annonsert dreamworks studios en avtale med mike myers, comic "
-"geni av lørdag natt live og austin powers. Ifølge utlysningen, myers og drøm-"
-"arbeider ville arbeide sammen for å danne en \"unik filmskapning pakten.\" "
-"under avtalen, dreamworks – vil opparbeide seg privatrettslige rettigheter "
-"til eksisterende filmselskaper treff og klassikere, skrive nye storylines "
-"og&mdash;med bruk av stateof-the-art digital teknologi&mdash;sett myers og "
-"andre aktører i filmen, og dermed skape et helt nytt stykke underholdning."
+"I februar 2003 kunne DreamWorks studios kunngjøre at de hadde fått en avtale "
+"med komikeren Mike Myers (mannen bak Saturday Night Liva og Austin Powers). "
+"Ifølge kunngjøringen skulle DreamWorks og Myers arbeide for å skape en \"unik "
+"filmskaperavtale\". Og under denne avtalen ville DreamWorks \"få rett til å "
+"benytte eksisterende filmklipp, skrive nye storylines* og - med hjelp av "
+"*stateof-the-art-teknologi - sette inn Myers og andre skuespillere i filmene, "
+"og slik skape et helt nytt stykke underholdning.\""
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
-"The announcement called this <quote>film sampling.</quote> As Myers "
-"explained, <quote>Film Sampling is an exciting way to put an original spin "
-"on existing films and allow audiences to see old movies in a new light. Rap "
-"artists have been doing this for years with music and now we are able to "
-"take that same concept and apply it to film.</quote> Steven Spielberg is "
-"quoted as saying, <quote>If anyone can create a way to bring old films to "
-"new audiences, it is Mike.</quote>"
+"The announcement called this \"film sampling.\" As Myers explained, \"Film "
+"Sampling is an exciting way to put an original spin on existing films and "
+"allow audiences to see old movies in a new light. Rap artists have been "
+"doing this for years with music and now we are able to take that same "
+"concept and apply it to film.\" Steven Spielberg is quoted as saying, \"If "
+"anyone can create a way to bring old films to new audiences, it is Mike.\""
 msgstr ""
-"utlysningen kalles denne \"film prøvetaking.\" som myers forklart, \"film "
-"prøvetaking er en spennende måte å sette en opprinnelige spinn på "
-"eksisterende filmer og lar publikum å se gamle filmer i et nytt lys. rap "
-"artister har gjort dette i årevis med musikk, og vi nå er i stand til å ta "
-"det samme konseptet og bruke den på film.\"steven spielberg er sitert som "
-"sier,\"Hvis noen kan opprette en måte å bringe gamle filmer til nye "
-"målgrupper, det er mike\"."
+"Dette ble kalt \"film sampling\", og som Myers forklarte var \"film sampling "
+"en fantastisk måte å få ny vri på eksisterende filmer og lar publikum se "
+"gamle filmer i et nytt lys. Rap-artister har gjort slikt i en årrekke og nå "
+"kan vi ta det samme konseptet og bruke det på film.\" Steven Spielberg er "
+"sitert med følgende utsagn \"Hvis noen kan klare å bringe gamle filmer til et "
+"nytt publikum, så er det Mike.\""
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "Spielberg is right. Film sampling by Myers will be brilliant. But if you "
 "don't think about it, you might miss the truly astonishing point about this "
@@ -10114,41 +10091,44 @@ msgid ""
 "presumed for us all, is now a privilege reserved for the funny and "
 "famous&mdash;and presumably rich."
 msgstr ""
-"Spielberg er rett. filmen prøvetaking av myers vil bli strålende. men hvis "
-"du ikke tenke på det, du vil kanskje savne helt utrolig punktet om denne "
-"kunngjøringen. som de aller fleste av vår film arv, forblir under "
-"opphavsrett, den virkelige betydningen av dreamworks utlysningen er bare "
-"dette: det er mike myers og bare mike myers som er gratis å prøve. noen "
-"generelle frihet til å bygge på film arkiv av vår kultur, en frihet i andre "
-"sammenhenger antatt for oss alle, er nå et privilegium reservert for morsomt "
-"og berømte&mdash; og antagelig rik."
+"Spielberg har rett. Film sampling med Myers ville vært brilliant. Men hvis du "
+"ikke følger godt med, så vil du overse det forbløffende med denne "
+"kunngjøringen. Siden den aller største delen av vår filmarv fortsetter å være "
+"regulert av loven, så er den virkelige meningen i DreamWorks kunngjøring "
+"følgende: Det er Mike Myers og kun Mike Myers som har lov til å gjøre slikt. "
+"All generell frihet til å fortsette å bygge på verdens filmkultur, en frihet "
+"som i andre sammenhenger er en selvfølge, er et privilegium forbeholdt de "
+"morsomme og berømte - og antakelig rike."
 
-#. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
+#. type: Content of: <book><chapter><sect1><para>
+#, mtrans
 msgid ""
 "This privilege becomes reserved for two sorts of reasons. The first "
-"continues the story of the last chapter: the vagueness of <quote>fair use.</"
-"quote> Much of <quote>sampling</quote> should be considered <quote>fair use."
-"</quote> But few would rely upon so weak a doctrine to create. That leads to "
-"the second reason that the privilege is reserved for the few: The costs of "
-"negotiating the legal rights for the creative reuse of content are "
-"astronomically high.  These costs mirror the costs with fair use: You either "
-"pay a lawyer to defend your fair use rights or pay a lawyer to track down "
-"permissions so you don't have to rely upon fair use rights. Either way, the "
-"creative process is a process of paying lawyers&mdash;again a privilege, or "
-"perhaps a curse, reserved for the few."
+"continues the story of the last chapter: the vagueness of \"fair use.\" Much "
+"of \"sampling\" should be considered \"fair use.\" But few would rely upon "
+"so weak a doctrine to create. That leads to the second reason that the "
+"privilege is reserved for the few: The costs of negotiating the legal rights "
+"for the creative reuse of content are astronomically high.  These costs "
+"mirror the costs with fair use: You either pay a lawyer to defend your fair "
+"use rights or pay a lawyer to track down permissions so you don't have to "
+"rely upon fair use rights. Either way, the creative process is a process of "
+"paying lawyers&mdash;again a privilege, or perhaps a curse, reserved for the "
+"few."
 msgstr ""
-"dette privilegiet blir reservert for to slags grunner. først fortsetter "
-"historien om det siste kapitlet: vagueness av \"rettferdig bruk.\" mye av "
-"\"prøvetaking\" bør bli vurdert \"rettferdig bruk.\", men få vil stole på så "
-"svak en doktrine å opprette. som fører til den andre grunnen at privilegiet "
-"er forbeholdt få: kostnadene ved forhandling juridiske rettighetene for "
-"kreative gjenbruk av innhold er astronomically høy. disse kostnadene speile "
-"kostnadene med rettferdig bruk: du enten betale en advokat for å forsvare "
-"fair use-rettigheter eller betale en advokat for å spore opp tillatelser, så "
-"du trenger ikke å stole på fair use rettigheter. Uansett, den kreative "
-"prosessen er en prosess med å betale advokater&mdash;igjen en rettighet, "
-"eller kanskje en forbannelse, forbeholdt få."
+"Dette privilegiet er såpass reservert av to grunner: Første grunn er en "
+"fortsettelse av forrige kapittel, vagheten i \"fair use\". Mye av denne "
+"\"samplingen\" vil nok betraktes som \"fair use\", men ingen våger å stole på "
+"et så vagt prinsipp. Det leder oss til neste grunn for at privilegiet er "
+"forbeholdt få: Kostnadene ved å krenke opphavsretten ved kreativt gjenbruk er "
+"astronomiske. Disse kostnadene speiler kostnaden for \"fair use\": Enten "
+"betaler du en jurist til å forsvare dine fair use-rettigheter, eller så "
+"betaler du en jurist for å oppspore og ordne med rettighetene du trenger, "
+"slik at du slipper å stole på fair use. I begge tilfeller er den kreative "
+"prosessen blitt en prosess med å betale jurister - igjen, et privilegium "
+"forbeholdt de få."
+
+#. type: Content of: <book><chapter><sect1><title>
+
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER NINE: Collectors"
