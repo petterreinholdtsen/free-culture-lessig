@@ -399,6 +399,9 @@ culture deem fundamental.
 </para>
 <indexterm><primary>CodePink Women in Peace</primary></indexterm>
 <indexterm><primary>Stevens, Ted</primary></indexterm>
+<indexterm id='idxpower' class='startofrange'>
+  <primary>power, concentration of</primary>
+</indexterm>
 <para>
 We saw a glimpse of this bipartisan outrage in the early summer of
 2003. As the FCC considered changes in media ownership rules that
@@ -433,6 +436,7 @@ altering the way our culture gets made; that change should worry
 you&mdash;whether or not you care about the Internet, and whether you're on
 Safire's left or on his right.
 </para>
+<indexterm startref='idxpower' class='endofrange'/>
 <para>
 <emphasis role="strong">The inspiration</emphasis> for the title and for
 much of the argument of this book comes from the work of Richard
@@ -1026,6 +1030,7 @@ war. Unlike
 the lucky Wright brothers, the Internet has not inspired a revolution
 on its side.
 </para>
+<indexterm><primary>power, concentration of</primary></indexterm>
 <para>
 My hope is to push this common sense along. I have become increasingly
 amazed by the power of this idea of intellectual property and, more
