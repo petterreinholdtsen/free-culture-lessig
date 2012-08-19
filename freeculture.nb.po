@@ -5135,10 +5135,6 @@ msgstr ""
 "Så Jesse hadde et mafia-lignende valg: $250&nbsp;000 og en sjanse til å "
 "vinne, eller $12&nbsp;000 og et forlik."
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "artists"
-msgstr "artister"
-
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "recording industry payments to"
 msgstr "musikkindustriens betaling til"
