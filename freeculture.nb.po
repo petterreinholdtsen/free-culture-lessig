@@ -9478,13 +9478,6 @@ msgid "Alben, Alex"
 msgstr "Alben, Alex"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
-#| msgid ""
-#| "In 1993, Alex Alben was a lawyer working at Starwave, Inc.  Starwave was "
-#| "an innovative company founded by Microsoft cofounder Paul Allen to "
-#| "develop digital entertainment. Long before the Internet became popular, "
-#| "Starwave began investing in new technology for delivering entertainment "
-#| "in anticipation of the power of networks."
 msgid ""
 "<emphasis role='strong'>In 1993</emphasis>, Alex Alben was a lawyer working "
 "at Starwave, Inc.  Starwave was an innovative company founded by Microsoft "
@@ -9492,7 +9485,7 @@ msgid ""
 "Internet became popular, Starwave began investing in new technology for "
 "delivering entertainment in anticipation of the power of networks."
 msgstr ""
-"I 1993 var Alex Alben en jurist som arbeidet hos Starwave Inc. Starwave var "
+"<emphasis role='strong'>I 1993</emphasis> var Alex Alben en jurist som arbeidet hos Starwave Inc. Starwave var "
 "et innovativt firma grunnlagt av Paul Allen, som også hadde vært med på å "
 "grunnlegge Microsoft.Starwaves mål var å utvikle digital underholdning. "
 "Lenge før internett ble superpopulært, forsket Starwave på ny teknologi for "
@@ -9504,7 +9497,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
-msgstr ""
+msgstr "CD-ROMer, filmklipp brukt i"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9688,10 +9681,8 @@ msgstr ""
 "gjeng og begynte å ringe rundt."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
-#| msgid "Reagan, Ronald"
 msgid "Sutherland, Donald"
-msgstr "Reagan, Ronald"
+msgstr "Sutherland, Donald"
 
 #. type: Content of: <book><part><chapter><para>
 #, fuzzy
