@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-19 22:17+0300\n"
+"POT-Creation-Date: 2012-08-20 22:32+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -496,20 +496,20 @@ msgstr ""
 "av vår politiske kultur anser som grunnleggende."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "CodePink Women in Peace"
-msgstr ""
-
-#. type: Content of: <book><preface><indexterm><primary>
-msgid "Stevens, Ted"
-msgstr "Stevens, Ted"
-
-#. type: Content of: <book><chapter><indexterm><primary>
 msgid "power, concentration of"
 msgstr "makt, konsentrasjon av"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+msgid "CodePink Women in Peace"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Safire, William"
 msgstr "Safire, William"
+
+#. type: Content of: <book><preface><indexterm><primary>
+msgid "Stevens, Ted"
+msgstr "Stevens, Ted"
 
 #. type: Content of: <book><preface><para>
 msgid ""
@@ -520,8 +520,7 @@ msgid ""
 "marching <quote>uncomfortably alongside CodePink Women for Peace and the "
 "National Rifle Association, between liberal Olympia Snowe and conservative "
 "Ted Stevens,</quote> he formulated perhaps most simply just what was at "
-"stake: the concentration of power. And as he asked, <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"stake: the concentration of power. And as he asked,"
 msgstr ""
 "Vi så et glimt av dette tverrpolitiske raseri på forsommeren i 2003. Da FCC "
 "vurderte endringer i reglene for medieeierskap som ville slakke på "
@@ -530,8 +529,7 @@ msgstr ""
 "Safire beskrev å marsjere <quote>ubehagelig sammen med CodePink Women for "
 "Peace and the National Rifle Association, mellom liberale Olympia Snowe og "
 "konservative Ted Stevens</quote>, formulerte han  kanskje det enkleste "
-"uttrykket for hva som var på spill: konsentrasjonen av makt.  Så spurte han: "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"uttrykket for hva som var på spill: konsentrasjonen av makt.  Så spurte han:"
 
 #. type: Content of: <book><preface><blockquote><para><footnote><para>
 msgid ""
@@ -649,22 +647,6 @@ msgid "INTRODUCTION"
 msgstr "Introduksjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "air traffic, land ownership vs."
-msgstr "lufttrafikk, landeierskap mot"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "land ownership, air traffic and"
-msgstr "landeierskap, lufttrafikk og"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "property rights"
-msgstr "eiendomsrettigheter"
-
-#. type: Content of: <book><chapter><section><section><indexterm><secondary>
-msgid "air traffic vs."
-msgstr "lufttrafikk mot"
-
-#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Wright brothers"
 msgstr "Wright-brødrene"
 
@@ -683,6 +665,22 @@ msgstr ""
 "elektrisk, og dens betydning ble alment forstått. Nesten umiddelbart, "
 "eksploderte interessen for denne nye teknologien som muliggjorde bemannet "
 "luftfart og en hærskare av oppfinnere begynte å bygge videre på den."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "air traffic, land ownership vs."
+msgstr "lufttrafikk, landeierskap mot"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "land ownership, air traffic and"
+msgstr "landeierskap, lufttrafikk og"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "property rights"
+msgstr "eiendomsrettigheter"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "air traffic vs."
+msgstr "lufttrafikk mot"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1369,6 +1367,22 @@ msgstr ""
 "USA.  Men det var på ingen måte dominerende i vår tradisjon.  Det var i "
 "stedet bare en del, en kontrollert del, balansert mot det frie."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "free culture"
+msgstr "fri kultur"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "permission culture vs."
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "permission culture"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "free culture vs."
+msgstr "fri kultur mot"
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Litman, Jessica"
 msgstr "Litman, Jessica"
@@ -1482,6 +1496,14 @@ msgstr ""
 "til å få loven til å beskytte dem mot dette nye, mer effektive, mer levende "
 "teknologi for å bygge kultur. De lykkes i deres plan om å gjøre om "
 "internettet før internettet gjør om på dem."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Valenti, Jack"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "on creative property rights"
+msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1962,11 +1984,15 @@ msgstr ""
 "piratvirksomhet."
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "ASCAP"
+msgstr "ASCAP"
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "Dreyfuss, Rochelle"
 msgstr "Dreyfuss, Rochelle"
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
-msgid "Girl Schouts"
+msgid "Girl Scouts"
 msgstr "Jentespeidere"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
@@ -2025,10 +2051,6 @@ msgstr ""
 "jentene sagt rundt jentespeidernes leirbål.<placeholder type=\"footnote\" id="
 "\"1\"/> Det fantes <quote>verdi</quote> (sangene), så det måtte ha vært en "
 "<quote>rettighet</quote>&mdash;til og med mot jentespeiderne."
-
-#. type: Content of: <book><part><partintro><indexterm><primary>
-msgid "ASCAP"
-msgstr "ASCAP"
 
 #.  PAGE BREAK 32
 #. type: Content of: <book><part><partintro><para>
@@ -4147,6 +4169,10 @@ msgstr ""
 msgid "Tocqueville, Alexis de"
 msgstr "Tocqueville, Alexis de"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "jury system"
+msgstr ""
+
 #.  f15
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -4242,6 +4268,10 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/> Vi sier det våre venner vil høre, "
 "og hører veldig lite utenom hva våre venner sier."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "e-mail"
+msgstr ""
+
 #.  PAGE BREAK 56
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4276,7 +4306,7 @@ msgstr ""
 "blogger som ikke er politiske dekker politiske temaer når anledningen krever "
 "det."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Dean, Howard"
 msgstr "Dean, Howard"
 
@@ -4285,12 +4315,16 @@ msgid ""
 "The significance of these blogs is tiny now, though not so tiny. The name "
 "Howard Dean may well have faded from the 2004 presidential race but for "
 "blogs. Yet even if the number of readers is small, the reading is having an "
-"effect.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"effect."
 msgstr ""
 "Betydningene av disse bloggene er liten nå, men ikke ubetydelig. Navnet "
 "Howard Dean har i stor grad forsvunnet fra 2004-presidentvalgkampen bortsett "
 "fra hos noen få blogger.  Men selv om antallet lesere er lavt, så har det å "
-"lese dem en effekt. <placeholder type=\"indexterm\" id=\"0\"/>"
+"lese dem en effekt."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Lott, Trent"
+msgstr "Lott, Trent"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Thurmond, Strom"
@@ -4305,10 +4339,6 @@ msgstr ""
 "Noah Shachtman, <quote>With Incessant Postings, a Pundit Stirs the Pot</"
 "quote>, New York Times, 16. januar 2003, G5."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Lott, Trent"
-msgstr "Lott, Trent"
-
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "One direct effect is on stories that had a different life cycle in the "
@@ -4320,8 +4350,7 @@ msgid ""
 "bloggers kept researching the story. Over time, more and more instances of "
 "the same <quote>misspeaking</quote> emerged. Finally, the story broke back "
 "into the mainstream press. In the end, Lott was forced to resign as senate "
-"majority leader.<placeholder type=\"footnote\" id=\"0\"/> <placeholder type="
-"\"indexterm\" id=\"1\"/>"
+"majority leader.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 "En direkte effekt er på historier som hadde en annerledes livssyklus i de "
 "store mediene.  Trend Lott-affæren er et eksempel.  Da Logg <quote>sa feil</"
@@ -4333,7 +4362,7 @@ msgstr ""
 "flere tilfeller av tilsvarende <quote>feiluttalelser</quote> opp. Så dukket "
 "historien opp igjen hos de store mediene.  Lott ble til slutt tvinget til å "
 "trekke seg som leder for senatets flertall.<placeholder type=\"footnote\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6294,7 +6323,7 @@ msgstr "Piratvirksomhet I"
 msgid "Asia, commercial piracy in"
 msgstr "Asia, kommersiell piratvirksomhet i"
 
-#. type: Content of: <book><chapter><section><section><section><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "CDs"
 msgstr "CDer"
 
@@ -10173,6 +10202,10 @@ msgstr ""
 "igjen. igjen og igjen, en gang enhver to måneder, disse biter av koden tok "
 "kopier av Internett og lagret dem."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Way Back Machine"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -10345,8 +10378,24 @@ msgstr ""
 "milliard sider per måned."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Library of Congress"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Television Archive"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Vanderbilt University"
 msgstr "Vanderbilt University"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "libraries"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "archival function of"
+msgstr "arkiveringsfunksjon for"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -10385,6 +10434,10 @@ msgstr ""
 msgid "Quayle, Dan"
 msgstr "Quayle, Dan"
 
+#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
+msgid "60 Minutes"
+msgstr ""
+
 #.  PAGE BREAK 122
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
@@ -10403,6 +10456,14 @@ msgstr ""
 "de opprinnelige frem og tilbake utveksling mellom to, den 60 minutter "
 "episoden som kom ut etter det... det ville være nesten umulig.... disse "
 "materialene er nesten unfindable...."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "newspapers"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "archives of"
+msgstr "arkiver av"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -10435,6 +10496,14 @@ msgstr ""
 "bibliotekene. Disse kopiene var ment å forenkle spredning av kunnskap og å "
 "sikre at en kopi av arbeidet vil være rundt når opphavsretten utløpt, slik "
 "at andre kan få tilgang til og kopiere arbeidet."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "films"
+msgstr "filmer"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "archive of"
+msgstr "arkiv av"
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -10484,6 +10553,10 @@ msgstr ""
 "dem. regjeringen kreve ikke dem. innholdet i denne delen av den amerikanske "
 "kulturen er praktisk talt usynlige for alle som ville se."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "September 11, 2001, terrorist attacks of"
+msgstr ""
+
 #.  PAGE BREAK 123
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -10512,9 +10585,21 @@ msgstr ""
 msgid "archive.org"
 msgstr "archive.org"
 
-#. type: Content of: <book><part><chapter><indexterm><seealso>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Internet Archive"
 msgstr "Internett-arkivet"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Duck and Cover film"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "ephemeral films"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Prelinger, Rick"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23051,6 +23136,10 @@ msgstr ""
 "møtet om <quote>åpne og samarbeidende prosjekter for å skape fellesgoder</"
 "quote> virker å passe perfekt for WIPOs agenda."
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Apple Corporation"
+msgstr ""
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "But there is one project within that list that is highly controversial, at "
@@ -23505,13 +23594,13 @@ msgstr ""
 "for å bevare en tradisjon som har vært en del av vår tradisjon for "
 "mesteparten av vår historie&mdash;fri kultur."
 
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "Turner, Ted"
-msgstr "Turner, Ted"
-
 #. type: Content of: <book><chapter><para>
 msgid "If this is crazy, then let there be more crazies. Soon."
 msgstr "Hvis dette er galskap, så la det være mer gærninger.  Snart."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Turner, Ted"
+msgstr "Turner, Ted"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -26100,6 +26189,14 @@ msgstr ""
 "ville ikke sterkt belaster semiotic demokrati Hvis det var noen "
 "begrensninger på hva en var tillatt å gjøre med selve innholdet."
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "MusicStore"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "prices of"
+msgstr "priser på"
+
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -26128,6 +26225,30 @@ msgstr ""
 "Apple nå går ble motvirket av real networks, tilbyr musikk på bare 79 cents "
 "en sang. og ingen tvil om det vil være mye konkurranse å tilby og selge "
 "musikk på nettet."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "television"
+msgstr "televisjon"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "cable vs. broadcast"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "piracy"
+msgstr "piratvirksomhet"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "in Asia"
+msgstr "i Asia"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "film industry"
+msgstr "filmindustri"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "luxury theatres vs. video piracy in"
+msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -26298,6 +26419,18 @@ msgstr ""
 "en verden der rike klienter har sterke synspunkter vil uviljen hos vår "
 "yrkesgruppe til å stille spørsmål med eller protestere mot dette sterke "
 "synet ødelegge loven."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Nimmer, Melville"
+msgstr "Nimmer, Melville"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "Supreme Court challenge of"
+msgstr ""
 
 #.  f10.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>

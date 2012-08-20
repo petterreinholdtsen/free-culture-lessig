@@ -322,9 +322,7 @@ c      INDEX
 
 <preface id="preface">
 <title>PREFACE</title>
-<indexterm id="idxpoguedavid" class='startofrange'>
-  <primary>Pogue, David</primary>
-</indexterm>
+<indexterm id="idxpoguedavid" class='startofrange'><primary>Pogue, David</primary></indexterm>
 <para>
 <emphasis role="bold">At the end</emphasis> of his review of my first
 book, <citetitle>Code: And Other Laws of Cyberspace</citetitle>, David
@@ -397,11 +395,10 @@ disinterested, then the story I tell here will trouble you. For the
 changes I describe affect values that both sides of our political
 culture deem fundamental.
 </para>
+<indexterm id='idxpower' class='startofrange'><primary>power, concentration of</primary></indexterm>
 <indexterm><primary>CodePink Women in Peace</primary></indexterm>
+<indexterm><primary>Safire, William</primary></indexterm>
 <indexterm><primary>Stevens, Ted</primary></indexterm>
-<indexterm id='idxpower' class='startofrange'>
-  <primary>power, concentration of</primary>
-</indexterm>
 <para>
 We saw a glimpse of this bipartisan outrage in the early summer of
 2003. As the FCC considered changes in media ownership rules that
@@ -412,7 +409,6 @@ Women for Peace and the National Rifle Association, between liberal
 Olympia Snowe and conservative Ted Stevens,</quote> he formulated perhaps
 most simply just what was at stake: the concentration of power. And as
 he asked,
-<indexterm><primary>Safire, William</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -481,17 +477,7 @@ book is written.
 <!-- PAGE BREAK 16 -->
 <chapter label="0" id="c-introduction">
 <title>INTRODUCTION</title>
-<indexterm id='idxairtraffic' class='startofrange'>
-  <primary>air traffic, land ownership vs.</primary>
-</indexterm>
-<indexterm id='idxlandownership' class='startofrange'>
-  <primary>land ownership, air traffic and</primary>
-</indexterm>
-<indexterm id='idxproprigtair' class='startofrange'>
-  <primary>property rights</primary>
-  <secondary>air traffic vs.</secondary>
-</indexterm>
-<indexterm><primary>Wright brothers</primary></indexterm>
+<indexterm id='idxwrightbrothers' class='startofrange'><primary>Wright brothers</primary></indexterm>
 <para>
 <emphasis role="strong">On December 17</emphasis>, 1903, on a windy North Carolina beach for just
 shy of one hundred seconds, the Wright brothers demonstrated that a
@@ -500,6 +486,9 @@ and its importance widely understood. Almost immediately, there
 was an explosion of interest in this newfound technology of manned
 flight, and a gaggle of innovators began to build upon it.
 </para>
+<indexterm id='idxairtraffic' class='startofrange'><primary>air traffic, land ownership vs.</primary></indexterm>
+<indexterm id='idxlandownership' class='startofrange'><primary>land ownership, air traffic and</primary></indexterm>
+<indexterm id='idxproprigtair' class='startofrange'><primary>property rights</primary><secondary>air traffic vs.</secondary></indexterm>
 <para>
 At the time the Wright brothers invented the airplane, American
 law held that a property owner presumptively owned not just the surface
@@ -513,6 +502,7 @@ years, scholars had puzzled about how best to interpret the idea that
 rights in land ran to the heavens. Did that mean that you owned the
 stars? Could you prosecute geese for their willful and regular trespass?
 </para>
+<indexterm startref='idxwrightbrothers' class='endofrange'/>
 <para>
 Then came airplanes, and for the first time, this principle of American
 law&mdash;deep within the foundations of our tradition, and acknowledged
@@ -609,9 +599,7 @@ allowed to defeat an obvious public gain.
 <indexterm startref='idxproprigtair' class='endofrange'/>
 <indexterm startref='idxlandownership' class='endofrange'/>
 <indexterm startref='idxairtraffic' class='endofrange'/>
-<indexterm id='idxarmstrongedwin' class='startofrange'>
-  <primary>Armstrong, Edwin Howard</primary>
-</indexterm>
+<indexterm id='idxarmstrongedwin' class='startofrange'><primary>Armstrong, Edwin Howard</primary></indexterm>
 <indexterm><primary>Bell, Alexander Graham</primary></indexterm>
 <indexterm><primary>Edison, Thomas</primary></indexterm>
 <indexterm><primary>Faraday, Michael</primary></indexterm>
@@ -696,9 +684,7 @@ www.webstationone.com/fecha, available at
 </para></footnote>
 </para>
 </blockquote>
-<indexterm id='idxlessing' class='startofrange'>
-  <primary>Lessing, Lawrence</primary>
-</indexterm>
+<indexterm id='idxlessing' class='startofrange'><primary>Lessing, Lawrence</primary></indexterm>
 <para>
 Armstrong's invention threatened RCA's AM empire, so the company
 launched a campaign to smother FM radio. While FM may have been a
@@ -864,6 +850,8 @@ and it has become an increasingly important part in America. But in no
 sense was it dominant within our tradition. It was instead just one
 part, a controlled part, balanced with the free.
 </para>
+<indexterm><primary>free culture</primary><secondary> permission culture vs.</secondary></indexterm>
+<indexterm><primary>permission culture</primary><secondary> free culture vs.</secondary></indexterm>
 <para>
 This rough divide between the free and the controlled has now
 been erased.<footnote><para>
@@ -924,6 +912,7 @@ more efficient, more vibrant technology for building culture. They are
 succeeding in their plan to remake the Internet before the Internet
 remakes them.
 </para>
+<indexterm><primary>Valenti, Jack</primary><secondary> on creative property rights</secondary></indexterm>
 <para>
 It doesn't seem this way to many. The battles over copyright and the
 <!-- PAGE BREAK 25 -->
@@ -1115,9 +1104,7 @@ to which most of us remain oblivious.
 <title><quote>PIRACY</quote></title>
 <partintro>
 <!-- PAGE BREAK 30 -->
-<indexterm id="idxmansfield1" class='startofrange'>
-  <primary>Mansfield, William Murray, Lord</primary>
-</indexterm>
+<indexterm id="idxmansfield1" class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
 <para>
 <emphasis role="strong">Since the inception</emphasis> of the law regulating creative property, there has
 been a war against <quote>piracy.</quote> The precise contours of this concept,
@@ -1180,11 +1167,10 @@ from someone else without permission is wrong. It is a form of
 piracy.
 </para>
 </blockquote>
+<indexterm><primary>ASCAP</primary></indexterm>
 <indexterm><primary>Dreyfuss, Rochelle</primary></indexterm>
-<indexterm><primary>Girl Schouts</primary></indexterm>
-<indexterm id='idxifvalue' class='startofrange'>
-  <primary><quote>if value, then right</quote> theory</primary>
-</indexterm>
+<indexterm><primary>Girl Scouts</primary></indexterm>
+<indexterm id='idxifvalue' class='startofrange'><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
 This view runs deep within the current debates. It is what NYU law
 professor Rochelle Dreyfuss criticizes as the <quote>if value, then right</quote> 
@@ -1208,7 +1194,6 @@ Speech, No One Wins,</quote> <citetitle>Boston Globe</citetitle>, 24 November 20
 There was <quote>value</quote> (the songs) so there must have been a
 <quote>right</quote>&mdash;even against the Girl Scouts.
 </para>
-<indexterm><primary>ASCAP</primary></indexterm>
 <para>
 This idea is certainly a possible understanding of how creative
 property should work. It might well be a possible design for a system
@@ -1287,12 +1272,8 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
 <title>CHAPTER ONE: Creators</title>
-<indexterm id="idxanimadedcartoons" class='startofrange'>
-  <primary>animated cartoons</primary>
-</indexterm>
-<indexterm id='idxcartoonfilms' class='startofrange'>
-  <primary>cartoon films</primary>
-</indexterm>
+<indexterm id="idxanimadedcartoons" class='startofrange'><primary>animated cartoons</primary></indexterm>
+<indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
 <para>
 <emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
 made his debut in May of that year, in a silent flop called <citetitle>Plane Crazy</citetitle>.
@@ -1563,9 +1544,7 @@ the permission of the original copyright owner is illegal. It is an
 infringement of the original copyright to make a copy or a derivative
 work without the original copyright owner's permission.
 </para>
-<indexterm id="idxwinickjudd" class='startofrange'>
-  <primary>Winick, Judd</primary>
-</indexterm>
+<indexterm id="idxwinickjudd" class='startofrange'><primary>Winick, Judd</primary></indexterm>
 <para>
 Yet this illegal market exists and indeed flourishes in Japan, and in
 the view of many, it is precisely because it exists that Japanese manga
@@ -1752,12 +1731,8 @@ free culture. It is becoming much less so.
 </chapter>
 <chapter label="2" id="mere-copyists">
 <title>CHAPTER TWO: <quote>Mere Copyists</quote></title>
-<indexterm id='idxcameratech' class='startofrange'>
-  <primary>camera technology</primary>
-</indexterm>
-<indexterm id="idxphotography" class='startofrange'>
-  <primary>photography</primary>
-</indexterm>
+<indexterm id='idxcameratech' class='startofrange'><primary>camera technology</primary></indexterm>
+<indexterm id="idxphotography" class='startofrange'><primary>photography</primary></indexterm>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1839</emphasis>, Louis Daguerre invented
@@ -1781,9 +1756,7 @@ glass, and thus it was still not a process within reach of most
 amateurs.
 <indexterm><primary>Talbot, William</primary></indexterm>
 </para>
-<indexterm id="idxeastmangeorge" class='startofrange'>
-  <primary>Eastman, George</primary>
-</indexterm>
+<indexterm id="idxeastmangeorge" class='startofrange'><primary>Eastman, George</primary></indexterm>
 <para>
 The technological change that made mass photography possible
 didn't happen until 1888, and was the creation of a single man. George
@@ -2317,6 +2290,7 @@ in those elections. The cycle of these elections has become totally
 professionalized and routinized. Most of us think this is democracy.
 </para>
 <indexterm><primary>Tocqueville, Alexis de</primary></indexterm>
+<indexterm><primary>jury system</primary></indexterm>
 <para>
 But democracy has never just been about elections. Democracy
 means rule by the people, but rule means something more than mere
@@ -2362,9 +2336,8 @@ Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton Univers
 </para></footnote> We say what our friends want to hear, and hear very
 little beyond what our friends say.
 </para>
-<indexterm id='idxblogs1' class='startofrange'>
-  <primary>blogs (Web-logs)</primary>
-</indexterm>
+<indexterm id='idxblogs1' class='startofrange'><primary>blogs (Web-logs)</primary></indexterm>
+<indexterm><primary>e-mail</primary></indexterm>
 <para>
 Enter the blog. The blog's very architecture solves one part of this
 problem. People post when they want to post, and people read when they
@@ -2384,13 +2357,14 @@ the left. Some of the most popular sites are conservative or libertarian,
 but there are many of all political stripes. And even blogs that are not
 political cover political issues when the occasion merits.
 </para>
+<indexterm><primary>Dean, Howard</primary></indexterm>
 <para>
 The significance of these blogs is tiny now, though not so tiny. The
 name Howard Dean may well have faded from the 2004 presidential race
 but for blogs. Yet even if the number of readers is small, the reading
 is having an effect.
-<indexterm><primary>Dean, Howard</primary></indexterm>
 </para>
+<indexterm><primary>Lott, Trent</primary></indexterm>
 <indexterm><primary>Thurmond, Strom</primary></indexterm>
 <para>
 One direct effect is on stories that had a different life cycle in the
@@ -2407,7 +2381,6 @@ resign as senate majority leader.<footnote><para>
 Noah Shachtman, <quote>With Incessant Postings, a Pundit Stirs the Pot,</quote> New
 York Times, 16 January 2003, G5.
 </para></footnote>
-<indexterm><primary>Lott, Trent</primary></indexterm>
 </para>
 <para>
 This different cycle is possible because the same commercial pressures
@@ -2425,9 +2398,7 @@ rises in the ranks of stories. People read what is popular; what is
 popular has been selected by a very democratic process of
 peer-generated rankings.
 </para>
-<indexterm id="idxwinerdave" class='startofrange'>
-  <primary>Winer, Dave</primary>
-</indexterm>
+<indexterm id="idxwinerdave" class='startofrange'><primary>Winer, Dave</primary></indexterm>
 <para>
 There's a second way, as well, in which blogs have a different cycle
 <!-- PAGE BREAK 57 -->
@@ -2524,12 +2495,8 @@ extraordinary to report.
 </para>
 <indexterm startref='idxblogs1' class='endofrange'/>
 <indexterm startref="idxwinerdave" class='endofrange'/>
-<indexterm id="idxbrownjohnseely" class='startofrange'>
-  <primary>Brown, John Seely</primary>
-</indexterm>
-<indexterm id='idxadvertising1' class='startofrange'>
-  <primary>advertising</primary>
-</indexterm>
+<indexterm id="idxbrownjohnseely" class='startofrange'><primary>Brown, John Seely</primary></indexterm>
+<indexterm id='idxadvertising1' class='startofrange'><primary>advertising</primary></indexterm>
 <para>
 <emphasis role='strong'>John Seely Brown</emphasis> is the chief
 scientist of the Xerox Corporation.  His work, as his Web site
@@ -2654,9 +2621,7 @@ quipped to me in a rare moment of despondence.
 <chapter label="3" id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute (RPI)</see></indexterm>
-<indexterm id="idxrensselaer" class='startofrange'>
-  <primary>Rensselaer Polytechnic Institute (RPI)</primary>
-</indexterm>
+<indexterm id="idxrensselaer" class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
 <para>
 <emphasis role='strong'>In the fall</emphasis> of 2002, Jesse Jordan
 of Oceanside, New York, enrolled as a freshman at Rensselaer
@@ -2832,10 +2797,7 @@ paper saying he and his family were bankrupt.
 So Jesse faced a mafia-like choice: $250,000 and a chance at winning,
 or $12,000 and a settlement.
 </para>
-<indexterm>
-<primary>artists</primary>
-<secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 The recording industry insists this is a matter of law and morality.
 Let's put the law aside for a moment and think about the morality.
@@ -2990,9 +2952,7 @@ Edison's creative property.
 The record industry was born of another kind of piracy, though to see
 how requires a bit of detail about the way the law regulates music.
 </para>
-<indexterm id="idxfourneauxhenri" class='startofrange'>
-  <primary>Fourneaux, Henri</primary>
-</indexterm>
+<indexterm id="idxfourneauxhenri" class='startofrange'><primary>Fourneaux, Henri</primary></indexterm>
 <indexterm><primary>Russel, Phil</primary></indexterm>
 <para>
 At the time that Edison and Henri Fourneaux invented machines
@@ -3191,10 +3151,7 @@ creative work, the record producers, and the public, benefit.
 </section>
 <section id="radio">
 <title>Radio</title>
-<indexterm id='idxartistspayments1' class='startofrange'>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm id='idxartistspayments1' class='startofrange'><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 Radio was also born of piracy.
 </para>
@@ -3241,9 +3198,7 @@ something for nothing. It gets to perform the recording artist's work
 for free, even if it must pay the composer something for the privilege
 of playing the song.
 </para>
-<indexterm id="idxmadonna" class='startofrange'>
-  <primary>Madonna</primary>
-</indexterm>
+<indexterm id="idxmadonna" class='startofrange'><primary>Madonna</primary></indexterm>
 <para>
 This difference can be huge. Imagine you compose a piece of music.
 Imagine it is your first. You own the exclusive right to authorize
@@ -3273,9 +3228,7 @@ to take something for nothing.
 </section>
 <section id="cabletv">
 <title>Cable TV</title>
-<indexterm id='idxcabletv1' class='startofrange'>
-  <primary>cable television</primary>
-</indexterm>
+<indexterm id='idxcabletv1' class='startofrange'><primary>cable television</primary></indexterm>
 <para>
 Cable TV was also born of a kind of piracy.
 </para>
@@ -3438,10 +3391,7 @@ has so often done in the past.
 <section id="piracy-i">
 <title>Piracy I</title>
 <indexterm><primary>Asia, commercial piracy in</primary></indexterm>
-<indexterm id='idxcdsforeign' class='startofrange'>
-  <primary>CDs</primary>
-  <secondary>foreign piracy of</secondary>
-</indexterm>
+<indexterm id='idxcdsforeign' class='startofrange'><primary>CDs</primary><secondary>foreign piracy of</secondary></indexterm>
 <para>
 All across the world, but especially in Asia and Eastern Europe, there
 are businesses that do nothing but take others people's copyrighted
@@ -3585,10 +3535,7 @@ system, then these Chinese users would not eventually be buying
 Microsoft.  Without piracy, then, Microsoft would lose.
 <indexterm><primary>GNU/Linux operating system</primary></indexterm>
 <indexterm><primary>Linux operating system</primary></indexterm>
-<indexterm>
-<primary>Microsoft</primary>
-<secondary>Windows operating system of</secondary>
-</indexterm>
+<indexterm><primary>Microsoft</primary><secondary>Windows operating system of</secondary></indexterm>
 <indexterm><primary>Windows</primary></indexterm>
 </para>
 <para>
@@ -3823,10 +3770,7 @@ about radio, and broadcasters complained about cable TV, the music
 industry complains that type A sharing is a kind of <quote>theft</quote> that is
 <quote>devastating</quote> the industry.
 </para>
-<indexterm id='idxcassette' class='startofrange'>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm id='idxcassette' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 While the numbers do suggest that sharing is harmful, how
 harmful is harder to reckon. It has long been the recording industry's
@@ -3887,10 +3831,7 @@ therefore have little <emphasis>static</emphasis> reason to resist
 them.
 
 </para>
-<indexterm id='idxcdssales' class='startofrange'>
-  <primary>CDs</primary>
-  <secondary>sales levels of</secondary>
-</indexterm>
+<indexterm id='idxcdssales' class='startofrange'><primary>CDs</primary><secondary>sales levels of</secondary></indexterm>
 <para>
 Could that be true? Could the industry as a whole be gaining because
 of file sharing? Odd as that might sound, the data about CD sales
@@ -3992,10 +3933,7 @@ available, the vast majority of it is unavailable solely because the
 publisher or the distributor has decided it no longer makes economic
 sense <emphasis>to the company</emphasis> to make it available.
 </para>
-<indexterm>
-  <primary>books</primary>
-  <secondary>resales of</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
 <para>
 In real space&mdash;long before the Internet&mdash;the market had a simple
 <!-- PAGE BREAK 85 -->
@@ -4003,10 +3941,7 @@ response to this problem: used book and record stores. There are
 thousands of used book and used record stores in America
 today.<footnote><para>
 <!-- f16 -->
-<indexterm>
-  <primary>books</primary>
-  <secondary>resales of</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
 While there are not good estimates of the number of used record stores
 in existence, in 2002, there were 7,198 used book dealers in the
 United States, an increase of 20 percent since 1993. See Book Hunter
@@ -4028,10 +3963,7 @@ statutory licensing, they don't have to pay the copyright owner for
 the content they sell.
 </para>
 <indexterm><primary>Bernstein, Leonard</primary></indexterm>
-<indexterm>
-  <primary>books</primary>
-  <secondary>out of print</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
 <para>
 Type C sharing, then, is very much like used book stores or used
 record stores. It is different, of course, because the person making
@@ -4053,10 +3985,7 @@ stores. Or put differently, if you think that type C sharing should be
 stopped, do you think that libraries and used book stores should be
 shut as well?
 </para>
-<indexterm id='idxbooksfreeonline1' class='startofrange'>
-  <primary>books</primary>
-  <secondary>free on-line releases of</secondary>
-</indexterm>
+<indexterm id='idxbooksfreeonline1' class='startofrange'><primary>books</primary><secondary>free on-line releases of</secondary></indexterm>
 <para>
 Finally, and perhaps most importantly, file-sharing networks enable
 type D sharing to occur&mdash;the sharing of content that copyright owners
@@ -4150,10 +4079,7 @@ technology.  In this adjustment, the law sought to ensure the
 legitimate rights of creators while protecting innovation. Sometimes
 this has meant more rights for creators. Sometimes less.
 </para>
-<indexterm>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 So, as we've seen, when <quote>mechanical reproduction</quote> threatened the
 interests of composers, Congress balanced the rights of composers
@@ -4166,9 +4092,7 @@ respected (since the radio station did not have to pay them for the
 creativity it broadcast), Congress rejected their claim. An indirect
 benefit was enough.
 </para>
-<indexterm id='idxcabletv2' class='startofrange'>
-  <primary>cable television</primary>
-</indexterm>
+<indexterm id='idxcabletv2' class='startofrange'><primary>cable television</primary></indexterm>
 <para>
 Cable TV followed the pattern of record albums. When the courts
 rejected the claim that cable broadcasters had to pay for the content
@@ -4197,10 +4121,7 @@ Congress chose a path that would assure
 </para>
 <indexterm startref='idxcabletv2' class='endofrange'/>
 <indexterm><primary>Betamax</primary></indexterm>
-<indexterm id='idxcassettevcrs1' class='startofrange'>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm id='idxcassettevcrs1' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 In the same year that Congress struck this balance, two major
 producers and distributors of film content filed a lawsuit against
@@ -4552,10 +4473,7 @@ from the implications that the copyright warriors would have us draw.
 <title>CHAPTER SIX: Founders</title>
 <indexterm><primary>Henry V</primary></indexterm>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
-<indexterm id='idxbooksenglishlaw' class='startofrange'>
-  <primary>books</primary>
-  <secondary>English copyright law developed for</secondary>
-</indexterm>
+<indexterm id='idxbooksenglishlaw' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
 <para>
 <emphasis role='strong'>William Shakespeare</emphasis> wrote
 <citetitle>Romeo and Juliet</citetitle> in 1595. The play was first
@@ -4598,9 +4516,7 @@ one else could publish copies of a book to which they held the
 copyright.  Prices of the classics were thus kept high; competition to
 produce better or cheaper editions was eliminated.
 </para>
-<indexterm id='idxbritishparliament' class='startofrange'>
-  <primary>British Parliament</primary>
-</indexterm>
+<indexterm id='idxbritishparliament' class='startofrange'><primary>British Parliament</primary></indexterm>
 <para>
 Now, there's something puzzling about the year 1774 to anyone who
 knows a little about copyright law. The better-known year in the
@@ -4736,9 +4652,7 @@ have it forever.</quote>) The state would protect the exclusive right, but
 only so long as it benefited society. The British saw the harms from
 specialinterest favors; they passed a law to stop them.
 </para>
-<indexterm id='idxbooksellers' class='startofrange'>
-  <primary>booksellers, English</primary>
-</indexterm>
+<indexterm id='idxbooksellers' class='startofrange'><primary>booksellers, English</primary></indexterm>
 <para>
 Second, about booksellers. It wasn't just that the copyright was a
 monopoly. It was also that it was a monopoly held by the booksellers.
@@ -4908,9 +4822,7 @@ Exploding the Myth of Common Law Copyright,</quote> <citetitle>Wayne Law Review<
 (1983): 1152.
 </para></footnote>
 </para>
-<indexterm id="idxmansfield2" class='startofrange'>
-  <primary>Mansfield, William Murray, Lord</primary>
-</indexterm>
+<indexterm id="idxmansfield2" class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
 <para>
 Astonishingly to modern lawyers, one of the greatest judges in English
 history, Lord Mansfield, agreed with the booksellers. Whatever
@@ -5268,9 +5180,7 @@ not.
 <chapter label="8" id="transformers">
 <title>CHAPTER EIGHT: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
-<indexterm id='idxalbenalex1' class='startofrange'>
-  <primary>Alben, Alex</primary>
-</indexterm>
+<indexterm id='idxalbenalex1' class='startofrange'><primary>Alben, Alex</primary></indexterm>
 <indexterm><primary>Microsoft</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1993</emphasis>, Alex Alben was a lawyer
@@ -5280,13 +5190,8 @@ entertainment. Long before the Internet became popular, Starwave began
 investing in new technology for delivering entertainment in
 anticipation of the power of networks.
 </para>
-<indexterm id='idxartistsretrospective' class='startofrange'>
-  <primary>artists</primary>
-  <secondary>retrospective compilations on</secondary>
-</indexterm>
-<indexterm id='idxcdroms' class='startofrange'>
-  <primary>CD-ROMs, film clips used in</primary>
-</indexterm>
+<indexterm id='idxartistsretrospective' class='startofrange'><primary>artists</primary><secondary>retrospective compilations on</secondary></indexterm>
+<indexterm id='idxcdroms' class='startofrange'><primary>CD-ROMs, film clips used in</primary></indexterm>
 <para>
 Alben had a special interest in new technology. He was intrigued by
 the emerging market for CD-ROM technology&mdash;not to distribute
@@ -5334,10 +5239,7 @@ Technically, the rights that Alben had to clear were mainly those of
 publicity&mdash;rights an artist has to control the commercial
 exploitation of his image.  But these rights, too, burden <quote>Rip, Mix,
 Burn</quote> creativity, as this chapter evinces.
-<indexterm>
-<primary>artists</primary>
-<secondary>publicity rights on images of</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>publicity rights on images of</secondary></indexterm>
 <indexterm><primary>Alben, Alex</primary></indexterm>
 </para></footnote>
 </para>
@@ -5635,9 +5537,7 @@ curse, reserved for the few.
 </chapter>
 <chapter label="9" id="collectors">
 <title>CHAPTER NINE: Collectors</title>
-<indexterm id='idxarchivesdigital1' class='startofrange'>
-  <primary>archives, digital</primary>
-</indexterm>
+<indexterm id='idxarchivesdigital1' class='startofrange'><primary>archives, digital</primary></indexterm>
 <indexterm><primary>bots</primary></indexterm>
 <para>
 <emphasis role='strong'>In April 1996</emphasis>, millions of
@@ -5650,6 +5550,7 @@ finished the whole of the Internet, they started again. Over and over
 again, once every two months, these bits of code took copies of the
 Internet and stored them.
 </para>
+<indexterm><primary>Way Back Machine</primary></indexterm>
 <para>
 By October 2001, the bots had collected more than five years of
 copies. And at a small announcement in Berkeley, California, the
@@ -5658,9 +5559,7 @@ the world. Using a technology called <quote>the Way Back Machine,</quote> you co
 enter a Web page, and see all of its copies going back to 1996, as
 well as when those pages changed.
 </para>
-<indexterm id='idxorwellgeorge' class='startofrange'>
-  <primary>Orwell, George</primary>
-</indexterm>
+<indexterm id='idxorwellgeorge' class='startofrange'><primary>Orwell, George</primary></indexterm>
 <para>
 This is the thing about the Internet that Orwell would have
 appreciated.  In the dystopia described in <citetitle>1984</citetitle>, old newspapers were
@@ -5682,6 +5581,7 @@ but the content could easily be different. The Internet is Orwell's
 library&mdash;constantly updated, without any reliable memory.
 </para>
 <indexterm startref='idxorwellgeorge' class='endofrange'/>
+<indexterm><primary>Way Back Machine</primary></indexterm>
 <para>
 Until the Way Back Machine, at least. With the Way Back Machine, and
 the Internet Archive underlying it, you can see what the Internet
@@ -5740,7 +5640,11 @@ Internet Archive was just the first of the projects of this Andrew
 Carnegie of the Internet. By December of 2002, the archive had over 10
 billion pages, and it was growing at about a billion pages a month.
 </para>
+<indexterm><primary>Library of Congress</primary></indexterm>
+<indexterm><primary>Television Archive</primary></indexterm>
 <indexterm><primary>Vanderbilt University</primary></indexterm>
+<indexterm><primary>Way Back Machine</primary></indexterm>
+<indexterm><primary>libraries</primary><secondary>archival function of</secondary></indexterm>
 <para>
 The Way Back Machine is the largest archive of human knowledge in
 human history. At the end of 2002, it held <quote>two hundred and thirty
@@ -5760,6 +5664,7 @@ just a graduate student?</quote> As Kahle put it,
 </para>
 <blockquote>
 <indexterm><primary>Quayle, Dan</primary></indexterm>
+<indexterm><primary>60 Minutes</primary></indexterm>
 <para>
 Do you remember when Dan Quayle was interacting with Murphy Brown?
 Remember that back and forth surreal experience of a politician
@@ -5772,6 +5677,7 @@ original back and forth exchanges between the two, the
 impossible. &hellip; Those materials are almost unfindable. &hellip;
 </para>
 </blockquote>
+<indexterm><primary>newspapers</primary><secondary>archives of</secondary></indexterm>
 <para>
 Why is that? Why is it that the part of our culture that is recorded
 in newspapers remains perpetually accessible, while the part that is
@@ -5788,6 +5694,8 @@ of knowledge and to assure that a copy of the work would be around
 once the copyright expired, so that others might access and copy the
 work.
 </para>
+<indexterm><primary>Library of Congress</primary></indexterm>
+<indexterm><primary>films</primary><secondary>archive of</secondary></indexterm>
 <para>
 These rules applied to film as well. But in 1915, the Library
 of Congress made an exception for film. Film could be copyrighted so
@@ -5816,6 +5724,7 @@ broadcasters. No library had any right to them; the government didn't
 demand them.  The content of this part of American culture is
 practically invisible to anyone who would look.
 </para>
+<indexterm><primary>September 11, 2001, terrorist attacks of</primary></indexterm>
 <para>
 Kahle was eager to correct this. Before September 11, 2001, he and
 <!-- PAGE BREAK 123 -->
@@ -5828,10 +5737,12 @@ Anyone could see how news reports from around the world covered the
 events of that day.
 </para>
 <indexterm><primary>Movie Archive</primary></indexterm>
-<indexterm>
-  <primary>archive.org</primary>
-  <seealso>Internet Archive</seealso>
-</indexterm>
+<indexterm><primary>archive.org</primary><seealso>Internet Archive</seealso></indexterm>
+<indexterm><primary>films</primary><secondary>archive of</secondary></indexterm>
+<indexterm><primary>Internet Archive</primary></indexterm>
+<indexterm><primary>Duck and Cover film</primary></indexterm>
+<indexterm><primary>ephemeral films</primary></indexterm>
+<indexterm><primary>Prelinger, Rick</primary></indexterm>
 <para>
 Kahle had the same idea with film. Working with Rick Prelinger, whose
 archive of film includes close to 45,000 <quote>ephemeral films</quote> (meaning
@@ -5887,18 +5798,12 @@ build an archive of knowledge about our history. In this second life,
 the content can continue to inform even if that information is no
 longer sold.
 </para>
-<indexterm>
-  <primary>books</primary>
-  <secondary>out of print</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
 <para>
 The same has always been true about books. A book goes out of print
 very quickly (the average today is after about a year<footnote><para>
 <!-- f3 -->
-<indexterm>
-  <primary>books</primary>
-  <secondary>out of print</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
 Dave Barns, <quote>Fledgling Career in Antique Books: Woodstock Landlord,
 Bar Owner Starts a New Chapter by Adopting Business,</quote> <citetitle>Chicago Tribune</citetitle>,
 5 September 1997, at Metro Lake 1L. Of books published between 1927
@@ -5950,10 +5855,7 @@ we are for the first time at a point where that dream is possible. As
 Kahle describes,
 </para>
 <blockquote>
-<indexterm>
-  <primary>books</primary>
-  <secondary>total number of</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>total number of</secondary></indexterm>
 <para>
 It looks like there's about two to three million recordings of music.
 Ever. There are about a hundred thousand theatrical releases of
@@ -6307,9 +6209,7 @@ be; my claim is not about comprehensiveness), these four are among the
 most significant, and any regulator (whether controlling or freeing)
 must consider how these four in particular interact.
 </para>
-<indexterm id="idxdrivespeed" class='startofrange'>
-  <primary>driving speed, constraints on</primary>
-</indexterm>
+<indexterm id="idxdrivespeed" class='startofrange'><primary>driving speed, constraints on</primary></indexterm>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>market constraints</primary></indexterm>
 <indexterm><primary>norms, regulatory influence of</primary></indexterm>
@@ -6587,9 +6487,7 @@ effect of the changes the content industry wants.
 <para>
 Here's the metaphor that will capture the argument to follow.
 </para>
-<indexterm id="idxddt" class='startofrange'>
-  <primary>DDT</primary>
-</indexterm>
+<indexterm id="idxddt" class='startofrange'><primary>DDT</primary></indexterm>
 <para>
 In 1873, the chemical DDT was first synthesized. In 1948, Swiss
 chemist Paul Hermann Müller won the Nobel Prize for his work
@@ -6832,14 +6730,8 @@ M. Landes and Richard A.  Posner, <quote>Indefinitely Renewable Copyright,</quot
 <citetitle>University of Chicago Law Review</citetitle> 70 (2003): 471, 498&ndash;501, and
 accompanying figures.  </para></footnote>
 </para>
-<indexterm>
-  <primary>books</primary>
-  <secondary>out of print</secondary>
-</indexterm>
-<indexterm>
-  <primary>books</primary>
-  <secondary>resales of</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
+<indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
 <para>
 Even today, this structure would make sense. Most creative work
 has an actual commercial life of just a couple of years. Most books fall
@@ -7179,10 +7071,7 @@ empty circle.
 <title>All potential uses of a book.</title>
 <graphic fileref="images/1521.png"></graphic>
 </figure>
-<indexterm id='idxbooksusetypes' class='startofrange'>
-  <primary>books</primary>
-  <secondary>three types of uses of</secondary>
-</indexterm>
+<indexterm id='idxbooksusetypes' class='startofrange'><primary>books</primary><secondary>three types of uses of</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 152 -->
 Think about a book in real space, and imagine this circle to represent
@@ -7244,10 +7133,7 @@ sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed <quote>fair</quote> regardless of the copyright owner's views.
 </para>
 <indexterm startref='idxbooksusetypes' class='endofrange'/>
-<indexterm>
-  <primary>books</primary>
-  <secondary>on Internet</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
 <para>
 Enter the Internet&mdash;a distributed, digital network where every use
 of a copyrighted work produces a copy.<footnote><para>
@@ -7281,10 +7167,7 @@ night before you went to bed. None of those instances of
 use&mdash;reading&mdash; could be regulated by copyright law because
 none of those uses produced a copy.
 </para>
-<indexterm>
-  <primary>books</primary>
-  <secondary>on Internet</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
 <para>
 But the same book as an e-book is effectively governed by a different
 set of rules. Now if the copyright owner says you may read the book
@@ -7347,9 +7230,7 @@ grounded in fair use makes sense when the vast majority of uses are
 presumptively regulated, then the protections of fair use are not
 enough.
 </para>
-<indexterm id='idxadvertising2' class='startofrange'>
-  <primary>advertising</primary>
-</indexterm>
+<indexterm id='idxadvertising2' class='startofrange'><primary>advertising</primary></indexterm>
 <para>
 The case of Video Pipeline is a good example. Video Pipeline was
 in the business of making <quote>trailer</quote> advertisements for movies available
@@ -7460,12 +7341,8 @@ tradition embraced, who said whether and how the law would restrict
 your freedom.
 </para>
 <indexterm><primary>Casablanca</primary></indexterm>
-<indexterm id="idxmarxbrothers" class='startofrange'>
-  <primary>Marx Brothers</primary>
-</indexterm>
-<indexterm id="idxwarnerbrothers" class='startofrange'>
-  <primary>Warner Brothers</primary>
-</indexterm>
+<indexterm id="idxmarxbrothers" class='startofrange'><primary>Marx Brothers</primary></indexterm>
+<indexterm id="idxwarnerbrothers" class='startofrange'><primary>Warner Brothers</primary></indexterm>
 <para>
 There's a famous story about a battle between the Marx Brothers
 and Warner Brothers. The Marxes intended to make a parody of
@@ -7499,10 +7376,7 @@ like the Marx Brothers, knew that no court would ever enforce such a
 silly claim. This extremism was irrelevant to the real freedoms anyone
 (including Warner Brothers) enjoyed.
 </para>
-<indexterm id='idxbooksoninternet' class='startofrange'>
-  <primary>books</primary>
-  <secondary>on Internet</secondary>
-</indexterm>
+<indexterm id='idxbooksoninternet' class='startofrange'><primary>books</primary><secondary>on Internet</secondary></indexterm>
 <para>
 On the Internet, however, there is no check on silly rules, because on
 the Internet, increasingly, rules are enforced not by a human but by a
@@ -7516,9 +7390,7 @@ consequence of that is not at all funny.
 <indexterm startref="idxwarnerbrothers" class='endofrange'/>
 <indexterm startref="idxmarxbrothers" class='endofrange'/>
 
-<indexterm id="idxadobeebookreader" class='startofrange'>
-  <primary>Adobe eBook Reader</primary>
-</indexterm>
+<indexterm id="idxadobeebookreader" class='startofrange'><primary>Adobe eBook Reader</primary></indexterm>
 <para>
 Consider the life of my Adobe eBook Reader.
 </para>
@@ -7721,16 +7593,9 @@ often crazy.
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.
 </para>
-<indexterm id="idxaibo1" class='startofrange'>
-  <primary>Aibo robotic dog</primary>
-</indexterm>
-<indexterm id="idxroboticdog1" class='startofrange'>
-  <primary>robotic dog</primary>
-</indexterm>
-<indexterm id="idxsonyaibo1" class='startofrange'>
-  <primary>Sony</primary>
-  <secondary>Aibo robotic dog produced by</secondary>
-</indexterm>
+<indexterm id="idxaibo1" class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
+<indexterm id="idxroboticdog1" class='startofrange'><primary>robotic dog</primary></indexterm>
+<indexterm id="idxsonyaibo1" class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 Consider the robotic dog made by Sony named <quote>Aibo.</quote> The Aibo
 learns tricks, cuddles, and follows you around. It eats only electricity
@@ -7871,16 +7736,9 @@ academic essay, unintelligible to most people. But it clearly showed the
 weakness in the SDMI system, and why SDMI would not, as presently
 constituted, succeed.
 </para>
-<indexterm id="idxaibo2" class='startofrange'>
-  <primary>Aibo robotic dog</primary>
-</indexterm>
-<indexterm id="idxroboticdog2" class='startofrange'>
-  <primary>robotic dog</primary>
-</indexterm>
-<indexterm id="idxsonyaibo2" class='startofrange'>
-  <primary>Sony</primary>
-  <secondary>Aibo robotic dog produced by</secondary>
-</indexterm>
+<indexterm id="idxaibo2" class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
+<indexterm id="idxroboticdog2" class='startofrange'><primary>robotic dog</primary></indexterm>
+<indexterm id="idxsonyaibo2" class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 What links these two, aibopet.com and Felten, is the letters they
 then received. Aibopet.com received a letter from Sony about the
@@ -7945,10 +7803,7 @@ have been a copyright violation.
 </para>
 <indexterm><primary>Aibo robotic dog</primary></indexterm>
 <indexterm><primary>robotic dog</primary></indexterm>
-<indexterm>
-  <primary>Sony</primary>
-  <secondary>Aibo robotic dog produced by</secondary>
-</indexterm>
+<indexterm><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 Aibopet.com and Felten make the point. The Aibo hack circumvented a
 copyright protection system for the purpose of enabling the dog to
@@ -7970,10 +7825,7 @@ Thus, even though he was not himself infringing anyone's copyright,
 his academic paper was enabling others to infringe others' copyright.
 </para>
 <indexterm><primary>Rogers, Fred</primary></indexterm>
-<indexterm id='idxcassettevcrs2' class='startofrange'>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm id='idxcassettevcrs2' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 The bizarreness of these arguments is captured in a cartoon drawn in
 1981 by Paul Conrad. At that time, a court in California had held that
@@ -8002,10 +7854,7 @@ but I just feel that anything that allows a person to be more active
 in the control of his or her life, in a healthy way, is
 important.<footnote><para>
 <!-- f23 -->
-<indexterm>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <citetitle>Sony Corporation of America</citetitle> v. <citetitle>Universal City Studios, Inc</citetitle>., 464 U.S. 417,
 455 fn. 27 (1984). Rogers never changed his view about the VCR. See
 James Lardner, <citetitle>Fast Forward: Hollywood, the Japanese, and the Onslaught of
@@ -8036,9 +7885,7 @@ pirating of copyrighted material&mdash;a bad end. Or they can be used
 to enable the use of particular copyrighted materials in ways that
 would be considered fair use&mdash;a good end.
 </para>
-<indexterm id='idxhandguns' class='startofrange'>
-  <primary>handguns</primary>
-</indexterm>
+<indexterm id='idxhandguns' class='startofrange'><primary>handguns</primary></indexterm>
 <para>
 A handgun can be used to shoot a police officer or a child. Most
 <!-- PAGE BREAK 171 -->
@@ -8064,10 +7911,7 @@ good, but permits guns, despite the obvious and tragic harm they do.
 <indexterm startref='idxcassettevcrs2' class='endofrange'/>
 <indexterm><primary>Aibo robotic dog</primary></indexterm>
 <indexterm><primary>robotic dog</primary></indexterm>
-<indexterm>
-  <primary>Sony</primary>
-  <secondary>Aibo robotic dog produced by</secondary>
-</indexterm>
+<indexterm><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 The Aibo and RIAA examples demonstrate how copyright owners are
 changing the balance that copyright law grants. Using code, copyright
@@ -8457,9 +8301,7 @@ is through votes that we are to choose policy. But to do that, we
 depend fundamentally upon the press to help inform Americans about
 these issues.
 </para>
-<indexterm id='idxadvertising3' class='startofrange'>
-  <primary>advertising</primary>
-</indexterm>
+<indexterm id='idxadvertising3' class='startofrange'><primary>advertising</primary></indexterm>
 <para>
 Beginning in 1998, the Office of National Drug Control Policy launched
 a media campaign as part of the <quote>war on drugs.</quote> The campaign produced
@@ -8866,15 +8708,9 @@ lawyer.
 <!-- PAGE BREAK 186 -->
 <chapter label="11" id="chimera">
 <title>CHAPTER ELEVEN: Chimera</title>
-<indexterm id="idxchimera" class='startofrange'>
-  <primary>chimeras</primary>
-</indexterm>
-<indexterm id="idxwells" class='startofrange'>
-  <primary>Wells, H. G.</primary>
-</indexterm>
-<indexterm id="idxtcotb" class='startofrange'>
-  <primary><quote>Country of the Blind, The</quote> (Wells)</primary>
-</indexterm>
+<indexterm id="idxchimera" class='startofrange'><primary>chimeras</primary></indexterm>
+<indexterm id="idxwells" class='startofrange'><primary>Wells, H. G.</primary></indexterm>
+<indexterm id="idxtcotb" class='startofrange'><primary><quote>Country of the Blind, The</quote> (Wells)</primary></indexterm>
 
 <para>
 <emphasis role='strong'>In a well-known</emphasis> short story by
@@ -9455,10 +9291,7 @@ MP3.com offered creators a venue to distribute their creativity,
 without demanding an exclusive engagement from the creators.
 </para>
 <indexterm><primary>Lovett, Lyle</primary></indexterm>
-<indexterm id='idxcdsprefdata' class='startofrange'>
-  <primary>CDs</primary>
-  <secondary>preference data on</secondary>
-</indexterm>
+<indexterm id='idxcdsprefdata' class='startofrange'><primary>CDs</primary><secondary>preference data on</secondary></indexterm>
 <para>
 To make this system work, however, MP3.com needed a reliable way to
 recommend music to its users. The idea behind this alternative was to
@@ -9500,9 +9333,7 @@ had a copy of the CD they wanted to access. So while this was 50,000
 copies, it was 50,000 copies directed at giving customers something
 they had already bought.
 </para>
-<indexterm id="idxvivendiuniversal" class='startofrange'>
-  <primary>Vivendi Universal</primary>
-</indexterm>
+<indexterm id="idxvivendiuniversal" class='startofrange'><primary>Vivendi Universal</primary></indexterm>
 <para>
 Nine days after MP3.com launched its service, the five major labels,
 headed by the RIAA, brought a lawsuit against MP3.com. MP3.com settled
@@ -9721,10 +9552,7 @@ of regulation. It is a regulation that benefits some and harms others.
 When done right, it benefits creators and harms leeches. When done
 wrong, it is regulation the powerful use to defeat competitors.
 </para>
-<indexterm>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 As I described in chapter <xref xrefstyle="select: labelnumber"
 linkend="property-i"/>, despite this feature of copyright as
@@ -9793,10 +9621,7 @@ available at
 But there is one example that captures the flavor of them all. This is
 the story of the demise of Internet radio.
 </para>
-<indexterm>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 204 -->
@@ -9894,10 +9719,7 @@ those imposed by the law. Copyright law is one such law. So the first
 question we should ask is, what copyright rules would govern Internet
 radio?
 </para>
-<indexterm id='idxartistspayments2' class='startofrange'>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm id='idxartistspayments2' class='startofrange'><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 But here the power of the lobbyists is reversed. Internet radio is a
 new industry. The recording artists, on the other hand, have a very
@@ -10044,9 +9866,7 @@ economic consequences from Internet radio that would justify these
 differences? Was the motive to protect artists against piracy?
 </para>
 <indexterm><primary>Real Networks</primary></indexterm>
-<indexterm id='idxalbenalex2' class='startofrange'>
-  <primary>Alben, Alex</primary>
-</indexterm>
+<indexterm id='idxalbenalex2' class='startofrange'><primary>Alben, Alex</primary></indexterm>
 <para>
 In a rare bit of candor, one RIAA expert admitted what seemed obvious
 to everyone at the time. As Alex Alben, vice president for Public
@@ -10068,10 +9888,7 @@ that should establish the market rate, and if you set the rate so
 high, you're going to drive the small webcasters out of
 business. &hellip;</quote>
 </para>
-<indexterm>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 And the RIAA experts said, <quote>Well, we don't really model this as an
 industry with thousands of webcasters, <emphasis>we think it should be
@@ -10280,10 +10097,7 @@ right: In a series of commercials, Apple endorsed the <quote>Rip, Mix, Burn</quo
 capacities of digital technologies.
 </para>
 <indexterm><primary>Andromeda</primary></indexterm>
-<indexterm id='idxcdsmix' class='startofrange'>
-  <primary>CDs</primary>
-  <secondary>mix technology and</secondary>
-</indexterm>
+<indexterm id='idxcdsmix' class='startofrange'><primary>CDs</primary><secondary>mix technology and</secondary></indexterm>
 <para>
 This <quote>use</quote> of my records is certainly valuable. I have begun a large
 process at home of ripping all of my and my wife's CDs, and storing
@@ -10365,9 +10179,7 @@ Valenti is charming; but not so charming as to justify giving up a
 tradition as deep and important as our tradition of free culture.
 </para>
 <indexterm><primary>Electronic Frontier Foundation</primary></indexterm>
-<indexterm id='idxisps' class='startofrange'>
-  <primary>ISPs (Internet service providers), user identities revealed by</primary>
-</indexterm>
+<indexterm id='idxisps' class='startofrange'><primary>ISPs (Internet service providers), user identities revealed by</primary></indexterm>
 <para>
 <emphasis role='strong'>There's one more</emphasis> aspect to this
 corruption that is particularly important to civil liberties, and
@@ -10587,9 +10399,7 @@ success will require.
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
-<indexterm id="idxhawthornenathaniel" class='startofrange'>
-  <primary>Hawthorne, Nathaniel</primary>
-</indexterm>
+<indexterm id="idxhawthornenathaniel" class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1995</emphasis>, a father was frustrated
 that his daughters didn't seem to like Hawthorne. No doubt there was
@@ -11143,9 +10953,7 @@ digitized, and hence will simply rot away on shelves. But the
 		consequence
 for other creative works is much more dire.
 </para>
-<indexterm id='idxageemichael' class='startofrange'>
-  <primary>Agee, Michael</primary>
-</indexterm>
+<indexterm id='idxageemichael' class='startofrange'><primary>Agee, Michael</primary></indexterm>
 <indexterm><primary>Hal Roach Studios</primary></indexterm>
 <indexterm><primary>Laurel and Hardy Films</primary></indexterm>
 <para>
@@ -11315,9 +11123,7 @@ would not have interfered with anything.
 <para>
 But this situation has now changed.
 </para>
-<indexterm id='idxarchivesdigital2' class='startofrange'>
-  <primary>archives, digital</primary>
-</indexterm>
+<indexterm id='idxarchivesdigital2' class='startofrange'><primary>archives, digital</primary></indexterm>
 <para>
 One crucially important consequence of the emergence of digital
 technologies is to enable the archive that Brewster Kahle dreams of.
@@ -11717,9 +11523,7 @@ of cases that said that an enumerated power had to be interpreted to
 assure that Congress's powers had limits.
 </para>
 <indexterm><primary>Breyer, Stephen</primary></indexterm>
-<indexterm id='idxginsburg' class='startofrange'>
-  <primary>Ginsburg, Ruth Bader</primary>
-</indexterm>
+<indexterm id='idxginsburg' class='startofrange'><primary>Ginsburg, Ruth Bader</primary></indexterm>
 <para>
 The Rest were the four Justices who had strongly opposed limits on
 Congress's power. These four&mdash;Justice Stevens, Justice Souter,
@@ -12682,15 +12486,9 @@ controlled by this dead (and often unfindable) hand of the past.
 </part>
 <chapter label="15" id="c-conclusion">
 <title>CONCLUSION</title>
-<indexterm id="idxantiretroviraldrugs" class='startofrange'>
-  <primary>antiretroviral drugs</primary>
-</indexterm>
-<indexterm id="idxhivaidstherapies" class='startofrange'>
-  <primary>HIV/AIDS therapies</primary>
-</indexterm>
-<indexterm id="idxafricahivmed" class='startofrange'>
-  <primary>Africa, medications for HIV patients in</primary>
-</indexterm>
+<indexterm id="idxantiretroviraldrugs" class='startofrange'><primary>antiretroviral drugs</primary></indexterm>
+<indexterm id="idxhivaidstherapies" class='startofrange'><primary>HIV/AIDS therapies</primary></indexterm>
+<indexterm id="idxafricahivmed" class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
 <para>
 <emphasis role='strong'>There are more</emphasis> than 35 million
 people with the AIDS virus worldwide. Twenty-five million of them live
@@ -12958,9 +12756,7 @@ noticed. Powerful lobbies, complex issues, and MTV attention spans
 produce the <quote>perfect storm</quote> for free culture.
 </para>
 <indexterm><primary>Reagan, Ronald</primary></indexterm>
-<indexterm id='idxbiomedicalresearch' class='startofrange'>
-  <primary>biomedical research</primary>
-</indexterm>
+<indexterm id='idxbiomedicalresearch' class='startofrange'><primary>biomedical research</primary></indexterm>
 <indexterm><primary>Wellcome Trust</primary></indexterm>
 <para>
 <emphasis role='strong'>In August 2003</emphasis>, a fight broke out
@@ -13047,6 +12843,7 @@ had thought it was taken for granted that WIPO could and should. And
 thus the meeting about <quote>open and collaborative projects to create
 public goods</quote> seemed perfectly appropriate within the WIPO agenda.
 </para>
+<indexterm><primary>Apple Corporation</primary></indexterm>
 <para>
 But there is one project within that list that is highly
 controversial, at least among lobbyists. That project is <quote>open source
@@ -13185,9 +12982,7 @@ property system. That is, on the contrary, just what a property system
 is supposed to be about: giving individuals the right to decide what
 to do with <emphasis>their</emphasis> property.
 </para>
-<indexterm id='idxboland' class='startofrange'>
-  <primary>Boland, Lois</primary>
-</indexterm>
+<indexterm id='idxboland' class='startofrange'><primary>Boland, Lois</primary></indexterm>
 <para>
 When Ms. Boland says that there is something wrong with a meeting
 <quote>which has as its purpose to disclaim or waive such rights,</quote> she's
@@ -13289,12 +13084,12 @@ something more than the handmaiden of the most powerful interests.
 It might be crazy to argue that we should preserve a tradition that has
 been part of our tradition for most of our history&mdash;free culture.
 </para>
-<indexterm><primary>CodePink Women in Peace</primary></indexterm>
-<indexterm><primary>Safire, William</primary></indexterm>
-<indexterm><primary>Turner, Ted</primary></indexterm>
 <para>
 If this is crazy, then let there be more crazies. Soon.
 </para>
+<indexterm><primary>CodePink Women in Peace</primary></indexterm>
+<indexterm><primary>Safire, William</primary></indexterm>
+<indexterm><primary>Turner, Ted</primary></indexterm>
 <para>
 <emphasis role='strong'>There are moments</emphasis> of hope in this
 struggle. And moments that surprise. When the FCC was considering
@@ -13523,9 +13318,7 @@ before.
 
 <section id="examples">
 <title>Rebuilding Freedoms Previously Presumed: Examples</title>
-<indexterm id='browsing' class='startofrange'>
-  <primary>browsing</primary>
-</indexterm>
+<indexterm id='browsing' class='startofrange'><primary>browsing</primary></indexterm>
 <para>
 If you step back from the battle I've been describing here, you will
 recognize this problem from other contexts. Think about
@@ -13684,9 +13477,7 @@ Finally, consider a very recent example that more directly resonates
 with the story of this book. This is the shift in the way academic and
 scientific journals are produced.
 </para>
-<indexterm id="idxacademocjournals" class='startofrange'>
-  <primary>academic journals</primary>
-</indexterm>
+<indexterm id="idxacademocjournals" class='startofrange'><primary>academic journals</primary></indexterm>
 <para>
 As digital technologies develop, it is becoming obvious to many that
 printing thousands of copies of journals every month and sending them
@@ -13765,9 +13556,7 @@ and science.
 </section>
 <section id="oneidea">
 <title>Rebuilding Free Culture: One Idea</title>
-<indexterm id="idxcc" class='startofrange'>
-  <primary>Creative Commons</primary>
-</indexterm>
+<indexterm id="idxcc" class='startofrange'><primary>Creative Commons</primary></indexterm>
 <para>
 The same strategy could be applied to culture, as a response to the
 increasing control effected through law and technology.
@@ -13849,10 +13638,7 @@ freedoms, expressed in ways so that humans without lawyers can use
 them&mdash;are needed. Creative Commons gives people a way effectively
 to begin to build those rules.
 </para>
-<indexterm id='idxbooksfreeonline2' class='startofrange'>
-  <primary>books</primary>
-  <secondary>free on-line releases of</secondary>
-</indexterm>
+<indexterm id='idxbooksfreeonline2' class='startofrange'><primary>books</primary><secondary>free on-line releases of</secondary></indexterm>
 <para>
 Why would creators participate in giving up total control? Some
 participate to better spread their content. Cory Doctorow, for
@@ -14149,10 +13935,7 @@ evolve. The best way to ensure that the system evolves is to limit the
 Copyright Office's role to that of approving standards for marking
 content that have been crafted elsewhere.
 </para>
-<indexterm>
-  <primary>CDs</primary>
-  <secondary>copyright marking of</secondary>
-</indexterm>
+<indexterm><primary>CDs</primary><secondary>copyright marking of</secondary></indexterm>
 <para>
 For example, if a recording industry association devises a method for
 marking CDs, it would propose that to the Copyright Office. The
@@ -14297,10 +14080,7 @@ a more generous copyright law than Richard Nixon presided over?
 <section id="freefairuse">
 <title>3. Free Use Vs. Fair Use</title>
 <indexterm><primary>land ownership, air traffic and</primary></indexterm>
-<indexterm>
-  <primary>property rights</primary>
-  <secondary>air traffic vs.</secondary>
-</indexterm>
+<indexterm><primary>property rights</primary><secondary>air traffic vs.</secondary></indexterm>
 <para>
 As I observed at the beginning of this book, property law originally
 granted property owners the right to control their property from the
@@ -14471,10 +14251,7 @@ content that is not copyrighted or to get access that the copyright
 owner plainly endorses.
 </para></listitem>
 </orderedlist>
-<indexterm>
-  <primary>cassette recording</primary>
-  <secondary>VCRs</secondary>
-</indexterm>
+<indexterm><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 Any reform of the law needs to keep these different uses in focus. It
 must avoid burdening type D even if it aims to eliminate type A. The
@@ -14585,14 +14362,8 @@ unavailable because the work is forgotten. Either way, the aim of the
 law should be to facilitate the access to this content, ideally in a
 way that returns something to the artist.
 </para>
-<indexterm>
-  <primary>books</primary>
-  <secondary>out of print</secondary>
-</indexterm>
-<indexterm>
-  <primary>books</primary>
-  <secondary>resales of</secondary>
-</indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
+<indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
 <para>
 Again, the model here is the used book store. Once a book goes out of
 print, it may still be available in libraries and used book
@@ -14670,10 +14441,7 @@ The idea would be a modification of a proposal that has been
 floated by Harvard law professor William Fisher.<footnote>
 <para>
 <!-- f9. -->
-<indexterm id='idxartistspayments3' class='startofrange'>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm id='idxartistspayments3' class='startofrange'><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 William Fisher, <citetitle>Digital Music: Problems and Possibilities</citetitle> (last
 revised: 10 October 2000), available at
 <ulink url="http://free-culture.cc/notes/">link #77</ulink>; William
@@ -14738,10 +14506,7 @@ system, then it can be continued. If this form of protection is no
 longer necessary, then the system could lapse into the old system of
 controlling access.
 </para>
-<indexterm>
-  <primary>artists</primary>
-  <secondary>recording industry payments to</secondary>
-</indexterm>
+<indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 Fisher would balk at the idea of allowing the system to lapse. His aim
 is not just to ensure that artists are paid, but also to ensure that
@@ -14755,7 +14520,10 @@ uses. A system that simply charges for access would not greatly burden
 semiotic democracy if there were few limitations on what one was
 allowed to do with the content itself.
 </para>
+<indexterm><primary>Apple Corporation</primary></indexterm>
+<indexterm><primary>MusicStore</primary></indexterm>
 <indexterm><primary>Real Networks</primary></indexterm>
+<indexterm><primary>CDs</primary><secondary>prices of</secondary></indexterm>
 <para>
 No doubt it would be difficult to calculate the proper measure of
 <quote>harm</quote> to an industry. But the difficulty of making that calculation
@@ -14771,8 +14539,11 @@ Real Networks, offering music at just 79 cents a song. And no doubt
 there will be a great deal of competition to offer and sell music
 on-line.
 </para>
-<indexterm><primary>Asia, commercial piracy in</primary></indexterm>
 <indexterm><primary>cable television</primary></indexterm>
+<indexterm><primary>television</primary><secondary>cable vs. broadcast</secondary></indexterm>
+<indexterm><primary>Asia, commercial piracy in</primary></indexterm>
+<indexterm><primary>piracy</primary><secondary>in Asia</secondary></indexterm>
+<indexterm><primary>film industry</primary><secondary>luxury theatres vs. video piracy in</secondary></indexterm>
 <para>
 This competition has already occurred against the background of <quote>free</quote>
 music from p2p systems. As the sellers of cable television have known
@@ -14874,6 +14645,8 @@ client. And in a world where the rich clients have one strong view,
 the unwillingness of the profession to question or counter that one
 strong view queers the law.
 </para>
+<indexterm><primary>Nimmer, Melville</primary></indexterm>
+<indexterm><primary>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</primary><secondary>Supreme Court challenge of</secondary></indexterm>
 <para>
 The evidence of this bending is compelling. I'm attacked as a
 <quote>radical</quote> by many within the profession, yet the positions that I am
