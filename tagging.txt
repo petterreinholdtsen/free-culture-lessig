@@ -75,3 +75,7 @@ Interesting links
 
   http://wepod.wordpress.com/lulu-specs/
   http://left.subtree.org/2011/04/09/wordpress-blog-to-print-book-a-case-study/
+
+Good source of indexterm locations:
+
+  http://www.jus.uio.no/sisu/src/free_culture.lawrence_lessig.sst
