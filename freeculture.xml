@@ -663,13 +663,13 @@ the United States, but the stations in large cities were all owned by
 a handful of networks.
 <!--PAGE BREAK 20-->
 </para>
+<indexterm><primary>Sarnoff, David</primary></indexterm>
 <para>
 RCA's president, David Sarnoff, a friend of Armstrong's, was eager
 that Armstrong discover a way to remove static from AM radio. So
 Sarnoff was quite excited when Armstrong told him he had a device
 that removed static from <quote>radio.</quote> But when Armstrong demonstrated
 his invention, Sarnoff was not pleased.
-<indexterm><primary>Sarnoff, David</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -803,6 +803,8 @@ old as the Republic itself. Most, if they recognized this change,
 would reject it. Yet most don't even see the change that the Internet
 has introduced.
 </para>
+<indexterm><primary>Barlow, Joel</primary></indexterm>
+<indexterm><primary>Webster, Noah</primary></indexterm>
 <para>
 We can glimpse a sense of this change by distinguishing between
 commercial and noncommercial culture, and by mapping the law's
@@ -814,8 +816,6 @@ parks or on
 street corners telling stories that kids and others consumed, that was
 noncommercial culture. When Noah Webster published his <quote>Reader,</quote> or
 Joel Barlow his poetry, that was commercial culture.
-<indexterm><primary>Barlow, Joel</primary></indexterm>
-<indexterm><primary>Webster, Noah</primary></indexterm>
 </para>
 <para>
 At the beginning of our history, and for just about the whole of our
@@ -1316,11 +1316,11 @@ Cartoons</citetitle> (New York: Penguin Books, 1987), 34&ndash;35.
 </para></footnote>
 </para>
 </blockquote>
+<indexterm><primary>Iwerks, Ub</primary></indexterm>
 <para>
 Disney's then partner, and one of animation's most extraordinary
 talents, Ub Iwerks, put it more strongly: <quote>I have never been so thrilled
 in my life. Nothing since has ever equaled it.</quote>
-<indexterm><primary>Iwerks, Ub</primary></indexterm>
 </para>
 <para>
 Disney had created something very new, based upon something relatively
@@ -1744,6 +1744,7 @@ zealous and wealthy amateurs. (There was even an American Daguerre
 Association that helped regulate the industry, as do all such
 associations, by keeping competition down so as to keep prices up.)
 </para>
+<indexterm><primary>Talbot, William</primary></indexterm>
 <para>
 Yet despite high prices, the demand for daguerreotypes was strong.
 This pushed inventors to find simpler and cheaper ways to make
@@ -1754,7 +1755,6 @@ the 1870s, dry plates were developed, making it easier to separate the
 taking of a picture from its developing. These were still plates of
 glass, and thus it was still not a process within reach of most
 amateurs.
-<indexterm><primary>Talbot, William</primary></indexterm>
 </para>
 <indexterm id="idxeastmangeorge" class='startofrange'><primary>Eastman, George</primary></indexterm>
 <para>
@@ -1769,6 +1769,7 @@ a developer, driving the costs of photography down substantially. By
 lowering the costs, Eastman expected he could dramatically broaden the
 population of photographers.
 </para>
+<indexterm><primary>Kodak Primer, The (Eastman)</primary></indexterm>
 <para>
 Eastman developed flexible, emulsion-coated paper film and placed
 rolls of it in small, simple cameras: the Kodak. The device was
@@ -1777,7 +1778,6 @@ do the rest.</quote><footnote><para>
 <!-- f1 -->
 Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: Johns Hopkins University Press, 1975), 112.
 </para></footnote> As he described in <citetitle>The Kodak Primer</citetitle>:
-<indexterm><primary>Kodak Primer, The (Eastman)</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -1980,6 +1980,7 @@ of thousands just ten years ago. And it is now feasible to imagine not
 just buses like this, but classrooms across the country where kids are
 learning more and more of something teachers call <quote>media literacy.</quote>
 </para>
+<indexterm><primary>Yanofsky, Dave</primary></indexterm>
 <para>
 <!-- PAGE BREAK 49 -->
 <quote>Media literacy,</quote> as Dave Yanofsky, the executive director of Just
@@ -1987,7 +1988,6 @@ Think!, puts it, <quote>is the ability &hellip; to understand, analyze, and
 deconstruct media images. Its aim is to make [kids] literate about the
 way media works, the way it's constructed, the way it's delivered, and
 the way people access it.</quote>
-<indexterm><primary>Yanofsky, Dave</primary></indexterm>
 </para>
 <para>
 This may seem like an odd way to think about <quote>literacy.</quote> For most
@@ -2889,6 +2889,9 @@ summer of 1909 the independent movement was in full-swing,
 with producers and theater owners using illegal equipment and
 imported film stock to create their own underground market.
 </para>
+<indexterm><primary>Fox, William</primary></indexterm>
+<indexterm><primary>General Film Company</primary></indexterm>
+<indexterm><primary>Picker, Randal C.</primary></indexterm>
 <para>
 With the country experiencing a tremendous expansion in the number of
 nickelodeons, the Patents Company reacted to the independent movement
@@ -2914,9 +2917,6 @@ Chicago Law School, James M. Olin Program in Law and Economics,
 Working Paper No. 159.
 <indexterm><primary>broadcast flag</primary></indexterm>
 </para></footnote>
-<indexterm><primary>Fox, William</primary></indexterm>
-<indexterm><primary>General Film Company</primary></indexterm>
-<indexterm><primary>Picker, Randal C.</primary></indexterm>
 </para>
 </blockquote>
 <para>
@@ -3521,6 +3521,10 @@ technology of a time, then it is wrong to take property without the
 permission of a property owner. That is exactly what <quote>property</quote> means.
 </para>
 <indexterm><primary>Asia, commercial piracy in</primary></indexterm>
+<indexterm><primary>GNU/Linux operating system</primary></indexterm>
+<indexterm><primary>Linux operating system</primary></indexterm>
+<indexterm><primary>Microsoft</primary><secondary>Windows operating system of</secondary></indexterm>
+<indexterm><primary>Windows</primary></indexterm>
 <para>
 Finally, we could try to excuse this piracy with the argument that the
 piracy actually helps the copyright owner. When the Chinese <quote>steal</quote>
@@ -3533,10 +3537,6 @@ Microsoft, Microsoft benefits from the piracy. If instead of pirating
 Microsoft Windows, the Chinese used the free GNU/Linux operating
 system, then these Chinese users would not eventually be buying
 Microsoft.  Without piracy, then, Microsoft would lose.
-<indexterm><primary>GNU/Linux operating system</primary></indexterm>
-<indexterm><primary>Linux operating system</primary></indexterm>
-<indexterm><primary>Microsoft</primary><secondary>Windows operating system of</secondary></indexterm>
-<indexterm><primary>Windows</primary></indexterm>
 </para>
 <para>
 This argument, too, is somewhat true. The addiction strategy is a good
@@ -3546,6 +3546,10 @@ databases. The companies marketing both hope the students will become
 so used to their service that they will want to use it and not the
 other when they become lawyers (and must pay high subscription fees).
 </para>
+<indexterm><primary>GNU/Linux operating system</primary></indexterm>
+<indexterm><primary>Internet Explorer</primary></indexterm>
+<indexterm><primary>Netscape</primary></indexterm>
+<indexterm><primary>Linux operating system</primary></indexterm>
 <para>
 Still, the argument is not terribly persuasive. We don't give the
 alcoholic a defense when he steals his first beer, merely because that
@@ -3558,10 +3562,6 @@ means giving the property owner the right to say who gets access to
 what&mdash;at least ordinarily. And if the law properly balances the
 rights of the copyright owner with the rights of access, then
 violating the law is still wrong.
-<indexterm><primary>GNU/Linux operating system</primary></indexterm>
-<indexterm><primary>Internet Explorer</primary></indexterm>
-<indexterm><primary>Netscape</primary></indexterm>
-<indexterm><primary>Linux operating system</primary></indexterm>
 </para>
 <para>
 <!-- PAGE BREAK 79 -->
@@ -3616,6 +3616,7 @@ law should seek to either prevent it or find an alternative to assure the
 author of his profit.
 </para>
 <indexterm><primary>innovation</primary></indexterm>
+<indexterm><primary>Fanning, Shawn</primary></indexterm>
 <para>
 Peer-to-peer sharing was made famous by Napster. But the inventors of
 the Napster technology had not made any major technological
@@ -3635,7 +3636,6 @@ Christensen's ideas, see Lawrence Lessig, <citetitle>Future</citetitle>, 89&ndas
 <indexterm><primary>Christensen, Clayton M.</primary></indexterm>
 </para></footnote>), Shawn Fanning and crew had simply
 put together components that had been developed independently.
-<indexterm><primary>Fanning, Shawn</primary></indexterm>
 </para>
 <para>
 The result was spontaneous combustion. Launched in July 1999,
@@ -3697,7 +3697,9 @@ File sharers share different kinds of content. We can divide these
 different kinds into four types.
 </para>
 <orderedlist numeration="upperalpha">
-<listitem><para>
+<listitem>
+<indexterm><primary>Madonna</primary></indexterm>
+<para>
 <!-- A. -->
 There are some who use sharing networks as substitutes for purchasing
 content. Thus, when a new Madonna CD is released, rather than buying
@@ -3706,7 +3708,6 @@ everyone who takes it would actually have bought it if sharing didn't
 make it available for free. Most probably wouldn't have, but clearly
 there are some who would.  The latter are the target of category A:
 users who download instead of purchasing.
-<indexterm><primary>Madonna</primary></indexterm>
 </para></listitem>
 <listitem><para>
 <!-- B. -->
@@ -4534,6 +4535,7 @@ As Siva Vaidhyanathan nicely argues, it is erroneous to call this a
 free in 1731. So why was there any issue about it still being under
 Tonson's control in 1774?
 </para>
+<indexterm><primary>Licensing Act (1662)</primary></indexterm>
 <para>
 The reason is that the English hadn't yet agreed on what a <quote>copyright</quote>
 was&mdash;indeed, no one had. At the time the English passed the
@@ -4544,7 +4546,6 @@ as a way to make it easier for the Crown to control what was
 published.  But after it expired, there was no positive law that said
 that the publishers, or <quote>Stationers,</quote> had an exclusive right to print
 books.
-<indexterm><primary>Licensing Act (1662)</primary></indexterm>
 </para>
 <para>
 There was no <emphasis>positive</emphasis> law, but that didn't mean
@@ -4767,6 +4768,8 @@ For a compelling account, see David Saunders, <citetitle>Authorship and Copyrigh
 (London: Routledge, 1992), 62&ndash;69.
 </para></footnote>
 </para>
+<indexterm><primary>Boswell, James</primary></indexterm>
+<indexterm><primary>Erskine, Andrew</primary></indexterm>
 <para>
 Donaldson was an outsider to the London Conger. He began his
 career in Edinburgh in 1750. The focus of his business was inexpensive
@@ -4786,8 +4789,6 @@ of contemporary Scottish poems with Donaldson.</quote><footnote><para>
 <!-- f9 -->
 Ibid., 93.
 </para></footnote>
-<indexterm><primary>Boswell, James</primary></indexterm>
-<indexterm><primary>Erskine, Andrew</primary></indexterm>
 </para>
 <para>
 When the London booksellers tried to shut down Donaldson's shop in
@@ -5016,21 +5017,21 @@ For of course, those few seconds are copyrighted; and of course, to use
 copyrighted material you need the permission of the copyright owner,
 unless <quote>fair use</quote> or some other privilege applies.
 </para>
+<indexterm><primary>Gracie Films</primary></indexterm>
 <para>
 Else called <citetitle>Simpsons</citetitle> creator Matt Groening's office to get permission.
 Groening approved the shot. The shot was a four-and-a-halfsecond image
 on a tiny television set in the corner of the room. How could it hurt?
 Groening was happy to have it in the film, but he told Else to contact
 Gracie Films, the company that produces the program.
-<indexterm><primary>Gracie Films</primary></indexterm>
 </para>
+<indexterm><primary>Gracie Films</primary></indexterm>
 <para>
 Gracie Films was okay with it, too, but they, like Groening, wanted
 to be careful. So they told Else to contact Fox, Gracie's parent company.
 Else called Fox and told them about the clip in the corner of the one
 room shot of the film. Matt Groening had already given permission,
 Else said. He was just confirming the permission with Fox.
-<indexterm><primary>Gracie Films</primary></indexterm>
 </para>
 <para>
 Then, as Else told me, <quote>two things happened. First we discovered
@@ -5061,6 +5062,8 @@ if you quote me, I'll turn you over to our attorneys.</quote> As an assistant
 to Herrera told Else later on, <quote>They don't give a shit. They just want
 the money.</quote>
 </para>
+<indexterm><primary>San Francisco Opera</primary></indexterm>
+<indexterm><primary>Day After Trinity, The</primary></indexterm>
 <para>
 Else didn't have the money to buy the right to replay what was playing
 on the television backstage at the San Francisco Opera. To reproduce
@@ -5068,8 +5071,6 @@ this reality was beyond the documentary filmmaker's budget. At the
 very last minute before the film was to be released, Else digitally
 replaced the shot with a clip from another film that he had worked on,
 <citetitle>The Day After Trinity</citetitle>, from ten years before.
-<indexterm><primary>San Francisco Opera</primary></indexterm>
-<indexterm><primary>Day After Trinity, The</primary></indexterm>
 </para>
 <para>
 There's no doubt that someone, whether Matt Groening or Fox, owns the
@@ -5129,6 +5130,7 @@ shot in the film. They take a dim view of <quote>fair use,</quote> and a claim o
 </para></listitem>
 <listitem>
 <indexterm><primary><citetitle>Star Wars</citetitle></primary></indexterm>
+<indexterm><primary>Lucas, George</primary></indexterm>
 <para>
 <!-- 2. -->
 I probably never should have asked Matt Groening in the first
@@ -5140,7 +5142,6 @@ license to four seconds of <citetitle>Simpsons</citetitle>. As a documentary pro
 to exhaustion on a shoestring, the last thing I wanted was to risk
 legal trouble, even nuisance legal trouble, and even to defend a
 principle.
-<indexterm><primary>Lucas, George</primary></indexterm>
 </para></listitem>
 <listitem><para>
 <!-- 3. -->
@@ -5910,6 +5911,13 @@ Kennedy has Valenti in the background. In his almost forty years of
 running the MPAA, Valenti has established himself as perhaps the most
 prominent and effective lobbyist in Washington.
 </para>
+<indexterm><primary>Disney, Inc.</primary></indexterm>
+<indexterm><primary>Sony Pictures Entertainment</primary></indexterm>
+<indexterm><primary>MGM</primary></indexterm>
+<indexterm><primary>Paramount Pictures</primary></indexterm>
+<indexterm><primary>Twentieth Century Fox</primary></indexterm>
+<indexterm><primary>Universal Pictures</primary></indexterm>
+<indexterm><primary>Warner Brothers</primary></indexterm>
 <para>
 The MPAA is the American branch of the international Motion Picture
 Association. It was formed in 1922 as a trade association whose goal
@@ -5921,13 +5929,6 @@ producers and distributors of motion picture and television programs
 in the United States: Walt Disney, Sony Pictures Entertainment, MGM,
 Paramount Pictures, Twentieth Century Fox, Universal Studios, and
 Warner Brothers.
-<indexterm><primary>Disney, Inc.</primary></indexterm>
-<indexterm><primary>Sony Pictures Entertainment</primary></indexterm>
-<indexterm><primary>MGM</primary></indexterm>
-<indexterm><primary>Paramount Pictures</primary></indexterm>
-<indexterm><primary>Twentieth Century Fox</primary></indexterm>
-<indexterm><primary>Universal Pictures</primary></indexterm>
-<indexterm><primary>Warner Brothers</primary></indexterm>
 </para>
 <para>
 <!-- PAGE BREAK 128 -->
@@ -6488,13 +6489,13 @@ effect of the changes the content industry wants.
 Here's the metaphor that will capture the argument to follow.
 </para>
 <indexterm id="idxddt" class='startofrange'><primary>DDT</primary></indexterm>
+<indexterm><primary>Müller, Paul Hermann</primary></indexterm>
 <para>
 In 1873, the chemical DDT was first synthesized. In 1948, Swiss
 chemist Paul Hermann Müller won the Nobel Prize for his work
 demonstrating the insecticidal properties of DDT. By the 1950s, the
 insecticide was widely used around the world to kill disease-carrying
 pests. It was also used to increase farm production.
-<indexterm><primary>Müller, Paul Hermann</primary></indexterm>
 </para>
 <para>
 No one doubts that killing disease-carrying pests or increasing crop
@@ -7439,11 +7440,11 @@ print ten pages from the book every ten days. Lastly, I have the
 permission to use the Read Aloud button to hear <citetitle>Middlemarch</citetitle>
 read aloud through the computer.
 </para>
+<indexterm><primary>Aristotle</primary></indexterm>
+<indexterm><primary><citetitle>Politics</citetitle>, (Aristotle)</primary></indexterm>
 <para>
 Here's the e-book for another work in the public domain (including the
 translation): Aristotle's <citetitle>Politics</citetitle>.
-<indexterm><primary>Aristotle</primary></indexterm>
-<indexterm><primary><citetitle>Politics</citetitle>, (Aristotle)</primary></indexterm>
 </para>
 <figure id="fig-1621">
 <title>E-book of Aristotle;s <quote>Politics</quote></title>
@@ -7510,13 +7511,13 @@ aloud&mdash;it's not that the company will sue you if you do; instead,
 if you push the Read Aloud button with my book, the machine simply
 won't read aloud.
 </para>
+<indexterm><primary>Marx Brothers</primary></indexterm>
 <para>
 <!-- PAGE BREAK 163 -->
 These are <emphasis>controls</emphasis>, not permissions. Imagine a
 world where the Marx Brothers sold word processing software that, when
 you tried to type <quote>Warner Brothers,</quote> erased <quote>Brothers</quote> from the
 sentence.
-<indexterm><primary>Marx Brothers</primary></indexterm>
 </para>
 <para>
 This is the future of copyright law: not so much copyright
@@ -7538,6 +7539,7 @@ to defeat these protections as well?
 We've only scratched the surface of this story. Return to the Adobe
 eBook Reader.
 </para>
+<indexterm><primary>Alice's Adventures in Wonderland (Carroll)</primary></indexterm>
 <para>
 Early in the life of the Adobe eBook Reader, Adobe suffered a public
 relations nightmare. Among the books that you could download for free
@@ -7545,7 +7547,6 @@ on the Adobe site was a copy of <citetitle>Alice's Adventures in
 Wonderland</citetitle>.  This wonderful book is in the public
 domain. Yet when you clicked on Permissions for that book, you got the
 following report:
-<indexterm><primary>Alice's Adventures in Wonderland (Carroll)</primary></indexterm>
 </para>
 <figure id="fig-1641">
 <title>List of the permissions for <quote>Alice's Adventures in
@@ -8027,6 +8028,11 @@ These changes are of two sorts: the scope of concentration, and its
 nature.
 </para>
 <indexterm><primary>cable television</primary></indexterm>
+<indexterm><primary>BMG</primary></indexterm>
+<indexterm><primary>EMI</primary></indexterm>
+<indexterm><primary>McCain, John</primary></indexterm>
+<indexterm><primary>Universal Music Group</primary></indexterm>
+<indexterm><primary>Warner Music Group</primary></indexterm>
 <para>
 Changes in scope are the easier ones to describe. As Senator John
 McCain summarized the data produced in the FCC's review of media
@@ -8048,11 +8054,6 @@ programming to 74 percent of the cable subscribers nationwide.</quote><footnote>
 Molly Ivins, <quote>Media Consolidation Must Be Stopped,</quote> <citetitle>Charleston Gazette</citetitle>,
 31 May 2003.
 </para></footnote>
-<indexterm><primary>BMG</primary></indexterm>
-<indexterm><primary>EMI</primary></indexterm>
-<indexterm><primary>McCain, John</primary></indexterm>
-<indexterm><primary>Universal Music Group</primary></indexterm>
-<indexterm><primary>Warner Music Group</primary></indexterm>
 </para>
 <para>
 The story with radio is even more dramatic. Before deregulation,
@@ -8200,12 +8201,12 @@ find that he had the choice either to make the show less edgy or to be
 fired: The content of any show developed for a network is increasingly
 owned by the network.
 </para>
+<indexterm><primary>Diller, Barry</primary></indexterm>
+<indexterm><primary>Moyers, Bill</primary></indexterm>
 <para>
 While the number of channels has increased dramatically, the ownership
 of those channels has narrowed to an ever smaller and smaller few. As
 Barry Diller said to Bill Moyers,
-<indexterm><primary>Diller, Barry</primary></indexterm>
-<indexterm><primary>Moyers, Bill</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -9073,6 +9074,7 @@ on remote topics of science or culture. There is a vast amount of creative
 work spread across the Internet. But as the law is currently crafted, this
 work is presumptively illegal.
 </para>
+<indexterm><primary>Worldcom</primary></indexterm>
 <para>
 That presumption will increasingly chill creativity, as the
 examples of extreme penalties for vague infringements continue to
@@ -9112,7 +9114,6 @@ recent months.
 Can common sense recognize the absurdity in a world where
 the maximum fine for downloading two songs off the Internet is more
 than the fine for a doctor's negligently butchering a patient?
-<indexterm><primary>Worldcom</primary></indexterm>
 </para>
 <indexterm><primary>art, underground</primary></indexterm>
 <para>
@@ -9528,6 +9529,7 @@ and costs on
 the technology, but will likely be eclipsed by advances around exactly
 those requirements.
 </para>
+<indexterm><primary>Intel</primary></indexterm>
 <para>
 In March 2002, a broad coalition of technology companies, led by
 Intel, tried to get Congress to see the harm that such legislation
@@ -9539,7 +9541,6 @@ February 2002 (Entertainment).
 Their argument was obviously not that copyright should not be
 protected. Instead, they argued, any protection should not do more
 harm than good.
-<indexterm><primary>Intel</primary></indexterm>
 </para>
 <para>
 <emphasis role='strong'>There is one</emphasis> more obvious way in
@@ -9623,6 +9624,7 @@ But there is one example that captures the flavor of them all. This is
 the story of the demise of Internet radio.
 </para>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
+<indexterm><primary>Kennedy, John F.</primary></indexterm>
 <para>
 
 <!-- PAGE BREAK 204 -->
@@ -9635,7 +9637,6 @@ performance before President Kennedy at Madison Square Garden&mdash;
 then whenever that recording was played on the radio, the current
 copyright owners of <quote>Happy Birthday</quote> would get some money, whereas
 Marilyn Monroe would not.
-<indexterm><primary>Kennedy, John F.</primary></indexterm>
 </para>
 <para>
 The reasoning behind this balance struck by Congress makes some
@@ -9972,6 +9973,7 @@ is an embarrassment to our tradition. And the consequence of our law
 as it is, is that those with the power can use the law to quash any rights
 they oppose.
 </para>
+<indexterm><primary>alcohol prohibition</primary></indexterm>
 <para>
 Wars of prohibition are nothing new in America. This one is just
 something more extreme than anything we've seen before. We
@@ -10008,8 +10010,8 @@ compliance literature).
 We pride ourselves on our <quote>free society,</quote> but an endless array of
 ordinary behavior is regulated within our society. And as a result, a
 huge proportion of Americans regularly violate at least some law.
-<indexterm><primary>alcohol prohibition</primary></indexterm>
 </para>
+<indexterm><primary>law schools</primary></indexterm>
 <para>
 This state of affairs is not without consequence. It is a particularly
 salient issue for teachers like me, whose job it is to teach law
@@ -10026,7 +10028,6 @@ Americans&mdash;more significantly in some parts of America than in
 others, but still, everywhere in America today&mdash;can't live their
 lives both normally and legally, since <quote>normally</quote> entails a certain
 degree of illegality.
-<indexterm><primary>law schools</primary></indexterm>
 </para>
 <para>
 The response to this general illegality is either to enforce the law
@@ -10190,10 +10191,10 @@ Foundation attorney Fred von Lohmann describes, this is the
 a very large percentage of the population into criminals.</quote> This
 is the collateral damage to civil liberties generally.
 </para>
+<indexterm><primary>von Lohmann, Fred</primary></indexterm>
 <para>
 <quote>If you can treat someone as a putative lawbreaker,</quote> von Lohmann
 explains,
-<indexterm><primary>von Lohmann, Fred</primary></indexterm>
 </para>
 <blockquote>
 <para>
@@ -10541,6 +10542,7 @@ specific&mdash;to <quote>promote &hellip; Progress</quote>&mdash;through means t
 are also specific&mdash; by <quote>securing</quote> <quote>exclusive Rights</quote> (i.e.,
 copyrights) <quote>for limited Times.</quote>
 </para>
+<indexterm><primary>Jaszi, Peter</primary></indexterm>
 <para>
 In the past forty years, Congress has gotten into the practice of
 extending existing terms of copyright protection. What puzzled me
@@ -10551,7 +10553,6 @@ no practical effect. If every time a copyright is about to expire,
 Congress has the power to extend its term, then Congress can achieve
 what the Constitution plainly forbids&mdash;perpetual terms <quote>on the
 installment plan,</quote> as Professor Peter Jaszi so nicely put it.
-<indexterm><primary>Jaszi, Peter</primary></indexterm>
 </para>
 <para>
 As an academic, my first response was to hit the books. I remember
@@ -10810,6 +10811,7 @@ get another twenty-year dollop of monopoly. That twenty-year dollop
 would be taken from the public domain. Eric Eldred was fighting a
 piracy that affects us all.
 </para>
+<indexterm><primary>Nashville Songwriters Association</primary></indexterm>
 <para>
 Some people view the public domain with contempt. In their brief
 
@@ -10825,7 +10827,6 @@ But it is not piracy when the law allows it; and in our constitutional
 system, our law requires it. Some may not like the Constitution's
 requirements, but that doesn't make the Constitution a pirate's
 charter.
-<indexterm><primary>Nashville Songwriters Association</primary></indexterm>
 </para>
 <para>
 As we've seen, our constitutional system requires limits on 
@@ -10957,6 +10958,7 @@ for other creative works is much more dire.
 <indexterm id='idxageemichael' class='startofrange'><primary>Agee, Michael</primary></indexterm>
 <indexterm><primary>Hal Roach Studios</primary></indexterm>
 <indexterm><primary>Laurel and Hardy Films</primary></indexterm>
+<indexterm><primary>Lucky Dog, The</primary></indexterm>
 <para>
 Consider the story of Michael Agee, chairman of Hal Roach Studios,
 which owns the copyrights for the Laurel and Hardy films. Agee is a
@@ -10974,8 +10976,6 @@ See David G. Savage, <quote>High Court Scene of Showdown on Copyright Law,</quot
 Songs, Books at Stake; Supreme Court Hears Arguments Today on Striking
 Down Copyright Extension,</quote> <citetitle>Orlando Sentinel Tribune</citetitle>, 9 October 2002.
 </para></footnote>
-
-<indexterm><primary>Lucky Dog, The</primary></indexterm>
 </para>
 <para>
 Yet Agee opposed the CTEA. His reasons demonstrate a rare virtue in
@@ -11342,6 +11342,8 @@ the widest range of credible critics&mdash;credible not because they
 were rich and famous, but because they, in the aggregate, demonstrated
 that this law was unconstitutional regardless of one's politics.
 </para>
+<indexterm><primary>Eagle Forum</primary></indexterm>
+<indexterm><primary>Schlafly, Phyllis</primary></indexterm>
 <para>
 The first step happened all by itself. Phyllis Schlafly's
 organization, Eagle Forum, had been an opponent of the CTEA from the
@@ -11355,8 +11357,6 @@ to get bogged down?</quote>  The answer, as the editorial documented, was the
 power of money.  Schlafly enumerated Disney's contributions to the key
 players on the committees. It was money, not justice, that gave Mickey
 Mouse twenty more years in Disney's control, Schlafly argued.
-<indexterm><primary>Eagle Forum</primary></indexterm>
-<indexterm><primary>Schlafly, Phyllis</primary></indexterm>
 </para>
 <para>
 In the Court of Appeals, Eagle Forum was eager to file a brief
@@ -11366,6 +11366,10 @@ existing copyrights, there is no limit to Congress's power to set
 terms.  That strong conservative argument persuaded a strong
 conservative judge, Judge Sentelle.
 </para>
+<indexterm><primary>GNU/Linux operating system</primary></indexterm>
+<indexterm><primary>Intel</primary></indexterm>
+<indexterm><primary>Linux operating system</primary></indexterm>
+<indexterm><primary>Eagle Forum</primary></indexterm>
 <para>
 In the Supreme Court, the briefs on our side were about as diverse as
 it gets. They included an extraordinary historical brief by the Free
@@ -11378,18 +11382,14 @@ copyright scholars and one by First Amendment scholars. There was an
 exhaustive and uncontroverted brief by the world's experts in the
 history of the Progress Clause. And of course, there was a new brief
 by Eagle Forum, repeating and strengthening its arguments.
-<indexterm><primary>GNU/Linux operating system</primary></indexterm>
-<indexterm><primary>Intel</primary></indexterm>
-<indexterm><primary>Linux operating system</primary></indexterm>
-<indexterm><primary>Eagle Forum</primary></indexterm>
 </para>
+<indexterm><primary>American Association of Law Libraries</primary></indexterm>
+<indexterm><primary>National Writers Union</primary></indexterm>
 <para>
 Those briefs framed a legal argument. Then to support the legal
 argument, there were a number of powerful briefs by libraries and
 archives, including the Internet Archive, the American Association of
 Law Libraries, and the National Writers Union.
-<indexterm><primary>American Association of Law Libraries</primary></indexterm>
-<indexterm><primary>National Writers Union</primary></indexterm>
 </para>
 <indexterm><primary>Hal Roach Studios</primary></indexterm>
 <para>

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-20 23:03+0300\n"
+"POT-Creation-Date: 2012-08-22 07:09+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1015,14 +1015,13 @@ msgid ""
 "Armstrong discover a way to remove static from AM radio. So Sarnoff was "
 "quite excited when Armstrong told him he had a device that removed static "
 "from <quote>radio.</quote> But when Armstrong demonstrated his invention, "
-"Sarnoff was not pleased.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"Sarnoff was not pleased."
 msgstr ""
 "Presidenten i RCA, David Sarnoff, en venn av Armstrong, var ivrig etter å få "
 "Armstrong til å oppdage en måte å fjerne støyen fra AM-radio. Så Sarnoff var "
 "ganske spent da Armstrong fortalte ham at han hadde en enhet som fjernet "
 "støy fra <quote>radio.</quote>.   Men da Armstrong demonstrerte sin "
-"oppfinnelse, var ikke Sarnoff fornøyd.  <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"oppfinnelse, var ikke Sarnoff fornøyd."
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid ""
@@ -1269,14 +1268,15 @@ msgstr ""
 "Men de fleste legger ikke engang merke til denne endringen som internettet "
 "har introdusert."
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Barlow, Joel"
 msgstr "Barlow, Joel"
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Webster, Noah"
 msgstr "Webster, Noah"
 
+#.  PAGE BREAK 23
 #. type: Content of: <book><chapter><para>
 msgid ""
 "We can glimpse a sense of this change by distinguishing between commercial "
@@ -1286,8 +1286,7 @@ msgid ""
 "quote> I mean all the rest. When old men sat around parks or on street "
 "corners telling stories that kids and others consumed, that was "
 "noncommercial culture. When Noah Webster published his <quote>Reader,</"
-"quote> or Joel Barlow his poetry, that was commercial culture.  <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"quote> or Joel Barlow his poetry, that was commercial culture."
 msgstr ""
 "Vi kan få en følelse av denne endringen ved å skille mellom kommersiell og "
 "ikke-kommersiell kultur, ved å knytte lovens reguleringer til hver av dem.  "
@@ -1297,8 +1296,7 @@ msgstr ""
 "i parker eller på gatehjørner og fortalte historier som unger og andre "
 "lyttet til, så var det ikke-kommersiell kultur.  Da Noah Webster publiserte "
 "sin <quote>Reader</quote>, eller Joel Barlow sin poesi, så var det "
-"kommersiell kultur.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
-"type=\"indexterm\" id=\"1\"/>"
+"kommersiell kultur."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -2278,7 +2276,7 @@ msgstr ""
 "var grufullt, men det var fantastisk.  Og det var noe nytt!<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Iwerks, Ub"
 msgstr "Iwerks, Ub"
 
@@ -2286,13 +2284,12 @@ msgstr "Iwerks, Ub"
 msgid ""
 "Disney's then partner, and one of animation's most extraordinary talents, Ub "
 "Iwerks, put it more strongly: <quote>I have never been so thrilled in my "
-"life. Nothing since has ever equaled it.</quote> <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"life. Nothing since has ever equaled it.</quote>"
 msgstr ""
 "Disneys daværende partner, og en av animasjonsverdenens mest ekstraordinære "
 "talenter, Ub Iwerks, uttalte det sterkere: <quote>Jeg har aldri vært så "
 "begeistret i hele mitt liv. Ingenting annet har noen sinne vært like bra.</"
-"quote> <placeholder type=\"indexterm\" id=\"0\"/>"
+"quote>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3121,7 +3118,7 @@ msgstr ""
 "Daguerre-forening som hjalp til med å regulere industrien, slik alle slike "
 "foreninger gjør, ved å holde konkurransen ned slik at prisene var høye.)"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Talbot, William"
 msgstr "Talbot, William"
 
@@ -3134,8 +3131,7 @@ msgid ""
 "be kept wet, the process still remained expensive and cumbersome. In the "
 "1870s, dry plates were developed, making it easier to separate the taking of "
 "a picture from its developing. These were still plates of glass, and thus it "
-"was still not a process within reach of most amateurs.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"was still not a process within reach of most amateurs."
 msgstr ""
 "Men til tross for høye priser var etterspørselen etter daguerreotyper "
 "sterk.  Dette inspirerte oppfinnere til å finne enklere og billigere måter å "
@@ -3145,7 +3141,7 @@ msgstr ""
 "tallet ble tørrplater utviklet, noe som gjorde det enklere å skille det å ta "
 "et bilde fra å fremkalle det.  Det var fortsatt plater av glass, og dermed "
 "var det fortsatt ikke en prosess som var innenfor rekkevidden til de fleste "
-"amatører. <placeholder type=\"indexterm\" id=\"0\"/>"
+"amatører."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eastman, George"
@@ -3172,6 +3168,10 @@ msgstr ""
 "vesentlig.  Ved å redusere kostnadene, forventet Eastman at han dramatisk "
 "kunne utvide andelen fotografer."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Kodak Primer, The (Eastman)"
+msgstr ""
+
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -3181,25 +3181,19 @@ msgstr ""
 "Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: "
 "Johns Hopkins University Press, 1975), 112."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Kodak Primer, The (Eastman)"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Eastman developed flexible, emulsion-coated paper film and placed rolls of "
 "it in small, simple cameras: the Kodak. The device was marketed on the basis "
 "of its simplicity. <quote>You press the button and we do the rest.</"
 "quote><placeholder type=\"footnote\" id=\"0\"/> As he described in "
-"<citetitle>The Kodak Primer</citetitle>: <placeholder type=\"indexterm\" id="
-"\"1\"/>"
+"<citetitle>The Kodak Primer</citetitle>:"
 msgstr ""
 "Eastman utviklet bøyelig, emulsjons-belagt papirfilm og plasserte ruller med "
 "dette i små, enkle kameraer: Kodaken.  Enheten ble markedsfør med grunnlag "
 "dens enkelhet. <quote>Du trykker på knappen og vi fikser resten.</"
 "quote><placeholder type=\"footnote\" id=\"0\"/> Som han beskrev det i "
-"<citetitle>The Kodak Primer</citetitle>: <placeholder type=\"indexterm\" id="
-"\"1\"/>"
+"<citetitle>The Kodak Primer</citetitle>:"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coe, Brian"
@@ -3573,24 +3567,24 @@ msgstr ""
 "og mer av det lærerne kaller <quote>medie-skriveføre</quote> eller "
 "<quote>mediekompetanse</quote>."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Yanofsky, Dave"
 msgstr "Yanofsky, Dave"
 
+#.  PAGE BREAK 49
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "<quote>Media literacy,</quote> as Dave Yanofsky, the executive director of "
 "Just Think!, puts it, <quote>is the ability &hellip; to understand, analyze, "
 "and deconstruct media images. Its aim is to make [kids] literate about the "
 "way media works, the way it's constructed, the way it's delivered, and the "
-"way people access it.</quote> <placeholder type=\"indexterm\" id=\"0\"/>"
+"way people access it.</quote>"
 msgstr ""
 "<quote>Media-skriveføre,</quote> eller <quote>mediekompetanse</quote> som "
 "administrerende direktør Dave Yanofsky i Just Think!, sier det, <quote>er "
 "evnen til &hellip; å forstå, analysere og dekonstruere mediebilder. Dets mål "
 "er å gjøre [unger] i stand til å forstå hvordan mediene fungerer, hvordan de "
-"er konstruert, hvordan de blir levert, og hvordan folk bruker dem</quote>. "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"er konstruert, hvordan de blir levert, og hvordan folk bruker dem</quote>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5340,6 +5334,18 @@ msgstr ""
 "som brukte ulovlig utstyr og importerte filmlager for å opprette sitt eget "
 "undergrunnsmarked."
 
+#. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
+msgid "Fox, William"
+msgstr "Fox, William"
+
+#. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
+msgid "General Film Company"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Picker, Randal C."
+msgstr "Picker, Randal C."
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "broadcast flag"
 msgstr "kringkastingsflagg"
@@ -5370,18 +5376,6 @@ msgstr ""
 "Chicago Law School, James M. Olin Program in Law and Economics, Working "
 "Paper No.  159.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
-msgid "Fox, William"
-msgstr "Fox, William"
-
-#. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
-msgid "General Film Company"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-msgid "Picker, Randal C."
-msgstr "Picker, Randal C."
-
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
 "With the country experiencing a tremendous expansion in the number of "
@@ -5393,9 +5387,7 @@ msgid ""
 "effectively monopolized distribution with the acquisition of all U.S. film "
 "exchanges, except for the one owned by the independent William Fox who "
 "defied the Trust even after his license was revoked.<placeholder type="
-"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/>"
+"\"footnote\" id=\"0\"/>"
 msgstr ""
 "Med et land som så en kolosal økning i antall billige kinoer, såkalte "
 "nickelodeons, reagerte patentselskapet på bevegelsen av uavhengige med å "
@@ -5406,9 +5398,7 @@ msgstr ""
 "monopoliserte distribusjon ved å kjøpe opp alle USAs filmsentraler, med "
 "unntak av den ene som var eid av den uavhengige William Fox som motsto "
 "kartellet selv etter at hans lisens var trukket tilbake.<placeholder type="
-"\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/>"
+"\"footnote\" id=\"0\"/>"
 
 #.  f3
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6528,20 +6518,18 @@ msgid ""
 msgstr ""
 "Dette er ofte riktig (selv om jeg har venner som har kjøpt flere tusen "
 "piratkopierte DVDer og som helt klart har nok penger til å betale for "
-"innholdet de har tatt), og det begrenser til en hvis grad skaden "
-"forårsaket av å ta på denne måten.  Ekstremister i denne debatten "
-"elsker å si, <quote>Du ville ikke gå inn på Barnes &amp; Noble og ta "
-"en bok fra hyllen der uten å betale.  Hvorfor skulle det være noe "
-"annerledes med musikk på nettet?</quote> Forskjellen er, naturligvis, "
-"at når du tar en bok fra Barnes &amp; Noble så er det en mindre bok "
-"som kan selges.  Dette er forskjellig fra når du tar en MP3 fra et "
-"datanettverk, der det ikke blir en mindre CD som kan selges.  Fysikken "
-"til røving av det uhåndgripelige er forskjellig fra fysikken til "
-"røving av det håndgripelige."
+"innholdet de har tatt), og det begrenser til en hvis grad skaden forårsaket "
+"av å ta på denne måten.  Ekstremister i denne debatten elsker å si, "
+"<quote>Du ville ikke gå inn på Barnes &amp; Noble og ta en bok fra hyllen "
+"der uten å betale.  Hvorfor skulle det være noe annerledes med musikk på "
+"nettet?</quote> Forskjellen er, naturligvis, at når du tar en bok fra Barnes "
+"&amp; Noble så er det en mindre bok som kan selges.  Dette er forskjellig "
+"fra når du tar en MP3 fra et datanettverk, der det ikke blir en mindre CD "
+"som kan selges.  Fysikken til røving av det uhåndgripelige er forskjellig "
+"fra fysikken til røving av det håndgripelige."
 
 #.  PAGE BREAK 78
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This argument is still very weak. However, although copyright is a property "
 "right of a very special sort, it <emphasis>is</emphasis> a property right. "
@@ -6557,18 +6545,20 @@ msgid ""
 "then it is wrong to take property without the permission of a property "
 "owner. That is exactly what <quote>property</quote> means."
 msgstr ""
-"Dette argumentet er fortsatt veldig svak. men selv om opphavsrett er en "
-"egenskap høyre i en veldig spesiell sortering, er det en egenskap som er "
-"rett. som alle rettigheter gir copyright eieren retten til å avgjøre "
-"vilkårene som innholdet deles. Hvis eieren av opphavsretten ikke ønsker å "
-"selge, har hun ikke til. Det finnes unntak: viktig lovbestemte lisenser som "
-"gjelder opphavsrettsbeskyttet innhold uansett ønske fra eieren av "
-"opphavsretten. disse lisensene gi folk til å \"ta\" opphavsrettsbeskyttet "
-"innhold om eieren av opphavsretten ønsker å selge. men hvor loven ikke gir "
-"folk til å ta innhold, det er galt å ta innholdet selv om feil does nei "
-"skade. Hvis vi har et system eiendom, og at systemet er skikkelig balansert "
-"for en tid-teknologien, er det galt å ta eiendom uten tillatelse fra eieren "
-"av en egenskap. Det er akkurat hva \"property\" betyr."
+"Dette er likevel et veldig dårlig argument.  For selv om opphavsretten er en "
+"eiendomsrett av en veldig spesiell type, så <emphasis>er</emphasis> det en "
+"eiendomsrett.  På samme måte som med alle eiendomsretter gir opphavsretten "
+"eieneren retten til å bestemme vilkårene for når innholdet blir delt.  Hvis "
+"opphavsrettseieren ikke ønsker å selge, så må hun ikke det.  Det finnes "
+"unntak: viktige lovbestemte lisenser som gjelder for opphavsrettsbeskyttet "
+"innhold uavhengig av ønsket til opphavsrettseieren.  Disse lisensene gir "
+"folk retten til å <quote>ta</quote> opphavsrettsbeskyttet innhold uavhengig "
+"av om opphavsrettseieren ønsker å selge eller ikke.  Men der loven ikke gir "
+"folk retten til å ta innhold, så er det galt å ta det innholdet selv om det "
+"ikke gjør noen skade å gjøre dette gale.  Hvis vi har et eiendomssystem og "
+"det systemet er skikkelig balansert opp mot teknologien i tiden, så er det "
+"galt å ta eiendom uten tillatelse fra eiendomseieren.  Det er nøyaktig hva "
+"<quote>eiendom</quote> betyr."
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "GNU/Linux operating system"
@@ -6582,11 +6572,11 @@ msgstr "Linux-operativsystemet"
 msgid "Microsoft"
 msgstr "Microsoft"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Windows"
 msgstr "Windows"
 
@@ -6602,9 +6592,7 @@ msgid ""
 "benefits from the piracy. If instead of pirating Microsoft Windows, the "
 "Chinese used the free GNU/Linux operating system, then these Chinese users "
 "would not eventually be buying Microsoft.  Without piracy, then, Microsoft "
-"would lose.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
-"\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> "
-"<placeholder type=\"indexterm\" id=\"3\"/>"
+"would lose."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -6624,11 +6612,11 @@ msgstr ""
 "tjeneste som de vil bruke det, og ikke den andre når de blir jurister (og må "
 "betale høy abonnementsavgift)."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Internet Explorer"
 msgstr "Internet Exporer"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Netscape"
 msgstr "Netscape"
 
@@ -6643,9 +6631,7 @@ msgid ""
 "fight Netscape. A property right means giving the property owner the right "
 "to say who gets access to what&mdash;at least ordinarily. And if the law "
 "properly balances the rights of the copyright owner with the rights of "
-"access, then violating the law is still wrong.  <placeholder type=\"indexterm"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/>"
+"access, then violating the law is still wrong."
 msgstr ""
 
 #.  PAGE BREAK 79
@@ -6752,6 +6738,10 @@ msgstr ""
 msgid "innovation"
 msgstr "innovasjon"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Fanning, Shawn"
+msgstr "Fanning, Shawn"
+
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Christensen, Clayton M."
 msgstr "Christensen, Clayton M."
@@ -6779,10 +6769,6 @@ msgstr ""
 "reassemble eksisterende teknologi på oppfinnsomme måter. for en diskusjon av "
 "Christensens idéer, kan du se lawrence lessig, fremtidige, 89­92, 139."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "Fanning, Shawn"
-msgstr "Fanning, Shawn"
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Peer-to-peer sharing was made famous by Napster. But the inventors of the "
@@ -6790,15 +6776,14 @@ msgid ""
 "every great advance in innovation on the Internet (and, arguably, off the "
 "Internet as well<placeholder type=\"footnote\" id=\"0\"/>), Shawn Fanning "
 "and crew had simply put together components that had been developed "
-"independently.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"independently."
 msgstr ""
 "Peer-to-peer-deling ble gjort berømt av Napster.  Men oppfinnerne av Napster-"
 "teknologien hadde ikke gjort noen store teknologiske nyskapninger.  Som "
 "ethvert stort steg i nyskapningen på internettet (og, kan det argumenteres "
 "for, utenfor internettet<placeholder type=\"footnote\" id=\"0\"/>) hadde "
 "Shawn Fanning og hans bemanning ganske enkelt satt sammen deler som hadde "
-"blitt utviklet uavhengig av hverandre. <placeholder type=\"indexterm\" id="
-"\"1\"/>"
+"blitt utviklet uavhengig av hverandre."
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6900,6 +6885,7 @@ msgstr ""
 "Fildelerne deler ulike typer innhold.  Vi kan dele disse ulike typene inn i "
 "fire typer."
 
+#.  A.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 #, mtrans, fuzzy
 msgid ""
@@ -6909,7 +6895,7 @@ msgid ""
 "takes it would actually have bought it if sharing didn't make it available "
 "for free. Most probably wouldn't have, but clearly there are some who "
 "would.  The latter are the target of category A: users who download instead "
-"of purchasing.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"of purchasing."
 msgstr ""
 "Det er noen som bruker deling nettverk som erstatninger for å kjøpe innhold. "
 "Derfor, når en ny madonna cd frigis, i stedet for å kjøpe cd, disse brukerne "
@@ -8293,7 +8279,7 @@ msgstr ""
 "falt i det fri i 1731. Hvordan kunne da Tonson fortsatt ha kontroll over "
 "verket i 1774?"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Licensing Act (1662)"
 msgstr ""
 
@@ -8306,8 +8292,7 @@ msgid ""
 "1695. That law gave publishers a monopoly over publishing, as a way to make "
 "it easier for the Crown to control what was published.  But after it "
 "expired, there was no positive law that said that the publishers, or "
-"<quote>Stationers,</quote> had an exclusive right to print books.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"<quote>Stationers,</quote> had an exclusive right to print books."
 msgstr ""
 "Årsaken var ganske enkelt at engelskmennene ennå ikke hadde bestemt hva "
 "opphavsrett innebar -- faktisk hadde ingen i verden det. På den tiden da "
@@ -8316,8 +8301,7 @@ msgstr ""
 "lisensieringsloven av 1662, utløpt i 1695. At loven ga utgiverne monopol "
 "over publiseringen, noe som gjorde det enklere for kronen å kontrollere hva "
 "ble publisert. Men etter at det har utløpt, var det ingen positiv lov som sa "
-"at utgiverne hadde en eksklusiv rett til å trykke bøker.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"at utgiverne hadde en eksklusiv rett til å trykke bøker."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8721,6 +8705,14 @@ msgstr ""
 "kampen var den skotske bokselgeren Alexander Donaldson.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Boswell, James"
+msgstr "Boswell, James"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Erskine, Andrew"
+msgstr "Erskine, Andrew"
+
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Rose, Mark"
 msgstr "Rose, Mark"
@@ -8738,14 +8730,6 @@ msgstr ""
 msgid "Ibid., 93."
 msgstr "Ibid., 93."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Boswell, James"
-msgstr "Boswell, James"
-
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Erskine, Andrew"
-msgstr "Erskine, Andrew"
-
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Donaldson was an outsider to the London Conger. He began his career in "
@@ -8756,9 +8740,7 @@ msgid ""
 "center for literary Scotsmen.</quote> <quote>[A]mong them,</quote> Professor "
 "Mark Rose writes, was <quote>the young James Boswell who, together with his "
 "friend Andrew Erskine, published an anthology of contemporary Scottish poems "
-"with Donaldson.</quote><placeholder type=\"footnote\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/>"
+"with Donaldson.</quote><placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 "Donaldson var en fremmed for Londons <quote>the Conger</quote>. Han startet "
 "in karriere i Edinburgh i 1750. Hans forretningsidé var billige kopier av "
@@ -8768,8 +8750,7 @@ msgstr ""
 "quote> skriver professor Mark Rose, var <quote>den unge James Boswell som, "
 "sammen med sin venn Andrew Erskine, publiserte en hel antologi av skotsk "
 "samtidspoesi sammen med Donaldson.</quote><placeholder type=\"footnote\" id="
-"\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
-"\"indexterm\" id=\"3\"/>"
+"\"1\"/>"
 
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9151,7 +9132,7 @@ msgstr ""
 "Else arbeidet med en dokumentarfilm hvor også jeg var involvert. I en pause "
 "så fortalte han meg om hvordan det kunne være å skape film i dagens Amerika."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "San Francisco Opera"
 msgstr "San Francisco Opera"
 
@@ -9202,7 +9183,7 @@ msgstr ""
 "tillatelse fra eieren, dersom det ikke er <quote>rimelig bruk</quote> eller "
 "det foreligger spesielle avtaler."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Gracie Films"
 msgstr "Gracie Films"
 
@@ -9212,15 +9193,13 @@ msgid ""
 "to get permission.  Groening approved the shot. The shot was a four-and-a-"
 "halfsecond image on a tiny television set in the corner of the room. How "
 "could it hurt? Groening was happy to have it in the film, but he told Else "
-"to contact Gracie Films, the company that produces the program.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"to contact Gracie Films, the company that produces the program."
 msgstr ""
 "Else kontaktet <citetitle>Simpson</citetitle>-skaper Matt Groenings kontor "
 "for å få tillatelse. Og Groening gav ham det. Det var tross alt kun snakk om "
 "fire og et halvt sekund på et lite fjernsyn, bakerst i et hjørne av rommet. "
 "Hvordan kunne det skade? Groening var glad for å få ha det med i filmen, men "
 "han ba Else om å kontakte Gracie Films, firmaet som produserer programmet."
-"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9228,15 +9207,13 @@ msgid ""
 "careful. So they told Else to contact Fox, Gracie's parent company.  Else "
 "called Fox and told them about the clip in the corner of the one room shot "
 "of the film. Matt Groening had already given permission, Else said. He was "
-"just confirming the permission with Fox.  <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"just confirming the permission with Fox."
 msgstr ""
 "Gracie Films sa også at det var greit, men de, slik som Groening, ønsket å "
 "være forsiktige, og ba Else om å kontakte Fox, konsernet som eide Gracie. Og "
 "Else kontaktet Fox og forklarte situasjonen; at det var snakk om et klipp i "
 "hjørnet i bakgrunnen i ett rom i filmen. Matt Groening hadde allerede gitt "
-"sin tillatelse, sa Else. Han ville bare få det avklart med Fox.<placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"sin tillatelse, sa Else. Han ville bare få det avklart med Fox."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9293,7 +9270,7 @@ msgstr ""
 "av Herreras assistenter fortalte Else at <quote>De bryr seg ikke i det "
 "heletatt. Alt de vil ha er pengene.</quote>"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Day After Trinity, The"
 msgstr ""
 
@@ -9304,15 +9281,13 @@ msgid ""
 "reality was beyond the documentary filmmaker's budget. At the very last "
 "minute before the film was to be released, Else digitally replaced the shot "
 "with a clip from another film that he had worked on, <citetitle>The Day "
-"After Trinity</citetitle>, from ten years before.  <placeholder type="
-"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"After Trinity</citetitle>, from ten years before."
 msgstr ""
 "Men Else hadde ikke penger til å kjøpe lisens for klippet. Så å gjenskape "
 "denne delen av virkeligheten, lå langt utenfor hans budsjett. Like før "
 "dokumentaren skulle slippes, redigerte Else inn et annet klipp på "
 "fjernsynet, et klipp fra en av hans andre filmer <citetitle>The Day After "
-"Trinity</citetitle> fra ti år tidligere. <placeholder type=\"indexterm\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"Trinity</citetitle> fra ti år tidligere."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9427,10 +9402,11 @@ msgstr ""
 msgid "<citetitle>Star Wars</citetitle>"
 msgstr "<citetitle>Star Wars</citetitle>"
 
-#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
 msgid "Lucas, George"
 msgstr "Lucas, George"
 
+#.  2.
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
 msgid ""
 "I probably never should have asked Matt Groening in the first place. But I "
@@ -9441,7 +9417,7 @@ msgid ""
 "free or cheap license to four seconds of <citetitle>Simpsons</citetitle>. As "
 "a documentary producer working to exhaustion on a shoestring, the last thing "
 "I wanted was to risk legal trouble, even nuisance legal trouble, and even to "
-"defend a principle.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"defend a principle."
 msgstr ""
 "Jeg skulle nok aldri ha bedt om Matt Groenings tillatelse. Men jeg visste "
 "(ihvertfall fra rykter) at Fox tidligere hadde brukt å jakte på og stoppe "
@@ -10885,7 +10861,7 @@ msgstr "Kapittel ti: <quote>Eiendom</quote>"
 msgid "Johnson, Lyndon"
 msgstr "Johnson, Lyndon"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Kennedy, John F."
 msgstr "Kennedy, John F."
 
@@ -10907,27 +10883,27 @@ msgstr ""
 "bakgrunnen. i hans nesten førti år kjører mpaa, har valenti etablert seg som "
 "kanskje mest iøynefallende og effektiv korridorpolitiker i washington."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Disney, Inc."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Sony Pictures Entertainment"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "MGM"
 msgstr "MGM"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Paramount Pictures"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Twentieth Century Fox"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Universal Pictures"
 msgstr ""
 
@@ -10946,11 +10922,7 @@ msgid ""
 "made up of the chairmen and presidents of the seven major producers and "
 "distributors of motion picture and television programs in the United States: "
 "Walt Disney, Sony Pictures Entertainment, MGM, Paramount Pictures, Twentieth "
-"Century Fox, Universal Studios, and Warner Brothers.  <placeholder type="
-"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> <placeholder type="
-"\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" id=\"6\"/>"
+"Century Fox, Universal Studios, and Warner Brothers."
 msgstr ""
 "mpaa er den amerikanske avdelingen av internasjonale motion picture "
 "association. Det ble dannet i 1922 som en handelsforening som har mål var å "
@@ -11941,7 +11913,7 @@ msgstr "Her kommer metaforen som vil forklare argumentet."
 msgid "DDT"
 msgstr "DDT"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Müller, Paul Hermann"
 msgstr "Müller, Paul Hermann"
 
@@ -11952,7 +11924,7 @@ msgid ""
 "Hermann Müller won the Nobel Prize for his work demonstrating the "
 "insecticidal properties of DDT. By the 1950s, the insecticide was widely "
 "used around the world to kill disease-carrying pests. It was also used to "
-"increase farm production.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"increase farm production."
 msgstr ""
 "i 1873, ble kjemiske ddt først syntetisert. i 1948, sveitsisk apotek paul "
 "hermann müller vant nobel prisen for sitt arbeid demonstrere egenskapene "
@@ -13489,7 +13461,7 @@ msgstr ""
 msgid "Casablanca"
 msgstr "Casablanca"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Marx Brothers"
 msgstr ""
 
@@ -13666,23 +13638,21 @@ msgstr ""
 "boken ti dager. til slutt, jeg har tillatelse til å bruke lese høyt knapp "
 "for å høre middlemarch lest høyt gjennom datamaskinen."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aristotle"
 msgstr "Aristoteles"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "<citetitle>Politics</citetitle>, (Aristotle)"
 msgstr "<citetitle>Politikk</citetitle>, (Aristotles)"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Here's the e-book for another work in the public domain (including the "
-"translation): Aristotle's <citetitle>Politics</citetitle>.  <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"translation): Aristotle's <citetitle>Politics</citetitle>."
 msgstr ""
 "Her er e-boken for et annet allemannseid verk (inkludert oversettelsen): "
-"Aristoteles <citetitle>Politikk</citetitle>  <placeholder type=\"indexterm\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"Aristoteles <citetitle>Politikk</citetitle>."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "E-book of Aristotle;s <quote>Politics</quote>"
@@ -13795,13 +13765,14 @@ msgstr ""
 "hvis du gjør; i stedet, hvis du presse lese høyt knappen med min bok, "
 "maskinen bare vil ikke lese høyt."
 
+#.  PAGE BREAK 163
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
 "These are <emphasis>controls</emphasis>, not permissions. Imagine a world "
 "where the Marx Brothers sold word processing software that, when you tried "
 "to type <quote>Warner Brothers,</quote> erased <quote>Brothers</quote> from "
-"the sentence.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"the sentence."
 msgstr ""
 "Dette er kontroller, ikke tillatelser. Forestill deg en verden der marx "
 "brødrene solgte tekstbehandling programvare som, da du prøvde å skrive inn "
@@ -13850,7 +13821,7 @@ msgstr ""
 "Vi har bare riper i overflaten av denne historien. gå tilbake til adobe eBok-"
 "leser."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Alice's Adventures in Wonderland (Carroll)"
 msgstr ""
 
@@ -13861,8 +13832,7 @@ msgid ""
 "relations nightmare. Among the books that you could download for free on the "
 "Adobe site was a copy of <citetitle>Alice's Adventures in Wonderland</"
 "citetitle>.  This wonderful book is in the public domain. Yet when you "
-"clicked on Permissions for that book, you got the following report: "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"clicked on Permissions for that book, you got the following report:"
 msgstr ""
 "tidlig i livet av adobe eBok reader LED adobe et PR mareritt. Blant bøkene "
 "som du kan laste ned gratis på adobe siden var en kopi av alice's adventures "
@@ -14737,6 +14707,26 @@ msgid ""
 msgstr ""
 "Det er her to sorter endringer: omfanget av konsentrasjon, og dens natur."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "BMG"
+msgstr "BMG"
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "EMI"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "McCain, John"
+msgstr "McCain, John"
+
+#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+msgid "Universal Music Group"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Warner Music Group"
+msgstr ""
+
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -14768,26 +14758,6 @@ msgstr ""
 "Molly ivins, \"media konsolidering må stoppes,\" charleston gazette, 31 kan "
 "2003."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "BMG"
-msgstr "BMG"
-
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "EMI"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "McCain, John"
-msgstr "McCain, John"
-
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "Universal Music Group"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "Warner Music Group"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Changes in scope are the easier ones to describe. As Senator John McCain "
@@ -14798,10 +14768,7 @@ msgid ""
 "and EMI control 84.8 percent of the U.S. music market.<placeholder type="
 "\"footnote\" id=\"1\"/> The <quote>five largest cable companies pipe "
 "programming to 74 percent of the cable subscribers nationwide.</"
-"quote><placeholder type=\"footnote\" id=\"2\"/> <placeholder type=\"indexterm"
-"\" id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> <placeholder type="
-"\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" id=\"6\"/> "
-"<placeholder type=\"indexterm\" id=\"7\"/>"
+"quote><placeholder type=\"footnote\" id=\"2\"/>"
 msgstr ""
 
 #.  PAGE BREAK 174
@@ -15041,11 +15008,11 @@ msgstr ""
 "hvilket som helst Vis utviklet for et nettverk er i økende grad eid av "
 "nettverket."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Diller, Barry"
 msgstr "Diller, Barry"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Moyers, Bill"
 msgstr "Moyers, Bill"
 
@@ -15053,13 +15020,10 @@ msgstr "Moyers, Bill"
 msgid ""
 "While the number of channels has increased dramatically, the ownership of "
 "those channels has narrowed to an ever smaller and smaller few. As Barry "
-"Diller said to Bill Moyers, <placeholder type=\"indexterm\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/>"
+"Diller said to Bill Moyers,"
 msgstr ""
 "Mens antall kanaler har økt dramatisk, har eierskapet til disse kanalene "
-"snevret inn fra få til stadig færre.  Som Barry Diller sa til Bill Moyers, "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
+"snevret inn fra få til stadig færre.  Som Barry Diller sa til Bill Moyers,"
 
 #.  f32
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
@@ -16419,7 +16383,7 @@ msgstr ""
 "over Internett. men som loven er nå laget, dette arbeidet er presumptively "
 "ugyldig."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Worldcom"
 msgstr "Worldcom"
 
@@ -16473,7 +16437,7 @@ msgid ""
 "damages for pain and suffering.<placeholder type=\"footnote\" id=\"1\"/> Can "
 "common sense recognize the absurdity in a world where the maximum fine for "
 "downloading two songs off the Internet is more than the fine for a doctor's "
-"negligently butchering a patient? <placeholder type=\"indexterm\" id=\"2\"/>"
+"negligently butchering a patient?"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -17177,6 +17141,10 @@ msgstr ""
 "dagen. det vil innføre betydelig byrder og kostnader på teknologi, men vil "
 "trolig være eclipsed av fremskritt rundt akkurat disse kravene."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Intel"
+msgstr "Intel"
+
 #.  f8.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -17187,18 +17155,13 @@ msgstr ""
 "se david mcguire, \"tech execs torget off over piratkopiering,\" newsbytes, "
 "februar 2002 (underholdning)."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Intel"
-msgstr "Intel"
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "In March 2002, a broad coalition of technology companies, led by Intel, "
 "tried to get Congress to see the harm that such legislation would impose."
 "<placeholder type=\"footnote\" id=\"0\"/> Their argument was obviously not "
 "that copyright should not be protected. Instead, they argued, any protection "
-"should not do more harm than good.  <placeholder type=\"indexterm\" id=\"1\"/"
-">"
+"should not do more harm than good."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17333,6 +17296,7 @@ msgid ""
 "radio."
 msgstr ""
 
+#.  PAGE BREAK 204
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17344,7 +17308,7 @@ msgid ""
 "performance before President Kennedy at Madison Square Garden&mdash; then "
 "whenever that recording was played on the radio, the current copyright "
 "owners of <quote>Happy Birthday</quote> would get some money, whereas "
-"Marilyn Monroe would not.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"Marilyn Monroe would not."
 msgstr ""
 "som jeg beskrevet i kapittel 4, når en radiostasjon spiller en sang, får "
 "ikke innspillingen artisten betalt for at \"radio ytelse\" med mindre han "
@@ -17853,6 +17817,10 @@ msgid ""
 "that those with the power can use the law to quash any rights they oppose."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "alcohol prohibition"
+msgstr ""
+
 #.  f17.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -17888,10 +17856,6 @@ msgstr ""
 "journal av økonomiske litteratur 36 (1998): 818 (undersøkelse av samsvar "
 "litteratur)."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "alcohol prohibition"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Wars of prohibition are nothing new in America. This one is just something "
@@ -17911,10 +17875,10 @@ msgid ""
 "\"footnote\" id=\"2\"/> We pride ourselves on our <quote>free society,</"
 "quote> but an endless array of ordinary behavior is regulated within our "
 "society. And as a result, a huge proportion of Americans regularly violate "
-"at least some law.  <placeholder type=\"indexterm\" id=\"3\"/>"
+"at least some law."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "law schools"
 msgstr ""
 
@@ -17934,7 +17898,7 @@ msgid ""
 "Generations of Americans&mdash;more significantly in some parts of America "
 "than in others, but still, everywhere in America today&mdash;can't live "
 "their lives both normally and legally, since <quote>normally</quote> entails "
-"a certain degree of illegality.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"a certain degree of illegality."
 msgstr ""
 "denne tilstanden av saker er ikke uten konsekvens. Det er en spesielt "
 "fremtredende spørsmålet for lærere som meg, hvis jobb er det å undervise law "
@@ -18262,10 +18226,10 @@ msgstr "von Lohmann, Fred"
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "<quote>If you can treat someone as a putative lawbreaker,</quote> von "
-"Lohmann explains, <placeholder type=\"indexterm\" id=\"0\"/>"
+"Lohmann explains,"
 msgstr ""
 "<quote>Hvis du kan behandle noen som en antatt lovbryter</quote>, forklarer "
-"von Lohmann, <placeholder type=\"indexterm\" id=\"0\"/>"
+"von Lohmann,"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 #, mtrans, fuzzy
@@ -18851,6 +18815,7 @@ msgstr ""
 msgid "Jaszi, Peter"
 msgstr "Jaszi, Peter"
 
+#.  PAGE BREAK 223
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18861,8 +18826,7 @@ msgid ""
 "effect. If every time a copyright is about to expire, Congress has the power "
 "to extend its term, then Congress can achieve what the Constitution plainly "
 "forbids&mdash;perpetual terms <quote>on the installment plan,</quote> as "
-"Professor Peter Jaszi so nicely put it.  <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"Professor Peter Jaszi so nicely put it."
 msgstr ""
 "i de siste 40 årene, har Kongressen fått i praksis for å utvide eksisterende "
 "vilkår for opphavsrettslig vern. Hva rådvill meg om dette var, hvis "
@@ -19346,6 +19310,10 @@ msgstr ""
 "fra public domain. Eric eldred var kjemper en piratkopiering som påvirker "
 "oss alle."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Nashville Songwriters Association"
+msgstr ""
+
 #.  f9.
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -19353,10 +19321,6 @@ msgid ""
 "citetitle> v. <citetitle>Ashcroft</citetitle>, 537 U.S.  186 (2003) (No. "
 "01-618), n.10, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #51</ulink>."
-msgstr ""
-
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Nashville Songwriters Association"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -19367,7 +19331,7 @@ msgid ""
 "\"footnote\" id=\"0\"/> But it is not piracy when the law allows it; and in "
 "our constitutional system, our law requires it. Some may not like the "
 "Constitution's requirements, but that doesn't make the Constitution a "
-"pirate's charter.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"pirate's charter."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -19600,6 +19564,10 @@ msgstr ""
 msgid "Laurel and Hardy Films"
 msgstr ""
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Lucky Dog, The"
+msgstr ""
+
 #.  f11.
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -19616,10 +19584,6 @@ msgstr ""
 "dag på støtning ned opphavsrett forlengelsen,\"orlando sentinel tribune, 9 "
 "oktober 2002."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Lucky Dog, The"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Consider the story of Michael Agee, chairman of Hal Roach Studios, which "
@@ -19631,8 +19595,7 @@ msgid ""
 "controls the exclusive rights for these popular films, he makes a great deal "
 "of money. According to one estimate, <quote>Roach has sold about 60,000 "
 "videocassettes and 50,000 DVDs of the duo's silent films.</"
-"quote><placeholder type=\"footnote\" id=\"0\"/> <placeholder type=\"indexterm"
-"\" id=\"1\"/>"
+"quote><placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -20300,11 +20263,11 @@ msgstr ""
 "troverdig ikke fordi de var rike og berømte, men fordi de, i samlet, vist at "
 "denne loven var forfatningsstridig uavhengig av ens politikk."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eagle Forum"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Schlafly, Phyllis"
 msgstr "Schlafly, Phyllis"
 
@@ -20322,8 +20285,7 @@ msgid ""
 "documented, was the power of money.  Schlafly enumerated Disney's "
 "contributions to the key players on the committees. It was money, not "
 "justice, that gave Mickey Mouse twenty more years in Disney's control, "
-"Schlafly argued.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
-"type=\"indexterm\" id=\"1\"/>"
+"Schlafly argued."
 msgstr ""
 "det første trinnet skjedde alt av seg selv. Phyllis schlafly organisasjon, "
 "eagle forum, hadde vært motstander av ctea fra begynnelsen. Mrs. schlafly "
@@ -20352,6 +20314,7 @@ msgstr ""
 "grense for Kongressens makt til å angi vilkår. som sterkt konservativ "
 "argumentet overtalt en sterk konservative dommer, dommer sentelle."
 
+#.  PAGE BREAK 239
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "In the Supreme Court, the briefs on our side were about as diverse as it "
@@ -20361,17 +20324,14 @@ msgid ""
 "were two law professors' briefs, one by copyright scholars and one by First "
 "Amendment scholars. There was an exhaustive and uncontroverted brief by the "
 "world's experts in the history of the Progress Clause. And of course, there "
-"was a new brief by Eagle Forum, repeating and strengthening its arguments.  "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
-"\"indexterm\" id=\"3\"/>"
+"was a new brief by Eagle Forum, repeating and strengthening its arguments."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "American Association of Law Libraries"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "National Writers Union"
 msgstr ""
 
@@ -20381,8 +20341,7 @@ msgid ""
 "Those briefs framed a legal argument. Then to support the legal argument, "
 "there were a number of powerful briefs by libraries and archives, including "
 "the Internet Archive, the American Association of Law Libraries, and the "
-"National Writers Union.  <placeholder type=\"indexterm\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/>"
+"National Writers Union."
 msgstr ""
 "disse truser innrammet et juridisk argument. deretter for å støtte "
 "argumentet juridiske, var det en rekke kraftige truser av biblioteker og "
