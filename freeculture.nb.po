@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-22 07:09+0300\n"
+"POT-Creation-Date: 2012-08-23 06:49+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -438,7 +438,7 @@ msgid ""
 "Richard M. Stallman, <citetitle>Free Software, Free Societies</citetitle> 57 "
 "(Joshua Gay, ed. 2002)."
 msgstr ""
-"Richard M. Stallman, <citetitle>Fri programvare, Frie samfunn</citetitle> 57 "
+"Richard M. Stallman, <citetitle>Free Software, Free Societies</citetitle> 57 "
 "(Joshua Gay, red. 2002)."
 
 #. type: Content of: <book><preface><para>
@@ -6341,6 +6341,13 @@ msgid ""
 "to one in three CDs sold worldwide). The MPAA estimates that it loses $3 "
 "billion annually worldwide to piracy."
 msgstr ""
+"Over hele verden, men spesielt i Asia og Øst-Europa, er det selskaper som "
+"ikke gjør annet enn å ta andre folks opphavsrettsbeskyttede innhold, "
+"kopierer det og selger det&mdash;alt dette uten tillatelse fra "
+"opphavsrettseieren.  Musikkindustrien estimerer at de taper rundt $4,6 "
+"milliarder hvert år på fysisk piratvirksomhet <placeholder type=\"footnote\" "
+"id=\"0\"/> (det blir ca. en av tre CD-er solgt på verdensbasis).  MPAA "
+"estimerer at de taper $3 milliarder på verdensbasis på piratvirksomhet."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6594,9 +6601,20 @@ msgid ""
 "would not eventually be buying Microsoft.  Without piracy, then, Microsoft "
 "would lose."
 msgstr ""
+"Til slutt kan vi forsøke å unnskylde denne piratvirksomheten med argumentet "
+"om at piratvirksomheten faktisk hjelper opphavsrettseieren. Når kineserne "
+"<quote>stjeler</quote> Windows, så gjør det kinserne avhengig av Microsoft.  "
+"Microsoft mister verdien til programvaren som ble tatt, men det vinner "
+"brukere som er vant til livet i Microsoft-verdenen.  Over tid, etter hvert "
+"som nasjonen blir mer velstående, vil flere og flere folk kjøpe programvare "
+"is stedet for å stjele den.  Og dermed vil det over tid, på grunn av at "
+"disse kjøpene kommer Microsoft til gode, vil Microsoft tjene på "
+"piratvirksomheten. Hvis kineserne i stedet for å piratkopiere Windows, "
+"brukte det fritt tilgjengelige operativsystemet GNU/Linux, så ville disse "
+"kinesiske brukerne ikke til slutt kjøpe Microsoft.  Uten piratvirksomheten "
+"ville dermed Microsoft tape."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This argument, too, is somewhat true. The addiction strategy is a good one. "
 "Many businesses practice it. Some thrive because of it. Law students, for "
@@ -6605,12 +6623,13 @@ msgid ""
 "service that they will want to use it and not the other when they become "
 "lawyers (and must pay high subscription fees)."
 msgstr ""
-"Dette argumentet er også, noe sant. avhengighet-strategi er en god en. mange "
-"virksomheter praktisere det.. noen trives på grunn av den. Law studenter, "
-"for eksempel får du gratis tilgang til de to største juridiske databasene. "
-"selskapene markedsføring håper begge elevene vil så bli brukt til deres "
-"tjeneste som de vil bruke det, og ikke den andre når de blir jurister (og må "
-"betale høy abonnementsavgift)."
+"Det er også noe sant i dette argumentet.  Å gjøre folk avhengig er en god "
+"strategi.  Mange selskaper praktiserer det.  Noen gjør det godt på grunn av "
+"det.  Juss-studenter, for eksempel, får gratis tilgang til de to største "
+"juridiske databasene.  Begge selskapenes markedsfører dette i håp om at "
+"studentene vil bli så vant til deres tjenester at de vil ønske å bruke deres "
+"tjeneste og ikke konkurrentens når de blir advokater (og må betale høy "
+"abonnementsavgift)."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Internet Explorer"
@@ -6633,6 +6652,17 @@ msgid ""
 "properly balances the rights of the copyright owner with the rights of "
 "access, then violating the law is still wrong."
 msgstr ""
+"Likevel er ikke dette argumentet spesielt overbevistende.  Vi gir ikke "
+"alkoholikeren et forsvar når han stjeler sin første øl, kun på grunn av at "
+"det vil gjøre det mer sannsynlig at han vil betale for de tre neste.  I "
+"stedet lar vi vanligvis bedrifter bestemme selv når det er best for dem å gi "
+"bort deres produkter.  Hvis Microsoft frykter konkurransen fra GNU/Linux, så "
+"kan Microsoft gi bort produktet sitt, slik de for eksempel gjorde med "
+"Internet Explorer for å bekjempe Netscape.  En eiendomsrett betyr å la "
+"eiendomseieren ha retten til å si hvem som får tilgang til hva&mdash;i hvert "
+"fall vanligvis.  Og hvis loven ordentlig balanserer rettighetene til "
+"opphavsrettighetseieren med rettighetene for tilgang, så er det å bryte "
+"loven fortsatt galt."
 
 #.  PAGE BREAK 79
 #. type: Content of: <book><part><chapter><section><para>
@@ -14711,7 +14741,7 @@ msgstr ""
 msgid "BMG"
 msgstr "BMG"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "EMI"
 msgstr ""
 
@@ -14719,7 +14749,7 @@ msgstr ""
 msgid "McCain, John"
 msgstr "McCain, John"
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Universal Music Group"
 msgstr ""
 
@@ -16920,8 +16950,7 @@ msgid ""
 "not only a company, it also buys you a lawsuit.  So extreme has the "
 "environment become that even car manufacturers are afraid of technologies "
 "that touch content. In an article in <citetitle>Business 2.0</citetitle>, "
-"Rafe Needleman describes a discussion with BMW: <placeholder type=\"indexterm"
-"\" id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/>"
+"Rafe Needleman describes a discussion with BMW:"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
@@ -18219,7 +18248,7 @@ msgstr ""
 "prosentandel av befolkningen i kriminelle.\" Dette er sikkerhetsstillelse "
 "skader på borgerrettigheter vanligvis."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "von Lohmann, Fred"
 msgstr "von Lohmann, Fred"
 
@@ -18380,6 +18409,7 @@ msgid ""
 "network.  She can, in some cases, be expelled."
 msgstr ""
 
+#.  PAGE BREAK 216
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -18390,8 +18420,7 @@ msgid ""
 "university might not believe her. It might treat this <quote>contraband</"
 "quote> as presumptive of guilt. And as any number of college students have "
 "already learned, our presumptions about innocence disappear in the middle of "
-"wars of prohibition. This war is no different.  Says von Lohmann, "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"wars of prohibition. This war is no different.  Says von Lohmann,"
 msgstr ""
 "nå, selvfølgelig, hun vil ha rett til å forsvare seg selv. Du kan leie en "
 "advokat for henne (på $300 per time, hvis du er heldig), og hun kan erkjenne "
@@ -18811,7 +18840,7 @@ msgstr ""
 "\"fremme... fremgang\"&mdash;gjennom betyr at er også spesifikke&mdash;av "
 "\"sikre\" \"enerett\" (det vil si opphavsrett) \"for begrenset ganger.\""
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Jaszi, Peter"
 msgstr "Jaszi, Peter"
 
@@ -20403,15 +20432,15 @@ msgstr ""
 "slike utvidelser var ingenting mer enn \"leie-søker\"&mdash;fancy sikt "
 "økonomer bruk å beskrive spesielle interesser lovgivning gone wild."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Fried, Charles"
 msgstr "Fried, Charles"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Morrison, Alan"
 msgstr "Morrison, Alan"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Public Citizen"
 msgstr ""
 
@@ -20419,6 +20448,7 @@ msgstr ""
 msgid "Reagan, Ronald"
 msgstr "Reagan, Ronald"
 
+#.  PAGE BREAK 240
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -20430,10 +20460,7 @@ msgid ""
 "history with a series of seminal victories in the Supreme Court defending "
 "individual rights; my colleague and dean, Kathleen Sullivan, who had argued "
 "many cases in the Court, and who had advised us early on about a First "
-"Amendment strategy; and finally, former solicitor general Charles Fried.  "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
-"\"indexterm\" id=\"3\"/>"
+"Amendment strategy; and finally, former solicitor general Charles Fried."
 msgstr ""
 "samme innsats på balanse ble reflektert i det juridiske teamet vi samles for "
 "å skrive våre truser i tilfelle. jones dag advokater hadde blitt med oss fra "
@@ -20456,8 +20483,7 @@ msgid ""
 "He had helped craft the line of cases that limited Congress's power in the "
 "context of the Commerce Clause. And while he had argued many positions in "
 "the Supreme Court that I personally disagreed with, his joining the cause "
-"was a vote of confidence in our argument.  <placeholder type=\"indexterm\" "
-"id=\"0\"/>"
+"was a vote of confidence in our argument."
 msgstr ""
 "stekt var en spesiell seier for vår side. hver andre tidligere advokat "
 "generelt ble ansatt av den andre siden, å forsvare congress's kraft til å gi "
@@ -20500,6 +20526,10 @@ msgstr ""
 "fortsette å ha rett til å kontrollere hvem som gjorde hva med innhold de "
 "ønsket å kontroll."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Gershwin, George"
+msgstr "Gershwin, George"
+
 #.  f14.
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -20521,10 +20551,7 @@ msgstr ""
 "dinitia smith, \"udødelig ord, udødelig royalties? selv Mikke Mus tiltrer "
 "fray,\"new york times, 28 mars 1998, b7."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Gershwin, George"
-msgstr "Gershwin, George"
-
+#.  PAGE BREAK 241
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Dr. Seuss's representatives, for example, argued that it was better for the "
@@ -20538,7 +20565,7 @@ msgid ""
 "to anyone who refuses to use African Americans in the cast.<placeholder type="
 "\"footnote\" id=\"1\"/> That's their view of how this part of American "
 "culture should be controlled, and they wanted this law to help them effect "
-"that control.  <placeholder type=\"indexterm\" id=\"2\"/>"
+"that control."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -20821,8 +20848,7 @@ msgid ""
 "One moot was before the lawyers at Jones Day. Don Ayer was the skeptic. He "
 "had served in the Reagan Justice Department with Solicitor General Charles "
 "Fried. He had argued many cases before the Supreme Court. And in his review "
-"of the moot, he let his concern speak: <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"of the moot, he let his concern speak:"
 msgstr ""
 "en moot var før jurister på jones dag. Don ayer var skeptisk. Han "
 "tjenestegjorde i Justisdepartementet reagan med advokat general charles "
@@ -21485,7 +21511,7 @@ msgstr ""
 msgid ""
 "Would it have been different if I had argued it differently? Would it have "
 "been different if Don Ayer had argued it? Or Charles Fried? Or Kathleen "
-"Sullivan? <placeholder type=\"indexterm\" id=\"0\"/>"
+"Sullivan?"
 msgstr ""
 "ville det ha vært annerledes hvis jeg hadde hevdet det annerledes? ville det "
 "ha vært annerledes hvis don ayer hadde hevdet det? eller charles stekt? "
@@ -21526,7 +21552,7 @@ msgid ""
 "For at the start of this case, one of America's leading intellectual "
 "property professors stated publicly that my bringing this case was a "
 "mistake. <quote>The Court is not ready,</quote> Peter Jaszi said; this issue "
-"should not be raised until it is.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"should not be raised until it is."
 msgstr ""
 "og selv om jeg ikke kunne, deretter som unnskylde ikke hva som skjedde i "
 "januar. for ved starten av dette tilfellet uttalt en av Amerikas ledende "
@@ -22143,7 +22169,7 @@ msgstr ""
 "hadde noen få som foreslo direkte at de kan være villige til å ta det første "
 "skrittet."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Lofgren, Zoe"
 msgstr "Lofgren, Zoe"
 
@@ -22154,16 +22180,14 @@ msgid ""
 "imposed the simplest requirement upon copyright owners possible. In May "
 "2003, it looked as if the bill would be introduced. On May 16, I posted on "
 "the Eldred Act blog, <quote>we are close.</quote> There was a general "
-"reaction in the blog community that something good might happen here.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"reaction in the blog community that something good might happen here."
 msgstr ""
 "En representant, Zoe Lofgren fra California, gikk så langt som å få "
 "lovforslaget utarbeidet. Utkastet løste noen problemer med internasjonal "
 "lov. Det påla de enklest mulige forutsetninger på innehaverne av "
 "opphavsretter. I mai 2003 så det ut som om loven skulle være introdusert.  "
 "16. mai, postet jeg på Eldred Act-bloggen, <quote>vi er nære</quote>.  Det "
-"oppstod en generell reaksjon i blogg-samfunnet om at noe godt kunne skje "
-"her.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"oppstod en generell reaksjon i blogg-samfunnet om at noe godt kunne skje her."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23123,6 +23147,10 @@ msgstr ""
 "stedet for <quote>proprietær programvare</quote>, til sine egne interne "
 "behov."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "<quote>copyleft</quote> licenses"
+msgstr ""
+
 #.  f8.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -23159,10 +23187,6 @@ msgstr ""
 "tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #63</"
 "ulink>."
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
-msgid "<quote>copyleft</quote> licenses"
-msgstr ""
-
 #. type: Content of: <book><chapter><para>
 msgid ""
 "I don't mean to enter that debate here. It is important only to make clear "
@@ -23174,9 +23198,7 @@ msgid ""
 "entity. Thus, to support <quote>open source and free software</quote> is not "
 "to oppose commercial entities. It is, instead, to support a mode of software "
 "development that is different from Microsoft's.<placeholder type=\"footnote"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
-"<placeholder type=\"indexterm\" id=\"4\"/>"
+"\" id=\"0\"/>"
 msgstr ""
 "Jeg mener ikke å gå inn i den debatten her.  Det er viktig kun for å gjøre "
 "det klart at skillet ikke er mellom kommersiell og ikke-kommersiell "
@@ -23187,9 +23209,7 @@ msgstr ""
 "kommersiell aktør. Dermed er det å støtte <quote>fri programvare</quote> "
 "ikke å motsette seg kommersielle aktører.  Det er i stedet å støtte en måte "
 "å drive programvareutvikling som er forskjellig fra Microsofts.<placeholder "
-"type=\"footnote\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/>"
+"type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
@@ -23224,6 +23244,10 @@ msgstr ""
 "i bruk programvaren.  Den er dermed like avhengig av opphavsrettsloven som "
 "Microsoft."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Krim, Jonathan"
+msgstr "Krim, Jonathan"
+
 #.  f9.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -23232,10 +23256,6 @@ msgid ""
 msgstr ""
 "Krim, <quote>The Quiet War over Open-Source</quote>, tilgjengelig fra <ulink "
 "url=\"http://free-culture.cc/notes/\">link #64</ulink>."
-
-#. type: Content of: <book><chapter><para><indexterm><primary>
-msgid "Krim, Jonathan"
-msgstr "Krim, Jonathan"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23246,7 +23266,7 @@ msgid ""
 "Jonathan Krim of the <citetitle>Washington Post</citetitle>, Microsoft's "
 "lobbyists succeeded in getting the United States government to veto the "
 "meeting.<placeholder type=\"footnote\" id=\"0\"/> And without U.S. backing, "
-"the meeting was canceled.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"the meeting was canceled."
 msgstr ""
 "Det er dermed forståelig at Microsoft, som utviklere av proprietær "
 "programvare, gikk imot et slikt WIPO-møte, og like fullt forståelig at de "
@@ -23255,7 +23275,7 @@ msgstr ""
 "følge Jonathan Krim i <citetitle>Washington Post</citetitle>, lyktes "
 "Microsofts lobbyister i å få USAs myndigheter til å legge ned veto mot et "
 "slikt møte.<placeholder type=\"footnote\" id=\"0\"/> Og uten støtte fra USA "
-"ble møtet avlyst.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"ble møtet avlyst."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24061,7 +24081,7 @@ msgstr ""
 msgid "Amazon"
 msgstr "Amazon"
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cookies, Internet"
 msgstr ""
 
@@ -24075,7 +24095,7 @@ msgid ""
 "quote> pages. Now, because of the architecture of the Net and the function "
 "of cookies on the Net, it is easier to collect the data than not. The "
 "friction has disappeared, and hence any <quote>privacy</quote> protected by "
-"the friction disappears, too.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"the friction disappears, too."
 msgstr ""
 "Angi Internett, der kostnaden for sporing av surfing spesielt har blitt "
 "ganske liten. Hvis du er en kunde på amazon, deretter samler som du blar "
@@ -24543,10 +24563,11 @@ msgstr ""
 "enkeltpersoner og skaperne vil gjøre dette innholdet tilgjengelig. og at "
 "innholdet i sin tur kan vi bygge et offentlig-domene."
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Garlick, Mia"
 msgstr "Garlick, Mia"
 
+#.  PAGE BREAK 289
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -24558,7 +24579,7 @@ msgid ""
 "movement of consumers and producers of content (<quote>content conducers,</"
 "quote> as attorney Mia Garlick calls them)  who help build the public domain "
 "and, by their work, demonstrate the importance of the public domain to other "
-"creativity.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"creativity."
 msgstr ""
 "Dette er bare ett prosjekt blant mange innenfor creative commons. og "
 "selvfølgelig, creative commons er ikke den eneste organisasjonen å forfølge "
@@ -25286,6 +25307,10 @@ msgstr ""
 "<quote>rimelig bruk</quote> og <quote>idé/uttrykk</quote> mindre nødvendig å "
 "håndtere."
 
+#. type: Content of: <book><chapter><section><section><orderedlist><listitem><indexterm><primary>
+msgid "veterans' pensions"
+msgstr "veteranpensjoner"
+
 #.  f4.
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para><footnote><para>
 msgid ""
@@ -25297,10 +25322,6 @@ msgstr ""
 "or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), tilgjengelig fra "
 "<ulink url=\"http://free-culture.cc/notes/\">link #75</ulink>."
 
-#. type: Content of: <book><chapter><section><section><orderedlist><listitem><para><indexterm><primary>
-msgid "veterans' pensions"
-msgstr "veteranpensjoner"
-
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
 msgid ""
 "<emphasis>Keep it alive:</emphasis> Copyright should have to be renewed.  "
@@ -25310,8 +25331,7 @@ msgid ""
 "protection has to be granted for free. On average, it takes ninety minutes "
 "for a veteran to apply for a pension.<placeholder type=\"footnote\" id=\"0\"/"
 "> If we make veterans suffer that burden, I don't see why we couldn't "
-"require authors to spend ten minutes every fifty years to file a single "
-"form.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"require authors to spend ten minutes every fifty years to file a single form."
 msgstr ""
 
 #.  (4)
@@ -25407,6 +25427,10 @@ msgstr ""
 "skrive en bok og en film basert på boken, jeg har makt til å nekte deg rett "
 "til å frigi den filmen, selv om filmen ikke er \"min skrive.\""
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Kaplan, Benjamin"
+msgstr "Kaplan, Benjamin"
+
 #.  f5.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
@@ -25416,10 +25440,6 @@ msgstr ""
 "Benjamin Kaplan, <citetitle>An Unhurried View of Copyright</citetitle> (New "
 "York: Columbia University Press, 1967), 32."
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-msgid "Kaplan, Benjamin"
-msgstr "Kaplan, Benjamin"
-
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "Congress granted the beginnings of this right in 1870, when it expanded the "
@@ -25427,7 +25447,7 @@ msgid ""
 "dramatizations of a work.<placeholder type=\"footnote\" id=\"0\"/> The "
 "courts have expanded it slowly through judicial interpretation ever since. "
 "This expansion has been commented upon by one of the law's greatest judges, "
-"Judge Benjamin Kaplan.  <placeholder type=\"indexterm\" id=\"1\"/>"
+"Judge Benjamin Kaplan."
 msgstr ""
 
 #.  f6.
