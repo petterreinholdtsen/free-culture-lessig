@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-23 20:08+0300\n"
+"POT-Creation-Date: 2012-08-23 20:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4760,14 +4760,14 @@ msgid ""
 "legal wrong as well."
 msgstr ""
 
+#.  PAGE BREAK 77
 #. type: Content of: <book><part><chapter><section><para>
 #: freeculture.xml:3438
 msgid ""
 "True, these local rules have, in effect, been imposed upon these "
-"countries. No country can be part of the world economy and choose <beginpage "
-"pagenum=\"77\"/> not to protect copyright internationally. We may have been "
-"born a pirate nation, but we will not allow any other nation to have a "
-"similar childhood."
+"countries. No country can be part of the world economy and choose not to "
+"protect copyright internationally. We may have been born a pirate nation, "
+"but we will not allow any other nation to have a similar childhood."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
