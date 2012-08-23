@@ -6686,7 +6686,6 @@ msgstr ""
 
 #.  PAGE BREAK 79
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Thus, while I understand the pull of these justifications for piracy, and I "
 "certainly see the motivation, in my view, in the end, these efforts at "
@@ -6696,14 +6695,15 @@ msgid ""
 "to something that the law says he should not have.  Nothing has changed to "
 "draw that law into doubt. This form of piracy is flat out wrong."
 msgstr ""
-"dermed mens jeg forstår drar av disse justifications for piratkopiering, og "
-"jeg absolutt se motivasjon, etter min mening, til slutt, kuttes disse "
-"innsats på rettferdiggjørende kommersielle piratkopiering bare ikke det. "
-"Denne typen piratkopiering er frodig og bare ren galt. det forandre ikke "
-"innholdet det stjeler; det ikke forandre markedet den konkurrerer i. den "
-"bare gir noen tilgang til noe som loven sier han ikke skal ha. ingenting er "
-"endret for å tegne den lov i tvil. denne formen for piratkopiering er flat "
-"ut feil."
+"Dermed, selv om jeg forstår dragningen mot disse begrunnelsene for "
+"piratvirksomhet, og helt klart ser motivasjonen, så er konklusjonen "
+"etter mitt syn til slutt, at disse forsøkene på å begrunne kommersiell "
+"piratvirksomhet ganske enklet ikke holder.  Denne typen "
+"piratvirksomhet er krampaktig og ganske enkelt galt.  Den endrer ikke "
+"innholdet den stjeler, den endrer ikke markedet den konkurrerer i. "
+"Den gir kun noen tilgang til noe som loven sier at han ikke skulle "
+"hatt.  Ingenting har endret for å skape tvil om loven.  Denne formen "
+"for piratvirksomhet er rett ut galt."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -6783,6 +6783,12 @@ msgid ""
 "p2p sharing harms before we know how strongly the law should seek to either "
 "prevent it or find an alternative to assure the author of his profit."
 msgstr ""
+"Nøkkelen til <quote>piratvirksomheten</quote> som loven tar sikte på "
+"å svise er den bruken som <quote>frata forfatteren "
+"overskuddet</quote>.<placeholder type=\"footnote\" id=\"0\"/> Dette "
+"betyr vi må avgjøre hvorvidt og hvor mye p2p-deling skader før vi vet "
+"hvor sterkt loven bør søke å enten hindre det eller finne et "
+"alternativ for å sikre forfatteren hans overskudd."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "innovation"
