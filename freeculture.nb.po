@@ -6883,7 +6883,6 @@ msgstr ""
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "See Ipsos-Insight, <citetitle>TEMPO: Keeping Pace with Online Music "
 "Distribution</citetitle> (September 2002), reporting that 28 percent of "
@@ -6891,10 +6890,11 @@ msgid ""
 "and 30 percent have listened to digital music files stored on their "
 "computers."
 msgstr ""
-"se ipsos-innsikt, tempo: å holde tritt med online musikk distribusjon "
-"(september 2002), rapportering som 28 prosent av amerikanere i alderen tolv "
-"og eldre har lastet ned musikk fra Internett og 30 prosent har lyttet til "
-"digitale musikkfiler som er lagret på datamaskinene sine."
+"Se Ipsos-Insight, <citetitle>TEMPO: Keeping Pace with Online Music "
+"Distribution</citetitle> (september 2002), som rapporterer at 28 "
+"prosent av amerikanere eldre enn tolv år hadde lastet musikk ned fra "
+"internettet og 30 prosent hadde lyttet til digitale musikkfiler lagred "
+"på sine datamaskiner."
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6921,7 +6921,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Some of this enjoying involves copyright infringement. Some of it does not. "
 "And even among the part that is technically copyright infringement, "
@@ -6930,12 +6929,13 @@ msgid ""
 "voices around this debate usually do&mdash;the kinds of sharing that file "
 "sharing enables, and the kinds of harm it entails."
 msgstr ""
-"noen av denne nyter innebærer brudd på opphavsrettigheter. noen av det ikke. "
-"og selv blant delen som er teknisk brudd på opphavsrettigheter, beregne "
-"faktiske skade til opphavsrett eiere er mer komplisert enn man skulle tro. "
-"så vurdere&mdash;litt mer forsiktig enn polarisert stemmene rundt denne "
-"debatten vanligvis gjør&mdash;hvilke deler som gir mulighet for fildeling, "
-"og hva slags skade det innebærer."
+"Noe av denne nytelsen involverer brudd på opphavsretten.  Noe av den "
+"gjør det ikke.  Og selv for den delen som teknisk sett er brudd på "
+"opphavsretten er det å beregne den faktiske skaden påført "
+"opphavsrettseierne mer komplisert enn en skulle tro. "
+"Vurder&mdash;litt mer nøye enn de polariserte stemmene i denne "
+"debatten vanligvis gjør&mdash;de ulike typer deling som fildeling "
+"muliggjør, og hva slags skader de innebærer."
 
 #.  PAGE BREAK 81
 #. type: Content of: <book><part><chapter><section><para>
