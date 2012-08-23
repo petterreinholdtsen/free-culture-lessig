@@ -14776,6 +14776,7 @@ the material.
 </para>
 
 <!-- insert endnotes here -->
+<?latex \theendnotes ?>
 
 <!--PAGE BREAK 336-->
 
