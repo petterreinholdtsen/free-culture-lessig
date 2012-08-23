@@ -7852,7 +7852,7 @@ msgstr "Lovbestemt lisens"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recording artists"
-msgstr "Innspillingsartister"
+msgstr "Plateartister"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
@@ -7868,7 +7868,7 @@ msgstr "Kringkastere"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "VCR"
-msgstr "Videospiller/opptaker"
+msgstr "Videospiller / opptaker"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Film creators"
