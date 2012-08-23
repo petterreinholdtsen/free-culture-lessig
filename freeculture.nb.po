@@ -1371,11 +1371,11 @@ msgstr "fri kultur"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "permission culture vs."
-msgstr ""
+msgstr "tillatelseskultur mot"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "permission culture"
-msgstr ""
+msgstr "tillatelseskultur"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "free culture vs."
@@ -1497,7 +1497,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Valenti, Jack"
-msgstr ""
+msgstr "Valenti, Jack"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on creative property rights"
@@ -2113,7 +2113,7 @@ msgstr "Florida, Richard"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Rise of the Creative Class, The (Florida)"
-msgstr ""
+msgstr "Rise of the Creative Class, The (Florida)"
 
 #. type: Content of: <book><part><partintro><para><footnote><para>
 msgid ""
@@ -3170,7 +3170,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kodak Primer, The (Eastman)"
-msgstr ""
+msgstr "Kodak Primer, The (Eastman)"
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4165,7 +4165,7 @@ msgstr "Tocqueville, Alexis de"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
-msgstr ""
+msgstr "jurysystem"
 
 #.  f15
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4264,7 +4264,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "e-mail"
-msgstr ""
+msgstr "epost"
 
 #.  PAGE BREAK 56
 #. type: Content of: <book><part><chapter><para>
@@ -6330,6 +6330,11 @@ msgid ""
 "#14</ulink>. See also Ben Hunt, <quote>Companies Warned on Music Piracy Risk,"
 "</quote> <citetitle>Financial Times</citetitle>, 14 February 2003, 11."
 msgstr ""
+"Se IFPI (International Federation of the Phonographic Industry), "
+"<citetitle>The Recording Industry Commercial Piracy Report 2003</citetitle>, "
+"juli 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#14</ulink>. Se også Ben Hunt, <quote>Companies Warned on Music Piracy Risk,"
+"</quote> <citetitle>Financial Times</citetitle>, 14. februar 2003, 11."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6593,7 +6598,7 @@ msgstr "Microsoft"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "competitive strategies of"
-msgstr ""
+msgstr "konkurransemessige strategier for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Windows"
@@ -6605,7 +6610,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
-msgstr ""
+msgstr "Windows-operativsystemet til"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6880,6 +6885,18 @@ msgid ""
 "p2p system, you can share your favorite songs with your best friend&mdash; "
 "or your 20,000 best friends."
 msgstr ""
+"Resultatet var en eksplosjon.  Etter lansering i juli 1999, samlet "
+"Napster over 10 millioner brukere i løpet av ni måneder.  Etter atten "
+"måneder var det nesten 80 millioner registrerte brukere av "
+"systemet.<placeholder type=\"footnote\" id=\"0\"/> Rettsaker skøt "
+"Napster raskt ned, men andre tjenester dukket opp for å overta "
+"plassen.  (Kazaa er for tiden den mest populære p2p-tjenesten.  Den "
+"skryter av over 100 millioner medlemmer.)  Disse tjenestene har en "
+"anderledes arkitektur selv om de ikke er veldig forskjellige i "
+"funksjon: Hver av dem gjør det mulig for brukerne å gjøre innhold "
+"tilgjengelig til et ubegrenset antall andre brukere.  Med et "
+"p2p-system kan du dele dine favorittsanger med dine beste "
+"venner&mdash; eller dine 20&nbsp;000 beste venner."
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6919,6 +6936,18 @@ msgid ""
 "ease and inexpensiveness of file-sharing networks have inspired millions to "
 "enjoy music in a way that they hadn't before."
 msgstr ""
+"I følge en rekke estimater har en stor andel av amerikanere testet "
+"fildelings-teknologi.  En studie av Ipsos-Insight i september 2002 "
+"estimerte at 60 millioner amerikanere har lastet ned musikk&mdash;28 "
+"prosent av amerikanerne over 12.<placeholder type=\"footnote\" "
+"id=\"0\"/> En spørreundersøkelse fra NPD-gruppen sitert i "
+"<citetitle>The New York Times</citetitle> estimerte at 43 millioner "
+"innbyggere brukte fildelingsnettverk for å utveksle innhold i mai "
+"2003.<placeholder type=\"footnote\" id=\"1\"/> De aller fleste av dem "
+"er ikke unger.  Uansett hva de egentlige tallene er, en massiv mengde "
+"innhold blir <quote>tatt</quote> på disse nettverkene.  Enkelheten og "
+"den lave kostnaden til fildelingsnettverkene har inspirert millioner "
+"til å nyte musikk på måter de ikke før hadde gjort."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
