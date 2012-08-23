@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-23 06:57+0300\n"
+"POT-Creation-Date: 2012-08-23 20:08+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -6567,6 +6567,18 @@ msgstr ""
 "galt å ta eiendom uten tillatelse fra eiendomseieren.  Det er nøyaktig hva "
 "<quote>eiendom</quote> betyr."
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "piracy"
+msgstr "piratvirksomhet"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "in Asia"
+msgstr "i Asia"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "free software/open-source software (FS/OSS)"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "GNU/Linux operating system"
 msgstr "GNU/Linux-operativsystemet"
@@ -6575,17 +6587,25 @@ msgstr "GNU/Linux-operativsystemet"
 msgid "Linux operating system"
 msgstr "Linux-operativsystemet"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Microsoft"
 msgstr "Microsoft"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-msgid "Windows operating system of"
+msgid "competitive strategies of"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Windows"
 msgstr "Windows"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "international software piracy of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "Windows operating system of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14097,6 +14117,10 @@ msgstr ""
 "lære hunden din robot å danse jazz. dans jazz er en helt lovlig aktivitet. "
 "en bilder at eieren av aibopet.com trodde, hva et mulig problem kan det være "
 "med undervisning en robot hunden å danse?"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "government case against"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -22937,12 +22961,32 @@ msgstr ""
 "gir en <quote>perfekt storm</quote> for fri kultur."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "biomedical research"
+msgid "public domain"
+msgstr "allemannseie (public domain)"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "public projects in"
 msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "single nucleotied polymorphisms (SNPs)"
+msgstr "enkeltnukleotidforskjeller (SNPs)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Wellcome Trust"
 msgstr "Wellcome Trust"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "World Wide Web"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Global Positioning System"
+msgstr "Globalt posisjoneringssystem"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "biomedical research"
+msgstr "biomedisinsk forskning"
 
 #.  f6.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -23211,6 +23255,14 @@ msgstr ""
 "å drive programvareutvikling som er forskjellig fra Microsofts.<placeholder "
 "type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "General Public License (GPL)"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "GPL (General Public License)"
+msgstr ""
+
 #.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23247,6 +23299,10 @@ msgstr ""
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Krim, Jonathan"
 msgstr "Krim, Jonathan"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "WIPO meeting opposed by"
+msgstr ""
 
 #.  f9.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -26221,14 +26277,6 @@ msgstr "televisjon"
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "cable vs. broadcast"
 msgstr ""
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "piracy"
-msgstr "piratvirksomhet"
-
-#. type: Content of: <book><chapter><section><section><indexterm><secondary>
-msgid "in Asia"
-msgstr "i Asia"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "film industry"
