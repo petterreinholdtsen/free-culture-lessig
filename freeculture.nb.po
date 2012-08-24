@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-24 23:01+0300\n"
+"POT-Creation-Date: 2012-08-24 23:18+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1246,7 +1246,7 @@ msgstr ""
 "prosess.  RCA hadde hva Causby-ene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "Internet"
 msgstr "internet"
 
@@ -1383,6 +1383,14 @@ msgstr ""
 "historiefortelling, formidling av scener fra teater eller TV, delta i fan-"
 "klubber, deling av musikk, laging av kassetter&mdash;ble ikke styrt av "
 "lovverket."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Copyright infringement lawsuits"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "commercial creativity as primary purpose of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Brandeis, Louis D."
@@ -1632,6 +1640,26 @@ msgstr ""
 "internettets <quote>pirater</quote> også fjerne verdier fra vår kultur som "
 "har vært integrert til vår tradisjon helt fra starten."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Constitution, U.S."
+msgstr "Grunnloven i USA"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "First Amendment to"
+msgstr "Første tillegg til"
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "Copyright law"
+msgstr "opphavsrettslov"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "as protection of creators"
+msgstr "som beskyttelse for skapere"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "First Amendment"
+msgstr "Første grunnlovstillegg"
+
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Netanel, Neil Weinstock"
 msgstr "Netanel, Neil Weinstock"
@@ -1721,6 +1749,10 @@ msgstr ""
 "teknologiene.  Det vil være til stor skade for vår tradisjon og kultur hvis "
 "den får lov til å fortsette ukontrollert. Vi må forstå kilden til denne "
 "krigen.  Vi må finne en løsning snart."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "intellectual property rights"
+msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1924,10 +1956,6 @@ msgstr ""
 msgid "<quote>PIRACY</quote>"
 msgstr "<quote>Piratvirksomhet</quote>"
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
-msgid "Copyright law"
-msgstr "opphavsrettslov"
-
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "English"
 msgstr "Engelsk"
@@ -1978,6 +2006,18 @@ msgstr ""
 "En person kan bruke kopien til å spille den, men han har ingen rett til å "
 "robbe forfatteren for profitten, ved å lage flere kopier og distribuere "
 "etter eget forgodtbefinnende.<placeholder type=\"footnote\" id=\"0\"/>"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "efficient content distribution on"
+msgstr ""
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "peer-to-peer (p2p) file sharing"
+msgstr "peer-to-peer(p2p)-fildeling"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "efficiency of"
+msgstr ""
 
 #.  PAGE BREAK 31
 #. type: Content of: <book><part><partintro><para>
