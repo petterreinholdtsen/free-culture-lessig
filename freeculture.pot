@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-24 17:55+0300\n"
+"POT-Creation-Date: 2012-08-24 19:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,15 +241,16 @@ msgstr ""
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:179
 msgid ""
-"Cartoon in <xref linkend=\"fig-1711\"/> by Paul Conrad, copyright Tribune "
-"Media Services, Inc.  All rights reserved. Reprinted with permission."
+"Cartoon in <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul "
+"Conrad, copyright Tribune Media Services, Inc.  All rights "
+"reserved. Reprinted with permission."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:183
 msgid ""
-"Diagram in <xref linkend=\"fig-1761\"/> courtesy of the office of FCC "
-"Commissioner, Michael J. Copps."
+"Diagram in <xref linkend=\"fig-1761-pattern-modern-media-ownership\"/> "
+"courtesy of the office of FCC Commissioner, Michael J. Copps."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>

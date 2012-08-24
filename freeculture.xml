@@ -176,11 +176,11 @@ Excerpt from an editorial titled <quote>The Coming of Copyright Perpetuity,</quo
 &copy; 2003 by The New York Times Co.  Reprinted with permission.
 </para>
 <para>
-Cartoon in <xref linkend="fig-1711"/> by Paul Conrad, copyright Tribune
+Cartoon in <xref linkend="fig-1711-vcr-handgun-cartoonfig"/> by Paul Conrad, copyright Tribune
 Media Services, Inc.  All rights reserved. Reprinted with permission.
 </para>
 <para>
-Diagram in <xref linkend="fig-1761"/> courtesy of the office of FCC
+Diagram in <xref linkend="fig-1761-pattern-modern-media-ownership"/> courtesy of the office of FCC
 Commissioner, Michael J. Copps.
 </para>
 <para>
@@ -7911,7 +7911,7 @@ practice or to protect against an intruder. At least some would say that
 such a use would be good. It, too, is a technology that has both good
 and bad uses.
 </para>
-<figure id="fig-1711">
+<figure id="fig-1711-vcr-handgun-cartoonfig">
 <title>VCR/handgun cartoon.</title>
 <graphic fileref="images/1711.png"></graphic>
 </figure>
@@ -8125,7 +8125,7 @@ just large companies owning many radio stations, but a few companies
 owning as many outlets of media as possible. A picture describes this
 pattern better than a thousand words could do:
 </para>
-<figure id="fig-1761">
+<figure id="fig-1761-pattern-modern-media-ownership">
 <title>Pattern of modern media ownership.</title>
 <graphic fileref="images/1761.png"></graphic>
 </figure>
