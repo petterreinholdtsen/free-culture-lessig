@@ -7030,7 +7030,6 @@ msgstr ""
 
 #.  C.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are many who use sharing networks to get access to copyrighted content "
 "that is no longer sold or that they would not have purchased because the "
@@ -7045,30 +7044,31 @@ msgid ""
 "the same harm that occurs when I sell my collection of 1960s 45-rpm records "
 "to a local collector."
 msgstr ""
-"Det er mange som bruk deling av nettverk for å få tilgang til "
-"opphavsrettsbeskyttet innhold som selges ikke lenger, eller at de ikke ville "
-"ha kjøpt fordi transaksjonen kostnadene av nettet er for høyt. denne bruken "
-"av deling nettverk er blant den mest givende for mange. sanger som var en "
-"del av din barndom, men har lenge forsvunnet fra markedet magisk vises igjen "
-"på nettverket. (en venn fortalte meg at når hun oppdaget napster, hun "
-"tilbrakte en solid weekend \"minner om gamle sanger. hun var forbauset over "
-"omfanget av og blanding av innhold som var tilgjengelig\".) for innhold som "
-"ikke er solgt, er dette teknisk sett fremdeles en krenkelse av opphavsrett, "
-"om fordi eieren av opphavsretten ikke selger innholdet lenger, økonomisk "
-"skade er null&mdash;den samme skaden som oppstår når jeg selger min samling "
-"av 1960-tallet 45 rpm poster til en lokal solfangeren."
+"Det er mange som bruker delingsnettverk for å få tilgang til "
+"opphavsrettsbeskyttet innhold som ikke lenger er til salgs, eller som "
+"de ikke ville ha kjøpt på grunn av at transaksjonskostnadene på nettet "
+"er for høye.  Denne bruken av delingsnettverk er blant det mange "
+"finner mest givende.  Sanger som var del av din barndom men som har "
+"forsvunnet fra markedsplassen dukker magisk opp igjen på nettet.  (En "
+"venn fortalte meg at da hun oppdaget Napster, tilbrakte hun en hel "
+"helg med <quote>å mimre</quote> over gamle sanger.  Hun var overrasket "
+"over omfanget og variasjonen i innhold som var tilgjengelig.  For "
+"innhold som ikke blir sogt, så er dette fortsatt teknisk sett brudd på "
+"opphavsretten, selv om på grunn av at opphavsrettseieren ikke selger "
+"innholdet lenger så er den økonomiske skaden null&mdash;den samme "
+"skaden som inntreffer når jeg selger min samling med 45-rpm "
+"grammofonplater fra 1960-tallet til en lokal samler."
 
 #.  PAGE BREAK 82
 #.  D.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "Finally, there are many who use sharing networks to get access to content "
 "that is not copyrighted or that the copyright owner wants to give away."
 msgstr ""
-"til slutt, det er mange som bruker deling nettverk for å få tilgang til "
-"innhold som ikke er opphavsrettslig beskyttet, eller at eieren av "
-"opphavsretten ønsker å gi bort."
+"Til slutt er det mange som bruker delingsnettverk for å få tilgang "
+"til innhold som ikke er opphavsrettsbeskyttet eller der "
+"opphavsrettseieren ønsker å gi det bort."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "How do these different types of sharing balance out?"
