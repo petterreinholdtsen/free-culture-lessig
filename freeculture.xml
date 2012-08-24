@@ -395,7 +395,7 @@ disinterested, then the story I tell here will trouble you. For the
 changes I describe affect values that both sides of our political
 culture deem fundamental.
 </para>
-<indexterm id='idxpower' class='startofrange'><primary>power, concentration of</primary></indexterm>
+<indexterm id='idxpowerconcentrationof' class='startofrange'><primary>power, concentration of</primary></indexterm>
 <indexterm><primary>CodePink Women in Peace</primary></indexterm>
 <indexterm><primary>Safire, William</primary></indexterm>
 <indexterm><primary>Stevens, Ted</primary></indexterm>
@@ -432,7 +432,7 @@ altering the way our culture gets made; that change should worry
 you&mdash;whether or not you care about the Internet, and whether you're on
 Safire's left or on his right.
 </para>
-<indexterm startref='idxpower' class='endofrange'/>
+<indexterm startref='idxpowerconcentrationof' class='endofrange'/>
 <para>
 <emphasis role="strong">The inspiration</emphasis> for the title and for
 much of the argument of this book comes from the work of Richard
@@ -486,9 +486,9 @@ and its importance widely understood. Almost immediately, there
 was an explosion of interest in this newfound technology of manned
 flight, and a gaggle of innovators began to build upon it.
 </para>
-<indexterm id='idxairtraffic' class='startofrange'><primary>air traffic, land ownership vs.</primary></indexterm>
-<indexterm id='idxlandownership' class='startofrange'><primary>land ownership, air traffic and</primary></indexterm>
-<indexterm id='idxproprigtair' class='startofrange'><primary>property rights</primary><secondary>air traffic vs.</secondary></indexterm>
+<indexterm id='idxairtrafficlandownershipvs' class='startofrange'><primary>air traffic, land ownership vs.</primary></indexterm>
+<indexterm id='idxlandownershipairtrafficand' class='startofrange'><primary>land ownership, air traffic and</primary></indexterm>
+<indexterm id='idxpropertyrightsairtrafficvs' class='startofrange'><primary>property rights</primary><secondary>air traffic vs.</secondary></indexterm>
 <para>
 At the time the Wright brothers invented the airplane, American
 law held that a property owner presumptively owned not just the surface
@@ -596,10 +596,10 @@ end, the force of what seems <quote>obvious</quote> to everyone else&mdash;the p
 <quote>common sense</quote>&mdash;would prevail. Their <quote>private interest</quote> would not be
 allowed to defeat an obvious public gain.
 </para>
-<indexterm startref='idxproprigtair' class='endofrange'/>
-<indexterm startref='idxlandownership' class='endofrange'/>
-<indexterm startref='idxairtraffic' class='endofrange'/>
-<indexterm id='idxarmstrongedwin' class='startofrange'><primary>Armstrong, Edwin Howard</primary></indexterm>
+<indexterm startref='idxpropertyrightsairtrafficvs' class='endofrange'/>
+<indexterm startref='idxlandownershipairtrafficand' class='endofrange'/>
+<indexterm startref='idxairtrafficlandownershipvs' class='endofrange'/>
+<indexterm id='idxarmstrongedwinhoward' class='startofrange'><primary>Armstrong, Edwin Howard</primary></indexterm>
 <indexterm><primary>Bell, Alexander Graham</primary></indexterm>
 <indexterm><primary>Edison, Thomas</primary></indexterm>
 <indexterm><primary>Faraday, Michael</primary></indexterm>
@@ -751,7 +751,7 @@ would not even cover Armstrong's lawyers' fees. Defeated, broken, and
 now broke, in 1954 Armstrong wrote a short note to his wife and then
 stepped out of a thirteenth-story window to his death.
 </para>
-<indexterm startref='idxarmstrongedwin' class='endofrange'/>
+<indexterm startref='idxarmstrongedwinhoward' class='endofrange'/>
 <para>
 This is how the law sometimes works. Not often this tragically, and
 rarely with heroic drama, but sometimes, this is how it works. From
@@ -1104,7 +1104,10 @@ to which most of us remain oblivious.
 <title><quote>PIRACY</quote></title>
 <partintro>
 <!-- PAGE BREAK 30 -->
+<indexterm><primary>Copyright law</primary><secondary>English</secondary></indexterm>
 <indexterm id="idxmansfield1" class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
+<indexterm><primary>music publishing</primary></indexterm>
+<indexterm><primary>sheet music</primary></indexterm>
 <para>
 <emphasis role="strong">Since the inception</emphasis> of the law regulating creative property, there has
 been a war against <quote>piracy.</quote> The precise contours of this concept,
@@ -3033,6 +3036,9 @@ To Amend and Consolidate the Acts Respecting Copyright, 23
 (statement of John Philip Sousa, composer).
 </para></footnote>
 </para>
+<indexterm><primary>American Graphophone Company</primary></indexterm>
+<indexterm><primary>player pianos</primary></indexterm>
+<indexterm><primary>sheet music</primary></indexterm>
 <para>
 These arguments have familiar echoes in the wars of our day. So, too,
 do the arguments on the other side. The innovators who developed the
@@ -3057,7 +3063,6 @@ To Amend and Consolidate the Acts Respecting Copyright, 376 (prepared
 memorandum of Philip Mauro, general patent counsel of the American
 Graphophone Company Association).
 </para></footnote>
-<indexterm><primary>American Graphophone Company</primary></indexterm>
 </para>
 <para>
 The law soon resolved this battle in favor of the composer
@@ -14458,6 +14463,7 @@ the Internet, or the p2p technologies that are currently harming
 content providers on the Internet, we should find a relatively simple
 way to compensate those who are harmed.
 </para>
+<indexterm id='idxpromisestokeepfisher' class='startofrange'><primary>Promises to Keep (Fisher)</primary></indexterm>
 <para>
 The idea would be a modification of a proposal that has been
 floated by Harvard law professor William Fisher.<footnote>
@@ -14512,7 +14518,6 @@ distributed. On the basis of those numbers, then (3) artists would be
 compensated. The compensation would be paid for by (4) an appropriate
 tax.
 </para>
-<indexterm><primary>Promises to Keep (Fisher)</primary></indexterm>
 <para>
 Fisher's proposal is careful and comprehensive. It raises a million
 questions, most of which he answers well in his upcoming book,
@@ -14528,6 +14533,7 @@ system, then it can be continued. If this form of protection is no
 longer necessary, then the system could lapse into the old system of
 controlling access.
 </para>
+<indexterm startref='idxpromisestokeepfisher' class='endofrange'/>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 Fisher would balk at the idea of allowing the system to lapse. His aim

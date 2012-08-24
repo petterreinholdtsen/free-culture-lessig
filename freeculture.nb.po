@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-23 22:43+0300\n"
+"POT-Creation-Date: 2012-08-24 17:55+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1860,9 +1860,25 @@ msgstr ""
 msgid "<quote>PIRACY</quote>"
 msgstr "<quote>Piratvirksomhet</quote>"
 
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "Copyright law"
+msgstr "opphavsrettslov"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "English"
+msgstr "Engelsk"
+
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mansfield, William Murray, Lord"
 msgstr "Mansfield, William Murray, Lord"
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "music publishing"
+msgstr "musikkpublisering"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "sheet music"
+msgstr "noteark"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -5627,6 +5643,14 @@ msgstr ""
 "tjener penger på mine stykker, så vil jeg ha en andel</quote>.<placeholder "
 "type=\"footnote\" id=\"2\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "American Graphophone Company"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "player pianos"
+msgstr ""
+
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -5649,10 +5673,6 @@ msgstr ""
 "innlegg fra Philip Mauro, sjefspatentrådgiver for the American Graphophone "
 "Company Association)."
 
-#. type: Content of: <book><part><chapter><section><para><indexterm><primary>
-msgid "American Graphophone Company"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "These arguments have familiar echoes in the wars of our day. So, too, do the "
@@ -5666,8 +5686,7 @@ msgid ""
 "quote> <quote>All talk about `theft,'</quote> the general counsel of the "
 "American Graphophone Company wrote, <quote>is the merest claptrap, for there "
 "exists no property in ideas musical, literary or artistic, except as defined "
-"by statute.</quote><placeholder type=\"footnote\" id=\"1\"/> <placeholder "
-"type=\"indexterm\" id=\"2\"/>"
+"by statute.</quote><placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
 "Disse argumentene høres omtrent ut som argumentene fra våre dager. Det samme "
 "gjør argumentene fra den andre siden.  Oppfinnerne som utviklet det "
@@ -5680,8 +5699,7 @@ msgstr ""
 "quote>.  <quote>Alt snakk om 'tyveri',</quote> skrev sjefsjuristen til "
 "American Graphophone Company, <quote>er kun nonsens, for det finnes ingen "
 "eiendom i musikalske ideer, skriftlig eller kunstnerisk, unntatt det som er "
-"definert i loven.</quote><placeholder type=\"footnote\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/>"
+"definert i loven.</quote><placeholder type=\"footnote\" id=\"1\"/>"
 
 #.  PAGE BREAK 70
 #. type: Content of: <book><part><chapter><section><para>
@@ -6332,9 +6350,10 @@ msgid ""
 msgstr ""
 "Se IFPI (International Federation of the Phonographic Industry), "
 "<citetitle>The Recording Industry Commercial Piracy Report 2003</citetitle>, "
-"juli 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
-"#14</ulink>. Se også Ben Hunt, <quote>Companies Warned on Music Piracy Risk,"
-"</quote> <citetitle>Financial Times</citetitle>, 14. februar 2003, 11."
+"juli 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #14</ulink>. Se også Ben Hunt, <quote>Companies Warned on Music "
+"Piracy Risk,</quote> <citetitle>Financial Times</citetitle>, 14. februar "
+"2003, 11."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6885,18 +6904,17 @@ msgid ""
 "p2p system, you can share your favorite songs with your best friend&mdash; "
 "or your 20,000 best friends."
 msgstr ""
-"Resultatet var en eksplosjon.  Etter lansering i juli 1999, samlet "
-"Napster over 10 millioner brukere i løpet av ni måneder.  Etter atten "
-"måneder var det nesten 80 millioner registrerte brukere av "
-"systemet.<placeholder type=\"footnote\" id=\"0\"/> Rettsaker skøt "
-"Napster raskt ned, men andre tjenester dukket opp for å overta "
-"plassen.  (Kazaa er for tiden den mest populære p2p-tjenesten.  Den "
-"skryter av over 100 millioner medlemmer.)  Disse tjenestene har en "
-"anderledes arkitektur selv om de ikke er veldig forskjellige i "
-"funksjon: Hver av dem gjør det mulig for brukerne å gjøre innhold "
-"tilgjengelig til et ubegrenset antall andre brukere.  Med et "
-"p2p-system kan du dele dine favorittsanger med dine beste "
-"venner&mdash; eller dine 20&nbsp;000 beste venner."
+"Resultatet var en eksplosjon.  Etter lansering i juli 1999, samlet Napster "
+"over 10 millioner brukere i løpet av ni måneder.  Etter atten måneder var "
+"det nesten 80 millioner registrerte brukere av systemet.<placeholder type="
+"\"footnote\" id=\"0\"/> Rettsaker skøt Napster raskt ned, men andre "
+"tjenester dukket opp for å overta plassen.  (Kazaa er for tiden den mest "
+"populære p2p-tjenesten.  Den skryter av over 100 millioner medlemmer.)  "
+"Disse tjenestene har en anderledes arkitektur selv om de ikke er veldig "
+"forskjellige i funksjon: Hver av dem gjør det mulig for brukerne å gjøre "
+"innhold tilgjengelig til et ubegrenset antall andre brukere.  Med et p2p-"
+"system kan du dele dine favorittsanger med dine beste venner&mdash; eller "
+"dine 20&nbsp;000 beste venner."
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6908,10 +6926,9 @@ msgid ""
 "computers."
 msgstr ""
 "Se Ipsos-Insight, <citetitle>TEMPO: Keeping Pace with Online Music "
-"Distribution</citetitle> (september 2002), som rapporterer at 28 "
-"prosent av amerikanere eldre enn tolv år hadde lastet musikk ned fra "
-"internettet og 30 prosent hadde lyttet til digitale musikkfiler lagred "
-"på sine datamaskiner."
+"Distribution</citetitle> (september 2002), som rapporterer at 28 prosent av "
+"amerikanere eldre enn tolv år hadde lastet musikk ned fra internettet og 30 "
+"prosent hadde lyttet til digitale musikkfiler lagred på sine datamaskiner."
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6937,17 +6954,16 @@ msgid ""
 "enjoy music in a way that they hadn't before."
 msgstr ""
 "I følge en rekke estimater har en stor andel av amerikanere testet "
-"fildelings-teknologi.  En studie av Ipsos-Insight i september 2002 "
-"estimerte at 60 millioner amerikanere har lastet ned musikk&mdash;28 "
-"prosent av amerikanerne over 12.<placeholder type=\"footnote\" "
-"id=\"0\"/> En spørreundersøkelse fra NPD-gruppen sitert i "
-"<citetitle>The New York Times</citetitle> estimerte at 43 millioner "
-"innbyggere brukte fildelingsnettverk for å utveksle innhold i mai "
-"2003.<placeholder type=\"footnote\" id=\"1\"/> De aller fleste av dem "
-"er ikke unger.  Uansett hva de egentlige tallene er, en massiv mengde "
-"innhold blir <quote>tatt</quote> på disse nettverkene.  Enkelheten og "
-"den lave kostnaden til fildelingsnettverkene har inspirert millioner "
-"til å nyte musikk på måter de ikke før hadde gjort."
+"fildelings-teknologi.  En studie av Ipsos-Insight i september 2002 estimerte "
+"at 60 millioner amerikanere har lastet ned musikk&mdash;28 prosent av "
+"amerikanerne over 12.<placeholder type=\"footnote\" id=\"0\"/> En "
+"spørreundersøkelse fra NPD-gruppen sitert i <citetitle>The New York Times</"
+"citetitle> estimerte at 43 millioner innbyggere brukte fildelingsnettverk "
+"for å utveksle innhold i mai 2003.<placeholder type=\"footnote\" id=\"1\"/> "
+"De aller fleste av dem er ikke unger.  Uansett hva de egentlige tallene er, "
+"en massiv mengde innhold blir <quote>tatt</quote> på disse nettverkene.  "
+"Enkelheten og den lave kostnaden til fildelingsnettverkene har inspirert "
+"millioner til å nyte musikk på måter de ikke før hadde gjort."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6958,13 +6974,12 @@ msgid ""
 "voices around this debate usually do&mdash;the kinds of sharing that file "
 "sharing enables, and the kinds of harm it entails."
 msgstr ""
-"Noe av denne nytelsen involverer brudd på opphavsretten.  Noe av den "
-"gjør det ikke.  Og selv for den delen som teknisk sett er brudd på "
-"opphavsretten er det å beregne den faktiske skaden påført "
-"opphavsrettseierne mer komplisert enn en skulle tro. "
-"Vurder&mdash;litt mer nøye enn de polariserte stemmene i denne "
-"debatten vanligvis gjør&mdash;de ulike typer deling som fildeling "
-"muliggjør, og hva slags skader de innebærer."
+"Noe av denne nytelsen involverer brudd på opphavsretten.  Noe av den gjør "
+"det ikke.  Og selv for den delen som teknisk sett er brudd på opphavsretten "
+"er det å beregne den faktiske skaden påført opphavsrettseierne mer "
+"komplisert enn en skulle tro. Vurder&mdash;litt mer nøye enn de polariserte "
+"stemmene i denne debatten vanligvis gjør&mdash;de ulike typer deling som "
+"fildeling muliggjør, og hva slags skader de innebærer."
 
 #.  PAGE BREAK 81
 #. type: Content of: <book><part><chapter><section><para>
@@ -6987,12 +7002,12 @@ msgid ""
 "of purchasing."
 msgstr ""
 "Det er noen som bruker delingsnettverk som erstatninger for å kjøpe "
-"innhold.  Dermed vil disse i stedet for å kjøpe den når en ny "
-"Madonna-CD blir gitt ut, ganske enkelt ta den.  Vi kan diskutere om "
-"alle som tar den ville ha kjøpt den hvis deling ikke gjorde den gratis "
-"tilgjengelig.  De fleste ville sannsynligvis ikke det, men det er "
-"åpenbart noen som ville det.  Den siste gruppen er målet for kategori "
-"A: Brukere som laster ned i stedet for å kjøpe."
+"innhold.  Dermed vil disse i stedet for å kjøpe den når en ny Madonna-CD "
+"blir gitt ut, ganske enkelt ta den.  Vi kan diskutere om alle som tar den "
+"ville ha kjøpt den hvis deling ikke gjorde den gratis tilgjengelig.  De "
+"fleste ville sannsynligvis ikke det, men det er åpenbart noen som ville "
+"det.  Den siste gruppen er målet for kategori A: Brukere som laster ned i "
+"stedet for å kjøpe."
 
 #.  B.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
@@ -7005,14 +7020,13 @@ msgid ""
 "that the recommendations will actually be quite good. The net effect of this "
 "sharing could increase the quantity of music purchased."
 msgstr ""
-"Det er noen som bruker delingsnettverk til å teste musikk før de "
-"kjøper den.  For eksempel kan noen sende en en MP3 til en av sine "
-"venner med en artist han aldri har hørt om.  Denne vennen kjøper så "
-"CDer av denne artisten.  Dette er en slags målrettet reklame som har "
-"stor suksessrate.  Hvis en venn som anbefaler albumet ikke har noen "
-"fordeler av å gi en dårlig anbefaling, så kan en forvente at "
-"anbefalingene faktisk vil være ganske gode.  Totaleffekten av denne "
-"delingen kan øke mengden musikk som blir kjøpt."
+"Det er noen som bruker delingsnettverk til å teste musikk før de kjøper "
+"den.  For eksempel kan noen sende en en MP3 til en av sine venner med en "
+"artist han aldri har hørt om.  Denne vennen kjøper så CDer av denne "
+"artisten.  Dette er en slags målrettet reklame som har stor suksessrate.  "
+"Hvis en venn som anbefaler albumet ikke har noen fordeler av å gi en dårlig "
+"anbefaling, så kan en forvente at anbefalingene faktisk vil være ganske "
+"gode.  Totaleffekten av denne delingen kan øke mengden musikk som blir kjøpt."
 
 #.  C.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
@@ -26145,12 +26159,12 @@ msgstr ""
 "bør vi finne en relativt enkel måte å kompensere de som blir skadelidende."
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
+msgid "Promises to Keep (Fisher)"
+msgstr "Promises to Keep (Fisher)"
+
+#. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Fisher, William"
 msgstr "Fisher, William"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "Promises to Keep (Fisher)"
-msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
