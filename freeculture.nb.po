@@ -7624,7 +7624,7 @@ msgstr ""
 "sier, <quote>Dette er hvor mye vi har tapt</quote>, så må vi også "
 "spørre oss <quote>hvor mye har samfunnet fått igjen fra p2p-deling? "
 "Hva gjør oss mer effektive?  Hva er innholdet som ellers ville være "
-"utilgjengelig?</quote>
+"utilgjengelig?</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
