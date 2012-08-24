@@ -6977,7 +6977,6 @@ msgstr ""
 
 #.  A.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are some who use sharing networks as substitutes for purchasing "
 "content. Thus, when a new Madonna CD is released, rather than buying the CD, "
@@ -6987,16 +6986,16 @@ msgid ""
 "would.  The latter are the target of category A: users who download instead "
 "of purchasing."
 msgstr ""
-"Det er noen som bruker deling nettverk som erstatninger for å kjøpe innhold. "
-"Derfor, når en ny madonna cd frigis, i stedet for å kjøpe cd, disse brukerne "
-"bare ta det. Vi kan liten uenighet om om alle som tar det ville faktisk ha "
-"kjøpt den hvis deling ikke gjøre den tilgjengelig gratis. mest trolig ikke "
-"ville ha, men klart det er noen som ville. sistnevnte er målet for kategori "
-"a: brukere som laster ned i stedet for å kjøpe."
+"Det er noen som bruker delingsnettverk som erstatninger for å kjøpe "
+"innhold.  Dermed vil disse i stedet for å kjøpe den når en ny "
+"Madonna-CD blir gitt ut, ganske enkelt ta den.  Vi kan diskutere om "
+"alle som tar den ville ha kjøpt den hvis deling ikke gjorde den gratis "
+"tilgjengelig.  De fleste ville sannsynligvis ikke det, men det er "
+"åpenbart noen som ville det.  Den siste gruppen er målet for kategori "
+"A: Brukere som laster ned i stedet for å kjøpe."
 
 #.  B.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are some who use sharing networks to sample music before purchasing "
 "it. Thus, a friend sends another friend an MP3 of an artist he's not heard "
@@ -7006,13 +7005,14 @@ msgid ""
 "that the recommendations will actually be quite good. The net effect of this "
 "sharing could increase the quantity of music purchased."
 msgstr ""
-"Det er noen som bruker deling nettverk til å sample musikk før du kjøper "
-"den. Således, en venn sender en annen venn en mp3 av kunstner, ikke er han "
-"hørt om. andre venn deretter kjøper CDer av at artist. Dette er en slags "
-"målrettet annonsering, ganske sannsynlig å lykkes. Hvis venn anbefale "
-"albumet får noe fra en dårlig anbefaling, kan man forvente at anbefalingene "
-"vil faktisk være ganske god. netto effekt av en slik deling kan øke antallet "
-"av musikk som er kjøpt."
+"Det er noen som bruker delingsnettverk til å teste musikk før de "
+"kjøper den.  For eksempel kan noen sende en en MP3 til en av sine "
+"venner med en artist han aldri har hørt om.  Denne vennen kjøper så "
+"CDer av denne artisten.  Dette er en slags målrettet reklame som har "
+"stor suksessrate.  Hvis en venn som anbefaler albumet ikke har noen "
+"fordeler av å gi en dårlig anbefaling, så kan en forvente at "
+"anbefalingene faktisk vil være ganske gode.  Totaleffekten av denne "
+"delingen kan øke mengden musikk som blir kjøpt."
 
 #.  C.
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
