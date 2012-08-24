@@ -7199,7 +7199,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "But just because the industry was wrong before does not mean it is wrong "
 "today. To evaluate the real threat that p2p sharing presents to the industry "
@@ -7210,13 +7209,14 @@ msgid ""
 "emphasis> harmful type A sharing is, and how beneficial the other types of "
 "sharing are."
 msgstr ""
-"men nettopp fordi industrien var galt før betyr ikke det er galt i dag. Hvis "
-"du vil evaluere den virkelige trusselen at p2p fildeling presenterer til "
-"industrien spesielt, og samfunnet generelt&mdash; eller minst samfunn som "
-"arver tradisjon som ga oss filmindustrien, rullebladet industri, radioen "
-"industrien, kabel-tv og vcr&mdash;er spørsmålet ikke bare om en deling er "
-"skadelig. spørsmålet er hvordan skadelige type er også en deling, og hvor "
-"nyttig de andre typene deling er."
+"Men det at industrien har tatt feil før betyr ikke at de tar feil i "
+"dag.  For å evaluere den virkelige trusselen som p2p-deling "
+"representerer for indistrien spesielt, og samfunnet "
+"generelt&mdash;eller i hvert fall det samfunnet som arvet tradisjonen "
+"som ga oss filmindistrien, plateindustrien, radioindustrien, kabel-TV "
+"og videospilleren&mdash;så er ikke spørsmåle kun om type-A-deling er "
+"skadelig.  Spørsmålet er også <emphasis>hvor</emphasis> skadelig "
+"type-A-deling er, og hvor nyttige de andre typene deling er."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -7242,15 +7242,14 @@ msgid "sales levels of"
 msgstr "salgsnivå for"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Could that be true? Could the industry as a whole be gaining because of file "
 "sharing? Odd as that might sound, the data about CD sales actually suggest "
 "it might be close."
 msgstr ""
-"kan det være sant? kunne industrien som helhet bli stadig mer på grunn av "
-"fildeling? rart som det kan høres, data om cd-salg faktisk tyder det kanskje "
-"Lukk."
+"Kan det være riktig?  Kan industrien som helhet øke i omfang på grunn "
+"av fildeling?  Selv om det kan høres rart ut, så foreslår faktisk "
+"salgstall for CD-er at det ikke er langt unna sannheten."
 
 #.  f12
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
