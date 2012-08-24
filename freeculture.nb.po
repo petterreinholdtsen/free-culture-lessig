@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-24 19:21+0300\n"
+"POT-Creation-Date: 2012-08-24 23:01+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -763,6 +763,18 @@ msgstr ""
 "<quote>i ubestemt grad, oppover,</quote> så hadde regjeringen trengt seg inn "
 "på deres eiendom, og Causbys ønsket å sette en stopper for dette."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Douglas, William O."
+msgstr "Douglas, William O."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Supreme Court, U.S."
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "on airspace vs. land rights"
+msgstr ""
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "The Supreme Court agreed to hear the Causbys' case. Congress had declared "
@@ -904,6 +916,14 @@ msgstr "Edison, Thomas"
 msgid "Faraday, Michael"
 msgstr "Faraday, Michael"
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "radio"
+msgstr "radio"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "FM spectrum of"
+msgstr ""
+
 #.  PAGE BREAK 19
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -996,6 +1016,18 @@ msgstr ""
 "noen gang før hadde vært hørt fra en radio-<quote>musikk-boks</quote>."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "RCA"
+msgstr "RCA"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "media"
+msgstr "media"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "ownership concentration in"
+msgstr "eierskapskonsentrasjon i"
+
 #. PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1011,7 +1043,7 @@ msgstr ""
 "radiomarkedet. I 1935 var det tusen radiostasjoner over hele USA, men "
 "stasjonene i de store byene var alle eid av en liten håndfull selskaper."
 
-#. type: Content of: <book><chapter><para><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Sarnoff, David"
 msgstr "Sarnoff, David"
 
@@ -1053,20 +1085,22 @@ msgstr ""
 "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "Lessing, Lawrence"
-msgstr "Lessing, Lawrence"
+msgid "FM radio"
+msgstr "FM-radio"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Armstrong's invention threatened RCA's AM empire, so the company launched a "
 "campaign to smother FM radio. While FM may have been a superior technology, "
-"Sarnoff was a superior tactician.  As one author described, <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Sarnoff was a superior tactician.  As one author described,"
 msgstr ""
 "Armstrongs oppfinnelse truet RCAs AM-herredømme, så selskapet lanserte en "
 "kampanje for å knuse FM-radio. Mens FM kan ha vært en overlegen teknologi, "
-"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik, "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"var Sarnoff en overlegen taktiker. En forfatter beskrev det slik,"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Lessing, Lawrence"
+msgstr "Lessing, Lawrence"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid "Lessing, 226."
@@ -1088,6 +1122,14 @@ msgstr ""
 "maktforholdene rundt radio &hellip; og muligens fjerningen av det nøye "
 "begrensede AM-systemet som var grunnlaget for RCA stigning til makt."
 "<placeholder type=\"footnote\" id=\"0\"/>"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "FCC"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "on FM radio"
+msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1204,6 +1246,14 @@ msgstr ""
 "prosess.  RCA hadde hva Causby-ene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Internet"
+msgstr "internet"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "development of"
+msgstr "utviklingen av"
+
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
 "Amanda Lenhart, <quote>The Ever-Shifting Internet Population: A New Look at "
@@ -1277,6 +1327,14 @@ msgstr ""
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Barlow, Joel"
 msgstr "Barlow, Joel"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "culture"
+msgstr "kultur"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "commercial vs. noncommercial"
+msgstr "kommersiell vs. ikke-kommersiell"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Webster, Noah"
@@ -7209,14 +7267,13 @@ msgid ""
 "emphasis> harmful type A sharing is, and how beneficial the other types of "
 "sharing are."
 msgstr ""
-"Men det at industrien har tatt feil før betyr ikke at de tar feil i "
-"dag.  For å evaluere den virkelige trusselen som p2p-deling "
-"representerer for indistrien spesielt, og samfunnet "
-"generelt&mdash;eller i hvert fall det samfunnet som arvet tradisjonen "
-"som ga oss filmindistrien, plateindustrien, radioindustrien, kabel-TV "
-"og videospilleren&mdash;så er ikke spørsmåle kun om type-A-deling er "
-"skadelig.  Spørsmålet er også <emphasis>hvor</emphasis> skadelig "
-"type-A-deling er, og hvor nyttige de andre typene deling er."
+"Men det at industrien har tatt feil før betyr ikke at de tar feil i dag.  "
+"For å evaluere den virkelige trusselen som p2p-deling representerer for "
+"indistrien spesielt, og samfunnet generelt&mdash;eller i hvert fall det "
+"samfunnet som arvet tradisjonen som ga oss filmindistrien, plateindustrien, "
+"radioindustrien, kabel-TV og videospilleren&mdash;så er ikke spørsmåle kun "
+"om type-A-deling er skadelig.  Spørsmålet er også <emphasis>hvor</emphasis> "
+"skadelig type-A-deling er, og hvor nyttige de andre typene deling er."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -7247,9 +7304,9 @@ msgid ""
 "sharing? Odd as that might sound, the data about CD sales actually suggest "
 "it might be close."
 msgstr ""
-"Kan det være riktig?  Kan industrien som helhet øke i omfang på grunn "
-"av fildeling?  Selv om det kan høres rart ut, så foreslår faktisk "
-"salgstall for CD-er at det ikke er langt unna sannheten."
+"Kan det være riktig?  Kan industrien som helhet øke i omfang på grunn av "
+"fildeling?  Selv om det kan høres rart ut, så foreslår faktisk salgstall for "
+"CD-er at det ikke er langt unna sannheten."
 
 #.  f12
 #. type: Content of: <book><part><chapter><section><para><footnote><para>

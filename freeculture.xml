@@ -322,7 +322,7 @@ c      INDEX
 
 <preface id="preface">
 <title>PREFACE</title>
-<indexterm id="idxpoguedavid" class='startofrange'><primary>Pogue, David</primary></indexterm>
+<indexterm id='idxpoguedavid' class='startofrange'><primary>Pogue, David</primary></indexterm>
 <para>
 <emphasis role="bold">At the end</emphasis> of his review of my first
 book, <citetitle>Code: And Other Laws of Cyberspace</citetitle>, David
@@ -358,7 +358,7 @@ off. It is an argument about how the battles that now rage regarding life
 on-line have fundamentally affected <quote>people who aren't online.</quote> There
 is no switch that will insulate us from the Internet's effect.
 </para>
-<indexterm startref="idxpoguedavid" class='endofrange'/>
+<indexterm startref='idxpoguedavid' class='endofrange'/>
 <para>
 But unlike <citetitle>Code</citetitle>, the argument here is not much
 about the Internet itself. It is instead about the consequence of the
@@ -527,6 +527,8 @@ property, and the Causbys wanted it to stop.
 </para>
 <indexterm><primary>Causby, Thomas Lee</primary></indexterm>
 <indexterm><primary>Causby, Tinie</primary></indexterm>
+<indexterm id='idxdouglaswilliamo' class='startofrange'><primary>Douglas, William O.</primary></indexterm>
+<indexterm id='idxsupremecourtusonairspacevslandrights' class='startofrange'><primary>Supreme Court, U.S.</primary><secondary>on airspace vs. land rights</secondary></indexterm>
 <para>
 The Supreme Court agreed to hear the Causbys' case. Congress had
 declared the airways public, but if one's property really extended to the
@@ -564,6 +566,7 @@ Goldstein, <citetitle>Real Property</citetitle> (Mineola, N.Y.: Foundation Press
 <para>
 <quote>Common sense revolts at the idea.</quote>
 </para>
+<indexterm startref='idxdouglaswilliamo' class='endofrange'/>
 <para>
 This is how the law usually works. Not often this abruptly or
 impatiently, but eventually, this is how it works. It was Douglas's style not to
@@ -596,13 +599,15 @@ end, the force of what seems <quote>obvious</quote> to everyone else&mdash;the p
 <quote>common sense</quote>&mdash;would prevail. Their <quote>private interest</quote> would not be
 allowed to defeat an obvious public gain.
 </para>
-<indexterm startref='idxpropertyrightsairtrafficvs' class='endofrange'/>
-<indexterm startref='idxlandownershipairtrafficand' class='endofrange'/>
 <indexterm startref='idxairtrafficlandownershipvs' class='endofrange'/>
+<indexterm startref='idxlandownershipairtrafficand' class='endofrange'/>
+<indexterm startref='idxpropertyrightsairtrafficvs' class='endofrange'/>
+<indexterm startref='idxsupremecourtusonairspacevslandrights' class='endofrange'/>
 <indexterm id='idxarmstrongedwinhoward' class='startofrange'><primary>Armstrong, Edwin Howard</primary></indexterm>
 <indexterm><primary>Bell, Alexander Graham</primary></indexterm>
 <indexterm><primary>Edison, Thomas</primary></indexterm>
 <indexterm><primary>Faraday, Michael</primary></indexterm>
+<indexterm id='idxradiofmspectrumof' class='startofrange'><primary>radio</primary><secondary>FM spectrum of</secondary></indexterm>
 <para>
 <emphasis role='strong'>Edwin Howard Armstrong</emphasis> is one of
 America's forgotten inventor geniuses. He came to the great American
@@ -654,6 +659,8 @@ Lawrence Lessing, <citetitle>Man of High Fidelity: Edwin Howard Armstrong</citet
 </para></footnote>
 </para>
 </blockquote>
+<indexterm id='idxrca' class='startofrange'><primary>RCA</primary></indexterm>
+<indexterm id='idxmediaownershipconcentrationin' class='startofrange'><primary>media</primary><secondary>ownership concentration in</secondary></indexterm>
 <para>
 As our own common sense tells us, Armstrong had discovered a vastly
 superior radio technology. But at the time of his invention, Armstrong
@@ -684,14 +691,15 @@ www.webstationone.com/fecha, available at
 </para></footnote>
 </para>
 </blockquote>
-<indexterm id='idxlessing' class='startofrange'><primary>Lessing, Lawrence</primary></indexterm>
+<indexterm id='idxfmradio' class='startofrange'><primary>FM radio</primary></indexterm>
+<indexterm><primary>Sarnoff, David</primary></indexterm>
 <para>
 Armstrong's invention threatened RCA's AM empire, so the company
 launched a campaign to smother FM radio. While FM may have been a
 superior technology, Sarnoff was a superior tactician.  As one author
 described,
-<indexterm><primary>Sarnoff, David</primary></indexterm>
 </para>
+<indexterm id='idxlessinglawrence' class='startofrange'><primary>Lessing, Lawrence</primary></indexterm>
 <blockquote>
 <para>
 The forces for FM, largely engineering, could not overcome the weight
@@ -703,6 +711,7 @@ on which RCA had grown to power.<footnote><para>Lessing, 226.
 </para></footnote>
 </para>
 </blockquote>
+<indexterm id='idxfcconfmradio' class='startofrange'><primary>FCC</primary><secondary>on FM radio</secondary></indexterm>
 <para>
 RCA at first kept the technology in house, insisting that further
 tests were needed. When, after two years of testing, Armstrong grew
@@ -727,7 +736,7 @@ Lessing, 256.
 </para></footnote>
 </para>
 </blockquote>
-<indexterm startref='idxlessing' class='endofrange'/>
+<indexterm startref='idxlessinglawrence' class='endofrange'/>
 <indexterm><primary>AT&amp;T</primary></indexterm>
 <para>
 To make room in the spectrum for RCA's latest gamble, television,
@@ -739,6 +748,8 @@ FM relaying stations would mean radio stations would have to buy
 wired links from AT&amp;T.) The spread of FM radio was thus choked, at
 least temporarily.
 </para>
+<indexterm startref='idxradiofmspectrumof' class='endofrange'/>
+<indexterm startref='idxfcconfmradio' class='endofrange'/>
 <para>
 Armstrong resisted RCA's efforts. In response, RCA resisted
 Armstrong's patents. After incorporating FM technology into the
@@ -751,6 +762,7 @@ would not even cover Armstrong's lawyers' fees. Defeated, broken, and
 now broke, in 1954 Armstrong wrote a short note to his wife and then
 stepped out of a thirteenth-story window to his death.
 </para>
+<indexterm startref='idxfmradio' class='endofrange'/>
 <indexterm startref='idxarmstrongedwinhoward' class='endofrange'/>
 <para>
 This is how the law sometimes works. Not often this tragically, and
@@ -768,6 +780,9 @@ another, are sustained through this subtle corruption of our political
 process. RCA had what the Causbys did not: the power to stifle the
 effect of technological change.
 </para>
+<indexterm startref='idxrca' class='endofrange'/>
+<indexterm startref='idxmediaownershipconcentrationin' class='endofrange'/>
+<indexterm id='idxinternetdevelopmentof' class='startofrange'><primary>Internet</primary><secondary>development of</secondary></indexterm>
 <para>
 <emphasis role="strong">There's no</emphasis> single inventor of the Internet. Nor is there any good date
 upon which to mark its birth. Yet in a very short time, the Internet
@@ -803,7 +818,9 @@ old as the Republic itself. Most, if they recognized this change,
 would reject it. Yet most don't even see the change that the Internet
 has introduced.
 </para>
+<indexterm startref='idxinternetdevelopmentof' class='endofrange'/>
 <indexterm><primary>Barlow, Joel</primary></indexterm>
+<indexterm id='idxculturecommercialvsnoncommercial' class='startofrange'><primary>culture</primary><secondary>commercial vs. noncommercial</secondary></indexterm>
 <indexterm><primary>Webster, Noah</primary></indexterm>
 <para>
 We can glimpse a sense of this change by distinguishing between
@@ -912,6 +929,7 @@ more efficient, more vibrant technology for building culture. They are
 succeeding in their plan to remake the Internet before the Internet
 remakes them.
 </para>
+<indexterm startref='idxculturecommercialvsnoncommercial' class='endofrange'/>
 <indexterm><primary>Valenti, Jack</primary><secondary> on creative property rights</secondary></indexterm>
 <para>
 It doesn't seem this way to many. The battles over copyright and the
@@ -1105,7 +1123,7 @@ to which most of us remain oblivious.
 <partintro>
 <!-- PAGE BREAK 30 -->
 <indexterm><primary>Copyright law</primary><secondary>English</secondary></indexterm>
-<indexterm id="idxmansfield1" class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
+<indexterm id='idxmansfield1' class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
 <indexterm><primary>music publishing</primary></indexterm>
 <indexterm><primary>sheet music</primary></indexterm>
 <para>
@@ -1275,7 +1293,7 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
 <title>CHAPTER ONE: Creators</title>
-<indexterm id="idxanimadedcartoons" class='startofrange'><primary>animated cartoons</primary></indexterm>
+<indexterm id='idxanimadedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
 <indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
 <para>
 <emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
@@ -1547,7 +1565,7 @@ the permission of the original copyright owner is illegal. It is an
 infringement of the original copyright to make a copy or a derivative
 work without the original copyright owner's permission.
 </para>
-<indexterm id="idxwinickjudd" class='startofrange'><primary>Winick, Judd</primary></indexterm>
+<indexterm id='idxwinickjudd' class='startofrange'><primary>Winick, Judd</primary></indexterm>
 <para>
 Yet this illegal market exists and indeed flourishes in Japan, and in
 the view of many, it is precisely because it exists that Japanese manga
@@ -1735,7 +1753,7 @@ free culture. It is becoming much less so.
 <chapter label="2" id="mere-copyists">
 <title>CHAPTER TWO: <quote>Mere Copyists</quote></title>
 <indexterm id='idxcameratech' class='startofrange'><primary>camera technology</primary></indexterm>
-<indexterm id="idxphotography" class='startofrange'><primary>photography</primary></indexterm>
+<indexterm id='idxphotography' class='startofrange'><primary>photography</primary></indexterm>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1839</emphasis>, Louis Daguerre invented
@@ -1759,7 +1777,7 @@ taking of a picture from its developing. These were still plates of
 glass, and thus it was still not a process within reach of most
 amateurs.
 </para>
-<indexterm id="idxeastmangeorge" class='startofrange'><primary>Eastman, George</primary></indexterm>
+<indexterm id='idxeastmangeorge' class='startofrange'><primary>Eastman, George</primary></indexterm>
 <para>
 The technological change that made mass photography possible
 didn't happen until 1888, and was the creation of a single man. George
@@ -2401,7 +2419,7 @@ rises in the ranks of stories. People read what is popular; what is
 popular has been selected by a very democratic process of
 peer-generated rankings.
 </para>
-<indexterm id="idxwinerdave" class='startofrange'><primary>Winer, Dave</primary></indexterm>
+<indexterm id='idxwinerdave' class='startofrange'><primary>Winer, Dave</primary></indexterm>
 <para>
 There's a second way, as well, in which blogs have a different cycle
 <!-- PAGE BREAK 57 -->
@@ -2498,7 +2516,7 @@ extraordinary to report.
 </para>
 <indexterm startref='idxblogs1' class='endofrange'/>
 <indexterm startref="idxwinerdave" class='endofrange'/>
-<indexterm id="idxbrownjohnseely" class='startofrange'><primary>Brown, John Seely</primary></indexterm>
+<indexterm id='idxbrownjohnseely' class='startofrange'><primary>Brown, John Seely</primary></indexterm>
 <indexterm id='idxadvertising1' class='startofrange'><primary>advertising</primary></indexterm>
 <para>
 <emphasis role='strong'>John Seely Brown</emphasis> is the chief
@@ -2624,7 +2642,7 @@ quipped to me in a rare moment of despondence.
 <chapter label="3" id="catalogs">
 <title>CHAPTER THREE: Catalogs</title>
 <indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute (RPI)</see></indexterm>
-<indexterm id="idxrensselaer" class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
+<indexterm id='idxrensselaer' class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
 <para>
 <emphasis role='strong'>In the fall</emphasis> of 2002, Jesse Jordan
 of Oceanside, New York, enrolled as a freshman at Rensselaer
