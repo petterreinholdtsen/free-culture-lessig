@@ -7600,20 +7600,19 @@ msgstr ""
 "bedre av: det er en stor bok!)"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Likewise for work in the public domain: This sharing benefits society with "
 "no legal harm to authors at all. If efforts to solve the problem of type A "
 "sharing destroy the opportunity for type D sharing, then we lose something "
 "important in order to protect type A content."
 msgstr ""
-"det samme gjelder arbeid i public domain: denne deling fordeler samfunnet "
-"med ingen juridiske skade til forfattere i det hele tatt. Hvis innsats for å "
-"løse problemet med skriver du inn en deling ødelegge muligheten for typen d "
-"deling, så vi mister noe viktig for å beskytte type en innhold."
+"Det samme gjelder for allemannseide verk: Denne delingen gagner "
+"samfunnet uten noen juridisk skade mot forfattere i det hele tatt. "
+"Hvis innsats for å løse problemet med type-A-deling ødelegger "
+"muligheten for type-D-deling, så mister vi noe viktig for å beskytte "
+"type-A-innhold."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The point throughout is this: While the recording industry understandably "
 "says, <quote>This is how much we've lost,</quote> we must also ask, "
@@ -7621,10 +7620,11 @@ msgid ""
 "efficiencies? What is the content that otherwise would be unavailable?</"
 "quote>"
 msgstr ""
-"det hele er dette: mens recording industry forståelig sier, \"Dette er hvor "
-"mye vi har mistet,\" må vi også stille, \"hvor mye har samfunnet fra p2p "
-"fildeling? Hva er effektiviteten? Hva er innholdet som ellers ville være "
-"utilgjengelig?\""
+"Poenget med alt dette er: Selv om plateindustrien forståelig nok "
+"sier, <quote>Dette er hvor mye vi har tapt</quote>, så må vi også "
+"spørre oss <quote>hvor mye har samfunnet fått igjen fra p2p-deling? "
+"Hva gjør oss mer effektive?  Hva er innholdet som ellers ville være "
+"utilgjengelig?</quote>
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
