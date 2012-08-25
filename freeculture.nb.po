@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-25 08:02+0300\n"
+"POT-Creation-Date: 2012-08-25 12:56+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -2206,7 +2206,7 @@ msgstr "opphavsrettslov"
 msgid "on republishing vs. transformation of original work"
 msgstr ""
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "creativity"
 msgstr "kreativitet"
 
@@ -2348,6 +2348,22 @@ msgstr "animasjonsfilmer"
 msgid "cartoon films"
 msgstr "tegnefilmer"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "films"
+msgstr "filmer"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "animated"
+msgstr "animert"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Steamboat Willie"
+msgstr "Steamboat Willie"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Mikey Mouse"
+msgstr "Mikke Mus"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "<emphasis role=\"strong\">In 1928</emphasis>, a cartoon character was born. "
@@ -2363,6 +2379,10 @@ msgstr ""
 "York City, ble den første vidt distribuerte tegnefilmen med synkronisert "
 "lyd, <citetitle>Steamboat Willy</citetitle>, vist frem med figuren som "
 "skulle bli til Mikke Mus."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Disney, Walt"
+msgstr "Disney, Walt"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2460,6 +2480,14 @@ msgstr ""
 "standarden som andre måtte sloss for å oppfylle.  Og ganske ofte var Disneys "
 "store geni, hans gnist av kreativitet, bygget på arbeidet til andre."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Keaton, Buster"
+msgstr "Keaton, Buster"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Steamboat Bill, Jr."
+msgstr "Steamboat Bill, Jr."
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "This much is familiar. What you might not know is that 1928 also marks "
@@ -2487,6 +2515,22 @@ msgstr ""
 "citetitle>. var en klassiker av denne typen, berømt blant film-elskere for "
 "sine utrolige stunts.  Filmen var en klassisk Keaton&mdash;fantastisk "
 "populær og blant de beste i sin sjanger."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "derivative works"
+msgstr "avledede verker"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "piracy vs."
+msgstr "piratvirksomhet vs."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "piracy"
+msgstr "piratvirksomhet"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "derivative work vs."
+msgstr "avledede verk vas."
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -2534,6 +2578,14 @@ msgstr ""
 "Bill, Jr., som igjen var inspirert av sangen <quote>Steamboat Bill</quote>, "
 "at vi får Steamboat Willie.  Og fra Steamboat Willie får vi så Mikke Mus."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "by transforming previous works"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Disney, Inc."
+msgstr "Disney, Inc."
+
 #.  f3
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -2569,6 +2621,10 @@ msgstr ""
 "Likevel var disse bidragene bygget på toppen av fundamentet som var lånt.  "
 "Disney bygget på arbeidet til andre som kom før han, og skapte noe nytt ut "
 "av noe som bare var litt gammelt."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Grimm fairy tales"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6728,10 +6784,6 @@ msgstr ""
 "galt å ta eiendom uten tillatelse fra eiendomseieren.  Det er nøyaktig hva "
 "<quote>eiendom</quote> betyr."
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "piracy"
-msgstr "piratvirksomhet"
-
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "in Asia"
 msgstr "i Asia"
@@ -10736,10 +10788,6 @@ msgstr ""
 "sikre at en kopi av arbeidet vil være rundt når opphavsretten utløpt, slik "
 "at andre kan få tilgang til og kopiere arbeidet."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "films"
-msgstr "filmer"
-
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archive of"
 msgstr "arkiv av"
@@ -11144,10 +11192,6 @@ msgstr ""
 "in på air force en etter assassination av president kennedy har valenti i "
 "bakgrunnen. i hans nesten førti år kjører mpaa, har valenti etablert seg som "
 "kanskje mest iøynefallende og effektiv korridorpolitiker i washington."
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Disney, Inc."
-msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Sony Pictures Entertainment"

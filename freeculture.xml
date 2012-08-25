@@ -1314,6 +1314,9 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 <title>CHAPTER ONE: Creators</title>
 <indexterm id='idxanimatedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
 <indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
+<indexterm id='idxfilmsanimated' class='startofrange'><primary>films</primary><secondary>animated</secondary></indexterm>
+<indexterm id='idxsteamboatwillie' class='startofrange'><primary>Steamboat Willie</primary></indexterm>
+<indexterm id='idxmikeymouse' class='startofrange'><primary>Mikey Mouse</primary></indexterm>
 <para>
 <emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
 made his debut in May of that year, in a silent flop called <citetitle>Plane Crazy</citetitle>.
@@ -1321,6 +1324,7 @@ In November, in New York City's Colony Theater, in the first widely
 distributed cartoon synchronized with sound, <citetitle>Steamboat Willie</citetitle> brought
 to life the character that would become Mickey Mouse.
 </para>
+<indexterm id='idxdisneywalt' class='startofrange'><primary>Disney, Walt</primary></indexterm>
 <para>
 Synchronized sound had been introduced to film a year earlier in the
 movie <citetitle>The Jazz Singer</citetitle>. That success led Walt Disney to copy the
@@ -1371,6 +1375,9 @@ Disney's invention that set the standard that others struggled to
 match.  And quite often, Disney's great genius, his spark of
 creativity, was built upon the work of others.
 </para>
+<indexterm startref='idxdisneywalt' class='endofrange'/>
+<indexterm id='idxkeatonbuster' class='startofrange'><primary>Keaton, Buster</primary></indexterm>
+<indexterm id='idxsteamboatbilljr' class='startofrange'><primary>Steamboat Bill, Jr.</primary></indexterm>
 <para>
 This much is familiar. What you might not know is that 1928 also marks
 another important transition. In that year, a comic (as opposed to
@@ -1385,6 +1392,8 @@ Jr</citetitle>. was a classic of this form, famous among film buffs for its
 incredible stunts.  The film was classic Keaton&mdash;wildly popular
 and among the best of its genre.
 </para>
+<indexterm id='idxderivativeworkspiracyvs' class='startofrange'><primary>derivative works</primary><secondary>piracy vs.</secondary></indexterm>
+<indexterm id='idxpiracyderivativeworkvs' class='startofrange'><primary>piracy</primary><secondary>derivative work vs.</secondary></indexterm>
 <para>
 <citetitle>Steamboat Bill, Jr</citetitle>. appeared before Disney's cartoon Steamboat
 Willie.
@@ -1408,6 +1417,12 @@ Steamboat Bill, Jr., itself inspired by the song <quote>Steamboat Bill,</quote>
 that we get Steamboat Willie, and then from Steamboat Willie, Mickey
 Mouse.
 </para>
+<indexterm startref='idxsteamboatwillie' class='endofrange'/>
+<indexterm startref='idxmikeymouse' class='endofrange'/>
+<indexterm startref='idxkeatonbuster' class='endofrange'/>
+<indexterm startref='idxsteamboatbilljr' class='endofrange'/>
+<indexterm id='idxcreativitybytransformingpreviousworks' class='startofrange'><primary>creativity</primary><secondary>by transforming previous works</secondary></indexterm>
+<indexterm id='idxdisneyinc' class='startofrange'><primary>Disney, Inc.</primary></indexterm>
 <para>
 This <quote>borrowing</quote> was nothing unique, either for Disney or for the
 industry. Disney was always parroting the feature-length mainstream
@@ -1427,6 +1442,7 @@ were built upon a base that was borrowed.  Disney added to the work of
 others before him, creating something new out of something just barely
 old.
 </para>
+<indexterm id='idxgrimmfairytales' class='startofrange'><primary>Grimm fairy tales</primary></indexterm>
 <para>
 Sometimes this borrowing was slight. Sometimes it was significant.
 Think about the fairy tales of the Brothers Grimm. If you're as
@@ -1458,6 +1474,7 @@ creativity from the culture around him, mixed that creativity with his
 own extraordinary talent, and then burned that mix into the soul of
 his culture. Rip, mix, and burn.
 </para>
+<indexterm startref='idxgrimmfairytales' class='endofrange'/>
 <indexterm startref="idxanimatedcartoons" class='endofrange'/>
 <para>
 This is a kind of creativity. It is a creativity that we should
@@ -1468,6 +1485,9 @@ would be a bit misleading. It is, more precisely, <quote>Walt Disney
 creativity</quote>&mdash;a form of expression and genius that builds upon the
 culture around us and makes it something different.
 </para>
+<indexterm startref='idxderivativeworkspiracyvs' class='endofrange'/>
+<indexterm startref='idxpiracyderivativeworkvs' class='endofrange'/>
+<indexterm startref='idxcreativitybytransformingpreviousworks' class='endofrange'/>
 <para> In 1928, the culture that Disney was free to draw upon was
 relatively fresh. The public domain in 1928 was not very old and was
 therefore quite vibrant. The average term of copyright was just around
@@ -1544,6 +1564,7 @@ But my purpose here is not to understand manga. It is to describe a
 variant on manga that from a lawyer's perspective is quite odd, but
 from a Disney perspective is quite familiar.
 </para>
+<indexterm id='idxcreativitybytransformingpreviousworks2' class='startofrange'><primary>creativity</primary><secondary>by transforming previous works</secondary></indexterm>
 <para>
 This is the phenomenon of <citetitle>doujinshi</citetitle>. Doujinshi are also comics, but
 they are a kind of copycat comic. A rich ethic governs the creation of
@@ -1718,6 +1739,7 @@ saying the artist was wrong. In addition to having trespassed, he would
 have stolen something of value. The law bans that stealing in whatever
 form, whether large or small.
 </para>
+<indexterm startref='idxcreativitybytransformingpreviousworks2' class='endofrange'/>
 <para>
 Yet there is an obvious reluctance, even among Japanese lawyers, to
 say that the copycat comic artists are <quote>stealing.</quote> This form of Walt
