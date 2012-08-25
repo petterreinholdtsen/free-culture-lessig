@@ -4,10 +4,12 @@
 
 <!-- settings from original 2004 hardcover version -->
 
-<xsl:param name="paper.type">book5x7.5</xsl:param>
+<!-- xsl:param name="paper.type">book5x7.5</xsl:param -->
 <xsl:param name="page.width">5.51in</xsl:param>
 <xsl:param name="page.height">8.23in</xsl:param>
 
+<xsl:param name="page.margin.top">0.71in</xsl:param>
+<xsl:param name="page.margin.bottom">0.87in</xsl:param>
 <xsl:param name="page.margin.inner">0.67in</xsl:param>
 <xsl:param name="page.margin.outer">0.71in</xsl:param>
 <xsl:param name="body.start.indent">0pt</xsl:param>
@@ -16,7 +18,7 @@
 <xsl:param name="dingbat.font.family">Times</xsl:param>
 
 <xsl:param name="latex.class.book">scrreprtmargins</xsl:param>
-<xsl:param name="latex.class.options">paper=5.51in:8.23in,pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
+<xsl:param name="latex.class.options">pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
 
 <!-- from http://cygwin.com/ml/docbook-apps/2004-q2/msg00107.html -->
 <!-- ~~~~~~~~~~~~~~~~ -->

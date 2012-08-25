@@ -47,7 +47,7 @@ packages are needed:
 
   make
   po4a
-  dblatex
+  dblatex (>= 0.3.4-2 in debian, for nb support)
   dbtoepub
   libxml2-utils
   gnuplot

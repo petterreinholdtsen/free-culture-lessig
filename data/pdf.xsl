@@ -24,7 +24,7 @@
 <xsl:include href="origsize.xsl" />
 
 <!-- fall back to simplex A4 if not creating PDF for a specific size. -->
-<xsl:param name="paper.type">A4</xsl:param>
+<!-- xsl:param name="paper.type">A4</xsl:param -->
 <xsl:param name="double.sided">0</xsl:param>
 <xsl:param name="latex.class.book">scrreprt</xsl:param>
 <xsl:param name="latex.class.options">a4paper</xsl:param>

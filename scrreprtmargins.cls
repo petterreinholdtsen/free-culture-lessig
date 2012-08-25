@@ -11,10 +11,6 @@
 \LoadClassWithOptions{scrreprt}
 % report, book, memoir, scrreprt or scrbook ?
 
-%\usepackage[margin=1in, paperwidth=6in, paperheight=9in]{geometry}
-%\usepackage[margin=0.8in]{geometry}
-\usepackage[inner=0.67in,outer=0.71in,top=0.71in,bottom=0.87in,pdftex]{geometry}
-
 %% Replace footnotes par end notes
 \usepackage{endnotes}
 \let\footnote=\endnote
