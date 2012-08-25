@@ -1841,9 +1841,9 @@ free culture. It is becoming much less so.
 </chapter>
 <chapter label="2" id="mere-copyists">
 <title>CHAPTER TWO: <quote>Mere Copyists</quote></title>
-<indexterm id='idxcameratech' class='startofrange'><primary>camera technology</primary></indexterm>
-<indexterm id='idxphotography' class='startofrange'><primary>photography</primary></indexterm>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
+<indexterm id='idxcameratechnology' class='startofrange'><primary>camera technology</primary></indexterm>
+<indexterm id='idxphotography' class='startofrange'><primary>photography</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1839</emphasis>, Louis Daguerre invented
 the first practical technology for producing what we would call
@@ -1927,7 +1927,7 @@ an average annual increase of over 17 percent.<footnote><para>
 Based on a chart in Jenkins, p. 178.
 </para></footnote>
 </para>
-<indexterm startref='idxcameratech' class='endofrange'/>
+<indexterm startref='idxcameratechnology' class='endofrange'/>
 <indexterm><primary>Coe, Brian</primary></indexterm>
 <para>
 
@@ -1946,6 +1946,8 @@ interpretation or bias.</quote><footnote><para>
 Coe, 58.
 </para></footnote>
 </para>
+<indexterm><primary>democracy</primary><secondary>in technologies of expression</secondary></indexterm>
+<indexterm><primary>expression, technologies of</primary><secondary>democratic</secondary></indexterm>
 <para>
 In this way, the Kodak camera and film were technologies of
 expression.  The pencil or paintbrush was also a technology of
@@ -2026,6 +2028,7 @@ Inc</citetitle>., 971 F.  2d 1395 (9th Cir. 1992), cert. denied, 508 U.S. 951
 (1993).
 </para></footnote>)
 </para>
+<indexterm><primary>Napster</primary></indexterm>
 <para>
 We can only speculate about how photography would have developed had
 the law gone the other way. If the presumption had been against the
@@ -2041,6 +2044,8 @@ imagine the law then requiring that some form of permission be
 demonstrated before a company developed pictures. We could imagine a
 system developing to demonstrate that permission.
 </para>
+<indexterm><primary>democracy</primary><secondary>in technologies of expression</secondary></indexterm>
+<indexterm><primary>expression, technologies of</primary><secondary>democratic</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 48 -->

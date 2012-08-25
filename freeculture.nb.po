@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-25 19:53+0300\n"
+"POT-Creation-Date: 2012-08-26 00:37+0300\n"
 "PO-Revision-Date: 2012-08-25 19:55+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3347,6 +3347,10 @@ msgstr ""
 msgid "CHAPTER TWO: <quote>Mere Copyists</quote>"
 msgstr "Kapittel to: <quote>Kun etter-apere</quote>"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Daguerre, Louis"
+msgstr "Daguerre, Louis"
+
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "camera technology"
 msgstr "kamerateknologi"
@@ -3354,10 +3358,6 @@ msgstr "kamerateknologi"
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "photography"
 msgstr "fotografering"
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Daguerre, Louis"
-msgstr "Daguerre, Louis"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3552,6 +3552,22 @@ msgstr ""
 "laget uten [skrivefør] tolkning eller forutinntatthet.</quote><placeholder "
 "type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "democracy"
+msgstr "demokrati"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "in technologies of expression"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "expression, technologies of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "democratic"
+msgstr "demokratisk"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "In this way, the Kodak camera and film were technologies of expression.  The "
@@ -3707,6 +3723,10 @@ msgstr ""
 "begrensninger enn resten av oss.  Men i det vanlige tilfellet, kan bildet "
 "fanges uten å klarere rettighetene for a fange det.<placeholder type="
 "\"footnote\" id=\"0\"/>)"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Napster"
+msgstr "Napster"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6714,8 +6734,8 @@ msgstr ""
 "administrative og håndhevingsmekanismer for immaterielle rettigheter, "
 "hvilket er et kostbar forslag for utviklingsland.  I tillegg kan "
 "patentrettigheter føre til høyere priser for grunnleggende industrier som "
-"landbruk.  Kritikerne av TRIPS stiller spørsmål om avviket "
-"mellom belastningen den legger på utviklingland og fordelene den gir til "
+"landbruk.  Kritikerne av TRIPS stiller spørsmål om avviket mellom "
+"belastningen den legger på utviklingland og fordelene den gir til "
 "industrialiserte land.  TRIPS tillater myndigheter å bruke patenter til ikke-"
 "kommersielle formål som kommer folket til gode uten å først få tillatelse "
 "fra patentinnehaveren.  Utviklingsland kan være i stand til å bruke dette "
@@ -7461,14 +7481,14 @@ msgid ""
 "would actually benefit music companies on balance. They would therefore have "
 "little <emphasis>static</emphasis> reason to resist them."
 msgstr ""
-"Vi går igang med å svare på dette spørsmålet ved å fokusere på netto "
-"skade, sett fra industrien som helhet, som delingsnettverkene "
-"forårsaker.  <quote>Netto skade</quote> for industrien som helhet er "
-"verdien av type-A-deling som overgår type B.  Hvis plateselskapene "
-"solgte flere plater som resultat av at folk testet musikken enn de "
-"taper gjennom at en lar være å kjøpe, så har delingsnettverkene totalt "
-"sett faktisk vært til fordel for musikkselskapene.  De ville dermed ha "
-"liten <emphasis>*static*</emphasis> grunn til å motarbeide dem."
+"Vi går igang med å svare på dette spørsmålet ved å fokusere på netto skade, "
+"sett fra industrien som helhet, som delingsnettverkene forårsaker.  "
+"<quote>Netto skade</quote> for industrien som helhet er verdien av type-A-"
+"deling som overgår type B.  Hvis plateselskapene solgte flere plater som "
+"resultat av at folk testet musikken enn de taper gjennom at en lar være å "
+"kjøpe, så har delingsnettverkene totalt sett faktisk vært til fordel for "
+"musikkselskapene.  De ville dermed ha liten <emphasis>*static*</emphasis> "
+"grunn til å motarbeide dem."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "sales levels of"
@@ -7545,12 +7565,11 @@ msgid ""
 "number of CDs sold were downloaded for free, sales revenue fell by just 6.7 "
 "percent."
 msgstr ""
-"Men la oss anta at RIAA har rett, at all nedgangen i CD-salg er "
-"forårsaket av deling på internett.  Her er hvor det skurrer: I samme "
-"periode som RIAA estimerer at 803 milloner CDer ble solgt, estimerer "
-"RIAA at 2,1 milliarder CD-er ble lastet ned gratisk.  Dermed selv om "
-"2,6 ganger det totale antallet CDer ble lastet ned gratis, så falt "
-"salgsinntektene med kun 6,7 prosent."
+"Men la oss anta at RIAA har rett, at all nedgangen i CD-salg er forårsaket "
+"av deling på internett.  Her er hvor det skurrer: I samme periode som RIAA "
+"estimerer at 803 milloner CDer ble solgt, estimerer RIAA at 2,1 milliarder "
+"CD-er ble lastet ned gratisk.  Dermed selv om 2,6 ganger det totale antallet "
+"CDer ble lastet ned gratis, så falt salgsinntektene med kun 6,7 prosent."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
