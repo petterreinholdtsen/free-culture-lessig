@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-24 23:18+0300\n"
+"POT-Creation-Date: 2012-08-25 08:02+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1491,6 +1491,10 @@ msgstr ""
 "tillatelse&mdash;har blitt borte.  Konsekvensen er at vi er mindre og mindre "
 "en fri kultur, og mer og mer en tillatelseskultur."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "protection of artists vs. business interests"
+msgstr ""
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "This change gets justified as necessary to protect commercial creativity.  "
@@ -2113,6 +2117,14 @@ msgstr "Dreyfuss, Rochelle"
 msgid "Girl Scouts"
 msgstr "Jentespeidere"
 
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "creative property"
+msgstr "kreativ eiendel"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "<quote>if value, then right</quote> theory of"
+msgstr "<quote>hvis verdi, så rettighet</quote>-teorien om"
+
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>if value, then right</quote> theory"
 msgstr "<quote>hvis verdi, så rettighet</quote>-teorien"
@@ -2186,6 +2198,22 @@ msgstr ""
 "aldri vært USAs teori for kreative eierrettigheter.  It har aldri stått rot "
 "i vårt lovverk."
 
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "copyright law"
+msgstr "opphavsrettslov"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "on republishing vs. transformation of original work"
+msgstr ""
+
+#. type: Content of: <book><part><partintro><indexterm><primary>
+msgid "creativity"
+msgstr "kreativitet"
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "legal restrictions on"
+msgstr "juridiske begrensninger på"
+
 #. type: Content of: <book><part><partintro><para>
 msgid ""
 "Instead, in our tradition, intellectual property is an instrument. It sets "
@@ -2226,6 +2254,10 @@ msgstr ""
 "håndtere byrden pålagt av loven&mdash;til og med byrden som den bysantiske "
 "kompleksiteten som opphavsrettsloven har blitt.  Det var bare nok en kostnad "
 "ved å drive forretning."
+
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "creativity impeded by"
+msgstr "kreativitet hindret av"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Florida, Richard"
@@ -6918,11 +6950,11 @@ msgid ""
 "p2p sharing harms before we know how strongly the law should seek to either "
 "prevent it or find an alternative to assure the author of his profit."
 msgstr ""
-"Nøkkelen til <quote>piratvirksomheten</quote> som loven tar sikte på å skvise "
-"er den bruken som <quote>frata forfatteren overskuddet</quote>.<placeholder "
-"type=\"footnote\" id=\"0\"/> Dette betyr vi må avgjøre hvorvidt og hvor mye "
-"p2p-deling skader før vi vet hvor sterkt loven bør søke å enten hindre det "
-"eller finne et alternativ for å sikre forfatteren hans overskudd."
+"Nøkkelen til <quote>piratvirksomheten</quote> som loven tar sikte på å "
+"skvise er den bruken som <quote>frata forfatteren overskuddet</quote>."
+"<placeholder type=\"footnote\" id=\"0\"/> Dette betyr vi må avgjøre hvorvidt "
+"og hvor mye p2p-deling skader før vi vet hvor sterkt loven bør søke å enten "
+"hindre det eller finne et alternativ for å sikre forfatteren hans overskudd."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "innovation"
@@ -7606,11 +7638,10 @@ msgid ""
 "sharing destroy the opportunity for type D sharing, then we lose something "
 "important in order to protect type A content."
 msgstr ""
-"Det samme gjelder for allemannseide verk: Denne delingen gagner "
-"samfunnet uten noen juridisk skade mot forfattere i det hele tatt. "
-"Hvis innsats for å løse problemet med type-A-deling ødelegger "
-"muligheten for type-D-deling, så mister vi noe viktig for å beskytte "
-"type-A-innhold."
+"Det samme gjelder for allemannseide verk: Denne delingen gagner samfunnet "
+"uten noen juridisk skade mot forfattere i det hele tatt. Hvis innsats for å "
+"løse problemet med type-A-deling ødelegger muligheten for type-D-deling, så "
+"mister vi noe viktig for å beskytte type-A-innhold."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7620,11 +7651,10 @@ msgid ""
 "efficiencies? What is the content that otherwise would be unavailable?</"
 "quote>"
 msgstr ""
-"Poenget med alt dette er: Selv om plateindustrien forståelig nok "
-"sier, <quote>Dette er hvor mye vi har tapt</quote>, så må vi også "
-"spørre oss <quote>hvor mye har samfunnet fått igjen fra p2p-deling? "
-"Hva gjør oss mer effektive?  Hva er innholdet som ellers ville være "
-"utilgjengelig?</quote>"
+"Poenget med alt dette er: Selv om plateindustrien forståelig nok sier, "
+"<quote>Dette er hvor mye vi har tapt</quote>, så må vi også spørre oss "
+"<quote>hvor mye har samfunnet fått igjen fra p2p-deling? Hva gjør oss mer "
+"effektive?  Hva er innholdet som ellers ville være utilgjengelig?</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy

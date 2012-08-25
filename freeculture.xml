@@ -889,6 +889,7 @@ been undone.  The consequence is that we are less and less a free
 culture, more and more a permission culture.
 </para>
 <!-- PAGE BREAK 24 -->
+<indexterm><primary>protection of artists vs. business interests</primary></indexterm>
 <para>
 This change gets justified as necessary to protect commercial
 creativity.  And indeed, protectionism is precisely its
@@ -1131,7 +1132,7 @@ to which most of us remain oblivious.
 <partintro>
 <!-- PAGE BREAK 30 -->
 <indexterm><primary>Copyright law</primary><secondary>English</secondary></indexterm>
-<indexterm id='idxmansfield1' class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
+<indexterm id='idxmansfieldwilliammurraylord' class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
 <indexterm><primary>music publishing</primary></indexterm>
 <indexterm><primary>sheet music</primary></indexterm>
 <para>
@@ -1150,7 +1151,7 @@ of them for his own use.<footnote><para>
 <citetitle>Bach</citetitle> v. <citetitle>Longman</citetitle>, 98 Eng. Rep. 1274 (1777) (Mansfield).
 </para></footnote>
 </para>
-<indexterm startref="idxmansfield1" class='endofrange'/>
+<indexterm startref='idxmansfieldwilliammurraylord' class='endofrange'/>
 </blockquote>
 <indexterm><primary>Internet</primary><secondary> efficient content distribution on</secondary></indexterm>
 <indexterm id='idxpeertopeerppfilesharingefficiencyof' class='startofrange'><primary>peer-to-peer (p2p) file sharing</primary><secondary>efficiency of</secondary></indexterm>
@@ -1202,7 +1203,8 @@ piracy.
 <indexterm><primary>ASCAP</primary></indexterm>
 <indexterm><primary>Dreyfuss, Rochelle</primary></indexterm>
 <indexterm><primary>Girl Scouts</primary></indexterm>
-<indexterm id='idxifvalue' class='startofrange'><primary><quote>if value, then right</quote> theory</primary></indexterm>
+<indexterm id='idxcreativepropertyifvaluethenrighttheoryof' class='startofrange'><primary>creative property</primary><secondary><quote>if value, then right</quote> theory of</secondary></indexterm>
+<indexterm id='idxifvaluethenrighttheory' class='startofrange'><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
 This view runs deep within the current debates. It is what NYU law
 professor Rochelle Dreyfuss criticizes as the <quote>if value, then right</quote> 
@@ -1226,6 +1228,7 @@ Speech, No One Wins,</quote> <citetitle>Boston Globe</citetitle>, 24 November 20
 There was <quote>value</quote> (the songs) so there must have been a
 <quote>right</quote>&mdash;even against the Girl Scouts.
 </para>
+<indexterm startref='idxcreativepropertyifvaluethenrighttheoryof' class='endofrange'/>
 <para>
 This idea is certainly a possible understanding of how creative
 property should work. It might well be a possible design for a system
@@ -1234,7 +1237,9 @@ of law protecting creative property. But the <quote>if value, then right</quote>
 theory of creative property has never been America's theory of
 creative property.  It has never taken hold within our law.
 </para>
-<indexterm startref='idxifvalue' class='endofrange'/>
+<indexterm startref='idxifvaluethenrighttheory' class='endofrange'/>
+<indexterm id='idxcopyrightlawonrepublishingvstransformationoforiginalwork' class='startofrange'><primary>copyright law</primary><secondary>on republishing vs. transformation of original work</secondary></indexterm>
+<indexterm id='idxcreativitylegalrestrictionson' class='startofrange'><primary>creativity</primary><secondary>legal restrictions on</secondary></indexterm>
 <para>
 Instead, in our tradition, intellectual property is an instrument. It
 sets the groundwork for a richly creative society but remains
@@ -1249,6 +1254,7 @@ work on the one hand and building upon or transforming that work on
 the other. Copyright law at its birth had only publishing as its concern;
 copyright law today regulates both.
 </para>
+<indexterm startref='idxcopyrightlawonrepublishingvstransformationoforiginalwork' class='endofrange'/>
 <para>
 Before the technologies of the Internet, this conflation didn't matter
 all that much. The technologies of publishing were expensive; that
@@ -1257,6 +1263,7 @@ entities could bear the burden of the law&mdash;even the burden of the
 Byzantine complexity that copyright law has become. It was just one
 more expense of doing business.
 </para>
+<indexterm><primary>copyright law</primary><secondary>creativity impeded by</secondary></indexterm>
 <indexterm><primary>Florida, Richard</primary></indexterm>
 <indexterm><primary>Rise of the Creative Class, The (Florida)</primary></indexterm>
 <para>
@@ -1294,6 +1301,7 @@ under which it will be enabled are much more tenuous.
 Unfortunately, we are also seeing an extraordinary rise of regulation of
 this creative class.
 </para>
+<indexterm startref='idxcreativitylegalrestrictionson' class='endofrange'/>
 <para>
 These burdens make no sense in our tradition. We should begin by
 understanding that tradition a bit more and by placing in their proper
@@ -1304,7 +1312,7 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
 <title>CHAPTER ONE: Creators</title>
-<indexterm id='idxanimadedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
+<indexterm id='idxanimatedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
 <indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
 <para>
 <emphasis role="strong">In 1928</emphasis>, a cartoon character was born. An early Mickey Mouse
@@ -1450,7 +1458,7 @@ creativity from the culture around him, mixed that creativity with his
 own extraordinary talent, and then burned that mix into the soul of
 his culture. Rip, mix, and burn.
 </para>
-<indexterm startref="idxanimadedcartoons" class='endofrange'/>
+<indexterm startref="idxanimatedcartoons" class='endofrange'/>
 <para>
 This is a kind of creativity. It is a creativity that we should
 remember and celebrate. There are some who would say that there is no
@@ -4867,7 +4875,7 @@ Exploding the Myth of Common Law Copyright,</quote> <citetitle>Wayne Law Review<
 (1983): 1152.
 </para></footnote>
 </para>
-<indexterm id="idxmansfield2" class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
+<indexterm id='idxmansfieldwilliammurraylord2' class='startofrange'><primary>Mansfield, William Murray, Lord</primary></indexterm>
 <para>
 Astonishingly to modern lawyers, one of the greatest judges in English
 history, Lord Mansfield, agreed with the booksellers. Whatever
@@ -4893,7 +4901,7 @@ a reasonable period of time. Within twenty-one years, Parliament
 believed, Britain would mature from the controlled culture that the
 Crown coveted to the free culture that we inherited.
 </para>
-<indexterm startref="idxmansfield2" class='endofrange'/>
+<indexterm startref='idxmansfieldwilliammurraylord2' class='endofrange'/>
 <para>
 The fight to defend the limits of the Statute of Anne was not to end
 there, however, and it is here that Donaldson enters the mix.
