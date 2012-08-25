@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-25 12:56+0300\n"
+"POT-Creation-Date: 2012-08-25 15:57+0300\n"
 "PO-Revision-Date: 2012-07-13 21:50+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1644,7 +1644,7 @@ msgstr ""
 "internettets <quote>pirater</quote> også fjerne verdier fra vår kultur som "
 "har vært integrert til vår tradisjon helt fra starten."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Constitution, U.S."
 msgstr "Grunnloven i USA"
 
@@ -2360,8 +2360,8 @@ msgstr "animert"
 msgid "Steamboat Willie"
 msgstr "Steamboat Willie"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Mikey Mouse"
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Mickey Mouse"
 msgstr "Mikke Mus"
 
 #. type: Content of: <book><part><chapter><para>
@@ -2708,6 +2708,26 @@ msgstr ""
 "litt misvisende.  Det er mer presist <quote>Walt Disney-kreativitet</"
 "quote>&mdash;en uttrykksform og genialitet som bygger på kulturen rundt oss "
 "og omformer den til noe annet."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "copyright"
+msgstr "opphavsrett"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "duration of"
+msgstr "varighet til"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "public domain"
+msgstr "allemannseie (public domain)"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "defined"
+msgstr "definert"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "traditional term for conversion to"
+msgstr ""
 
 #.  f4
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -19587,6 +19607,14 @@ msgstr ""
 "til undervisning statsrett Hvis disse ni justiariusene skulle være smålig "
 "politikere."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "copyright purpose established in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "constitutional purpose of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23201,10 +23229,6 @@ msgstr ""
 "rår.  Men i en by som Washington blir ikke hykleriet en gang lagt merke "
 "til.  Mektige lobbyister, kompliserte problemer og MTV-oppmerksomhetsspenn "
 "gir en <quote>perfekt storm</quote> for fri kultur."
-
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "public domain"
-msgstr "allemannseie (public domain)"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "public projects in"
