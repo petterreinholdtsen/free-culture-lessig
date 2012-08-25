@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-25 15:57+0300\n"
-"PO-Revision-Date: 2012-07-13 21:50+0200\n"
+"POT-Creation-Date: 2012-08-25 19:53+0300\n"
+"PO-Revision-Date: 2012-08-25 19:55+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -1437,7 +1437,7 @@ msgstr ""
 "USA.  Men det var på ingen måte dominerende i vår tradisjon.  Det var i "
 "stedet bare en del, en kontrollert del, balansert mot det frie."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "free culture"
 msgstr "fri kultur"
 
@@ -2198,7 +2198,7 @@ msgstr ""
 "aldri vært USAs teori for kreative eierrettigheter.  It har aldri stått rot "
 "i vårt lovverk."
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "copyright law"
 msgstr "opphavsrettslov"
 
@@ -2826,6 +2826,18 @@ msgstr ""
 "USA.  Normen med fri kultur har, inntil nylig, og unntatt i totalitære "
 "nasjoner, vært bredt utnyttet og svært universell."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "comics, Japanese"
+msgstr "tegneserier, japanske"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Japanese comics"
+msgstr "Japanske tegneserier"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "manga"
+msgstr "manga"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Consider, for example, a form of creativity that seems strange to many "
@@ -2877,6 +2889,10 @@ msgstr ""
 "manga som fra en advokats perspektiv er ganske merkelig, men som fra en "
 "Disneys perspektiv er ganske godt kjent."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "doujinshi comics"
+msgstr ""
+
 #.  PAGE BREAK 39
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2927,6 +2943,10 @@ msgstr ""
 "åpenbart med det markedet, men det er ingen vedvarende innsats fra de som "
 "kontrollerer det kommersielle manga-markedet for å stenge doujinshi-"
 "markedet.  Det blomstrer, på tross av konkurransen og til tross for loven."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "Japanese"
+msgstr "Japansk"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3009,6 +3029,10 @@ msgstr ""
 "<quote>ikke kan</quote> gjøre.  <quote>For en som lager tegneserier er det "
 "frustrerende å måtte begrense seg til noen parameter som er femti år gamle.</"
 "quote>"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Mehra, Salil"
+msgstr "Mehra, Salil"
 
 #.  f6
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3188,6 +3212,10 @@ msgstr ""
 "<quote>rimelig</quote>.  Det var intet galt med å ta fra brødrene Grimm "
 "fordi deres verker var allemannseie."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "derivative works based on"
+msgstr "avledede verker basert på"
+
 #.  PAGE BREAK 42
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3229,6 +3257,10 @@ msgstr ""
 "at etterapende tegneseriekunstnere <quote>stjeler</quote>.  Denne formen for "
 "Walt Disney-kreativitet anses som rimelig og riktig, selv om spesielt "
 "advokater synes det er vanskelig å forklare hvorfor."
+
+#. type: Content of: <book><part><chapter><para><indexterm><primary>
+msgid "Shakespeare, William"
+msgstr "Shakespeare, William"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9307,10 +9339,6 @@ msgstr "Johnson, Samuel"
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Milton, John"
 msgstr "Milton, John"
-
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Shakespeare, William"
-msgstr "Shakespeare, William"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
