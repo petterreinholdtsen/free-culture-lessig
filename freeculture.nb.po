@@ -2013,7 +2013,7 @@ msgstr ""
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "efficient content distribution on"
-msgstr ""
+msgstr "effektiv innholdsdistribusjon på"
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "peer-to-peer (p2p) file sharing"
@@ -2021,7 +2021,7 @@ msgstr "peer-to-peer(p2p)-fildeling"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "efficiency of"
-msgstr ""
+msgstr "effektiviteten til"
 
 #.  PAGE BREAK 31
 #. type: Content of: <book><part><partintro><para>
@@ -2624,7 +2624,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Grimm fairy tales"
-msgstr ""
+msgstr "Grimm-eventyr"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
