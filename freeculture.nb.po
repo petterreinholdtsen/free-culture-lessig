@@ -7537,7 +7537,6 @@ msgstr ""
 
 #.  PAGE BREAK 84
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "But let's assume the RIAA is right, and all of the decline in CD sales is "
 "because of Internet sharing. Here's the rub: In the same period that the "
@@ -7546,11 +7545,12 @@ msgid ""
 "number of CDs sold were downloaded for free, sales revenue fell by just 6.7 "
 "percent."
 msgstr ""
-"men la oss anta at riaa er rett, og alle nedgangen i cd salg er på grunn av "
-"deling av Internett. Her er gni: i samme periode som riaa anslår at 803 "
-"million CDer ble solgt, riaa anslår at 2,1 milliarder CDer ble lastet ned "
-"gratis. Således, selv om 2,6 ganger det totale antallet CDer som selges ble "
-"lastet ned gratis, salgsinntekter falt med bare 6.7 prosent."
+"Men la oss anta at RIAA har rett, at all nedgangen i CD-salg er "
+"forårsaket av deling på internett.  Her er hvor det skurrer: I samme "
+"periode som RIAA estimerer at 803 milloner CDer ble solgt, estimerer "
+"RIAA at 2,1 milliarder CD-er ble lastet ned gratisk.  Dermed selv om "
+"2,6 ganger det totale antallet CDer ble lastet ned gratis, så falt "
+"salgsinntektene med kun 6,7 prosent."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
