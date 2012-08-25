@@ -6683,7 +6683,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "agricultural patents"
-msgstr "næringsmiddelpatenter"
+msgstr "landbrukspatenter"
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
 msgid "Drahos, Peter"
@@ -6714,7 +6714,7 @@ msgstr ""
 "administrative og håndhevingsmekanismer for immaterielle rettigheter, "
 "hvilket er et kostbar forslag for utviklingsland.  I tillegg kan "
 "patentrettigheter føre til høyere priser for grunnleggende industrier som "
-"næringsmiddelindustrien.  Kritikerne av TRIPS stiller spørsmål om avviket "
+"landbruk.  Kritikerne av TRIPS stiller spørsmål om avviket "
 "mellom belastningen den legger på utviklingland og fordelene den gir til "
 "industrialiserte land.  TRIPS tillater myndigheter å bruke patenter til ikke-"
 "kommersielle formål som kommer folket til gode uten å først få tillatelse "
