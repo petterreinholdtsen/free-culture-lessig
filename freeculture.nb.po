@@ -7462,6 +7462,14 @@ msgid ""
 "musical innovation at the major labels.</quote><placeholder type=\"footnote"
 "\" id=\"0\"/>"
 msgstr ""
+"Ikke lenge etterpå, og før kongressen fikk muligheten til å innføre "
+"reguleringer, ble MTV lansert, og industrien fikk et rekordoppsving. "
+"<quote>Til slutt</quote>, konkluderte Cap Gemini, <quote>var ikke "
+"<quote>krisen</quote> &hellip; forårsaket av de som tok opp på "
+"kassett&mdash;som ikke [sluttet etter at MTV dukket opp]&mdash;men "
+"hadde i stor grad vært resultatet av en stagnasjon i "
+"musikknyskapningen hos de store selskapene.</quote><placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7646,6 +7654,16 @@ msgid ""
 "publisher or the distributor has decided it no longer makes economic sense "
 "<emphasis>to the company</emphasis> to make it available."
 msgstr ""
+"En fordel er type-C-deling&mdash;å gjøre innhold tilgjengelig som "
+"teknisk sett fortsatt er opphavsrettsbeskyttet men som ikke lenger er "
+"kommersielt tilgjengelig.  Dette er ikke en liten kategori med innhold "
+"Det er millioner av spor som ikke lenger er kommersielt "
+"tilgjengelig.<placeholder type=\"footnote\" id=\"0\"/> Og mens det kan "
+"tenkes at noe av dette innholdet ikke er tilgjengelig fordi artisten "
+"som laget innholdet ikke ønsker at det blir gjort tilgjengelig, så er "
+"det meste av dette utilgjengelig kun fordi forlaget eller "
+"distributøren har bestemt at det ikke lenger gir økonomisk mening "
+"<emphasis>for selskapet</emphasis> å gjøre det tilgjengelig."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "books"
@@ -7688,7 +7706,7 @@ msgstr "Bernstein, Leonard"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "out of print"
-msgstr ""
+msgstr "utsolgt fra forlaget"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
