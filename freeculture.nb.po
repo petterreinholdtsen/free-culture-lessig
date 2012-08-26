@@ -7621,15 +7621,15 @@ msgstr ""
 "forskjell mellom \"nedlasting av sanger og stjele en cd."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "These are the harms&mdash;alleged and perhaps exaggerated but, let's assume, "
 "real. What of the benefits? File sharing may impose costs on the recording "
 "industry. What value does it produce in addition to these costs?"
 msgstr ""
-"disse er skadene&mdash;påståtte og kanskje overdrevet, men la oss anta, "
-"real. Hva fordelene? fildeling kan pålegge kostnader på musikkindustrien. "
-"hva verdien produserer det i tillegg til disse kostnadene?"
+"Dette er skadene&mdash;påståtte og muligens overdrevende men, la oss "
+"anta at de er reelle.  Hva er fordelene?  Fildeling påfører muligens "
+"kostnader for plateindustrien.  Hva slags verdi gir det i tillegg til "
+"disse kostnadene?"
 
 #.  f15
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7641,6 +7641,13 @@ msgid ""
 "the Future of Music Coalition), available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #18</ulink>."
 msgstr ""
+"Et estimat forteller at 75 prosent av musikken gitt ut av de store "
+"plateselskapene ikke lenger trykkes opp.  Se Online Entertainment and "
+"Copyright Law&mdash;Coming Soon to a Digital Device Near You: Høring "
+"foran the Senate Committee on the Judiciary, 107. kongr., 1. sesj. (3. "
+"april 2001) (forberedt innlegg av the Future of Music Coalition), "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#18</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
