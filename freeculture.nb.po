@@ -8162,7 +8162,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Congress was asked to respond to the Supreme Court's decision.  But as with "
 "the plea of recording artists about radio broadcasts, Congress ignored the "
@@ -8170,10 +8169,12 @@ msgid ""
 "<quote>taking</quote> notwithstanding.  If we put these cases together, a "
 "pattern is clear:"
 msgstr ""
-"Kongressen ble bedt om å svare på den Høyesterett beslutningen. men som med "
-"appell av artister om radiosendinger, Kongressen ignorert forespørselen. "
-"Kongressen var overbevist om at amerikanske film fikk nok, denne \"tar\" til "
-"tross for. Hvis vi setter disse tilfellene sammen, et mønster er klart:"
+"Kongressen ble bedt om å svare på avgjørelsen i Høyesterett.  Men på "
+"samme måte som med appellen fra plateartistene om radiokringkastinger, "
+"ignorerte kongressen denne forespørselen.  Kongressen var overbevist "
+"om at Amerikansk film fikk nok, på tross av at det her ble "
+"<quote>tatt</quote>.  Hvis vi samler disse saken, trer et mønster "
+"frem:"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "CASE"
