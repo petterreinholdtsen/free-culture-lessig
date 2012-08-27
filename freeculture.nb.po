@@ -769,11 +769,11 @@ msgstr "Douglas, William O."
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Supreme Court, U.S."
-msgstr ""
+msgstr "Høyesterett, USA"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on airspace vs. land rights"
-msgstr ""
+msgstr "om luftrom mot landrettigheter"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -922,7 +922,7 @@ msgstr "radio"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "FM spectrum of"
-msgstr ""
+msgstr "FM-spektrum for"
 
 #.  PAGE BREAK 19
 #. type: Content of: <book><chapter><para>
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on FM radio"
-msgstr ""
+msgstr "om FM-radio"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
-msgstr ""
+msgstr "kommersiell kreativitet som hovedformål for"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Brandeis, Louis D."
@@ -2891,7 +2891,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "doujinshi comics"
-msgstr ""
+msgstr "doujinshi-tegneserier"
 
 #.  PAGE BREAK 39
 #. type: Content of: <book><part><chapter><para>
@@ -5924,7 +5924,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "player pianos"
-msgstr ""
+msgstr "automatiske piano"
 
 #.  f8
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7913,7 +7913,6 @@ msgstr ""
 "null</quote>.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "If 99.4 percent is not good enough, then this is a war on file-sharing "
 "technologies, not a war on copyright infringement. There is no way to assure "
@@ -7925,15 +7924,16 @@ msgid ""
 "and beneficial uses they serve, simply to assure that there are zero "
 "copyright infringements caused by p2p."
 msgstr ""
-"Hvis 99.4 prosent er ikke god nok, så dette er en krig mot fildelings-"
-"teknologier, ikke en krig mot brudd på opphavsrettigheter. Det er ingen måte "
-"å sikre at en p2p-systemet er brukt 100 prosent av tiden i samsvar med "
-"loven, noe mer enn det er en måte å sikre at 100 prosent av videospillere "
-"eller 100 prosent av xerox maskiner eller 100 prosent av håndvåpen brukes i "
-"overensstemmelse med loven. nulltoleranse betyr null p2p. EFTA-domstolens "
-"avgjørelse betyr at vi som et samfunn må miste fordelene med p2p, selv for "
-"den helt lovlig og fordelaktig bruker de tjener bare for å sikre at det er "
-"null opphavsrett infringements forårsaket av p2p."
+"Hvis 99,4 prosent ikke er godt nok, så er dette en krig mot "
+"fildelingsteknologier, og ikke en krig mot opphavsrettsbrudd.  Det er "
+"ikke mulig å sikre at et p2p-system brukes 100 prosent av tiden i "
+"henhold til loven, like lite som det er mulig å sikre at 100 prosent "
+"av videospillere eller 100 prosent av kopmaskiner eller 100 prosent av "
+"håndvåken blir brukt i henhold til loven.  Ingen toleranse betyr ingen "
+"p2p.  Rettens avgjørelser betyr at vi som samfunn må miste fordelene "
+"med p2p, selv for de fullstendig lovlige og fordelaktige bruksområdene "
+"som de tjener, kun for å sikre at de ikke er brudd på opphavsretten "
+"forårsaken av p2p."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
