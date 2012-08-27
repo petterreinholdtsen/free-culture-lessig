@@ -1879,7 +1879,8 @@ a developer, driving the costs of photography down substantially. By
 lowering the costs, Eastman expected he could dramatically broaden the
 population of photographers.
 </para>
-<indexterm><primary>Kodak Primer, The (Eastman)</primary></indexterm>
+<indexterm id='idxkodakcameras' class='startofrange'><primary>Kodak cameras</primary></indexterm>
+<indexterm id='idxkodakprimertheeastman' class='startofrange'><primary>Kodak Primer, The (Eastman)</primary></indexterm>
 <para>
 Eastman developed flexible, emulsion-coated paper film and placed
 rolls of it in small, simple cameras: the Kodak. The device was
@@ -1902,12 +1903,13 @@ preliminary study, without a darkroom and without
 chemicals.<footnote>
 <para>
 <!-- f2 -->
+<indexterm><primary>Coe, Brian</primary></indexterm>
 Brian Coe, <citetitle>The Birth of Photography</citetitle> (New York: Taplinger Publishing,
 1977), 53.
-<indexterm><primary>Coe, Brian</primary></indexterm>
 </para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxkodakprimertheeastman' class='endofrange'/>
 <para>
 For $25, anyone could make pictures. The camera came preloaded
 with film, and when it had been used, the camera was returned to an
@@ -1927,7 +1929,6 @@ an average annual increase of over 17 percent.<footnote><para>
 Based on a chart in Jenkins, p. 178.
 </para></footnote>
 </para>
-<indexterm startref='idxcameratechnology' class='endofrange'/>
 <indexterm><primary>Coe, Brian</primary></indexterm>
 <para>
 
@@ -1961,6 +1962,8 @@ creativity that the Kodak enabled. Democratic tools gave ordinary
 people a way to express themselves more easily than any tools could
 have before.
 </para>
+<indexterm startref='idxkodakcameras' class='endofrange'/>
+<indexterm id='idxpermissionsphotographyexemptedfrom' class='startofrange'><primary>permissions</primary><secondary>photography exempted from</secondary></indexterm>
 <para>
 What was required for this technology to flourish? Obviously,
 Eastman's genius was an important part. But also important was the
@@ -1978,6 +1981,7 @@ v. <citetitle>N.E. Life Ins. Co</citetitle>., 50 S.E. 68 (Ga. 1905);
 Dist. Ct. 1894).
 </para></footnote>
 </para>
+<indexterm startref='idxcameratechnology' class='endofrange'/>
 <indexterm id='idxdisneywalt4' class='startofrange'><primary>Disney, Walt</primary></indexterm>
 <para>
 The arguments in favor of requiring permission will sound surprisingly
@@ -1991,6 +1995,7 @@ Mickey, so, too, should these photographers not be free to take images
 that they thought valuable.
 </para>
 <indexterm><primary>Brandeis, Louis D.</primary></indexterm>
+<indexterm><primary>Steamboat Bill, Jr.</primary></indexterm>
 <para>
 On the other side was an argument that should be familiar, as well.
 Sure, there may be something of value being used. But citizens should
@@ -2061,7 +2066,9 @@ that growth would have been realized. And certainly, nothing like that
 growth in a democratic technology of expression would have been
 realized.
 </para>
-<indexterm><primary>camera technology</primary></indexterm>
+<indexterm startref='idxphotography' class='endofrange'/>
+<indexterm startref='idxeastmangeorge' class='endofrange'/>
+<indexterm startref='idxpermissionsphotographyexemptedfrom' class='endofrange'/>
 <para>
 <emphasis role='strong'>If you drive</emphasis> through San
 Francisco's Presidio, you might see two gaudy yellow school buses
@@ -2078,8 +2085,6 @@ schools and enable three hundred to five hundred children to learn
 something about media by doing something with media.  By doing, they
 think. By tinkering, they learn.
 </para>
-<indexterm startref="idxeastmangeorge" class='endofrange'/>
-<indexterm startref="idxphotography" class='endofrange'/>
 <para>
 These buses are not cheap, but the technology they carry is
 increasingly so. The cost of a high-quality digital video system has
