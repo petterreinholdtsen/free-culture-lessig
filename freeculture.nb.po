@@ -7902,6 +7902,15 @@ msgid ""
 "Napster had to push the infringements <quote>down to zero.</"
 "quote><placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"En skulle tro det.  Og vi bør håpe på det.  Men så langt er det ikke "
+"tilfelle.  Effekten som krigen som påstås å kun være mot type-A-deling "
+"har blitt kjent langt uten den klassen med deling.  Det er åpenbart "
+"fra Napster-saken selv.  Da Napster fortalte *district*-retten at den "
+"hadde utviklet teknologi som ville blokkere for 99,4 prosent av "
+"identifisert opphavsrettsbrytende materiale, fortalte "
+"*district*-retten advokatene til Napster at 99,4 prosent var ikke godt "
+"nok.  Napster måtte få opphavsrettsbruddene <quote>ned til "
+"null</quote>.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -8091,13 +8100,12 @@ msgstr "opphavsrett infringements (lyd og video-opptakere), 475."
 
 #.  f20
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>Universal City Studios, Inc</citetitle>. v. <citetitle>Sony Corp. "
 "of America</citetitle>, 480 F. Supp. 429, (C.D. Cal., 1979)."
 msgstr ""
-"Universal city studios, inc. v. sony Corporation of america, 480 f. supp. "
-"429, (klientadgangslisens CAL (CD), 1979)."
+"<citetitle>Universal City Studios, Inc</citetitle>. mot <citetitle>Sony Corp. "
+"of America</citetitle>, 480 F. Supp. 429, (C.D. Cal., 1979)."
 
 #.  f21
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
