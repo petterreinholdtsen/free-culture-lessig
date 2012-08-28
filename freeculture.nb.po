@@ -8084,23 +8084,21 @@ msgstr ""
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Infringements (Audio and Video Recorders): Hearing on S. 1758 "
 "Before the Senate Committee on the Judiciary, 97th Cong., 1st and 2nd sess., "
 "459 (1982) (testimony of Jack Valenti, president, Motion Picture Association "
 "of America, Inc.)."
 msgstr ""
-"opphavsrett infringements (lyd og video-opptakere): høre s. 1758 før Senatet "
-"committee på rettsvesenet, 97th cong., 1st og 2nd sess., 459 (1982) "
-"(vitnesbyrd om jack valenti, president, motion picture association of "
-"america, inc.)."
+"Copyright Infringements (Audio and Video Recorders): høring om S. 1758 "
+"foran the Senate Committee on the Judiciary, 97. kongr., 1. and 2. sess., "
+"459 (1982) (vitnesbyrd fra Jack Valenti, president, Motion Picture Association "
+"of America, Inc.)."
 
 #.  f19
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Copyright Infringements (Audio and Video Recorders), 475."
-msgstr "opphavsrett infringements (lyd og video-opptakere), 475."
+msgid "Copyright Infringements (Audio and Video Recorders), 475."
 
 #.  f20
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8113,13 +8111,12 @@ msgstr ""
 
 #.  f21
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyright Infringements (Audio and Video Recorders), 485 (testimony of Jack "
 "Valenti)."
 msgstr ""
-"opphavsrett infringements (lyd og video-opptakere), 485 (vitnesbyrd om jack "
-"valenti)."
+"Copyright Infringements (Audio and Video Recorders), 485 (vitnesbyrd fra Jack "
+"Valenti)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
