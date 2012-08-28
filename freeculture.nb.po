@@ -8154,7 +8154,7 @@ msgstr ""
 "mest verdifulle eiendelen som opphavsrettseieren har, hans opphavsrett</"
 "quote>.<placeholder type=\"footnote\" id=\"0\"/> <quote>En må ikke være "
 "opplært i sofistikert markedsføring eller kreativ vurdering</quote>, "
-"fortalte han kongressen, <quote>for å forstå utryddingen av etter-kino-"
+"fortalte han kongressen, <quote>for å forstå ødeleggelsen av etter-kino-"
 "markedet forårsaket av de hundrevis av millioner opptak som vil seriøst "
 "påvirke fremtiden til det kreative miljøet i dette landet.  Det er ganske "
 "enkelt et spørsmål om grunnleggende økonomi og enkel sunn fornuft.</"
@@ -26696,7 +26696,7 @@ msgstr "televisjon"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "cable vs. broadcast"
-msgstr ""
+msgstr "kabel-TV mot kringkasting"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "film industry"
@@ -26704,7 +26704,7 @@ msgstr "filmindustri"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "luxury theatres vs. video piracy in"
-msgstr ""
+msgstr "luksuskinoer mot video-piratvirksomhet i"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
