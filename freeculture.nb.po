@@ -3562,11 +3562,11 @@ msgstr "demokrati"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in technologies of expression"
-msgstr ""
+msgstr "i teknologier for å uttrykke seg"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "expression, technologies of"
-msgstr ""
+msgstr "uttrykke seg, teknologier for å"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "democratic"
@@ -7713,6 +7713,16 @@ msgid ""
 "Recording Merchandisers, <quote>2002 Annual Survey Results,</quote> "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #20</ulink>."
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> Mens det ikke finnes noen "
+"gode estimater over antallet bruktplatebutikker, så var det i 2002 "
+"7&nbsp;7198 bruktbokhandler i USA, en økning på 20 prosent siden 1993. "
+"Se Book Hunter Press, <citetitle>The Quiet Revolution: The Expansion "
+"of the Used Book Market</citetitle> (2002), tilgjengelig fra <ulink "
+"url=\"http://free-culture.cc/notes/\">link #19</ulink>.  Brukte plater "
+"utgjorde $260 millioner i salg i 2002.  Se National Association of "
+"Recording Merchandisers, <quote>2002 Annual Survey Results</quote>, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#20</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
