@@ -8098,7 +8098,7 @@ msgstr ""
 #.  f19
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid "Copyright Infringements (Audio and Video Recorders), 475."
-msgid "Copyright Infringements (Audio and Video Recorders), 475."
+msgstr "Copyright Infringements (Audio and Video Recorders), 475."
 
 #.  f20
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
