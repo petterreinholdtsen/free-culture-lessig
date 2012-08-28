@@ -2580,7 +2580,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "by transforming previous works"
-msgstr ""
+msgstr "ved å endre tidligere verker"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Disney, Inc."
@@ -4276,7 +4276,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "World Trade Center"
-msgstr ""
+msgstr "World Trade Center"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5631,7 +5631,7 @@ msgstr "Fox, William"
 
 #. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
 msgid "General Film Company"
-msgstr ""
+msgstr "General Film Company"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Picker, Randal C."
@@ -5920,7 +5920,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "American Graphophone Company"
-msgstr ""
+msgstr "American Graphophone Company"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "player pianos"
@@ -6873,7 +6873,7 @@ msgstr "i Asia"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
-msgstr ""
+msgstr "fri programvare/åpen kildekode-programvare (FS/OSS)"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "GNU/Linux operating system"
@@ -7699,7 +7699,7 @@ msgstr "bøker"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "resales of"
-msgstr "selge på nytt"
+msgstr "bruktsalg av"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
