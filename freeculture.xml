@@ -1983,6 +1983,7 @@ Dist. Ct. 1894).
 </para>
 <indexterm startref='idxcameratechnology' class='endofrange'/>
 <indexterm id='idxdisneywalt4' class='startofrange'><primary>Disney, Walt</primary></indexterm>
+<indexterm id='idximagesownershipof' class='startofrange'><primary>images, ownership of</primary></indexterm>
 <para>
 The arguments in favor of requiring permission will sound surprisingly
 familiar. The photographer was <quote>taking</quote> something from the person or
@@ -2014,7 +2015,6 @@ gets something for nothing. Just as Disney could take inspiration from
 free to capture an image without compensating the source.
 </para>
 <indexterm startref='idxdisneywalt4' class='endofrange'/>
-<indexterm><primary>images, ownership of</primary></indexterm>
 <para>
 Fortunately for Mr. Eastman, and for photography in general, these
 early decisions went in favor of the pirates. In general, no
@@ -2069,6 +2069,7 @@ realized.
 <indexterm startref='idxphotography' class='endofrange'/>
 <indexterm startref='idxeastmangeorge' class='endofrange'/>
 <indexterm startref='idxpermissionsphotographyexemptedfrom' class='endofrange'/>
+<indexterm startref='idximagesownershipof' class='endofrange'/>
 <para>
 <emphasis role='strong'>If you drive</emphasis> through San
 Francisco's Presidio, you might see two gaudy yellow school buses
@@ -2376,6 +2377,10 @@ and obviously not just that events are commented upon critically, but
 that this mix of captured images, sound, and commentary can be widely
 spread practically instantaneously.
 </para>
+<indexterm><primary>September 11, 2001, terrorist attacks of</primary></indexterm>
+<indexterm id='idxblogsweblogs' class='startofrange'><primary>blogs (Web-logs)</primary></indexterm>
+<indexterm id='idxinternetblogson' class='startofrange'><primary>Internet</primary><secondary>blogs on</secondary></indexterm>
+<indexterm id='idxweblogsblogs' class='startofrange'><primary>Web-logs (blogs)</primary></indexterm>
 <para>
 September 11 was not an aberration. It was a beginning. Around the
 same time, a form of communication that has grown dramatically was
@@ -2385,7 +2390,8 @@ such as in Japan, it functions very much like a diary. In those
 cultures, it records private facts in a public way&mdash;it's a kind
 of electronic <citetitle>Jerry Springer</citetitle>, available anywhere in the world.
 </para>
-<indexterm><primary>blogs (Web-logs)</primary></indexterm>
+<indexterm><primary>political discourse</primary></indexterm>
+<indexterm id='idxinternetpublicdiscourseconductedon' class='startofrange'><primary>Internet</primary><secondary>public discourse conducted on</secondary></indexterm>
 <para>
 But in the United States, blogs have taken on a very different
 character.  There are some who use the space simply to talk about
@@ -2400,6 +2406,9 @@ are relatively short; they point directly to words used by others,
 criticizing with or adding to them.  They are arguably the most
 important form of unchoreographed public discourse that we have.
 </para>
+<indexterm id='idxdemocracyintechnologiesofexpression' class='startofrange'><primary>democracy</primary><secondary>in technologies of expression</secondary></indexterm>
+<indexterm id='idxelections' class='startofrange'><primary>elections</primary></indexterm>
+<indexterm id='idxexpressiontechnologiesofdemocratic' class='startofrange'><primary>expression, technologies of</primary><secondary>democratic</secondary></indexterm>
 <para>
 That's a strong statement. Yet it says as much about our democracy as
 it does about blogs. This is the part of America that is most
@@ -2411,7 +2420,11 @@ people vote
 in those elections. The cycle of these elections has become totally
 professionalized and routinized. Most of us think this is democracy.
 </para>
+<indexterm startref='idxblogsweblogs' class='endofrange'/>
+<indexterm startref='idxinternetblogson' class='endofrange'/>
+<indexterm startref='idxweblogsblogs' class='endofrange'/>
 <indexterm><primary>Tocqueville, Alexis de</primary></indexterm>
+<indexterm id='idxdemocracypublicdiscoursein' class='startofrange'><primary>democracy</primary><secondary>public discourse in</secondary></indexterm>
 <indexterm><primary>jury system</primary></indexterm>
 <para>
 But democracy has never just been about elections. Democracy
@@ -2433,6 +2446,7 @@ See, for example, Alexis de Tocqueville, <citetitle>Democracy in America</citeti
 bk. 1, trans.  Henry Reeve (New York: Bantam Books, 2000), ch. 16.
 </para></footnote>
 </para>
+<indexterm startref='idxelections' class='endofrange'/>
 <para>
 Yet even this institution flags in American life today. And in its
 place, there is no systematic effort to enable citizen deliberation. Some
@@ -2445,6 +2459,7 @@ And in some towns in New England, something close to deliberation
 remains. But for most of us for most of the time, there is no time or
 place for <quote>democratic deliberation</quote> to occur.
 </para>
+<indexterm id='idxpoliticaldiscourse' class='startofrange'><primary>political discourse</primary></indexterm>
 <para>
 More bizarrely, there is generally not even permission for it to
 occur.  We, the most powerful democracy in the world, have developed a
@@ -2458,8 +2473,13 @@ Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton Univers
 </para></footnote> We say what our friends want to hear, and hear very
 little beyond what our friends say.
 </para>
-<indexterm id='idxblogs1' class='startofrange'><primary>blogs (Web-logs)</primary></indexterm>
+<indexterm id='idxblogsweblogs2' class='startofrange'><primary>blogs (Web-logs)</primary></indexterm>
 <indexterm><primary>e-mail</primary></indexterm>
+<indexterm id='idxinternetblogson2' class='startofrange'><primary>Internet</primary><secondary>blogs on</secondary></indexterm>
+<indexterm id='idxweblogsblogs2' class='startofrange'><primary>Web-logs (blogs)</primary></indexterm>
+<indexterm startref='idxdemocracyintechnologiesofexpression' class='endofrange'/>
+<indexterm startref='idxexpressiontechnologiesofdemocratic' class='endofrange'/>
+<indexterm startref='idxdemocracypublicdiscoursein' class='endofrange'/>
 <para>
 Enter the blog. The blog's very architecture solves one part of this
 problem. People post when they want to post, and people read when they
@@ -2615,8 +2635,12 @@ Today there are probably a couple of million blogs where such writing
 happens. When there are ten million, there will be something
 extraordinary to report.
 </para>
-<indexterm startref='idxblogs1' class='endofrange'/>
-<indexterm startref="idxwinerdave" class='endofrange'/>
+<indexterm startref='idxpoliticaldiscourse' class='endofrange'/>
+<indexterm startref='idxblogsweblogs2' class='endofrange'/>
+<indexterm startref='idxinternetblogson2' class='endofrange'/>
+<indexterm startref='idxweblogsblogs2' class='endofrange'/>
+<indexterm startref='idxwinerdave' class='endofrange'/>
+<indexterm startref='idxinternetpublicdiscourseconductedon' class='endofrange'/>
 <indexterm id='idxbrownjohnseely' class='startofrange'><primary>Brown, John Seely</primary></indexterm>
 <indexterm id='idxadvertising1' class='startofrange'><primary>advertising</primary></indexterm>
 <para>

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-28 20:40+0300\n"
+"POT-Creation-Date: 2012-08-28 22:18+0300\n"
 "PO-Revision-Date: 2012-08-25 19:55+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1246,7 +1246,7 @@ msgstr ""
 "prosess.  RCA hadde hva Causby-ene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Internet"
 msgstr "internet"
 
@@ -3639,6 +3639,10 @@ msgstr ""
 "hvilket som helst bilde han ønsket.  Svaret var nei.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "images, ownership of"
+msgstr "bilder, eierskap til"
+
 #.  PAGE BREAK 47
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3692,10 +3696,6 @@ msgstr ""
 "ingenting.  På samme måte som Disney kunne hente inspirasjon fra "
 "<citetitle>Steamboat Bill, Jr</citetitle>. eller Grimm-brødrene, så burde "
 "fotografene stå fritt til å fange et bilde uten å kompensere kilden."
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "images, ownership of"
-msgstr "bilder, eierskap til"
 
 #.  f8
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4384,6 +4384,22 @@ msgstr ""
 "ikke at hendelser blir kommentert kritisk, men at denne blandingen av  "
 "bilder, lyd og kommentar kan spres vidt omkring nesten umiddelbart."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "September 11, 2001, terrorist attacks of"
+msgstr "11. september 2001, terrorangrep den"
+
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "blogs (Web-logs)"
+msgstr "blogger (Web-logger)"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "blogs on"
+msgstr "blogger om"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Web-logs (blogs)"
+msgstr "Web-logger (blogger)"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "September 11 was not an aberration. It was a beginning. Around the same "
@@ -4402,9 +4418,13 @@ msgstr ""
 "måte&mdash;det er en slags elektronisk <citetitle>Jerry Springer</"
 "citetitle>, tilgjengelig overalt i verden."
 
-#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-msgid "blogs (Web-logs)"
-msgstr "blogger (Web-logger)"
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "political discourse"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "public discourse conducted on"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4432,6 +4452,10 @@ msgstr ""
 "til dem.  Det kan argumenteres for at de er den viktigste form for "
 "ukoreografert offentlig debatt som vi har."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "elections"
+msgstr "valg"
+
 #.  PAGE BREAK 55
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4454,6 +4478,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Tocqueville, Alexis de"
 msgstr "Tocqueville, Alexis de"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "public discourse in"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
@@ -11014,10 +11042,6 @@ msgstr ""
 "kopiene var bare holdt av broadcasters. Ingen biblioteket hadde rett til "
 "dem. regjeringen kreve ikke dem. innholdet i denne delen av den amerikanske "
 "kulturen er praktisk talt usynlige for alle som ville se."
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "September 11, 2001, terrorist attacks of"
-msgstr ""
 
 #.  PAGE BREAK 123
 #. type: Content of: <book><part><chapter><para>
