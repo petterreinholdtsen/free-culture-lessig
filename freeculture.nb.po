@@ -8315,6 +8315,10 @@ msgid ""
 "case, throughout our history, that change meant that someone got a "
 "<quote>free ride</quote> on someone else's work."
 msgstr ""
+"I hvert tilfelle gjennom vår historie har ny teknologi endret hvordan "
+"innhold ble distribuert.<placeholder type=\"footnote\" id=\"0\"/> I "
+"hvert tilfelle, gjennom hele vår historie, har den endringen ført til "
+"at noen fikk en <quote>gratistur</quote> på noen andres verk."
 
 #.  PAGE BREAK 91
 #. type: Content of: <book><part><chapter><section><para>
