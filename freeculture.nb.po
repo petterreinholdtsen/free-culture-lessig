@@ -59,20 +59,24 @@ msgid "Lessig"
 msgstr "Lessig"
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+#, mtrans, fuzzy
 msgid "Intellectual property&mdash;United States."
-msgstr ""
+msgstr "immaterielle — USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+#, mtrans, fuzzy
 msgid "Mass media&mdash;United States."
-msgstr ""
+msgstr "massemedia — USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+#, mtrans, fuzzy
 msgid "Technological innovations&mdash;United States."
-msgstr ""
+msgstr "teknologiske nyvinninger — USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
+#, mtrans, fuzzy
 msgid "Art&mdash;United States."
-msgstr ""
+msgstr "Art — USA."
 
 #. type: Content of: <book><bookinfo><publisher><address>
 #, no-wrap
@@ -218,10 +222,13 @@ msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid ""
 "THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street "
 "New York, New York"
 msgstr ""
+"penguin-trykk, medlem av penguin-gruppen (usa) inc. 375 hudson street new "
+"york, new york"
 
 #. type: Content of: <book><colophon><para>
 msgid "Copyright &copy; Lawrence Lessig.  All rights reserved."
@@ -254,8 +261,9 @@ msgstr ""
 "kommer fra kontoret til FCC-kommisjonæren, Michael J. Copps."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "Library of Congress Cataloging-in-Publication Data"
-msgstr ""
+msgstr "Library of congress cataloging i publikasjonen data"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -264,52 +272,63 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "p. cm."
-msgstr ""
+msgstr "s. cm."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "Includes index."
-msgstr ""
+msgstr "inkluderer index."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "ISBN 1-59420-006-8 (hardcover)"
-msgstr ""
+msgstr "ISBN 1-59420-006-8 (Innbundet bok)"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid ""
 "1. Intellectual property&mdash;United States. 2. Mass media&mdash;United "
 "States."
-msgstr ""
+msgstr "1. eiendomsrett — USA. 2. massemedia — USA."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
-msgstr ""
+msgstr "3. teknologiske nyvinninger — USA. 4. art — USA. i. tittel."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "KF2979.L47"
-msgstr ""
+msgstr "kf2979.l47"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "343.7309'9&mdash;dc22"
-msgstr ""
+msgstr "343.7309'9 — dc22"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "This book is printed on acid-free paper."
-msgstr ""
+msgstr "Denne boken er trykket på syre-fri papir."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "Printed in the United States of America"
-msgstr ""
+msgstr "trykt i Amerikas forente stater"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "1 3 5 7 9 10 8 6 4"
-msgstr ""
+msgstr "1 3 5 7 9 10 8 6 4"
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid "Designed by Marysarah Quinn"
-msgstr ""
+msgstr "designet av marysarah quinn"
 
 #. type: Content of: <book><colophon><para>
 msgid "&translationblock;"
@@ -320,6 +339,7 @@ msgstr ""
 "Rapporter feil med oversettelsen via github."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid ""
 "Without limiting the rights under copyright reserved above, no part of this "
 "publication may be reproduced, stored in or introduced into a retrieval "
@@ -327,8 +347,15 @@ msgid ""
 "photocopying, recording or otherwise), without the prior written permission "
 "of both the copyright owner and the above publisher of this book."
 msgstr ""
+"uten å begrense rettighetene under opphavsrett reservert ovenfor, kan ingen "
+"del av denne publikasjonen bli reprodusert, lagret i eller innført i et "
+"gjenfinningssystem eller overføres, i noen form eller på noen måte "
+"(elektronisk, mekanisk, fotokopiering, innspilling eller annet), uten "
+"skriftlig tillatelse fra både eieren av opphavsretten og ovenfor utgiveren "
+"av denne boken."
 
 #. type: Content of: <book><colophon><para>
+#, mtrans, fuzzy
 msgid ""
 "The scanning, uploading, and distribution of this book via the Internet or "
 "via any other means without the permission of the publisher is illegal and "
@@ -336,6 +363,11 @@ msgid ""
 "do not participate in or encourage electronic piracy of copyrighted "
 "materials. Your support of the author's rights is appreciated."
 msgstr ""
+"den skanning, laste opp og distribusjon av denne boken via Internett eller "
+"via andre midler uten tillatelse fra utgiveren er ulovlig og straffbart ved "
+"lov. kjøpe bare godkjente elektroniske versjoner og ikke delta i eller "
+"oppmuntre elektronisk sjørøver av opphavsrettsbeskyttet materiale. din "
+"støtte av forfatterens rettigheter er verdsatt."
 
 #. type: Content of: <book><dedication><para>
 msgid ""
@@ -506,8 +538,9 @@ msgid "power, concentration of"
 msgstr "makt, konsentrasjon av"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "CodePink Women in Peace"
-msgstr ""
+msgstr "codepink kvinner i fred"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Safire, William"
@@ -1124,8 +1157,9 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "FCC"
-msgstr ""
+msgstr "FCC"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on FM radio"
@@ -1385,8 +1419,9 @@ msgstr ""
 "lovverket."
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Copyright infringement lawsuits"
-msgstr ""
+msgstr "krenkelse av opphavsrett søksmål"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
@@ -1492,8 +1527,9 @@ msgstr ""
 "en fri kultur, og mer og mer en tillatelseskultur."
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "protection of artists vs. business interests"
-msgstr ""
+msgstr "beskyttelse av kunstnere vs. forretningsinteresser"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1576,8 +1612,9 @@ msgid "Valenti, Jack"
 msgstr "Valenti, Jack"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on creative property rights"
-msgstr ""
+msgstr "på kreative eiendomsrettigheter"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1755,8 +1792,9 @@ msgstr ""
 "krigen.  Vi må finne en løsning snart."
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "intellectual property rights"
-msgstr ""
+msgstr "immaterielle rettigheter"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -2203,8 +2241,9 @@ msgid "copyright law"
 msgstr "åndsverkslov"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on republishing vs. transformation of original work"
-msgstr ""
+msgstr "på ny publisering vs. transformasjonen av opprinnelige arbeid"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "creativity"
@@ -2726,8 +2765,9 @@ msgid "defined"
 msgstr "definert"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "traditional term for conversion to"
-msgstr ""
+msgstr "tradisjonelle frist for konvertering til"
 
 #.  f4
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4419,12 +4459,14 @@ msgstr ""
 "citetitle>, tilgjengelig overalt i verden."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "political discourse"
-msgstr ""
+msgstr "politiske diskurs"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "public discourse conducted on"
-msgstr ""
+msgstr "Public discourse gjennomført på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4480,8 +4522,9 @@ msgid "Tocqueville, Alexis de"
 msgstr "Tocqueville, Alexis de"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "public discourse in"
-msgstr ""
+msgstr "offentlige diskurs i"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
@@ -4700,13 +4743,13 @@ msgid ""
 "stories. People read what is popular; what is popular has been selected by a "
 "very democratic process of peer-generated rankings."
 msgstr ""
-"Men bloggere har ikke tilsvarende begrensninger.  De kan bli opphengt, de kan "
-"fokusere, de kan bli seriøse.  Hvis en bestemt blogger skriver en spesielt "
-"interessant historie, så vil flere og flere folk lenke til den historien.  "
-"Og etter hvert som antallet lenker til en bestemt historie øker, så stiger "
-"den i rangeringen for historier.  Folk leser det som er populært, og hva som "
-"er populært har blitt valgt gjennom en svært demokratisk prosess av "
-"likemanns-generert rangering. "
+"Men bloggere har ikke tilsvarende begrensninger.  De kan bli opphengt, de "
+"kan fokusere, de kan bli seriøse.  Hvis en bestemt blogger skriver en "
+"spesielt interessant historie, så vil flere og flere folk lenke til den "
+"historien.  Og etter hvert som antallet lenker til en bestemt historie øker, "
+"så stiger den i rangeringen for historier.  Folk leser det som er populært, "
+"og hva som er populært har blitt valgt gjennom en svært demokratisk prosess "
+"av likemanns-generert rangering. "
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Winer, Dave"
@@ -4763,9 +4806,9 @@ msgid ""
 msgstr ""
 "Disse konfliktene blir mer viktig etter hvert som mediene blir mer "
 "konsentrert (mer om dette under).  Konsentrerte medier kan skjule mer fra "
-"offentligheten enn ikke-konsentrerte medier kan&mdash;slik CNN innrømte at de "
-"gjorde etter Irak-krigen fordi de var rett for konsekvensene for sine egne "
-"ansatte.<placeholder type=\"footnote\" id=\"0\"/> De trenger også å "
+"offentligheten enn ikke-konsentrerte medier kan&mdash;slik CNN innrømte at "
+"de gjorde etter Irak-krigen fordi de var rett for konsekvensene for sine "
+"egne ansatte.<placeholder type=\"footnote\" id=\"0\"/> De trenger også å "
 "opprettholde en mer konsistent rapportering.  (Midt under Irak-krigen, leste "
 "jeg en melding på Internet fra noen som på det tidspunktet lyttet på "
 "satellitt-forbindelsen til en reporter i Irak.  New York-hovedkvarteret ba "
@@ -6316,11 +6359,10 @@ msgid ""
 "gives the radio station the right to take something for nothing."
 msgstr ""
 "Uten tvil kan en argumentere at, totalt sett, tjener innspillingsartistene "
-"på dette.  I snitt er reklamen de får verdt mer enn "
-"fremføringsrettighetene de frasier seg.  Kanskje.  Men selv om det er slik, "
-"så gir loven vanligvis skaperen retten til å gjøre dette valget.  Ved å "
-"gjøre valget for ham eller henne, gir loven radiostasjonen rett til å ta noe "
-"uten å betale."
+"på dette.  I snitt er reklamen de får verdt mer enn fremføringsrettighetene "
+"de frasier seg.  Kanskje.  Men selv om det er slik, så gir loven vanligvis "
+"skaperen retten til å gjøre dette valget.  Ved å gjøre valget for ham eller "
+"henne, gir loven radiostasjonen rett til å ta noe uten å betale."
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
@@ -6924,8 +6966,9 @@ msgid "Windows"
 msgstr "Windows"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "international software piracy of"
-msgstr ""
+msgstr "internasjonale piratkopiering av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
@@ -7578,20 +7621,18 @@ msgid ""
 "dollar value of shipments).</quote>"
 msgstr ""
 "Se Recording Industry Association of America, <citetitle>2002 Yearend "
-"Statistics</citetitle>, tilgjengelig fra <ulink "
-"url=\"http://free-culture.cc/notes/\">link #15</ulink>.  En senere "
-"rapport indikerer enda større tap.  Se Recording Industry Association "
-"of America, <citetitle>Some Facts About Music Piracy</citetitle>, 25. "
-"juni 2003, tilgjengelig fra <ulink "
-"url=\"http://free-culture.cc/notes/\">link #16</ulink>: <quote>I de "
-"siste fire årene har antall utsendinger av enheter innspilt musikk "
-"falt med 26 prosent fra 1,16 milliarder enheter til 860 millioner "
-"enheter i 2002 i USA (basert på antall utsendt).  I salg er omsetning "
-"redusert med 14 prosent, fra $14,6 milliarder til $12,6 milliarder "
-"siste år (basert på US dollar-verdi for utsendingene). "
-"Musikkindustrien på verdensbasis har gått ned fra å være en $39 "
-"milliarders industri i 2000 til å bli en $32 milliarders industri i "
-"2002 (basert på US dollarverdi for utsendinger.</quote>"
+"Statistics</citetitle>, tilgjengelig fra <ulink url=\"http://free-culture.cc/"
+"notes/\">link #15</ulink>.  En senere rapport indikerer enda større tap.  Se "
+"Recording Industry Association of America, <citetitle>Some Facts About Music "
+"Piracy</citetitle>, 25. juni 2003, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #16</ulink>: <quote>I de siste fire årene har "
+"antall utsendinger av enheter innspilt musikk falt med 26 prosent fra 1,16 "
+"milliarder enheter til 860 millioner enheter i 2002 i USA (basert på antall "
+"utsendt).  I salg er omsetning redusert med 14 prosent, fra $14,6 milliarder "
+"til $12,6 milliarder siste år (basert på US dollar-verdi for utsendingene). "
+"Musikkindustrien på verdensbasis har gått ned fra å være en $39 milliarders "
+"industri i 2000 til å bli en $32 milliarders industri i 2002 (basert på US "
+"dollarverdi for utsendinger.</quote>"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Black, Jane"
@@ -7943,13 +7984,12 @@ msgid ""
 "<citetitle>All the Rave: The Rise and Fall of Shawn Fanning's Napster</"
 "citetitle> (New York: Crown Business, 2003), 269&ndash;82."
 msgstr ""
-"Se referat fra forhandlingene, In Re: Napster Copyright Litigation ved "
-"34-35 (N.D. Cal., 11. juli 2001), nos. MDL-00-1369 MHP, C 99-5183 MHP, "
-"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
-"#21</ulink>. For en oppsummering av søksmålet og dets effekt på "
-"Napster, se Joseph Menn, <citetitle>All the Rave: The Rise and Fall of "
-"Shawn Fanning's Napster</citetitle> (New York: Crown Business, 2003), "
-"269&ndash;82."
+"Se referat fra forhandlingene, In Re: Napster Copyright Litigation ved 34-35 "
+"(N.D. Cal., 11. juli 2001), nos. MDL-00-1369 MHP, C 99-5183 MHP, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #21</"
+"ulink>. For en oppsummering av søksmålet og dets effekt på Napster, se "
+"Joseph Menn, <citetitle>All the Rave: The Rise and Fall of Shawn Fanning's "
+"Napster</citetitle> (New York: Crown Business, 2003), 269&ndash;82."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7988,8 +8028,8 @@ msgstr ""
 "fildelingsteknologier, og ikke en krig mot opphavsrettsbrudd.  Det er ikke "
 "mulig å sikre at et p2p-system brukes 100 prosent av tiden i henhold til "
 "loven, like lite som det er mulig å sikre at 100 prosent av videospillere "
-"eller 100 prosent av kopimaskiner eller 100 prosent av håndvåpen blir brukt i "
-"henhold til loven.  Ingen toleranse betyr ingen p2p.  Rettens avgjørelser "
+"eller 100 prosent av kopimaskiner eller 100 prosent av håndvåpen blir brukt "
+"i henhold til loven.  Ingen toleranse betyr ingen p2p.  Rettens avgjørelser "
 "betyr at vi som samfunn må miste fordelene med p2p, selv for de fullstendig "
 "lovlige og fordelaktige bruksområdene som de tjener, kun for å sikre at de "
 "ikke er brudd på opphavsretten forårsaket av p2p."
@@ -8074,10 +8114,10 @@ msgstr ""
 "uansett hva de krevde for sitt innhold, så ville opphavsrettsinnehaverne "
 "knyttet til kringkastere bruke sin makt til å hemme denne nye teknologien "
 "kabel-TV.  Men hvis kongressen hadde tillat kabel-TV å bruke kringkasternes "
-"innhold uten å betale, så ville den gitt urettferdig subsidiering til "
-"kabel-TV.  Dermed valgte kongressen en sti som ville sikre "
-"<emphasis>kompensasjon</emphasis> uten å gi fortiden (kringkasterne) "
-"kontroll over fremtiden (kabel-TV)."
+"innhold uten å betale, så ville den gitt urettferdig subsidiering til kabel-"
+"TV.  Dermed valgte kongressen en sti som ville sikre <emphasis>kompensasjon</"
+"emphasis> uten å gi fortiden (kringkasterne) kontroll over fremtiden (kabel-"
+"TV)."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Betamax"
@@ -8290,10 +8330,10 @@ msgid ""
 msgstr ""
 "Fornuftig policy, og vår historie, støtter vår konsistente henvisning til "
 "kongressen når store teknologiske nyvinninger endrer markedet for "
-"opphavsrettsbeskyttet materiale.  Kongressen har den konstituelle autoriteten "
-"og institusjonsevnen til å ta fullt hensyn til de forskjellige "
-"sammensetningene av konkurrerende interesser som uunngåelig blir involvert av "
-"slik ny teknologi.<placeholder type=\"footnote\" id=\"0\"/>"
+"opphavsrettsbeskyttet materiale.  Kongressen har den konstituelle "
+"autoriteten og institusjonsevnen til å ta fullt hensyn til de forskjellige "
+"sammensetningene av konkurrerende interesser som uunngåelig blir involvert "
+"av slik ny teknologi.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8380,21 +8420,19 @@ msgid ""
 "Review</citetitle> 70 (2003): 293&ndash;96.  <placeholder type=\"indexterm\" "
 "id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"Dette er de viktigste forekomstene i vår historie, men det er også "
-"andre tilfeller.  For eksempel var teknologien til digitale "
-"lydkasetter (DAT) regulert av kongressen for å minimere risikoen for "
-"piratkopiering.  Medisinen som kongressen valgte påførte en belastning "
-"for DAT-produsenter, ved å legge en skatt på kassettsalg og ved å "
-"kontrollere DAT-teknologien. Se Audio Home Recording Act fra 1992 "
-"(overskrift 17 i <citetitle>United States Code</citetitle>), "
-"Pub. L. No. 102-563, 106 Stat.  4237, codified at 17 U.S.C. §1001. "
-"Igjen eliminerte heller ikke denne regulereringen muligheten for "
-"gratispassasjerer slik jeg har beskrevet.  Se Lessig "
-"<citetitle>Future</citetitle>, 71. Se også Picker, <quote>From Edison "
-"to the Broadcast Flag,</quote> <citetitle>University of Chicago Law "
-"Review</citetitle> 70 (2003): 293&ndash;96.  <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
+"Dette er de viktigste forekomstene i vår historie, men det er også andre "
+"tilfeller.  For eksempel var teknologien til digitale lydkasetter (DAT) "
+"regulert av kongressen for å minimere risikoen for piratkopiering.  "
+"Medisinen som kongressen valgte påførte en belastning for DAT-produsenter, "
+"ved å legge en skatt på kassettsalg og ved å kontrollere DAT-teknologien. Se "
+"Audio Home Recording Act fra 1992 (overskrift 17 i <citetitle>United States "
+"Code</citetitle>), Pub. L. No. 102-563, 106 Stat.  4237, codified at 17 U.S."
+"C. §1001. Igjen eliminerte heller ikke denne regulereringen muligheten for "
+"gratispassasjerer slik jeg har beskrevet.  Se Lessig <citetitle>Future</"
+"citetitle>, 71. Se også Picker, <quote>From Edison to the Broadcast Flag,</"
+"quote> <citetitle>University of Chicago Law Review</citetitle> 70 (2003): "
+"293&ndash;96.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
+"\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8421,16 +8459,15 @@ msgid ""
 "technology to benefit from content made before. It balanced the interests at "
 "stake."
 msgstr ""
-"I <emphasis>ingen</emphasis> av disse tilfellene eliminerte domstolene "
-"og kongressen alle gratispassasjerer.  I <emphasis>ingen</emphasis> av disse "
-"tilfellene insisterte domstolene og kongressen at loven skulle sikre "
-"at opphavsrettsinnehaveren skulle få all verdi som hans opphavsrett "
-"hadde skapt.  I hvert tilfelle klaget opphavsrettseieren om "
-"<quote>piratvirksomhet</quote>.  I hvert tilfelle valgte kongressen å "
-"ta hensyn til noe av legitimiteten til oppførselen hos "
-"<quote>piratene</quote>.  I hvert tilfelle tillot kongressen noe ny "
-"teknologi a ha fordel av innhold laget tidligere.  Den balanserte "
-"interessene på spill."
+"I <emphasis>ingen</emphasis> av disse tilfellene eliminerte domstolene og "
+"kongressen alle gratispassasjerer.  I <emphasis>ingen</emphasis> av disse "
+"tilfellene insisterte domstolene og kongressen at loven skulle sikre at "
+"opphavsrettsinnehaveren skulle få all verdi som hans opphavsrett hadde "
+"skapt.  I hvert tilfelle klaget opphavsrettseieren om "
+"<quote>piratvirksomhet</quote>.  I hvert tilfelle valgte kongressen å ta "
+"hensyn til noe av legitimiteten til oppførselen hos <quote>piratene</"
+"quote>.  I hvert tilfelle tillot kongressen noe ny teknologi a ha fordel av "
+"innhold laget tidligere.  Den balanserte interessene på spill."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8443,16 +8480,15 @@ msgid ""
 "in damages? Would it have been better if Edison had controlled film? Should "
 "every cover band have to hire a lawyer to get permission to record a song?"
 msgstr ""
-"Når du tenker over disse eksemplene, og de andre eksemplene som utgjør "
-"de første fire kapittelene i denne avdelingen, så gir denne balansen "
-"mening.  Var Walt Disney en pirat?  Ville doujinshi være bedre hvis "
-"skaperne måtte be om tillatelse?  Bør verktøy som gjør det mulig for "
-"andre å fange og spre bilder som en måte å kultivere og kritisere vår "
-"kultur være bedre hvis den var regulert?  Er det virkelig riktig at a "
-"bygge en søkemotor bør eksponere deg for krav om $15 millioner i "
-"erstatning.  Ville det ha vært bedre om Edison hadde kontrollert all "
-"film?  Burde et hvert cover-band måtte hyre inn en advokat for å få "
-"tillatelse til å spille inn en sang?"
+"Når du tenker over disse eksemplene, og de andre eksemplene som utgjør de "
+"første fire kapittelene i denne avdelingen, så gir denne balansen mening.  "
+"Var Walt Disney en pirat?  Ville doujinshi være bedre hvis skaperne måtte be "
+"om tillatelse?  Bør verktøy som gjør det mulig for andre å fange og spre "
+"bilder som en måte å kultivere og kritisere vår kultur være bedre hvis den "
+"var regulert?  Er det virkelig riktig at a bygge en søkemotor bør eksponere "
+"deg for krav om $15 millioner i erstatning.  Ville det ha vært bedre om "
+"Edison hadde kontrollert all film?  Burde et hvert cover-band måtte hyre inn "
+"en advokat for å få tillatelse til å spille inn en sang?"
 
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8475,16 +8511,16 @@ msgid ""
 "been done <emphasis>after</emphasis> a technology has matured, or settled "
 "into the mix of technologies that facilitate the distribution of content."
 msgstr ""
-"Vi kunne svart ja på hvert av disse spørsmålene, men vår tradisjon har "
-"svart nei.  I vår tradisjon, som høyesterett uttalte har opphavsretten "
-"<quote>aldri gitt opphavsrettseieren fullstendig kontroll over all "
-"mulig bruk av hans verk</quote>.<placeholder type=\"footnote\" "
-"id=\"0\"/> I stedet har de spesifikke bruksområder som loven regulerer "
-"vært definert ved å balansere de goder som kommer fra å dele ut en "
-"eksklusiv rettighet mot ulempene en slik eksklusiv rettighet skaper. "
-"Og denne balanseringen har historisk vært gjort "
-"<emphasis>etter</emphasis> at teknologien har modnet, eller landet på "
-"en blanding av teknologier som bidrar til distribusjonen av innhold."
+"Vi kunne svart ja på hvert av disse spørsmålene, men vår tradisjon har svart "
+"nei.  I vår tradisjon, som høyesterett uttalte har opphavsretten "
+"<quote>aldri gitt opphavsrettseieren fullstendig kontroll over all mulig "
+"bruk av hans verk</quote>.<placeholder type=\"footnote\" id=\"0\"/> I stedet "
+"har de spesifikke bruksområder som loven regulerer vært definert ved å "
+"balansere de goder som kommer fra å dele ut en eksklusiv rettighet mot "
+"ulempene en slik eksklusiv rettighet skaper. Og denne balanseringen har "
+"historisk vært gjort <emphasis>etter</emphasis> at teknologien har modnet, "
+"eller landet på en blanding av teknologier som bidrar til distribusjonen av "
+"innhold."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8501,17 +8537,17 @@ msgid ""
 "against the strong public interest that innovation continue."
 msgstr ""
 "Vi burde gjøre det samme i dag.  Teknologien på internettet endrer seg "
-"raskt.  Måten folk kobler seg til internettet (trådbasert eller "
-"trådløst) endrer seg veldig raskt.  Uten tvil bør ikke nettverket bli "
-"et verktøy for <quote>stjeling</quote> fra kunstnere.  Men loven bør "
-"heller ikke bli et verktøy for å tvinge igjennom en bestemt måte som "
-"kunstnere (eller mer korrekt, distributører) får betalt.  Som jeg "
-"beskriver i litt detalj i det siste kapittelet i denne boken, bør vi "
-"sikre inntekter til kunstnere mens vi tillater markedet å få på plass "
-"den mest effektive måten å fremme og distribuere innhold.  Dette vil "
-"kreve endringer i loven, i hvert fall i en mellomperiode.  Disse "
-"endringene burde utformes slik at de balanserer beskyttelsen gitt i "
-"loven mot den sterke folkeinteressen for at nyskapning fortsetter."
+"raskt.  Måten folk kobler seg til internettet (trådbasert eller trådløst) "
+"endrer seg veldig raskt.  Uten tvil bør ikke nettverket bli et verktøy for "
+"<quote>stjeling</quote> fra kunstnere.  Men loven bør heller ikke bli et "
+"verktøy for å tvinge igjennom en bestemt måte som kunstnere (eller mer "
+"korrekt, distributører) får betalt.  Som jeg beskriver i litt detalj i det "
+"siste kapittelet i denne boken, bør vi sikre inntekter til kunstnere mens vi "
+"tillater markedet å få på plass den mest effektive måten å fremme og "
+"distribuere innhold.  Dette vil kreve endringer i loven, i hvert fall i en "
+"mellomperiode.  Disse endringene burde utformes slik at de balanserer "
+"beskyttelsen gitt i loven mot den sterke folkeinteressen for at nyskapning "
+"fortsetter."
 
 #.  f26
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8534,14 +8570,13 @@ msgid ""
 "<citetitle>The New York Times</citetitle>, <quote>could be delayed in the "
 "P2P fight.</quote><placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"Dette er spesielt riktig når en ny teknologi muliggjør en svært "
-"overlegen måte å distribuere på.  Og dette har p2p gjort. "
-"P2p-teknologier kan være ideelt effektivt for å flytte innhold på "
-"tvers av et stort og variert nettverk.  Utviklet videre så kan de gjøre "
-"nettverkene mye mer effektivt.  Likevel kan disse <quote>potensielle "
-"fordelene for folket</quote>, som John Schwartz skriver i "
-"<citetitle>The New York Times</citetitle>, <quote>bli forsinket av "
-"p2p-kampen</quote>.<placeholder type=\"footnote\" id=\"0\"/>"
+"Dette er spesielt riktig når en ny teknologi muliggjør en svært overlegen "
+"måte å distribuere på.  Og dette har p2p gjort. P2p-teknologier kan være "
+"ideelt effektivt for å flytte innhold på tvers av et stort og variert "
+"nettverk.  Utviklet videre så kan de gjøre nettverkene mye mer effektivt.  "
+"Likevel kan disse <quote>potensielle fordelene for folket</quote>, som John "
+"Schwartz skriver i <citetitle>The New York Times</citetitle>, <quote>bli "
+"forsinket av p2p-kampen</quote>.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8556,16 +8591,15 @@ msgid ""
 "good use for the car before we arrest him?</quote>"
 msgstr ""
 "<emphasis role='strong'>Men når noen</emphasis> begynner å snakke om "
-"<quote>balanse</quote>, kommer opphavsrettskrigerne med et annet "
-"argument.  <quote>All denne varme luften om balanse og "
-"insentiver</quote>, sier de, <quote>går glipp av det fundamentale "
-"poenget.  Vårt innhold</quote>, insisterer krigerne, <quote>er vår "
-"<emphasis>eiendom</emphasis>.  Hvorfor burde vi vente på at kongressen "
-"skal finne en ny balanse for våre eiendomsretter?  Må vi vente før vi "
-"kontakter politiet når bilen vår har blitt stjålet?  Og hvorfor burde "
-"kongressen i det hele tatt debattere nytten av dette tyveriet?  Spør "
-"vi dem om biltyven hadde god bruk for bilen før vi arresterer "
-"han?</quote>"
+"<quote>balanse</quote>, kommer opphavsrettskrigerne med et annet argument.  "
+"<quote>All denne varme luften om balanse og insentiver</quote>, sier de, "
+"<quote>går glipp av det fundamentale poenget.  Vårt innhold</quote>, "
+"insisterer krigerne, <quote>er vår <emphasis>eiendom</emphasis>.  Hvorfor "
+"burde vi vente på at kongressen skal finne en ny balanse for våre "
+"eiendomsretter?  Må vi vente før vi kontakter politiet når bilen vår har "
+"blitt stjålet?  Og hvorfor burde kongressen i det hele tatt debattere nytten "
+"av dette tyveriet?  Spør vi dem om biltyven hadde god bruk for bilen før vi "
+"arresterer han?</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8863,8 +8897,9 @@ msgstr ""
 "verket i 1774?"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Licensing Act (1662)"
-msgstr ""
+msgstr "lisensiering act (1662)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9041,8 +9076,9 @@ msgid "Henry VIII, King of England"
 msgstr "Henry VIII, Konge av England"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Statute of Monopolies (1656)"
-msgstr ""
+msgstr "Rhuddlan monopoler (1656)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9280,8 +9316,8 @@ msgid ""
 "For a compelling account, see David Saunders, <citetitle>Authorship and "
 "Copyright</citetitle> (London: Routledge, 1992), 62&ndash;69."
 msgstr ""
-"For en fascinerende fremstilling, se David Saunders, <citetitle>Authorship and "
-"Copyright</citetitle> (London: Routledge, 1992), 62&ndash;69."
+"For en fascinerende fremstilling, se David Saunders, <citetitle>Authorship "
+"and Copyright</citetitle> (London: Routledge, 1992), 62&ndash;69."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9347,8 +9383,8 @@ msgid ""
 "Borwell)."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> Lyman Ray Patterson, "
-"<citetitle>Copyright in Historical Perspective</citetitle>, 167 (der "
-"Borwell blir sitert)."
+"<citetitle>Copyright in Historical Perspective</citetitle>, 167 (der Borwell "
+"blir sitert)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9856,8 +9892,8 @@ msgstr ""
 "citetitle>, plassert bakerst i et hjørne i en scene i en dokumentar om "
 "Wagners Ring Cycle. Som om det ikke var nok, forbløffet Herrera Else med å "
 "si <quote>Og om du siterer meg, vil du høre fra våre advokater.</quote> En "
-"av Herreras assistenter fortalte Else at <quote>De bryr seg ikke i det "
-"hele tatt. Alt de vil ha er pengene.</quote>"
+"av Herreras assistenter fortalte Else at <quote>De bryr seg ikke i det hele "
+"tatt. Alt de vil ha er pengene.</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Day After Trinity, The"
@@ -9913,8 +9949,8 @@ msgstr ""
 "Simpson</citetitle> er en form for bruk hvor loven gir eieren kontroll. "
 "Dersom du velger ut dine favorittepisoder, leier en kinosal og selger "
 "billetter til <quote>Mine <citetitle>Simpson</citetitle>-favoritter</quote>, "
-"så må du ha tillatelse fra rettighetsinnehaveren (eieren). Og eieren kan (med "
-"rette, slik jeg ser det) kreve hvor mye han vil; $10 eller "
+"så må du ha tillatelse fra rettighetsinnehaveren (eieren). Og eieren kan "
+"(med rette, slik jeg ser det) kreve hvor mye han vil; $10 eller "
 "$1&nbsp;000&nbsp;000. Det er hans rett ifølge loven."
 
 #.  f1
@@ -9966,8 +10002,8 @@ msgid ""
 "rely on the concept in any concrete way. Here's why:"
 msgstr ""
 "<citetitle>Simpsons</citetitle>-fiaskoen lærte meg om hvor stor avstand det "
-"var mellom det jurister ikke finner relevant på en abstrakt måte, og hva "
-"som er knusende relevant på en konkret måte for oss som prøver å lage og "
+"var mellom det jurister ikke finner relevant på en abstrakt måte, og hva som "
+"er knusende relevant på en konkret måte for oss som prøver å lage og "
 "kringkaste dokumentarer. Jeg tvilte aldri på at dette helt klart var "
 "<quote>rimelig bruk</quote>, men jeg kunne ikke stole på konseptet på noen "
 "konkret måte. Og dette er grunnen:"
@@ -10098,8 +10134,9 @@ msgstr ""
 "forsket Starwave på ny teknologi for å levere underholdning uten nettverk."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "retrospective compilations on"
-msgstr ""
+msgstr "retrospektiv samleplater på"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
@@ -10176,8 +10213,9 @@ msgstr ""
 "<quote>Vel, hvor mye vil det kreve?</quote>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "publicity rights on images of"
-msgstr ""
+msgstr "publisitet rettigheter på bilder av"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -10769,8 +10807,9 @@ msgstr ""
 "kopier av Internett og lagret dem."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Way Back Machine"
-msgstr ""
+msgstr "vei tilbake maskinen"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -10833,8 +10872,9 @@ msgstr ""
 "pålitelig minne."
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "White House press releases"
-msgstr ""
+msgstr "hvite hus-pressemeldinger"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
@@ -10862,8 +10902,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "history, records of"
-msgstr ""
+msgstr "historie, poster av"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -10944,20 +10985,23 @@ msgstr ""
 "milliard sider per måned."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Library of Congress"
-msgstr ""
+msgstr "Library of congress"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Television Archive"
-msgstr ""
+msgstr "TV-arkiv"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Vanderbilt University"
 msgstr "Vanderbilt University"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "libraries"
-msgstr ""
+msgstr "biblioteker"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archival function of"
@@ -11001,8 +11045,9 @@ msgid "Quayle, Dan"
 msgstr "Quayle, Dan"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
+#, mtrans, fuzzy
 msgid "60 Minutes"
-msgstr ""
+msgstr "60 minutter"
 
 #.  PAGE BREAK 122
 #. type: Content of: <book><part><chapter><blockquote><para>
@@ -11024,8 +11069,9 @@ msgstr ""
 "materialene er nesten unfindable...."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "newspapers"
-msgstr ""
+msgstr "Aviser"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archives of"
@@ -11136,8 +11182,9 @@ msgstr ""
 "hendelsene den dagen."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Movie Archive"
-msgstr ""
+msgstr "film arkiv"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archive.org"
@@ -11148,16 +11195,19 @@ msgid "Internet Archive"
 msgstr "Internett-arkivet"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Duck and Cover film"
-msgstr ""
+msgstr "Duck og dekke film"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "ephemeral films"
-msgstr ""
+msgstr "flyktige filmer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Prelinger, Rick"
-msgstr ""
+msgstr "prelinger, rick"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11465,28 +11515,33 @@ msgstr ""
 "kanskje mest iøynefallende og effektiv korridorpolitiker i washington."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Sony Pictures Entertainment"
-msgstr ""
+msgstr "Sony pictures entertainment"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "MGM"
 msgstr "MGM"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Paramount Pictures"
-msgstr ""
+msgstr "Paramount bilder"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Twentieth Century Fox"
-msgstr ""
+msgstr "20th century fox"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Universal Pictures"
-msgstr ""
+msgstr "Universal pictures"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Warner Brothers"
-msgstr ""
+msgstr "Warner brothers"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11880,10 +11935,13 @@ msgstr ""
 "diagrammet:"
 
 #. type: Content of: <book><part><chapter><figure><title>
+#, mtrans, fuzzy
 msgid ""
 "How four different modalities of regulation interact to support or weaken "
 "the right or regulation."
 msgstr ""
+"Hvordan fire forskjellige modalitetene for regulering samhandle å støtte "
+"eller svekke høyre eller regulering."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1331.png\"></graphic>"
@@ -12097,16 +12155,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><title>
+#, mtrans, fuzzy
 msgid "Law has a special role in affecting the three."
-msgstr ""
+msgstr "loven har en spesiell rolle i å påvirke tre."
 
 #. type: Content of: <book><part><chapter><figure>
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1361.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Americans with Disabilities Act (1990)"
-msgstr ""
+msgstr "amerikanerne med funksjonshemminger act (1990)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Commons, John R."
@@ -12268,8 +12328,9 @@ msgstr ""
 "gangen ingen regjering er rettferdiggjørende looting resultater."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
+#, mtrans, fuzzy
 msgid "effective state of anarchy after the Internet."
-msgstr ""
+msgstr "effektiv delstaten anarki etter Internett."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1381.png\"></graphic>"
@@ -12525,8 +12586,9 @@ msgid "Carson, Rachel"
 msgstr "Carson, Rachel"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Silent Sprint (Carson)"
-msgstr ""
+msgstr "stille sprint (carson)"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13586,10 +13648,13 @@ msgstr ""
 "quote>."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
+#, mtrans, fuzzy
 msgid ""
 "Republishing stands at the core of this circle of possible uses of a "
 "copyrighted work."
 msgstr ""
+"republishing står i kjernen av denne kretsen av mulige bruksområder for et "
+"opphavsrettslig beskyttet verk."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1541.png\"></graphic>"
@@ -13625,10 +13690,12 @@ msgid "<graphic fileref=\"images/1542.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1542.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
+#, mtrans, fuzzy
 msgid ""
 "Uses that before were presumptively unregulated are now presumptively "
 "regulated."
 msgstr ""
+"bruker som før var presumptively unregulated er nå presumptively regulert."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
@@ -13837,8 +13904,9 @@ msgstr ""
 "solgt kassetter til selge i detalj butikker."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "browsing"
-msgstr ""
+msgstr "surfing"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14039,8 +14107,9 @@ msgid "Casablanca"
 msgstr "Casablanca"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Marx Brothers"
-msgstr ""
+msgstr "Brødrene Marx"
 
 #.  f19
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -14124,8 +14193,9 @@ msgstr ""
 "ikke morsomt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Adobe eBook Reader"
-msgstr ""
+msgstr "Adobe eBok-leser"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Consider the life of my Adobe eBook Reader."
@@ -14399,8 +14469,9 @@ msgstr ""
 "leser."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Alice's Adventures in Wonderland (Carroll)"
-msgstr ""
+msgstr "alice's adventures in wonderland (carroll)"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14565,8 +14636,9 @@ msgstr ""
 "(derfor aibohack.com)."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "hacks"
-msgstr ""
+msgstr "Hacks"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14647,8 +14719,9 @@ msgstr ""
 "med undervisning en robot hunden å danse?"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "government case against"
-msgstr ""
+msgstr "regjeringen sak mot"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -15034,8 +15107,9 @@ msgstr ""
 "god slutt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "handguns"
-msgstr ""
+msgstr "håndvåpen"
 
 #.  PAGE BREAK 171
 #. type: Content of: <book><part><chapter><section><para>
@@ -15294,20 +15368,23 @@ msgid "BMG"
 msgstr "BMG"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "EMI"
-msgstr ""
+msgstr "EMI"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "McCain, John"
 msgstr "McCain, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Universal Music Group"
-msgstr ""
+msgstr "Universal music group"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Warner Music Group"
-msgstr ""
+msgstr "Warner music group"
 
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -15489,8 +15566,9 @@ msgid "Lear, Norman"
 msgstr "Lear, Norman"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "All in the Family"
-msgstr ""
+msgstr "alle i familien"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15823,8 +15901,9 @@ msgid "Comcast"
 msgstr "Comcast"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Marijuana Policy Project"
-msgstr ""
+msgstr "marihuana policy project"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "NBC"
@@ -16214,8 +16293,9 @@ msgstr ""
 "bli opprettet hvis avledede rettigheter ble mer kraftig begrenset."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "legal realist movement"
-msgstr ""
+msgstr "juridiske realist bevegelse"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -16773,8 +16853,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Vivendi Universal"
-msgstr ""
+msgstr "Vivendi universal"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -17334,8 +17415,9 @@ msgstr ""
 "engasjement fra skaperne."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "preference data on"
-msgstr ""
+msgstr "preferanse data på"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -17353,6 +17435,7 @@ msgstr ""
 "videre."
 
 #. type: Content of: <book><part><chapter><section><para>
+#, mtrans, fuzzy
 msgid ""
 "This idea required a simple way to gather data about user preferences.  MP3."
 "com came up with an extraordinarily clever way to gather this preference "
@@ -17364,6 +17447,15 @@ msgid ""
 "you could get access to that music once you signed into your account. The "
 "system was therefore a kind of music-lockbox."
 msgstr ""
+"Denne ideen kreves en enkel måte å samle data om brukerinnstillinger. MP3."
+"com kom opp med en usedvanlig smart måte å samle inn data for denne "
+"preferanse. i januar 2000 lansert selskapet en tjeneste kalt my.mp3.com. "
+"bruker programvare som leveres av mp3.com, ville en bruker logge inn en "
+"konto og deretter sette inn datamaskinen for en cd. programvaren vil "
+"identifisere cd, og deretter gi brukertilgang til dette innholdet. så, for "
+"eksempel hvis du satte inn en cd ved jill sobule, deretter uansett hvor du "
+"var — på jobben eller hjemme — du kan få tilgang til at musikk når du er "
+"logget på din konto. systemet ble derfor en type musikk-lås."
 
 #.  PAGE BREAK 199
 #. type: Content of: <book><part><chapter><section><para>
@@ -18059,8 +18151,9 @@ msgstr ""
 "enn det byrder bakkesendte radio."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "CARP (Copyright Arbitration Royalty Panel)"
-msgstr ""
+msgstr "Carp (opphavsrett voldgift royalty-panelet)"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -18399,8 +18492,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "alcohol prohibition"
-msgstr ""
+msgstr "alkohol forbud"
 
 #.  f17.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -18460,8 +18554,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "law schools"
-msgstr ""
+msgstr "Jusstudier"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18629,8 +18724,9 @@ msgid "Andromeda"
 msgstr "Andromeda"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "mix technology and"
-msgstr ""
+msgstr "blande teknologi og"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18771,12 +18867,17 @@ msgstr ""
 
 #.  PAGE BREAK 214
 #. type: Content of: <book><part><chapter><section><para>
+#, mtrans, fuzzy
 msgid ""
 "It is understandable why they choose as they do. It is not understandable "
 "why we as a democracy continue to choose as we do. Jack Valenti is charming; "
 "but not so charming as to justify giving up a tradition as deep and "
 "important as our tradition of free culture."
 msgstr ""
+"Det er forståelig hvorfor de velger som de gjør. Det er ikke forståelig "
+"hvorfor vi som et demokrati fortsette å velge som vi gjør. Jack valenti er "
+"sjarmerende; men ikke så sjarmerende som å rettferdiggjøre å gi opp en "
+"tradisjon som dypt og viktig som vår tradisjon for fri kultur."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -19859,12 +19960,14 @@ msgstr ""
 "politikere."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copyright purpose established in"
-msgstr ""
+msgstr "opphavsrett formål som er etablert i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "constitutional purpose of"
-msgstr ""
+msgstr "konstitusjonelle formålet med"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -19900,8 +20003,9 @@ msgstr ""
 "oss alle."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Nashville Songwriters Association"
-msgstr ""
+msgstr "Nashville songwriters association"
 
 #.  f9.
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -20146,16 +20250,19 @@ msgid "Agee, Michael"
 msgstr "Agee, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Hal Roach Studios"
-msgstr ""
+msgstr "Hal mort studios"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Laurel and Hardy Films"
-msgstr ""
+msgstr "Helan og Halvan-filmene"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Lucky Dog, The"
-msgstr ""
+msgstr "heldig hunden, den"
 
 #.  f11.
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -20853,8 +20960,9 @@ msgstr ""
 "denne loven var forfatningsstridig uavhengig av ens politikk."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Eagle Forum"
-msgstr ""
+msgstr "Eagle forum"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Schlafly, Phyllis"
@@ -20917,12 +21025,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "American Association of Law Libraries"
-msgstr ""
+msgstr "American association of lov biblioteker"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "National Writers Union"
-msgstr ""
+msgstr "nasjonale forfattere union"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -21001,8 +21111,9 @@ msgid "Morrison, Alan"
 msgstr "Morrison, Alan"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Public Citizen"
-msgstr ""
+msgstr "offentlige borger"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Reagan, Ronald"
@@ -21944,8 +22055,9 @@ msgstr ""
 "Dette sinne var inälvor."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "originalism"
-msgstr ""
+msgstr "originalism"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -22199,8 +22311,9 @@ msgstr ""
 "smule urettferdig. Men slag i ansiktet følte akkurat sånn."
 
 #. type: Content of: <book><part><chapter><figure><title>
+#, mtrans, fuzzy
 msgid "Tom the Dancing Bug cartoon"
-msgstr ""
+msgstr "Tom dans bug tegneserie"
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
@@ -22369,8 +22482,9 @@ msgstr ""
 "eiere av opphavsretter kan identifiseres."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Berlin Act (1908)"
-msgstr ""
+msgstr "Berlin act (1908)"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Berne Convention (1908)"
@@ -22982,16 +23096,18 @@ msgid "CONCLUSION"
 msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "antiretroviral drugs"
-msgstr ""
+msgstr "antiretroviral narkotika"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "HIV/AIDS therapies"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Africa, medications for HIV patients in"
-msgstr ""
+msgstr "Afrika, medisiner for hiv-pasienter i"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23482,8 +23598,9 @@ msgstr ""
 "gir en <quote>perfekt storm</quote> for fri kultur."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "public projects in"
-msgstr ""
+msgstr "felles prosjekter i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "single nucleotied polymorphisms (SNPs)"
@@ -23494,8 +23611,9 @@ msgid "Wellcome Trust"
 msgstr "Wellcome Trust"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "World Wide Web"
-msgstr ""
+msgstr "World wide web"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Global Positioning System"
@@ -23539,8 +23657,9 @@ msgid "IBM"
 msgstr "IBM"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "PLoS (Public Library of Science)"
-msgstr ""
+msgstr "PLOs (public library of science)"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23682,8 +23801,9 @@ msgstr ""
 "quote> virker å passe perfekt for WIPOs agenda."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Apple Corporation"
-msgstr ""
+msgstr "Apple corporation"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23773,12 +23893,14 @@ msgstr ""
 "type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "General Public License (GPL)"
-msgstr ""
+msgstr "general public license (gpl)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "GPL (General Public License)"
-msgstr ""
+msgstr "GPL (general public license)"
 
 #.  PAGE BREAK 272
 #. type: Content of: <book><chapter><para>
@@ -23818,8 +23940,9 @@ msgid "Krim, Jonathan"
 msgstr "Krim, Jonathan"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "WIPO meeting opposed by"
-msgstr ""
+msgstr "WIPO møte motarbeidet av"
 
 #.  f9.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -24371,12 +24494,14 @@ msgid "Gil, Gilberto"
 msgstr "Gil, Gilberto"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "United Kingdom"
-msgstr ""
+msgstr "Storbritannia"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "public creative archive in"
-msgstr ""
+msgstr "offentlige kreative arkivet i"
 
 #.  f14.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -24508,10 +24633,10 @@ msgid ""
 "should win."
 msgstr ""
 "<emphasis role='strong'>Sunn fornuft</emphasis> er på same side som "
-"opphavsrettskrigerne på grunn av at debatten så langt har vært rammet "
-"inn rundt ekstremitetene&mdash;som en stor entel/eller: enten eiendom "
-"eller anarki, enten total kontroll eller så får ikke kunstnerne "
-"betalt.  Hvis dette virkelig var valget så burde krigerne vinne."
+"opphavsrettskrigerne på grunn av at debatten så langt har vært rammet inn "
+"rundt ekstremitetene&mdash;som en stor entel/eller: enten eiendom eller "
+"anarki, enten total kontroll eller så får ikke kunstnerne betalt.  Hvis "
+"dette virkelig var valget så burde krigerne vinne."
 
 #. type: Content of: <book><chapter><section><para>
 msgid ""
@@ -24524,16 +24649,15 @@ msgid ""
 "<quote>No Rights Reserved</quote> sorts believe you should be able to do "
 "with content as you wish, regardless of whether you have permission or not."
 msgstr ""
-"Tabben her er feilen med å eksludere midten.  Det er ekstremer i "
-"denne debatten, men ekstremene er ikke det hele.  Det er de som tror "
-"på maksimal opphavsrett&mdash;<quote>Alle rettigheter "
-"reservert</quote>&mdash;og de som avviser "
-"opphavsrett&mdash;<quote>Ingen rettigheter reservert</quote>. "
+"Tabben her er feilen med å eksludere midten.  Det er ekstremer i denne "
+"debatten, men ekstremene er ikke det hele.  Det er de som tror på maksimal "
+"opphavsrett&mdash;<quote>Alle rettigheter reservert</quote>&mdash;og de som "
+"avviser opphavsrett&mdash;<quote>Ingen rettigheter reservert</quote>. "
 "<quote>Alle rettigheter reserver</quote>-typen mener du bør spørre om "
-"tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk "
-"på noe vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du "
-"bør kunne gjøre med innhold som du selv ønsker uavhengig av om du har "
-"tillatelse eller ikke."
+"tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk på noe "
+"vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du bør kunne "
+"gjøre med innhold som du selv ønsker uavhengig av om du har tillatelse eller "
+"ikke."
 
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
@@ -24661,8 +24785,9 @@ msgid "Amazon"
 msgstr "Amazon"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "cookies, Internet"
-msgstr ""
+msgstr "informasjonskapsler, Internett"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25243,8 +25368,9 @@ msgstr ""
 "første romanen av en science fiction-forfatteren var en total suksess."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Free for All (Wayner)"
-msgstr ""
+msgstr "gratis for alle (wayner)"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Wayner, Peter"
@@ -25275,8 +25401,9 @@ msgid "Public Enemy"
 msgstr "Public Enemy"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "rap music"
-msgstr ""
+msgstr "rap musikk"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Leaphart, Walter"
@@ -26182,11 +26309,11 @@ msgid ""
 "teaches the lessons of this book than the battles around the sharing of "
 "music."
 msgstr ""
-"Slaget som startet hele denne krigen var om musikk, så det ville ikke "
-"være rimelig å avslutte denne boken uten å ta opp problemet som er "
-"mest presserende for de fleste&mdash;musikk.  Det er ingen andre "
-"policy-tema som bedre forklarer hva en kan lære i denne boken enn "
-"slagene om deling av musikk."
+"Slaget som startet hele denne krigen var om musikk, så det ville ikke være "
+"rimelig å avslutte denne boken uten å ta opp problemet som er mest "
+"presserende for de fleste&mdash;musikk.  Det er ingen andre policy-tema som "
+"bedre forklarer hva en kan lære i denne boken enn slagene om deling av "
+"musikk."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -26756,8 +26883,9 @@ msgstr ""
 "begrensninger på hva en var tillatt å gjøre med selve innholdet."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "MusicStore"
-msgstr ""
+msgstr "musicstore"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "prices of"
@@ -26983,12 +27111,14 @@ msgid "Nimmer, Melville"
 msgstr "Nimmer, Melville"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
-msgstr ""
+msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "Supreme Court challenge of"
-msgstr ""
+msgstr "Høyesterett utfordringen med"
 
 #.  f10.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
