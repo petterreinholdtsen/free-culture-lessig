@@ -7943,6 +7943,13 @@ msgid ""
 "<citetitle>All the Rave: The Rise and Fall of Shawn Fanning's Napster</"
 "citetitle> (New York: Crown Business, 2003), 269&ndash;82."
 msgstr ""
+"Se referat fra forhandlingene, In Re: Napster Copyright Litigation ved "
+"34-35 (N.D. Cal., 11. juli 2001), nos. MDL-00-1369 MHP, C 99-5183 MHP, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#21</ulink>. For en oppsummering av søksmålet og dets effekt på "
+"Napster, se Joseph Menn, <citetitle>All the Rave: The Rise and Fall of "
+"Shawn Fanning's Napster</ citetitle> (New York: Crown Business, 2003), "
+"269&ndash;82."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
