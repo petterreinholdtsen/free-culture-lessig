@@ -7948,7 +7948,7 @@ msgstr ""
 "tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
 "#21</ulink>. For en oppsummering av søksmålet og dets effekt på "
 "Napster, se Joseph Menn, <citetitle>All the Rave: The Rise and Fall of "
-"Shawn Fanning's Napster</ citetitle> (New York: Crown Business, 2003), "
+"Shawn Fanning's Napster</citetitle> (New York: Crown Business, 2003), "
 "269&ndash;82."
 
 #. type: Content of: <book><part><chapter><section><para>
