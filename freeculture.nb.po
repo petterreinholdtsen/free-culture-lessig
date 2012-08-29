@@ -8056,7 +8056,7 @@ msgstr ""
 "kringkasternes innhold uten å betale, så ville den gitt uretterferdig "
 "subsidiering til kabel-TV.  Dermed valgte kongressen en sti som ville "
 "sikre <emphasis>kompensasjon</emphasis> uten å gi fortiden "
-"(kringkasterne) kontroll over fremtiden (kabel-TV).
+"(kringkasterne) kontroll over fremtiden (kabel-TV)."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Betamax"
