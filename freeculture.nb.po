@@ -26175,7 +26175,6 @@ msgid "4. Liberate the Music&mdash;Again"
 msgstr "4. Frigjør musikken&mdash;igjen"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The battle that got this whole war going was about music, so it wouldn't be "
 "fair to end this book without addressing the issue that is, to most people, "
@@ -26183,10 +26182,11 @@ msgid ""
 "teaches the lessons of this book than the battles around the sharing of "
 "music."
 msgstr ""
-"Slaget som fikk dette hele krigen går var om musikk, så det ikke ville være "
-"rettferdig å avslutte denne boken uten å ta opp problemet som er, for "
-"fleste, de fleste presserende&mdash;musikk. Det er ingen andre spørsmål som "
-"bedre lærer erfaringene fra denne boken enn slagene rundt deling av musikk."
+"Slaget som startet hele denne krigen var om musikk, så det ville ikke "
+"være rimelig å avslutte denne boken uten å ta opp problemet som er "
+"mest presserende for de fleste&mdash;musikk.  Det er ingen andre "
+"policy-tema som bedre forklarer hva en kan lære i denne boken enn "
+"slagene om deling av musikk."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
