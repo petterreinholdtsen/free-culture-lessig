@@ -668,9 +668,9 @@ msgstr ""
 "<emphasis role=\"strong\">Den 17. desember</emphasis> 1903, på en vindfylt "
 "strand i Nord-Carolina i såvidt under hundre sekunder, demonstrerte Wright-"
 "brødrene at et selvdrevet fartøy tyngre enn luft kunne fly.  Øyeblikket var "
-"elektrisk, og dens betydning ble alment forstått. Nesten umiddelbart, "
-"eksploderte interessen for denne nye teknologien som muliggjorde bemannet "
-"luftfart og en hærskare av oppfinnere begynte å bygge videre på den."
+"elektrisk, og dets betydning ble alment forstått. Interessen for denne nye "
+"teknologien som muliggjorde bemannet luftfart eksploderte nesten "
+"umiddelbart, og en hærskare av oppfinnere begynte å bygge videre på den."
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "air traffic, land ownership vs."
@@ -24507,6 +24507,11 @@ msgid ""
 "artists won't be paid. If that really is the choice, then the warriors "
 "should win."
 msgstr ""
+"<emphasis role='strong'>Sunn fornuft</emphasis> er på same side som "
+"opphavsrettskrigerne på grunn av at debatten så langt har vært rammet "
+"inn rundt ekstremitetene&mdash;som en stor entel/eller: enten eiendom "
+"eller anarki, enten total kontroll eller så får ikke kunstnerne "
+"betalt.  Hvis dette virkelig var valget så burde krigerne vinne."
 
 #. type: Content of: <book><chapter><section><para>
 #, mtrans, fuzzy
