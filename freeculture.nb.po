@@ -24648,11 +24648,11 @@ msgid ""
 "<quote>No Rights Reserved</quote> sorts believe you should be able to do "
 "with content as you wish, regardless of whether you have permission or not."
 msgstr ""
-"Tabben her er feilen med å ekskludere midten.  Det er ekstremer i denne "
+"Tabben her er feilen med å utelukke den gyldne middelvei.  Det er ekstremer i denne "
 "debatten, men ekstremene er ikke det hele.  Det er de som tror på maksimal "
 "opphavsrett&mdash;<quote>Alle rettigheter reservert</quote>&mdash;og de som "
 "avviser opphavsrett&mdash;<quote>Ingen rettigheter reservert</quote>. "
-"<quote>Alle rettigheter reserver</quote>-typen mener du bør spørre om "
+"<quote>Alle rettigheter reservert</quote>-typen mener du bør spørre om "
 "tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk på noe "
 "vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du bør kunne "
 "gjøre med innhold som du selv ønsker uavhengig av om du har tillatelse eller "
@@ -24706,7 +24706,6 @@ msgstr ""
 "er en creator mareritt."
 
 #. type: Content of: <book><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "What's needed is a way to say something in the middle&mdash;neither "
 "<quote>all rights reserved</quote> nor <quote>no rights reserved</quote> but "
@@ -24715,11 +24714,13 @@ msgid ""
 "words, we need a way to restore a set of freedoms that we could just take "
 "for granted before."
 msgstr ""
-"Hva trenger er en måte å si noe i midten&mdash;verken \"all rights reserved"
-"\" eller \"ingen rettigheter reservert\" men \"noen rettigheter reservert\"- "
-"og dermed en måte å Respekter opphavsrettigheter, men aktivere skaperne til "
-"gratis innhold som de ønsker. med andre ord, trenger vi en måte å "
-"gjenopprette et sett med andre friheter som vi bare kunne ta for gitt før."
+"Det som trengs er en måte å si noe i midten&mdash;hverken <quote>alle "
+"rettigheter reservert</quote> eller <quote>ingen rettigheter "
+"reservert</quote> men <quote>noen rettigheter "
+"reservert</quote>&mdash;og dermed en måte å respektere opphavsretter "
+"mens en gjør det mulig for skaperne å frigjøre innhold når de ønsker "
+"det.  Med andre ord, vi trenger en måte å gjeninnføre settet med "
+"friheter som vi kunne ta for gitt tidligere."
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
@@ -24784,9 +24785,8 @@ msgid "Amazon"
 msgstr "Amazon"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "cookies, Internet"
-msgstr "informasjonskapsler, Internett"
+msgstr "informasjonskapsler, internett"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
