@@ -25013,11 +25013,12 @@ msgid ""
 "smart sort himself, and a talented programmer, Stallman grew to depend upon "
 "the freedom to add to or modify other people's work."
 msgstr ""
-"Dette var verden Richard Stallman ble født inn i, og mens han var forsker "
-"ved MIT, lærte han til å elske samfunnet som utviklet seg når en var fri til "
-"å utforske og fikle med programvaren som kjørte på datamaskiner. Av den "
-"smarte sorten selv, og en talentfull programmerer, begynte Stallman å basere "
-"seg frihet til å legge til eller endre på andre personers arbeid."
+"Dette var verden Richard Stallman ble født inn i og som forsker "
+"ved MIT lærte han å elske samfunnet som utviklet seg når en var fri til "
+"å utforske og fikle med programvaren som kjørte på datamaskiner. Som en av "
+"de smarte typene, i tillegg til å være en flink programmerer, begynte "
+"Stallman å basere seg på friheten han hadde til bygge på eller endre på andre "
+"personers verker."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
