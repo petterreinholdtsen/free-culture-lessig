@@ -3922,8 +3922,9 @@ msgid "advertising"
 msgstr "markedsføring"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "commercials"
-msgstr ""
+msgstr "reklame"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "television"
@@ -8054,8 +8055,9 @@ msgstr ""
 "har det gitt mer rettigheter til skaperne, og noen ganger mindre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "composers, copyright protections of"
-msgstr ""
+msgstr "komponister, copyright beskyttelse av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Congress, U.S."
@@ -8066,24 +8068,29 @@ msgid "on copyright laws"
 msgstr "om åndsverkslover"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on recording industry"
-msgstr ""
+msgstr "på innspillingen industri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "statutory licenses in"
-msgstr ""
+msgstr "lovbestemte lisenser i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "music recordings played on"
-msgstr ""
+msgstr "innspillinger spilt på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "recording industry"
-msgstr ""
+msgstr "Recording industry"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "artist remuneration in"
-msgstr ""
+msgstr "artist godtgjørelse i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -8091,16 +8098,19 @@ msgid "copyright protections in"
 msgstr "opphavsrett formål som er etablert i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "radio broadcast and"
-msgstr ""
+msgstr "radiosendinger og"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "statutory licenses"
-msgstr ""
+msgstr "lovbestemte lisenser"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "composer's rights vs. producers' rights in"
-msgstr ""
+msgstr "composer's rettigheter vs. produsentenes rettigheter i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13637,20 +13647,23 @@ msgid "three types of uses of"
 msgstr "tre typer bruk av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copies as core issue of"
-msgstr ""
+msgstr "Kopier som kjernen utgave av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copyright applicability altered by technology of"
-msgstr ""
+msgstr "opphavsrett anvendbarhet endret av teknologien i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "technology"
 msgstr "teknologi"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copyright intent altered by"
-msgstr ""
+msgstr "opphavsrett hensikt endret av"
 
 #.  PAGE BREAK 152
 #. type: Content of: <book><part><chapter><section><para>
@@ -13839,8 +13852,9 @@ msgstr ""
 "produsert en kopi."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "technological developments and"
-msgstr ""
+msgstr "teknologisk utvikling og"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14397,8 +14411,9 @@ msgid "<graphic fileref=\"images/1622.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Future of Ideas, The (Lessig)"
-msgstr ""
+msgstr "fremtiden for ideer, (lessig)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Lessig, Lawrence"
@@ -21233,8 +21248,9 @@ msgid "constitutional powers of"
 msgstr "konstitusjonelle formålet med"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "Commerce Clause of"
-msgstr ""
+msgstr "handel-setningsdelen i"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23841,8 +23857,9 @@ msgstr ""
 "drev med immaterielle rettighetsspørsmål."
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "World Summit on the Information Society (WSIS)"
-msgstr ""
+msgstr "World summit på informasjonssamfunnet (wsis)"
 
 #.  PAGE BREAK 271
 #. type: Content of: <book><chapter><para>
@@ -24136,8 +24153,9 @@ msgid "drugs"
 msgstr "medisiner"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "pharmaceutical"
-msgstr ""
+msgstr "farmasøytisk"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "generic drugs"
@@ -24148,8 +24166,9 @@ msgid "patents"
 msgstr "patenter"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on pharmaceuticals"
-msgstr ""
+msgstr "om legemidler"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
