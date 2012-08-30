@@ -7240,14 +7240,19 @@ current reach of copyright was never contemplated, much less chosen,
 by the legislators who enacted copyright law.
 </para>
 <para>
-We  can see this point abstractly by beginning with this largely
+We can see this point abstractly by beginning with this largely
 empty circle.
 </para>
 <figure id="fig-1521">
 <title>All potential uses of a book.</title>
 <graphic fileref="images/1521.png"></graphic>
 </figure>
-<indexterm id='idxbooksusetypes' class='startofrange'><primary>books</primary><secondary>three types of uses of</secondary></indexterm>
+<indexterm id='idxbooksthreetypesofusesof' class='startofrange'><primary>books</primary><secondary>three types of uses of</secondary></indexterm>
+<indexterm id='idxcopyrightlawcopiesascoreissueof2' class='startofrange'><primary>copyright law</primary><secondary>copies as core issue of</secondary></indexterm>
+<indexterm id='idxinternetcopyrightapplicabilityalteredbytechnologyof' class='startofrange'><primary>Internet</primary><secondary>copyright applicability altered by technology of</secondary></indexterm>
+<indexterm id='idxtechnologycopyrightintentalteredby' class='startofrange'><primary>technology</primary><secondary>copyright intent altered by</secondary></indexterm>
+<indexterm id='idxderivativeworkspiracyvs4' class='startofrange'><primary>derivative works</primary><secondary>piracy vs.</secondary></indexterm>
+<indexterm id='idxpiracyderivativeworkvs4' class='startofrange'><primary>piracy</primary><secondary>derivative work vs.</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 152 -->
 Think about a book in real space, and imagine this circle to represent
@@ -7274,6 +7279,8 @@ at the core of this circle of possible uses of a copyrighted work. It is the
 paradigmatic use properly regulated by copyright regulation (see first
 diagram on next page).
 </para>
+<indexterm startref='idxderivativeworkspiracyvs4' class='endofrange'/>
+<indexterm startref='idxpiracyderivativeworkvs4' class='endofrange'/>
 <para>
 Finally, there is a tiny sliver of otherwise regulated copying uses
 that remain unregulated because the law considers these <quote>fair uses.</quote>
@@ -7308,7 +7315,7 @@ In real space, then, the possible uses of a book are divided into three
 sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed <quote>fair</quote> regardless of the copyright owner's views.
 </para>
-<indexterm startref='idxbooksusetypes' class='endofrange'/>
+<indexterm startref='idxbooksthreetypesofusesof' class='endofrange'/>
 <indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
 <para>
 Enter the Internet&mdash;a distributed, digital network where every use
@@ -7344,6 +7351,7 @@ use&mdash;reading&mdash; could be regulated by copyright law because
 none of those uses produced a copy.
 </para>
 <indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
+<indexterm id='idxderivativeworkstechnologicaldevelopmentsand' class='startofrange'><primary>derivative works</primary><secondary>technological developments and</secondary></indexterm>
 <para>
 But the same book as an e-book is effectively governed by a different
 set of rules. Now if the copyright owner says you may read the book
@@ -7370,6 +7378,7 @@ evidence at all that policy makers had this idea in mind when they
 allowed our policy here to shift. Unregulated uses were an important
 part of free culture before the Internet.
 </para>
+<indexterm id='idxcopyrightlawonrepublishingvstransformationoforiginalwork3' class='startofrange'><primary>copyright law</primary><secondary>on republishing vs. transformation of original work</secondary></indexterm>
 <para>
 Second, this shift is especially troubling in the context of
 transformative uses of creative content. Again, we can all understand
@@ -7396,6 +7405,11 @@ copyright law and hence the need for a fair use defense. The right to
 read was effectively protected before because reading was not
 regulated.
 </para>
+<indexterm startref='idxcopyrightlawcopiesascoreissueof2' class='endofrange'/>
+<indexterm startref='idxinternetcopyrightapplicabilityalteredbytechnologyof' class='endofrange'/>
+<indexterm startref='idxtechnologycopyrightintentalteredby' class='endofrange'/>
+<indexterm startref='idxderivativeworkstechnologicaldevelopmentsand' class='endofrange'/>
+<indexterm startref='idxcopyrightlawonrepublishingvstransformationoforiginalwork3' class='endofrange'/>
 <para>
 This point about fair use is totally ignored, even by advocates for
 free culture. We have been cornered into arguing that our rights
@@ -7634,6 +7648,8 @@ the book.
 <title>List of the permissions for Aristotle;s <quote>Politics</quote>.</title>
 <graphic fileref="images/1622.png"></graphic>
 </figure>
+<indexterm><primary>Future of Ideas, The (Lessig)</primary></indexterm>
+<indexterm><primary>Lessig, Lawrence</primary></indexterm>
 <para>
 Finally (and most embarrassingly), here are the permissions for the
 original e-book version of my last book, <citetitle>The Future of
@@ -7687,6 +7703,7 @@ if you push the Read Aloud button with my book, the machine simply
 won't read aloud.
 </para>
 <indexterm><primary>Marx Brothers</primary></indexterm>
+<indexterm><primary>Warner Brothers</primary></indexterm>
 <para>
 <!-- PAGE BREAK 163 -->
 These are <emphasis>controls</emphasis>, not permissions. Imagine a
@@ -7714,7 +7731,8 @@ to defeat these protections as well?
 We've only scratched the surface of this story. Return to the Adobe
 eBook Reader.
 </para>
-<indexterm><primary>Alice's Adventures in Wonderland (Carroll)</primary></indexterm>
+<indexterm id='idxalicesadventuresinwonderlandcarroll' class='startofrange'><primary>Alice's Adventures in Wonderland (Carroll)</primary></indexterm>
+<indexterm id='idxpublicdomainebookrestrictionson2' class='startofrange'><primary>public domain</primary><secondary>e-book restrictions on</secondary></indexterm>
 <para>
 Early in the life of the Adobe eBook Reader, Adobe suffered a public
 relations nightmare. Among the books that you could download for free
@@ -7755,6 +7773,8 @@ could use a computer to read the book aloud, would Adobe agree that
 such a use of an eBook Reader was fair? Adobe didn't answer because
 the answer, however absurd it might seem, is no.
 </para>
+<indexterm startref='idxalicesadventuresinwonderlandcarroll' class='endofrange'/>
+<indexterm startref='idxpublicdomainebookrestrictionson2' class='endofrange'/>
 <para>
 The point is not to blame Adobe. Indeed, Adobe is among the most
 innovative companies developing strategies to balance open access to

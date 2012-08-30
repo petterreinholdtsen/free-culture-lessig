@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-30 09:11+0300\n"
+"POT-Creation-Date: 2012-08-30 18:50+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -75,6 +75,7 @@ msgid "Art&mdash;United States."
 msgstr "Kunst&mdash;USA."
 
 #. type: Content of: <book><bookinfo><publisher><address>
+#, no-wrap
 msgid "<city>New York</city>"
 msgstr "<city>New York</city>"
 
@@ -291,7 +292,8 @@ msgstr "1. eiendomsrett &mdash; USA. 2. massemedia &mdash; USA."
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
-msgstr "3. teknologiske nyvinninger &mdash; USA. 4. art &mdash; USA. i. tittel."
+msgstr ""
+"3. teknologiske nyvinninger &mdash; USA. 4. art &mdash; USA. i. tittel."
 
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
@@ -1270,7 +1272,7 @@ msgstr ""
 "prosess.  RCA hadde hva Causby-ene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Internet"
 msgstr "internet"
 
@@ -2225,11 +2227,11 @@ msgstr ""
 "aldri vært USAs teori for kreative eierrettigheter.  It har aldri stått rot "
 "i vårt lovverk."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "copyright law"
 msgstr "åndsverkslov"
 
-#. type: Content of: <book><part><partintro><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "on republishing vs. transformation of original work"
 msgstr "på ny publisering vs. transformasjonen av opprinnelige arbeid"
@@ -2544,11 +2546,11 @@ msgstr ""
 "sine utrolige stunts.  Filmen var en klassisk Keaton&mdash;fantastisk "
 "populær og blant de beste i sin sjanger."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "derivative works"
 msgstr "avledede verker"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "piracy vs."
 msgstr "piratvirksomhet vs."
 
@@ -2556,7 +2558,7 @@ msgstr "piratvirksomhet vs."
 msgid "piracy"
 msgstr "piratvirksomhet"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "derivative work vs."
 msgstr "avledede verk vas."
 
@@ -13575,6 +13577,22 @@ msgstr "<graphic fileref=\"images/1521.png\"></graphic>"
 msgid "three types of uses of"
 msgstr "tre typer bruk av"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "copies as core issue of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "copyright applicability altered by technology of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "technology"
+msgstr "teknologi"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "copyright intent altered by"
+msgstr ""
+
 #.  PAGE BREAK 152
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13760,6 +13778,10 @@ msgstr ""
 "før du gikk til sengs. Ingen av disse forekomstene av bruk&mdash;"
 "lesing&mdash;kan reguleres av lov om opphavsrett, fordi ingen av de bruker "
 "produsert en kopi."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "technological developments and"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14315,6 +14337,14 @@ msgstr "Liste med tillatelser for Aristotles &quot;Politikk&quot;."
 msgid "<graphic fileref=\"images/1622.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Future of Ideas, The (Lessig)"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Lessig, Lawrence"
+msgstr "Lessig, Lawrence"
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14461,6 +14491,10 @@ msgstr ""
 #, mtrans, fuzzy
 msgid "Alice's Adventures in Wonderland (Carroll)"
 msgstr "alice's adventures in wonderland (carroll)"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "e-book restrictions on"
+msgstr "ebok-begrensninger på"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -17443,8 +17477,8 @@ msgstr ""
 "konto og deretter sette inn datamaskinen for en cd. programvaren vil "
 "identifisere cd, og deretter gi brukertilgang til dette innholdet. så, for "
 "eksempel hvis du satte inn en cd ved jill sobule, deretter uansett hvor du "
-"var &mdash; på jobben eller hjemme &mdash; du kan få tilgang til at musikk når du er "
-"logget på din konto. systemet ble derfor en type musikk-lås."
+"var &mdash; på jobben eller hjemme &mdash; du kan få tilgang til at musikk "
+"når du er logget på din konto. systemet ble derfor en type musikk-lås."
 
 #.  PAGE BREAK 199
 #. type: Content of: <book><part><chapter><section><para>
@@ -24633,15 +24667,15 @@ msgid ""
 "<quote>No Rights Reserved</quote> sorts believe you should be able to do "
 "with content as you wish, regardless of whether you have permission or not."
 msgstr ""
-"Tabben her er feilen med å utelukke den gyldne middelvei.  Det er ekstremer i denne "
-"debatten, men ekstremene er ikke det hele.  Det er de som tror på maksimal "
-"opphavsrett&mdash;<quote>Alle rettigheter reservert</quote>&mdash;og de som "
-"avviser opphavsrett&mdash;<quote>Ingen rettigheter reservert</quote>. "
-"<quote>Alle rettigheter reservert</quote>-typen mener du bør spørre om "
-"tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk på noe "
-"vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du bør kunne "
-"gjøre med innhold som du selv ønsker uavhengig av om du har tillatelse eller "
-"ikke."
+"Tabben her er feilen med å utelukke den gyldne middelvei.  Det er ekstremer "
+"i denne debatten, men ekstremene er ikke det hele.  Det er de som tror på "
+"maksimal opphavsrett&mdash;<quote>Alle rettigheter reservert</quote>&mdash;"
+"og de som avviser opphavsrett&mdash;<quote>Ingen rettigheter reservert</"
+"quote>. <quote>Alle rettigheter reservert</quote>-typen mener du bør spørre "
+"om tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk på "
+"noe vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du bør "
+"kunne gjøre med innhold som du selv ønsker uavhengig av om du har tillatelse "
+"eller ikke."
 
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
@@ -24700,12 +24734,11 @@ msgid ""
 "for granted before."
 msgstr ""
 "Det som trengs er en måte å si noe i midten&mdash;hverken <quote>alle "
-"rettigheter reservert</quote> eller <quote>ingen rettigheter "
-"reservert</quote> men <quote>noen rettigheter "
-"reservert</quote>&mdash;og dermed en måte å respektere opphavsretter "
-"mens en gjør det mulig for skaperne å frigjøre innhold når de ønsker "
-"det.  Med andre ord, vi trenger en måte å gjeninnføre settet med "
-"friheter som vi kunne ta for gitt tidligere."
+"rettigheter reservert</quote> eller <quote>ingen rettigheter reservert</"
+"quote> men <quote>noen rettigheter reservert</quote>&mdash;og dermed en måte "
+"å respektere opphavsretter mens en gjør det mulig for skaperne å frigjøre "
+"innhold når de ønsker det.  Med andre ord, vi trenger en måte å gjeninnføre "
+"settet med friheter som vi kunne ta for gitt tidligere."
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
