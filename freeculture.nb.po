@@ -25062,7 +25062,6 @@ msgstr ""
 
 #.  PAGE BREAK 285
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Thus, the practice of proprietary code began to spread, and by the early "
 "1980s, Stallman found himself surrounded by proprietary code.  The world of "
@@ -25070,11 +25069,12 @@ msgid ""
 "as he believed, if he did nothing about it, then the freedom to change and "
 "share software would be fundamentally weakened."
 msgstr ""
-"dermed praksisen med proprietære koden begynte å spre seg, og 1980-tallet, "
-"stallman fant seg selv omringet av proprietære koden. verden av fri "
-"programvare hadde blitt slettet av en endring i økonomien i databehandling. "
-"og som han mente, hvis han gjorde ikke noe om det, og frihet til å endre og "
-"dele programvare ville være grundig svekket."
+"Dermed begynte praksisen med proprietær kode å spr seg, og tidlig på "
+"1980-tallet fant Stallman at han var omringet av proprietær kode. "
+"Verden av fri programvare hadde blitt fjernet av en endring i "
+"økonomien rundt databehandling.  Og han trodde at hvis han ikke gjorde "
+"noe med dette, så ville friheten til å endre og dele programvare bli "
+"fundametalt svekket."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Torvalds, Linus"
@@ -25135,15 +25135,14 @@ msgstr ""
 "beskytter hva før hadde vært passivt garantert."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Finally, consider a very recent example that more directly resonates with "
 "the story of this book. This is the shift in the way academic and scientific "
 "journals are produced."
 msgstr ""
-"til slutt, vurdere en svært nylig eksempel mer direkte resonates med "
-"historien om denne boken. Dette er skiftet i måten faglige og vitenskapelige "
-"journaler er produsert."
+"Til slutt, la oss se på et veldig nytt eksempel som resonerer mer "
+"direkte med historien i denne boken.  Dette er overgangen i hvordan "
+"akademiske og vitenskapelige tidsskrifter blir produsert."
 
 #.  PAGE BREAK 286
 #. type: Content of: <book><chapter><section><section><para>
