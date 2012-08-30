@@ -2123,6 +2123,8 @@ and noticing split infinitives are the things that <quote>literate</quote> peopl
 about.
 </para>
 <indexterm><primary>advertising</primary></indexterm>
+<indexterm><primary>commercials</primary></indexterm>
+<indexterm><primary>television</primary><secondary>advertising on</secondary></indexterm>
 <para>
 Maybe. But in a world where children see on average 390 hours of
 television commercials per year, or between 20,000 and 45,000 
@@ -2148,6 +2150,7 @@ how difficult media is. Or more fundamentally, few of us have a sense
 of how media works, how it holds an audience or leads it through a
 story, how it triggers emotion or builds suspense.
 </para>
+<indexterm startref='idxcameratechnology3' class='endofrange'/>
 <para>
 It took filmmaking a generation before it could do these things well.
 But even then, the knowledge was in the filming, not in writing about
@@ -3105,6 +3108,7 @@ Edison's creative property.
 </section>
 <section id="recordedmusic">
 <title>Recorded Music</title>
+<indexterm id='idxcopyrightlawonmusicrecordings' class='startofrange'><primary>copyright law</primary><secondary>on music recordings</secondary></indexterm>
 <para>
 The record industry was born of another kind of piracy, though to see
 how requires a bit of detail about the way the law regulates music.
@@ -3241,6 +3245,7 @@ Copyright Act in 1909, record companies were free to distribute copies
 of recordings so long as they paid the composer (or copyright holder)
 the fee set by the statute.
 </para>
+<indexterm><primary>Grisham, John</primary></indexterm>
 <para>
 This is an exception within the law of copyright. When John Grisham
 writes a novel, a publisher is free to publish that novel only if
@@ -3249,8 +3254,8 @@ charge whatever he wants for that permission. The price to publish
 Grisham is thus set by Grisham, and copyright law ordinarily says you
 have no permission to use Grisham's work except with permission of
 Grisham.
-<indexterm><primary>Grisham, John</primary></indexterm>
 </para>
+<indexterm startref='idxcopyrightlawonmusicrecordings' class='endofrange'/>
 <para>
 But the law governing recordings gives recording artists less. And
 thus, in effect, the law <emphasis>subsidizes</emphasis> the recording
@@ -4246,6 +4251,17 @@ legitimate rights of creators while protecting innovation. Sometimes
 this has meant more rights for creators. Sometimes less.
 </para>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
+<indexterm><primary>composers, copyright protections of</primary></indexterm>
+<indexterm id='idxcongressusoncopyrightlaws2' class='startofrange'><primary>Congress, U.S.</primary><secondary>on copyright laws</secondary></indexterm>
+<indexterm id='idxcongressusonrecordingindustry2' class='startofrange'><primary>Congress, U.S.</primary><secondary>on recording industry</secondary></indexterm>
+<indexterm id='idxcopyrightlawonmusicrecordings2' class='startofrange'><primary>copyright law</primary><secondary>on music recordings</secondary></indexterm>
+<indexterm id='idxcopyrightlawstatutorylicensesin2' class='startofrange'><primary>copyright law</primary><secondary>statutory licenses in</secondary></indexterm>
+<indexterm><primary>radio</primary><secondary>music recordings played on</secondary></indexterm>
+<indexterm><primary>recording industry</primary><secondary>artist remuneration in</secondary></indexterm>
+<indexterm><primary>recording industry</primary><secondary>copyright protections in</secondary></indexterm>
+<indexterm><primary>recording industry</primary><secondary>radio broadcast and</secondary></indexterm>
+<indexterm><primary>statutory licenses</primary></indexterm>
+<indexterm><primary>composer's rights vs. producers' rights in</primary></indexterm>
 <para>
 So, as we've seen, when <quote>mechanical reproduction</quote> threatened the
 interests of composers, Congress balanced the rights of composers
@@ -4267,6 +4283,7 @@ compensation, but at a level set by the law. It likewise gave cable
 companies the right to the content, so long as they paid the statutory
 price.
 </para>
+<indexterm startref='idxcongressusonrecordingindustry2' class='endofrange'/>
 <para>
 
 <!-- PAGE BREAK 88 -->
@@ -4285,6 +4302,8 @@ Congress chose a path that would assure
 <emphasis>compensation</emphasis> without giving the past
 (broadcasters) control over the future (cable).
 </para>
+<indexterm startref='idxcopyrightlawonmusicrecordings2' class='endofrange'/>
+<indexterm startref='idxcopyrightlawstatutorylicensesin2' class='endofrange'/>
 <indexterm startref='idxcabletv2' class='endofrange'/>
 <indexterm><primary>Betamax</primary></indexterm>
 <indexterm id='idxcassettevcrs1' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
@@ -4301,6 +4320,7 @@ and shows. Sony was therefore benefiting from the copyright
 infringement of its customers. It should therefore, Disney and
 Universal claimed, be partially liable for that infringement.
 </para>
+<indexterm startref='idxcongressusoncopyrightlaws2' class='endofrange'/>
 <para>
 There was something to Disney's and Universal's claim. Sony did
 decide to design its machine to make it very simple to record television

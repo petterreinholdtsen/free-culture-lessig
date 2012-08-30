@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-30 18:50+0300\n"
+"POT-Creation-Date: 2012-08-30 20:40+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -941,7 +941,7 @@ msgstr "Edison, Thomas"
 msgid "Faraday, Michael"
 msgstr "Faraday, Michael"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "radio"
 msgstr "radio"
 
@@ -3925,6 +3925,18 @@ msgstr ""
 msgid "advertising"
 msgstr "markedsføring"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "commercials"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "television"
+msgstr "televisjon"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "advertising on"
+msgstr "markedsføring på"
+
 #.  f10
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -5808,6 +5820,10 @@ msgstr ""
 msgid "Recorded Music"
 msgstr "Innspilt musikk"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on music recordings"
+msgstr "om musikkinnspillinger"
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "The record industry was born of another kind of piracy, though to see how "
@@ -6093,16 +6109,14 @@ msgid ""
 "publisher permission. Grisham, in turn, is free to charge whatever he wants "
 "for that permission. The price to publish Grisham is thus set by Grisham, "
 "and copyright law ordinarily says you have no permission to use Grisham's "
-"work except with permission of Grisham.  <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"work except with permission of Grisham."
 msgstr ""
 "Dette er et unntak i åndsverksloven.  Når John Grisham skriver en roman så "
 "kan en utgiver kun utgi denne romanen hvis Grisham gir utgiveren tillatelse "
 "til det.  Grisham står fritt til å kreve hvilken som helst betaling for den "
 "tillatelsen.  Prisen for å publisere Grisham er dermed bestemt av Grisham og "
 "åndsverksloven sier at du ikke har tillatelse til å bruke Grishams verker "
-"med mindre du har tillatelse fra Grisham.  <placeholder type=\"indexterm\" "
-"id=\"0\"/>"
+"med mindre du har tillatelse fra Grisham."
 
 #.  f10
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8042,6 +8056,55 @@ msgstr ""
 "møte den nye teknologien.  I denne justeringen har loven forsøkt å sikre "
 "legitime rettigheter til skaperne mens den beskytter nyskapning.  Noen gang "
 "har det gitt mer rettigheter til skaperne, og noen ganger mindre."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "composers, copyright protections of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Congress, U.S."
+msgstr "Kongressen i USA"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on copyright laws"
+msgstr "om åndsverkslover"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on recording industry"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "statutory licenses in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "music recordings played on"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "recording industry"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "artist remuneration in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright protections in"
+msgstr "opphavsrett formål som er etablert i"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "radio broadcast and"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "statutory licenses"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "composer's rights vs. producers' rights in"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -24687,13 +24750,12 @@ msgid ""
 "effectively unprotected."
 msgstr ""
 "Da internettet ble skapt, ga dets arkitektur i effekt en helning mot "
-"<quote>ingen rettigheter reservert</quote>.  Innhold kunne kopieres "
-"billig og uten kvalitetstap og rettigheter kunne ikke enkelt "
-"kontrolleres.  Dermed var, uavhengig av hva noen ønsket, det effektive "
-"regimet for opphavsrett under den originale utformingen av internettet "
-"<quote>ingen rettigheter reservert</quote>.  Innhold ble "
-"<quote>tatt</quote> uavhengig av rettighetene.  Alle rettigheter var "
-"effektivt ubeskyttet."
+"<quote>ingen rettigheter reservert</quote>.  Innhold kunne kopieres billig "
+"og uten kvalitetstap og rettigheter kunne ikke enkelt kontrolleres.  Dermed "
+"var, uavhengig av hva noen ønsket, det effektive regimet for opphavsrett "
+"under den originale utformingen av internettet <quote>ingen rettigheter "
+"reservert</quote>.  Innhold ble <quote>tatt</quote> uavhengig av "
+"rettighetene.  Alle rettigheter var effektivt ubeskyttet."
 
 #. type: Content of: <book><chapter><section><para>
 #, mtrans, fuzzy
@@ -26935,10 +26997,6 @@ msgstr ""
 "Apple nå går ble motvirket av real networks, tilbyr musikk på bare 79 cents "
 "en sang. og ingen tvil om det vil være mye konkurranse å tilby og selge "
 "musikk på nettet."
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "television"
-msgstr "televisjon"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "cable vs. broadcast"
