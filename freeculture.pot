@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-30 20:40+0300\n"
+"POT-Creation-Date: 2012-08-30 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -476,12 +476,12 @@ msgid "power, concentration of"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:399 freeculture.xml:13321
+#: freeculture.xml:399 freeculture.xml:13326
 msgid "CodePink Women in Peace"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:400 freeculture.xml:421 freeculture.xml:13322
+#: freeculture.xml:400 freeculture.xml:421 freeculture.xml:13327
 msgid "Safire, William"
 msgstr ""
 
@@ -603,17 +603,17 @@ msgid "air traffic, land ownership vs."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:490 freeculture.xml:14315
+#: freeculture.xml:490 freeculture.xml:14320
 msgid "land ownership, air traffic and"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:491 freeculture.xml:14316
+#: freeculture.xml:491 freeculture.xml:14321
 msgid "property rights"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:491 freeculture.xml:14316
+#: freeculture.xml:491 freeculture.xml:14321
 msgid "air traffic vs."
 msgstr ""
 
@@ -650,12 +650,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:515 freeculture.xml:528 freeculture.xml:561 freeculture.xml:581 freeculture.xml:1017 freeculture.xml:1035 freeculture.xml:1083 freeculture.xml:9227 freeculture.xml:12690 freeculture.xml:13425
+#: freeculture.xml:515 freeculture.xml:528 freeculture.xml:561 freeculture.xml:581 freeculture.xml:1017 freeculture.xml:1035 freeculture.xml:1083 freeculture.xml:9227 freeculture.xml:12695 freeculture.xml:13430
 msgid "Causby, Thomas Lee"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:516 freeculture.xml:529 freeculture.xml:562 freeculture.xml:582 freeculture.xml:1018 freeculture.xml:1036 freeculture.xml:1084 freeculture.xml:9228 freeculture.xml:12691 freeculture.xml:13426
+#: freeculture.xml:516 freeculture.xml:529 freeculture.xml:562 freeculture.xml:582 freeculture.xml:1018 freeculture.xml:1036 freeculture.xml:1084 freeculture.xml:9228 freeculture.xml:12696 freeculture.xml:13431
 msgid "Causby, Tinie"
 msgstr ""
 
@@ -1344,7 +1344,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:968 freeculture.xml:11015
+#: freeculture.xml:968 freeculture.xml:11016 freeculture.xml:11662
 msgid "Constitution, U.S."
 msgstr ""
 
@@ -1353,9 +1353,9 @@ msgstr ""
 msgid "First Amendment to"
 msgstr ""
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
-#: freeculture.xml:969 freeculture.xml:1134
-msgid "Copyright law"
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#: freeculture.xml:969 freeculture.xml:1134 freeculture.xml:1241 freeculture.xml:1266 freeculture.xml:1610 freeculture.xml:1654 freeculture.xml:1768 freeculture.xml:3111 freeculture.xml:4257 freeculture.xml:4258 freeculture.xml:7271 freeculture.xml:7401
+msgid "copyright law"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
@@ -1369,7 +1369,7 @@ msgid "First Amendment"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:971 freeculture.xml:981 freeculture.xml:14714
+#: freeculture.xml:971 freeculture.xml:981 freeculture.xml:14719
 msgid "Netanel, Neil Weinstock"
 msgstr ""
 
@@ -1775,11 +1775,6 @@ msgid ""
 "property.  It has never taken hold within our law."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-#: freeculture.xml:1241 freeculture.xml:1266 freeculture.xml:1610 freeculture.xml:1654 freeculture.xml:1768 freeculture.xml:3111 freeculture.xml:4257 freeculture.xml:4258 freeculture.xml:7271 freeculture.xml:7401
-msgid "copyright law"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #: freeculture.xml:1241 freeculture.xml:7401
 msgid "on republishing vs. transformation of original work"
@@ -1930,7 +1925,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:1327 freeculture.xml:1544 freeculture.xml:1598 freeculture.xml:1739 freeculture.xml:1985 freeculture.xml:4501 freeculture.xml:6066 freeculture.xml:7197 freeculture.xml:10637 freeculture.xml:11018
+#: freeculture.xml:1327 freeculture.xml:1544 freeculture.xml:1598 freeculture.xml:1739 freeculture.xml:1985 freeculture.xml:4501 freeculture.xml:6066 freeculture.xml:7197 freeculture.xml:10637 freeculture.xml:11019
 msgid "Disney, Walt"
 msgstr ""
 
@@ -2048,7 +2043,7 @@ msgid "piracy vs."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:1396 freeculture.xml:1555 freeculture.xml:3688 freeculture.xml:7275 freeculture.xml:14780
+#: freeculture.xml:1396 freeculture.xml:1555 freeculture.xml:3688 freeculture.xml:7275 freeculture.xml:14785
 msgid "piracy"
 msgstr ""
 
@@ -2178,17 +2173,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:1490 freeculture.xml:11016 freeculture.xml:11017
+#: freeculture.xml:1490 freeculture.xml:11017 freeculture.xml:11018
 msgid "copyright"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#: freeculture.xml:1490 freeculture.xml:11017
+#: freeculture.xml:1490 freeculture.xml:11018
 msgid "duration of"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:1491 freeculture.xml:1492 freeculture.xml:7755 freeculture.xml:12982
+#: freeculture.xml:1491 freeculture.xml:1492 freeculture.xml:7755 freeculture.xml:12987
 msgid "public domain"
 msgstr ""
 
@@ -3066,7 +3061,7 @@ msgid "commercials"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:2127 freeculture.xml:14778
+#: freeculture.xml:2127 freeculture.xml:14783
 msgid "television"
 msgstr ""
 
@@ -4233,12 +4228,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:2960 freeculture.xml:3318 freeculture.xml:4253 freeculture.xml:5384 freeculture.xml:5433 freeculture.xml:9842 freeculture.xml:9940 freeculture.xml:10109 freeculture.xml:14679 freeculture.xml:14744
+#: freeculture.xml:2960 freeculture.xml:3318 freeculture.xml:4253 freeculture.xml:5384 freeculture.xml:5433 freeculture.xml:9842 freeculture.xml:9940 freeculture.xml:10109 freeculture.xml:14684 freeculture.xml:14749
 msgid "artists"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:2960 freeculture.xml:3318 freeculture.xml:4253 freeculture.xml:9842 freeculture.xml:9940 freeculture.xml:10109 freeculture.xml:14679 freeculture.xml:14744
+#: freeculture.xml:2960 freeculture.xml:3318 freeculture.xml:4253 freeculture.xml:9842 freeculture.xml:9940 freeculture.xml:10109 freeculture.xml:14684 freeculture.xml:14749
 msgid "recording industry payments to"
 msgstr ""
 
@@ -4665,7 +4660,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#: freeculture.xml:3248 freeculture.xml:14375
+#: freeculture.xml:3248 freeculture.xml:14380
 msgid "Grisham, John"
 msgstr ""
 
@@ -4794,7 +4789,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
-#: freeculture.xml:3353 freeculture.xml:9051 freeculture.xml:9510 freeculture.xml:12504
+#: freeculture.xml:3353 freeculture.xml:9051 freeculture.xml:9510 freeculture.xml:12509
 msgid "Lovett, Lyle"
 msgstr ""
 
@@ -4867,7 +4862,7 @@ msgid "Cable TV"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:3395 freeculture.xml:4277 freeculture.xml:8246 freeculture.xml:8285 freeculture.xml:14777
+#: freeculture.xml:3395 freeculture.xml:4277 freeculture.xml:8246 freeculture.xml:8285 freeculture.xml:14782
 msgid "cable television"
 msgstr ""
 
@@ -5111,12 +5106,12 @@ msgid "Piracy I"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:3557 freeculture.xml:3637 freeculture.xml:3687 freeculture.xml:14779
+#: freeculture.xml:3557 freeculture.xml:3637 freeculture.xml:3687 freeculture.xml:14784
 msgid "Asia, commercial piracy in"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:3558 freeculture.xml:4005 freeculture.xml:9511 freeculture.xml:10318 freeculture.xml:14170 freeculture.xml:14761
+#: freeculture.xml:3558 freeculture.xml:4005 freeculture.xml:9511 freeculture.xml:10318 freeculture.xml:14175 freeculture.xml:14766
 msgid "CDs"
 msgstr ""
 
@@ -5198,7 +5193,7 @@ msgid "agricultural patents"
 msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para><indexterm><primary>
-#: freeculture.xml:3631 freeculture.xml:12788 freeculture.xml:13241 freeculture.xml:13248
+#: freeculture.xml:3631 freeculture.xml:12793 freeculture.xml:13246 freeculture.xml:13253
 msgid "Drahos, Peter"
 msgstr ""
 
@@ -5235,7 +5230,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:3652 freeculture.xml:3926 freeculture.xml:14927
+#: freeculture.xml:3652 freeculture.xml:3926 freeculture.xml:14932
 msgid "Liebowitz, Stan"
 msgstr ""
 
@@ -5298,7 +5293,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:3688 freeculture.xml:14780
+#: freeculture.xml:3688 freeculture.xml:14785
 msgid "in Asia"
 msgstr ""
 
@@ -5308,17 +5303,17 @@ msgid "free software/open-source software (FS/OSS)"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#: freeculture.xml:3690 freeculture.xml:3720 freeculture.xml:11592 freeculture.xml:13087 freeculture.xml:13685
+#: freeculture.xml:3690 freeculture.xml:3720 freeculture.xml:11593 freeculture.xml:13092 freeculture.xml:13690
 msgid "GNU/Linux operating system"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#: freeculture.xml:3691 freeculture.xml:3721 freeculture.xml:11594 freeculture.xml:13088 freeculture.xml:13686
+#: freeculture.xml:3691 freeculture.xml:3721 freeculture.xml:11595 freeculture.xml:13093 freeculture.xml:13691
 msgid "Linux operating system"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:3692 freeculture.xml:3694 freeculture.xml:3695 freeculture.xml:5375 freeculture.xml:7885 freeculture.xml:13140
+#: freeculture.xml:3692 freeculture.xml:3694 freeculture.xml:3695 freeculture.xml:5375 freeculture.xml:7885 freeculture.xml:13145
 msgid "Microsoft"
 msgstr ""
 
@@ -5695,12 +5690,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:3943 freeculture.xml:3952 freeculture.xml:4309 freeculture.xml:8045 freeculture.xml:8074 freeculture.xml:9772 freeculture.xml:14487
+#: freeculture.xml:3943 freeculture.xml:3952 freeculture.xml:4309 freeculture.xml:8045 freeculture.xml:8074 freeculture.xml:9772 freeculture.xml:14492
 msgid "cassette recording"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:3943 freeculture.xml:4309 freeculture.xml:8045 freeculture.xml:8074 freeculture.xml:9772 freeculture.xml:9773 freeculture.xml:14487 freeculture.xml:14488
+#: freeculture.xml:3943 freeculture.xml:4309 freeculture.xml:8045 freeculture.xml:8074 freeculture.xml:9772 freeculture.xml:9773 freeculture.xml:14492 freeculture.xml:14493
 msgid "VCRs"
 msgstr ""
 
@@ -5915,12 +5910,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:4107 freeculture.xml:4115 freeculture.xml:4137 freeculture.xml:4159 freeculture.xml:4663 freeculture.xml:5994 freeculture.xml:5999 freeculture.xml:6051 freeculture.xml:6927 freeculture.xml:6928 freeculture.xml:7270 freeculture.xml:7339 freeculture.xml:7373 freeculture.xml:7589 freeculture.xml:13873 freeculture.xml:14599 freeculture.xml:14600
+#: freeculture.xml:4107 freeculture.xml:4115 freeculture.xml:4137 freeculture.xml:4159 freeculture.xml:4663 freeculture.xml:5994 freeculture.xml:5999 freeculture.xml:6051 freeculture.xml:6927 freeculture.xml:6928 freeculture.xml:7270 freeculture.xml:7339 freeculture.xml:7373 freeculture.xml:7589 freeculture.xml:13878 freeculture.xml:14604 freeculture.xml:14605
 msgid "books"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:4107 freeculture.xml:4115 freeculture.xml:6928 freeculture.xml:14600
+#: freeculture.xml:4107 freeculture.xml:4115 freeculture.xml:6928 freeculture.xml:14605
 msgid "resales of"
 msgstr ""
 
@@ -5959,7 +5954,7 @@ msgid "Bernstein, Leonard"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:4137 freeculture.xml:5994 freeculture.xml:5999 freeculture.xml:6927 freeculture.xml:14599
+#: freeculture.xml:4137 freeculture.xml:5994 freeculture.xml:5999 freeculture.xml:6927 freeculture.xml:14604
 msgid "out of print"
 msgstr ""
 
@@ -5991,7 +5986,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:4159 freeculture.xml:13873
+#: freeculture.xml:4159 freeculture.xml:13878
 msgid "free on-line releases of"
 msgstr ""
 
@@ -6112,8 +6107,8 @@ msgstr ""
 msgid "composers, copyright protections of"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-#: freeculture.xml:4255 freeculture.xml:4256
+#. type: Content of: <book><part><chapter><indexterm><primary>
+#: freeculture.xml:4255 freeculture.xml:4256 freeculture.xml:11661
 msgid "Congress, U.S."
 msgstr ""
 
@@ -7113,7 +7108,7 @@ msgid "Erskine, Andrew"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:4969 freeculture.xml:15023
+#: freeculture.xml:4969 freeculture.xml:15028
 msgid "Rose, Mark"
 msgstr ""
 
@@ -7708,7 +7703,7 @@ msgid "Allen, Paul"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:5374 freeculture.xml:5434 freeculture.xml:5619 freeculture.xml:10087 freeculture.xml:14390
+#: freeculture.xml:5374 freeculture.xml:5434 freeculture.xml:5619 freeculture.xml:10087 freeculture.xml:14395
 msgid "Alben, Alex"
 msgstr ""
 
@@ -8191,7 +8186,7 @@ msgid "CHAPTER NINE: Collectors"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:5731 freeculture.xml:8885 freeculture.xml:11105 freeculture.xml:11350
+#: freeculture.xml:5731 freeculture.xml:8885 freeculture.xml:11106 freeculture.xml:11351
 msgid "archives, digital"
 msgstr ""
 
@@ -9424,12 +9419,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:6625 freeculture.xml:14966
+#: freeculture.xml:6625 freeculture.xml:14971
 msgid "Brezhnev, Leonid"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:6626 freeculture.xml:13202
+#: freeculture.xml:6626 freeculture.xml:13207
 msgid "Gates, Bill"
 msgstr ""
 
@@ -10558,7 +10553,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:7451 freeculture.xml:7511 freeculture.xml:13553
+#: freeculture.xml:7451 freeculture.xml:7511 freeculture.xml:13558
 msgid "browsing"
 msgstr ""
 
@@ -13586,7 +13581,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:9748 freeculture.xml:11593
+#: freeculture.xml:9748 freeculture.xml:11594
 msgid "Intel"
 msgstr ""
 
@@ -14048,7 +14043,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:10086 freeculture.xml:14760
+#: freeculture.xml:10086 freeculture.xml:14765
 msgid "Real Networks"
 msgstr ""
 
@@ -14776,23 +14771,28 @@ msgid ""
 "works."
 msgstr ""
 
-#.  f1. 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+#: freeculture.xml:10676 freeculture.xml:11693
+msgid "pornography"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #: freeculture.xml:10676
 msgid ""
-"There's a parallel here with pornography that is a bit hard to describe, but "
-"it's a strong one. One phenomenon that the Internet created was a world of "
-"noncommercial pornographers&mdash;people who were distributing porn but were "
-"not making money directly or indirectly from that distribution.  Such a "
-"class didn't exist before the Internet came into being because the costs of "
-"distributing porn were so high. Yet this new class of distributors got "
-"special attention in the Supreme Court, when the Court struck down the "
-"Communications Decency Act of 1996. It was partly because of the burden on "
-"noncommercial speakers that the statute was found to exceed Congress's "
-"power. The same point could have been made about noncommercial publishers "
-"after the advent of the Internet. The Eric Eldreds of the world before the "
-"Internet were extremely few. Yet one would think it at least as important to "
-"protect the Eldreds of the world as to protect noncommercial pornographers."
+"<placeholder type=\"indexterm\" id=\"0\"/> There's a parallel here with "
+"pornography that is a bit hard to describe, but it's a strong one. One "
+"phenomenon that the Internet created was a world of noncommercial "
+"pornographers&mdash;people who were distributing porn but were not making "
+"money directly or indirectly from that distribution.  Such a class didn't "
+"exist before the Internet came into being because the costs of distributing "
+"porn were so high. Yet this new class of distributors got special attention "
+"in the Supreme Court, when the Court struck down the Communications Decency "
+"Act of 1996. It was partly because of the burden on noncommercial speakers "
+"that the statute was found to exceed Congress's power. The same point could "
+"have been made about noncommercial publishers after the advent of the "
+"Internet. The Eric Eldreds of the world before the Internet were extremely "
+"few. Yet one would think it at least as important to protect the Eldreds of "
+"the world as to protect noncommercial pornographers."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -14811,7 +14811,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10693
+#: freeculture.xml:10694
 msgid ""
 "As I said, Eldred lives in New Hampshire. In 1998, Robert Frost's collection "
 "of poems <citetitle>New Hampshire</citetitle> was slated to pass into the "
@@ -14827,17 +14827,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-#: freeculture.xml:10706 freeculture.xml:10716
+#: freeculture.xml:10707 freeculture.xml:10717
 msgid "Bono, Mary"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-#: freeculture.xml:10707 freeculture.xml:10717
+#: freeculture.xml:10708 freeculture.xml:10718
 msgid "Bono, Sonny"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10716
+#: freeculture.xml:10717
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/> The full text is: <quote>Sonny [Bono] wanted the term of "
@@ -14850,7 +14850,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10711
+#: freeculture.xml:10712
 msgid ""
 "This was the Sonny Bono Copyright Term Extension Act (CTEA), enacted in "
 "memory of the congressman and former musician Sonny Bono, who, his widow, "
@@ -14859,7 +14859,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10729
+#: freeculture.xml:10730
 msgid ""
 "Eldred decided to fight this law. He first resolved to fight it through "
 "civil disobedience. In a series of interviews, Eldred announced that he "
@@ -14870,7 +14870,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10738
+#: freeculture.xml:10739
 msgid ""
 "It was here that I became involved in Eldred's battle. I was a "
 "constitutional scholar whose first passion was constitutional "
@@ -14880,7 +14880,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:10749
+#: freeculture.xml:10750
 msgid ""
 "Congress has the power to promote the Progress of Science &hellip; by "
 "securing for limited Times to Authors &hellip; exclusive Right to their "
@@ -14888,7 +14888,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10755
+#: freeculture.xml:10756
 msgid ""
 "As I've described, this clause is unique within the power-granting clause of "
 "Article I, section 8 of our Constitution. Every other clause granting power "
@@ -14902,13 +14902,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:10764 freeculture.xml:12250
+#: freeculture.xml:10765 freeculture.xml:12255
 msgid "Jaszi, Peter"
 msgstr ""
 
 #.  PAGE BREAK 223 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10766
+#: freeculture.xml:10767
 msgid ""
 "In the past forty years, Congress has gotten into the practice of extending "
 "existing terms of copyright protection. What puzzled me about this was, if "
@@ -14921,7 +14921,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10777
+#: freeculture.xml:10778
 msgid ""
 "As an academic, my first response was to hit the books. I remember sitting "
 "late at the office, scouring on-line databases for any serious consideration "
@@ -14934,7 +14934,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10788
+#: freeculture.xml:10789
 msgid ""
 "For this is the core of the corruption in our present system of "
 "government. <quote>Corruption</quote> not in the sense that representatives "
@@ -14946,7 +14946,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10797
+#: freeculture.xml:10798
 msgid ""
 "If that's not obvious to you, consider the following: Say you're one of the "
 "very few lucky copyright owners whose copyright continues to make money one "
@@ -14958,7 +14958,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10807
+#: freeculture.xml:10808
 msgid ""
 "So imagine the Robert Frost estate is earning $100,000 a year from three of "
 "Frost's poems. And imagine the copyright for those poems is about to "
@@ -14968,7 +14968,7 @@ msgstr ""
 
 #.  PAGE BREAK 224 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10814
+#: freeculture.xml:10815
 msgid ""
 "<quote>Next year,</quote> the adviser announces, <quote>our copyrights in "
 "works A, B, and C will expire. That means that after next year, we will no "
@@ -14977,7 +14977,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10822
+#: freeculture.xml:10823
 msgid ""
 "<quote>There's a proposal in Congress, however,</quote> she continues, "
 "<quote>that could change this. A few congressmen are floating a bill to "
@@ -14986,14 +14986,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10828
+#: freeculture.xml:10829
 msgid ""
 "<quote>Hope?</quote> a fellow board member says. <quote>Can't we be doing "
 "something about it?</quote>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10832
+#: freeculture.xml:10833
 msgid ""
 "<quote>Well, obviously, yes,</quote> the adviser responds. <quote>We could "
 "contribute to the campaigns of a number of representatives to try to assure "
@@ -15001,7 +15001,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10837
+#: freeculture.xml:10838
 msgid ""
 "You hate politics. You hate contributing to campaigns. So you want to know "
 "whether this disgusting practice is worth it. <quote>How much would we get "
@@ -15010,7 +15010,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10843
+#: freeculture.xml:10844
 msgid ""
 "<quote>Well,</quote> the adviser says, <quote>if you're confident that you "
 "will continue to get at least $100,000 a year from these copyrights, and you "
@@ -15019,14 +15019,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10849
+#: freeculture.xml:10850
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10853
+#: freeculture.xml:10854
 msgid ""
 "<quote>So you're saying it would be worth it for us to pay more than "
 "$1,000,000 in campaign contributions if we were confident those "
@@ -15034,7 +15034,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10859
+#: freeculture.xml:10860
 msgid ""
 "<quote>Absolutely,</quote> the adviser responds. <quote>It is worth it to "
 "you to contribute up to the `present value' of the income you expect from "
@@ -15043,7 +15043,7 @@ msgstr ""
 
 #.  PAGE BREAK 225 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10865
+#: freeculture.xml:10866
 msgid ""
 "You quickly get the point&mdash;you as the member of the board and, I trust, "
 "you the reader. Each time copyrights are about to expire, every beneficiary "
@@ -15055,7 +15055,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10876
+#: freeculture.xml:10877
 msgid ""
 "Thus a congressional perpetual motion machine: So long as legislation can be "
 "bought (albeit indirectly), there will be all the incentive in the world to "
@@ -15064,7 +15064,7 @@ msgstr ""
 
 #.  f3. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10888
+#: freeculture.xml:10889
 msgid ""
 "Associated Press, <quote>Disney Lobbying for Copyright Extension No Mickey "
 "Mouse Effort; Congress OKs Bill Granting Creators 20 More Years,</quote> "
@@ -15073,7 +15073,7 @@ msgstr ""
 
 #.  f4. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10895
+#: freeculture.xml:10896
 msgid ""
 "See Nick Brown, <quote>Fair Use No More?: Copyright in the Information "
 "Age,</quote> available at <ulink url=\"http://free-culture.cc/notes/\">link "
@@ -15082,7 +15082,7 @@ msgstr ""
 
 #.  f5. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10903
+#: freeculture.xml:10904
 msgid ""
 "Alan K. Ota, <quote>Disney in Washington: The Mouse That Roars,</quote> "
 "<citetitle>Congressional Quarterly This Week</citetitle>, 8 August 1990, "
@@ -15090,7 +15090,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10881
+#: freeculture.xml:10882
 msgid ""
 "In the lobbying that led to the passage of the Sonny Bono Copyright Term "
 "Extension Act, this <quote>theory</quote> about incentives was proved "
@@ -15105,7 +15105,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10910
+#: freeculture.xml:10911
 msgid ""
 "<emphasis role='strong'>Constitutional law</emphasis> is not oblivious to "
 "the obvious. Or at least, it need not be. So when I was considering Eldred's "
@@ -15120,7 +15120,7 @@ msgstr ""
 
 #.  PAGE BREAK 226 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10922
+#: freeculture.xml:10923
 msgid ""
 "It was also my judgment that <emphasis>this</emphasis> Supreme Court would "
 "not allow Congress to extend existing terms. As anyone close to the Supreme "
@@ -15132,7 +15132,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10935
+#: freeculture.xml:10936
 msgid ""
 "Since 1937, the Supreme Court had interpreted Congress's granted powers very "
 "broadly; so, while the Constitution grants Congress the power to regulate "
@@ -15142,7 +15142,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10945
+#: freeculture.xml:10946
 msgid ""
 "As the economy grew, this standard increasingly meant that there was no "
 "limit to Congress's power to regulate, since just about every activity, when "
@@ -15152,12 +15152,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:10951 freeculture.xml:11737
+#: freeculture.xml:10952 freeculture.xml:11742
 msgid "Rehnquist, William H."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10953
+#: freeculture.xml:10954
 msgid ""
 "The Supreme Court, under Chief Justice Rehnquist's command, changed that in "
 "<citetitle>United States</citetitle> v. <citetitle>Lopez</citetitle>. The "
@@ -15173,7 +15173,7 @@ msgstr ""
 
 #.  f6. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10968
+#: freeculture.xml:10969
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Lopez</citetitle>, 514 "
 "U.S. 549, 564 (1995)."
@@ -15181,14 +15181,14 @@ msgstr ""
 
 #.  f7. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10975
+#: freeculture.xml:10976
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>, 529 "
 "U.S. 598 (2000)."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10966
+#: freeculture.xml:10967
 msgid ""
 "<quote>We pause to consider the implications of the government's "
 "arguments,</quote> the Chief Justice wrote.<placeholder type=\"footnote\" "
@@ -15201,7 +15201,7 @@ msgstr ""
 
 #.  f8. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:10982
+#: freeculture.xml:10983
 msgid ""
 "If it is a principle about enumerated powers, then the principle carries "
 "from one enumerated power to another. The animating point in the context of "
@@ -15216,7 +15216,7 @@ msgstr ""
 
 #.  PAGE BREAK 227 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:10979
+#: freeculture.xml:10980
 msgid ""
 "If a principle were at work here, then it should apply to the Progress "
 "Clause as much as the Commerce Clause.<placeholder type=\"footnote\" "
@@ -15230,7 +15230,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11003
+#: freeculture.xml:11004
 msgid ""
 "<emphasis>If</emphasis>, that is, the principle announced in "
 "<citetitle>Lopez</citetitle> stood for a principle.  Many believed the "
@@ -15246,17 +15246,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#: freeculture.xml:11015
+#: freeculture.xml:11016
 msgid "copyright purpose established in"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#: freeculture.xml:11016
+#: freeculture.xml:11017
 msgid "constitutional purpose of"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11020
+#: freeculture.xml:11021
 msgid ""
 "<emphasis role='strong'>Now let's pause</emphasis> for a moment to make sure "
 "we understand what the argument in <citetitle>Eldred</citetitle> was not "
@@ -15276,13 +15276,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11037
+#: freeculture.xml:11038
 msgid "Nashville Songwriters Association"
 msgstr ""
 
 #.  f9. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11045
+#: freeculture.xml:11046
 msgid ""
 "Brief of the Nashville Songwriters Association, "
 "<citetitle>Eldred</citetitle> v. <citetitle>Ashcroft</citetitle>, 537 U.S.  "
@@ -15291,7 +15291,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11039
+#: freeculture.xml:11040
 msgid ""
 "Some people view the public domain with contempt. In their brief before the "
 "Supreme Court, the Nashville Songwriters Association wrote that the public "
@@ -15303,7 +15303,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11055
+#: freeculture.xml:11056
 msgid ""
 "As we've seen, our constitutional system requires limits on copyright as a "
 "way to assure that copyright holders do not too heavily influence the "
@@ -15315,7 +15315,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11067
+#: freeculture.xml:11068
 msgid ""
 "<emphasis role='strong'>It is valuable</emphasis> copyrights that are "
 "responsible for terms being extended.  Mickey Mouse and <quote>Rhapsody in "
@@ -15330,7 +15330,7 @@ msgstr ""
 
 #.  f10. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11085
+#: freeculture.xml:11086
 msgid ""
 "The figure of 2 percent is an extrapolation from the study by the "
 "Congressional Research Service, in light of the estimated renewal "
@@ -15340,7 +15340,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11079
+#: freeculture.xml:11080
 msgid ""
 "If you look at the work created in the first twenty years (1923 to 1942) "
 "affected by the Sonny Bono Copyright Term Extension Act, 2 percent of that "
@@ -15352,7 +15352,7 @@ msgstr ""
 
 #.  PAGE BREAK 229 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11094
+#: freeculture.xml:11095
 msgid ""
 "Think practically about the consequence of this extension&mdash;practically, "
 "as a businessperson, and not as a lawyer eager for more legal work. In 1930, "
@@ -15363,7 +15363,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11107
+#: freeculture.xml:11108
 msgid ""
 "Well, first, you'd have to determine which of the 9,873 books were still "
 "under copyright. That requires going to a library (these data are not "
@@ -15374,14 +15374,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11115
+#: freeculture.xml:11116
 msgid ""
 "Then for the books still under copyright, you would need to locate the "
 "current copyright owners. How would you do that?"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11119
+#: freeculture.xml:11120
 msgid ""
 "Most people think that there must be a list of these copyright owners "
 "somewhere. Practical people think this way. How could there be thousands and "
@@ -15389,7 +15389,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11126
+#: freeculture.xml:11127
 msgid ""
 "But there is no list. There may be a name from 1930, and then in 1959, of "
 "the person who registered the copyright. But just think practically about "
@@ -15399,7 +15399,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11135
+#: freeculture.xml:11136
 msgid ""
 "<quote>But there isn't a list of who owns property generally,</quote> the "
 "apologists for the system respond. <quote>Why should there be a list of "
@@ -15407,7 +15407,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11140
+#: freeculture.xml:11141
 msgid ""
 "Well, actually, if you think about it, there <emphasis>are</emphasis> plenty "
 "of lists of who owns what property. Think about deeds on houses, or titles "
@@ -15419,7 +15419,7 @@ msgstr ""
 
 #.  PAGE BREAK 230 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11149
+#: freeculture.xml:11150
 msgid ""
 "So: You walk down a street and see a house. You can know who owns the house "
 "by looking it up in the courthouse registry. If you see a car, there is "
@@ -15433,7 +15433,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11164
+#: freeculture.xml:11165
 msgid ""
 "Compare this story to intangible property. You go into a library.  The "
 "library owns the books. But who owns the copyrights? As I've already "
@@ -15447,7 +15447,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11176
+#: freeculture.xml:11177
 msgid ""
 "The consequence with respect to old books is that they won't be digitized, "
 "and hence will simply rot away on shelves. But the consequence for other "
@@ -15455,28 +15455,28 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11181
+#: freeculture.xml:11182
 msgid "Agee, Michael"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11182 freeculture.xml:11617
+#: freeculture.xml:11183 freeculture.xml:11618
 msgid "Hal Roach Studios"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11183
+#: freeculture.xml:11184
 msgid "Laurel and Hardy Films"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11184
+#: freeculture.xml:11185
 msgid "Lucky Dog, The"
 msgstr ""
 
 #.  f11. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11197
+#: freeculture.xml:11198
 msgid ""
 "See David G. Savage, <quote>High Court Scene of Showdown on Copyright "
 "Law,</quote> <citetitle>Los Angeles Times</citetitle>, 6 October 2002; David "
@@ -15486,7 +15486,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11186
+#: freeculture.xml:11187
 msgid ""
 "Consider the story of Michael Agee, chairman of Hal Roach Studios, which "
 "owns the copyrights for the Laurel and Hardy films. Agee is a direct "
@@ -15501,7 +15501,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11204
+#: freeculture.xml:11205
 msgid ""
 "Yet Agee opposed the CTEA. His reasons demonstrate a rare virtue in this "
 "culture: selflessness. He argued in a brief before the Supreme Court that "
@@ -15511,7 +15511,7 @@ msgstr ""
 
 #.  PAGE BREAK 231 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11210
+#: freeculture.xml:11211
 msgid ""
 "His argument is straightforward. A tiny fraction of this work has any "
 "continuing commercial value. The rest&mdash;to the extent it survives at "
@@ -15523,7 +15523,7 @@ msgstr ""
 
 #.  f12. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11228
+#: freeculture.xml:11229
 msgid ""
 "Brief of Hal Roach Studios and Michael Agee as Amicus Curiae Supporting the "
 "Petitoners, <citetitle>Eldred</citetitle> "
@@ -15535,7 +15535,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11221
+#: freeculture.xml:11222
 msgid ""
 "We can't know the benefits, but we do know a lot about the costs.  For most "
 "of the history of film, the costs of restoring film were very high; digital "
@@ -15546,7 +15546,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11238
+#: freeculture.xml:11239
 msgid ""
 "Restoration technology is not the only cost, nor the most important.  "
 "Lawyers, too, are a cost, and increasingly, a very important one. In "
@@ -15556,7 +15556,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11246
+#: freeculture.xml:11247
 msgid ""
 "Or more accurately, <emphasis>owners</emphasis>. As we've seen, there isn't "
 "only a single copyright associated with a film; there are many. There isn't "
@@ -15567,7 +15567,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11254
+#: freeculture.xml:11255
 msgid ""
 "<quote>But can't you just restore the film, distribute it, and then pay the "
 "copyright owner when she shows up?</quote> Sure, if you want to commit a "
@@ -15582,7 +15582,7 @@ msgstr ""
 
 #.  PAGE BREAK 232 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11265
+#: freeculture.xml:11266
 msgid ""
 "For some films, the benefit of releasing the film may well exceed these "
 "costs. But for the vast majority of them, there is no way the benefit would "
@@ -15592,7 +15592,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11276
+#: freeculture.xml:11277
 msgid ""
 "But by the time the copyright for these films expires, the film will have "
 "expired. These films were produced on nitrate-based stock, and nitrate stock "
@@ -15601,7 +15601,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11284
+#: freeculture.xml:11285
 msgid ""
 "<emphasis role='strong'>Of all the</emphasis> creative work produced by "
 "humans anywhere, a tiny fraction has continuing commercial value. For that "
@@ -15612,7 +15612,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11292
+#: freeculture.xml:11293
 msgid ""
 "But even for that tiny fraction, the actual time during which the creative "
 "work has a commercial life is extremely short. As I've indicated, most books "
@@ -15623,7 +15623,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11302
+#: freeculture.xml:11303
 msgid ""
 "Yet that doesn't mean the life of the creative work ends. We don't keep "
 "libraries of books in order to compete with Barnes &amp; Noble, and we don't "
@@ -15637,7 +15637,7 @@ msgstr ""
 
 #.  PAGE BREAK 233 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11315
+#: freeculture.xml:11316
 msgid ""
 "Copyrights in this context do not drive an engine of free expression.  In "
 "this context, there is no need for an exclusive right. Copyrights in this "
@@ -15645,7 +15645,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11322
+#: freeculture.xml:11323
 msgid ""
 "Yet, for most of our history, they also did little harm. For most of our "
 "history, when a work ended its commercial life, there was no "
@@ -15658,7 +15658,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11333
+#: freeculture.xml:11334
 msgid ""
 "The same was effectively true of film. Because the costs of restoring a "
 "film&mdash;the real economic costs, not the lawyer costs&mdash;were so high, "
@@ -15669,7 +15669,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11342
+#: freeculture.xml:11343
 msgid ""
 "In other words, though copyright has been relatively short for most of our "
 "history, long copyrights wouldn't have mattered for the works that lost "
@@ -15678,12 +15678,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11348
+#: freeculture.xml:11349
 msgid "But this situation has now changed."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11352
+#: freeculture.xml:11353
 msgid ""
 "One crucially important consequence of the emergence of digital technologies "
 "is to enable the archive that Brewster Kahle dreams of.  Digital "
@@ -15698,7 +15698,7 @@ msgstr ""
 
 #.  PAGE BREAK 234 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11365
+#: freeculture.xml:11366
 msgid ""
 "And now copyright law does get in the way. Every step of producing this "
 "digital archive of our culture infringes on the exclusive right of "
@@ -15711,7 +15711,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11375
+#: freeculture.xml:11376
 msgid ""
 "Here is the core of the harm that comes from extending terms: Now that "
 "technology enables us to rebuild the library of Alexandria, the law gets in "
@@ -15725,7 +15725,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11386
+#: freeculture.xml:11387
 msgid ""
 "You may well ask, <quote>But if digital technologies lower the costs for "
 "Brewster Kahle, then they will lower the costs for Random House, too.  So "
@@ -15734,7 +15734,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11392
+#: freeculture.xml:11393
 msgid ""
 "Maybe. Someday. But there is absolutely no evidence to suggest that "
 "publishers would be as complete as libraries. If Barnes &amp; Noble offered "
@@ -15749,7 +15749,7 @@ msgstr ""
 
 #.  f13. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11416
+#: freeculture.xml:11417
 msgid ""
 "Jason Schultz, <quote>The Myth of the 1976 Copyright `Chaos' Theory,</quote> "
 "20 December 2002, available at <ulink "
@@ -15757,7 +15757,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11404
+#: freeculture.xml:11405
 msgid ""
 "I would be the first to agree that it should do as much as it can: We should "
 "rely upon the market as much as possible to spread and enable culture. My "
@@ -15771,7 +15771,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11423
+#: freeculture.xml:11424
 msgid ""
 "<emphasis role='strong'>In January 1999</emphasis>, we filed a lawsuit on "
 "Eric Eldred's behalf in federal district court in Washington, D.C., asking "
@@ -15783,7 +15783,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11432
+#: freeculture.xml:11433
 msgid ""
 "The district court dismissed our claims without even hearing an argument.  A "
 "panel of the Court of Appeals for the D.C. Circuit also dismissed our "
@@ -15793,7 +15793,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11439
+#: freeculture.xml:11440
 msgid ""
 "Judge David Sentelle said the CTEA violated the requirement that copyrights "
 "be for <quote>limited Times</quote> only. His argument was as elegant as it "
@@ -15807,7 +15807,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11450
+#: freeculture.xml:11451
 msgid ""
 "We asked the Court of Appeals for the D.C. Circuit as a whole to hear the "
 "case. Cases are ordinarily heard in panels of three, except for important "
@@ -15816,13 +15816,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11455
+#: freeculture.xml:11456
 msgid "Tatel, David"
 msgstr ""
 
 #.  PAGE BREAK 236 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11457
+#: freeculture.xml:11458
 msgid ""
 "The Court of Appeals rejected our request to hear the case en banc.  This "
 "time, Judge Sentelle was joined by the most liberal member of the "
@@ -15832,7 +15832,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11466
+#: freeculture.xml:11467
 msgid ""
 "It was here that most expected Eldred v. Ashcroft would die, for the Supreme "
 "Court rarely reviews any decision by a court of appeals. (It hears about one "
@@ -15842,7 +15842,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11473
+#: freeculture.xml:11474
 msgid ""
 "But in February 2002, the Supreme Court surprised the world by granting our "
 "petition to review the D.C. Circuit opinion. Argument was set for October of "
@@ -15850,7 +15850,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11479
+#: freeculture.xml:11480
 msgid ""
 "<emphasis role='strong'>It is over</emphasis> a year later as I write these "
 "words. It is still astonishingly hard. If you know anything at all about "
@@ -15863,7 +15863,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11490
+#: freeculture.xml:11491
 msgid ""
 "But my client and these friends were wrong. This case could have been "
 "won. It should have been won. And no matter how hard I try to retell this "
@@ -15871,13 +15871,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11495 freeculture.xml:11509
+#: freeculture.xml:11496 freeculture.xml:11510
 msgid "Steward, Geoffrey"
 msgstr ""
 
 #.  PAGE BREAK 237 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11497
+#: freeculture.xml:11498
 msgid ""
 "<emphasis role='strong'>The mistake</emphasis> was made early, though it "
 "became obvious only at the very end. Our case had been supported from the "
@@ -15889,17 +15889,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11507 freeculture.xml:11866 freeculture.xml:11882 freeculture.xml:11979 freeculture.xml:12199 freeculture.xml:12230 freeculture.xml:12328
+#: freeculture.xml:11508 freeculture.xml:11871 freeculture.xml:11887 freeculture.xml:11984 freeculture.xml:12204 freeculture.xml:12235 freeculture.xml:12333
 msgid "Ayer, Don"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11508
+#: freeculture.xml:11509
 msgid "Bromberg, Dan"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11511
+#: freeculture.xml:11512
 msgid ""
 "There were three key lawyers on the case from Jones Day. Geoff Stewart was "
 "the first, but then Dan Bromberg and Don Ayer became quite "
@@ -15912,7 +15912,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11521
+#: freeculture.xml:11522
 msgid ""
 "I hate this view of the law. Of course I thought the Sonny Bono Act was a "
 "dramatic harm to free speech and free culture. Of course I still think it "
@@ -15934,7 +15934,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11542
+#: freeculture.xml:11543
 msgid ""
 "In any case, I thought, the Court must already see the danger and the harm "
 "caused by this sort of law. Why else would they grant review? There was no "
@@ -15945,7 +15945,7 @@ msgstr ""
 
 #.  PAGE BREAK 238 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11550
+#: freeculture.xml:11551
 msgid ""
 "There was one way, however, in which I felt politics would matter and in "
 "which I thought a response was appropriate. I was convinced that the Court "
@@ -15964,17 +15964,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11568 freeculture.xml:11595
+#: freeculture.xml:11569 freeculture.xml:11596
 msgid "Eagle Forum"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11569
+#: freeculture.xml:11570
 msgid "Schlafly, Phyllis"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11571
+#: freeculture.xml:11572
 msgid ""
 "The first step happened all by itself. Phyllis Schlafly's organization, "
 "Eagle Forum, had been an opponent of the CTEA from the very beginning.  "
@@ -15991,7 +15991,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11585
+#: freeculture.xml:11586
 msgid ""
 "In the Court of Appeals, Eagle Forum was eager to file a brief supporting "
 "our position. Their brief made the argument that became the core claim in "
@@ -16002,7 +16002,7 @@ msgstr ""
 
 #.  PAGE BREAK 239 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11597
+#: freeculture.xml:11598
 msgid ""
 "In the Supreme Court, the briefs on our side were about as diverse as it "
 "gets. They included an extraordinary historical brief by the Free Software "
@@ -16015,17 +16015,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11609
+#: freeculture.xml:11610
 msgid "American Association of Law Libraries"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11610
+#: freeculture.xml:11611
 msgid "National Writers Union"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11612
+#: freeculture.xml:11613
 msgid ""
 "Those briefs framed a legal argument. Then to support the legal argument, "
 "there were a number of powerful briefs by libraries and archives, including "
@@ -16034,7 +16034,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11619
+#: freeculture.xml:11620
 msgid ""
 "But two briefs captured the policy argument best. One made the argument I've "
 "already described: A brief by Hal Roach Studios argued that unless the law "
@@ -16043,32 +16043,32 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11625
+#: freeculture.xml:11626
 msgid "Akerlof, George"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11626
+#: freeculture.xml:11627
 msgid "Arrow, Kenneth"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11627
+#: freeculture.xml:11628
 msgid "Buchanan, James"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11628
+#: freeculture.xml:11629
 msgid "Coase, Ronald"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11629
+#: freeculture.xml:11630
 msgid "Friedman, Milton"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11631
+#: freeculture.xml:11632
 msgid ""
 "This economists' brief was signed by seventeen economists, including five "
 "Nobel Prize winners, including Ronald Coase, James Buchanan, Milton "
@@ -16082,28 +16082,28 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11641 freeculture.xml:11659 freeculture.xml:11868 freeculture.xml:12231
+#: freeculture.xml:11642 freeculture.xml:11660 freeculture.xml:11873 freeculture.xml:12236
 msgid "Fried, Charles"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11642
+#: freeculture.xml:11643
 msgid "Morrison, Alan"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11643
+#: freeculture.xml:11644
 msgid "Public Citizen"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:11644 freeculture.xml:11867 freeculture.xml:12987
+#: freeculture.xml:11645 freeculture.xml:11872 freeculture.xml:12992
 msgid "Reagan, Ronald"
 msgstr ""
 
 #.  PAGE BREAK 240 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11646
+#: freeculture.xml:11647
 msgid ""
 "The same effort at balance was reflected in the legal team we gathered to "
 "write our briefs in the case. The Jones Day lawyers had been with us from "
@@ -16116,8 +16116,18 @@ msgid ""
 "Amendment strategy; and finally, former solicitor general Charles Fried."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><para>
+#. type: Content of: <book><part><chapter><indexterm><secondary>
 #: freeculture.xml:11661
+msgid "constitutional powers of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#: freeculture.xml:11662
+msgid "Commerce Clause of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><para>
+#: freeculture.xml:11664
 msgid ""
 "Fried was a special victory for our side. Every other former solicitor "
 "general was hired by the other side to defend Congress's power to give media "
@@ -16131,7 +16141,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11673
+#: freeculture.xml:11676
 msgid ""
 "The government, in defending the statute, had its collection of friends, as "
 "well. Significantly, however, none of these <quote>friends</quote> included "
@@ -16141,7 +16151,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11680
+#: freeculture.xml:11683
 msgid ""
 "The media companies were not surprising. They had the most to gain from the "
 "law. The congressmen were not surprising either&mdash;they were defending "
@@ -16152,13 +16162,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11688
+#: freeculture.xml:11691
 msgid "Gershwin, George"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+#: freeculture.xml:11692
+msgid "Porgy and Bess"
 msgstr ""
 
 #.  f14. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11697
+#: freeculture.xml:11702
 msgid ""
 "Brief of Amici Dr. Seuss Enterprise et al., <citetitle>Eldred</citetitle> "
 "v. <citetitle>Ashcroft</citetitle>, 537 U.S.  (2003) (No. 01-618), 19."
@@ -16166,7 +16181,7 @@ msgstr ""
 
 #.  f15. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:11705
+#: freeculture.xml:11710
 msgid ""
 "Dinitia Smith, <quote>Immortal Words, Immortal Royalties? Even Mickey Mouse "
 "Joins the Fray,</quote> <citetitle>New York Times</citetitle>, 28 March "
@@ -16175,7 +16190,7 @@ msgstr ""
 
 #.  PAGE BREAK 241 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11690
+#: freeculture.xml:11695
 msgid ""
 "Dr. Seuss's representatives, for example, argued that it was better for the "
 "Dr. Seuss estate to control what happened to Dr. Seuss's work&mdash; better "
@@ -16192,7 +16207,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11714
+#: freeculture.xml:11719
 msgid ""
 "This argument made clear a theme that is rarely noticed in this debate.  "
 "When Congress decides to extend the term of existing copyrights, Congress is "
@@ -16207,7 +16222,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11726
+#: freeculture.xml:11731
 msgid ""
 "We argued as much in a final brief. Not only would upholding the CTEA mean "
 "that there was no limit to the power of Congress to extend "
@@ -16217,7 +16232,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11733
+#: freeculture.xml:11738
 msgid ""
 "<emphasis role='strong'>Between February</emphasis> and October, there was "
 "little I did beyond preparing for this case. Early on, as I said, I set the "
@@ -16225,12 +16240,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11738 freeculture.xml:11924
+#: freeculture.xml:11743 freeculture.xml:11929
 msgid "O'Connor, Sandra Day"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11740
+#: freeculture.xml:11745
 msgid ""
 "The Supreme Court was divided into two important camps. One camp we called "
 "<quote>the Conservatives.</quote> The other we called <quote>the "
@@ -16243,18 +16258,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11749 freeculture.xml:11774 freeculture.xml:12126 freeculture.xml:12138
+#: freeculture.xml:11754 freeculture.xml:11779 freeculture.xml:12131 freeculture.xml:12143
 msgid "Breyer, Stephen"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:11750 freeculture.xml:12090
+#: freeculture.xml:11755 freeculture.xml:12095
 msgid "Ginsburg, Ruth Bader"
 msgstr ""
 
 #.  PAGE BREAK 242 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11752
+#: freeculture.xml:11757
 msgid ""
 "The Rest were the four Justices who had strongly opposed limits on "
 "Congress's power. These four&mdash;Justice Stevens, Justice Souter, Justice "
@@ -16267,7 +16282,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11764
+#: freeculture.xml:11769
 msgid ""
 "In particular, the least likely was Justice Ginsburg's. In addition to her "
 "general view about deference to Congress (except where issues of gender are "
@@ -16280,7 +16295,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11776
+#: freeculture.xml:11781
 msgid ""
 "Close behind Justice Ginsburg were two justices whom we also viewed as "
 "unlikely allies, though possible surprises. Justice Souter strongly favored "
@@ -16290,7 +16305,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11785
+#: freeculture.xml:11790
 msgid ""
 "The only vote we could be confident about was that of Justice "
 "Stevens. History will record Justice Stevens as one of the greatest judges "
@@ -16301,7 +16316,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11793
+#: freeculture.xml:11798
 msgid ""
 "This analysis of <quote>the Rest</quote> showed most clearly where our focus "
 "had to be: on the Conservatives. To win this case, we had to crack open "
@@ -16314,7 +16329,7 @@ msgstr ""
 
 #.  PAGE BREAK 243 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11803
+#: freeculture.xml:11808
 msgid ""
 "This then was the core of our strategy&mdash;a strategy for which I am "
 "responsible. We would get the Court to see that just as with the "
@@ -16329,7 +16344,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11817
+#: freeculture.xml:11822
 msgid ""
 "<emphasis role='strong'>The argument</emphasis> on the government's side "
 "came down to this: Congress has done it before. It should be allowed to do "
@@ -16339,7 +16354,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11825
+#: freeculture.xml:11830
 msgid ""
 "There was some truth to the government's claim, but not much. We certainly "
 "agreed that Congress had extended existing terms in 1831 and in 1909. And of "
@@ -16348,7 +16363,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11832
+#: freeculture.xml:11837
 msgid ""
 "But this <quote>consistency</quote> should be kept in perspective. Congress "
 "extended existing terms once in the first hundred years of the Republic.  It "
@@ -16363,7 +16378,7 @@ msgstr ""
 
 #.  PAGE BREAK 244 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11847
+#: freeculture.xml:11852
 msgid ""
 "<emphasis role='strong'>Oral argument</emphasis> was scheduled for the first "
 "week in October. I arrived in D.C. two weeks before the argument. During "
@@ -16373,7 +16388,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11857
+#: freeculture.xml:11862
 msgid ""
 "I was convinced that to win, I had to keep the Court focused on a single "
 "point: that if this extension is permitted, then there is no limit to the "
@@ -16384,7 +16399,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11870
+#: freeculture.xml:11875
 msgid ""
 "One moot was before the lawyers at Jones Day. Don Ayer was the skeptic. He "
 "had served in the Reagan Justice Department with Solicitor General Charles "
@@ -16393,7 +16408,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11876
+#: freeculture.xml:11881
 msgid ""
 "<quote>I'm just afraid that unless they really see the harm, they won't be "
 "willing to upset this practice that the government says has been a "
@@ -16403,7 +16418,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11884
+#: freeculture.xml:11889
 msgid ""
 "He may have argued many cases before this Court, I thought, but he didn't "
 "understand its soul. As a clerk, I had seen the Justices do the right "
@@ -16417,7 +16432,7 @@ msgstr ""
 
 #.  PAGE BREAK 245 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11894
+#: freeculture.xml:11899
 msgid ""
 "<emphasis role='strong'>The night before</emphasis> the argument, a line of "
 "people began to form in front of the Supreme Court. The case had become a "
@@ -16427,7 +16442,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11904
+#: freeculture.xml:11909
 msgid ""
 "Not everyone has to wait in line. People who know the Justices can ask for "
 "seats they control. (I asked Justice Scalia's chambers for seats for my "
@@ -16443,7 +16458,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11919
+#: freeculture.xml:11924
 msgid ""
 "When the Chief Justice called me to begin my argument, I began where I "
 "intended to stay: on the question of the limits on Congress's power. This "
@@ -16452,14 +16467,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11926
+#: freeculture.xml:11931
 msgid ""
 "Justice O'Connor stopped me within one minute of my opening.  The history "
 "was bothering her."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:11931
+#: freeculture.xml:11936
 msgid ""
 "justice o'connor: Congress has extended the term so often through the years, "
 "and if you are right, don't we run the risk of upsetting previous extensions "
@@ -16468,7 +16483,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11938
+#: freeculture.xml:11943
 msgid ""
 "She was quite willing to concede <quote>that this flies directly in the face "
 "of what the framers had in mind.</quote> But my response again and again was "
@@ -16477,7 +16492,7 @@ msgstr ""
 
 #.  PAGE BREAK 246 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:11944
+#: freeculture.xml:11949
 msgid ""
 "mr. lessig: Well, if it flies in the face of what the framers had in mind, "
 "then the question is, is there a way of interpreting their words that gives "
@@ -16485,14 +16500,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11952
+#: freeculture.xml:11957
 msgid ""
 "There were two points in this argument when I should have seen where the "
 "Court was going. The first was a question by Justice Kennedy, who observed,"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:11958
+#: freeculture.xml:11963
 msgid ""
 "justice kennedy: Well, I suppose implicit in the argument that the '76 act, "
 "too, should have been declared void, and that we might leave it alone "
@@ -16502,14 +16517,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11966
+#: freeculture.xml:11971
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:11972
+#: freeculture.xml:11977
 msgid ""
 "mr. lessig: Justice, we are not making an empirical claim at all.  Nothing "
 "in our Copyright Clause claim hangs upon the empirical assertion about "
@@ -16519,7 +16534,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11981
+#: freeculture.xml:11986
 msgid ""
 "That was a correct answer, but it wasn't the right answer. The right answer "
 "was instead that there was an obvious and profound harm. Any number of "
@@ -16529,7 +16544,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11988
+#: freeculture.xml:11993
 msgid ""
 "The second came from the Chief, for whom the whole case had been "
 "crafted. For the Chief Justice had crafted the <citetitle>Lopez</citetitle> "
@@ -16538,21 +16553,21 @@ msgstr ""
 
 #.  PAGE BREAK 247 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:11993
+#: freeculture.xml:11998
 msgid ""
 "It was clear a second into his question that he wasn't at all sympathetic.  "
 "To him, we were a bunch of anarchists. As he asked:"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:12000
+#: freeculture.xml:12005
 msgid ""
 "chief justice: Well, but you want more than that. You want the right to copy "
 "verbatim other people's books, don't you?"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:12004
+#: freeculture.xml:12009
 msgid ""
 "mr. lessig: We want the right to copy verbatim works that should be in the "
 "public domain and would be in the public domain but for a statute that "
@@ -16561,12 +16576,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12012
+#: freeculture.xml:12017
 msgid "Olson, Theodore B."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12014
+#: freeculture.xml:12019
 msgid ""
 "Things went better for us when the government gave its argument; for now the "
 "Court picked up on the core of our claim. As Justice Scalia asked Solicitor "
@@ -16574,7 +16589,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:12020
+#: freeculture.xml:12025
 msgid ""
 "justice scalia: You say that the functional equivalent of an unlimited time "
 "would be a violation [of the Constitution], but that's precisely the "
@@ -16583,7 +16598,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12028
+#: freeculture.xml:12033
 msgid ""
 "When Olson was finished, it was my turn to give a closing rebuttal.  Olson's "
 "flailing had revived my anger. But my anger still was directed to the "
@@ -16599,7 +16614,7 @@ msgstr ""
 
 #.  PAGE BREAK 248 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12041
+#: freeculture.xml:12046
 msgid ""
 "<emphasis role='strong'>As I left</emphasis> the court that day, I knew "
 "there were a hundred points I wished I could remake. There were a hundred "
@@ -16608,7 +16623,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12050
+#: freeculture.xml:12055
 msgid ""
 "The government had been asked over and over again, what is the limit? Over "
 "and over again, it had answered there is no limit. This was precisely the "
@@ -16625,7 +16640,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12065
+#: freeculture.xml:12070
 msgid ""
 "<emphasis role='strong'>The morning</emphasis> of January 15, 2003, I was "
 "five minutes late to the office and missed the 7:00 A.M. call from the "
@@ -16636,7 +16651,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12073
+#: freeculture.xml:12078
 msgid ""
 "A few seconds later, the opinions arrived by e-mail. I took the phone off "
 "the hook, posted an announcement to our blog, and sat down to see where I "
@@ -16644,7 +16659,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12078
+#: freeculture.xml:12083
 msgid ""
 "My <emphasis>reasoning</emphasis>. Here was a case that pitted all the money "
 "in the world against <emphasis>reasoning</emphasis>. And here was the last "
@@ -16652,7 +16667,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12084
+#: freeculture.xml:12089
 msgid ""
 "I first scoured the opinion, looking for how the Court would distinguish the "
 "principle in this case from the principle in "
@@ -16663,7 +16678,7 @@ msgstr ""
 
 #.  PAGE BREAK 249 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12094
+#: freeculture.xml:12099
 msgid ""
 "Justice Ginsburg simply ignored the enumerated powers argument.  Consistent "
 "with her view that Congress's power was not limited generally, she had found "
@@ -16671,7 +16686,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12099
+#: freeculture.xml:12104
 msgid ""
 "Her opinion was perfectly reasonable&mdash;for her, and for Justice "
 "Souter. Neither believes in <citetitle>Lopez</citetitle>. It would be too "
@@ -16680,7 +16695,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12105
+#: freeculture.xml:12110
 msgid ""
 "But as I realized what had happened, I couldn't quite believe what I was "
 "reading. I had said there was no way this Court could reconcile limited "
@@ -16694,7 +16709,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12116
+#: freeculture.xml:12121
 msgid ""
 "Yet by what right did they get to choose which of the framers' values they "
 "would respect? By what right did they&mdash;the silent five&mdash;get to "
@@ -16707,7 +16722,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12128
+#: freeculture.xml:12133
 msgid ""
 "Justices Breyer and Stevens wrote very strong dissents. Stevens's opinion "
 "was crafted internal to the law: He argued that the tradition of "
@@ -16722,7 +16737,7 @@ msgstr ""
 
 #.  PAGE BREAK 250 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12141
+#: freeculture.xml:12146
 msgid ""
 "Justice Breyer's opinion, perhaps the best opinion he has ever written, was "
 "external to the Constitution. He argued that the term of copyrights has "
@@ -16736,7 +16751,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12152
+#: freeculture.xml:12157
 msgid ""
 "These two justices understood all the arguments we had made. But because "
 "neither believed in the <citetitle>Lopez</citetitle> case, neither was "
@@ -16747,7 +16762,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12159
+#: freeculture.xml:12164
 msgid ""
 "<emphasis role='strong'>Defeat brings depression</emphasis>. They say it is "
 "a sign of health when depression gives way to anger. My anger came quickly, "
@@ -16755,12 +16770,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12164
+#: freeculture.xml:12169
 msgid "originalism"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12166
+#: freeculture.xml:12171
 msgid ""
 "It was first anger with the five <quote>Conservatives.</quote> It would have "
 "been one thing for them to have explained why the principle of "
@@ -16778,7 +16793,7 @@ msgstr ""
 
 #.  PAGE BREAK 251 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12179
+#: freeculture.xml:12184
 msgid ""
 "Here, they had joined an opinion that never once tried to explain what the "
 "framers had meant by crafting the Progress Clause as they did; they joined "
@@ -16793,7 +16808,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12194
+#: freeculture.xml:12199
 msgid ""
 "My anger with the Conservatives quickly yielded to anger with myself.  For I "
 "had let a view of the law that I liked interfere with a view of the law as "
@@ -16801,7 +16816,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12201
+#: freeculture.xml:12206
 msgid ""
 "Most lawyers, and most law professors, have little patience for idealism "
 "about courts in general and this Supreme Court in particular.  Most have a "
@@ -16816,7 +16831,7 @@ msgstr ""
 
 #.  PAGE BREAK 252 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12212
+#: freeculture.xml:12217
 msgid ""
 "As I read back over the transcript from that argument in October, I can see "
 "a hundred places where the answers could have taken the conversation in "
@@ -16835,7 +16850,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12233
+#: freeculture.xml:12238
 msgid ""
 "Would it have been different if I had argued it differently? Would it have "
 "been different if Don Ayer had argued it? Or Charles Fried? Or Kathleen "
@@ -16843,7 +16858,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12238
+#: freeculture.xml:12243
 msgid ""
 "My friends huddled around me to insist it would not. The Court was not "
 "ready, my friends insisted. This was a loss that was destined. It would take "
@@ -16852,7 +16867,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12244
+#: freeculture.xml:12249
 msgid ""
 "Maybe, but I doubt it. These Justices have no financial interest in doing "
 "anything except the right thing. They are not lobbied. They have little "
@@ -16862,7 +16877,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12252
+#: freeculture.xml:12257
 msgid ""
 "And even if I couldn't, then that doesn't excuse what happened in "
 "January. For at the start of this case, one of America's leading "
@@ -16872,7 +16887,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12259
+#: freeculture.xml:12264
 msgid ""
 "After the argument and after the decision, Peter said to me, and publicly, "
 "that he was wrong. But if indeed that Court could not have been persuaded, "
@@ -16885,7 +16900,7 @@ msgstr ""
 
 #.  PAGE BREAK 253 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12268
+#: freeculture.xml:12273
 msgid ""
 "<emphasis role='strong'>While the reaction</emphasis> to the Sonny Bono Act "
 "itself was almost unanimously negative, the reaction to the Court's decision "
@@ -16899,7 +16914,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#: freeculture.xml:12283
+#: freeculture.xml:12288
 msgid ""
 "In effect, the Supreme Court's decision makes it likely that we are seeing "
 "the beginning of the end of public domain and the birth of copyright "
@@ -16910,12 +16925,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><indexterm><primary>
-#: freeculture.xml:12297 freeculture.xml:12302
+#: freeculture.xml:12302 freeculture.xml:12307
 msgid "Bolling, Ruben"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12292
+#: freeculture.xml:12297
 msgid ""
 "The best responses were in the cartoons. There was a gaggle of hilarious "
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
@@ -16926,19 +16941,19 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><title>
-#: freeculture.xml:12300
+#: freeculture.xml:12305
 msgid "Tom the Dancing Bug cartoon"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure>
-#: freeculture.xml:12301
+#: freeculture.xml:12306
 msgid ""
 "<graphic fileref=\"images/18.png\"></graphic> <placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12305
+#: freeculture.xml:12310
 msgid ""
 "The image that will always stick in my head is that evoked by the quote from "
 "<citetitle>The New York Times</citetitle>. That <quote>grand "
@@ -16951,12 +16966,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><title>
-#: freeculture.xml:12316
+#: freeculture.xml:12321
 msgid "CHAPTER FOURTEEN: Eldred II"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12318
+#: freeculture.xml:12323
 msgid ""
 "<emphasis role='strong'>The day</emphasis> <citetitle>Eldred</citetitle> was "
 "decided, fate would have it that I was to travel to Washington, D.C. (The "
@@ -16969,7 +16984,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12330
+#: freeculture.xml:12335
 msgid ""
 "It was an act of contrition. During the whole of the flight from San "
 "Francisco to Washington, I had heard over and over again in my head the same "
@@ -16983,7 +16998,7 @@ msgstr ""
 
 #.  PAGE BREAK 256 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12340
+#: freeculture.xml:12345
 msgid ""
 "<citetitle>The New York Times</citetitle> published the piece. In it, I "
 "proposed a simple fix: Fifty years after a work has been published, the "
@@ -16993,7 +17008,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12348
+#: freeculture.xml:12353
 msgid ""
 "We called this the Eldred Act, but that was just to give it a name.  Eric "
 "Eldred was kind enough to let his name be used once again, but as he said "
@@ -17001,7 +17016,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12353
+#: freeculture.xml:12358
 msgid ""
 "Or another two names. For depending upon your perspective, this is either "
 "the <quote>Public Domain Enhancement Act</quote> or the <quote>Copyright "
@@ -17013,12 +17028,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12361 freeculture.xml:12562
+#: freeculture.xml:12366 freeculture.xml:12567
 msgid "Forbes, Steve"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12363
+#: freeculture.xml:12368
 msgid ""
 "The reaction to this idea was amazingly strong. Steve Forbes endorsed it in "
 "an editorial. I received an avalanche of e-mail and letters expressing "
@@ -17032,7 +17047,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12375
+#: freeculture.xml:12380
 msgid ""
 "Indeed, many recognized the obvious benefit of the registration "
 "requirement.  For one of the hardest things about the current system for "
@@ -17045,22 +17060,22 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12385
+#: freeculture.xml:12390
 msgid "Berlin Act (1908)"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12386 freeculture.xml:12427
+#: freeculture.xml:12391 freeculture.xml:12432
 msgid "Berne Convention (1908)"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-#: freeculture.xml:12394
+#: freeculture.xml:12399
 msgid "German copyright law"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#: freeculture.xml:12394
+#: freeculture.xml:12399
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> Until the 1908 Berlin Act of the "
 "Berne Convention, national copyright legislation sometimes made protection "
@@ -17083,7 +17098,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12389
+#: freeculture.xml:12394
 msgid ""
 "As I described in chapter <xref xrefstyle=\"select: labelnumber\" "
 "linkend=\"property-i\"/>, formalities in copyright law were removed in 1976, "
@@ -17098,7 +17113,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12421
+#: freeculture.xml:12426
 msgid ""
 "That's great rhetoric. It sounds wonderfully romantic. But it is absurd "
 "copyright policy. It is absurd especially for authors, because a world "
@@ -17108,7 +17123,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12429
+#: freeculture.xml:12434
 msgid ""
 "The fight against formalities achieved its first real victory in Berlin in "
 "1908. International copyright lawyers amended the Berne Convention in 1908, "
@@ -17121,7 +17136,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12439
+#: freeculture.xml:12444
 msgid ""
 "These complaints were real and sensible. And the strictness of the "
 "formalities, especially in the United States, was absurd. The law should "
@@ -17132,7 +17147,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12447
+#: freeculture.xml:12452
 msgid ""
 "Even that would have been resisted, however, because registration in the "
 "nineteenth and twentieth centuries was still expensive. It was also a "
@@ -17143,7 +17158,7 @@ msgstr ""
 
 #.  PAGE BREAK 258 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12455
+#: freeculture.xml:12460
 msgid ""
 "In addition to the practical complaint of authors in 1908, there was a moral "
 "claim as well. There was no reason that creative property should be a "
@@ -17155,7 +17170,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12467
+#: freeculture.xml:12472
 msgid ""
 "This argument is correct, but its implications are misleading. For the "
 "argument in favor of formalities does not depend upon creative property "
@@ -17166,7 +17181,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12476
+#: freeculture.xml:12481
 msgid ""
 "No one thinks, for example, that land is second-class property just because "
 "you have to register a deed with a court if your sale of land is to be "
@@ -17184,7 +17199,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12492
+#: freeculture.xml:12497
 msgid ""
 "It is similarly special physics that makes formalities important in "
 "copyright law. Unlike a carpenter's table, there's nothing in nature that "
@@ -17199,7 +17214,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12507
+#: freeculture.xml:12512
 msgid ""
 "This was the understanding of the problem with the Sonny Bono Act that we "
 "tried to demonstrate to the Court. This was the part it didn't "
@@ -17212,7 +17227,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12517
+#: freeculture.xml:12522
 msgid ""
 "But now that copyrights can be just about a century long, the inability to "
 "know what is protected and what is not protected becomes a huge and obvious "
@@ -17224,7 +17239,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12526
+#: freeculture.xml:12531
 msgid ""
 "The Eldred Act was designed to respond to exactly this problem. If it is "
 "worth $1 to you, then register your work and you can get the longer "
@@ -17234,7 +17249,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12533
+#: freeculture.xml:12538
 msgid ""
 "If it isn't worth it to you to register to get the benefit of an extended "
 "term, then it shouldn't be worth it for the government to defend your "
@@ -17244,7 +17259,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12540
+#: freeculture.xml:12545
 msgid ""
 "Some worry about the burden on authors. Won't the burden of registering the "
 "work mean that the $1 is really misleading? Isn't the hassle worth more than "
@@ -17253,7 +17268,7 @@ msgstr ""
 
 #.  PAGE BREAK 260 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12546
+#: freeculture.xml:12551
 msgid ""
 "It is. The hassle is terrible. The system that exists now is awful. I "
 "completely agree that the Copyright Office has done a terrible job (no doubt "
@@ -17271,7 +17286,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12564
+#: freeculture.xml:12569
 msgid ""
 "<emphasis role='strong'>When Steve Forbes</emphasis> endorsed the idea, some "
 "in Washington began to pay attention. Many people contacted me pointing to "
@@ -17281,12 +17296,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12570
+#: freeculture.xml:12575
 msgid "Lofgren, Zoe"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12572
+#: freeculture.xml:12577
 msgid ""
 "One representative, Zoe Lofgren of California, went so far as to get the "
 "bill drafted. The draft solved any problem with international law. It "
@@ -17297,7 +17312,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12581
+#: freeculture.xml:12586
 msgid ""
 "But at this stage, the lobbyists began to intervene. Jack Valenti and the "
 "MPAA general counsel came to the congresswoman's office to give the view of "
@@ -17309,7 +17324,7 @@ msgstr ""
 
 #.  PAGE BREAK 261 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12589
+#: freeculture.xml:12594
 msgid ""
 "The MPAA argued first that Congress had <quote>firmly rejected the central "
 "concept in the proposed bill</quote>&mdash;that copyrights be renewed. That "
@@ -17331,7 +17346,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12610
+#: freeculture.xml:12615
 msgid ""
 "Finally, the MPAA argued that existing law enabled copyright owners to do "
 "this if they wanted. But the whole point is that there are thousands of "
@@ -17342,7 +17357,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12618
+#: freeculture.xml:12623
 msgid ""
 "<emphasis role='strong'>At the beginning</emphasis> of this book, I told two "
 "stories about the law reacting to changes in technology. In the one, common "
@@ -17355,7 +17370,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12628
+#: freeculture.xml:12633
 msgid ""
 "I used these two cases as a way to frame the war that this book has been "
 "about. For here, too, a new technology is forcing the law to react.  And "
@@ -17365,7 +17380,7 @@ msgstr ""
 
 #.  PAGE BREAK 262 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12637
+#: freeculture.xml:12642
 msgid ""
 "When the issue is piracy, it is right for the law to back the copyright "
 "owners. The commercial piracy that I described is wrong and harmful, and the "
@@ -17379,12 +17394,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:12647
+#: freeculture.xml:12652
 msgid "Kelly, Kevin"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12649
+#: freeculture.xml:12654
 msgid ""
 "But when the copyright owners oppose a proposal such as the Eldred Act, "
 "then, finally, there is an example that lays bare the naked selfinterest "
@@ -17397,12 +17412,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12659
+#: freeculture.xml:12664
 msgid "What does this industry really want?"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12662
+#: freeculture.xml:12667
 msgid ""
 "With very little effort, the warriors could protect their content. So the "
 "effort to block something like the Eldred Act is not really about protecting "
@@ -17415,7 +17430,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12673
+#: freeculture.xml:12678
 msgid ""
 "The opposition to the Eldred Act reveals how extreme the other side is. The "
 "most powerful and sexy and well loved of lobbies really has as its aim not "
@@ -17426,7 +17441,7 @@ msgstr ""
 
 #.  PAGE BREAK 263 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12681
+#: freeculture.xml:12686
 msgid ""
 "It is not hard to understand why the warriors take this view. It is not hard "
 "to see why it would benefit them if the competition of the public domain "
@@ -17437,7 +17452,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12693
+#: freeculture.xml:12698
 msgid ""
 "What is hard to understand is why the public takes this view. It is as if "
 "the law made airplanes trespassers. The MPAA stands with the Causbys and "
@@ -17447,7 +17462,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#: freeculture.xml:12700
+#: freeculture.xml:12705
 msgid ""
 "All this seems to follow easily from this untroubled acceptance of the "
 "<quote>property</quote> in intellectual property. Common sense supports it, "
@@ -17459,27 +17474,27 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#: freeculture.xml:12712
+#: freeculture.xml:12717
 msgid "CONCLUSION"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12713
+#: freeculture.xml:12718
 msgid "antiretroviral drugs"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12714
+#: freeculture.xml:12719
 msgid "HIV/AIDS therapies"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12715
+#: freeculture.xml:12720
 msgid "Africa, medications for HIV patients in"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12717
+#: freeculture.xml:12722
 msgid ""
 "<emphasis role='strong'>There are more</emphasis> than 35 million people "
 "with the AIDS virus worldwide. Twenty-five million of them live in "
@@ -17489,7 +17504,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12724
+#: freeculture.xml:12729
 msgid ""
 "There is no cure for AIDS, but there are drugs to slow its progression.  "
 "These antiretroviral therapies are still experimental, but they have already "
@@ -17500,7 +17515,7 @@ msgstr ""
 
 #.  f1. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12739
+#: freeculture.xml:12744
 msgid ""
 "Commission on Intellectual Property Rights, <quote>Final Report: Integrating "
 "Intellectual Property Rights and Development Policy</quote> (London, 2002), "
@@ -17511,7 +17526,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12732
+#: freeculture.xml:12737
 msgid ""
 "These drugs are expensive. When they were first introduced in the United "
 "States, they cost between $10,000 and $15,000 per person per year. Today, "
@@ -17524,7 +17539,7 @@ msgstr ""
 
 #.  PAGE BREAK 265 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12750
+#: freeculture.xml:12755
 msgid ""
 "These prices are not high because the ingredients of the drugs are "
 "expensive. These prices are high because the drugs are protected by "
@@ -17535,7 +17550,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12758
+#: freeculture.xml:12763
 msgid ""
 "There are many who are skeptical of patents, especially drug patents. I am "
 "not. Indeed, of all the areas of research that might be supported by "
@@ -17548,7 +17563,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12769
+#: freeculture.xml:12774
 msgid ""
 "But it is one thing to support patents, even drug patents. It is another "
 "thing to determine how best to deal with a crisis. And as African leaders "
@@ -17558,12 +17573,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12787 freeculture.xml:13242
+#: freeculture.xml:12792 freeculture.xml:13247
 msgid "Braithwaite, John"
 msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12785
+#: freeculture.xml:12790
 msgid ""
 "See Peter Drahos with John Braithwaite, <citetitle>Information Feudalism: "
 "Who Owns the Knowledge Economy?</citetitle> (New York: The New Press, 2003), "
@@ -17572,7 +17587,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12776
+#: freeculture.xml:12781
 msgid ""
 "In 1997, South Africa tried one tack. It passed a law to allow the "
 "importation of patented medicines that had been produced or sold in another "
@@ -17585,7 +17600,7 @@ msgstr ""
 
 #.  f3. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12798
+#: freeculture.xml:12803
 msgid ""
 "International Intellectual Property Institute (IIPI), <citetitle>Patent "
 "Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, a "
@@ -17600,7 +17615,7 @@ msgstr ""
 
 #.  f4. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12825
+#: freeculture.xml:12830
 msgid ""
 "International Intellectual Property Institute (IIPI), <citetitle>Patent "
 "Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, a "
@@ -17609,7 +17624,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12792
+#: freeculture.xml:12797
 msgid ""
 "However, the United States government opposed the bill. Indeed, more than "
 "opposed. As the International Intellectual Property Association "
@@ -17632,7 +17647,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12831
+#: freeculture.xml:12836
 msgid ""
 "We should place the intervention by the United States in context.  No doubt "
 "patents are not the most important reason that Africans don't have access to "
@@ -17644,7 +17659,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12841
+#: freeculture.xml:12846
 msgid ""
 "By stopping the flow of HIV treatment into Africa, the United States "
 "government was not saving drugs for United States citizens.  This is not "
@@ -17655,7 +17670,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12849
+#: freeculture.xml:12854
 msgid ""
 "Nor was the intervention by the United States going to protect the profits "
 "of United States drug companies&mdash;at least, not substantially. It was "
@@ -17669,7 +17684,7 @@ msgstr ""
 #.  f5. 
 #.  PAGE BREAK 333 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12864
+#: freeculture.xml:12869
 msgid ""
 "See Sabin Russell, <quote>New Crusade to Lower AIDS Drug Costs: Africa's "
 "Needs at Odds with Firms' Profit Motive,</quote> <citetitle>San Francisco "
@@ -17687,7 +17702,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12858
+#: freeculture.xml:12863
 msgid ""
 "Instead, the argument in favor of restricting this flow of information, "
 "which was needed to save the lives of millions, was an argument about the "
@@ -17699,7 +17714,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12885
+#: freeculture.xml:12890
 msgid ""
 "Now just step back for a moment. There will be a time thirty years from now "
 "when our children look back at us and ask, how could we have let this "
@@ -17712,7 +17727,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12895
+#: freeculture.xml:12900
 msgid ""
 "Some blame the drug companies. I don't. They are corporations.  Their "
 "managers are ordered by law to make money for the corporation.  They push a "
@@ -17723,7 +17738,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12903
+#: freeculture.xml:12908
 msgid ""
 "The corruption is our own politicians' failure of integrity. For the drug "
 "companies would love&mdash;they say, and I believe them&mdash;to sell their "
@@ -17735,7 +17750,7 @@ msgstr ""
 
 #.  PAGE BREAK 268 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12911
+#: freeculture.xml:12916
 msgid ""
 "A different problem, however, could not be overcome. This is the fear of the "
 "grandstanding politician who would call the presidents of the drug companies "
@@ -17752,7 +17767,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12926
+#: freeculture.xml:12931
 msgid ""
 "So when the common sense of your child confronts you, what will you say? "
 "When the common sense of a generation finally revolts against what we have "
@@ -17760,7 +17775,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12932
+#: freeculture.xml:12937
 msgid ""
 "A sensible patent policy could endorse and strongly support the patent "
 "system without having to reach everyone everywhere in exactly the same "
@@ -17774,7 +17789,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12944
+#: freeculture.xml:12949
 msgid ""
 "But we as a culture have lost this sense of balance. We have lost the "
 "critical eye that helps us see the difference between truth and extremism.  "
@@ -17786,7 +17801,7 @@ msgstr ""
 
 #.  PAGE BREAK 269 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12955
+#: freeculture.xml:12960
 msgid ""
 "<emphasis role='strong'>A simple idea</emphasis> blinds us, and under the "
 "cover of darkness, much happens that most of us would reject if any of us "
@@ -17801,7 +17816,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12969
+#: freeculture.xml:12974
 msgid ""
 "So far, common sense sleeps. There is no revolt. Common sense does not yet "
 "see what there could be to revolt about. The extremism that now dominates "
@@ -17818,38 +17833,38 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#: freeculture.xml:12982
+#: freeculture.xml:12987
 msgid "public projects in"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12983
+#: freeculture.xml:12988
 msgid "single nucleotied polymorphisms (SNPs)"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12984
+#: freeculture.xml:12989
 msgid "Wellcome Trust"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12985
+#: freeculture.xml:12990
 msgid "World Wide Web"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12986
+#: freeculture.xml:12991
 msgid "Global Positioning System"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:12988
+#: freeculture.xml:12993
 msgid "biomedical research"
 msgstr ""
 
 #.  f6. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:12993
+#: freeculture.xml:12998
 msgid ""
 "Jonathan Krim, <quote>The Quiet War over Open-Source,</quote> "
 "<citetitle>Washington Post</citetitle>, August 2003, E1, available at <ulink "
@@ -17864,22 +17879,22 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13021 freeculture.xml:13712
+#: freeculture.xml:13026 freeculture.xml:13717
 msgid "academic journals"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#: freeculture.xml:13022 freeculture.xml:13089 freeculture.xml:13638
+#: freeculture.xml:13027 freeculture.xml:13094 freeculture.xml:13643
 msgid "IBM"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#: freeculture.xml:13023 freeculture.xml:13775
+#: freeculture.xml:13028 freeculture.xml:13780
 msgid "PLoS (Public Library of Science)"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:12990
+#: freeculture.xml:12995
 msgid ""
 "<emphasis role='strong'>In August 2003</emphasis>, a fight broke out in the "
 "United States about a decision by the World Intellectual Property "
@@ -17905,7 +17920,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13027
+#: freeculture.xml:13032
 msgid ""
 "The aim of the meeting was to consider this wide range of projects from one "
 "common perspective: that none of these projects relied upon intellectual "
@@ -17916,14 +17931,14 @@ msgstr ""
 
 #.  f7. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13035
+#: freeculture.xml:13040
 msgid ""
 "I should disclose that I was one of the people who asked WIPO for the "
 "meeting."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13034
+#: freeculture.xml:13039
 msgid ""
 "From the perspective of this book, then, the conference was "
 "ideal.<placeholder type=\"footnote\" id=\"0\"/> The projects within its "
@@ -17935,7 +17950,7 @@ msgstr ""
 
 #.  PAGE BREAK 271 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13045
+#: freeculture.xml:13050
 msgid ""
 "Indeed, I was once publicly scolded for not recognizing this fact about "
 "WIPO. In February 2003, I delivered a keynote address to a preparatory "
@@ -17959,7 +17974,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13069
+#: freeculture.xml:13074
 msgid ""
 "So whether or not WSIS can discuss balance in intellectual property, I had "
 "thought it was taken for granted that WIPO could and should. And thus the "
@@ -17968,12 +17983,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13074 freeculture.xml:14758
+#: freeculture.xml:13079 freeculture.xml:14763
 msgid "Apple Corporation"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13076
+#: freeculture.xml:13081
 msgid ""
 "But there is one project within that list that is highly controversial, at "
 "least among lobbyists. That project is <quote>open source and free "
@@ -17987,13 +18002,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13086
+#: freeculture.xml:13091
 msgid "<quote>copyleft</quote> licenses"
 msgstr ""
 
 #.  f8. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13102
+#: freeculture.xml:13107
 msgid ""
 "Microsoft's position about free and open source software is more "
 "sophisticated.  As it has repeatedly asserted, it has no problem with "
@@ -18014,7 +18029,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13091
+#: freeculture.xml:13096
 msgid ""
 "I don't mean to enter that debate here. It is important only to make clear "
 "that the distinction is not between commercial and noncommercial "
@@ -18029,18 +18044,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13119
+#: freeculture.xml:13124
 msgid "General Public License (GPL)"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13120
+#: freeculture.xml:13125
 msgid "GPL (General Public License)"
 msgstr ""
 
 #.  PAGE BREAK 272 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13122
+#: freeculture.xml:13127
 msgid ""
 "More important for our purposes, to support <quote>open source and free "
 "software</quote> is not to oppose copyright. <quote>Open source and free "
@@ -18058,25 +18073,25 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13139
+#: freeculture.xml:13144
 msgid "Krim, Jonathan"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#: freeculture.xml:13140
+#: freeculture.xml:13145
 msgid "WIPO meeting opposed by"
 msgstr ""
 
 #.  f9. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13150
+#: freeculture.xml:13155
 msgid ""
 "Krim, <quote>The Quiet War over Open-Source,</quote> available at <ulink "
 "url=\"http://free-culture.cc/notes/\">link #64</ulink>."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13142
+#: freeculture.xml:13147
 msgid ""
 "It is therefore understandable that as a proprietary software developer, "
 "Microsoft would oppose this WIPO meeting, and understandable that it would "
@@ -18089,7 +18104,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13156
+#: freeculture.xml:13161
 msgid ""
 "I don't blame Microsoft for doing what it can to advance its own interests, "
 "consistent with the law. And lobbying governments is plainly consistent with "
@@ -18099,12 +18114,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13163 freeculture.xml:13216
+#: freeculture.xml:13168 freeculture.xml:13221
 msgid "Boland, Lois"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13165
+#: freeculture.xml:13170
 msgid ""
 "What was surprising was the United States government's reason for opposing "
 "the meeting. Again, as reported by Krim, Lois Boland, acting director of "
@@ -18116,12 +18131,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13175
+#: freeculture.xml:13180
 msgid "These statements are astonishing on a number of levels."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13179
+#: freeculture.xml:13184
 msgid ""
 "First, they are just flat wrong. As I described, most open source and free "
 "software relies fundamentally upon the intellectual property right called "
@@ -18134,12 +18149,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13188
+#: freeculture.xml:13193
 msgid "generic drugs"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13190
+#: freeculture.xml:13195
 msgid ""
 "Second, who ever said that WIPO's exclusive aim was to "
 "<quote>promote</quote> intellectual property maximally? As I had been "
@@ -18155,7 +18170,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13204
+#: freeculture.xml:13209
 msgid ""
 "Third, even if one believed that the purpose of WIPO was to maximize "
 "intellectual property rights, in our tradition, intellectual property rights "
@@ -18171,7 +18186,7 @@ msgstr ""
 
 #.  PAGE BREAK 274 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13218
+#: freeculture.xml:13223
 msgid ""
 "When Ms. Boland says that there is something wrong with a meeting "
 "<quote>which has as its purpose to disclaim or waive such rights,</quote> "
@@ -18185,7 +18200,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13230
+#: freeculture.xml:13235
 msgid ""
 "There is a history of just such a property system that is well known in the "
 "Anglo-American tradition. It is called <quote>feudalism.</quote> Under "
@@ -18199,14 +18214,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13247
+#: freeculture.xml:13252
 msgid ""
 "See Drahos with Braithwaite, <citetitle>Information Feudalism</citetitle>, "
 "210&ndash;20.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13244
+#: freeculture.xml:13249
 msgid ""
 "As Peter Drahos and John Braithwaite relate, this is precisely the choice we "
 "are now making about intellectual property.<placeholder type=\"footnote\" "
@@ -18217,7 +18232,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13256
+#: freeculture.xml:13261
 msgid ""
 "When this battle broke, I blogged it. A spirited debate within the comment "
 "section ensued. Ms. Boland had a number of supporters who tried to show why "
@@ -18227,7 +18242,7 @@ msgstr ""
 
 #.  PAGE BREAK 275 
 #. type: Content of: <book><chapter><blockquote><para>
-#: freeculture.xml:13263
+#: freeculture.xml:13268
 msgid ""
 "George, you misunderstand Lessig: He's only talking about the world as it "
 "should be (<quote>the goal of WIPO, and the goal of any government, should "
@@ -18240,7 +18255,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13275
+#: freeculture.xml:13280
 msgid ""
 "I missed the irony the first time I read it. I read it quickly and thought "
 "the poster was supporting the idea that seeking balance was what our "
@@ -18253,7 +18268,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13286
+#: freeculture.xml:13291
 msgid ""
 "Obviously, however, the poster was not supporting that idea.  Instead, the "
 "poster was ridiculing the very idea that in the real world, the "
@@ -18265,7 +18280,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13294
+#: freeculture.xml:13299
 msgid ""
 "I understand criticism of academic utopianism. I think utopianism is silly, "
 "too, and I'd be the first to poke fun at the absurdly unrealistic ideals of "
@@ -18273,7 +18288,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13300
+#: freeculture.xml:13305
 msgid ""
 "But when it has become silly to suppose that the role of our government "
 "should be to <quote>seek balance,</quote> then count me with the silly, for "
@@ -18288,7 +18303,7 @@ msgstr ""
 
 #.  PAGE BREAK 276 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13311
+#: freeculture.xml:13316
 msgid ""
 "It might be crazy to expect a high government official to speak the "
 "truth. It might be crazy to believe that government policy will be something "
@@ -18298,17 +18313,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13319
+#: freeculture.xml:13324
 msgid "If this is crazy, then let there be more crazies. Soon."
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13323
+#: freeculture.xml:13328
 msgid "Turner, Ted"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13325
+#: freeculture.xml:13330
 msgid ""
 "<emphasis role='strong'>There are moments</emphasis> of hope in this "
 "struggle. And moments that surprise. When the FCC was considering relaxing "
@@ -18322,7 +18337,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13336
+#: freeculture.xml:13341
 msgid ""
 "This activism did not stop the FCC, but soon after, a broad coalition in the "
 "Senate voted to reverse the FCC decision. The hostile hearings leading up to "
@@ -18332,7 +18347,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13344
+#: freeculture.xml:13349
 msgid ""
 "But even this movement misses an important piece of the puzzle.  Largeness "
 "as such is not bad. Freedom is not threatened just because some become very "
@@ -18342,7 +18357,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13351
+#: freeculture.xml:13356
 msgid ""
 "The danger in media concentration comes not from the concentration, but "
 "instead from the feudalism that this concentration, tied to the change in "
@@ -18354,7 +18369,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13361
+#: freeculture.xml:13366
 msgid ""
 "It is therefore significant that so many would rally to demand competition "
 "and increased diversity. Still, if the rally is understood as being about "
@@ -18364,7 +18379,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13368
+#: freeculture.xml:13373
 msgid ""
 "It would be something new, and something very important, if an equal number "
 "could be rallied to fight the increasing extremism built within the idea of "
@@ -18375,20 +18390,20 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13376
+#: freeculture.xml:13381
 msgid ""
 "If we were Achilles, this would be our heel. This would be the place of our "
 "tragedy."
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13379
+#: freeculture.xml:13384
 msgid "Dylan, Bob"
 msgstr ""
 
 #.  f11. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13385
+#: freeculture.xml:13390
 msgid ""
 "John Borland, <quote>RIAA Sues 261 File Swappers,</quote> CNET News.com, "
 "September 2003, available at <ulink "
@@ -18407,7 +18422,7 @@ msgstr ""
 
 #.  f12. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13403
+#: freeculture.xml:13408
 msgid ""
 "Jon Wiederhorn, <quote>Eminem Gets Sued &hellip; by a Little Old "
 "Lady,</quote> mtv.com, 17 September 2003, available at <ulink "
@@ -18417,7 +18432,7 @@ msgstr ""
 #.  f13. 
 #.  PAGE BREAK 334 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13410
+#: freeculture.xml:13415
 msgid ""
 "Kenji Hall, Associated Press, <quote>Japanese Book May Be Inspiration for "
 "Dylan Songs,</quote> Kansascity.com, 9 July 2003, available at <ulink "
@@ -18425,7 +18440,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13381
+#: freeculture.xml:13386
 msgid ""
 "<emphasis role='strong'>As I write</emphasis> these final words, the news is "
 "filled with stories about the RIAA lawsuits against almost three hundred "
@@ -18445,38 +18460,38 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13427
+#: freeculture.xml:13432
 msgid "BBC"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13428
+#: freeculture.xml:13433
 msgid "Brazil, free culture in"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13429 freeculture.xml:13791
+#: freeculture.xml:13434 freeculture.xml:13796
 msgid "Creative Commons"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13430
+#: freeculture.xml:13435
 msgid "Gil, Gilberto"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#: freeculture.xml:13431
+#: freeculture.xml:13436
 msgid "United Kingdom"
 msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#: freeculture.xml:13431
+#: freeculture.xml:13436
 msgid "public creative archive in"
 msgstr ""
 
 #.  f14. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13436
+#: freeculture.xml:13441
 msgid ""
 "<quote>BBC Plans to Open Up Its Archive to the Public,</quote> BBC press "
 "release, 24 August 2003, available at <ulink "
@@ -18485,7 +18500,7 @@ msgstr ""
 
 #.  f15. 
 #. type: Content of: <book><chapter><para><footnote><para>
-#: freeculture.xml:13445
+#: freeculture.xml:13450
 msgid ""
 "<quote>Creative Commons and Brazil,</quote> Creative Commons Weblog, 6 "
 "August 2003, available at <ulink url=\"http://free-culture.cc/notes/\">link "
@@ -18494,7 +18509,7 @@ msgstr ""
 
 #.  PAGE BREAK 278 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13433
+#: freeculture.xml:13438
 msgid ""
 "Yet on the other side of the Atlantic, the BBC has just announced that it "
 "will build a <quote>Creative Archive,</quote> from which British citizens "
@@ -18513,20 +18528,20 @@ msgstr ""
 
 #.  PAGE BREAK 279 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13459
+#: freeculture.xml:13464
 msgid ""
 "Common sense must revolt. It must act to free culture. Soon, if this "
 "potential is ever to be realized."
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#: freeculture.xml:13467
+#: freeculture.xml:13472
 msgid "AFTERWORD"
 msgstr ""
 
 #.  PAGE BREAK 280 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13471
+#: freeculture.xml:13476
 msgid ""
 "<emphasis role='strong'>At least some</emphasis> who have read this far will "
 "agree with me that something must be done to change where we are "
@@ -18534,7 +18549,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13476
+#: freeculture.xml:13481
 msgid ""
 "I divide this map into two parts: that which anyone can do now, and that "
 "which requires the help of lawmakers. If there is one lesson that we can "
@@ -18543,7 +18558,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13482
+#: freeculture.xml:13487
 msgid ""
 "That means this movement must begin in the streets. It must recruit a "
 "significant number of parents, teachers, librarians, creators, authors, "
@@ -18552,7 +18567,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:13489
+#: freeculture.xml:13494
 msgid ""
 "Once this movement has its effect in the streets, it has some hope of having "
 "an effect in Washington. We are still a democracy. What people think "
@@ -18562,12 +18577,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><title>
-#: freeculture.xml:13498
+#: freeculture.xml:13503
 msgid "US, NOW"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13500
+#: freeculture.xml:13505
 msgid ""
 "<emphasis role='strong'>Common sense</emphasis> is with the copyright "
 "warriors because the debate so far has been framed at the extremes&mdash;as "
@@ -18577,7 +18592,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13507
+#: freeculture.xml:13512
 msgid ""
 "The mistake here is the error of the excluded middle. There are extremes in "
 "this debate, but the extremes are not all that there is. There are those who "
@@ -18591,7 +18606,7 @@ msgstr ""
 
 #.  PAGE BREAK 282 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13517
+#: freeculture.xml:13522
 msgid ""
 "When the Internet was first born, its initial architecture effectively "
 "tilted in the <quote>no rights reserved</quote> direction. Content could be "
@@ -18603,7 +18618,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13529
+#: freeculture.xml:13534
 msgid ""
 "This initial character produced a reaction (opposite, but not quite equal) "
 "by copyright owners. That reaction has been the topic of this book. Through "
@@ -18620,7 +18635,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13543
+#: freeculture.xml:13548
 msgid ""
 "What's needed is a way to say something in the middle&mdash;neither "
 "<quote>all rights reserved</quote> nor <quote>no rights reserved</quote> but "
@@ -18631,12 +18646,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:13552
+#: freeculture.xml:13557
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13555
+#: freeculture.xml:13560
 msgid ""
 "If you step back from the battle I've been describing here, you will "
 "recognize this problem from other contexts. Think about privacy. Before the "
@@ -18648,12 +18663,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13565
+#: freeculture.xml:13570
 msgid "What made it assured?"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13569
+#: freeculture.xml:13574
 msgid ""
 "Well, if we think in terms of the modalities I described in chapter <xref "
 "xrefstyle=\"select: labelnumber\" linkend=\"property-i\"/>, your privacy was "
@@ -18671,17 +18686,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13584
+#: freeculture.xml:13589
 msgid "Amazon"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13585
+#: freeculture.xml:13590
 msgid "cookies, Internet"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13587
+#: freeculture.xml:13592
 msgid ""
 "Enter the Internet, where the cost of tracking browsing in particular has "
 "become quite tiny. If you're a customer at Amazon, then as you browse the "
@@ -18694,7 +18709,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13597
+#: freeculture.xml:13602
 msgid ""
 "Amazon, of course, is not the problem. But we might begin to worry about "
 "libraries. If you're one of those crazy lefties who thinks that people "
@@ -18707,7 +18722,7 @@ msgstr ""
 
 #.  f1. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:13614
+#: freeculture.xml:13619
 msgid ""
 "See, for example, Marc Rotenberg, <quote>Fair Information Practices and the "
 "Architecture of Privacy (What Larry Doesn't Get),</quote> "
@@ -18722,7 +18737,7 @@ msgstr ""
 
 #.  PAGE BREAK 284 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13608
+#: freeculture.xml:13613
 msgid ""
 "It is this reality that explains the push of many to define "
 "<quote>privacy</quote> on the Internet. It is the recognition that "
@@ -18736,7 +18751,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13632
+#: freeculture.xml:13637
 msgid ""
 "A similar story could be told about the birth of the free software "
 "movement. When computers with software were first made available "
@@ -18748,12 +18763,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13640
+#: freeculture.xml:13645
 msgid "Stallman, Richard"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13642
+#: freeculture.xml:13647
 msgid ""
 "That was the world Richard Stallman was born into, and while he was a "
 "researcher at MIT, he grew to love the community that developed when one was "
@@ -18763,7 +18778,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13650
+#: freeculture.xml:13655
 msgid ""
 "In an academic setting, at least, that's not a terribly radical idea. In a "
 "math department, anyone would be free to tinker with a proof that someone "
@@ -18777,7 +18792,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13662
+#: freeculture.xml:13667
 msgid ""
 "No one answered that question. Instead, the architecture of revenue for "
 "computing changed. As it became possible to import programs from one system "
@@ -18790,7 +18805,7 @@ msgstr ""
 
 #.  PAGE BREAK 285 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13671
+#: freeculture.xml:13676
 msgid ""
 "Thus, the practice of proprietary code began to spread, and by the early "
 "1980s, Stallman found himself surrounded by proprietary code.  The world of "
@@ -18800,12 +18815,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13679
+#: freeculture.xml:13684
 msgid "Torvalds, Linus"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13681
+#: freeculture.xml:13686
 msgid ""
 "Therefore, in 1984, Stallman began a project to build a free operating "
 "system, so that at least a strain of free software would survive. That was "
@@ -18816,7 +18831,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13689
+#: freeculture.xml:13694
 msgid ""
 "Stallman's technique was to use copyright law to build a world of software "
 "that must be kept free. Software licensed under the Free Software "
@@ -18829,7 +18844,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13700
+#: freeculture.xml:13705
 msgid ""
 "Stallman was thus doing for software what privacy advocates now do for "
 "privacy. He was seeking a way to rebuild a kind of freedom that was taken "
@@ -18840,7 +18855,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13708
+#: freeculture.xml:13713
 msgid ""
 "Finally, consider a very recent example that more directly resonates with "
 "the story of this book. This is the shift in the way academic and scientific "
@@ -18849,7 +18864,7 @@ msgstr ""
 
 #.  PAGE BREAK 286 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13714
+#: freeculture.xml:13719
 msgid ""
 "As digital technologies develop, it is becoming obvious to many that "
 "printing thousands of copies of journals every month and sending them to "
@@ -18866,7 +18881,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13730
+#: freeculture.xml:13735
 msgid ""
 "There's nothing wrong in general with this, and indeed, the ability to "
 "charge for access to even public domain materials is a good incentive for "
@@ -18878,7 +18893,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13739
+#: freeculture.xml:13744
 msgid ""
 "But what if the only way to get access to social and scientific data was "
 "through proprietary services? What if no one had the ability to browse this "
@@ -18886,7 +18901,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13744
+#: freeculture.xml:13749
 msgid ""
 "As many are beginning to notice, this is increasingly the reality with "
 "scientific journals. When these journals were distributed in paper form, "
@@ -18901,7 +18916,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13756
+#: freeculture.xml:13761
 msgid ""
 "As journals become electronic, however, the publishers are demanding that "
 "libraries not give the general public access to the journals. This means "
@@ -18911,7 +18926,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13764
+#: freeculture.xml:13769
 msgid ""
 "This shrinking freedom has led many to take affirmative steps to restore the "
 "freedom that has been lost. The Public Library of Science (PLoS), for "
@@ -18926,7 +18941,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13778
+#: freeculture.xml:13783
 msgid ""
 "This is one of many such efforts to restore a freedom taken for granted "
 "before, but now threatened by changing technology and markets.  There's no "
@@ -18937,24 +18952,24 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:13790
+#: freeculture.xml:13795
 msgid "Rebuilding Free Culture: One Idea"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13793
+#: freeculture.xml:13798
 msgid ""
 "The same strategy could be applied to culture, as a response to the "
 "increasing control effected through law and technology."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13796
+#: freeculture.xml:13801
 msgid "Stanford University"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13798
+#: freeculture.xml:13803
 msgid ""
 "Enter the Creative Commons. The Creative Commons is a nonprofit corporation "
 "established in Massachusetts, but with its home at Stanford University. Its "
@@ -18968,7 +18983,7 @@ msgstr ""
 
 #.  PAGE BREAK 288 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13809
+#: freeculture.xml:13814
 msgid ""
 "<emphasis>Simple</emphasis>&mdash;which means without a middleman, or "
 "without a lawyer.  By developing a free set of licenses that people can "
@@ -18987,7 +19002,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13827
+#: freeculture.xml:13832
 msgid ""
 "These freedoms are beyond the freedoms promised by fair use. Their precise "
 "contours depend upon the choices the creator makes. The creator can choose a "
@@ -19001,7 +19016,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13838
+#: freeculture.xml:13843
 msgid ""
 "These choices thus establish a range of freedoms beyond the default of "
 "copyright law. They also enable freedoms that go beyond traditional fair "
@@ -19014,13 +19029,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13848
+#: freeculture.xml:13853
 msgid "Garlick, Mia"
 msgstr ""
 
 #.  PAGE BREAK 289 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13850
+#: freeculture.xml:13855
 msgid ""
 "This is just one project among many within the Creative Commons.  And of "
 "course, Creative Commons is not the only organization pursuing such "
@@ -19034,7 +19049,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13862
+#: freeculture.xml:13867
 msgid ""
 "The aim is not to fight the <quote>All Rights Reserved</quote> sorts. The "
 "aim is to complement them. The problems that the law creates for us as a "
@@ -19049,7 +19064,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13875
+#: freeculture.xml:13880
 msgid ""
 "Why would creators participate in giving up total control? Some participate "
 "to better spread their content. Cory Doctorow, for example, is a science "
@@ -19059,7 +19074,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13882
+#: freeculture.xml:13887
 msgid ""
 "Why would a publisher ever agree to this? I suspect his publisher reasoned "
 "like this: There are two groups of people out there: (1)  those who will buy "
@@ -19073,7 +19088,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13894
+#: freeculture.xml:13899
 msgid ""
 "Indeed, the experience of his publisher clearly supports that conclusion.  "
 "The book's first printing was exhausted months before the publisher had "
@@ -19081,18 +19096,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13899
+#: freeculture.xml:13904
 msgid "Free for All (Wayner)"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13900
+#: freeculture.xml:13905
 msgid "Wayner, Peter"
 msgstr ""
 
 #.  PAGE BREAK 290 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13902
+#: freeculture.xml:13907
 msgid ""
 "The idea that free content might increase the value of nonfree content was "
 "confirmed by the experience of another author. Peter Wayner, who wrote a "
@@ -19104,23 +19119,23 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13913
+#: freeculture.xml:13918
 msgid "Public Enemy"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13914
+#: freeculture.xml:13919
 msgid "rap music"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:13915
+#: freeculture.xml:13920
 msgid "Leaphart, Walter"
 msgstr ""
 
 #.  f2. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:13932
+#: freeculture.xml:13937
 msgid ""
 "<citetitle>Willful Infringement: A Report from the Front Lines of the Real "
 "Culture Wars</citetitle> (2003), produced by Jed Horovitz, directed by Greg "
@@ -19129,7 +19144,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13917
+#: freeculture.xml:13922
 msgid ""
 "These are examples of using the Commons to better spread proprietary "
 "content. I believe that is a wonderful and common use of the Commons. There "
@@ -19149,7 +19164,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13941
+#: freeculture.xml:13946
 msgid ""
 "Finally, there are many who mark their content with a Creative Commons "
 "license just because they want to express to others the importance of "
@@ -19164,7 +19179,7 @@ msgstr ""
 
 #.  PAGE BREAK 291 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13953
+#: freeculture.xml:13958
 msgid ""
 "In the first six months of the Creative Commons experiment, over 1 million "
 "objects were licensed with these free-culture licenses. The next step is "
@@ -19175,7 +19190,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13963
+#: freeculture.xml:13968
 msgid ""
 "These are first steps to rebuilding a public domain. They are not mere "
 "arguments; they are action. Building a public domain is the first step to "
@@ -19186,7 +19201,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:13971
+#: freeculture.xml:13976
 msgid ""
 "Creative Commons is just one example of voluntary efforts by individuals and "
 "creators to change the mix of rights that now govern the creative field. The "
@@ -19197,12 +19212,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><title>
-#: freeculture.xml:13985
+#: freeculture.xml:13990
 msgid "THEM, SOON"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13987
+#: freeculture.xml:13992
 msgid ""
 "<emphasis role='strong'>We will</emphasis> not reclaim a free culture by "
 "individual action alone. It will also take important reforms of laws. We "
@@ -19212,7 +19227,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><para>
-#: freeculture.xml:13994
+#: freeculture.xml:13999
 msgid ""
 "In this chapter, I outline five kinds of changes: four that are general, and "
 "one that's specific to the most heated battle of the day, music. Each is a "
@@ -19221,12 +19236,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:14001
+#: freeculture.xml:14006
 msgid "1. More Formalities"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14003
+#: freeculture.xml:14008
 msgid ""
 "If you buy a house, you have to record the sale in a deed. If you buy land "
 "upon which to build a house, you have to record the purchase in a deed.  If "
@@ -19236,14 +19251,14 @@ msgstr ""
 
 #.  PAGE BREAK 293 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14010
+#: freeculture.xml:14015
 msgid ""
 "These are all formalities associated with property. They are requirements "
 "that we all must bear if we want our property to be protected."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14015
+#: freeculture.xml:14020
 msgid ""
 "In contrast, under current copyright law, you automatically get a copyright, "
 "regardless of whether you comply with any formality. You don't have to "
@@ -19252,12 +19267,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14021
+#: freeculture.xml:14026
 msgid "Why?"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14024
+#: freeculture.xml:14029
 msgid ""
 "As I suggested in chapter <xref xrefstyle=\"select: labelnumber\" "
 "linkend=\"property-i\"/>, the motivation to abolish formalities was a good "
@@ -19268,7 +19283,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14033
+#: freeculture.xml:14038
 msgid ""
 "But the Internet changes all this. Formalities today need not be a "
 "burden. Rather, the world without formalities is the world that burdens "
@@ -19283,7 +19298,7 @@ msgstr ""
 
 #.  f1. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14047
+#: freeculture.xml:14052
 msgid ""
 "The proposal I am advancing here would apply to American works only.  "
 "Obviously, I believe it would be beneficial for the same idea to be adopted "
@@ -19291,7 +19306,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14045
+#: freeculture.xml:14050
 msgid ""
 "The law should therefore change this requirement<placeholder "
 "type=\"footnote\" id=\"0\"/>&mdash;but it should not change it by going back "
@@ -19301,7 +19316,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14055
+#: freeculture.xml:14060
 msgid ""
 "The important formalities are three: marking copyrighted work, registering "
 "copyrights, and renewing the claim to copyright. Traditionally, the first of "
@@ -19312,12 +19327,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><title>
-#: freeculture.xml:14067
+#: freeculture.xml:14072
 msgid "REGISTRATION AND RENEWAL"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14069
+#: freeculture.xml:14074
 msgid ""
 "Under the old system, a copyright owner had to file a registration with the "
 "Copyright Office to register or renew a copyright. When filing that "
@@ -19332,7 +19347,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14082
+#: freeculture.xml:14087
 msgid ""
 "Yet it is always astonishing to me that we, who come from a tradition of "
 "extraordinary innovation in governmental design, can no longer think "
@@ -19344,7 +19359,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14091
+#: freeculture.xml:14096
 msgid ""
 "In the context of registration, one obvious model is the Internet.  There "
 "are at least 32 million Web sites registered around the world.  Domain name "
@@ -19357,7 +19372,7 @@ msgstr ""
 
 #.  PAGE BREAK 295 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14101
+#: freeculture.xml:14106
 msgid ""
 "We should adopt a similar model for the registration and renewal of "
 "copyrights. The Copyright Office may well serve as the central registry, but "
@@ -19371,12 +19386,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><title>
-#: freeculture.xml:14116
+#: freeculture.xml:14121
 msgid "MARKING"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14118
+#: freeculture.xml:14123
 msgid ""
 "It used to be that the failure to include a copyright notice on a creative "
 "work meant that the copyright was forfeited. That was a harsh punishment for "
@@ -19388,7 +19403,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14128
+#: freeculture.xml:14133
 msgid ""
 "The aim of marking is to signal to the public that this work is copyrighted "
 "and that the author wants to enforce his rights. The mark also makes it easy "
@@ -19396,7 +19411,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14134
+#: freeculture.xml:14139
 msgid ""
 "One of the problems the copyright system confronted early on was that "
 "different copyrighted works had to be differently marked. It wasn't clear "
@@ -19410,7 +19425,7 @@ msgstr ""
 
 #.  f2. 
 #. type: Content of: <book><chapter><section><section><section><para><footnote><para>
-#: freeculture.xml:14151
+#: freeculture.xml:14156
 msgid ""
 "There would be a complication with derivative works that I have not solved "
 "here. In my view, the law of derivatives creates a more complicated system "
@@ -19419,7 +19434,7 @@ msgstr ""
 
 #.  PAGE BREAK 296 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14144
+#: freeculture.xml:14149
 msgid ""
 "Let's start with the last point. If a copyright owner allows his work to be "
 "published without a copyright notice, the consequence of that failure need "
@@ -19435,7 +19450,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14164
+#: freeculture.xml:14169
 msgid ""
 "That in turn raises the question about how work should best be marked. Here "
 "again, the system needs to adjust as the technologies evolve. The best way "
@@ -19445,12 +19460,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
-#: freeculture.xml:14170
+#: freeculture.xml:14175
 msgid "copyright marking of"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14172
+#: freeculture.xml:14177
 msgid ""
 "For example, if a recording industry association devises a method for "
 "marking CDs, it would propose that to the Copyright Office. The Copyright "
@@ -19464,7 +19479,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14184
+#: freeculture.xml:14189
 msgid ""
 "Finally, marking content clearly would simplify registration requirements.  "
 "If photographs were marked by author and year, there would be little reason "
@@ -19475,7 +19490,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14192
+#: freeculture.xml:14197
 msgid ""
 "The objective of formalities is to make things clear. The existing system "
 "does nothing to make things clear. Indeed, it seems designed to make things "
@@ -19483,7 +19498,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#: freeculture.xml:14197
+#: freeculture.xml:14202
 msgid ""
 "If formalities such as registration were reinstated, one of the most "
 "difficult aspects of relying upon the public domain would be removed.  It "
@@ -19494,12 +19509,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:14209
+#: freeculture.xml:14214
 msgid "2. Shorter Terms"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14211
+#: freeculture.xml:14216
 msgid ""
 "The term of copyright has gone from fourteen years to ninety-five years for "
 "corporate authors, and life of the author plus seventy years for natural "
@@ -19508,7 +19523,7 @@ msgstr ""
 
 #.  f3. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14224
+#: freeculture.xml:14229
 msgid ""
 "<quote>A Radical Rethink,</quote> <citetitle>Economist</citetitle>, 366:8308 "
 "(25 January 2003): 15, available at <ulink "
@@ -19516,7 +19531,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14216
+#: freeculture.xml:14221
 msgid ""
 "In <citetitle>The Future of Ideas</citetitle>, I proposed a "
 "seventy-five-year term, granted in five-year increments with a requirement "
@@ -19529,7 +19544,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14231
+#: freeculture.xml:14236
 msgid ""
 "I agree with those who believe that we need a radical change in copyright's "
 "term. But whether fourteen years or seventy-five, there are four principles "
@@ -19538,7 +19553,7 @@ msgstr ""
 
 #.  (1) 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14239
+#: freeculture.xml:14244
 msgid ""
 "<emphasis>Keep it short:</emphasis> The term should be as long as necessary "
 "to give incentives to create, but no longer. If it were tied to very strong "
@@ -19551,7 +19566,7 @@ msgstr ""
 #.  (2) 
 #.  PAGE BREAK 298 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14248
+#: freeculture.xml:14253
 msgid ""
 "<emphasis>Keep it simple:</emphasis> The line between the public domain and "
 "protected content must be kept clear. Lawyers like the fuzziness of "
@@ -19565,13 +19580,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><indexterm><primary>
-#: freeculture.xml:14260
+#: freeculture.xml:14265
 msgid "veterans' pensions"
 msgstr ""
 
 #.  f4. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para><footnote><para>
-#: freeculture.xml:14271
+#: freeculture.xml:14276
 msgid ""
 "Department of Veterans Affairs, Veteran's Application for Compensation "
 "and/or Pension, VA Form 21-526 (OMB Approved No. 2900-0001), available at "
@@ -19579,7 +19594,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14263
+#: freeculture.xml:14268
 msgid ""
 "<emphasis>Keep it alive:</emphasis> Copyright should have to be renewed.  "
 "Especially if the maximum term is long, the copyright owner should be "
@@ -19594,7 +19609,7 @@ msgstr ""
 
 #.  (4) 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14282
+#: freeculture.xml:14287
 msgid ""
 "<emphasis>Keep it prospective:</emphasis> Whatever the term of copyright "
 "should be, the clearest lesson that economists teach is that a term once "
@@ -19611,7 +19626,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14298
+#: freeculture.xml:14303
 msgid ""
 "These changes together should produce an <emphasis>average</emphasis> "
 "copyright term that is much shorter than the current term. Until 1976, the "
@@ -19619,7 +19634,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14304
+#: freeculture.xml:14309
 msgid ""
 "No doubt the extremists will call these ideas <quote>radical.</quote> (After "
 "all, I call them <quote>extremists.</quote>) But again, the term I "
@@ -19629,12 +19644,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:14314
+#: freeculture.xml:14319
 msgid "3. Free Use Vs. Fair Use"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14318
+#: freeculture.xml:14323
 msgid ""
 "As I observed at the beginning of this book, property law originally granted "
 "property owners the right to control their property from the ground to the "
@@ -19645,7 +19660,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14326
+#: freeculture.xml:14331
 msgid ""
 "Our Constitution gives Congress the power to give authors <quote>exclusive "
 "right</quote> to <quote>their writings.</quote> Congress has given authors "
@@ -19657,20 +19672,20 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14334
+#: freeculture.xml:14339
 msgid "Kaplan, Benjamin"
 msgstr ""
 
 #.  f5. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14340
+#: freeculture.xml:14345
 msgid ""
 "Benjamin Kaplan, <citetitle>An Unhurried View of Copyright</citetitle> (New "
 "York: Columbia University Press, 1967), 32."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14336
+#: freeculture.xml:14341
 msgid ""
 "Congress granted the beginnings of this right in 1870, when it expanded the "
 "exclusive right of copyright to include a right to control translations and "
@@ -19682,12 +19697,12 @@ msgstr ""
 
 #.  f6. 
 #. type: Content of: <book><chapter><section><section><blockquote><para><footnote><para>
-#: freeculture.xml:14353
+#: freeculture.xml:14358
 msgid "Ibid., 56."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><blockquote><para>
-#: freeculture.xml:14349
+#: freeculture.xml:14354
 msgid ""
 "So inured have we become to the extension of the monopoly to a large range "
 "of so-called derivative works, that we no longer sense the oddity of "
@@ -19696,7 +19711,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14358
+#: freeculture.xml:14363
 msgid ""
 "I think it's time to recognize that there are airplanes in this field and "
 "the expansiveness of these rights of derivative use no longer make "
@@ -19706,7 +19721,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14365
+#: freeculture.xml:14370
 msgid ""
 "<emphasis>Term:</emphasis> If Congress wants to grant a derivative right, "
 "then that right should be for a much shorter term. It makes sense to protect "
@@ -19718,7 +19733,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14378
+#: freeculture.xml:14383
 msgid ""
 "<emphasis>Scope:</emphasis> Likewise should the scope of derivative rights "
 "be narrowed.  Again, there are some cases in which derivative rights are "
@@ -19733,7 +19748,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14392
+#: freeculture.xml:14397
 msgid ""
 "This was the point that Alben made when describing the making of the Clint "
 "Eastwood CD. While it makes sense to require negotiation for foreseeable "
@@ -19743,12 +19758,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:14408
+#: freeculture.xml:14413
 msgid "Goldstein, Paul"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14406
+#: freeculture.xml:14411
 msgid ""
 "Paul Goldstein, <citetitle>Copyright's Highway: From Gutenberg to the "
 "Celestial Jukebox</citetitle> (Stanford: Stanford University Press, 2003), "
@@ -19756,7 +19771,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14400
+#: freeculture.xml:14405
 msgid ""
 "In each of these cases, the law should mark the uses that are protected, and "
 "the presumption should be that other uses are not protected.  This is the "
@@ -19766,7 +19781,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14414
+#: freeculture.xml:14419
 msgid ""
 "Goldstein's analysis would make perfect sense if the cost of the legal "
 "system were small. But as we are currently seeing in the context of the "
@@ -19777,7 +19792,7 @@ msgstr ""
 
 #.  PAGE BREAK 301 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14421
+#: freeculture.xml:14426
 msgid ""
 "The law could remedy this problem either by removing protection beyond the "
 "part explicitly drawn or by granting reuse rights upon certain statutory "
@@ -19787,12 +19802,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:14431
+#: freeculture.xml:14436
 msgid "4. Liberate the Music&mdash;Again"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14433
+#: freeculture.xml:14438
 msgid ""
 "The battle that got this whole war going was about music, so it wouldn't be "
 "fair to end this book without addressing the issue that is, to most people, "
@@ -19802,7 +19817,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14440
+#: freeculture.xml:14445
 msgid ""
 "The appeal of file-sharing music was the crack cocaine of the Internet's "
 "growth. It drove demand for access to the Internet more powerfully than any "
@@ -19813,7 +19828,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14449
+#: freeculture.xml:14454
 msgid ""
 "The aim of copyright, with respect to content in general and music in "
 "particular, is to create the incentives for music to be composed, performed, "
@@ -19823,7 +19838,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14456
+#: freeculture.xml:14461
 msgid ""
 "File-sharing networks complicate this model by enabling the spread of "
 "content for which the performer has not been paid. But of course, that's not "
@@ -19834,7 +19849,7 @@ msgstr ""
 
 #.  A. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14465
+#: freeculture.xml:14470
 msgid ""
 "There are some who are using sharing networks as substitutes for purchasing "
 "CDs."
@@ -19842,7 +19857,7 @@ msgstr ""
 
 #.  B. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14470
+#: freeculture.xml:14475
 msgid ""
 "There are also some who are using sharing networks to sample, on the way to "
 "purchasing CDs."
@@ -19851,7 +19866,7 @@ msgstr ""
 #.  PAGE BREAK 302 
 #.  C. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14476
+#: freeculture.xml:14481
 msgid ""
 "There are many who are using file-sharing networks to get access to content "
 "that is no longer sold but is still under copyright or that would have been "
@@ -19860,7 +19875,7 @@ msgstr ""
 
 #.  D. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14482
+#: freeculture.xml:14487
 msgid ""
 "There are many who are using file-sharing networks to get access to content "
 "that is not copyrighted or to get access that the copyright owner plainly "
@@ -19868,7 +19883,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14490
+#: freeculture.xml:14495
 msgid ""
 "Any reform of the law needs to keep these different uses in focus. It must "
 "avoid burdening type D even if it aims to eliminate type A. The eagerness "
@@ -19879,7 +19894,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14498
+#: freeculture.xml:14503
 msgid ""
 "As I said in chapter <xref xrefstyle=\"select: labelnumber\" "
 "linkend=\"piracy\"/>, the actual harm caused by sharing is controversial.  "
@@ -19889,7 +19904,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14506
+#: freeculture.xml:14511
 msgid ""
 "Nonetheless, there is a crucial fact about the current technological context "
 "that we must keep in mind if we are to understand how the law should "
@@ -19897,7 +19912,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14511
+#: freeculture.xml:14516
 msgid ""
 "Today, file sharing is addictive. In ten years, it won't be. It is addictive "
 "today because it is the easiest way to gain access to a broad range of "
@@ -19912,7 +19927,7 @@ msgstr ""
 
 #.  PAGE BREAK 303 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14523
+#: freeculture.xml:14528
 msgid ""
 "But it will become a reality, and that means the way we get access to the "
 "Internet today is a technology in transition. Policy makers should not make "
@@ -19928,13 +19943,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14537
+#: freeculture.xml:14542
 msgid "cell phones, music streamed over"
 msgstr ""
 
 #.  f8. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14557
+#: freeculture.xml:14562
 msgid ""
 "See, for example, <quote>Music Media Watch,</quote> The J@pan "
 "Inc. Newsletter, 3 April 2002, available at <ulink "
@@ -19942,7 +19957,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14539
+#: freeculture.xml:14544
 msgid ""
 "In that world, it will be extremely easy to connect to services that give "
 "you access to content on the fly&mdash;such as Internet radio, content that "
@@ -19964,7 +19979,7 @@ msgstr ""
 
 #.  PAGE BREAK 304 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14564
+#: freeculture.xml:14569
 msgid ""
 "This point about the future is meant to suggest a perspective on the "
 "present: It is emphatically temporary. The <quote>problem</quote> with file "
@@ -19980,7 +19995,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14580
+#: freeculture.xml:14585
 msgid ""
 "The answer begins with recognizing that there are different "
 "<quote>problems</quote> here to solve. Let's start with type D "
@@ -19994,7 +20009,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14591
+#: freeculture.xml:14596
 msgid ""
 "Type C content raises a different <quote>problem.</quote> This is content "
 "that was, at one time, published and is no longer available. It may be "
@@ -20006,7 +20021,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14602
+#: freeculture.xml:14607
 msgid ""
 "Again, the model here is the used book store. Once a book goes out of print, "
 "it may still be available in libraries and used book stores. But libraries "
@@ -20019,7 +20034,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14612
+#: freeculture.xml:14617
 msgid ""
 "The model of used book stores suggests that the law could simply deem "
 "out-of-print music fair game. If the publisher does not make copies of the "
@@ -20032,7 +20047,7 @@ msgstr ""
 
 #.  PAGE BREAK 305 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14623
+#: freeculture.xml:14628
 msgid ""
 "Alternatively, the law could create a statutory license that would ensure "
 "that artists get something from the trade of their work. For example, if the "
@@ -20044,7 +20059,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14633
+#: freeculture.xml:14638
 msgid ""
 "This system would also create an incentive for publishers to keep works "
 "available commercially. Works that are available commercially would not be "
@@ -20057,7 +20072,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14643
+#: freeculture.xml:14648
 msgid ""
 "The hard case is content of types A and B, and again, this case is hard only "
 "because the extent of the problem will change over time, as the technologies "
@@ -20068,14 +20083,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14651
+#: freeculture.xml:14656
 msgid ""
 "So here's a solution that will at first seem very strange to both sides in "
 "this war, but which upon reflection, I suggest, should make some sense."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14655
+#: freeculture.xml:14660
 msgid ""
 "Stripped of the rhetoric about the sanctity of property, the basic claim of "
 "the content industry is this: A new technology (the Internet)  has harmed a "
@@ -20089,7 +20104,7 @@ msgstr ""
 
 #.  PAGE BREAK 306 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14666
+#: freeculture.xml:14671
 msgid ""
 "I love the Internet, and so I don't like likening it to tobacco or "
 "asbestos.  But the analogy is a fair one from the perspective of the law.  "
@@ -20100,17 +20115,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:14673 freeculture.xml:14715
+#: freeculture.xml:14678 freeculture.xml:14720
 msgid "Promises to Keep (Fisher)"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:14713
+#: freeculture.xml:14718
 msgid "Fisher, William"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14679
+#: freeculture.xml:14684
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> William Fisher, "
 "<citetitle>Digital Music: Problems and Possibilities</citetitle> (last "
@@ -20152,7 +20167,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14675
+#: freeculture.xml:14680
 msgid ""
 "The idea would be a modification of a proposal that has been floated by "
 "Harvard law professor William Fisher.<placeholder type=\"footnote\" "
@@ -20167,7 +20182,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14729
+#: freeculture.xml:14734
 msgid ""
 "Fisher's proposal is careful and comprehensive. It raises a million "
 "questions, most of which he answers well in his upcoming book, "
@@ -20185,7 +20200,7 @@ msgstr ""
 
 #.  PAGE BREAK 307 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14746
+#: freeculture.xml:14751
 msgid ""
 "Fisher would balk at the idea of allowing the system to lapse. His aim is "
 "not just to ensure that artists are paid, but also to ensure that the system "
@@ -20198,17 +20213,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14759
+#: freeculture.xml:14764
 msgid "MusicStore"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:14761
+#: freeculture.xml:14766
 msgid "prices of"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14763
+#: freeculture.xml:14768
 msgid ""
 "No doubt it would be difficult to calculate the proper measure of "
 "<quote>harm</quote> to an industry. But the difficulty of making that "
@@ -20226,22 +20241,22 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:14778
+#: freeculture.xml:14783
 msgid "cable vs. broadcast"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14781
+#: freeculture.xml:14786
 msgid "film industry"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:14781
+#: freeculture.xml:14786
 msgid "luxury theatres vs. video piracy in"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14783
+#: freeculture.xml:14788
 msgid ""
 "This competition has already occurred against the background of "
 "<quote>free</quote> music from p2p systems. As the sellers of cable "
@@ -20257,7 +20272,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14795
+#: freeculture.xml:14800
 msgid ""
 "This regime of competition, with a backstop to assure that artists don't "
 "lose, would facilitate a great deal of innovation in the delivery of "
@@ -20268,13 +20283,13 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14804
+#: freeculture.xml:14809
 msgid "In summary, then, my proposal is this:"
 msgstr ""
 
 #.  PAGE BREAK 308 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14809
+#: freeculture.xml:14814
 msgid ""
 "The Internet is in transition. We should not be regulating a technology in "
 "transition. We should instead be regulating to minimize the harm to "
@@ -20283,19 +20298,19 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14816
+#: freeculture.xml:14821
 msgid "We can minimize that harm while maximizing the benefit to innovation by"
 msgstr ""
 
 #.  1. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14822
+#: freeculture.xml:14827
 msgid "guaranteeing the right to engage in type D sharing;"
 msgstr ""
 
 #.  2. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14826
+#: freeculture.xml:14831
 msgid ""
 "permitting noncommercial type C sharing without liability, and commercial "
 "type C sharing at a low and fixed rate set by statute;"
@@ -20303,14 +20318,14 @@ msgstr ""
 
 #.  3. 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#: freeculture.xml:14832
+#: freeculture.xml:14837
 msgid ""
 "while in this transition, taxing and compensating for type A sharing, to the "
 "extent actual harm is demonstrated."
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14837
+#: freeculture.xml:14842
 msgid ""
 "But what if <quote>piracy</quote> doesn't disappear? What if there is a "
 "competitive market providing content at a low cost, but a significant number "
@@ -20319,7 +20334,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14843
+#: freeculture.xml:14848
 msgid ""
 "Yes, it should. But, again, what it should do depends upon how the facts "
 "develop. These changes may not eliminate type A sharing. But the real issue "
@@ -20336,7 +20351,7 @@ msgstr ""
 
 #.  PAGE BREAK 309 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14857
+#: freeculture.xml:14862
 msgid ""
 "But we're a long way away from whittling the problem down to this subset of "
 "type A sharers. And our focus until we're there should not be on finding "
@@ -20346,12 +20361,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
-#: freeculture.xml:14868
+#: freeculture.xml:14873
 msgid "5. Fire Lots of Lawyers"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14870
+#: freeculture.xml:14875
 msgid ""
 "I'm a lawyer. I make lawyers for a living. I believe in the law. I believe "
 "in the law of copyright. Indeed, I have devoted my life to working in law, "
@@ -20360,7 +20375,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14876
+#: freeculture.xml:14881
 msgid ""
 "Yet much of this book has been a criticism of lawyers, or the role lawyers "
 "have played in this debate. The law speaks to ideals, but it is my view that "
@@ -20370,23 +20385,23 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14883
+#: freeculture.xml:14888
 msgid "Nimmer, Melville"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#: freeculture.xml:14884
+#: freeculture.xml:14889
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#: freeculture.xml:14884
+#: freeculture.xml:14889
 msgid "Supreme Court challenge of"
 msgstr ""
 
 #.  f10. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14895
+#: freeculture.xml:14900
 msgid ""
 "Lawrence Lessig, <quote>Copyright's First Amendment</quote> (Melville "
 "B. Nimmer Memorial Lecture), <citetitle>UCLA Law Review</citetitle> 48 "
@@ -20394,7 +20409,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14886
+#: freeculture.xml:14891
 msgid ""
 "The evidence of this bending is compelling. I'm attacked as a "
 "<quote>radical</quote> by many within the profession, yet the positions that "
@@ -20407,7 +20422,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14901
+#: freeculture.xml:14906
 msgid ""
 "However, my criticism of the role that lawyers have played in this debate is "
 "not just about a professional bias. It is more importantly about our failure "
@@ -20415,7 +20430,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#: freeculture.xml:14911
+#: freeculture.xml:14916
 msgid ""
 "A good example is the work of Professor Stan Liebowitz. Liebowitz is to be "
 "commended for his careful review of data about infringement, leading him to "
@@ -20435,7 +20450,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14906
+#: freeculture.xml:14911
 msgid ""
 "Economists are supposed to be good at reckoning costs and benefits.  But "
 "more often than not, economists, with no clue about how the legal system "
@@ -20447,7 +20462,7 @@ msgstr ""
 
 #.  PAGE BREAK 310 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14935
+#: freeculture.xml:14940
 msgid ""
 "But the legal system doesn't work. Or more accurately, it doesn't work for "
 "anyone except those with the most resources. Not because the system is "
@@ -20457,7 +20472,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14943
+#: freeculture.xml:14948
 msgid ""
 "These costs distort free culture in many ways. A lawyer's time is billed at "
 "the largest firms at more than $400 per hour. How much time should such a "
@@ -20470,7 +20485,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14953
+#: freeculture.xml:14958
 msgid ""
 "The costliness and clumsiness and randomness of this system mock our "
 "tradition. And lawyers, as well as academics, should consider it their duty "
@@ -20481,7 +20496,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14961
+#: freeculture.xml:14966
 msgid ""
 "But until that reform is complete, we as a society should keep the law away "
 "from areas that we know it will only harm. And that is precisely what the "
@@ -20489,7 +20504,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14968
+#: freeculture.xml:14973
 msgid ""
 "Think about the amazing things your kid could do or make with digital "
 "technology&mdash;the film, the music, the Web page, the blog. Or think about "
@@ -20502,7 +20517,7 @@ msgstr ""
 
 #.  PAGE BREAK 311
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14977
+#: freeculture.xml:14982
 msgid ""
 "The law should regulate in certain areas of culture&mdash;but it should "
 "regulate culture only where that regulation does good. Yet lawyers rarely "
@@ -20512,7 +20527,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#: freeculture.xml:14986
+#: freeculture.xml:14991
 msgid ""
 "We should ask, <quote>Why?</quote> Show me why your regulation of culture is "
 "needed. Show me how it does good. And until you can show me both, keep your "
@@ -20520,12 +20535,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#: freeculture.xml:14995
+#: freeculture.xml:15000
 msgid "NOTES"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:14997
+#: freeculture.xml:15002
 msgid ""
 "Throughout this text, there are references to links on the World Wide "
 "Web. As anyone who has tried to use the Web knows, these links can be highly "
@@ -20539,12 +20554,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><title>
-#: freeculture.xml:15016
+#: freeculture.xml:15021
 msgid "ACKNOWLEDGMENTS"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15018
+#: freeculture.xml:15023
 msgid ""
 "This book is the product of a long and as yet unsuccessful struggle that "
 "began when I read of Eric Eldred's war to keep books free. Eldred's work "
@@ -20553,7 +20568,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15025
+#: freeculture.xml:15030
 msgid ""
 "I received guidance in various places from friends and academics, including "
 "Glenn Brown, Peter DiCola, Jennifer Mnookin, Richard Posner, Mark Rose, and "
@@ -20569,7 +20584,7 @@ msgstr ""
 
 #. PAGE BREAK 337
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15038
+#: freeculture.xml:15043
 msgid ""
 "Yuko Noguchi helped me to understand the laws of Japan as well as its "
 "culture. I am thankful to her, and to the many in Japan who helped me "
@@ -20582,7 +20597,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15049
+#: freeculture.xml:15054
 msgid ""
 "These are the traditional sorts of help that academics regularly draw "
 "upon. But in addition to them, the Internet has made it possible to receive "
@@ -20604,7 +20619,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15069
+#: freeculture.xml:15074
 msgid ""
 "Richard Stallman and Michael Carroll each read the whole book in draft, and "
 "each provided extremely helpful correction and advice.  Michael helped me to "
@@ -20615,7 +20630,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
-#: freeculture.xml:15078
+#: freeculture.xml:15083
 msgid ""
 "Finally, and forever, I am thankful to Bettina, who has always insisted that "
 "there would be unending happiness away from these battles, and who has "

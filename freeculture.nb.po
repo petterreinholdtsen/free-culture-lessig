@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-30 20:40+0300\n"
+"POT-Creation-Date: 2012-08-30 21:07+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1681,8 +1681,8 @@ msgstr "Grunnloven i USA"
 msgid "First Amendment to"
 msgstr "Første tillegg til"
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
-msgid "Copyright law"
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "copyright law"
 msgstr "åndsverkslov"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
@@ -2226,10 +2226,6 @@ msgstr ""
 "<quote>hvis verdi, så rettighet</quote> for kreative eierrettigheter har "
 "aldri vært USAs teori for kreative eierrettigheter.  It har aldri stått rot "
 "i vårt lovverk."
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "copyright law"
-msgstr "åndsverkslov"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -8061,7 +8057,7 @@ msgstr ""
 msgid "composers, copyright protections of"
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Congress, U.S."
 msgstr "Kongressen i USA"
 
@@ -19405,23 +19401,27 @@ msgstr ""
 "(cinderella), noen ganger ikke (hunchback i notre dame, skatt planeten). "
 "disse er alle kommersielle publikasjoner av offentlige verker."
 
-#.  f1.
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "pornography"
+msgstr "pornografi"
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
-"There's a parallel here with pornography that is a bit hard to describe, but "
-"it's a strong one. One phenomenon that the Internet created was a world of "
-"noncommercial pornographers&mdash;people who were distributing porn but were "
-"not making money directly or indirectly from that distribution.  Such a "
-"class didn't exist before the Internet came into being because the costs of "
-"distributing porn were so high. Yet this new class of distributors got "
-"special attention in the Supreme Court, when the Court struck down the "
-"Communications Decency Act of 1996. It was partly because of the burden on "
-"noncommercial speakers that the statute was found to exceed Congress's "
-"power. The same point could have been made about noncommercial publishers "
-"after the advent of the Internet. The Eric Eldreds of the world before the "
-"Internet were extremely few. Yet one would think it at least as important to "
-"protect the Eldreds of the world as to protect noncommercial pornographers."
+"<placeholder type=\"indexterm\" id=\"0\"/> There's a parallel here with "
+"pornography that is a bit hard to describe, but it's a strong one. One "
+"phenomenon that the Internet created was a world of noncommercial "
+"pornographers&mdash;people who were distributing porn but were not making "
+"money directly or indirectly from that distribution.  Such a class didn't "
+"exist before the Internet came into being because the costs of distributing "
+"porn were so high. Yet this new class of distributors got special attention "
+"in the Supreme Court, when the Court struck down the Communications Decency "
+"Act of 1996. It was partly because of the burden on noncommercial speakers "
+"that the statute was found to exceed Congress's power. The same point could "
+"have been made about noncommercial publishers after the advent of the "
+"Internet. The Eric Eldreds of the world before the Internet were extremely "
+"few. Yet one would think it at least as important to protect the Eldreds of "
+"the world as to protect noncommercial pornographers."
 msgstr ""
 "Det er en parallell her med pornografi som er litt vanskelig å beskrive, men "
 "det er en sterk en. ett fenomen som Internett opprettet var en verden av "
@@ -21227,6 +21227,15 @@ msgstr ""
 "hevdet mange tilfeller i domstol, og som hadde informert oss tidlig om en "
 "første endring strategi; og endelig, tidligere advokat general charles stekt."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "constitutional powers of"
+msgstr "konstitusjonelle formålet med"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "Commerce Clause of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -21284,6 +21293,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Gershwin, George"
 msgstr "Gershwin, George"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Porgy and Bess"
+msgstr "Porgy and Bess"
 
 #.  f14.
 #. type: Content of: <book><part><chapter><para><footnote><para>
