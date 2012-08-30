@@ -25192,15 +25192,15 @@ msgstr ""
 "med selger tilgang til materiale som ikke er allemannseie."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "But what if the only way to get access to social and scientific data was "
 "through proprietary services? What if no one had the ability to browse this "
 "data except by paying for a subscription?"
 msgstr ""
-"men hva om du bare kan få tilgang til sosiale og vitenskapelige data var "
-"gjennom proprietære tjenester? Hva om ingen hadde muligheten til å bla "
-"gjennom denne data unntatt ved å betale for et abonnement?"
+"Men hva hvis den eneste måten å få tilgnag til sosiale og "
+"vitenskapelige data var gjennom proprietære tjenester?  Hva hvis ingen "
+"hadde muligheten til å bla igjennom disse datasettene uten å betale "
+"for et abonnement?"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25228,7 +25228,6 @@ msgstr ""
 "tilgangen til en papir-journal."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "As journals become electronic, however, the publishers are demanding that "
 "libraries not give the general public access to the journals. This means "
@@ -25236,11 +25235,12 @@ msgid ""
 "disappear. Thus, as with privacy and with software, a changing technology "
 "and market shrink a freedom taken for granted before."
 msgstr ""
-"Når journaler blir elektronisk, men er utgivere krevende at biblioteker ikke "
-"gir generell offentlig tilgang til journalene. Dette betyr at frihetene som "
-"er levert av Skriv ut journaler i offentlige bibliotek begynner å forsvinne. "
-"Således, som med personvern og med programvare, en skiftende teknologi og "
-"markedet forminske en frihet tatt for gitt før."
+"Etter hvert som tidsskrift blir elektroniske krever derimot utgiverne "
+"at bibliotekene ikke gir alle tilgang til tidsskriftene.  Dette betyr "
+"at frihetene som papirtidsskrifter ga i offentlige biblioteker "
+"begynner å forsvinne.  Dermed, på samme måte som med personvern og "
+"programvare, endringer i teknologien og markedet krymper en frihet som "
+"vi tok for gitt tidligere."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
