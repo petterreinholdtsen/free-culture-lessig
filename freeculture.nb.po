@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-30 21:07+0300\n"
+"POT-Creation-Date: 2012-08-30 21:18+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -23840,6 +23840,10 @@ msgstr ""
 "denne diskusjonen, siden WIPO var den fremstående internasjonale aktør som "
 "drev med immaterielle rettighetsspørsmål."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "World Summit on the Information Society (WSIS)"
+msgstr ""
+
 #.  PAGE BREAK 271
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24128,8 +24132,24 @@ msgstr ""
 "statstjenestemann som håndterer utfordringer rundt immaterielle rettigheter."
 
 #. type: Content of: <book><chapter><indexterm><primary>
+msgid "drugs"
+msgstr "medisiner"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "pharmaceutical"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "generic drugs"
 msgstr "generiske medisiner"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "patents"
+msgstr "patenter"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "on pharmaceuticals"
+msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid ""

@@ -13046,6 +13046,7 @@ perspectives.  And WIPO was an ideal venue for this discussion, since
 WIPO is the preeminent international body dealing with intellectual
 property issues.
 </para>
+<indexterm id='idxworldsummitontheinformationsocietywsis' class='startofrange'><primary>World Summit on the Information Society (WSIS)</primary></indexterm>
 <para>
 Indeed, I was once publicly scolded for not recognizing this fact
 about WIPO. In February 2003, I delivered a keynote address to a
@@ -13076,6 +13077,7 @@ had thought it was taken for granted that WIPO could and should. And
 thus the meeting about <quote>open and collaborative projects to create
 public goods</quote> seemed perfectly appropriate within the WIPO agenda.
 </para>
+<indexterm startref='idxworldsummitontheinformationsocietywsis' class='endofrange'/>
 <indexterm><primary>Apple Corporation</primary></indexterm>
 <para>
 But there is one project within that list that is highly
@@ -13190,7 +13192,10 @@ in understanding&mdash;the sort of mistake that is excusable in a
 first-year law student, but an embarrassment from a high government
 official dealing with intellectual property issues.
 </para>
+<indexterm><primary>World Summit on the Information Society (WSIS)</primary></indexterm>
+<indexterm><primary>drugs</primary><secondary>pharmaceutical</secondary></indexterm>
 <indexterm><primary>generic drugs</primary></indexterm>
+<indexterm><primary>patents</primary><secondary>on pharmaceuticals</secondary></indexterm>
 <para>
 Second, who ever said that WIPO's exclusive aim was to <quote>promote</quote>
 intellectual property maximally? As I had been scolded at the
