@@ -59,29 +59,24 @@ msgid "Lessig"
 msgstr "Lessig"
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
-#, mtrans, fuzzy
 msgid "Intellectual property&mdash;United States."
-msgstr "immaterielle — USA."
+msgstr "Immateriell eiendom&mdash;USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
-#, mtrans, fuzzy
 msgid "Mass media&mdash;United States."
-msgstr "massemedia — USA."
+msgstr "Massemedia&mdash;USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
-#, mtrans, fuzzy
 msgid "Technological innovations&mdash;United States."
-msgstr "teknologiske nyvinninger — USA."
+msgstr "Teknologiske nyvinninger&mdash;USA."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
-#, mtrans, fuzzy
 msgid "Art&mdash;United States."
-msgstr "Art — USA."
+msgstr "Kunst&mdash;USA."
 
 #. type: Content of: <book><bookinfo><publisher><address>
-#, no-wrap
 msgid "<city>New York</city>"
-msgstr ""
+msgstr "<city>New York</city>"
 
 #. type: Content of: <book><bookinfo>
 msgid ""
@@ -277,12 +272,10 @@ msgid "p. cm."
 msgstr "s. cm."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "Includes index."
-msgstr "inkluderer index."
+msgstr "Inkluderer register."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "ISBN 1-59420-006-8 (hardcover)"
 msgstr "ISBN 1-59420-006-8 (Innbundet bok)"
 
@@ -291,14 +284,14 @@ msgstr "ISBN 1-59420-006-8 (Innbundet bok)"
 msgid ""
 "1. Intellectual property&mdash;United States. 2. Mass media&mdash;United "
 "States."
-msgstr "1. eiendomsrett — USA. 2. massemedia — USA."
+msgstr "1. eiendomsrett &mdash; USA. 2. massemedia &mdash; USA."
 
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
-msgstr "3. teknologiske nyvinninger — USA. 4. art — USA. i. tittel."
+msgstr "3. teknologiske nyvinninger &mdash; USA. 4. art &mdash; USA. i. tittel."
 
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
@@ -308,17 +301,15 @@ msgstr "kf2979.l47"
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
 msgid "343.7309'9&mdash;dc22"
-msgstr "343.7309'9 — dc22"
+msgstr "343.7309'9 &mdash; dc22"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "This book is printed on acid-free paper."
-msgstr "Denne boken er trykket på syre-fri papir."
+msgstr "Denne boken er trykket på syre-fritt papir."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "Printed in the United States of America"
-msgstr "trykt i Amerikas forente stater"
+msgstr "Trykt i USA"
 
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
@@ -326,9 +317,8 @@ msgid "1 3 5 7 9 10 8 6 4"
 msgstr "1 3 5 7 9 10 8 6 4"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "Designed by Marysarah Quinn"
-msgstr "designet av marysarah quinn"
+msgstr "Utformet av Marysarah Quinn"
 
 #. type: Content of: <book><colophon><para>
 msgid "&translationblock;"
@@ -1792,7 +1782,6 @@ msgstr ""
 "krigen.  Vi må finne en løsning snart."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "intellectual property rights"
 msgstr "immaterielle rettigheter"
 
@@ -17458,7 +17447,7 @@ msgstr ""
 "konto og deretter sette inn datamaskinen for en cd. programvaren vil "
 "identifisere cd, og deretter gi brukertilgang til dette innholdet. så, for "
 "eksempel hvis du satte inn en cd ved jill sobule, deretter uansett hvor du "
-"var — på jobben eller hjemme — du kan få tilgang til at musikk når du er "
+"var &mdash; på jobben eller hjemme &mdash; du kan få tilgang til at musikk når du er "
 "logget på din konto. systemet ble derfor en type musikk-lås."
 
 #.  PAGE BREAK 199
