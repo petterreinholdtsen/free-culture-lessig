@@ -4452,14 +4452,12 @@ msgstr ""
 "citetitle>, tilgjengelig overalt i verden."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "political discourse"
-msgstr "politiske diskurs"
+msgstr "politisk diskusjon"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "public discourse conducted on"
-msgstr "Public discourse gjennomført på"
+msgstr "offentlig diskusjon gjennomført på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4515,9 +4513,8 @@ msgid "Tocqueville, Alexis de"
 msgstr "Tocqueville, Alexis de"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "public discourse in"
-msgstr "offentlige diskurs i"
+msgstr "offentlig diskusjon i"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
@@ -6959,9 +6956,8 @@ msgid "Windows"
 msgstr "Windows"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "international software piracy of"
-msgstr "internasjonale piratkopiering av"
+msgstr "internasjonal piratkopiering av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
