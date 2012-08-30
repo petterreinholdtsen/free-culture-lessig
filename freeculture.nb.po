@@ -14479,18 +14479,16 @@ msgstr ""
 "være trivielt å beseire slik beskyttelse også?"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "We've only scratched the surface of this story. Return to the Adobe eBook "
 "Reader."
 msgstr ""
-"Vi har bare riper i overflaten av denne historien. gå tilbake til adobe eBok-"
-"leser."
+"Vi har kun såvidt berørt overflaten til denne historien. La oss gå tilbake "
+"til Adobe eBook reader."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Alice's Adventures in Wonderland (Carroll)"
-msgstr "alice's adventures in wonderland (carroll)"
+msgstr "Alice i Eventyrland (Carroll)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "e-book restrictions on"
@@ -24679,7 +24677,6 @@ msgstr ""
 
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "When the Internet was first born, its initial architecture effectively "
 "tilted in the <quote>no rights reserved</quote> direction. Content could be "
@@ -24689,12 +24686,14 @@ msgid ""
 "Content was <quote>taken</quote> regardless of the rights. Any rights were "
 "effectively unprotected."
 msgstr ""
-"da Internett ble født, skråstilt sin første arkitektur effektivt i retning "
-"\"ingen rettigheter reservert\". innholdet kan kopieres perfekt og billig; "
-"rettigheter kan ikke lett kontrolleres. Således, uavhengig av hvem som helst "
-"ønske, effektiv regimet av opphavsrett under den opprinnelige utformingen av "
-"Internett var \"ingen rettigheter reservert.\" innhold ble \"tatt\" "
-"uavhengig av rettighetene. alle rettigheter som var effektivt ubeskyttet."
+"Da internettet ble skapt, ga dets arkitektur i effekt en helning mot "
+"<quote>ingen rettigheter reservert</quote>.  Innhold kunne kopieres "
+"billig og uten kvalitetstap og rettigheter kunne ikke enkelt "
+"kontrolleres.  Dermed var, uavhengig av hva noen ønsket, det effektive "
+"regimet for opphavsrett under den originale utformingen av internettet "
+"<quote>ingen rettigheter reservert</quote>.  Innhold ble "
+"<quote>tatt</quote> uavhengig av rettighetene.  Alle rettigheter var "
+"effektivt ubeskyttet."
 
 #. type: Content of: <book><chapter><section><para>
 #, mtrans, fuzzy
