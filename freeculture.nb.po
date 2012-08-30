@@ -23096,18 +23096,16 @@ msgid "CONCLUSION"
 msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "antiretroviral drugs"
-msgstr "antiretroviral narkotika"
+msgstr "antiretroviral medisin"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "HIV/AIDS therapies"
-msgstr ""
+msgstr "HIV/AIDS-behandlinger"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Africa, medications for HIV patients in"
-msgstr "Afrika, medisiner for hiv-pasienter i"
+msgstr "Afrika, medisinering for HIV-pasienter i"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23801,9 +23799,8 @@ msgstr ""
 "quote> virker å passe perfekt for WIPOs agenda."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Apple Corporation"
-msgstr "Apple corporation"
+msgstr "Apple Corporation"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23940,9 +23937,8 @@ msgid "Krim, Jonathan"
 msgstr "Krim, Jonathan"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "WIPO meeting opposed by"
-msgstr "WIPO møte motarbeidet av"
+msgstr "WIPO-møte motarbeidet av"
 
 #.  f9.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -24494,7 +24490,6 @@ msgid "Gil, Gilberto"
 msgstr "Gil, Gilberto"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "United Kingdom"
 msgstr "Storbritannia"
 
