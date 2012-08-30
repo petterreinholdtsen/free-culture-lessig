@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-30 21:18+0300\n"
+"POT-Creation-Date: 2012-08-30 23:52+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1045,11 +1045,11 @@ msgstr ""
 msgid "RCA"
 msgstr "RCA"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media"
 msgstr "media"
 
-#. type: Content of: <book><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "ownership concentration in"
 msgstr "eierskapskonsentrasjon i"
 
@@ -4722,6 +4722,10 @@ msgstr ""
 "trekke seg som leder for senatets flertall.<placeholder type=\"footnote\" id="
 "\"0\"/>"
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "commercial imperatives of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "This different cycle is possible because the same commercial pressures don't "
@@ -4734,6 +4738,10 @@ msgstr ""
 "Televisjon og aviser er kommersielle aktører.  De må arbeide for å holde på "
 "oppmerksomheten.  Hvis de mister lesere, så mister de inntekter.  Som haier, "
 "må de bevege seg videre."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "peer-generated rankings on"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24867,14 +24875,13 @@ msgid ""
 "explaining your browsing habits to your neighbors or boss. The "
 "<quote>privacy</quote> of your browsing habits was assured."
 msgstr ""
-"Hvis du trer tilbake fra slaget jeg har beskrevet her, så vil du "
-"kjenne igjen dette problemet fra andre omgivelser.  Tenk på "
-"personvern.  Før internettet trengte ikke de fleste av oss å bekymre "
-"oss over hvor mye data om våre liv som vi kringkastet til verden. "
-"Hvis du gikk inn i en bokhandlet og tittet på verkene til Karl Marx, "
-"så trente du ikke bekymre deg for å måtte forklare hva du tittet på "
-"for dine naboer eller din sjef.  <quote>Personvernet</quote> rundt hva "
-"du tittet på var sikret."
+"Hvis du trer tilbake fra slaget jeg har beskrevet her, så vil du kjenne "
+"igjen dette problemet fra andre omgivelser.  Tenk på personvern.  Før "
+"internettet trengte ikke de fleste av oss å bekymre oss over hvor mye data "
+"om våre liv som vi kringkastet til verden. Hvis du gikk inn i en bokhandlet "
+"og tittet på verkene til Karl Marx, så trente du ikke bekymre deg for å "
+"måtte forklare hva du tittet på for dine naboer eller din sjef.  "
+"<quote>Personvernet</quote> rundt hva du tittet på var sikret."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid "What made it assured?"
@@ -25013,12 +25020,12 @@ msgid ""
 "smart sort himself, and a talented programmer, Stallman grew to depend upon "
 "the freedom to add to or modify other people's work."
 msgstr ""
-"Dette var verden Richard Stallman ble født inn i og som forsker "
-"ved MIT lærte han å elske samfunnet som utviklet seg når en var fri til "
-"å utforske og fikle med programvaren som kjørte på datamaskiner. Som en av "
-"de smarte typene, i tillegg til å være en flink programmerer, begynte "
-"Stallman å basere seg på friheten han hadde til bygge på eller endre på andre "
-"personers verker."
+"Dette var verden Richard Stallman ble født inn i og som forsker ved MIT "
+"lærte han å elske samfunnet som utviklet seg når en var fri til å utforske "
+"og fikle med programvaren som kjørte på datamaskiner. Som en av de smarte "
+"typene, i tillegg til å være en flink programmerer, begynte Stallman å "
+"basere seg på friheten han hadde til bygge på eller endre på andre personers "
+"verker."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25070,12 +25077,11 @@ msgid ""
 "as he believed, if he did nothing about it, then the freedom to change and "
 "share software would be fundamentally weakened."
 msgstr ""
-"Dermed begynte praksisen med proprietær kode å spre seg, og tidlig på "
-"1980-tallet fant Stallman at han var omringet av proprietær kode. "
-"Verden av fri programvare hadde blitt fjernet av en endring i "
-"økonomien rundt databehandling.  Og han trodde at hvis han ikke gjorde "
-"noe med dette, så ville friheten til å endre og dele programvare bli "
-"fundametalt svekket."
+"Dermed begynte praksisen med proprietær kode å spre seg, og tidlig på 1980-"
+"tallet fant Stallman at han var omringet av proprietær kode. Verden av fri "
+"programvare hadde blitt fjernet av en endring i økonomien rundt "
+"databehandling.  Og han trodde at hvis han ikke gjorde noe med dette, så "
+"ville friheten til å endre og dele programvare bli fundametalt svekket."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Torvalds, Linus"
@@ -25141,9 +25147,9 @@ msgid ""
 "the story of this book. This is the shift in the way academic and scientific "
 "journals are produced."
 msgstr ""
-"Til slutt, la oss se på et veldig nytt eksempel som resonerer mer "
-"direkte med historien i denne boken.  Dette er overgangen for hvordan "
-"akademiske og vitenskapelige tidsskrifter blir produsert."
+"Til slutt, la oss se på et veldig nytt eksempel som resonerer mer direkte "
+"med historien i denne boken.  Dette er overgangen for hvordan akademiske og "
+"vitenskapelige tidsskrifter blir produsert."
 
 #.  PAGE BREAK 286
 #. type: Content of: <book><chapter><section><section><para>
@@ -25198,10 +25204,9 @@ msgid ""
 "through proprietary services? What if no one had the ability to browse this "
 "data except by paying for a subscription?"
 msgstr ""
-"Men hva hvis den eneste måten å få tilgang til sosiale og "
-"vitenskapelige data var gjennom proprietære tjenester?  Hva hvis ingen "
-"hadde muligheten til å bla igjennom disse datasettene uten å betale "
-"for et abonnement?"
+"Men hva hvis den eneste måten å få tilgang til sosiale og vitenskapelige "
+"data var gjennom proprietære tjenester?  Hva hvis ingen hadde muligheten til "
+"å bla igjennom disse datasettene uten å betale for et abonnement?"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25236,12 +25241,12 @@ msgid ""
 "disappear. Thus, as with privacy and with software, a changing technology "
 "and market shrink a freedom taken for granted before."
 msgstr ""
-"Etter hvert som tidsskrift blir elektroniske krever derimot utgiverne "
-"at bibliotekene ikke gir alle tilgang til tidsskriftene.  Dette betyr "
-"at frihetene som papirtidsskrifter ga i offentlige biblioteker "
-"begynner å forsvinne.  Dermed, på samme måte som med personvern og "
-"programvare, endringer i teknologien og markedet krymper en frihet som "
-"vi tok for gitt tidligere."
+"Etter hvert som tidsskrift blir elektroniske krever derimot utgiverne at "
+"bibliotekene ikke gir alle tilgang til tidsskriftene.  Dette betyr at "
+"frihetene som papirtidsskrifter ga i offentlige biblioteker begynner å "
+"forsvinne.  Dermed, på samme måte som med personvern og programvare, "
+"endringer i teknologien og markedet krymper en frihet som vi tok for gitt "
+"tidligere."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
