@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-28 22:22+0300\n"
+"POT-Creation-Date: 2012-08-30 09:11+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4007,13 +4007,13 @@ msgstr ""
 msgid "Crichton, Michael"
 msgstr "Crichton, Michael"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Barish, Stephanie"
-msgstr "Barish, Stephanie"
-
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Daley, Elizabeth"
 msgstr "Daley, Elizabeth"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Barish, Stephanie"
+msgstr "Barish, Stephanie"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -4315,8 +4315,16 @@ msgstr ""
 "forstå at de hadde mye gjennomslagskraft med dette språket."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "September 11, 2001, terrorist attacks of"
+msgstr "11. september 2001, terrorangrep den"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "World Trade Center"
 msgstr "World Trade Center"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "news coverage"
+msgstr "nyhetsdekning"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4423,10 +4431,6 @@ msgstr ""
 "tradisjon&mdash;ikke bare kan kultur fanges inn mekanisk, og åpenbart heller "
 "ikke at hendelser blir kommentert kritisk, men at denne blandingen av  "
 "bilder, lyd og kommentar kan spres vidt omkring nesten umiddelbart."
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "September 11, 2001, terrorist attacks of"
-msgstr "11. september 2001, terrorangrep den"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "blogs (Web-logs)"

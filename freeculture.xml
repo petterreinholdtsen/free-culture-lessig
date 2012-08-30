@@ -1997,6 +1997,7 @@ that they thought valuable.
 </para>
 <indexterm><primary>Brandeis, Louis D.</primary></indexterm>
 <indexterm><primary>Steamboat Bill, Jr.</primary></indexterm>
+<indexterm id='idxcameratechnology2' class='startofrange'><primary>camera technology</primary></indexterm>
 <para>
 On the other side was an argument that should be familiar, as well.
 Sure, there may be something of value being used. But citizens should
@@ -2033,6 +2034,7 @@ Inc</citetitle>., 971 F.  2d 1395 (9th Cir. 1992), cert. denied, 508 U.S. 951
 (1993).
 </para></footnote>)
 </para>
+<indexterm><primary>Kodak cameras</primary></indexterm>
 <indexterm><primary>Napster</primary></indexterm>
 <para>
 We can only speculate about how photography would have developed had
@@ -2049,6 +2051,8 @@ imagine the law then requiring that some form of permission be
 demonstrated before a company developed pictures. We could imagine a
 system developing to demonstrate that permission.
 </para>
+<indexterm startref='idxcameratechnology2' class='endofrange'/>
+<indexterm id='idxcameratechnology3' class='startofrange'><primary>camera technology</primary></indexterm>
 <indexterm><primary>democracy</primary><secondary>in technologies of expression</secondary></indexterm>
 <indexterm><primary>expression, technologies of</primary><secondary>democratic</secondary></indexterm>
 <para>
@@ -2153,6 +2157,7 @@ reflecting upon what one has written. One learns to write with images
 by making them and then reflecting upon what one has created.
 </para>
 <indexterm><primary>Crichton, Michael</primary></indexterm>
+<indexterm id='idxdaleyelizabeth' class='startofrange'><primary>Daley, Elizabeth</primary></indexterm>
 <para>
 This grammar has changed as media has changed. When it was just film,
 as Elizabeth Daley, executive director of the University of Southern
@@ -2233,7 +2238,7 @@ language of the twenty-first century.</quote><footnote><para>
 Ibid.
 </para></footnote>
 </para>
-<indexterm><primary>Barish, Stephanie</primary></indexterm>
+<indexterm id='idxbarishstephanie' class='startofrange'><primary>Barish, Stephanie</primary></indexterm>
 <para>
 As with any language, this language comes more easily to some than to
 others. It doesn't necessarily come more easily to those who excel in
@@ -2246,6 +2251,7 @@ failure. But Daley and Barish ran a program that gave kids an
 opportunity to use film to express meaning about something the
 students know something about&mdash;gun violence.
 </para>
+<indexterm startref='idxdaleyelizabeth' class='endofrange'/>
 <para>
 The class was held on Friday afternoons, and it created a relatively
 new problem for the school. While the challenge in most classes was
@@ -2271,6 +2277,7 @@ can do well. Yet neither is text a form in which
 <emphasis>these</emphasis> ideas can be expressed well. The power of
 this message depended upon its connection to this form of expression.
 </para>
+<indexterm startref='idxbarishstephanie' class='endofrange'/>
 <para>
 
 <!-- PAGE BREAK 52 -->
@@ -2321,7 +2328,9 @@ had a lot of power with this language.
 <!-- FIXME removed a " from the end of the previous paragraph that did
      not match with any start quote. -->
 </blockquote>
+<indexterm id='idxseptemberterroristattacksof' class='startofrange'><primary>September 11, 2001, terrorist attacks of</primary></indexterm>
 <indexterm><primary>World Trade Center</primary></indexterm>
+<indexterm id='idxnewscoverage' class='startofrange'><primary>news coverage</primary></indexterm>
 <para>
 <emphasis role='strong'>When two planes</emphasis> crashed into the
 World Trade Center, another into the Pentagon, and a fourth into a
@@ -2358,6 +2367,7 @@ the term in his book <citetitle>Cyber Rights</citetitle>, around a news event th
 captured the attention of the world. There was ABC and CBS, but there
 was also the Internet.
 </para>
+<indexterm startref='idxseptemberterroristattacksof' class='endofrange'/>
 <para>
 I don't mean simply to praise the Internet&mdash;though I do think the
 people who supported this form of speech should be praised. I mean
@@ -2635,6 +2645,7 @@ Today there are probably a couple of million blogs where such writing
 happens. When there are ten million, there will be something
 extraordinary to report.
 </para>
+<indexterm startref='idxnewscoverage' class='endofrange'/>
 <indexterm startref='idxpoliticaldiscourse' class='endofrange'/>
 <indexterm startref='idxblogsweblogs2' class='endofrange'/>
 <indexterm startref='idxinternetblogson2' class='endofrange'/>
@@ -5805,6 +5816,7 @@ billion pages, and it was growing at about a billion pages a month.
 <indexterm><primary>Vanderbilt University</primary></indexterm>
 <indexterm><primary>Way Back Machine</primary></indexterm>
 <indexterm><primary>libraries</primary><secondary>archival function of</secondary></indexterm>
+<indexterm id='idxnewscoverage2' class='startofrange'><primary>news coverage</primary></indexterm>
 <para>
 The Way Back Machine is the largest archive of human knowledge in
 human history. At the end of 2002, it held <quote>two hundred and thirty
@@ -5898,6 +5910,7 @@ events of that day.
 </para>
 <indexterm><primary>Movie Archive</primary></indexterm>
 <indexterm><primary>archive.org</primary><seealso>Internet Archive</seealso></indexterm>
+<indexterm startref='idxnewscoverage2' class='endofrange'/>
 <indexterm><primary>films</primary><secondary>archive of</secondary></indexterm>
 <indexterm><primary>Internet Archive</primary></indexterm>
 <indexterm><primary>Duck and Cover film</primary></indexterm>
