@@ -25537,7 +25537,7 @@ msgstr ""
 "deltar for å øke spredningen av deres innhold.  Et eksempel er Cory "
 "Doctorow som er en science fiction-forfatter.  Hans første roman, "
 "<citetitle>Down and Out in the Magic Kingdom</citetitle>, ble sluppet "
-"på nettet og gratis, med en Creative Commons-lisens, samme dag som den "
+"gratis på nettet med en Creative Commons-lisens, samme dag som den "
 "ble lagt ut for salg i bokhandler."
 
 #. type: Content of: <book><chapter><section><section><para>
