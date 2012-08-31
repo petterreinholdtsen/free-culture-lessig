@@ -8120,12 +8120,10 @@ msgid "on copyright laws"
 msgstr "om åndsverkslover"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on recording industry"
-msgstr "på innspillingen industri"
+msgstr "om innspillingenindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "statutory licenses in"
 msgstr "lovbestemte lisenser i"
 
@@ -8135,9 +8133,8 @@ msgid "music recordings played on"
 msgstr "innspillinger spilt på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "recording industry"
-msgstr "Recording industry"
+msgstr "innspillingsindustrien"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -8155,7 +8152,6 @@ msgid "radio broadcast and"
 msgstr "radiosendinger og"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "statutory licenses"
 msgstr "lovbestemte lisenser"
 
