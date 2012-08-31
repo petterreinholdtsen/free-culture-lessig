@@ -25736,44 +25736,43 @@ msgstr ""
 "har tid til å bygge opp bevisstheten rundt endringene som vi trenger."
 
 #. type: Content of: <book><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In this chapter, I outline five kinds of changes: four that are general, and "
 "one that's specific to the most heated battle of the day, music. Each is a "
 "step, not an end. But any of these steps would carry us a long way to our "
 "end."
 msgstr ""
-"i dette kapitlet, jeg skissere fem typer endringer: fire som er generelt, og "
-"som er spesifikk for den mest opphetede kampen på dagen, musikk. hver er et "
-"skritt, ikke en slutt. men noen av disse trinnene vil bære oss en lang vei "
-"til vår side."
+"I dette kapittelet skisserer jeg fem typer endringer: fire som er "
+"generelle og en som er spesifikk for den mest opphetede kampen for "
+"tiden, musikk.  Hver av dem er et steg, ikke et mål.  Men hver av "
+"disse stegene vil føre oss et godt stykke mot vårt mål."
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "1. More Formalities"
 msgstr "1. Flere formaliteter"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "If you buy a house, you have to record the sale in a deed. If you buy land "
 "upon which to build a house, you have to record the purchase in a deed.  If "
 "you buy a car, you get a bill of sale and register the car. If you buy an "
 "airplane ticket, it has your name on it."
 msgstr ""
-"Hvis du kjøper et hus, må du registrere salg i en gjerning. Hvis du kjøper "
-"land som å bygge et hus, må du registrere kjøp i en gjerning. Hvis du kjøper "
-"en bil, kan du få en regning for salg og registrere bilen. Hvis du kjøper en "
-"flybillett, har navnet ditt på den."
+"Hvis du kjøper et hus, så må du registrere salget i et skjøte.  Hvis "
+"du kjøper eiendom for å bygge et hus, så må du registrere kjøpet i et "
+"skjøte.  Hvis du kjøper en bil så får du en eierskiftemelding og "
+"registrerer bilen.  Hvis du kjøper en flybillett så har den navnet "
+"ditt på den."
 
 #.  PAGE BREAK 293
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "These are all formalities associated with property. They are requirements "
 "that we all must bear if we want our property to be protected."
 msgstr ""
-"disse er alle formaliteter knyttet til egenskapen. de er krav som vi alle må "
-"bære hvis vi ønsker vår eiendom skal beskyttes."
+"Disse er alle formaliteter knyttet til eiendom.  De er krav "
+"som vi alle må forholde oss til hvis vi ønsker at vår eiendom skal bli "
+"beskyttet."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25789,7 +25788,6 @@ msgstr ""
 "kontrollen, og \"formaliteter\" er kastet ut."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid "Why?"
 msgstr "hvorfor?"
 
