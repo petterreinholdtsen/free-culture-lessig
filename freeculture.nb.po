@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-31 22:04+0300\n"
+"POT-Creation-Date: 2012-08-31 22:25+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -8809,6 +8809,10 @@ msgstr ""
 "fra min veike får lys uten å forlate meg i mørket</quote>.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><partintro><indexterm><secondary>
+msgid "intangibility of"
+msgstr ""
+
 #. type: Content of: <book><part><partintro><para>
 msgid ""
 "The exceptions to free use are ideas and expressions within the reach of the "
@@ -8878,17 +8882,21 @@ msgstr ""
 msgid "CHAPTER SIX: Founders"
 msgstr "Kapittel seks: Grunnleggerne"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Henry V"
-msgstr "Henry V"
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "English copyright law developed for"
+msgstr "Engelsk åndsverkslov utviklet for"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
 msgstr "Branagh, Kenneth"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-msgid "English copyright law developed for"
-msgstr "Engelsk åndsverkslov utviklet for"
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Henry V"
+msgstr "Henry V"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Romeo and Juliet (Shakespeare)"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8911,6 +8919,14 @@ msgstr ""
 "kilden. Jeg overhørte en gang noen som kommentere Kenneth Branaghs utgave av "
 "Henry V: <quote>Jeg likte det, men Shakespeare er så full av klisjeer.</"
 "quote>"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Conger"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Tonson, Jacob"
+msgstr "Tonson, Jacob"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Jonson, Ben"
@@ -8980,6 +8996,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "British Parliament"
 msgstr "Britiske parlamentet, det"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Statute of Anne (1710)"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""

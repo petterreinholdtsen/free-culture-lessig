@@ -4651,6 +4651,7 @@ Letter from Thomas Jefferson to Isaac McPherson (13 August 1813) in
 Ellery Bergh, eds., 1903), 330, 333&ndash;34.
 </para></footnote>
 </para>
+<indexterm><primary>property rights</primary><secondary>intangibility of</secondary></indexterm>
 <para>
 The exceptions to free use are ideas and expressions within the
 reach of the law of patent and copyright, and a few other domains that
@@ -4689,9 +4690,11 @@ from the implications that the copyright warriors would have us draw.
 <!-- PAGE BREAK 96 -->
 <chapter label="6" id="founders">
 <title>CHAPTER SIX: Founders</title>
-<indexterm><primary>Henry V</primary></indexterm>
+<indexterm id='idxbooksenglishcopyrightlawdevelopedfor' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
-<indexterm id='idxbooksenglishlaw' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
+<indexterm><primary>Henry V</primary></indexterm>
+<indexterm><primary>Shakespeare, William</primary></indexterm>
+<indexterm id='idxromeoandjulietshakespeare' class='startofrange'><primary>Romeo and Juliet (Shakespeare)</primary></indexterm>
 <para>
 <emphasis role='strong'>William Shakespeare</emphasis> wrote
 <citetitle>Romeo and Juliet</citetitle> in 1595. The play was first
@@ -4704,6 +4707,8 @@ once overheard someone commenting on Kenneth Branagh's adaptation of
 Henry V: <quote>I liked it, but Shakespeare is so full of
 clichés.</quote>
 </para>
+<indexterm><primary>Conger</primary></indexterm>
+<indexterm id='idxtonsonjacob' class='startofrange'><primary>Tonson, Jacob</primary></indexterm>
 <para>
 In 1774, almost 180 years after <citetitle>Romeo and Juliet</citetitle> was written, the
 <quote>copy-right</quote> for the work was still thought by many to be the exclusive
@@ -4735,6 +4740,7 @@ copyright.  Prices of the classics were thus kept high; competition to
 produce better or cheaper editions was eliminated.
 </para>
 <indexterm id='idxbritishparliament' class='startofrange'><primary>British Parliament</primary></indexterm>
+<indexterm><primary>Statute of Anne (1710)</primary></indexterm>
 <para>
 Now, there's something puzzling about the year 1774 to anyone who
 knows a little about copyright law. The better-known year in the
@@ -4752,6 +4758,8 @@ As Siva Vaidhyanathan nicely argues, it is erroneous to call this a
 free in 1731. So why was there any issue about it still being under
 Tonson's control in 1774?
 </para>
+<indexterm startref='idxromeoandjulietshakespeare' class='endofrange'/>
+<indexterm startref='idxtonsonjacob' class='endofrange'/>
 <indexterm><primary>Licensing Act (1662)</primary></indexterm>
 <para>
 The reason is that the English hadn't yet agreed on what a <quote>copyright</quote>
@@ -4814,6 +4822,7 @@ why is it that the law would ever allow someone else to come along and
 take Shakespeare's play without his, or his estate's, permission? What
 reason is there to allow someone else to <quote>steal</quote> Shakespeare's work?
 </para>
+<indexterm><primary>Statute of Anne (1710)</primary></indexterm>
 <para>
 The answer comes in two parts. We first need to see something special
 about the notion of <quote>copyright</quote> that existed at the time of the
@@ -5196,7 +5205,7 @@ world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
 <indexterm startref='idxbritishparliament' class='endofrange'/>
-<indexterm startref='idxbooksenglishlaw' class='endofrange'/>
+<indexterm startref='idxbooksenglishcopyrightlawdevelopedfor' class='endofrange'/>
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
@@ -6893,6 +6902,7 @@ States was controlled or free. Just as in England, this lingering
 uncertainty would make it hard for publishers to rely upon a public
 domain to reprint and distribute works.
 </para>
+<indexterm><primary>Statute of Anne (1710)</primary></indexterm>
 <para>
 That uncertainty ended after Congress passed legislation granting
 copyrights. Because federal law overrides any contrary state law,
