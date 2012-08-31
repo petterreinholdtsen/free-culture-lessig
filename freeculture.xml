@@ -2521,6 +2521,8 @@ is having an effect.
 </para>
 <indexterm><primary>Lott, Trent</primary></indexterm>
 <indexterm><primary>Thurmond, Strom</primary></indexterm>
+<indexterm id='idxmediablogpressureon' class='startofrange'><primary>media</primary><secondary>blog pressure on</secondary></indexterm>
+<indexterm id='idxinternetnewseventson2' class='startofrange'><primary>Internet</primary><secondary>news events on</secondary></indexterm>
 <para>
 One direct effect is on stories that had a different life cycle in the
 mainstream media. The Trent Lott affair is an example. When Lott
@@ -2545,6 +2547,7 @@ newspapers are commercial entities. They must work to keep attention.
 If they lose readers, they lose revenue. Like sharks, they must move
 on.
 </para>
+<indexterm startref='idxmediablogpressureon' class='endofrange'/>
 <indexterm><primary>Internet</primary><secondary>peer-generated rankings on</secondary></indexterm>
 <para>
 But bloggers don't have a similar constraint. They can obsess, they
@@ -2556,6 +2559,7 @@ popular has been selected by a very democratic process of
 peer-generated rankings.
 </para>
 <indexterm startref='idxmediacommercialimperativesof' class='endofrange'/>
+<indexterm id='idxjournalism' class='startofrange'><primary>journalism</primary></indexterm>
 <indexterm id='idxwinerdave' class='startofrange'><primary>Winer, Dave</primary></indexterm>
 <para>
 There's a second way, as well, in which blogs have a different cycle
@@ -2589,13 +2593,15 @@ account of the war was too bleak: She needed to offer a more
 optimistic story. When she told New York that wasn't warranted, they
 told her that <emphasis>they</emphasis> were writing <quote>the story.</quote>)
 </para>
-<para> Blog space gives amateurs a way to enter the
-debate&mdash;<quote>amateur</quote> not in the sense of inexperienced, but in the
-sense of an Olympic athlete, meaning not paid by anyone to give their
-reports. It allows for a much broader range of input into a story, as
-reporting on the Columbia disaster revealed, when hundreds from across
-the southwest United States turned to the Internet to retell what they
-had seen.<footnote><para>
+<indexterm startref='idxinternetnewseventson2' class='endofrange'/>
+<para>
+Blog space gives amateurs a way to enter the
+debate&mdash;<quote>amateur</quote> not in the sense of inexperienced,
+but in the sense of an Olympic athlete, meaning not paid by anyone to
+give their reports. It allows for a much broader range of input into a
+story, as reporting on the Columbia disaster revealed, when hundreds
+from across the southwest United States turned to the Internet to
+retell what they had seen.<footnote><para>
 <!-- f20 -->
 John Schwartz, <quote>Loss of the Shuttle: The Internet; A Wealth of
 Information Online,</quote> <citetitle>New York Times</citetitle>, 2 February 2003, A28; Staci
@@ -2638,6 +2644,7 @@ And as the inclusion of content in this space is the least infringing use
 of the Internet (meaning infringing on copyright), Winer said, <quote>we will
 be the last thing that gets shut down.</quote>
 </para>
+<indexterm startref='idxjournalism' class='endofrange'/>
 <para>
 This speech affects democracy. Winer thinks that happens because <quote>you
 don't have to work for somebody who controls, [for] a gatekeeper.</quote>
@@ -2654,12 +2661,12 @@ happens. When there are ten million, there will be something
 extraordinary to report.
 </para>
 <indexterm startref='idxnewscoverage' class='endofrange'/>
+<indexterm startref='idxinternetpublicdiscourseconductedon' class='endofrange'/>
 <indexterm startref='idxpoliticaldiscourse' class='endofrange'/>
 <indexterm startref='idxblogsweblogs2' class='endofrange'/>
 <indexterm startref='idxinternetblogson2' class='endofrange'/>
 <indexterm startref='idxweblogsblogs2' class='endofrange'/>
 <indexterm startref='idxwinerdave' class='endofrange'/>
-<indexterm startref='idxinternetpublicdiscourseconductedon' class='endofrange'/>
 <indexterm id='idxbrownjohnseely' class='startofrange'><primary>Brown, John Seely</primary></indexterm>
 <indexterm id='idxadvertising1' class='startofrange'><primary>advertising</primary></indexterm>
 <para>
@@ -2787,6 +2794,9 @@ quipped to me in a rare moment of despondence.
 <title>CHAPTER THREE: Catalogs</title>
 <indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute (RPI)</see></indexterm>
 <indexterm id='idxrensselaer' class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
+<indexterm id='idxsearchengines' class='startofrange'><primary>search engines</primary></indexterm>
+<indexterm id='idxuniversitycomputernetworksppsharingon' class='startofrange'><primary>university computer networks, p2p sharing on</primary></indexterm>
+<indexterm id='idxinternetsearchenginesusedon' class='startofrange'><primary>Internet</primary><secondary>search engines used on</secondary></indexterm>
 <para>
 <emphasis role='strong'>In the fall</emphasis> of 2002, Jesse Jordan
 of Oceanside, New York, enrolled as a freshman at Rensselaer
@@ -2810,6 +2820,7 @@ available on the RPI network is available on the Internet. But the
 network is designed to enable students to get access to the Internet,
 as well as more intimate access to other members of the RPI community.
 </para>
+<indexterm id='idxgoogle' class='startofrange'><primary>Google</primary></indexterm>
 <para>
 Search engines are a measure of a network's intimacy. Google
 <!-- PAGE BREAK 62 -->
@@ -2822,6 +2833,9 @@ access to material from that institution.  Businesses do this all the
 time, enabling employees to have access to material that people
 outside the business can't get. Universities do it as well.
 </para>
+<indexterm startref='idxuniversitycomputernetworksppsharingon' class='endofrange'/>
+<indexterm id='idxjordanjesse' class='startofrange'><primary>Jordan, Jesse</primary></indexterm>
+<indexterm id='idxmicrosoftnetworkfilesystemof' class='startofrange'><primary>Microsoft</primary><secondary>network file system of</secondary></indexterm>
 <para>
 These engines are enabled by the network technology itself.
 Microsoft, for example, has a network file system that makes it very
@@ -2831,6 +2845,7 @@ content.  Jesse's search engine was built to take advantage of this
 technology. It used Microsoft's network file system to build an index
 of all the files available within the RPI network.
 </para>
+<indexterm startref='idxgoogle' class='endofrange'/>
 <para>
 Jesse's wasn't the first search engine built for the RPI network.
 Indeed, his engine was a simple modification of engines that others
@@ -2843,6 +2858,7 @@ modified the system a bit to fix that problem, by adding a button that
 a user could click to see if the machine holding the file was still
 on-line.
 </para>
+<indexterm startref='idxmicrosoftnetworkfilesystemof' class='endofrange'/>
 <para>
 Jesse's engine went on-line in late October. Over the following six
 months, he continued to tweak it to improve its functionality. By
@@ -2850,6 +2866,7 @@ March, the system was functioning quite well. Jesse had more than one
 million files in his directory, including every type of content that might
 be on users' computers.
 </para>
+<indexterm startref='idxinternetsearchenginesusedon' class='endofrange'/>
 <para>
 Thus the index his search engine produced included pictures, which
 students could use to put on their own Web sites; copies of notes or
@@ -2859,6 +2876,8 @@ might have created; university brochures&mdash;basically anything that
 users of the RPI network made available in a public folder of their
 computer.
 </para>
+<indexterm><primary>Google</primary></indexterm>
+<indexterm><primary>education</primary><secondary>tinkering as means of</secondary></indexterm>
 <para>
 But the index also included music files. In fact, one quarter of the
 files that Jesse's search engine listed were music files. But that
@@ -2896,6 +2915,7 @@ RPI community to get access to content, which Jesse had not himself
 created or posted, and the vast majority of which had nothing to do
 with music.
 </para>
+<indexterm startref='idxsearchengines' class='endofrange'/>
 <indexterm><primary>statutory damages</primary></indexterm>
 <para>
 But the RIAA branded Jesse a pirate. They claimed he operated a
@@ -3005,6 +3025,7 @@ I. &hellip; He's  not a tree hugger. &hellip; I  think it's bizarre that they wo
 pick on him. But he wants to let people know that they're sending the
 wrong message. And he wants to correct the record.</quote>
 </para>
+<indexterm startref='idxjordanjesse' class='endofrange'/>
 <!-- PAGE BREAK 66 -->
 </chapter>
 <chapter label="4" id="pirates">
