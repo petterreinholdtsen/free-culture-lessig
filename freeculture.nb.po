@@ -25526,7 +25526,6 @@ msgstr ""
 "begynne å bygge disse reglene."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Why would creators participate in giving up total control? Some participate "
 "to better spread their content. Cory Doctorow, for example, is a science "
@@ -25534,11 +25533,12 @@ msgid ""
 "Kingdom</citetitle>, was released on-line and for free, under a Creative "
 "Commons license, on the same day that it went on sale in bookstores."
 msgstr ""
-"Hvorfor ville skaperne delta i å gi opp full kontroll? noen delta for å "
-"bedre spre innholdet. Cory doctorow, for eksempel er en science fiction-"
-"forfatter. hans første novelle, ned og ut i magiske riket, ble utgitt på "
-"nettet og gratis, under en creative commons-lisens på samme dag som det gikk "
-"på salg i bokhandler."
+"Hvorfor ville skapere delta i å gi slipp på total kontroll?  Noen "
+"deltar for å øke spredningen av deres innhold.  Et eksempel er Cory "
+"Doctorow som er en science fiction-forfatter.  Hans første roman, "
+"<citetitle>Down and Out in the Magic Kingdom</citetitle>, ble sluppet "
+"på nettet og gratis, med en Creative Commons-lisens, samme dag som den "
+"ble lagt ut for salg i bokhandler."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25564,15 +25564,15 @@ msgstr ""
 "trolig vil øke salg av cory's bok."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Indeed, the experience of his publisher clearly supports that conclusion.  "
 "The book's first printing was exhausted months before the publisher had "
 "expected. This first novel of a science fiction author was a total success."
 msgstr ""
-"opplevelsen av hans publisher støtter faktisk klart at konklusjonen. bokens "
-"første utskrift er oppbrukt måneder før utgiveren hadde forventet. denne "
-"første romanen av en science fiction-forfatteren var en total suksess."
+"Faktisk støtter erfaringene fra hans utgiver helt klart denne "
+"konklusjonen.  Førsteutgaven av boken var utsolgt flere måneder "
+"tidligere enn utgiveren hadde forventet.  Denne første romanen til en "
+"science fiction-formfatter var en total suksess."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 #, mtrans, fuzzy
