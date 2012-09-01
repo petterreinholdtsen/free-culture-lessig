@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-08-31 22:25+0300\n"
+"POT-Creation-Date: 2012-09-01 20:38+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1410,9 +1410,9 @@ msgstr ""
 "klubber, deling av musikk, laging av kassetter&mdash;ble ikke styrt av "
 "lovverket."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
-msgid "Copyright infringement lawsuits"
+msgid "copyright infringement lawsuits"
 msgstr "krenkelse av opphavsrett søksmål"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
@@ -5200,6 +5200,10 @@ msgstr ""
 msgid "CHAPTER THREE: Catalogs"
 msgstr "Kapittel tre: Kataloger"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Jordan, Jesse"
+msgstr "Jordan, Jesse"
+
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "RPI"
 msgstr "RPI"
@@ -5207,6 +5211,10 @@ msgstr "RPI"
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Rensselaer Polytechnic Institute (RPI)"
 msgstr "Rensselaer Polytechnic Institute (RPI)"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "computer network search engine of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "search engines"
@@ -5291,10 +5299,6 @@ msgstr ""
 "institusjonen. Bedrifter gjør dette hele tiden, ved å gi ansatte mulighet "
 "til å få tak i materiale som folk på utsiden av bedriften ikke kan få tak i. "
 "Universitetet gjør også dette."
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Jordan, Jesse"
-msgstr "Jordan, Jesse"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Microsoft"
@@ -5408,6 +5412,32 @@ msgstr ""
 "ungdom som fiklet med teknologi i en omgivelse hvor fikling med teknologi "
 "var nøyaktig hva han var ment å gjøre."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "in recording industry"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "against student file sharing"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "recording industry"
+msgstr "innspillingsindustrien"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright infringement lawsuits of"
+msgstr "krenkelse av opphavsrett søksmål"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Recording Industry Association of America (RIAA)"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright infringement lawsuits filed by"
+msgstr "krenkelse av opphavsrett søksmål"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "On April 3, 2003, Jesse was contacted by the dean of students at RPI. The "
@@ -5449,9 +5479,25 @@ msgstr ""
 "få tilgang til innhold, som Jesse ikke hadde laget eller gjort tilgjengelig, "
 "og der det store flertall av dette ikke hadde noe å gjøre med musikk."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "exaggerated claims of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "statutory damages of"
+msgstr "lovbestemte skader for"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "individual defendants intimidated by"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "statutory damages"
 msgstr "lovbestemte skader"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "intimidation tactics of"
+msgstr ""
 
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
@@ -5475,12 +5521,12 @@ msgstr ""
 "krevde de dermed at Jesse betalte dem minst $15&nbsp;000&nbsp;000."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Princeton University"
-msgstr "Princeton University"
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Michigan Technical University"
 msgstr "Michigan Technical University"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Princeton University"
+msgstr "Princeton University"
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5553,6 +5599,10 @@ msgstr ""
 "insisterte RIAA at de ikke ville inngå forlik før de hadde tatt hver eneste "
 "øre som Jesse hadde spart opp."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "legal system, attorney costs in"
+msgstr ""
+
 #.  PAGE BREAK 65
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5588,6 +5638,15 @@ msgstr "artister"
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "recording industry payments to"
 msgstr "musikkindustriens betaling til"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "artist remuneration in"
+msgstr "artist godtgjørelse i"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "lobbying power of"
+msgstr ""
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5672,6 +5731,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER FOUR: <quote>Pirates</quote>"
 msgstr "Kapittel fire: <quote>Pirater</quote>"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "in development of content industry"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8131,15 +8194,6 @@ msgstr "lovbestemte lisenser i"
 #, mtrans, fuzzy
 msgid "music recordings played on"
 msgstr "innspillinger spilt på"
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "recording industry"
-msgstr "innspillingsindustrien"
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "artist remuneration in"
-msgstr "artist godtgjørelse i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -17225,6 +17279,10 @@ msgstr ""
 msgid "Worldcom"
 msgstr "Worldcom"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "doctors malpractice claims against"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
 "See Lynne W. Jeter, <citetitle>Disconnected: Deceit and Betrayal at "
@@ -24860,15 +24918,15 @@ msgid ""
 "<quote>No Rights Reserved</quote> sorts believe you should be able to do "
 "with content as you wish, regardless of whether you have permission or not."
 msgstr ""
-"Tabben her er feilen med å utelukke den gyldne middelvei.  Det er ytterpunkter "
-"i denne debatten, men ytterpunktene er ikke det hele.  Det er de som tror på "
-"maksimal opphavsrett&mdash;<quote>Alle rettigheter reservert</quote>&mdash;"
-"og de som avviser opphavsrett&mdash;<quote>Ingen rettigheter reservert</"
-"quote>. <quote>Alle rettigheter reservert</quote>-typen mener du bør spørre "
-"om tillatelse før du <quote>bruker</quote> et opphavsrettsbeskyttet verk på "
-"noe vis.  <quote>Ingen rettigheter reservert</quote>-typen mener du bør "
-"kunne gjøre med innhold som du selv ønsker uavhengig av om du har tillatelse "
-"eller ikke."
+"Tabben her er feilen med å utelukke den gyldne middelvei.  Det er "
+"ytterpunkter i denne debatten, men ytterpunktene er ikke det hele.  Det er "
+"de som tror på maksimal opphavsrett&mdash;<quote>Alle rettigheter reservert</"
+"quote>&mdash;og de som avviser opphavsrett&mdash;<quote>Ingen rettigheter "
+"reservert</quote>. <quote>Alle rettigheter reservert</quote>-typen mener du "
+"bør spørre om tillatelse før du <quote>bruker</quote> et "
+"opphavsrettsbeskyttet verk på noe vis.  <quote>Ingen rettigheter reservert</"
+"quote>-typen mener du bør kunne gjøre med innhold som du selv ønsker "
+"uavhengig av om du har tillatelse eller ikke."
 
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
@@ -24904,20 +24962,18 @@ msgid ""
 "<quote>get permission to cut and paste</quote> world that is a creator's "
 "nightmare."
 msgstr ""
-"Denne opprinnelige egenskapen ga en reaksjon (med motsatt fortegn, "
-"men ikke helt likt) fra opphavsrettseierne.  Den reaksjonen har vært "
-"tema for denne boken.  Gjennom lovgiving, søksmål og endringer i "
-"nettverkets utforming har opphavsrettsinnehaverne vært i stand ti lå "
-"endre den grunnlegende egenskapen til omgivelsen for det originale "
-"internett.  Hvis den opprinnelige arkitekturen gir et effektivt "
-"utgangspunkt med <quote>ingen rettigheter reserver</quote>, så vil "
-"fremtidens arkitektur gjøre det effektive utgangspunktet til "
-"<quote>alle rettgheter reservert</quote>.  Arkitekturen og loven som "
-"omgir internettets utforming vil i stadig større grad gi en omgivelse "
-"hvor all bruk av innhold krever tillatelse.  <quote>Klipp og "
-"lim</quote>-verden som definerer internettet i dag vil bli en "
-"<quote>skaff tillatelse til å klippe og lime</quote>-verden som er en "
-"skapers mareritt."
+"Denne opprinnelige egenskapen ga en reaksjon (med motsatt fortegn, men ikke "
+"helt likt) fra opphavsrettseierne.  Den reaksjonen har vært tema for denne "
+"boken.  Gjennom lovgiving, søksmål og endringer i nettverkets utforming har "
+"opphavsrettsinnehaverne vært i stand ti lå endre den grunnlegende egenskapen "
+"til omgivelsen for det originale internett.  Hvis den opprinnelige "
+"arkitekturen gir et effektivt utgangspunkt med <quote>ingen rettigheter "
+"reserver</quote>, så vil fremtidens arkitektur gjøre det effektive "
+"utgangspunktet til <quote>alle rettgheter reservert</quote>.  Arkitekturen "
+"og loven som omgir internettets utforming vil i stadig større grad gi en "
+"omgivelse hvor all bruk av innhold krever tillatelse.  <quote>Klipp og lim</"
+"quote>-verden som definerer internettet i dag vil bli en <quote>skaff "
+"tillatelse til å klippe og lime</quote>-verden som er en skapers mareritt."
 
 #. type: Content of: <book><chapter><section><para>
 msgid ""
@@ -25011,15 +25067,15 @@ msgid ""
 "friction has disappeared, and hence any <quote>privacy</quote> protected by "
 "the friction disappears, too."
 msgstr ""
-"Så kommer internettet, hvor kostnaden med å spore spesielt det blir "
-"bladd i har blitt svært liten.  Hvis du er en kunde av Amazon, så vil "
-"Amazon samle informasjon om hva du har sett på mens du tittet på "
-"sidene der.  Du vet dette på grunn av at det i en spalte på siden "
-"vises en liste med <quote>nylig sette</quote> sider.  På grunn av "
-"arkitekturen til nettet og hvordan informasjonskapsler fungerer på "
-"nettet, så er det enklere å samle inn disse dataene enn å la være. "
-"Friksjonen har forsvunnet, og dermed forsvinner ogsåå ethver "
-"<quote>personvern</quote> som var beskyttet av denne friksjonen."
+"Så kommer internettet, hvor kostnaden med å spore spesielt det blir bladd i "
+"har blitt svært liten.  Hvis du er en kunde av Amazon, så vil Amazon samle "
+"informasjon om hva du har sett på mens du tittet på sidene der.  Du vet "
+"dette på grunn av at det i en spalte på siden vises en liste med "
+"<quote>nylig sette</quote> sider.  På grunn av arkitekturen til nettet og "
+"hvordan informasjonskapsler fungerer på nettet, så er det enklere å samle "
+"inn disse dataene enn å la være. Friksjonen har forsvunnet, og dermed "
+"forsvinner ogsåå ethver <quote>personvern</quote> som var beskyttet av denne "
+"friksjonen."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25031,14 +25087,13 @@ msgid ""
 "becomes simple to gather and sort who does what in electronic spaces, then "
 "the friction-induced privacy of yesterday disappears."
 msgstr ""
-"Amazon er naturligvis ikke problemet.  Men vi kan begynne å bekymre "
-"oss for biblioteker.  Hvis du er en av disse sprø venstrevridde som "
-"mener at folk bør ha <quote>retten</quote> bla igjennom et bibliotek "
-"uten at myndighetene får vite hvilke bøker du ser på (jeg er også en "
-"av disse venstrevridde), da kan det hende denne endringen i "
-"teknologien for overvåkning angår deg.  Hvis det blir enkelt å samle "
-"inn og sortere hvem som gjør hva i det elektroniske rom, så forsvinner "
-"det friksjons-induserte personvernet fra tidligere tider."
+"Amazon er naturligvis ikke problemet.  Men vi kan begynne å bekymre oss for "
+"biblioteker.  Hvis du er en av disse sprø venstrevridde som mener at folk "
+"bør ha <quote>retten</quote> bla igjennom et bibliotek uten at myndighetene "
+"får vite hvilke bøker du ser på (jeg er også en av disse venstrevridde), da "
+"kan det hende denne endringen i teknologien for overvåkning angår deg.  Hvis "
+"det blir enkelt å samle inn og sortere hvem som gjør hva i det elektroniske "
+"rom, så forsvinner det friksjons-induserte personvernet fra tidligere tider."
 
 #.  f1.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -25190,14 +25245,13 @@ msgid ""
 "innovative creative code was a byproduct."
 msgstr ""
 "Stallmans teknikk var å bruke åndsverksloven til å bygge en verden av "
-"programvare som må forbli fri.  Programvare lisensiert med GPL fra "
-"Free Software Foundation kan ikke endres og distribueres uten at "
-"kildekoden for den programvaren også blir gjort tilgjengelig.  Dermed "
-"må enhver som bygger på GPL-et programvare også frigjøre sitt "
-"byggverk.  Dette trodde Stallman ville sikre, at en økologi av kode "
-"ville utvikle seg som forble fri for andre å bygge på.  Hans "
-"fundamentale mål var frihet.  Nyskapende kreativ kode var et "
-"biprodukt."
+"programvare som må forbli fri.  Programvare lisensiert med GPL fra Free "
+"Software Foundation kan ikke endres og distribueres uten at kildekoden for "
+"den programvaren også blir gjort tilgjengelig.  Dermed må enhver som bygger "
+"på GPL-et programvare også frigjøre sitt byggverk.  Dette trodde Stallman "
+"ville sikre, at en økologi av kode ville utvikle seg som forble fri for "
+"andre å bygge på.  Hans fundamentale mål var frihet.  Nyskapende kreativ "
+"kode var et biprodukt."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25536,12 +25590,11 @@ msgid ""
 "Kingdom</citetitle>, was released on-line and for free, under a Creative "
 "Commons license, on the same day that it went on sale in bookstores."
 msgstr ""
-"Hvorfor ville skapere delta i å gi slipp på total kontroll?  Noen "
-"deltar for å øke spredningen av deres innhold.  Et eksempel er Cory "
-"Doctorow som er en science fiction-forfatter.  Hans første roman, "
-"<citetitle>Down and Out in the Magic Kingdom</citetitle>, ble sluppet "
-"gratis på nettet med en Creative Commons-lisens, samme dag som den "
-"ble lagt ut for salg i bokhandler."
+"Hvorfor ville skapere delta i å gi slipp på total kontroll?  Noen deltar for "
+"å øke spredningen av deres innhold.  Et eksempel er Cory Doctorow som er en "
+"science fiction-forfatter.  Hans første roman, <citetitle>Down and Out in "
+"the Magic Kingdom</citetitle>, ble sluppet gratis på nettet med en Creative "
+"Commons-lisens, samme dag som den ble lagt ut for salg i bokhandler."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25572,10 +25625,10 @@ msgid ""
 "The book's first printing was exhausted months before the publisher had "
 "expected. This first novel of a science fiction author was a total success."
 msgstr ""
-"Faktisk støtter erfaringene fra hans utgiver helt klart denne "
-"konklusjonen.  Førsteutgaven av boken var utsolgt flere måneder "
-"tidligere enn utgiveren hadde forventet.  Denne første romanen til en "
-"science fiction-formfatter var en total suksess."
+"Faktisk støtter erfaringene fra hans utgiver helt klart denne konklusjonen.  "
+"Førsteutgaven av boken var utsolgt flere måneder tidligere enn utgiveren "
+"hadde forventet.  Denne første romanen til en science fiction-formfatter var "
+"en total suksess."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 #, mtrans, fuzzy
@@ -25732,11 +25785,11 @@ msgid ""
 "implement these reforms.  But that also means that we have time to build "
 "awareness around the changes that we need."
 msgstr ""
-"<emphasis role='strong'>Vi vil</emphasis> ikke vinne tilbake en fri "
-"kultur kun ved individuelle handlinger.  Det trengs også viktige "
-"lovreformer.  Vi har en lang vei a gå før politikerne vil lytte til "
-"disse ideene og implementere disse reformene.  Men det betyr også at "
-"vi har tid til å bygge opp bevistheten rundt endringene som trengs."
+"<emphasis role='strong'>Vi vil</emphasis> ikke vinne tilbake en fri kultur "
+"kun ved individuelle handlinger.  Det trengs også viktige lovreformer.  Vi "
+"har en lang vei a gå før politikerne vil lytte til disse ideene og "
+"implementere disse reformene.  Men det betyr også at vi har tid til å bygge "
+"opp bevistheten rundt endringene som trengs."
 
 #. type: Content of: <book><chapter><section><para>
 msgid ""
@@ -25745,10 +25798,10 @@ msgid ""
 "step, not an end. But any of these steps would carry us a long way to our "
 "end."
 msgstr ""
-"I dette kapittelet skisserer jeg fem typer endringer: fire som er "
-"generelle og en som er spesifikk for den mest opphetede kampen for "
-"tiden, musikk.  Hver av dem er et steg, ikke et mål.  Men hver av "
-"disse stegene vil føre oss et godt stykke mot vårt mål."
+"I dette kapittelet skisserer jeg fem typer endringer: fire som er generelle "
+"og en som er spesifikk for den mest opphetede kampen for tiden, musikk.  "
+"Hver av dem er et steg, ikke et mål.  Men hver av disse stegene vil føre oss "
+"et godt stykke mot vårt mål."
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "1. More Formalities"
@@ -25761,11 +25814,10 @@ msgid ""
 "you buy a car, you get a bill of sale and register the car. If you buy an "
 "airplane ticket, it has your name on it."
 msgstr ""
-"Hvis du kjøper et hus, så må du registrere salget i et skjøte.  Hvis "
-"du kjøper eiendom for å bygge et hus, så må du registrere kjøpet i et "
-"skjøte.  Hvis du kjøper en bil så får du en eierskiftemelding og "
-"registrerer bilen.  Hvis du kjøper en flybillett så har den navnet "
-"ditt på den."
+"Hvis du kjøper et hus, så må du registrere salget i et skjøte.  Hvis du "
+"kjøper eiendom for å bygge et hus, så må du registrere kjøpet i et skjøte.  "
+"Hvis du kjøper en bil så får du en eierskiftemelding og registrerer bilen.  "
+"Hvis du kjøper en flybillett så har den navnet ditt på den."
 
 #.  PAGE BREAK 293
 #. type: Content of: <book><chapter><section><section><para>
@@ -25773,9 +25825,8 @@ msgid ""
 "These are all formalities associated with property. They are requirements "
 "that we all must bear if we want our property to be protected."
 msgstr ""
-"Disse er alle formaliteter knyttet til eiendom.  De er krav "
-"som vi alle må forholde oss til hvis vi ønsker at vår eiendom skal bli "
-"beskyttet."
+"Disse er alle formaliteter knyttet til eiendom.  De er krav som vi alle må "
+"forholde oss til hvis vi ønsker at vår eiendom skal bli beskyttet."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25803,13 +25854,13 @@ msgid ""
 "relaxed the formal requirements that a copyright owner must bear to protect "
 "and secure his work. Those formalities were getting in the way."
 msgstr ""
-"Som jeg foreslo i kapittel <xref xrefstyle=\"select: labelnumber\" "
-"linkend=\"property-i\"/>, var motivasjonen for å avskaffe "
-"formalitetene god.  I verden før digitale teknologier, belastet "
-"formalitetene en byrde på opphavsrettsinnehaverne uten nevneverdige "
-"fordeler.  Dermed var det en fremgang da loven slakket opp på de "
-"formelle kravene som opphavsrettseieren måtte fylle for å beskytte og "
-"sikre sitt verk.  Disse formalitetene kom i veien."
+"Som jeg foreslo i kapittel <xref xrefstyle=\"select: labelnumber\" linkend="
+"\"property-i\"/>, var motivasjonen for å avskaffe formalitetene god.  I "
+"verden før digitale teknologier, belastet formalitetene en byrde på "
+"opphavsrettsinnehaverne uten nevneverdige fordeler.  Dermed var det en "
+"fremgang da loven slakket opp på de formelle kravene som opphavsrettseieren "
+"måtte fylle for å beskytte og sikre sitt verk.  Disse formalitetene kom i "
+"veien."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25841,9 +25892,9 @@ msgid ""
 "Obviously, I believe it would be beneficial for the same idea to be adopted "
 "by other countries as well."
 msgstr ""
-"Forslaget jeg fremmmer her ville kun gjelde for amerikanske verk.  Jeg "
-"tror naturligvis at det ville være en fordel om samme ide ble adoptert "
-"også av andre land."
+"Forslaget jeg fremmmer her ville kun gjelde for amerikanske verk.  Jeg tror "
+"naturligvis at det ville være en fordel om samme ide ble adoptert også av "
+"andre land."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25853,11 +25904,10 @@ msgid ""
 "system that will create the incentives to minimize the burden of these "
 "formalities."
 msgstr ""
-"Loven burde derfor endre dette kravet<placeholder type=\"footnote\" "
-"id=\"0\"/>&mdash;men den bør ikke endres ved å gå tilbake til det "
-"gamle ødelagte systemet.  Vi bør kreve formaliteter, men vi bør "
-"etablere et system som vil skape insentivene for å minimere byrden "
-"disse formalitetene påfører."
+"Loven burde derfor endre dette kravet<placeholder type=\"footnote\" id=\"0\"/"
+">&mdash;men den bør ikke endres ved å gå tilbake til det gamle ødelagte "
+"systemet.  Vi bør kreve formaliteter, men vi bør etablere et system som vil "
+"skape insentivene for å minimere byrden disse formalitetene påfører."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25869,11 +25919,11 @@ msgid ""
 "approving standards developed by others."
 msgstr ""
 "Det er tre viktige formaliteter: merke opphavsrettsbeskyttede verk, "
-"registrere opphavsrett og fornøye krav om opphavsrett.  Tradisjonelt "
-"var den første av disse tre noe opphavsrettsinnehaveren gjorde og de "
-"andre to var noe myndighetene gjorde.  Men et revidert system med "
-"formaliterer bør fjerne myndighetene fra prosessen, med unntak fra det "
-"ene formålet med å godkjenne standarder utviklet av andre."
+"registrere opphavsrett og fornøye krav om opphavsrett.  Tradisjonelt var den "
+"første av disse tre noe opphavsrettsinnehaveren gjorde og de andre to var "
+"noe myndighetene gjorde.  Men et revidert system med formaliterer bør fjerne "
+"myndighetene fra prosessen, med unntak fra det ene formålet med å godkjenne "
+"standarder utviklet av andre."
 
 #. type: Content of: <book><chapter><section><section><section><title>
 msgid "REGISTRATION AND RENEWAL"
