@@ -25178,7 +25178,6 @@ msgstr ""
 "type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Stallman's technique was to use copyright law to build a world of software "
 "that must be kept free. Software licensed under the Free Software "
@@ -25189,14 +25188,15 @@ msgid ""
 "remained free for others to build upon. His fundamental goal was freedom; "
 "innovative creative code was a byproduct."
 msgstr ""
-"Stallmans teknikken var å bruke lov om opphavsrett til å bygge en verden av "
-"programvare som må holdes gratis. programvare lisensiert under gpl av free "
-"software foundation kan ikke endres og distribuert med mindre kildekoden for "
-"denne programvaren gjøres tilgjengelig også. Dermed noen bygger på gpl ville "
-"programvare ville ha å gjøre sine bygninger gratis også. Dette vil forsikre, "
-"stallman trodd at en økologi av koden ville utvikle som forble gratis for "
-"andre å bygge på. hans grunnleggende målet var frihet; nyskapende, kreative "
-"koden var en byproduct."
+"Stallmans teknikk var å bruke åndsverksloven til å bygge en verden av "
+"programvare som må forbli fri.  Programvare lisensiert med GPL fra "
+"Free Software Foundation kan ikke endres og distribueres uten at "
+"kildekoden for den programvaren også blir gjort tilgjengelig.  Dermed "
+"må enhver som bygger på GPL-et programvare også frigjøre sitt "
+"byggverk.  Dette trodde Stallman ville sikre, at en økologi av kode "
+"ville utvikle seg som forble fri for andre å bygge på.  Hans "
+"fundamentale mål var frihet.  Nyskapende kreativ kode var et "
+"biprodukt."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
