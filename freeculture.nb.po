@@ -25792,7 +25792,6 @@ msgid "Why?"
 msgstr "hvorfor?"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "As I suggested in chapter <xref xrefstyle=\"select: labelnumber\" linkend="
 "\"property-i\"/>, the motivation to abolish formalities was a good one. In "
@@ -25801,11 +25800,13 @@ msgid ""
 "relaxed the formal requirements that a copyright owner must bear to protect "
 "and secure his work. Those formalities were getting in the way."
 msgstr ""
-"som jeg antydet i kapittel 10, var motivasjon til å avskaffe formaliteter en "
-"god en. i verden før digital teknologi pålagt formaliteter en byrde på "
-"innehaver av opphavsrett uten mye fordel. dermed var det fremdriften når "
-"loven avslappet formelle krav som en opphavsrettsinnehaveren må bære å "
-"beskytte og sikre hans arbeid. disse formaliteter var komme i veien."
+"Som jeg foreslo i kapittel <xref xrefstyle=\"select: labelnumber\" "
+"linkend=\"property-i\"/>, var motivasjonen for å avskaffe "
+"formalitetene god.  I verden før digitale teknologier, belastet "
+"formalitetene en byrde på opphavsrettsinnehaverne uten nevneverdige "
+"fordeler.  Dermed var det en fremgang da loven slakket opp på de "
+"formelle kravene som opphavsrettseieren måtte fylle for å beskytte og "
+"sikre sitt verk.  Disse formalitetene kom i veien."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25832,15 +25833,14 @@ msgstr ""
 
 #.  f1.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "The proposal I am advancing here would apply to American works only.  "
 "Obviously, I believe it would be beneficial for the same idea to be adopted "
 "by other countries as well."
 msgstr ""
-"forslaget jeg er fremme her ville gjelde american Works bare. Selvfølgelig, "
-"jeg tror det vil være fordelaktig for samme idéen om å bli vedtatt av andre "
-"land også."
+"Forslaget jeg fremmmer her ville kun gjelde for amerikanske verk.  Jeg "
+"tror naturligvis at det ville være en fordel om samme ide ble adoptert "
+"også av andre land."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
