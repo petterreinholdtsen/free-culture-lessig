@@ -23847,9 +23847,8 @@ msgstr ""
 "gir en <quote>perfekt storm</quote> for fri kultur."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "public projects in"
-msgstr "felles prosjekter i"
+msgstr "offentlige prosjekter i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "single nucleotied polymorphisms (SNPs)"
@@ -23860,9 +23859,8 @@ msgid "Wellcome Trust"
 msgstr "Wellcome Trust"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "World Wide Web"
-msgstr "World wide web"
+msgstr "World Wide Web"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Global Positioning System"
@@ -23906,9 +23904,8 @@ msgid "IBM"
 msgstr "IBM"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
-#, mtrans, fuzzy
 msgid "PLoS (Public Library of Science)"
-msgstr "PLOs (public library of science)"
+msgstr "PLoS (Public Library of Science)"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24291,7 +24288,6 @@ msgid "drugs"
 msgstr "medisiner"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "pharmaceutical"
 msgstr "farmasøytisk"
 
