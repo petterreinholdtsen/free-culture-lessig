@@ -25021,7 +25021,6 @@ msgstr ""
 "\"personvern\" beskyttet av friksjonen forsvinner, også."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Amazon, of course, is not the problem. But we might begin to worry about "
 "libraries. If you're one of those crazy lefties who thinks that people "
@@ -25031,13 +25030,14 @@ msgid ""
 "becomes simple to gather and sort who does what in electronic spaces, then "
 "the friction-induced privacy of yesterday disappears."
 msgstr ""
-"Amazon, selvfølgelig, er ikke problemet. men vi kan begynne å bekymre deg om "
-"biblioteker. Hvis du er en av de sprø lefties som mener at folk skal ha "
-"\"rett\" til å bla i et bibliotek uten regjeringen å vite hvilke bøker du "
-"ser på (jeg er en av disse lefties også), og deretter denne endringen i "
-"teknologien for overvåking kan angår deg. Hvis det blir enkelt å samle og "
-"sortere hvem gjør hva i elektronisk mellomrom, forsvinner personvern "
-"friksjon i går."
+"Amazon er naturligvis ikke problemet.  Men vi kan begynne å bekymre "
+"oss for biblioteker.  Hvis du er en av disse sprø venstrevridde som "
+"mener at folk bør ha <quote>retten</quote> bla igjennom et bibliotek "
+"uten at myndighetene får vite hvilke bøker du ser på (jeg er også en "
+"av disse venstrevridde), da kan det hende denne endringen i "
+"teknologien for overvåkning angår deg.  Hvis det blir enkelt å samle "
+"inn og sortere hvem som gjør hva i det elektroniske rom, så forsvinner "
+"det friksjons-induserte personvernet fra tidligere tider."
 
 #.  f1.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
