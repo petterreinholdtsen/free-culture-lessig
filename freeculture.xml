@@ -2893,6 +2893,11 @@ this experiment. He was a kid tinkering with technology in an
 environment where tinkering with technology was precisely what he was
 supposed to do.
 </para>
+<indexterm id='idxcopyrightinfringementlawsuitsinrecordingindustry' class='startofrange'><primary>copyright infringement lawsuits</primary><secondary>in recording industry</secondary></indexterm>
+<indexterm id='idxcopyrightinfringementlawsuitsagainststudentfilesharing' class='startofrange'><primary>copyright infringement lawsuits</primary><secondary>against student file sharing</secondary></indexterm>
+<indexterm id='idxrecordingindustrycopyrightinfringementlawsuitsof' class='startofrange'><primary>recording industry</primary><secondary>copyright infringement lawsuits of</secondary></indexterm>
+<indexterm id='idxrecordingindustryassociationofamericariaacopyrightinfringementlawsuitsfiledby' class='startofrange'><primary>Recording Industry Association of America (RIAA)</primary><secondary>copyright infringement lawsuits filed by</secondary></indexterm>
+<indexterm startref='idxrensselaerpolytechnicinstituterpicomputernetworksearchengineof' class='endofrange'/>
 <para>
 On April 3, 2003, Jesse was contacted by the dean of students at
 RPI. The dean informed Jesse that the Recording Industry Association
@@ -2916,7 +2921,11 @@ created or posted, and the vast majority of which had nothing to do
 with music.
 </para>
 <indexterm startref='idxsearchengines' class='endofrange'/>
+<indexterm><primary>copyright infringement lawsuits</primary><secondary>exaggerated claims of</secondary></indexterm>
+<indexterm><primary>copyright infringement lawsuits</primary><secondary>statutory damages of</secondary></indexterm>
+<indexterm id='idxcopyrightinfringementlawsuitsindividualdefendantsintimidatedby' class='startofrange'><primary>copyright infringement lawsuits</primary><secondary>individual defendants intimidated by</secondary></indexterm>
 <indexterm><primary>statutory damages</primary></indexterm>
+<indexterm id='idxrecordingindustryassociationofamericariaaintimidationtacticsof' class='startofrange'><primary>Recording Industry Association of America (RIAA)</primary><secondary>intimidation tactics of</secondary></indexterm>
 <para>
 But the RIAA branded Jesse a pirate. They claimed he operated a
 network and had therefore <quote>willfully</quote> violated copyright laws. They
@@ -2928,8 +2937,8 @@ claim $150,000 per infringement. As the RIAA alleged more than one
 hundred specific copyright infringements, they therefore demanded that
 Jesse pay them at least $15,000,000.
 </para>
-<indexterm><primary>Princeton University</primary></indexterm>
 <indexterm><primary>Michigan Technical University</primary></indexterm>
+<indexterm><primary>Princeton University</primary></indexterm>
 <para>
 Similar lawsuits were brought against three other students: one other
 student at RPI, one at Michigan Technical University, and one at
@@ -2968,6 +2977,7 @@ case, Matt Oppenheimer, told Jesse, <quote>You don't want to pay another
 visit to a dentist like me.</quote>) And throughout, the RIAA insisted it
 would not settle the case until it took every penny Jesse had saved.
 </para>
+<indexterm><primary>legal system, attorney costs in</primary></indexterm>
 <para>
 Jesse's family was outraged at these claims. They wanted to fight.
 But Jesse's uncle worked to educate the family about the nature of the
@@ -2983,6 +2993,8 @@ So Jesse faced a mafia-like choice: $250,000 and a chance at winning,
 or $12,000 and a settlement.
 </para>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
+<indexterm><primary>recording industry</primary><secondary>artist remuneration in</secondary></indexterm>
+<indexterm><primary>Recording Industry Association of America (RIAA)</primary><secondary>lobbying power of</secondary></indexterm>
 <para>
 The recording industry insists this is a matter of law and morality.
 Let's put the law aside for a moment and think about the morality.
@@ -3004,6 +3016,8 @@ Douglas Lichtman makes a related point in <quote>KaZaA and Punishment,</quote>
 <citetitle>Wall Street Journal</citetitle>, 10 September 2003, A24.
 </para></footnote>
 </para>
+<indexterm startref='idxcopyrightinfringementlawsuitsindividualdefendantsintimidatedby' class='endofrange'/>
+<indexterm startref='idxrecordingindustryassociationofamericariaaintimidationtacticsof' class='endofrange'/>
 <para>
 On June 23, Jesse wired his savings to the lawyer working for the
 RIAA. The case against him was then dismissed. And with this, this
@@ -3025,11 +3039,17 @@ I. &hellip; He's  not a tree hugger. &hellip; I  think it's bizarre that they wo
 pick on him. But he wants to let people know that they're sending the
 wrong message. And he wants to correct the record.</quote>
 </para>
+<indexterm startref='idxuniversitycomputernetworksppsharingon' class='endofrange'/>
 <indexterm startref='idxjordanjesse' class='endofrange'/>
+<indexterm startref='idxcopyrightinfringementlawsuitsinrecordingindustry' class='endofrange'/>
+<indexterm startref='idxcopyrightinfringementlawsuitsagainststudentfilesharing' class='endofrange'/>
+<indexterm startref='idxrecordingindustrycopyrightinfringementlawsuitsof' class='endofrange'/>
+<indexterm startref='idxrecordingindustryassociationofamericariaacopyrightinfringementlawsuitsfiledby' class='endofrange'/>
 <!-- PAGE BREAK 66 -->
 </chapter>
 <chapter label="4" id="pirates">
 <title>CHAPTER FOUR: <quote>Pirates</quote></title>
+<indexterm id='idxpiracyindevelopmentofcontentindustry' class='startofrange'><primary>piracy</primary><secondary>in development of content industry</secondary></indexterm>
 <indexterm><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
 <emphasis role='strong'>If <quote>piracy</quote> means</emphasis>
@@ -3418,7 +3438,7 @@ to take something for nothing.
 </section>
 <section id="cabletv">
 <title>Cable TV</title>
-<indexterm id='idxcabletv1' class='startofrange'><primary>cable television</primary></indexterm>
+<indexterm id='idxcabletelevision' class='startofrange'><primary>cable television</primary></indexterm>
 <para>
 Cable TV was also born of a kind of piracy.
 </para>
@@ -3535,7 +3555,8 @@ exercise veto power over the emerging technologies of cable. Cable
 companies thus built their empire in part upon a <quote>piracy</quote> of the value
 created by broadcasters' content.
 </para>
-<indexterm startref='idxcabletv1' class='endofrange'/>
+<indexterm startref='idxpiracyindevelopmentofcontentindustry' class='endofrange'/>
+<indexterm startref='idxcabletelevision' class='endofrange'/>
 <para>
 <emphasis role='strong'>These separate stories</emphasis> sing a
 common theme. If <quote>piracy</quote> means using value from someone
