@@ -25835,17 +25835,17 @@ msgstr ""
 "forholde oss til hvis vi ønsker at vår eiendom skal bli beskyttet."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In contrast, under current copyright law, you automatically get a copyright, "
 "regardless of whether you comply with any formality. You don't have to "
 "register. You don't even have to mark your content. The default is control, "
 "and <quote>formalities</quote> are banished."
 msgstr ""
-"derimot under gjeldende lov om opphavsrett få du automatisk en opphavsrett, "
-"uavhengig av om du overholder eventuelle formalitet. du trenger ikke å "
-"registrere deg. du trenger ikke engang å merke innholdet. standard er "
-"kontrollen, og \"formaliteter\" er kastet ut."
+"Dette står i kontrast til gjeldende åndsverkslov, der du automatisk "
+"får opphavsrett uavhengig av om du overholder noen formaliteter eller "
+"ikke.  Du trenger ikke å registrere den.  Du trenger ikke en gang "
+"merke innholdet ditt.  Utgangspunktet er kontroll, og "
+"<quote>formaliteter</quote> er bannlyst."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid "Why?"
