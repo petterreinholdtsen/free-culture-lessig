@@ -25862,11 +25862,11 @@ msgid ""
 msgstr ""
 "Som jeg foreslo i kapittel <xref xrefstyle=\"select: labelnumber\" linkend="
 "\"property-i\"/>, var motivasjonen for å avskaffe formalitetene god.  I "
-"verden før digitale teknologier, belastet formalitetene en byrde på "
-"opphavsrettsinnehaverne uten nevneverdige fordeler.  Dermed var det en "
-"fremgang da loven slakket opp på de formelle kravene som opphavsrettseieren "
-"måtte fylle for å beskytte og sikre sitt verk.  Disse formalitetene kom i "
-"veien."
+"verden før digitale teknologier, la formalitetene en byrde på "
+"opphavsrettsinnehaverne uten at det ga nevneverdige fordeler.  Dermed var "
+"det en fremgang da loven slakket opp på de formelle kravene som "
+"opphavsrettseieren måtte oppfylle for å beskytte og sikre sitt verk.  Disse "
+"formalitetene kom i veien."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
