@@ -25849,7 +25849,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid "Why?"
-msgstr "hvorfor?"
+msgstr "Hvorfor?"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
