@@ -24080,7 +24080,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "<quote>copyleft</quote> licenses"
-msgstr ""
+msgstr "<quote>copyleft</quote>-lisenser"
 
 #.  f8.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -25164,7 +25164,6 @@ msgstr ""
 "verker."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In an academic setting, at least, that's not a terribly radical idea. In a "
 "math department, anyone would be free to tinker with a proof that someone "
@@ -25176,17 +25175,18 @@ msgid ""
 "too, was knowledge. Why shouldn't it be open for criticism like anything "
 "else?"
 msgstr ""
-"i akademiske omgivelser, minst, er det ikke en veldig radikale idé. noen "
-"ville være gratis å tinker med et bevis på at noen tilbys i en matematikk-"
-"avdeling. Hvis du trodde du hadde en bedre måte å bevise en teorem, kan du "
-"ta hva noen andre gjorde, og endre den. i en klassikere avdeling, hvis du "
-"trodde en kollega oversettelse av en nylig oppdagede tekst var feil, var du "
-"fri til å forbedre den. dermed til stallman syntes det åpenbart at du bør "
-"være gratis å tinker med og forbedre koden som kjørte en maskin. Dette, "
-"også, var kunnskap. Hvorfor bør ikke være åpen for kritikk som noe annet?"
+"I hvert fall i akademia er ikke dette en veldig radikal idé.  Ved et "
+"matematisk institutt ville enhver ha friheten til å fikle med et bevis "
+"som noen andre la frem.  Hvis du trodde du hadde en bedre måte å "
+"bevise et teorem, så kunne du ta det noen andre hadde gjort og endre det. "
+"Ved et institutt for klassisk historie, hvis du mente en kollegas "
+"oversettelse av en nylig oppdaget tekst hadde feil, så hadde du "
+"friheten til å forbedre den.  Dermed, for Stallman, virket det "
+"åpenbart at du burde stå fritt til å fikle med og forbedre koden som "
+"kjørte på en maskin.  Dette var også kunnskap.  Hvorfor skulle det "
+"ikke være åpent for kritikk på samme måte som alt annet?"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "No one answered that question. Instead, the architecture of revenue for "
 "computing changed. As it became possible to import programs from one system "
@@ -25196,13 +25196,14 @@ msgid ""
 "and copy it, then that would make it easier for me to sell a printer to the "
 "market than it was for you."
 msgstr ""
-"Ingen har besvart dette spørsmålet. i stedet endret arkitekturen i inntekter "
-"for databehandling. som det ble mulig å importere programmer fra ett system "
-"til et annet, det ble økonomisk attraktive (minst i visningen av noen) å "
-"skjule koden av programmet. så, også, som selskaper som begynte å selge "
-"eksterne enheter for stormaskinsystemer. Hvis jeg kunne bare ta "
-"skriverdriveren og kopiere den, og deretter som ville gjøre det enklere for "
-"meg å selge en skriver til markedet enn det var for deg."
+"Ingen svarte på det spørsmålet.  Istedet endret arkitekturen for "
+"inntekter i dataverden seg.  Etter hvert som det ble mulig å importere "
+"programmer fra et system til et annet, det ble økonomisk attraktivt (i "
+"hvert fall etter noens syn) å skjule koden til programet som man "
+"laget.  I tillegg begynte selskaper å selge ekstrautstyr til "
+"stormaskiner.  Hvis jeg bare kunne ta din printerdriver og kopiere "
+"den, så ville det gjøre det enklere for meg enn det var for deg å "
+"selge en printer i markedet."
 
 #.  PAGE BREAK 285
 #. type: Content of: <book><chapter><section><section><para>
@@ -25260,7 +25261,6 @@ msgstr ""
 "kode var et biprodukt."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Stallman was thus doing for software what privacy advocates now do for "
 "privacy. He was seeking a way to rebuild a kind of freedom that was taken "
@@ -25269,12 +25269,12 @@ msgid ""
 "software would survive. He was actively protecting what before had been "
 "passively guaranteed."
 msgstr ""
-"Stallman var dermed gjøre for programvare og hvilke personvernkontroller "
-"talsmenn nå har for personvern. Han var søker en måte å gjenoppbygge et "
-"slags friheten som ble tatt for gitt før. gjennom bekreftende bruk av "
-"lisenser som binder opphavsrettsbeskyttet kode, var stallman affirmatively "
-"gjenerobring et mellomrom der fri programvare ville overleve. Han var aktivt "
-"beskytter hva før hadde vært passivt garantert."
+"Stallman gjorde dermed for programvare det personvernforkjempere nå "
+"gjør for personvern.  Han søkte etter en måte å gjenoppbygge den type "
+"frihet som før var tatt for gitt.  Gjennom aktiv bruk av lisenser som "
+"gjelder for opphavsrettsbeskyttet kildekode, gjenerobret Stallman "
+"aktivt en arena der fri programvare ville overleve.  Han beskyttet "
+"aktivt det som før hadde vært passivt garantert."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
