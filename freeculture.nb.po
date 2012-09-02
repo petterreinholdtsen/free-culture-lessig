@@ -25128,7 +25128,6 @@ msgstr ""
 "var gitt som utgangspunkt."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "A similar story could be told about the birth of the free software movement. "
 "When computers with software were first made available commercially, the "
@@ -25137,12 +25136,13 @@ msgid ""
 "so Data General and IBM didn't care much about controlling their software.  "
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"en liknende historie kan fortelles om fødselen av fri programvare-"
-"bevegelsen. Når datamaskiner med programvare ble først gjort tilgjengelig "
-"kommersielt, var programvaren&mdash;både kildekoden og binærfiler&mdash;"
-"gratis. Du kan ikke kjøre et program som er skrevet for en generell data-"
-"maskinen på en ibm-maskin, slik at data Generelt og ibm ikke vare mye om "
-"hvordan du styrer deres programvare."
+"En lignende historie kan fortelles om stiftelsen av fri "
+"programvare-bevegelsen.  Da datamaskiner med programvare først ble "
+"gjort kommersielt tilgjengelig var programvaren&mdash;både kildekoden "
+"og binærene&mdash;fritt tilgjengelig.  Du kunne ikke kjøre et program "
+"skrevet for en Data General-maskin på en IBM-maskin, så Data General "
+"og IBM brydde seg ikke mye om å kontrollere programvaren sin. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Stallman, Richard"
