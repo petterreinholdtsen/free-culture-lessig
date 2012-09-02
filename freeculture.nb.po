@@ -25116,6 +25116,16 @@ msgid ""
 "provided before. A change in technology now forces those who believe in "
 "privacy to affirmatively act where, before, privacy was given by default."
 msgstr ""
+"Det er denne virkeligheten som forklarer at mange gjør en innsats for "
+"å definere <quote>personvern</quote> på internettet.  Det er "
+"erkjennelsen om at teknologi akn fjerne det friksjon før ga oss som "
+"får mange til å be om lover som gjør det friksjonen "
+"gjorde.<placeholder type=\"footnote\" id=\"0\"/> Og uansett om du er "
+"for eller imot disse lovene, så er det mønsteret som er det viktige "
+"her.  Vi må ta aktive steg for å sikre en slags frihet som var passivt "
+"sikret tidligere.  En endring i teknologi tvinger nå de som tror på "
+"personvern til å gjøre aktive handlinger der hvor personvern tidligere "
+"var gitt som utgangspunkt."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
