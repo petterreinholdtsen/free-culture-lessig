@@ -12848,6 +12848,9 @@ African leaders began to recognize the devastation that AIDS was
 bringing, they started looking for ways to import HIV treatments at
 costs significantly below the market price.
 </para>
+<indexterm id='idxinternationallaw2' class='startofrange'><primary>international law</primary></indexterm>
+<indexterm id='idxparallelimportation' class='startofrange'><primary>parallel importation</primary></indexterm>
+<indexterm id='idxsouthafricarepublicofpharmaceuticalimportsby' class='startofrange'><primary>South Africa, Republic of, pharmaceutical imports by</primary></indexterm>
 <para>
 In 1997, South Africa tried one tack. It passed a law to allow the
 importation of patented medicines that had been produced or sold in
@@ -12864,6 +12867,7 @@ Owns the Knowledge Economy?</citetitle> (New York: The New Press, 2003), 37.
 <indexterm><primary>Drahos, Peter</primary></indexterm>
 </para></footnote>
 </para>
+<indexterm><primary>United States Trade Representative (USTR)</primary></indexterm>
 <para>
 However, the United States government opposed the bill. Indeed, more
 than opposed. As the International Intellectual Property Association
@@ -12903,6 +12907,7 @@ Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan
 Africa, a Report Prepared for the World Intellectual Property
 Organization</citetitle> (Washington, D.C., 2000), 15.  </para></footnote>
 </para>
+<indexterm startref='idxparallelimportation' class='endofrange'/>
 <para>
 We should place the intervention by the United States in context.  No
 doubt patents are not the most important reason that Africans don't
@@ -12957,6 +12962,7 @@ drugs should not flow into Africa. It was a principle about the
 importance of <quote>intellectual property</quote> that led these government actors
 to intervene against the South African response to AIDS.
 </para>
+<indexterm startref='idxsouthafricarepublicofpharmaceuticalimportsby' class='endofrange'/>
 <para>
 Now just step back for a moment. There will be a time thirty years
 from now when our children look back at us and ask, how could we have
@@ -13016,6 +13022,7 @@ in any case. A sensible policy, in other words, could be a balanced
 policy. For most of our history, both copyright and patent policies
 were balanced in just this sense.
 </para>
+<indexterm startref='idxinternationallaw2' class='endofrange'/>
 <para>
 But we as a culture have lost this sense of balance. We have lost the
 critical eye that helps us see the difference between truth and
@@ -13055,9 +13062,17 @@ hypocrisy reeks. Yet in a city like Washington, hypocrisy is not even
 noticed. Powerful lobbies, complex issues, and MTV attention spans
 produce the <quote>perfect storm</quote> for free culture.
 </para>
+<indexterm><primary>academic journals</primary></indexterm>
+<indexterm><primary>biomedical research</primary></indexterm>
+<indexterm id='idxintellectualpropertyrightsinternationalorganizationonissuesof' class='startofrange'><primary>intellectual property rights</primary><secondary>international organization on issues of</secondary></indexterm>
+<indexterm><primary>Internet</primary><secondary>development of</secondary></indexterm>
+<indexterm><primary>IBM</primary></indexterm>
+<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
+<indexterm><primary>Public Library of Science (PLoS)</primary></indexterm>
 <indexterm><primary>public domain</primary><secondary>public projects in</secondary></indexterm>
 <indexterm><primary>single nucleotied polymorphisms (SNPs)</primary></indexterm>
 <indexterm><primary>Wellcome Trust</primary></indexterm>
+<indexterm id='idxworldintellectualpropertyorganizationwipo' class='startofrange'><primary>World Intellectual Property Organization (WIPO)</primary></indexterm>
 <indexterm><primary>World Wide Web</primary></indexterm>
 <indexterm><primary>Global Positioning System</primary></indexterm>
 <indexterm><primary>Reagan, Ronald</primary></indexterm>
@@ -13094,9 +13109,6 @@ Aventis, Bayer, Bristol-Myers Squibb, Hoffmann-La Roche,
 Glaxo-SmithKline, IBM, Motorola, Novartis, Pfizer, and Searle.) It
 included the Global Positioning System, which Ronald Reagan set free
 in the early 1980s. And it included <quote>open source and free software.</quote>
-<indexterm><primary>academic journals</primary></indexterm>
-<indexterm><primary>IBM</primary></indexterm>
-<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
 <indexterm startref='idxbiomedicalresearch' class='endofrange'/>
 <para>
@@ -13148,6 +13160,8 @@ had thought it was taken for granted that WIPO could and should. And
 thus the meeting about <quote>open and collaborative projects to create
 public goods</quote> seemed perfectly appropriate within the WIPO agenda.
 </para>
+<indexterm startref='idxintellectualpropertyrightsinternationalorganizationonissuesof' class='endofrange'/>
+<indexterm startref='idxworldintellectualpropertyorganizationwipo' class='endofrange'/>
 <indexterm startref='idxworldsummitontheinformationsocietywsis' class='endofrange'/>
 <indexterm><primary>Apple Corporation</primary></indexterm>
 <para>
@@ -13841,6 +13855,8 @@ public libraries begin to disappear. Thus, as with privacy and with
 software, a changing technology and market shrink a freedom taken for
 granted before.
 </para>
+<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
+<indexterm><primary>Public Library of Science (PLoS)</primary></indexterm>
 <para>
 This shrinking freedom has led many to take affirmative steps to
 restore the freedom that has been lost. The Public Library of Science
@@ -13853,7 +13869,6 @@ then deposited in a public, electronic archive and made permanently
 available for free. PLoS also sells a print version of its work, but
 the copyright for the print journal does not inhibit the right of
 anyone to redistribute the work for free.
-<indexterm><primary>PLoS (Public Library of Science)</primary></indexterm>
 </para>
 <para>
 This is one of many such efforts to restore a freedom taken for
