@@ -2380,7 +2380,7 @@ msgstr "filmer"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "animated"
-msgstr "animert"
+msgstr "animerte"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steamboat Willie"
