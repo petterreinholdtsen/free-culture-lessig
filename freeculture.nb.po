@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-03 15:27+0300\n"
+"POT-Creation-Date: 2012-09-03 22:46+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -7063,7 +7063,7 @@ msgstr ""
 msgid "in Asia"
 msgstr "i Asia"
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
 msgstr "fri programvare/åpen kildekode-programvare (FS/OSS)"
 
@@ -14549,7 +14549,7 @@ msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
 msgid "Future of Ideas, The (Lessig)"
 msgstr "fremtiden for ideer, (lessig)"
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "Lessig, Lawrence"
 msgstr "Lessig, Lawrence"
 
@@ -23351,12 +23351,28 @@ msgid "Africa, medications for HIV patients in"
 msgstr "Afrika, medisinering for HIV-pasienter i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "HIV/AIDS therapies"
-msgstr "HIV/AIDS-behandlinger"
+msgid "AIDS medications"
+msgstr "AIDS-medisiner"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "antiretroviral drugs"
 msgstr "antiretroviral medisin"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "developing countries, foreign patent costs in"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "drugs"
+msgstr "medisiner"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "pharmaceutical"
+msgstr "farmasøytisk"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "HIV/AIDS therapies"
+msgstr "HIV/AIDS-behandlinger"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -23421,6 +23437,19 @@ msgstr ""
 "$15&nbsp;000 er tredve ganger brutto nasjonalprodukt pr. innbygger i "
 "Zimbabwe.  Med slike priser er disse medisinene fullstendig utilgjengelig."
 "<placeholder type=\"footnote\" id=\"0\"/>"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "patents"
+msgstr "patenter"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "on pharmaceuticals"
+msgstr "om legemidler"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "pharmaceutical patents"
+msgstr "farmasøytiske patenter"
 
 #.  PAGE BREAK 265
 #. type: Content of: <book><chapter><para>
@@ -23698,6 +23727,15 @@ msgstr ""
 "så mange døde?  Hva slags galskap er det egentlig som tillater at så mange "
 "dør for slik en abstraksjon?"
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "corporations"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "in pharmaceutical industry"
+msgstr "om legemidler"
+
 #. type: Content of: <book><chapter><para>
 msgid ""
 "Some blame the drug companies. I don't. They are corporations.  Their "
@@ -23729,6 +23767,10 @@ msgstr ""
 "steder. Det er utfordringer de må løse å sikre at medisinene ikke kommer "
 "tilbake til USA, men dette er bare teknologiske utfordring. De kan bli "
 "overvunnet."
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "of drug patents"
+msgstr ""
 
 #.  PAGE BREAK 268
 #. type: Content of: <book><chapter><para>
@@ -23993,6 +24035,10 @@ msgstr ""
 "balansert med avtaler om å holde tilgang åpen, eller for å legge "
 "begrensninger på hvordan proprietære krav kan bli brukt."
 
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "in international debate on intellectual property"
+msgstr ""
+
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -24079,6 +24125,10 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Apple Corporation"
 msgstr "Apple Corporation"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "on free software"
+msgstr "om fri programvare"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24309,25 +24359,8 @@ msgstr ""
 "statstjenestemann som håndterer utfordringer rundt immaterielle rettigheter."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "drugs"
-msgstr "medisiner"
-
-#. type: Content of: <book><chapter><indexterm><secondary>
-msgid "pharmaceutical"
-msgstr "farmasøytisk"
-
-#. type: Content of: <book><chapter><indexterm><primary>
 msgid "generic drugs"
 msgstr "generiske medisiner"
-
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "patents"
-msgstr "patenter"
-
-#. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "on pharmaceuticals"
-msgstr "om legemidler"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24400,6 +24433,14 @@ msgstr ""
 "quote> seg sine immaterielle rettigheter.  At interessen til WIPO ikke bare "
 "er  maksimale immaterielle rettigheter, men også at de skal utøves på den "
 "mest ekstreme og restriktive mulig måten."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "feudal system"
+msgstr "føydalsystem"
+
+#. type: Content of: <book><chapter><indexterm><secondary>
+msgid "feudal system of"
+msgstr "føydalsystem for"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -25498,13 +25539,12 @@ msgid ""
 msgstr ""
 "Inn kommer Creative Commons.  Creative Commons er et ikke-kommersielt "
 "selskap etablert i Massachusetts, men med hjemmet sitt ved Stanford "
-"University.  Selskapets mål er å bygge et lag av "
-"<emphasis>rimelig</emphasis> opphavsrett på toppen av ekstremene som "
-"nå regjerer.  Det gjør dette ved å gjøre det enkelt for folk å bygge "
-"på andre folks verk, ved å gjøre det enkelt for skapere å uttrykke "
-"friheten for andre til å ta og bygge på deres verk.  Dette gjøres "
-"mulig med enkle merker, knyttet til menneskelesbare beskrivelser, som "
-"igjen er knyttet til vanntette lisenser."
+"University.  Selskapets mål er å bygge et lag av <emphasis>rimelig</"
+"emphasis> opphavsrett på toppen av ekstremene som nå regjerer.  Det gjør "
+"dette ved å gjøre det enkelt for folk å bygge på andre folks verk, ved å "
+"gjøre det enkelt for skapere å uttrykke friheten for andre til å ta og bygge "
+"på deres verk.  Dette gjøres mulig med enkle merker, knyttet til "
+"menneskelesbare beskrivelser, som igjen er knyttet til vanntette lisenser."
 
 #.  PAGE BREAK 288
 #. type: Content of: <book><chapter><section><section><para>
@@ -25524,21 +25564,19 @@ msgid ""
 "CC mark, which does not mean that copyright is waived, but that certain "
 "freedoms are given."
 msgstr ""
-"<emphasis>Enkelt</emphasis>&mdash;som betyr uten en mellommann eller "
-"uten en advokat.  Ved å utvikle et fritt sett med lisenser som folk "
-"kan knytte til sitt innhold, sikter Creative Commons å merke en rekke "
-"innhold som enkelt og pålitelig kan bygges på.  Disse merkene er så "
-"lenket til maskinlesbare versjoner av lisensen som gjør det mulig for "
-"datamaskiner å automatisk identifisere innhold som enkelt kan deles. "
-"Denne samlingen av tre uttrykk&mdash;en juridisk lisens, en "
-"menneske-lesbar beskrivelse og et maskinlesbart merke&mdash;utgjør en "
-"Creative Commons-lisens.  En Creative Commons-lisens utgjør en "
-"tildeling av frihet til enhver som har tilgang til lisensen.  Og "
-"viktigere, et uttrykk for at personen som bruker lisensen tror på noe "
-"annet enn <quote>Alle</quote>- eller "
-"<quote>Ingen</quote>-ytterkantene.  Innhold merket med CC-merket betyr "
-"ikke at en har sagt fra seg opphavsretten, men derimot at enkelte "
-"friheter er gitt bort."
+"<emphasis>Enkelt</emphasis>&mdash;som betyr uten en mellommann eller uten en "
+"advokat.  Ved å utvikle et fritt sett med lisenser som folk kan knytte til "
+"sitt innhold, sikter Creative Commons å merke en rekke innhold som enkelt og "
+"pålitelig kan bygges på.  Disse merkene er så lenket til maskinlesbare "
+"versjoner av lisensen som gjør det mulig for datamaskiner å automatisk "
+"identifisere innhold som enkelt kan deles. Denne samlingen av tre "
+"uttrykk&mdash;en juridisk lisens, en menneske-lesbar beskrivelse og et "
+"maskinlesbart merke&mdash;utgjør en Creative Commons-lisens.  En Creative "
+"Commons-lisens utgjør en tildeling av frihet til enhver som har tilgang til "
+"lisensen.  Og viktigere, et uttrykk for at personen som bruker lisensen tror "
+"på noe annet enn <quote>Alle</quote>- eller <quote>Ingen</quote>-"
+"ytterkantene.  Innhold merket med CC-merket betyr ikke at en har sagt fra "
+"seg opphavsretten, men derimot at enkelte friheter er gitt bort."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25552,15 +25590,14 @@ msgid ""
 "sampling use, so long as full copies are not made. Or lastly, any "
 "educational use."
 msgstr ""
-"Disse frihetene går ut over friheten som loves av rimelig bruk. "
-"Frihetenes presise omriss er avhenging av valgene som skaperen gjør. "
-"Skaperen kan velge en lisens som tillater enhver bruk, så lenge "
-"opphavspersonen navngis.  Hun kan velge en lisens som kun tillater "
-"ikke-kommersiell bruk.  Hun kan velge en lisens som tillater enhver "
-"bruk så lenge de samme friheter gis videre til andre brukere "
-"(<quote>del på like vilkår</quote>).  Eller enhver bruk så lenge ingen "
-"bearbeidelse blir gjort.  Eller enhver bruk i utviklingsland.  Eller "
-"enhver bruk som <quote>smakebit</quote>, så lenge det ikke lages "
+"Disse frihetene går ut over friheten som loves av rimelig bruk. Frihetenes "
+"presise omriss er avhenging av valgene som skaperen gjør. Skaperen kan velge "
+"en lisens som tillater enhver bruk, så lenge opphavspersonen navngis.  Hun "
+"kan velge en lisens som kun tillater ikke-kommersiell bruk.  Hun kan velge "
+"en lisens som tillater enhver bruk så lenge de samme friheter gis videre til "
+"andre brukere (<quote>del på like vilkår</quote>).  Eller enhver bruk så "
+"lenge ingen bearbeidelse blir gjort.  Eller enhver bruk i utviklingsland.  "
+"Eller enhver bruk som <quote>smakebit</quote>, så lenge det ikke lages "
 "komplette kopier.  Og til slutt, enhver bruk til opplæring."
 
 #. type: Content of: <book><chapter><section><section><para>
@@ -25575,14 +25612,14 @@ msgid ""
 "will in turn enable us to rebuild a public domain."
 msgstr ""
 "Disse valgene etablerer dermed en rekke friheter som går ut over "
-"utgangspunktet i åndsverksloven.  De muliggjør også friheter som går "
-"ut over tradisjonell rimelig bruk.  Og det viktigste er at de "
-"uttrykker disse frihetene på en måte som de påfølgende brukerne kan "
-"bruke og basere seg på uten å hyre inn en advokat.  Creative Commons "
-"sikter dermed mot å bygge et lag av innhold, styrt av et lag av "
-"fornuftig åndsverkslov, som andre kan bygge på.  Frivillig valg fra "
-"individer og skapere vil gjøre dette innholdet tilgjengelig.  Og dette "
-"innholdet vi så gjøre det mulig for oss å gjenopprette allemannseiet."
+"utgangspunktet i åndsverksloven.  De muliggjør også friheter som går ut over "
+"tradisjonell rimelig bruk.  Og det viktigste er at de uttrykker disse "
+"frihetene på en måte som de påfølgende brukerne kan bruke og basere seg på "
+"uten å hyre inn en advokat.  Creative Commons sikter dermed mot å bygge et "
+"lag av innhold, styrt av et lag av fornuftig åndsverkslov, som andre kan "
+"bygge på.  Frivillig valg fra individer og skapere vil gjøre dette innholdet "
+"tilgjengelig.  Og dette innholdet vi så gjøre det mulig for oss å "
+"gjenopprette allemannseiet."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Garlick, Mia"

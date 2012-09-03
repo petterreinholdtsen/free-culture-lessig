@@ -12787,8 +12787,11 @@ controlled by this dead (and often unfindable) hand of the past.
 <chapter label="15" id="c-conclusion">
 <title>CONCLUSION</title>
 <indexterm id='idxafricamedicationsforhivpatientsin' class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
-<indexterm id='idxhivaidstherapies' class='startofrange'><primary>HIV/AIDS therapies</primary></indexterm>
+<indexterm id='idxaidsmedications' class='startofrange'><primary>AIDS medications</primary></indexterm>
 <indexterm id='idxantiretroviraldrugs' class='startofrange'><primary>antiretroviral drugs</primary></indexterm>
+<indexterm id='idxdevelopingcountriesforeignpatentcostsin2' class='startofrange'><primary>developing countries, foreign patent costs in</primary></indexterm>
+<indexterm id='idxdrugspharmaceutical' class='startofrange'><primary>drugs</primary><secondary>pharmaceutical</secondary></indexterm>
+<indexterm id='idxhivaidstherapies' class='startofrange'><primary>HIV/AIDS therapies</primary></indexterm>
 <para>
 <emphasis role='strong'>There are more</emphasis> than 35 million
 people with the AIDS virus worldwide. Twenty-five million of them live
@@ -12821,6 +12824,8 @@ issued 9 July 2002, only 230,000 of the 6 million who need drugs in
 the developing world receive them&mdash;and half of them are in Brazil.
 </para></footnote>
 </para>
+<indexterm id='idxpatentsonpharmaceuticals' class='startofrange'><primary>patents</primary><secondary>on pharmaceuticals</secondary></indexterm>
+<indexterm id='idxpharmaceuticalpatents' class='startofrange'><primary>pharmaceutical patents</primary></indexterm>
 <para>
 <!-- PAGE BREAK 265 -->
 These prices are not high because the ingredients of the drugs are
@@ -12973,6 +12978,7 @@ idea?  What possible justification could there ever be for a policy
 that results in so many deaths? What exactly is the insanity that
 would allow so many to die for such an abstraction?
 </para>
+<indexterm id='idxcorporationsinpharmaceuticalindustry' class='startofrange'><primary>corporations</primary><secondary>in pharmaceutical industry</secondary></indexterm>
 <para>
 Some blame the drug companies. I don't. They are corporations.
 Their managers are ordered by law to make money for the corporation.
@@ -12989,6 +12995,7 @@ elsewhere.  There are issues they'd have to resolve to make sure the
 drugs didn't get back into the United States, but those are mere
 problems of technology.  They could be overcome.
 </para>
+<indexterm id='idxintellectualpropertyrightsofdrugpatents' class='startofrange'><primary>intellectual property rights</primary><secondary>of drug patents</secondary></indexterm>
 <para>
 A different problem, however, could not be overcome. This is the
 fear of the grandstanding politician who would call the presidents of
@@ -13004,6 +13011,13 @@ unintended consequence that perhaps millions die. And that rational
 strategy thus becomes framed in terms of this ideal&mdash;the sanctity of an
 idea called <quote>intellectual property.</quote>
 </para>
+<indexterm startref='idxafricamedicationsforhivpatientsin' class='endofrange'/>
+<indexterm startref='idxaidsmedications' class='endofrange'/>
+<indexterm startref='idxantiretroviraldrugs' class='endofrange'/>
+<indexterm startref='idxdevelopingcountriesforeignpatentcostsin2' class='endofrange'/>
+<indexterm startref='idxdrugspharmaceutical' class='endofrange'/>
+<indexterm startref='idxhivaidstherapies' class='endofrange'/>
+<indexterm startref='idxcorporationsinpharmaceuticalindustry' class='endofrange'/>
 <para>
 So when the common sense of your child confronts you, what will
 you say? When the common sense of a generation finally revolts
@@ -13022,6 +13036,8 @@ in any case. A sensible policy, in other words, could be a balanced
 policy. For most of our history, both copyright and patent policies
 were balanced in just this sense.
 </para>
+<indexterm startref='idxpatentsonpharmaceuticals' class='endofrange'/>
+<indexterm startref='idxpharmaceuticalpatents' class='endofrange'/>
 <indexterm startref='idxinternationallaw2' class='endofrange'/>
 <para>
 But we as a culture have lost this sense of balance. We have lost the
@@ -13031,9 +13047,7 @@ our tradition, now reigns in this culture&mdash;bizarrely, and with
 consequences more grave to the spread of ideas and culture than almost
 any other single policy decision that we as a democracy will make.
 </para>
-<indexterm startref='idxafricamedicationsforhivpatientsin' class='endofrange'/>
-<indexterm startref='idxhivaidstherapies' class='endofrange'/>
-<indexterm startref='idxantiretroviraldrugs' class='endofrange'/>
+<indexterm startref='idxintellectualpropertyrightsofdrugpatents' class='endofrange'/>
 <para>
 <emphasis role='strong'>A simple idea</emphasis> blinds us, and under
 the cover of darkness, much happens that most of us would reject if
@@ -13118,6 +13132,7 @@ intellectual property extremism. Instead, in all of them, intellectual
 property was balanced by agreements to keep access open or to impose
 limitations on the way in which proprietary claims might be used.
 </para>
+<indexterm id='idxlessiglawrenceininternationaldebateonintellectualproperty' class='startofrange'><primary>Lessig, Lawrence</primary><secondary>in international debate on intellectual property</secondary></indexterm>
 <para>
 From the perspective of this book, then, the conference was ideal.<footnote><para>
 <!-- f7. --> I should disclose that I was one of the people who asked WIPO for the
@@ -13163,7 +13178,9 @@ public goods</quote> seemed perfectly appropriate within the WIPO agenda.
 <indexterm startref='idxintellectualpropertyrightsinternationalorganizationonissuesof' class='endofrange'/>
 <indexterm startref='idxworldintellectualpropertyorganizationwipo' class='endofrange'/>
 <indexterm startref='idxworldsummitontheinformationsocietywsis' class='endofrange'/>
+<indexterm id='idxfreesoftwareopensourcesoftwarefsoss' class='startofrange'><primary>free software/open-source software (FS/OSS)</primary></indexterm>
 <indexterm><primary>Apple Corporation</primary></indexterm>
+<indexterm id='idxmicrosoftonfreesoftware' class='startofrange'><primary>Microsoft</primary><secondary>on free software</secondary></indexterm>
 <para>
 But there is one project within that list that is highly
 controversial, at least among lobbyists. That project is <quote>open source
@@ -13208,6 +13225,7 @@ May 2001), available at
 <ulink url="http://free-culture.cc/notes/">link #63</ulink>.
 </para></footnote>
 </para>
+<indexterm startref='idxlessiglawrenceininternationaldebateonintellectualproperty' class='endofrange'/>
 <indexterm><primary>General Public License (GPL)</primary></indexterm>
 <indexterm><primary>GPL (General Public License)</primary></indexterm>
 <para>
@@ -13228,7 +13246,9 @@ software. If copyright did not govern software, then free software
 could not impose the same kind of requirements on its adopters. It
 thus depends upon copyright law just as Microsoft does.
 </para>
-<indexterm><primary>Krim, Jonathan</primary></indexterm>
+<indexterm id='idxintellectualpropertyrightsinternationalorganizationonissuesof2' class='startofrange'><primary>intellectual property rights</primary><secondary>international organization on issues of</secondary></indexterm>
+<indexterm id='idxworldintellectualpropertyorganizationwipo2' class='startofrange'><primary>World Intellectual Property Organization (WIPO)</primary></indexterm>
+<indexterm id='idxkrimjonathan' class='startofrange'><primary>Krim, Jonathan</primary></indexterm>
 <indexterm><primary>Microsoft</primary><secondary>WIPO meeting opposed by</secondary></indexterm>
 <para>
 It is therefore understandable that as a proprietary software
@@ -13252,6 +13272,7 @@ its lobbying here, and nothing terribly surprising about the most
 powerful software producer in the United States having succeeded in
 its lobbying efforts.
 </para>
+<indexterm startref='idxmicrosoftonfreesoftware' class='endofrange'/>
 <indexterm><primary>Boland, Lois</primary></indexterm>
 <para>
 What was surprising was the United States government's reason for
@@ -13263,9 +13284,11 @@ She is quoted as saying, <quote>To hold a meeting which has as its purpose
 to disclaim or waive such rights seems to us to be contrary to the
 goals of WIPO.</quote>
 </para>
+<indexterm startref='idxkrimjonathan' class='endofrange'/>
 <para>
 These statements are astonishing on a number of levels.
 </para>
+<indexterm startref='idxfreesoftwareopensourcesoftwarefsoss' class='endofrange'/>
 <!-- PAGE BREAK 273 -->
 <para>
 First, they are just flat wrong. As I described, most open source and
@@ -13321,6 +13344,8 @@ WIPO is not just that intellectual property rights be maximized, but
 that they also should be exercised in the most extreme and restrictive
 way possible.
 </para>
+<indexterm id='idxfeudalsystem' class='startofrange'><primary>feudal system</primary></indexterm>
+<indexterm id='idxpropertyrightsfeudalsystemof' class='startofrange'><primary>property rights</primary><secondary>feudal system of</secondary></indexterm>
 <para>
 There is a history of just such a property system that is well known
 in the Anglo-American tradition. It is called <quote>feudalism.</quote> Under
@@ -13347,6 +13372,8 @@ choice now is whether that information society will be
 <emphasis>free</emphasis> or <emphasis>feudal</emphasis>. The trend is
 toward the feudal.
 </para>
+<indexterm startref='idxfeudalsystem' class='endofrange'/>
+<indexterm startref='idxpropertyrightsfeudalsystemof' class='endofrange'/>
 <para>
 When this battle broke, I blogged it. A spirited debate within the
 comment section ensued. Ms. Boland had a number of supporters who
@@ -13354,6 +13381,8 @@ tried to show why her comments made sense. But there was one comment
 that was particularly depressing for me. An anonymous poster wrote,
 </para>
 <blockquote>
+<indexterm startref='idxintellectualpropertyrightsinternationalorganizationonissuesof2' class='endofrange'/>
+<indexterm startref='idxworldintellectualpropertyorganizationwipo2' class='endofrange'/>
 <para>
 George, you misunderstand Lessig: He's only talking about the world as
 it should be (<quote>the goal of WIPO, and the goal of any government,
