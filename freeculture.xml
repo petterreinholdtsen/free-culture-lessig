@@ -13804,7 +13804,7 @@ Finally, consider a very recent example that more directly resonates
 with the story of this book. This is the shift in the way academic and
 scientific journals are produced.
 </para>
-<indexterm id='idxacademocjournals' class='startofrange'><primary>academic journals</primary></indexterm>
+<indexterm id='idxacademicjournals' class='startofrange'><primary>academic journals</primary></indexterm>
 <para>
 As digital technologies develop, it is becoming obvious to many that
 printing thousands of copies of journals every month and sending them
@@ -13879,8 +13879,7 @@ distribution of content. But competition in our tradition is
 presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
-<indexterm startref='idxacademocjournals' class='endofrange'/>
-
+<indexterm startref='idxacademicjournals' class='endofrange'/>
 </section>
 <section id="oneidea">
 <title>Rebuilding Free Culture: One Idea</title>
