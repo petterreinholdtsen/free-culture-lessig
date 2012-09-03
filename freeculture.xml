@@ -2776,7 +2776,7 @@ natural tendencies of today's digital kids. &hellip; We're building an
 architecture that unleashes 60 percent of the brain [and] a legal
 system that closes down that part of the brain.</quote>
 </para>
-<indexterm startref="idxbrownjohnseely" class='endofrange'/>
+<indexterm startref='idxbrownjohnseely' class='endofrange'/>
 <para>
 We're building a technology that takes the magic of Kodak, mixes
 moving images and sound, and adds a space for commentary and an
@@ -2959,7 +2959,7 @@ Suit Alleges $97.8 Billion in Damages,</quote> <citetitle>Professional Media Gro
 (2003): 5, available at 2003 WL 55179443.
 </para></footnote>
 </para>
-<indexterm startref="idxrensselaer" class='endofrange'/>
+<indexterm startref='idxrensselaer' class='endofrange'/>
 <para>
 Jesse called his parents. They were supportive but a bit frightened.
 An uncle was a lawyer. He began negotiations with the RIAA. They
@@ -3161,7 +3161,7 @@ Edison's creative property.
 The record industry was born of another kind of piracy, though to see
 how requires a bit of detail about the way the law regulates music.
 </para>
-<indexterm id="idxfourneauxhenri" class='startofrange'><primary>Fourneaux, Henri</primary></indexterm>
+<indexterm id='idxfourneauxhenri' class='startofrange'><primary>Fourneaux, Henri</primary></indexterm>
 <indexterm><primary>Russel, Phil</primary></indexterm>
 <para>
 At the time that Edison and Henri Fourneaux invented machines
@@ -3192,7 +3192,7 @@ then made copies of those recordings.  Because of this gap in the law,
 then, I could effectively pirate someone else's song without paying
 its composer anything.
 </para>
-<indexterm startref="idxfourneauxhenri" class='endofrange'/>
+<indexterm startref='idxfourneauxhenri' class='endofrange'/>
 <para>
 The composers (and publishers) were none too happy about
 <!-- PAGE BREAK 69 -->
@@ -3410,7 +3410,7 @@ something for nothing. It gets to perform the recording artist's work
 for free, even if it must pay the composer something for the privilege
 of playing the song.
 </para>
-<indexterm id="idxmadonna" class='startofrange'><primary>Madonna</primary></indexterm>
+<indexterm id='idxmadonna' class='startofrange'><primary>Madonna</primary></indexterm>
 <para>
 This difference can be huge. Imagine you compose a piece of music.
 Imagine it is your first. You own the exclusive right to authorize
@@ -3427,7 +3427,7 @@ the sale of her CDs. The public performance of her recording is not a
 <emphasis>pirate</emphasis> the value of Madonna's work without paying
 her anything.
 </para>
-<indexterm startref="idxmadonna" class='endofrange'/>
+<indexterm startref='idxmadonna' class='endofrange'/>
 <para>
 No doubt, one might argue that, on balance, the recording artists
 benefit. On average, the promotion they get is worth more than the
@@ -6469,7 +6469,7 @@ be; my claim is not about comprehensiveness), these four are among the
 most significant, and any regulator (whether controlling or freeing)
 must consider how these four in particular interact.
 </para>
-<indexterm id="idxdrivespeed" class='startofrange'><primary>driving speed, constraints on</primary></indexterm>
+<indexterm id='idxdrivespeed' class='startofrange'><primary>driving speed, constraints on</primary></indexterm>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>market constraints</primary></indexterm>
 <indexterm><primary>norms, regulatory influence of</primary></indexterm>
@@ -6513,7 +6513,7 @@ strict&mdash;a federal requirement that states decrease the speed
 limit, for example&mdash;so as to decrease the attractiveness of fast
 driving.
 </para>
-<indexterm startref="idxdrivespeed" class='endofrange'/>
+<indexterm startref='idxdrivespeed' class='endofrange'/>
 
 <figure id="fig-1361">
 <title>Law has a special role in affecting the three.</title>
@@ -6747,7 +6747,7 @@ effect of the changes the content industry wants.
 <para>
 Here's the metaphor that will capture the argument to follow.
 </para>
-<indexterm id="idxddt" class='startofrange'><primary>DDT</primary></indexterm>
+<indexterm id='idxddt' class='startofrange'><primary>DDT</primary></indexterm>
 <indexterm><primary>Müller, Paul Hermann</primary></indexterm>
 <para>
 In 1873, the chemical DDT was first synthesized. In 1948, Swiss
@@ -6816,7 +6816,7 @@ In a line: To kill a gnat, we are spraying DDT with consequences
 for free culture that will be far more devastating than that this gnat will
 be lost.
 </para>
-<indexterm startref="idxddt" class='endofrange'/>
+<indexterm startref='idxddt' class='endofrange'/>
 </section>
 <section id="beginnings">
 <title>Beginnings</title>
@@ -7618,8 +7618,8 @@ tradition embraced, who said whether and how the law would restrict
 your freedom.
 </para>
 <indexterm><primary>Casablanca</primary></indexterm>
-<indexterm id="idxmarxbrothers" class='startofrange'><primary>Marx Brothers</primary></indexterm>
-<indexterm id="idxwarnerbrothers" class='startofrange'><primary>Warner Brothers</primary></indexterm>
+<indexterm id='idxmarxbrothers' class='startofrange'><primary>Marx Brothers</primary></indexterm>
+<indexterm id='idxwarnerbrothers' class='startofrange'><primary>Warner Brothers</primary></indexterm>
 <para>
 There's a famous story about a battle between the Marx Brothers
 and Warner Brothers. The Marxes intended to make a parody of
@@ -7664,10 +7664,10 @@ problem with code regulations is that, unlike law, code has no
 shame. Code would not get the humor of the Marx Brothers. The
 consequence of that is not at all funny.
 </para>
-<indexterm startref="idxwarnerbrothers" class='endofrange'/>
-<indexterm startref="idxmarxbrothers" class='endofrange'/>
+<indexterm startref='idxwarnerbrothers' class='endofrange'/>
+<indexterm startref='idxmarxbrothers' class='endofrange'/>
 
-<indexterm id="idxadobeebookreader" class='startofrange'><primary>Adobe eBook Reader</primary></indexterm>
+<indexterm id='idxadobeebookreader' class='startofrange'><primary>Adobe eBook Reader</primary></indexterm>
 <para>
 Consider the life of my Adobe eBook Reader.
 </para>
@@ -7870,15 +7870,15 @@ technology enables control, and Adobe has an incentive to defend this
 control.  That incentive is understandable, yet what it creates is
 often crazy.
 </para>
-<indexterm startref="idxadobeebookreader" class='endofrange'/>
+<indexterm startref='idxadobeebookreader' class='endofrange'/>
 <indexterm startref='idxbooksoninternet' class='endofrange'/>
 <para>
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.
 </para>
-<indexterm id="idxaibo1" class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
-<indexterm id="idxroboticdog1" class='startofrange'><primary>robotic dog</primary></indexterm>
-<indexterm id="idxsonyaibo1" class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
+<indexterm id='idxaibo1' class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
+<indexterm id='idxroboticdog1' class='startofrange'><primary>robotic dog</primary></indexterm>
+<indexterm id='idxsonyaibo1' class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 Consider the robotic dog made by Sony named <quote>Aibo.</quote> The Aibo
 learns tricks, cuddles, and follows you around. It eats only electricity
@@ -7930,9 +7930,9 @@ dance jazz. The dog wasn't programmed to dance jazz. It was a clever
 bit of tinkering that turned the dog into a more talented creature
 than Sony had built.
 </para>
-<indexterm startref="idxsonyaibo1" class='endofrange'/>
-<indexterm startref="idxroboticdog1" class='endofrange'/>
-<indexterm startref="idxaibo1" class='endofrange'/>
+<indexterm startref='idxsonyaibo1' class='endofrange'/>
+<indexterm startref='idxroboticdog1' class='endofrange'/>
+<indexterm startref='idxaibo1' class='endofrange'/>
 <para>
 I've told this story in many contexts, both inside and outside the
 United States. Once I was asked by a puzzled member of the audience,
@@ -8020,9 +8020,9 @@ academic essay, unintelligible to most people. But it clearly showed the
 weakness in the SDMI system, and why SDMI would not, as presently
 constituted, succeed.
 </para>
-<indexterm id="idxaibo2" class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
-<indexterm id="idxroboticdog2" class='startofrange'><primary>robotic dog</primary></indexterm>
-<indexterm id="idxsonyaibo2" class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
+<indexterm id='idxaibo2' class='startofrange'><primary>Aibo robotic dog</primary></indexterm>
+<indexterm id='idxroboticdog2' class='startofrange'><primary>robotic dog</primary></indexterm>
+<indexterm id='idxsonyaibo2' class='startofrange'><primary>Sony</primary><secondary>Aibo robotic dog produced by</secondary></indexterm>
 <para>
 What links these two, aibopet.com and Felten, is the letters they
 then received. Aibopet.com received a letter from Sony about the
@@ -8036,9 +8036,9 @@ AIBO-ware's copy protection protocol constituting a violation of the
 anti-circumvention provisions of the Digital Millennium Copyright Act.
 </para>
 </blockquote>
-<indexterm startref="idxsonyaibo2" class='endofrange'/>
-<indexterm startref="idxroboticdog2" class='endofrange'/>
-<indexterm startref="idxaibo2" class='endofrange'/>
+<indexterm startref='idxsonyaibo2' class='endofrange'/>
+<indexterm startref='idxroboticdog2' class='endofrange'/>
+<indexterm startref='idxaibo2' class='endofrange'/>
 <para>
 And though an academic paper describing the weakness in a system
 of encryption should also be perfectly legal, Felten received a letter
@@ -8992,9 +8992,9 @@ lawyer.
 <!-- PAGE BREAK 186 -->
 <chapter label="11" id="chimera">
 <title>CHAPTER ELEVEN: Chimera</title>
-<indexterm id="idxchimera" class='startofrange'><primary>chimeras</primary></indexterm>
-<indexterm id="idxwells" class='startofrange'><primary>Wells, H. G.</primary></indexterm>
-<indexterm id="idxtcotb" class='startofrange'><primary><quote>Country of the Blind, The</quote> (Wells)</primary></indexterm>
+<indexterm id='idxchimera' class='startofrange'><primary>chimeras</primary></indexterm>
+<indexterm id='idxwells' class='startofrange'><primary>Wells, H. G.</primary></indexterm>
+<indexterm id='idxtcotb' class='startofrange'><primary><quote>Country of the Blind, The</quote> (Wells)</primary></indexterm>
 
 <para>
 <emphasis role='strong'>In a well-known</emphasis> short story by
@@ -9075,8 +9075,8 @@ plot for murder mysteries. <quote>But the DNA shows with 100 percent
 certainty that she was not the person whose blood was at the
 scene. &hellip;</quote>
 </para>
-<indexterm startref="idxtcotb" class='endofrange'/>
-<indexterm startref="idxwells" class="endofrange"/>
+<indexterm startref='idxtcotb' class='endofrange'/>
+<indexterm startref='idxwells' class="endofrange"/>
 <para>
 Before I had read about chimeras, I would have said they were
 impossible.  A single person can't have two sets of DNA. The very idea
@@ -9182,7 +9182,7 @@ Name Students,</quote> <citetitle>Boston Globe</citetitle>, 8 August 2003, D3, a
 </para></footnote>
 
 </para>
-<indexterm startref="idxchimera" class='endofrange'/>
+<indexterm startref='idxchimera' class='endofrange'/>
 <para>
 Alternatively, we could respond to file sharing the way many kids act
 as though we've responded. We could totally legalize it. Let there be
@@ -9621,7 +9621,7 @@ had a copy of the CD they wanted to access. So while this was 50,000
 copies, it was 50,000 copies directed at giving customers something
 they had already bought.
 </para>
-<indexterm id="idxvivendiuniversal" class='startofrange'><primary>Vivendi Universal</primary></indexterm>
+<indexterm id='idxvivendiuniversal' class='startofrange'><primary>Vivendi Universal</primary></indexterm>
 <para>
 Nine days after MP3.com launched its service, the five major labels,
 headed by the RIAA, brought a lawsuit against MP3.com. MP3.com settled
@@ -9656,7 +9656,7 @@ industry directs its guns against them. It is also you. So those of
 you who believe the law should be less restrictive should realize that
 such a view of the law will cost you and your firm dearly.
 </para>
-<indexterm startref="idxvivendiuniversal" class='endofrange'/>
+<indexterm startref='idxvivendiuniversal' class='endofrange'/>
 <indexterm><primary>Hummer, John</primary></indexterm>
 <indexterm><primary>Barry, Hank</primary></indexterm>
 <indexterm><primary>Hummer Winblad</primary></indexterm>
@@ -10688,7 +10688,7 @@ success will require.
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
-<indexterm id="idxhawthornenathaniel" class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
+<indexterm id='idxhawthornenathaniel' class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1995</emphasis>, a father was frustrated
 that his daughters didn't seem to like Hawthorne. No doubt there was
@@ -12786,9 +12786,9 @@ controlled by this dead (and often unfindable) hand of the past.
 </part>
 <chapter label="15" id="c-conclusion">
 <title>CONCLUSION</title>
-<indexterm id="idxantiretroviraldrugs" class='startofrange'><primary>antiretroviral drugs</primary></indexterm>
-<indexterm id="idxhivaidstherapies" class='startofrange'><primary>HIV/AIDS therapies</primary></indexterm>
-<indexterm id="idxafricahivmed" class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
+<indexterm id='idxafricamedicationsforhivpatientsin' class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
+<indexterm id='idxhivaidstherapies' class='startofrange'><primary>HIV/AIDS therapies</primary></indexterm>
+<indexterm id='idxantiretroviraldrugs' class='startofrange'><primary>antiretroviral drugs</primary></indexterm>
 <para>
 <emphasis role='strong'>There are more</emphasis> than 35 million
 people with the AIDS virus worldwide. Twenty-five million of them live
@@ -13031,9 +13031,9 @@ our tradition, now reigns in this culture&mdash;bizarrely, and with
 consequences more grave to the spread of ideas and culture than almost
 any other single policy decision that we as a democracy will make.
 </para>
-<indexterm startref="idxafricahivmed" class='endofrange'/>
-<indexterm startref="idxhivaidstherapies" class='endofrange'/>
-<indexterm startref="idxantiretroviraldrugs" class='endofrange'/>
+<indexterm startref='idxafricamedicationsforhivpatientsin' class='endofrange'/>
+<indexterm startref='idxhivaidstherapies' class='endofrange'/>
+<indexterm startref='idxantiretroviraldrugs' class='endofrange'/>
 <para>
 <emphasis role='strong'>A simple idea</emphasis> blinds us, and under
 the cover of darkness, much happens that most of us would reject if
@@ -13804,7 +13804,7 @@ Finally, consider a very recent example that more directly resonates
 with the story of this book. This is the shift in the way academic and
 scientific journals are produced.
 </para>
-<indexterm id="idxacademocjournals" class='startofrange'><primary>academic journals</primary></indexterm>
+<indexterm id='idxacademocjournals' class='startofrange'><primary>academic journals</primary></indexterm>
 <para>
 As digital technologies develop, it is becoming obvious to many that
 printing thousands of copies of journals every month and sending them
@@ -13879,12 +13879,12 @@ distribution of content. But competition in our tradition is
 presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
-<indexterm startref="idxacademocjournals" class='endofrange'/>
+<indexterm startref='idxacademocjournals' class='endofrange'/>
 
 </section>
 <section id="oneidea">
 <title>Rebuilding Free Culture: One Idea</title>
-<indexterm id="idxcc" class='startofrange'><primary>Creative Commons</primary></indexterm>
+<indexterm id='idxcc' class='startofrange'><primary>Creative Commons</primary></indexterm>
 <para>
 The same strategy could be applied to culture, as a response to the
 increasing control effected through law and technology.
@@ -14073,7 +14073,7 @@ make it easier for authors and creators to exercise their rights more
 flexibly and cheaply. That difference, we believe, will enable
 creativity to spread more easily.
 </para>
-<indexterm startref="idxcc" class='endofrange'/>
+<indexterm startref='idxcc' class='endofrange'/>
 
 <!-- PAGE BREAK 292 -->
 </section>
