@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
 "POT-Creation-Date: 2012-09-03 22:46+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
-"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
+ppp"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
@@ -4689,12 +4689,14 @@ msgid "Thurmond, Strom"
 msgstr "Thurmond, Strom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "blog pressure on"
-msgstr ""
+msgstr "blogg press på"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "news events on"
-msgstr ""
+msgstr "nyheter hendelser på"
 
 #.  f18
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4731,8 +4733,9 @@ msgstr ""
 "\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "commercial imperatives of"
-msgstr ""
+msgstr "kommersielle imperativer av"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4748,8 +4751,9 @@ msgstr ""
 "må de bevege seg videre."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "peer-generated rankings on"
-msgstr ""
+msgstr "node-generert rangeringer på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4769,8 +4773,9 @@ msgstr ""
 "av likemanns-generert rangering. "
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "journalism"
-msgstr ""
+msgstr "journalistikk"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Winer, Dave"
@@ -5213,20 +5218,24 @@ msgid "Rensselaer Polytechnic Institute (RPI)"
 msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "computer network search engine of"
-msgstr ""
+msgstr "datamaskinen nettverk søkemotor av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "search engines"
-msgstr ""
+msgstr "søkemotorer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "university computer networks, p2p sharing on"
-msgstr ""
+msgstr "Universitetet datanettverk, p2p fildeling på"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "search engines used on"
-msgstr ""
+msgstr "søkemotorer som er brukt på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5413,12 +5422,14 @@ msgstr ""
 "var nøyaktig hva han var ment å gjøre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "in recording industry"
-msgstr ""
+msgstr "i innspillingen industri"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "against student file sharing"
-msgstr ""
+msgstr "mot student-fildeling"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "recording industry"
@@ -5430,8 +5441,9 @@ msgid "copyright infringement lawsuits of"
 msgstr "krenkelse av opphavsrett søksmål"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Recording Industry Association of America (RIAA)"
-msgstr ""
+msgstr "Recording industry association of america (riaa)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -5480,24 +5492,27 @@ msgstr ""
 "og der det store flertall av dette ikke hadde noe å gjøre med musikk."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "exaggerated claims of"
-msgstr ""
+msgstr "overdrevet påstander om"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "statutory damages of"
 msgstr "lovbestemte skader for"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "individual defendants intimidated by"
-msgstr ""
+msgstr "individuelle saksøkte skremt av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "statutory damages"
 msgstr "lovbestemte skader"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "intimidation tactics of"
-msgstr ""
+msgstr "trusler taktikk av"
 
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
@@ -5600,8 +5615,9 @@ msgstr ""
 "øre som Jesse hadde spart opp."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "legal system, attorney costs in"
-msgstr ""
+msgstr "juridiske systemet, advokat kostnader i"
 
 #.  PAGE BREAK 65
 #. type: Content of: <book><part><chapter><para>
@@ -5645,8 +5661,9 @@ msgid "artist remuneration in"
 msgstr "artist godtgjørelse i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "lobbying power of"
-msgstr ""
+msgstr "lobbyvirksomhet makt"
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5733,8 +5750,9 @@ msgid "CHAPTER FOUR: <quote>Pirates</quote>"
 msgstr "Kapittel fire: <quote>Pirater</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "in development of content industry"
-msgstr ""
+msgstr "i utviklingen av innhold industri"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8339,8 +8357,9 @@ msgstr ""
 "for arkitekturen de valgte."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on VCR technology"
-msgstr ""
+msgstr "på vcr-teknologi"
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8657,8 +8676,9 @@ msgstr ""
 "en advokat for å få tillatelse til å spille inn en sang?"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on balance of interests in copyright law"
-msgstr ""
+msgstr "på balanse mellom interesser i lov om opphavsrett"
 
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8864,8 +8884,9 @@ msgstr ""
 "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "intangibility of"
-msgstr ""
+msgstr "intangibility av"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -8949,8 +8970,9 @@ msgid "Henry V"
 msgstr "Henry V"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Romeo and Juliet (Shakespeare)"
-msgstr ""
+msgstr "Romeo og Julie (shakespeare)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8975,8 +8997,9 @@ msgstr ""
 "quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Conger"
-msgstr ""
+msgstr "Conger"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Tonson, Jacob"
@@ -9052,8 +9075,9 @@ msgid "British Parliament"
 msgstr "Britiske parlamentet, det"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Statute of Anne (1710)"
-msgstr ""
+msgstr "Vedtektene for anne (1710)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -17280,8 +17304,9 @@ msgid "Worldcom"
 msgstr "Worldcom"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "doctors malpractice claims against"
-msgstr ""
+msgstr "leger malpractice krav mot"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -23359,8 +23384,9 @@ msgid "antiretroviral drugs"
 msgstr "antiretroviral medisin"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "developing countries, foreign patent costs in"
-msgstr ""
+msgstr "utviklingsland, utenlandske patent kostnader i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "drugs"
@@ -23512,8 +23538,9 @@ msgid "parallel importation"
 msgstr "parallellimport"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "South Africa, Republic of, pharmaceutical imports by"
-msgstr ""
+msgstr "Sør-Afrika, Republikken, farmasøytiske import av"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Braithwaite, John"
@@ -23550,8 +23577,9 @@ msgstr ""
 "europeiske union.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "United States Trade Representative (USTR)"
-msgstr ""
+msgstr "USAs handel representant (ustr)"
 
 #.  f3.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -23728,8 +23756,9 @@ msgstr ""
 "dør for slik en abstraksjon?"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "corporations"
-msgstr ""
+msgstr "selskaper"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -23769,8 +23798,9 @@ msgstr ""
 "overvunnet."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "of drug patents"
-msgstr ""
+msgstr "stoffet patenter"
 
 #.  PAGE BREAK 268
 #. type: Content of: <book><chapter><para>
@@ -23913,8 +23943,9 @@ msgid "biomedical research"
 msgstr "biomedisinsk forskning"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "international organization on issues of"
-msgstr ""
+msgstr "internasjonal organisasjon om saker av"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "IBM"
@@ -23941,8 +23972,9 @@ msgid "Wellcome Trust"
 msgstr "Wellcome Trust"
 
 #. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "World Intellectual Property Organization (WIPO)"
-msgstr ""
+msgstr "World intellectual property organization (wipo)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "World Wide Web"
@@ -24036,8 +24068,9 @@ msgstr ""
 "begrensninger på hvordan proprietære krav kan bli brukt."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "in international debate on intellectual property"
-msgstr ""
+msgstr "i internasjonal debatt om immaterielle"
 
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -25362,8 +25395,9 @@ msgid "journals in"
 msgstr "tidsskrifter i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "access to opinions of"
-msgstr ""
+msgstr "tilgang til vurderingene av"
 
 #.  PAGE BREAK 286
 #. type: Content of: <book><chapter><section><section><para>
@@ -25395,12 +25429,14 @@ msgstr ""
 "høyesterettsdommen gjennom deres respektive tjenester."
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "access fees for material in"
-msgstr ""
+msgstr "Access-avgifter for materiale i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "license system for rebuilding of"
-msgstr ""
+msgstr "lisens-systemet for å gjenoppbygge av"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
