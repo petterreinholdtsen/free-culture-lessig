@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-03 14:50+0300\n"
+"POT-Creation-Date: 2012-09-03 15:27+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -792,7 +792,7 @@ msgstr ""
 msgid "Douglas, William O."
 msgstr "Douglas, William O."
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Supreme Court, U.S."
 msgstr "Høyesterett, USA"
 
@@ -2743,7 +2743,7 @@ msgstr "opphavsrett"
 msgid "duration of"
 msgstr "varighet til"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "public domain"
 msgstr "allemannseie (public domain)"
 
@@ -7118,11 +7118,11 @@ msgstr ""
 "kinesiske brukerne ikke til slutt kjøpe Microsoft.  Uten piratvirksomheten "
 "ville dermed Microsoft tape."
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "law"
 msgstr "loven"
 
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "databases of case reports in"
 msgstr "databaser med saksrapporter om"
 
@@ -11192,7 +11192,7 @@ msgstr "TV-arkiv"
 msgid "Vanderbilt University"
 msgstr "Vanderbilt University"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 #, mtrans, fuzzy
 msgid "libraries"
 msgstr "biblioteker"
@@ -23347,16 +23347,16 @@ msgid "CONCLUSION"
 msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "antiretroviral drugs"
-msgstr "antiretroviral medisin"
+msgid "Africa, medications for HIV patients in"
+msgstr "Afrika, medisinering for HIV-pasienter i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "HIV/AIDS therapies"
 msgstr "HIV/AIDS-behandlinger"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-msgid "Africa, medications for HIV patients in"
-msgstr "Afrika, medisinering for HIV-pasienter i"
+msgid "antiretroviral drugs"
+msgstr "antiretroviral medisin"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -25298,6 +25298,10 @@ msgstr ""
 "fri programvare ville overleve.  Han beskyttet aktivt det som før hadde vært "
 "passivt garantert."
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "scientific journals"
+msgstr "vitenskapelige tidsskrifter"
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "Finally, consider a very recent example that more directly resonates with "
@@ -25307,6 +25311,18 @@ msgstr ""
 "Til slutt, la oss se på et veldig nytt eksempel som resonerer mer direkte "
 "med historien i denne boken.  Dette er overgangen for hvordan akademiske og "
 "vitenskapelige tidsskrifter blir produsert."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Lexis and Westlaw"
+msgstr "Lexis and Westlaw""
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "journals in"
+msgstr "tidsskrifter i"
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "access to opinions of"
+msgstr ""
 
 #.  PAGE BREAK 286
 #. type: Content of: <book><chapter><section><section><para>
@@ -25336,6 +25352,14 @@ msgstr ""
 "til et bibliotek og lese den, så står Lexis og Westlaw også fritt til å "
 "kreve betaling fra sine brukerne for å gi tilgang til den samme "
 "høyesterettsdommen gjennom deres respektive tjenester."
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "access fees for material in"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "license system for rebuilding of"
+msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""

@@ -13799,12 +13799,17 @@ that bind copyrighted code, Stallman was affirmatively reclaiming a
 space where free software would survive. He was actively protecting
 what before had been passively guaranteed.
 </para>
+<indexterm id='idxacademicjournals' class='startofrange'><primary>academic journals</primary></indexterm>
+<indexterm id='idxscientificjournals' class='startofrange'><primary>scientific journals</primary></indexterm>
 <para>
 Finally, consider a very recent example that more directly resonates
 with the story of this book. This is the shift in the way academic and
 scientific journals are produced.
 </para>
-<indexterm id='idxacademicjournals' class='startofrange'><primary>academic journals</primary></indexterm>
+<indexterm id='idxlexisandwestlaw' class='startofrange'><primary>Lexis and Westlaw</primary></indexterm>
+<indexterm id='idxlawdatabasesofcasereportsin' class='startofrange'><primary>law</primary><secondary>databases of case reports in</secondary></indexterm>
+<indexterm><primary>libraries</primary><secondary>journals in</secondary></indexterm>
+<indexterm><primary>Supreme Court, U.S.</primary><secondary>access to opinions of</secondary></indexterm>
 <para>
 As digital technologies develop, it is becoming obvious to many that
 printing thousands of copies of journals every month and sending them
@@ -13821,6 +13826,8 @@ and Westlaw are also free
 to charge users for the privilege of gaining access to that Supreme
 Court opinion through their respective services.
 </para>
+<indexterm><primary>public domain</primary><secondary>access fees for material in</secondary></indexterm>
+<indexterm id='idxpublicdomainlicensesystemforrebuildingof' class='startofrange'><primary>public domain</primary><secondary>license system for rebuilding of</secondary></indexterm>
 <para>
 There's nothing wrong in general with this, and indeed, the ability to
 charge for access to even public domain materials is a good incentive
@@ -13830,6 +13837,8 @@ to flourish. And if there's nothing wrong with selling the public
 domain, then there could be nothing wrong, in principle, with selling
 access to material that is not in the public domain.
 </para>
+<indexterm startref='idxlexisandwestlaw' class='endofrange'/>
+<indexterm startref='idxlawdatabasesofcasereportsin' class='endofrange'/>
 <para>
 But what if the only way to get access to social and scientific data
 was through proprietary services? What if no one had the ability to
@@ -13880,10 +13889,11 @@ presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
 <indexterm startref='idxacademicjournals' class='endofrange'/>
+<indexterm startref='idxscientificjournals' class='endofrange'/>
 </section>
 <section id="oneidea">
 <title>Rebuilding Free Culture: One Idea</title>
-<indexterm id='idxcc' class='startofrange'><primary>Creative Commons</primary></indexterm>
+<indexterm id='idxcreativecommons' class='startofrange'><primary>Creative Commons</primary></indexterm>
 <para>
 The same strategy could be applied to culture, as a response to the
 increasing control effected through law and technology.
@@ -14072,8 +14082,8 @@ make it easier for authors and creators to exercise their rights more
 flexibly and cheaply. That difference, we believe, will enable
 creativity to spread more easily.
 </para>
-<indexterm startref='idxcc' class='endofrange'/>
-
+<indexterm startref='idxpublicdomainlicensesystemforrebuildingof' class='endofrange'/>
+<indexterm startref='idxcreativecommons' class='endofrange'/>
 <!-- PAGE BREAK 292 -->
 </section>
 </section>
