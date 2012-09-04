@@ -25395,9 +25395,8 @@ msgid "journals in"
 msgstr "tidsskrifter i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "access to opinions of"
-msgstr "tilgang til vurderingene av"
+msgstr "tilgang til vurderinger fra"
 
 #.  PAGE BREAK 286
 #. type: Content of: <book><chapter><section><section><para>
@@ -25429,14 +25428,12 @@ msgstr ""
 "høyesterettsdommen gjennom deres respektive tjenester."
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "access fees for material in"
-msgstr "Access-avgifter for materiale i"
+msgstr "tilgangsavgifter for materiale i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "license system for rebuilding of"
-msgstr "lisens-systemet for å gjenoppbygge av"
+msgstr "lisens-systemet for å gjenoppbygging av"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25663,7 +25660,6 @@ msgstr "Garlick, Mia"
 
 #.  PAGE BREAK 289
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This is just one project among many within the Creative Commons.  And of "
 "course, Creative Commons is not the only organization pursuing such "
@@ -25675,14 +25671,16 @@ msgid ""
 "and, by their work, demonstrate the importance of the public domain to other "
 "creativity."
 msgstr ""
-"Dette er bare ett prosjekt blant mange innenfor creative commons. og "
-"selvfølgelig, creative commons er ikke den eneste organisasjonen å forfølge "
-"slike friheter. men poenget som skiller creative commons fra mange er at vi "
-"ikke er interessert i å få lovgivere til å bygge et frivare eller bare i "
-"snakker om et frivare. vårt mål er å bygge en bevegelse av forbrukere og "
-"produsenter av innhold (\"innhold conducers,\" som advokat mia garlick "
-"kaller dem) hvem hjelpe bygge allemannseie, og ved deres arbeid, demonstrere "
-"viktigheten av public domain til andre kreativitet."
+"Dette er bare et av mange prosjekter innen Creative Commons.  Og "
+"Creative Commons er naturligvis ikke den eneste organisasjonen som "
+"bidrar til slike friheter.  Men det som skiller Creative Commons fra "
+"mange andre er at vi er ikke bare interessert i å snakke om et "
+"allemannseie eller i å få lovgiverne til å bidra til å bygge et "
+"allemannseie.  Vårt mål er å bygge en bevegelse av konsumenter og "
+"produsenter av innhold (<quote>innholds-kondusenter</quote>, som "
+"advokat Mia Garlick kaller dem) som hjelper til å bygge allemannseie "
+"og demonstrerer med deres egne verker hvor viktig allemannseiet er for "
+"annen kreativitet."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
