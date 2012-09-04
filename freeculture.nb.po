@@ -26556,6 +26556,12 @@ msgid ""
 "This expansion has been commented upon by one of the law's greatest judges, "
 "Judge Benjamin Kaplan."
 msgstr ""
+"Kongressen innvilget starten på denne retten i 1870, da den utvidet "
+"den eksklusive retten i opphavsretten til å inneholde retten til å "
+"kontrollere oversettelser og dramatiseringer av et verk.<placeholder "
+"type=\"footnote\" id=\"0\"/> Domstolene har utvidet det sakte gjennom "
+"lovfortolkninger siden da.  Denne utvidelsen har vært kommentert av en "
+"av jussverdens beste dommere, dommer Benjamin Kaplan."
 
 #.  f6.
 #. type: Content of: <book><chapter><section><section><blockquote><para><footnote><para>
