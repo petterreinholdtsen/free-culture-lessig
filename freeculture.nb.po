@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-04 14:48+0300\n"
+"POT-Creation-Date: 2012-09-04 22:46+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1272,11 +1272,11 @@ msgstr ""
 "prosess.  RCA hadde hva Causby-ene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Internet"
 msgstr "internet"
 
-#. type: Content of: <book><chapter><indexterm><secondary>
+#. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "development of"
 msgstr "utviklingen av"
 
@@ -1464,7 +1464,7 @@ msgstr ""
 "USA.  Men det var på ingen måte dominerende i vår tradisjon.  Det var i "
 "stedet bare en del, en kontrollert del, balansert mot det frie."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free culture"
 msgstr "fri kultur"
 
@@ -7081,7 +7081,7 @@ msgstr ""
 msgid "in Asia"
 msgstr "i Asia"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
 msgstr "fri programvare/åpen kildekode-programvare (FS/OSS)"
 
@@ -24012,7 +24012,7 @@ msgstr "biomedisinsk forskning"
 msgid "international organization on issues of"
 msgstr "internasjonal organisasjon om saker av"
 
-#. type: Content of: <book><chapter><section><section><para><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "IBM"
 msgstr "IBM"
 
@@ -25088,6 +25088,10 @@ msgstr ""
 "quote>-typen mener du bør kunne gjøre med innhold som du selv ønsker "
 "uavhengig av om du har tillatelse eller ikke."
 
+#. type: Content of: <book><chapter><section><indexterm><secondary>
+msgid "initial free character of"
+msgstr ""
+
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
 msgid ""
@@ -25155,6 +25159,14 @@ msgstr ""
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
 msgstr "Gjenoppbygging av friheter som tidligere var antatt: Eksempler"
 
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "restoration efforts on previous aspects of"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "privacy rights"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "If you step back from the battle I've been describing here, you will "
@@ -25216,6 +25228,10 @@ msgstr "Amazon"
 msgid "cookies, Internet"
 msgstr "informasjonskapsler, internett"
 
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "privacy protection on"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "Enter the Internet, where the cost of tracking browsing in particular has "
@@ -25237,6 +25253,10 @@ msgstr ""
 "forsvinner ogsåå ethver <quote>personvern</quote> som var beskyttet av denne "
 "friksjonen."
 
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "privacy rights in use of"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "Amazon, of course, is not the problem. But we might begin to worry about "
@@ -25249,11 +25269,12 @@ msgid ""
 msgstr ""
 "Amazon er naturligvis ikke problemet.  Men vi kan begynne å bekymre oss for "
 "biblioteker.  Hvis du er en av disse sprø venstrevridde som mener at folk "
-"bør ha <quote>retten</quote> til å bla igjennom et bibliotek uten at myndighetene "
-"får vite hvilke bøker du ser på (jeg er også en av disse venstrevridde), da "
-"kan det hende denne endringen i teknologien for overvåkning angår deg.  Hvis "
-"det blir enkelt å samle inn og sortere hvem som gjør hva i det elektroniske "
-"rom, så forsvinner det friksjons-induserte personvernet fra tidligere tider."
+"bør ha <quote>retten</quote> til å bla igjennom et bibliotek uten at "
+"myndighetene får vite hvilke bøker du ser på (jeg er også en av disse "
+"venstrevridde), da kan det hende denne endringen i teknologien for "
+"overvåkning angår deg.  Hvis det blir enkelt å samle inn og sortere hvem som "
+"gjør hva i det elektroniske rom, så forsvinner det friksjons-induserte "
+"personvernet fra tidligere tider."
 
 #.  f1.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -25290,21 +25311,24 @@ msgstr ""
 "på personvern til å gjøre aktive handlinger der hvor personvern tidligere "
 "var gitt som utgangspunkt."
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Data General"
+msgstr "Data General"
+
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
 "A similar story could be told about the birth of the free software movement. "
 "When computers with software were first made available commercially, the "
 "software&mdash;both the source code and the binaries&mdash; was free. You "
 "couldn't run a program written for a Data General machine on an IBM machine, "
-"so Data General and IBM didn't care much about controlling their software.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"so Data General and IBM didn't care much about controlling their software."
 msgstr ""
 "En lignende historie kan fortelles om stiftelsen av fri programvare-"
 "bevegelsen.  Da datamaskiner med programvare først ble gjort kommersielt "
 "tilgjengelig var programvaren&mdash;både kildekoden og binærene&mdash;fritt "
 "tilgjengelig.  Du kunne ikke kjøre et program skrevet for en Data General-"
 "maskin på en IBM-maskin, så Data General og IBM brydde seg ikke mye om å "
-"kontrollere programvaren sin. <placeholder type=\"indexterm\" id=\"0\"/>"
+"kontrollere programvaren sin."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Stallman, Richard"
@@ -25347,6 +25371,10 @@ msgstr ""
 "fikle med og forbedre koden som kjørte på en maskin.  Dette var også "
 "kunnskap.  Hvorfor skulle det ikke være åpent for kritikk på samme måte som "
 "alt annet?"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "proprietary code"
+msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25759,16 +25787,16 @@ msgid ""
 "needed. Creative Commons gives people a way effectively to begin to build "
 "those rules."
 msgstr ""
-"Målet er ikke å sloss mot <quote>alle rettigheter "
-"reservert</quote>-folkene.  Målet er å utfylle dem.  Problemene som "
-"loven skaper for oss som kultur er skapt av sinnsyke og utilsiktede "
-"konsekvenser av lover skrevet for århundrer siden, anvendt på en "
-"teknologi som kun Jefferson kunne ha forestilt seg.  Reglene kan godt "
-"å gitt mening da bakgrunnen var teknologiene tilgjengelig for "
-"hundrevis av år siden, men de gir ikke mening når bakgrunnen er "
-"digitale teknologier.  Nye regler&mdash;med andre friheter, uttrykket "
-"slik at hemmenser uten advokater kan bruke dem&mdash;trengs.  Creative "
-"Commons gir folk en effektiv måte å begynne å lage disse reglene."
+"Målet er ikke å sloss mot <quote>alle rettigheter reservert</quote>-"
+"folkene.  Målet er å utfylle dem.  Problemene som loven skaper for oss som "
+"kultur er skapt av sinnsyke og utilsiktede konsekvenser av lover skrevet for "
+"århundrer siden, anvendt på en teknologi som kun Jefferson kunne ha "
+"forestilt seg.  Reglene kan godt å gitt mening da bakgrunnen var "
+"teknologiene tilgjengelig for hundrevis av år siden, men de gir ikke mening "
+"når bakgrunnen er digitale teknologier.  Nye regler&mdash;med andre "
+"friheter, uttrykket slik at hemmenser uten advokater kan bruke dem&mdash;"
+"trengs.  Creative Commons gir folk en effektiv måte å begynne å lage disse "
+"reglene."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25796,17 +25824,16 @@ msgid ""
 "(1)s, the strategy of releasing Cory's book free on-line will probably "
 "<emphasis>increase</emphasis> sales of Cory's book."
 msgstr ""
-"Hvorfor ville en utgiver noen sinne gå med på dette?  Jeg mistenker "
-"hans utgiver tenkte som dette: Det er to grupper av mennesker der ute: "
-"(1) de osm vil kjøpe Corys bok uansett om den er på internettet eller "
-"ikke og (2)de som kanskje aldri hører om Corys bok hvis den ikke blir "
-"gjort tilgjengelig gratis på internettet.  En del av (1) vil laste ned "
-"Corys bok i stedet for å kjøpe den.  Vi kan kalle dem slemme-(1).  En "
-"del av (2) vil laste ned Corys bok, like den, og deretter bestemme seg "
-"for å kjøpe den.  Vi kan kalle dem gode-(2).  Hvis det er flere "
-"gode-(2-) enn det er slemme-(1), så vil strategien med å gi ut Corys "
-"bok gratis på nettet antagelig <emphasis>øke</emphasis> salget av "
-"Corys bok."
+"Hvorfor ville en utgiver noen sinne gå med på dette?  Jeg mistenker hans "
+"utgiver tenkte som dette: Det er to grupper av mennesker der ute: (1) de osm "
+"vil kjøpe Corys bok uansett om den er på internettet eller ikke og (2)de som "
+"kanskje aldri hører om Corys bok hvis den ikke blir gjort tilgjengelig "
+"gratis på internettet.  En del av (1) vil laste ned Corys bok i stedet for å "
+"kjøpe den.  Vi kan kalle dem slemme-(1).  En del av (2) vil laste ned Corys "
+"bok, like den, og deretter bestemme seg for å kjøpe den.  Vi kan kalle dem "
+"gode-(2).  Hvis det er flere gode-(2-) enn det er slemme-(1), så vil "
+"strategien med å gi ut Corys bok gratis på nettet antagelig <emphasis>øke</"
+"emphasis> salget av Corys bok."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25838,15 +25865,14 @@ msgid ""
 "used book store prices for the book. As predicted, as the number of "
 "downloads increased, the used book price for his book increased, as well."
 msgstr ""
-"Idéen om at gratis innhold kan øke verdien for ikke-gratis innhold "
-"var bekreftet av et eksperiment gjennomført av an anne forfatter. "
-"Peter Wayner, som skrev en bok om fri programvarebevegeslen med "
-"tittelen <citetitle>Free For All</citetitle>, gjorde en elektronisk "
-"utgave av boken gratis til gjengelig på nettet med en Creative "
-"Commons-lisens etter at boken var utsolgt fra forlaget.  Han fulgte "
-"deretter med på prisen for boken i bruktbokhandler.  Som forutsett, "
-"etter hvert som antall nedlastinger steg, steg også bruktprisen på "
-"boken."
+"Idéen om at gratis innhold kan øke verdien for ikke-gratis innhold var "
+"bekreftet av et eksperiment gjennomført av an anne forfatter. Peter Wayner, "
+"som skrev en bok om fri programvarebevegeslen med tittelen <citetitle>Free "
+"For All</citetitle>, gjorde en elektronisk utgave av boken gratis til "
+"gjengelig på nettet med en Creative Commons-lisens etter at boken var "
+"utsolgt fra forlaget.  Han fulgte deretter med på prisen for boken i "
+"bruktbokhandler.  Som forutsett, etter hvert som antall nedlastinger steg, "
+"steg også bruktprisen på boken."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Public Enemy"
@@ -25891,23 +25917,21 @@ msgid ""
 "the creative environment content that others can build upon, so that their "
 "form of creativity might grow."
 msgstr ""
-"Dette er eksempler på bruk av Creative Commons for å bedre spre "
-"proprietært innhold.  Jeg mener at dette er en nydelig og vanlig bruk "
-"av Creative Commons.  Det er andre som bruker Creative "
-"Commons-lisenser av andre grunner.  Mange som bruker "
-"<quote>sampling-lisensen</quote> gjør det på grunn av at det ville "
-"være hyklerisk.  Samling-lisensen sier at andre står fritt til, for "
-"kommersielle eller ikke-kommersielle formål, å bruke biter av innhold "
-"fra det lisensierte verket.  De har bare ikke friheten til å gjøre "
+"Dette er eksempler på bruk av Creative Commons for å bedre spre proprietært "
+"innhold.  Jeg mener at dette er en nydelig og vanlig bruk av Creative "
+"Commons.  Det er andre som bruker Creative Commons-lisenser av andre "
+"grunner.  Mange som bruker <quote>sampling-lisensen</quote> gjør det på "
+"grunn av at det ville være hyklerisk.  Samling-lisensen sier at andre står "
+"fritt til, for kommersielle eller ikke-kommersielle formål, å bruke biter av "
+"innhold fra det lisensierte verket.  De har bare ikke friheten til å gjøre "
 "hele innholdet tilgjengelig for andre.  På grunn av at den "
 "<emphasis>juridiske</emphasis> kostnaden med samling er så høy (Walter "
-"Leaphart, manager for rap-gruppen Public Enemy, som ble skapt ved å "
-"sample musikken til andre, har uttalt at han ikke "
-"<quote>tillater</quote> Public Enemy å sample mer, på grunn av at den "
-"juridiske kostnaden er så høy<placeholder type=\"footnote\" "
-"id=\"0\"/>), slipper disse artistene innhold ut i det kreative miljøet "
-"som andre kan bygge videre på, slik at deres form for kreativitet kan "
-"vokse."
+"Leaphart, manager for rap-gruppen Public Enemy, som ble skapt ved å sample "
+"musikken til andre, har uttalt at han ikke <quote>tillater</quote> Public "
+"Enemy å sample mer, på grunn av at den juridiske kostnaden er så "
+"høy<placeholder type=\"footnote\" id=\"0\"/>), slipper disse artistene "
+"innhold ut i det kreative miljøet som andre kan bygge videre på, slik at "
+"deres form for kreativitet kan vokse."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25921,16 +25945,16 @@ msgid ""
 "Creative Commons license expresses this notion of <quote>Some Rights "
 "Reserved,</quote> and gives many the chance to say it to others."
 msgstr ""
-"Til slutt er det mange som merker sitt innhold med en Creative "
-"Commons-lisens kun fordi de ønsker å uttrykke til andre hvor viktig de "
-"synes balanse er i denne debatten.  Hvis du bare aksepterer systemet "
-"slik det er, så sier du i effekt at du tror på <quote>alle rettigheter "
-"reservert</quote>-modellen.  Fint for deg, men mange gjør ikke det. "
-"Mange tror at uanset hvor riktig den regelen er for Hollywood og "
-"gærninger, så er den ikke en riktig beskrivelse av hvordan de fleste "
-"skaperne ser på rettighetene knyttet til sitt innhold.  Creative "
-"Commons-lisesen uttrykker begrepet <quote>noen rettigheter "
-"reservert</quote>, og gir mange muligheten til å si det til andre."
+"Til slutt er det mange som merker sitt innhold med en Creative Commons-"
+"lisens kun fordi de ønsker å uttrykke til andre hvor viktig de synes balanse "
+"er i denne debatten.  Hvis du bare aksepterer systemet slik det er, så sier "
+"du i effekt at du tror på <quote>alle rettigheter reservert</quote>-"
+"modellen.  Fint for deg, men mange gjør ikke det. Mange tror at uanset hvor "
+"riktig den regelen er for Hollywood og gærninger, så er den ikke en riktig "
+"beskrivelse av hvordan de fleste skaperne ser på rettighetene knyttet til "
+"sitt innhold.  Creative Commons-lisesen uttrykker begrepet <quote>noen "
+"rettigheter reservert</quote>, og gir mange muligheten til å si det til "
+"andre."
 
 #.  PAGE BREAK 291
 #. type: Content of: <book><chapter><section><section><para>
@@ -25943,10 +25967,10 @@ msgid ""
 "build content based upon content set free."
 msgstr ""
 "I de første seks månede av Creative Commons-eksperimentet, ble over en "
-"million objekter lisensiert med disse fri kultur-lisensene.  Neste "
-"steg er partnerskap med mellomvare-tilbyderne av innhold for å hjelpe "
-"dem å bygge enkle måter for brukerne å merke innholdet med friheten "
-"gitt med Creative Commons inn i teknologiene de lager."
+"million objekter lisensiert med disse fri kultur-lisensene.  Neste steg er "
+"partnerskap med mellomvare-tilbyderne av innhold for å hjelpe dem å bygge "
+"enkle måter for brukerne å merke innholdet med friheten gitt med Creative "
+"Commons inn i teknologiene de lager."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25956,12 +25980,12 @@ msgid ""
 "Creative Commons relies upon voluntary steps to achieve this rebuilding. "
 "They will lead to a world in which more than voluntary steps are possible."
 msgstr ""
-"Dette er de første stegene for å gjennoppbygge et allemannseie.  De "
-"er ikke kun argumentasjon, de er handlinger.  A bygge allemannseiet er "
-"første steg for å vise folk hvor viktig dette er for kreativitet og "
-"nyskapning.  Creative Commons baserer seg på frivillige steg for å få "
-"til denne gjenoppbyggingen.  De vil føre til en verden hvor mer enn "
-"frivillige steg er mulig."
+"Dette er de første stegene for å gjennoppbygge et allemannseie.  De er ikke "
+"kun argumentasjon, de er handlinger.  A bygge allemannseiet er første steg "
+"for å vise folk hvor viktig dette er for kreativitet og nyskapning.  "
+"Creative Commons baserer seg på frivillige steg for å få til denne "
+"gjenoppbyggingen.  De vil føre til en verden hvor mer enn frivillige steg er "
+"mulig."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25975,11 +25999,10 @@ msgstr ""
 "Creative Commons er bare ett eksempel på frivillig innsats fra "
 "enkeltpersoner og skapere for å endre blandingen av rettigheter som nå "
 "styrer det kreative området.  Prosjektet konkurrerer ikke med "
-"opphavsretten.  Den utfyller den.  Dets mål er ikke å bekjempe "
-"rettighetene til forfatterne, men a gjøre det enklere for forfattere "
-"og skapere å utøve sine rettigheter mer fleksibelt og billigere.  Den "
-"forskjellen, tror vi, vil gjøre det mulig for kreativiteten a spre seg "
-"lettere."
+"opphavsretten.  Den utfyller den.  Dets mål er ikke å bekjempe rettighetene "
+"til forfatterne, men a gjøre det enklere for forfattere og skapere å utøve "
+"sine rettigheter mer fleksibelt og billigere.  Den forskjellen, tror vi, vil "
+"gjøre det mulig for kreativiteten a spre seg lettere."
 
 #. type: Content of: <book><chapter><section><title>
 msgid "THEM, SOON"

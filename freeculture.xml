@@ -13697,6 +13697,8 @@ permission before you <quote>use</quote> a copyrighted work in any way. The <quo
 Rights Reserved</quote> sorts believe you should be able to do with content
 as you wish, regardless of whether you have permission or not.
 </para>
+<indexterm id='idxinternetdevelopmentof2' class='startofrange'><primary>Internet</primary><secondary>development of</secondary></indexterm>
+<indexterm id='idxinternetinitialfreecharacterof' class='startofrange'><primary>Internet</primary><secondary>initial free character of</secondary></indexterm>
 <para>
 When the Internet was first born, its initial architecture effectively
 tilted in the <quote>no rights reserved</quote> direction. Content could be copied
@@ -13723,6 +13725,8 @@ content requires permission.  The <quote>cut and paste</quote> world that define
 the Internet today will become a <quote>get permission to cut and paste</quote>
 world that is a creator's nightmare.
 </para>
+<indexterm startref='idxinternetdevelopmentof2' class='endofrange'/>
+<indexterm startref='idxinternetinitialfreecharacterof' class='endofrange'/>
 <para>
 What's needed is a way to say something in the middle&mdash;neither
 <quote>all rights reserved</quote> nor <quote>no rights reserved</quote> but <quote>some rights
@@ -13731,10 +13735,11 @@ creators to free content as they see fit. In other words, we need a
 way to restore a set of freedoms that we could just take for granted
 before.
 </para>
-
 <section id="examples">
 <title>Rebuilding Freedoms Previously Presumed: Examples</title>
-<indexterm id='browsing' class='startofrange'><primary>browsing</primary></indexterm>
+<indexterm id='idxfreeculturerestorationeffortsonpreviousaspectsof' class='startofrange'><primary>free culture</primary><secondary>restoration efforts on previous aspects of</secondary></indexterm>
+<indexterm id='idxbrowsing' class='startofrange'><primary>browsing</primary></indexterm>
+<indexterm id='idxprivacyrights2' class='startofrange'><primary>privacy rights</primary></indexterm>
 <para>
 If you step back from the battle I've been describing here, you will
 recognize this problem from other contexts. Think about
@@ -13765,8 +13770,9 @@ of privacy. That privacy is guaranteed to us by friction. Not by law
 places, not by norms (snooping and gossip are just fun), but instead,
 by the costs that friction imposes on anyone who would want to spy.
 </para>
-<indexterm><primary>Amazon</primary></indexterm>
+<indexterm id='idxamazon' class='startofrange'><primary>Amazon</primary></indexterm>
 <indexterm><primary>cookies, Internet</primary></indexterm>
+<indexterm id='idxinternetprivacyprotectionon' class='startofrange'><primary>Internet</primary><secondary>privacy protection on</secondary></indexterm>
 <para>
 Enter the Internet, where the cost of tracking browsing in particular
 has become quite tiny. If you're a customer at Amazon, then as you
@@ -13777,6 +13783,7 @@ and the function of cookies on the Net, it is easier to collect the
 data than not. The friction has disappeared, and hence any <quote>privacy</quote>
 protected by the friction disappears, too.
 </para>
+<indexterm><primary>libraries</primary><secondary>privacy rights in use of</secondary></indexterm>
 <para>
 Amazon, of course, is not the problem. But we might begin to worry
 about libraries. If you're one of those crazy lefties who thinks that
@@ -13787,7 +13794,8 @@ you. If it becomes simple to gather and sort who does what in
 electronic spaces, then the friction-induced privacy of yesterday
 disappears.
 </para>
-<indexterm startref='browsing' class='endofrange'/>
+<indexterm startref='idxbrowsing' class='endofrange'/>
+<indexterm startref='idxamazon' class='endofrange'/>
 <para>
 It is this reality that explains the push of many to define <quote>privacy</quote>
 on the Internet. It is the recognition that technology can remove what
@@ -13812,6 +13820,11 @@ kind of freedom that was passively provided before. A change in
 technology now forces those who believe in privacy to affirmatively
 act where, before, privacy was given by default.
 </para>
+<indexterm startref='idxprivacyrights2' class='endofrange'/>
+<indexterm startref='idxinternetprivacyprotectionon' class='endofrange'/>
+<indexterm><primary>Data General</primary></indexterm>
+<indexterm><primary>IBM</primary></indexterm>
+<indexterm id='idxfreesoftwareopensourcesoftwarefsoss2' class='startofrange'><primary>free software/open-source software (FS/OSS)</primary></indexterm>
 <para>
 A similar story could be told about the birth of the free software
 movement. When computers with software were first made available
@@ -13819,9 +13832,8 @@ commercially, the software&mdash;both the source code and the
 binaries&mdash; was free. You couldn't run a program written for a
 Data General machine on an IBM machine, so Data General and IBM didn't
 care much about controlling their software.
-<indexterm><primary>IBM</primary></indexterm>
 </para>
-<indexterm><primary>Stallman, Richard</primary></indexterm>
+<indexterm id='idxstallmanrichard' class='startofrange'><primary>Stallman, Richard</primary></indexterm>
 <para>
 That was the world Richard Stallman was born into, and while he was a
 researcher at MIT, he grew to love the community that developed when
@@ -13842,6 +13854,7 @@ free to tinker with and improve the code that ran a machine. This,
 too, was knowledge. Why shouldn't it be open for criticism like
 anything else?
 </para>
+<indexterm id='idxproprietarycode' class='startofrange'><primary>proprietary code</primary></indexterm>
 <para>
 No one answered that question. Instead, the architecture of revenue
 for computing changed. As it became possible to import programs from
@@ -13860,6 +13873,7 @@ economics of computing. And as he believed, if he did nothing about
 it, then the freedom to change and share software would be
 fundamentally weakened.
 </para>
+<indexterm startref='idxproprietarycode' class='endofrange'/>
 <indexterm><primary>Torvalds, Linus</primary></indexterm>
 <para>
 Therefore, in 1984, Stallman began a project to build a free operating
@@ -13888,6 +13902,8 @@ that bind copyrighted code, Stallman was affirmatively reclaiming a
 space where free software would survive. He was actively protecting
 what before had been passively guaranteed.
 </para>
+<indexterm startref='idxfreesoftwareopensourcesoftwarefsoss2' class='endofrange'/>
+<indexterm startref='idxstallmanrichard' class='endofrange'/>
 <indexterm id='idxacademicjournals' class='startofrange'><primary>academic journals</primary></indexterm>
 <indexterm id='idxscientificjournals' class='startofrange'><primary>scientific journals</primary></indexterm>
 <para>
@@ -13933,6 +13949,7 @@ But what if the only way to get access to social and scientific data
 was through proprietary services? What if no one had the ability to
 browse this data except by paying for a subscription?
 </para>
+<indexterm id='idxlibrariesjournalsin' class='startofrange'><primary>libraries</primary><secondary>journals in</secondary></indexterm>
 <para>
 As many are beginning to notice, this is increasingly the reality with
 scientific journals. When these journals were distributed in paper
@@ -13968,6 +13985,7 @@ available for free. PLoS also sells a print version of its work, but
 the copyright for the print journal does not inhibit the right of
 anyone to redistribute the work for free.
 </para>
+<indexterm startref='idxlibrariesjournalsin' class='endofrange'/>
 <para>
 This is one of many such efforts to restore a freedom taken for
 granted before, but now threatened by changing technology and markets.
@@ -13977,6 +13995,7 @@ distribution of content. But competition in our tradition is
 presumptively a good&mdash;especially when it helps spread knowledge
 and science.
 </para>
+<indexterm startref='idxfreeculturerestorationeffortsonpreviousaspectsof' class='endofrange'/>
 <indexterm startref='idxacademicjournals' class='endofrange'/>
 <indexterm startref='idxscientificjournals' class='endofrange'/>
 </section>
