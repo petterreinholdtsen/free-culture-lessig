@@ -25169,7 +25169,7 @@ msgstr ""
 "igjen dette problemet fra andre omgivelser.  Tenk på personvern.  Før "
 "internettet trengte ikke de fleste av oss å bekymre oss over hvor mye data "
 "om våre liv som vi kringkastet til verden. Hvis du gikk inn i en bokhandlet "
-"og tittet på verkene til Karl Marx, så trente du ikke bekymre deg for å "
+"og tittet på verkene til Karl Marx, så trengte du ikke bekymre deg for å "
 "måtte forklare hva du tittet på for dine naboer eller din sjef.  "
 "<quote>Personvernet</quote> rundt hva du tittet på var sikret."
 
