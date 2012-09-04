@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-03 22:46+0300\n"
+"POT-Creation-Date: 2012-09-04 14:48+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3763,7 +3763,7 @@ msgstr ""
 "fanges uten å klarere rettighetene for a fange det.<placeholder type="
 "\"footnote\" id=\"0\"/>)"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Napster"
 msgstr "Napster"
 
@@ -5435,17 +5435,17 @@ msgstr "mot student-fildeling"
 msgid "recording industry"
 msgstr "innspillingsindustrien"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "copyright infringement lawsuits of"
 msgstr "krenkelse av opphavsrett søksmål"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Recording Industry Association of America (RIAA)"
 msgstr "Recording industry association of america (riaa)"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "copyright infringement lawsuits filed by"
 msgstr "krenkelse av opphavsrett søksmål"
@@ -5660,7 +5660,7 @@ msgstr "musikkindustriens betaling til"
 msgid "artist remuneration in"
 msgstr "artist godtgjørelse i"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "lobbying power of"
 msgstr "lobbyvirksomhet makt"
@@ -7297,7 +7297,7 @@ msgstr ""
 "og hvor mye p2p-deling skader før vi vet hvor sterkt loven bør søke å enten "
 "hindre det eller finne et alternativ for å sikre forfatteren hans overskudd."
 
-#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "innovation"
 msgstr "innovasjon"
 
@@ -11202,7 +11202,7 @@ msgstr ""
 "2002, arkivet hadde over 10 milliarder sider, og det ble vokser om en "
 "milliard sider per måned."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Library of Congress"
 msgstr "Library of congress"
@@ -17553,6 +17553,22 @@ msgstr ""
 msgid "Constraining Innovators"
 msgstr "Begrensende innovators"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "innovation hampered by"
+msgstr "nyskapning hemmet av"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "industry establishment opposed to"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "regulation"
+msgstr "regulering"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "as establishment protectionism"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17615,6 +17631,10 @@ msgstr ""
 msgid "Barry, Hank"
 msgstr "Barry, Hank"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "venture capitalists"
+msgstr ""
+
 #.  PAGE BREAK 198
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -17650,6 +17670,14 @@ msgstr ""
 "vurdere ett eksempel for å gjøre punktet, en historie som begynnelsen jeg "
 "fortalt i fremtiden for idéer og som har kommet i en måte at selv jeg "
 "(pessimist extraordinaire) ville aldri ha forutsett."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "MP3.com"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "my.mp3.com"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Roberts, Michael"
@@ -17754,6 +17782,14 @@ msgstr ""
 "dette var 50 000 eksemplarer, det var 50,000 kopier som er rettet mot å gi "
 "kunder noe de hadde allerede kjøpt."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "distribution technology targeted in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "outsize penalties of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -17816,12 +17852,32 @@ msgstr ""
 "innse at et slikt syn på loven vil koste deg og ditt firma dyrt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "BMW"
+msgstr "BMW"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "cars, MP3 sound systems in"
+msgstr "biler, MP3-lydsystem i"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hummer, John"
 msgstr "Hummer, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hummer Winblad"
 msgstr "Hummer Winblad"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "MP3 players"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "venture capital for"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
+msgid "Needleman, Rafe"
+msgstr "Needleman, Rafe"
 
 #.  f4.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -17854,18 +17910,6 @@ msgid ""
 "that touch content. In an article in <citetitle>Business 2.0</citetitle>, "
 "Rafe Needleman describes a discussion with BMW:"
 msgstr ""
-
-#. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
-msgid "BMW"
-msgstr "BMW"
-
-#. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
-msgid "cars, MP3 sound system in"
-msgstr "biler, MP3-lydsystem i"
-
-#. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
-msgid "Needleman, Rafe"
-msgstr "Needleman, Rafe"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 msgid ""
@@ -18118,11 +18162,16 @@ msgstr ""
 "gjøres riktig, det fordeler skaperne og skader leeches. Når gjort galt, det "
 "er regulering kraftig bruk å beseire konkurrenter."
 
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "Digital Copyright (Litman)"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
 msgid ""
 "Jessica Litman, <citetitle>Digital Copyright</citetitle> (Amherst, N.Y.: "
-"Prometheus Books, 2001).  <placeholder type=\"indexterm\" id=\"0\"/>"
+"Prometheus Books, 2001).  <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Jessica litman, digitale copyright (amherst, n.y.: prometheus bøker, 2001)."
 
@@ -18153,6 +18202,10 @@ msgstr ""
 "ny teknologi og legitime rettighetene til skapere av innhold, har både "
 "domstoler og Kongressen innført juridiske restriksjoner som vil ha effekten "
 "av smothering ny for å dra nytte av gamle."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "radio on"
+msgstr "radio på"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Grokster, Ltd."
@@ -18382,6 +18435,18 @@ msgstr ""
 "eneste begrensningene på Internett-radio som er pålagt av loven. lov om "
 "opphavsrett er en slik lov. så det første spørsmålet som vi bør spørre er, "
 "hvilke opphavsrett regler ville styre Internett-radio?"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on radio"
+msgstr "om radio"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "Internet radio hampered by"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on Internet radio fees"
+msgstr "om radio-avgifter på internet"
 
 #.  PAGE BREAK 206
 #. type: Content of: <book><part><chapter><section><para>
@@ -25671,16 +25736,15 @@ msgid ""
 "and, by their work, demonstrate the importance of the public domain to other "
 "creativity."
 msgstr ""
-"Dette er bare et av mange prosjekter innen Creative Commons.  Og "
-"Creative Commons er naturligvis ikke den eneste organisasjonen som "
-"bidrar til slike friheter.  Men det som skiller Creative Commons fra "
-"mange andre er at vi er ikke bare interessert i å snakke om et "
-"allemannseie eller i å få lovgiverne til å bidra til å bygge et "
-"allemannseie.  Vårt mål er å bygge en bevegelse av konsumenter og "
-"produsenter av innhold (<quote>innholds-kondusenter</quote>, som "
-"advokat Mia Garlick kaller dem) som hjelper til å bygge allemannseie "
-"og demonstrerer med deres egne verker hvor viktig allemannseiet er for "
-"annen kreativitet."
+"Dette er bare et av mange prosjekter innen Creative Commons.  Og Creative "
+"Commons er naturligvis ikke den eneste organisasjonen som bidrar til slike "
+"friheter.  Men det som skiller Creative Commons fra mange andre er at vi er "
+"ikke bare interessert i å snakke om et allemannseie eller i å få lovgiverne "
+"til å bidra til å bygge et allemannseie.  Vårt mål er å bygge en bevegelse "
+"av konsumenter og produsenter av innhold (<quote>innholds-kondusenter</"
+"quote>, som advokat Mia Garlick kaller dem) som hjelper til å bygge "
+"allemannseie og demonstrerer med deres egne verker hvor viktig allemannseiet "
+"er for annen kreativitet."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -25805,9 +25869,9 @@ msgid ""
 "culture.cc/notes/\">link #72</ulink>."
 msgstr ""
 "<citetitle>Willful Infringement: A Report from the Front Lines of the Real "
-"Culture Wars</citetitle> (2003), produsert av Jed Horovitz, regissert av Greg "
-"Hittelman, en produksjon av Fiat Lucre, tilgjengelig fra <ulink url=\"http://free-"
-"culture.cc/notes/\">link #72</ulink>."
+"Culture Wars</citetitle> (2003), produsert av Jed Horovitz, regissert av "
+"Greg Hittelman, en produksjon av Fiat Lucre, tilgjengelig fra <ulink url="
+"\"http://free-culture.cc/notes/\">link #72</ulink>."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -26226,18 +26290,17 @@ msgid ""
 "new work from then on though no penalty would attach for existing uses.  "
 "This would create a strong incentive for copyright owners to mark their work."
 msgstr ""
-"La oss starte med det siste poenget.  Hvis en opphavsrettsinnehaver "
-"tillater at hans verk blir publirset uten opphavsrettsmerking, så "
-"trenger ikke konsekvensen være at opphavsretten er tapt.  Konsekvensen "
-"kan i stedet være at enhver da har rett til å bruke dette verket "
-"inntil opphavsrettsinnehaveren klager og demonstrerer at det er hans "
-"verk og at han ikke gir tillatelse.<placeholder type=\"footnote\" "
-"id=\"0\"/> Meningen til et umerket verk ville dermed væræ <quote>bruk "
-"med mindre noen klager</quote>.  Hvis noen klager, så er forpliktelsen "
-"at en må slutte å bruke verket i ethvert nytt verk fra da av, selv om "
-"det ikke er noen straffereaksjon knyttet til eksisterende bruk.  Dette "
-"vil skape et sterkt insentiv for opphavsrettseiere til å merke sine "
-"verk."
+"La oss starte med det siste poenget.  Hvis en opphavsrettsinnehaver tillater "
+"at hans verk blir publirset uten opphavsrettsmerking, så trenger ikke "
+"konsekvensen være at opphavsretten er tapt.  Konsekvensen kan i stedet være "
+"at enhver da har rett til å bruke dette verket inntil "
+"opphavsrettsinnehaveren klager og demonstrerer at det er hans verk og at han "
+"ikke gir tillatelse.<placeholder type=\"footnote\" id=\"0\"/> Meningen til "
+"et umerket verk ville dermed væræ <quote>bruk med mindre noen klager</"
+"quote>.  Hvis noen klager, så er forpliktelsen at en må slutte å bruke "
+"verket i ethvert nytt verk fra da av, selv om det ikke er noen "
+"straffereaksjon knyttet til eksisterende bruk.  Dette vil skape et sterkt "
+"insentiv for opphavsrettseiere til å merke sine verk."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 #, mtrans, fuzzy
@@ -26556,12 +26619,12 @@ msgid ""
 "This expansion has been commented upon by one of the law's greatest judges, "
 "Judge Benjamin Kaplan."
 msgstr ""
-"Kongressen innvilget starten på denne retten i 1870, da den utvidet "
-"den eksklusive retten i opphavsretten til å inneholde retten til å "
-"kontrollere oversettelser og dramatiseringer av et verk.<placeholder "
-"type=\"footnote\" id=\"0\"/> Domstolene har utvidet det sakte gjennom "
-"lovfortolkninger siden da.  Denne utvidelsen har vært kommentert av en "
-"av jussverdens beste dommere, dommer Benjamin Kaplan."
+"Kongressen innvilget starten på denne retten i 1870, da den utvidet den "
+"eksklusive retten i opphavsretten til å inneholde retten til å kontrollere "
+"oversettelser og dramatiseringer av et verk.<placeholder type=\"footnote\" "
+"id=\"0\"/> Domstolene har utvidet det sakte gjennom lovfortolkninger siden "
+"da.  Denne utvidelsen har vært kommentert av en av jussverdens beste "
+"dommere, dommer Benjamin Kaplan."
 
 #.  f6.
 #. type: Content of: <book><chapter><section><section><blockquote><para><footnote><para>
