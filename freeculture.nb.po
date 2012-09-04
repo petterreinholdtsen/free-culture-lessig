@@ -25747,7 +25747,6 @@ msgstr ""
 "er for annen kreativitet."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The aim is not to fight the <quote>All Rights Reserved</quote> sorts. The "
 "aim is to complement them. The problems that the law creates for us as a "
@@ -25760,15 +25759,16 @@ msgid ""
 "needed. Creative Commons gives people a way effectively to begin to build "
 "those rules."
 msgstr ""
-"Målet er ikke å kjempe \"med enerett\"-sorteringer. Målet er å utfylle dem. "
-"problemene som loven oppretter for oss som en kultur er produsert av galskap "
-"og utilsiktede konsekvenser av lover skrevet århundrer siden, brukt til en "
-"teknologi som bare jefferson kunne ha forestilt meg. reglene kan godt ha "
-"gjort følelse mot et bakteppe av teknologi fra århundrer siden, men de gjør "
-"ikke fornuftig på bakgrunn av digitale teknologier. nye regler&mdash;med "
-"forskjellige friheter, uttrykt i måter slik at mennesker uten advokater kan "
-"bruke dem – er nødvendig. Creative commons gir folk en måte for effektivt å "
-"begynne å bygge disse reglene."
+"Målet er ikke å sloss mot <quote>alle rettigheter "
+"reservert</quote>-folkene.  Målet er å utfylle dem.  Problemene som "
+"loven skaper for oss som kultur er skapt av sinnsyke og utilsiktede "
+"konsekvenser av lover skrevet for århundrer siden, anvendt på en "
+"teknologi som kun Jefferson kunne ha forestilt seg.  Reglene kan godt "
+"å gitt mening da bakgrunnen var teknologiene tilgjengelig for "
+"hundrevis av år siden, men de gir ikke mening når bakgrunnen er "
+"digitale teknologier.  Nye regler&mdash;med andre friheter, uttrykket "
+"slik at hemmenser uten advokater kan bruke dem&mdash;trengs.  Creative "
+"Commons gir folk en effektiv måte å begynne å lage disse reglene."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25785,7 +25785,6 @@ msgstr ""
 "Commons-lisens, samme dag som den ble lagt ut for salg i bokhandler."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Why would a publisher ever agree to this? I suspect his publisher reasoned "
 "like this: There are two groups of people out there: (1)  those who will buy "
@@ -25797,15 +25796,17 @@ msgid ""
 "(1)s, the strategy of releasing Cory's book free on-line will probably "
 "<emphasis>increase</emphasis> sales of Cory's book."
 msgstr ""
-"Hvorfor ville en utgiver noensinne samtykker til dette? Jeg mistenker at "
-"hans publisher begrunnet som dette: det finnes to grupper av mennesker der "
-"ute: (1) de som vil kjøpe cory bok om det er på Internett, og (2) de som kan "
-"aldri høre av cory's bok, hvis det ikke er gjort tilgjengelig gratis på "
-"Internett. noen del av (1) laster ned cory bok i stedet for å kjøpe den. "
-"ringe dem dårlig-(1) s. noen del av (2) lastet ned cory's bok, liker det, og "
-"deretter bestemmer deg for å kjøpe den. kalle dem (2)-varer. Hvis det er mer "
-"(2)-varer enn dårlig-(1) s, strategien for lanserer cory bok gratis on-line "
-"trolig vil øke salg av cory's bok."
+"Hvorfor ville en utgiver noen sinne gå med på dette?  Jeg mistenker "
+"hans utgiver tenkte som dette: Det er to grupper av mennesker der ute: "
+"(1) de osm vil kjøpe Corys bok uansett om den er på internettet eller "
+"ikke og (2)de som kanskje aldri hører om Corys bok hvis den ikke blir "
+"gjort tilgjengelig gratis på internettet.  En del av (1) vil laste ned "
+"Corys bok i stedet for å kjøpe den.  Vi kan kalle dem slemme-(1).  En "
+"del av (2) vil laste ned Corys bok, like den, og deretter bestemme seg "
+"for å kjøpe den.  Vi kan kalle dem gode-(2).  Hvis det er flere "
+"gode-(2-) enn det er slemme-(1), så vil strategien med å gi ut Corys "
+"bok gratis på nettet antagelig <emphasis>øke</emphasis> salget av "
+"Corys bok."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25819,9 +25820,8 @@ msgstr ""
 "en total suksess."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Free for All (Wayner)"
-msgstr "gratis for alle (wayner)"
+msgstr "Free for All (Wayner)"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Wayner, Peter"
@@ -25829,7 +25829,6 @@ msgstr "Wayner, Peter"
 
 #.  PAGE BREAK 290
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The idea that free content might increase the value of nonfree content was "
 "confirmed by the experience of another author. Peter Wayner, who wrote a "
@@ -25839,22 +25838,23 @@ msgid ""
 "used book store prices for the book. As predicted, as the number of "
 "downloads increased, the used book price for his book increased, as well."
 msgstr ""
-"idéen at gratis innhold kan øke verdien av nonfree innhold ble bekreftet av "
-"opplevelsen av en annen forfatter. Peter wayner, som skrev en bok om fri "
-"programvare-bevegelsen med tittelen gratis for alle, en elektronisk versjon "
-"av sin bok gratis on-line under en creative commons-lisens etter at boken "
-"gikk ut av print. han overvåket deretter brukt boka store priser for boken. "
-"som spådd, som antall nedlastinger økt, brukte boken-pris for sin bok øker "
-"også."
+"Idéen om at gratis innhold kan øke verdien for ikke-gratis innhold "
+"var bekreftet av et eksperiment gjennomført av an anne forfatter. "
+"Peter Wayner, som skrev en bok om fri programvarebevegeslen med "
+"tittelen <citetitle>Free For All</citetitle>, gjorde en elektronisk "
+"utgave av boken gratis til gjengelig på nettet med en Creative "
+"Commons-lisens etter at boken var utsolgt fra forlaget.  Han fulgte "
+"deretter med på prisen for boken i bruktbokhandler.  Som forutsett, "
+"etter hvert som antall nedlastinger steg, steg også bruktprisen på "
+"boken."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Public Enemy"
 msgstr "Public Enemy"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "rap music"
-msgstr "rap musikk"
+msgstr "rap-musikk"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Leaphart, Walter"
@@ -25891,6 +25891,23 @@ msgid ""
 "the creative environment content that others can build upon, so that their "
 "form of creativity might grow."
 msgstr ""
+"Dette er eksempler på bruk av Creative Commons for å bedre spre "
+"proprietært innhold.  Jeg mener at dette er en nydelig og vanlig bruk "
+"av Creative Commons.  Det er andre som bruker Creative "
+"Commons-lisenser av andre grunner.  Mange som bruker "
+"<quote>sampling-lisensen</quote> gjør det på grunn av at det ville "
+"være hyklerisk.  Samling-lisensen sier at andre står fritt til, for "
+"kommersielle eller ikke-kommersielle formål, å bruke biter av innhold "
+"fra det lisensierte verket.  De har bare ikke friheten til å gjøre "
+"hele innholdet tilgjengelig for andre.  På grunn av at den "
+"<emphasis>juridiske</emphasis> kostnaden med samling er så høy (Walter "
+"Leaphart, manager for rap-gruppen Public Enemy, som ble skapt ved å "
+"sample musikken til andre, har uttalt at han ikke "
+"<quote>tillater</quote> Public Enemy å sample mer, på grunn av at den "
+"juridiske kostnaden er så høy<placeholder type=\"footnote\" "
+"id=\"0\"/>), slipper disse artistene innhold ut i det kreative miljøet "
+"som andre kan bygge videre på, slik at deres form for kreativitet kan "
+"vokse."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
