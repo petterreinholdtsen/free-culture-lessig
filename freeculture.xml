@@ -6400,6 +6400,7 @@ weaken the right or regulation. I represented it with this diagram:
 <title>How four different modalities of regulation interact to support or weaken the right or regulation.</title>
 <graphic fileref="images/1331.png"></graphic>
 </figure>
+<indexterm><primary>Madonna</primary></indexterm>
 <para>
 At the center of this picture is a regulated dot: the individual or
 group that is the target of regulation, or the holder of a right. (In
@@ -6429,7 +6430,7 @@ could easily be more harsh than many of the punishments imposed by the
 state. The mark of the difference is not the severity of the rule, but
 the source of the enforcement.
 </para>
-<indexterm><primary>market constraints</primary></indexterm>
+<indexterm id='idxmarketconstraints' class='startofrange'><primary>market constraints</primary></indexterm>
 <para>
 The market is a third type of constraint. Its constraint is effected
 through conditions: You can do X if you pay Y; you'll be paid M if you
@@ -6456,6 +6457,8 @@ blocks your way, it is the law of gravity that enforces this
 constraint. If a $500 airplane ticket stands between you and a flight
 to New York, it is the market that enforces this constraint.
 </para>
+<indexterm startref='idxmarketconstraints' class='endofrange'/>
+<indexterm id='idxlawasconstraintmodality2' class='startofrange'><primary>law</primary><secondary>as constraint modality</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 134 -->
@@ -6568,6 +6571,7 @@ effective liberty that each of these groups might face.
 <indexterm><primary>market constraints</primary></indexterm>
 </para></footnote>
 </para>
+<indexterm startref='idxlawasconstraintmodality2' class='endofrange'/>
 <section id="hollywood">
 <title>Why Hollywood Is Right</title>
 <para>
