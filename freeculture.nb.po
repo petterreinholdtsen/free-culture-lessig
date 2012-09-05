@@ -26227,7 +26227,6 @@ msgstr ""
 
 #.  PAGE BREAK 295
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "We should adopt a similar model for the registration and renewal of "
 "copyrights. The Copyright Office may well serve as the central registry, but "
@@ -26239,15 +26238,16 @@ msgid ""
 "of this formality&mdash;while producing a database of registrations that "
 "would facilitate the licensing of content."
 msgstr ""
-"vi alle bør vedtas en lignende modell for registrering og fornying av "
-"opphavsretten. opphavsrett kontoret kan også tjene som sentrale registret, "
-"men det bør ikke være i virksomhet registrar. Det bør i stedet opprette en "
-"database, og et sett med standarder for registrarer. det skal godkjenne "
-"registrarer som oppfyller sine standarder. disse registrarer vil så "
-"konkurrere med hverandre for å levere de billigste og enkleste systemene for "
-"registrering og fornying av opphavsrett. at konkurransen ville vesentlig "
-"lavere byrden av denne formalitet&mdash;mens en database med registreringer "
-"som ville forenkler lisensiering av innhold."
+"Vi burde ta i bruk en lignende modell for registrering og fornying av "
+"opphavsretter.  Opphavsrettskontoret kan godt fungere som det sentrale "
+"registeret, men de burde ikke drive registrarvirksomhet.  I stedet "
+"burde det etablere en database, og et sett med stadarder for "
+"registrarer.  Det bør godkjenne registrarer som følger disse "
+"standardene.  Disse registrarene ville dermed konkurrere med hverandre "
+"om å levere den billigste og enkleste systemet for å registrere og "
+"fornye opphavsretter.  Denne konkurransen ville redusere betydelig "
+"belastningen som denne formaliteten gir&mdash;mens det gir en database "
+"over registreringer som kan forenkle lisensiering av innhold."
 
 #. type: Content of: <book><chapter><section><section><section><title>
 msgid "MARKING"
