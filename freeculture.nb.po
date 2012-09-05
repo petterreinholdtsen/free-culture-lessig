@@ -26480,15 +26480,14 @@ msgstr ""
 "unødige belastninger skaperen; selve systemet bør holdes så enkelt som mulig."
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The objective of formalities is to make things clear. The existing system "
 "does nothing to make things clear. Indeed, it seems designed to make things "
 "unclear."
 msgstr ""
-"Målet med formaliteter er å gjøre ting klart. eksisterende systemet gjør "
-"ingenting for å gjøre ting klart. Ja, det synes designet for å gjøre ting "
-"som er uklart."
+"Formålet med formaliteter er å gjøre ting mer klart.  Det "
+"eksisterende systemet gjør ingenting for å gjøre ting mer klart.  Det "
+"virker heller som om det er utformet for å gjøre ting mindre klart."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 #, mtrans, fuzzy
