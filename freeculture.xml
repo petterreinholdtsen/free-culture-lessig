@@ -6385,6 +6385,10 @@ ought to be. Not <emphasis>whether</emphasis> artists should be paid,
 but whether institutions designed to assure that artists get paid need
 also control how culture develops.
 </para>
+<indexterm id='idxfreeculturefourmodalitiesofconstrainton' class='startofrange'><primary>free culture</primary><secondary>four modalities of constraint on</secondary></indexterm>
+<indexterm id='idxregulationfourmodalitiesof' class='startofrange'><primary>regulation</primary><secondary>four modalities of</secondary></indexterm>
+<indexterm id='idxcopyrightlawasexpostregulationmodality' class='startofrange'><primary>copyright law</primary><secondary>as ex post regulation modality</secondary></indexterm>
+<indexterm id='idxlawasconstraintmodality' class='startofrange'><primary>law</primary><secondary>as constraint modality</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 132 -->
@@ -6457,6 +6461,8 @@ blocks your way, it is the law of gravity that enforces this
 constraint. If a $500 airplane ticket stands between you and a flight
 to New York, it is the market that enforces this constraint.
 </para>
+<indexterm startref='idxcopyrightlawasexpostregulationmodality' class='endofrange'/>
+<indexterm startref='idxlawasconstraintmodality' class='endofrange'/>
 <indexterm startref='idxmarketconstraints' class='endofrange'/>
 <indexterm id='idxlawasconstraintmodality2' class='startofrange'><primary>law</primary><secondary>as constraint modality</secondary></indexterm>
 <para>
@@ -6476,10 +6482,11 @@ be; my claim is not about comprehensiveness), these four are among the
 most significant, and any regulator (whether controlling or freeing)
 must consider how these four in particular interact.
 </para>
-<indexterm id='idxdrivespeed' class='startofrange'><primary>driving speed, constraints on</primary></indexterm>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>market constraints</primary></indexterm>
 <indexterm><primary>norms, regulatory influence of</primary></indexterm>
+<indexterm id='idxdrivingspeedconstraintson' class='startofrange'><primary>driving speed, constraints on</primary></indexterm>
+<indexterm id='idxspeedingconstraintson' class='startofrange'><primary>speeding, constraints on</primary></indexterm>
 <para>
 So, for example, consider the <quote>freedom</quote> to drive a car at a high
 speed. That freedom is in part restricted by laws: speed limits that
@@ -6520,8 +6527,8 @@ strict&mdash;a federal requirement that states decrease the speed
 limit, for example&mdash;so as to decrease the attractiveness of fast
 driving.
 </para>
-<indexterm startref='idxdrivespeed' class='endofrange'/>
-
+<indexterm startref='idxdrivingspeedconstraintson' class='endofrange'/>
+<indexterm startref='idxspeedingconstraintson' class='endofrange'/>
 <figure id="fig-1361">
 <title>Law has a special role in affecting the three.</title>
 <graphic fileref="images/1361.png"></graphic>
@@ -6588,8 +6595,9 @@ Internet:
 <title>Copyright's regulation before the Internet.</title>
 <graphic fileref="images/1331.png"></graphic>
 </figure>
-<indexterm><primary>market constraints</primary></indexterm>
-<indexterm><primary>norms, regulatory influence of</primary></indexterm>
+<indexterm id='idxarchitectureconstrainteffectedthrough' class='startofrange'><primary>architecture, constraint effected through</primary></indexterm>
+<indexterm><primary>law</primary><secondary>as constraint modality</secondary></indexterm>
+<indexterm id='idxnormsregulatoryinfluenceof2' class='startofrange'><primary>norms, regulatory influence of</primary></indexterm>
 <para>
 <!-- PAGE BREAK 136 -->
 There is balance between law, norms, market, and architecture. The law
@@ -6603,6 +6611,10 @@ uses of copyrighted material may well be infringement, but the norms
 of our society (before the Internet, at least) had no problem with
 this form of infringement.
 </para>
+<indexterm id='idxinternetcopyrightregulatorybalancelostwith' class='startofrange'><primary>Internet</primary><secondary>copyright regulatory balance lost with</secondary></indexterm>
+<indexterm><primary>peer-to-peer (p2p) file sharing</primary><secondary>regulatory balance lost in</secondary></indexterm>
+<indexterm><primary>market constraints</primary></indexterm>
+<indexterm><primary>MP3s</primary></indexterm>
 <para>
 Enter the Internet, or, more precisely, technologies such as MP3s and
 p2p sharing. Now the constraint of architecture changes dramatically,
@@ -6611,6 +6623,9 @@ architecture relax the regulation of copyright, norms pile on. The
 happy balance (for the warriors, at least) of life before the Internet
 becomes an effective state of anarchy after the Internet.
 </para>
+<indexterm startref='idxarchitectureconstrainteffectedthrough' class='endofrange'/>
+<indexterm startref='idxnormsregulatoryinfluenceof2' class='endofrange'/>
+<indexterm><primary>technology</primary><secondary>established industries threatened by changes in</secondary></indexterm>
 <para>
 Thus the sense of, and justification for, the warriors' response.
 Technology has changed, the warriors say, and the effect of this
@@ -6625,6 +6640,8 @@ looting that results.
 <title>effective state of anarchy after the Internet.</title>
 <graphic fileref="images/1381.png"></graphic>
 </figure>
+<indexterm><primary>Commerce, U.S. Department of</primary></indexterm>
+<indexterm id='idxregulationasestablishmentprotectionism' class='startofrange'><primary>regulation</primary><secondary>as establishment protectionism</secondary></indexterm>
 <para>
 Neither this analysis nor the conclusions that follow are new to the
 warriors. Indeed, in a <quote>White Paper</quote> prepared by the Commerce
@@ -6637,6 +6654,8 @@ innovative marketing techniques, (3) technologists should push to
 develop code to protect copyrighted material, and (4) educators should
 educate kids to better protect copyright.
 </para>
+<indexterm startref='idxfreeculturefourmodalitiesofconstrainton' class='endofrange'/>
+<indexterm startref='idxregulationfourmodalitiesof' class='endofrange'/>
 <indexterm><primary>steel industry</primary></indexterm>
 <para>
 This mixed strategy is just what copyright needed&mdash;if it was to
@@ -6655,6 +6674,7 @@ to bail them out when a virus (architecture) devastates their
 crop. Unions have no hesitation appealing to the government to bail
 them out when imports (market) wipe out the U.S. steel industry.
 </para>
+<indexterm startref='idxinternetcopyrightregulatorybalancelostwith' class='endofrange'/>
 <para>
 Thus, there's nothing wrong or surprising in the content industry's
 campaign to protect itself from the harmful consequences of a
@@ -6663,9 +6683,14 @@ the changing technology of the Internet has not had a profound effect
 on the content industry's way of doing business, or as John Seely
 Brown describes it, its <quote>architecture of revenue.</quote>
 </para>
-<indexterm><primary>railroad industry</primary></indexterm>
 <indexterm><primary>advertising</primary></indexterm>
+<indexterm><primary>television</primary><secondary>advertising on</secondary></indexterm>
+<indexterm><primary>commercials</primary></indexterm>
 <indexterm><primary>camera technology</primary></indexterm>
+<indexterm><primary>digital cameras</primary></indexterm>
+<indexterm><primary>Kodak cameras</primary></indexterm>
+<indexterm><primary>railroad industry</primary></indexterm>
+<indexterm><primary>remote channel changers</primary></indexterm>
 <para>
 But just because a particular interest asks for government support, it
 doesn't follow that support should be granted. And just because
@@ -6696,8 +6721,13 @@ market. But does anyone believe we should regulate remotes to
 reinforce commercial television?  (Maybe by limiting them to function
 only once a second, or to switch to only ten channels within an hour?)
 </para>
+<indexterm id='idxfreemarkettechnologicalchangesin' class='startofrange'><primary>free market, technological changes in</primary></indexterm>
 <indexterm><primary>Brezhnev, Leonid</primary></indexterm>
+<indexterm><primary>FM radio</primary></indexterm>
+<indexterm><primary>radio</primary><secondary>FM spectrum of</secondary></indexterm>
 <indexterm><primary>Gates, Bill</primary></indexterm>
+<indexterm><primary>market competition</primary></indexterm>
+<indexterm><primary>RCA</primary></indexterm>
 <para>
 The obvious answer to these obviously rhetorical questions is no.
 In a free society, with a free market, supported by free enterprise and
@@ -6743,6 +6773,8 @@ Congress is being asked to pass laws that would <quote>abridge</quote> the freed
 of speech, it should ask&mdash; carefully&mdash;whether such
 regulation is justified.
 </para>
+<indexterm startref='idxregulationasestablishmentprotectionism' class='endofrange'/>
+<indexterm startref='idxfreemarkettechnologicalchangesin' class='endofrange'/>
 <para>
 My argument just now, however, has nothing to do with whether
 <!-- PAGE BREAK 140 -->

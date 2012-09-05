@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-05 13:18+0300\n"
+"POT-Creation-Date: 2012-09-05 15:40+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -945,7 +945,7 @@ msgstr "Faraday, Michael"
 msgid "radio"
 msgstr "radio"
 
-#. type: Content of: <book><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "FM spectrum of"
 msgstr "FM-spektrum for"
 
@@ -1041,7 +1041,7 @@ msgstr ""
 "noen gang før hadde vært hørt fra en radio-<quote>musikk-boks</quote>."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "RCA"
 msgstr "RCA"
 
@@ -1109,7 +1109,7 @@ msgstr ""
 "starte en hel forbannet ny industri i konkurranse med RCA.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "FM radio"
 msgstr "FM-radio"
 
@@ -2044,7 +2044,7 @@ msgstr ""
 msgid "efficient content distribution on"
 msgstr "effektiv innholdsdistribusjon på"
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "peer-to-peer (p2p) file sharing"
 msgstr "peer-to-peer(p2p)-fildeling"
 
@@ -3455,7 +3455,7 @@ msgstr ""
 "vesentlig.  Ved å redusere kostnadene, forventet Eastman at han dramatisk "
 "kunne utvide andelen fotografer."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Kodak cameras"
 msgstr "Kodak-kamera"
 
@@ -3921,7 +3921,7 @@ msgstr ""
 msgid "advertising"
 msgstr "markedsføring"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
 msgid "commercials"
 msgstr "reklame"
@@ -3930,7 +3930,7 @@ msgstr "reklame"
 msgid "television"
 msgstr "televisjon"
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "advertising on"
 msgstr "markedsføring på"
 
@@ -12131,6 +12131,26 @@ msgstr ""
 "institusjoner utformet for å forsikre at artister får betalt må du også "
 "kontrollere hvordan kultur utvikler seg."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "four modalities of constraint on"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "regulation"
+msgstr "regulering"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "four modalities of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "as ex post regulation modality"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "as constraint modality"
+msgstr ""
+
 #.  PAGE BREAK 132
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12241,7 +12261,7 @@ msgstr ""
 "sett av normer og bakgrunn av eiendom og kontrakt lov, markedet pålegger en "
 "samtidige begrensning på hvor en person eller gruppe kan oppføre seg."
 
-#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "architecture, constraint effected through"
 msgstr "arkitektur, begrensninger med opphav i"
 
@@ -12272,10 +12292,6 @@ msgstr ""
 "Hvis en 500-pund kampestein blokkerer deg, det er lov av tyngdekraften som "
 "gjennomfører denne betingelsen. Hvis en $500 flybillett står mellom deg og "
 "et fly til new york, er det markedet som håndhever denne betingelsen."
-
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-msgid "as constraint modality"
-msgstr ""
 
 #.  PAGE BREAK 134
 #. type: Content of: <book><part><chapter><para>
@@ -12310,6 +12326,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "driving speed, constraints on"
 msgstr "kjørehastighet, begrensninger på"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "speeding, constraints on"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12516,6 +12536,18 @@ msgstr ""
 "vårt samfunn (før Internett, minst) hadde ingen problemer med denne form for "
 "krenkelse av."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "copyright regulatory balance lost with"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "regulatory balance lost in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "MP3s"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -12531,6 +12563,14 @@ msgstr ""
 "markedet. og som både markedet og arkitektur kan du slappe av med regulering "
 "av copyright, normer haug på. happy saldoen (for krigere, minst) av livet "
 "før Internett blir en effektiv stat av anarchy etter Internett."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "technology"
+msgstr "teknologi"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "established industries threatened by changes in"
+msgstr ""
 
 #.  PAGE BREAK 137
 #. type: Content of: <book><part><chapter><section><para>
@@ -12557,6 +12597,15 @@ msgstr "effektiv delstaten anarki etter Internett."
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1381.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1381.png\"></graphic>"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Commerce, U.S. Department of"
+msgstr "handel-setningsdelen i"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "as establishment protectionism"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12633,8 +12682,16 @@ msgstr ""
 "\"arkitektur av inntekter.\""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "digital cameras"
+msgstr "digitale kamera"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "railroad industry"
 msgstr "jernbaneindustri"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "remote channel changers"
+msgstr ""
 
 #.  f5
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -12668,6 +12725,10 @@ msgid ""
 "switch to only ten channels within an hour?)"
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "free market, technological changes in"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Brezhnev, Leonid"
 msgstr "Brezhnev, Leonid"
@@ -12675,6 +12736,10 @@ msgstr "Brezhnev, Leonid"
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Gates, Bill"
 msgstr "Gates, Bill"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "market competition"
+msgstr ""
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13817,10 +13882,6 @@ msgstr "Kopier som kjernen utgave av"
 #, mtrans, fuzzy
 msgid "copyright applicability altered by technology of"
 msgstr "opphavsrett anvendbarhet endret av teknologien i"
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "technology"
-msgstr "teknologi"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -17563,14 +17624,6 @@ msgstr "nyskapning hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "industry establishment opposed to"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "regulation"
-msgstr "regulering"
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-msgid "as establishment protectionism"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
