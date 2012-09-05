@@ -14034,7 +14034,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "All potential uses of a book."
-msgstr "Alle potensielle bruk av en bok."
+msgstr "Alle potensielle bruksområder for en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1521.png\"></graphic>"
@@ -26549,7 +26549,6 @@ msgstr ""
 "tillatelse til å bruke verket."
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "One of the problems the copyright system confronted early on was that "
 "different copyrighted works had to be differently marked. It wasn't clear "
@@ -26560,14 +26559,15 @@ msgid ""
 "failure to mark&mdash;not the loss of the copyright, but the loss of the "
 "right to punish someone for failing to get permission first."
 msgstr ""
-"ett av problemene opphavsretten til systemet konfrontert tidlig var at ulike "
-"opphavsrettslig beskyttet verk måtte være annerledes merket. Det var ikke "
-"klart hvordan eller hvor en statue var å bli merket, eller en oppføring, "
-"eller en film. en nye merking kravet kunne løse disse problemene ved å "
-"gjenkjenne forskjellene i media, og tillater systemet av merking å utvikle "
-"seg som teknologier gir det til. systemet kan gjøre det mulig for en "
-"spesiell signalet fra å merke&mdash;ikke tap av opphavsretten, men tap av "
-"retten til å straffe noen for ikke å få tillatelse først."
+"Et av problemene som opphavsrettssystemet konfronterte tidlig var at "
+"ulike opphavsrettsbeskyttede verker måtte markeres forskjellig.  Det "
+"var ikke klart hvordan og hvor en statue skulle merkes, eller en "
+"plate, eller en film.  Et nytt merkingskrav kan løse disse problemene "
+"ved å annerkjenne forskjellene i mediene, og ved å tillate "
+"merkings-systemet til å utvikle seg etter hvert som teknologien "
+"muliggjør det.  Systemet kan muliggjøre et spesielt signal når en ikke "
+"merker&mdash;ikke miste opphavsretten, men miste retten til å straffe "
+"noen for å ikke ha skaffet seg tillatelse først."
 
 #.  f2.
 #. type: Content of: <book><chapter><section><section><section><para><footnote><para>
@@ -26607,7 +26607,6 @@ msgstr ""
 "insentiv for opphavsrettseiere til å merke sine verk."
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "That in turn raises the question about how work should best be marked. Here "
 "again, the system needs to adjust as the technologies evolve. The best way "
@@ -26615,11 +26614,11 @@ msgid ""
 "that of approving standards for marking content that have been crafted "
 "elsewhere."
 msgstr ""
-"som i sin tur reiser spørsmålet om hvordan arbeidet best bør være merket. "
-"Her igjen, må systemet justere som teknologien utvikler seg. den beste måten "
-"å sikre at systemet utvikler seg er å begrense opphavsrett kontorets rolle "
-"for å godkjenne standarder for å merke innhold som har vært laget andre "
-"steder."
+"Dette i sin tur reiser spørsmålet om hvordan et verk best bør merkes. "
+"Her må systemet igjen justere seg etter hvert som teknologiene "
+"utvikler seg.  Den beste måten å sikre at systemet utvikler seg er å "
+"begrense opphavsrettskontorets rolle til å godkjenne standarder for å "
+"merke innhold som har vært utviklet av andre."
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
 msgid "copyright marking of"
