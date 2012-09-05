@@ -26884,13 +26884,12 @@ msgstr ""
 
 #.  B.
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "There are also some who are using sharing networks to sample, on the way to "
 "purchasing CDs."
 msgstr ""
-"Det er også noen som bruker delingsnettverk for å prøvelytte, på vei mot å "
-"kjøpe CDer."
+"Det er også noen som bruker delingsnettverk for å å prøvelytte, mens "
+"de vurderer hva slags CDer de vil kjøpe."
 
 #.  PAGE BREAK 302
 #.  C.
