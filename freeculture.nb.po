@@ -26518,7 +26518,7 @@ msgid ""
 "authors."
 msgstr ""
 "Vernetiden i opphavsretten har gått fra fjorten år til nittifem år der "
-"selskap har forfatterskapet , og livstiden til forfatteren pluss sytti år "
+"selskap har forfatterskapet, og livstiden til forfatteren pluss sytti år "
 "for individuelle forfattere."
 
 #.  f3.
