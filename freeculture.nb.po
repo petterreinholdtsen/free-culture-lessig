@@ -26386,15 +26386,15 @@ msgstr ""
 
 #.  f2.
 #. type: Content of: <book><chapter><section><section><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "There would be a complication with derivative works that I have not solved "
 "here. In my view, the law of derivatives creates a more complicated system "
 "than is justified by the marginal incentive it creates."
 msgstr ""
-"det ville være en complication med avledede produkter som jeg ikke har løst "
-"her. etter mitt syn er oppretter loven av derivater et mer komplisert system "
-"enn er rettferdiggjort av marginale incitament opprettes."
+"En kompliserende faktor er avledede verker, og den har jeg ikke løst "
+"her.  Etter mitt syn skaper loven rundt avledede verker et mer "
+"komplisert system enn det som kan rettferdiggjøres ut fra de marginale "
+"insentivene dette gir."
 
 #.  PAGE BREAK 296
 #. type: Content of: <book><chapter><section><section><section><para>
