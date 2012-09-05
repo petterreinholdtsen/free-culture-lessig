@@ -315,3 +315,8 @@
 2012-09-05T1311 1381 oversatte meldinger, 710 antatte oversettelser, 125 uoversatte meldinger.
 2012-09-05T1321 1381 oversatte meldinger, 710 antatte oversettelser, 126 uoversatte meldinger.
 2012-09-05T1542 1382 oversatte meldinger, 711 antatte oversettelser, 137 uoversatte meldinger.
+2012-09-05T1635 1384 oversatte meldinger, 710 antatte oversettelser, 143 uoversatte meldinger.
+2012-09-05T2017 1394 oversatte meldinger, 715 antatte oversettelser, 170 uoversatte meldinger.
+2012-09-05T2216 1396 oversatte meldinger, 713 antatte oversettelser, 170 uoversatte meldinger.
+2012-09-05T2236 1397 oversatte meldinger, 712 antatte oversettelser, 170 uoversatte meldinger.
+2012-09-05T2244 1402 oversatte meldinger, 707 antatte oversettelser, 170 uoversatte meldinger.
