@@ -1411,9 +1411,8 @@ msgstr ""
 "lovverket."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "copyright infringement lawsuits"
-msgstr "krenkelse av opphavsrett søksmål"
+msgstr "søksmål om krenkelse av opphavsrett"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
@@ -1519,7 +1518,6 @@ msgstr ""
 "en fri kultur, og mer og mer en tillatelseskultur."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "protection of artists vs. business interests"
 msgstr "beskyttelse av kunstnere vs. forretningsinteresser"
 
@@ -1604,9 +1602,8 @@ msgid "Valenti, Jack"
 msgstr "Valenti, Jack"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on creative property rights"
-msgstr "på kreative eiendomsrettigheter"
+msgstr "om kreative eiendomsrettigheter"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -2228,9 +2225,8 @@ msgstr ""
 "i vårt lovverk."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on republishing vs. transformation of original work"
-msgstr "på ny publisering vs. transformasjonen av opprinnelige arbeid"
+msgstr "på gjenpublisering vs. endring av opprinnelig verk"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "creativity"
@@ -2752,9 +2748,8 @@ msgid "defined"
 msgstr "definert"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "traditional term for conversion to"
-msgstr "tradisjonelle frist for konvertering til"
+msgstr "tradisjonell frist for konvertering til"
 
 #.  f4
 #. type: Content of: <book><part><chapter><para><footnote><para>
