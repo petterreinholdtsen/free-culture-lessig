@@ -26727,15 +26727,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "I agree with those who believe that we need a radical change in copyright's "
 "term. But whether fourteen years or seventy-five, there are four principles "
 "that are important to keep in mind about copyright terms."
 msgstr ""
-"Jeg er enig med de som tror at vi trenger en radikal endring i copyright's "
-"sikt. men om fjorten år eller sytti-fem, finnes det fire prinsipper som er "
-"viktig å huske på om opphavsrett terms."
+"Jeg er enig med de som tror vi trenger en radikal endring i "
+"opphavsretten levetid.  Men hvorvidt den er fjorten år eller syttifem, "
+"så er det fire prinsipper som det er viktig å tenke på når det gjelder "
+"varighetenen til opphavsretten."
 
 #.  (1)
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
