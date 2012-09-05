@@ -6876,12 +6876,21 @@ be lost.
 </section>
 <section id="beginnings">
 <title>Beginnings</title>
+<indexterm><primary>Constitution, U.S.</primary><secondary>on creative property</secondary></indexterm>
+<indexterm id='idxconstitutionuscopyrightpurposeestablishedin' class='startofrange'><primary>Constitution, U.S.</primary><secondary>copyright purpose established in</secondary></indexterm>
+<indexterm id='idxconstitutionusprogressclauseof' class='startofrange'><primary>Constitution, U.S.</primary><secondary>Progress Clause of</secondary></indexterm>
+<indexterm><primary>copyright</primary><secondary>constitutional purpose of</secondary></indexterm>
+<indexterm><primary>copyright</primary><secondary>duration of</secondary></indexterm>
+<indexterm id='idxcreativepropertyconstitutionaltraditionon2' class='startofrange'><primary>creative property</primary><secondary>constitutional tradition on</secondary></indexterm>
+<indexterm id='idxprogressclause' class='startofrange'><primary>Progress Clause</primary></indexterm>
+<indexterm><primary>copyright</primary><secondary>duration of</secondary></indexterm>
 <para>
 America copied English copyright law. Actually, we copied and improved
 English copyright law. Our Constitution makes the purpose of <quote>creative
 property</quote> rights clear; its express limitations reinforce the English
 aim to avoid overly powerful publishers.
 </para>
+<indexterm id='idxcongressusinconstitutionalprogressclause' class='startofrange'><primary>Congress, U.S.</primary><secondary>in constitutional Progress Clause</secondary></indexterm>
 <para>
 The power to establish <quote>creative property</quote> rights is granted to
 Congress in a way that, for our Constitution, at least, is very
@@ -6900,6 +6909,9 @@ does not say. It does not say Congress has the power to grant
 purpose, and its purpose is a public one, not the purpose of enriching
 publishers, nor even primarily the purpose of rewarding authors.
 </para>
+<indexterm startref='idxcongressusinconstitutionalprogressclause' class='endofrange'/>
+<indexterm id='idxcopyrightlawasprotectionofcreators' class='startofrange'><primary>copyright law</primary><secondary>as protection of creators</secondary></indexterm>
+<indexterm id='idxcopyrightlawhistoryofamerican' class='startofrange'><primary>copyright law</primary><secondary>history of American</secondary></indexterm>
 <para>
 The Progress Clause expressly limits the term of copyrights. As we saw
 in chapter <xref xrefstyle="select: labelnumber" linkend="founders"/>,
@@ -6910,6 +6922,9 @@ followed the English for a similar purpose. Indeed, unlike the
 English, the framers reinforced that objective, by requiring that
 copyrights extend <quote>to Authors</quote> only.
 </para>
+<indexterm><primary>Senate, U.S.</primary></indexterm>
+<indexterm><primary>Constitution, U.S.</primary><secondary>structural checks and balances of</secondary></indexterm>
+<indexterm><primary>electoral college</primary></indexterm>
 <para>
 The design of the Progress Clause reflects something about the
 Constitution's design in general. To avoid a problem, the framers
@@ -6925,6 +6940,8 @@ case, a <emphasis>structure</emphasis> built checks and balances into
 the constitutional frame, structured to prevent otherwise inevitable
 concentrations of power.
 </para>
+<indexterm startref='idxconstitutionusprogressclauseof' class='endofrange'/>
+<indexterm startref='idxprogressclause' class='endofrange'/>
 <para>
 I doubt the framers would recognize the regulation we call <quote>copyright</quote>
 today. The scope of that regulation is far beyond anything they ever
@@ -6932,6 +6949,10 @@ considered. To begin to understand what they did, we need to put our
 <quote>copyright</quote> in context: We need to see how it has changed in the 210
 years since they first struck its design.
 </para>
+<indexterm startref='idxconstitutionuscopyrightpurposeestablishedin' class='endofrange'/>
+<indexterm startref='idxcreativepropertyconstitutionaltraditionon2' class='endofrange'/>
+<indexterm startref='idxcopyrightlawasprotectionofcreators' class='endofrange'/>
+<indexterm><primary>copyright</primary><secondary>four regulatory modalities on</secondary></indexterm>
 <para>
 Some of these changes come from the law: some in light of changes
 in technology, and some in light of changes in technology given a
@@ -6957,6 +6978,11 @@ Let me explain how.
 </section>
 <section id="lawduration">
 <title>Law: Duration</title>
+<indexterm id='idxcopyrightdurationof4' class='startofrange'><primary>copyright</primary><secondary>duration of</secondary></indexterm>
+<indexterm id='idxcongressusoncopyrightlaws5' class='startofrange'><primary>Congress, U.S.</primary><secondary>on copyright laws</secondary></indexterm>
+<indexterm id='idxcopyrightact' class='startofrange'><primary>Copyright Act (1790)</primary></indexterm>
+<indexterm><primary>creative property</primary><secondary>common law protections of</secondary></indexterm>
+<indexterm id='idxpublicdomainbalanceofuscontentin' class='startofrange'><primary>public domain</primary><secondary>balance of U.S. content in</secondary></indexterm>
 <para>
 When the first Congress enacted laws to protect creative property, it
 faced the same uncertainty about the status of creative property that
@@ -6982,6 +7008,7 @@ uncertainty would make it hard for publishers to rely upon a public
 domain to reprint and distribute works.
 </para>
 <indexterm><primary>Statute of Anne (1710)</primary></indexterm>
+<indexterm id='idxlawfederalvsstate' class='startofrange'><primary>law</primary><secondary>federal vs. state</secondary></indexterm>
 <para>
 That uncertainty ended after Congress passed legislation granting
 copyrights. Because federal law overrides any contrary state law,
@@ -6990,6 +7017,7 @@ protections.  Just as in England the Statute of Anne eventually meant
 that the copyrights for all English works expired, a federal statute
 meant that any state copyrights expired as well.
 </para>
+<indexterm id='idxcopyrightrenewabilityof' class='startofrange'><primary>copyright</primary><secondary>renewability of</secondary></indexterm>
 <para>
 In 1790, Congress enacted the first copyright law. It created a
 federal copyright and secured that copyright for fourteen years. If
@@ -6997,6 +7025,7 @@ the author was alive at the end of that fourteen years, then he could
 opt to renew the copyright for another fourteen years. If he did not
 renew the copyright, his work passed into the public domain.
 </para>
+<indexterm startref='idxcongressusoncopyrightlaws5' class='endofrange'/>
 <para>
 While there were many works created in the United States in the first
 ten years of the Republic, only 5 percent of the works were actually
@@ -7021,6 +7050,8 @@ copyright was short. The initial term of copyright was fourteen years,
 with the option of renewal for an additional fourteen years. Copyright
 Act of May 31, 1790, §1, 1 stat. 124.  </para></footnote>
 </para>
+<indexterm startref='idxcopyrightact' class='endofrange'/>
+<indexterm startref='idxlawfederalvsstate' class='endofrange'/>
 <para>
 This system of renewal was a crucial part of the American system
 of copyright. It assured that the maximum terms of copyright would be
@@ -7047,8 +7078,9 @@ M. Landes and Richard A.  Posner, <quote>Indefinitely Renewable Copyright,</quot
 <citetitle>University of Chicago Law Review</citetitle> 70 (2003): 471, 498&ndash;501, and
 accompanying figures.  </para></footnote>
 </para>
-<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
+<indexterm startref='idxpublicdomainbalanceofuscontentin' class='endofrange'/>
 <indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
+<indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
 <para>
 Even today, this structure would make sense. Most creative work
 has an actual commercial life of just a couple of years. Most books fall
@@ -7061,6 +7093,9 @@ copyright. The only practical commercial use of the books at that time
 is to sell the books as used books; that use&mdash;because it does not
 involve publication&mdash;is effectively free.
 </para>
+<indexterm id='idxcongressusoncopyrightlaws6' class='startofrange'><primary>Congress, U.S.</primary><secondary>on copyright laws</secondary></indexterm>
+<indexterm id='idxcongressuscopyrighttermsextendedby' class='startofrange'><primary>Congress, U.S.</primary><secondary>copyright terms extended by</secondary></indexterm>
+<indexterm id='idxcopyrightlawtermextensionsin' class='startofrange'><primary>copyright law</primary><secondary>term extensions in</secondary></indexterm>
 <para>
 In the first hundred years of the Republic, the term of copyright was
 changed once. In 1831, the term was increased from a maximum of 28
@@ -7069,6 +7104,8 @@ from 14 years to 28 years. In the next fifty years of the Republic,
 the term increased once again. In 1909, Congress extended the renewal
 term of 14 years to 28 years, setting a maximum term of 56 years.
 </para>
+<indexterm id='idxsonnybonocopyrighttermextensionactctea' class='startofrange'><primary>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</primary></indexterm>
+<indexterm id='idxpublicdomainfuturepatentsvsfuturecopyrightsin' class='startofrange'><primary>public domain</primary><secondary>future patents vs. future copyrights in</secondary></indexterm>
 <para>
 Then, beginning in 1962, Congress started a practice that has defined
 copyright law since. Eleven times in the last forty years, Congress
@@ -7079,6 +7116,7 @@ In 1976, Congress extended all existing copyrights by nineteen years.
 And in 1998, in the Sonny Bono Copyright Term Extension Act, Congress
 extended the term of existing and future copyrights by twenty years.
 </para>
+<indexterm><primary>patents</primary><secondary>in public domain</secondary></indexterm>
 <para>
 The effect of these extensions is simply to toll, or delay, the passing
 of works into the public domain. This latest extension means that the
@@ -7090,6 +7128,7 @@ after the Sonny Bono Act, while one million patents will pass into the
 public domain, zero copyrights will pass into the public domain by virtue
 of the expiration of a copyright term.
 </para>
+<indexterm startref='idxsonnybonocopyrighttermextensionactctea' class='endofrange'/>
 <para>
 The effect of these extensions has been exacerbated by another,
 little-noticed change in the copyright law. Remember I said that the
@@ -7100,6 +7139,9 @@ would pass more quickly into the public domain. The works remaining
 under protection would be those that had some continuing commercial
 value.
 </para>
+<indexterm><primary>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</primary></indexterm>
+<indexterm><primary>copyright</primary><secondary>of natural authors vs. corporations</secondary></indexterm>
+<indexterm><primary>corporations</primary><secondary>copyright terms for</secondary></indexterm>
 <para>
 The United States abandoned this sensible system in 1976. For
 all works created after 1978, there was only one copyright term&mdash;the
@@ -7119,6 +7161,8 @@ is orphaned by these changes in copyright law. Despite the requirement
 that terms be <quote>limited,</quote> we have no evidence that anything will limit
 them.
 </para>
+<indexterm startref='idxcopyrightlawhistoryofamerican' class='endofrange'/>
+<indexterm startref='idxpublicdomainfuturepatentsvsfuturecopyrightsin' class='endofrange'/>
 <para>
 The effect of these changes on the average duration of copyright is
 dramatic. In 1973, more than 85 percent of copyright owners failed to
@@ -7134,16 +7178,24 @@ more than thirty-two years, and averaged thirty years. See Landes and
 Posner, <quote>Indefinitely Renewable Copyright,</quote> loc. cit.
 </para></footnote>
 </para>
+<indexterm startref='idxcopyrightdurationof4' class='endofrange'/>
+<indexterm startref='idxcopyrightrenewabilityof' class='endofrange'/>
+<indexterm startref='idxcongressusoncopyrightlaws6' class='endofrange'/>
+<indexterm startref='idxcongressuscopyrighttermsextendedby' class='endofrange'/>
+<indexterm startref='idxcopyrightlawtermextensionsin' class='endofrange'/>
 <!-- PAGE BREAK 147 -->
 </section>
 <section id="lawscope">
 <title>Law: Scope</title>
+<indexterm id='idxcopyrightscopeof' class='startofrange'><primary>copyright</primary><secondary>scope of</secondary></indexterm>
 <para>
 The <quote>scope</quote> of a copyright is the range of rights granted by the law.
 The scope of American copyright has changed dramatically. Those
 changes are not necessarily bad. But we should understand the extent
 of the changes if we're to keep this debate in context.
 </para>
+<indexterm><primary>copyright law</primary><secondary>on republishing vs. transformation of original work</secondary></indexterm>
+<indexterm id='idxderivativeworkshistoricalshiftincopyrightcoverageof' class='startofrange'><primary>derivative works</primary><secondary>historical shift in copyright coverage of</secondary></indexterm>
 <para>
 In 1790, that scope was very narrow. Copyright covered only <quote>maps,
 charts, and books.</quote> That means it didn't cover, for example, music or
@@ -7172,6 +7224,9 @@ way, the right covers more creative work, protects the creative work
 more broadly, and protects works that are based in a significant way
 on the initial creative work.
 </para>
+<indexterm id='idxcopyrightmarkingof' class='startofrange'><primary>copyright</primary><secondary>marking of</secondary></indexterm>
+<indexterm id='idxformalities' class='startofrange'><primary>formalities</primary></indexterm>
+<indexterm id='idxcopyrightlawregistrationrequirementof' class='startofrange'><primary>copyright law</primary><secondary>registration requirement of</secondary></indexterm>
 <para>
 At the same time that the scope of copyright has expanded, procedural
 limitations on the right have been relaxed. I've already described the
@@ -7186,6 +7241,7 @@ of the history of American copyright law, there was a requirement that
 works be deposited with the government before a copyright could be
 secured.
 </para>
+<indexterm startref='idxderivativeworkshistoricalshiftincopyrightcoverageof' class='endofrange'/>
 <para>
 The reason for the registration requirement was the sensible
 understanding that for most works, no copyright was required. Again,
@@ -7200,6 +7256,7 @@ that after the copyright expired, there would be a copy of the work
 somewhere so that it could be copied by others without locating the
 original author.
 </para>
+<indexterm><primary>copyright law</primary><secondary>European</secondary></indexterm>
 <para>
 All of these <quote>formalities</quote> were abolished in the American system when
 we decided to follow European copyright law. There is no requirement
@@ -7208,10 +7265,14 @@ automatic; the copyright exists whether or not you mark your work with
 a &copy;; and the copyright exists whether or not you actually make a
 copy available for others to copy.
 </para>
+<indexterm startref='idxcopyrightmarkingof' class='endofrange'/>
+<indexterm startref='idxformalities' class='endofrange'/>
+<indexterm startref='idxcopyrightlawregistrationrequirementof' class='endofrange'/>
 <para>
 Consider a practical example to understand the scope of these
 differences.
 </para>
+<indexterm id='idxcopyrightact2' class='startofrange'><primary>Copyright Act (1790)</primary></indexterm>
 <para>
 If, in 1790, you wrote a book and you were one of the 5 percent who
 actually copyrighted that book, then the copyright law protected you
@@ -7230,6 +7291,9 @@ The Copyright Act was thus a tiny
 regulation of a tiny proportion of a tiny part of the creative market in
 the United States&mdash;publishers.
 </para>
+<indexterm id='idxcopyrightlawonrepublishingvstransformationoforiginalwork2' class='startofrange'><primary>copyright law</primary><secondary>on republishing vs. transformation of original work</secondary></indexterm>
+<indexterm id='idxderivativeworkspiracyvs3' class='startofrange'><primary>derivative works</primary><secondary>piracy vs.</secondary></indexterm>
+<indexterm id='idxpiracyderivativeworkvs3' class='startofrange'><primary>piracy</primary><secondary>derivative work vs.</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 149 -->
 The act left other creators totally unregulated. If I copied your poem
@@ -7240,6 +7304,7 @@ those activities were regulated by the original copyright act. These
 creative activities remained free, while the activities of publishers
 were restrained.
 </para>
+<indexterm startref='idxcopyrightact2' class='endofrange'/>
 <para>
 Today the story is very different: If you write a book, your book is
 automatically protected. Indeed, not just your book. Every e-mail,
@@ -7268,6 +7333,7 @@ copyright holder. The copyright, in other words, is now not just an
 right to your writings, but an exclusive right to your writings
 and a large proportion of the writings inspired by them.
 </para>
+<indexterm startref='idxderivativeworkspiracyvs3' class='endofrange'/>
 <para>
 It is this derivative right that would seem most bizarre to our
 framers, though it has become second nature to us. Initially, this 
@@ -7317,6 +7383,7 @@ pp. 53&ndash;59).
 </para></footnote>
 These two different uses of my creative work are treated the same.
 </para>
+<indexterm startref='idxpiracyderivativeworkvs3' class='endofrange'/>
 <indexterm><primary>Disney, Walt</primary></indexterm>
 <indexterm><primary>Mickey Mouse</primary></indexterm>
 <para>
@@ -7333,9 +7400,13 @@ derivative right is unjustified. My aim just now is much narrower:
 simply to make clear that this expansion is a significant change from
 the rights originally granted.
 </para>
+<indexterm startref='idxcopyrightscopeof' class='endofrange'/>
+<indexterm startref='idxcopyrightlawonrepublishingvstransformationoforiginalwork2' class='endofrange'/>
 </section>
 <section id="lawreach">
 <title>Law and Architecture: Reach</title>
+<indexterm id='idxcopyrightlawcopiesascoreissueof' class='startofrange'><primary>copyright law</primary><secondary>copies as core issue of</secondary></indexterm>
+<indexterm id='idxcopyrightlawscopeof' class='startofrange'><primary>copyright law</primary><secondary>scope of</secondary></indexterm>
 <para>
 Whereas originally the law regulated only publishers, the change in
 copyright's scope means that the law today regulates publishers, users,
@@ -7352,6 +7423,8 @@ existing law (which regulates <quote>copies;</quote> 17 <citetitle>United States
 102) is that if there is a copy, there is a right.
 </para></footnote>
 </para>
+<indexterm><primary>Valenti, Jack</primary><secondary>on creative property rights</secondary></indexterm>
+<indexterm id='idxcreativepropertyotherpropertyrightsvs2' class='startofrange'><primary>creative property</primary><secondary>other property rights vs.</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 151 -->
 <quote>Copies.</quote> That certainly sounds like the obvious thing for
@@ -7366,6 +7439,7 @@ copies should <emphasis>not</emphasis> be the trigger for copyright
 law. More precisely, they should not <emphasis>always</emphasis> be
 the trigger for copyright law.
 </para>
+<indexterm startref='idxcopyrightlawcopiesascoreissueof' class='endofrange'/>
 <para>
 This is perhaps the central claim of this book, so let me take this
 very slowly so that the point is not easily missed. My claim is that the
@@ -7382,6 +7456,8 @@ because it is clear that the
 current reach of copyright was never contemplated, much less chosen,
 by the legislators who enacted copyright law.
 </para>
+<indexterm startref='idxcopyrightlawscopeof' class='endofrange'/>
+<indexterm startref='idxcreativepropertyotherpropertyrightsvs2' class='endofrange'/>
 <para>
 We can see this point abstractly by beginning with this largely
 empty circle.
@@ -7424,6 +7500,8 @@ diagram on next page).
 </para>
 <indexterm startref='idxderivativeworkspiracyvs4' class='endofrange'/>
 <indexterm startref='idxpiracyderivativeworkvs4' class='endofrange'/>
+<indexterm id='idxfairuse' class='startofrange'><primary>fair use</primary></indexterm>
+<indexterm id='idxcopyrightlawfairuseand2' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
 <para>
 Finally, there is a tiny sliver of otherwise regulated copying uses
 that remain unregulated because the law considers these <quote>fair uses.</quote>
@@ -7433,6 +7511,8 @@ that remain unregulated because the law considers these <quote>fair uses.</quote
 <title>Republishing stands at the core of this circle of possible uses of a copyrighted work.</title>
 <graphic fileref="images/1541.png"></graphic>
 </figure>
+<indexterm><primary>Constitution, U.S.</primary><secondary>First Amendment to</secondary></indexterm>
+<indexterm><primary>First Amendment</primary></indexterm>
 <para>
 These are uses that themselves involve copying, but which the law
 treats as unregulated because public policy demands that they remain
@@ -7452,6 +7532,7 @@ for public policy (and possibly First Amendment) reasons.
 <title>Uses that before were presumptively unregulated are now presumptively regulated.</title>
 <graphic fileref="images/1551.png"></graphic>
 </figure>
+<indexterm id='idxcopyrightusagerestrictionsattachedto' class='startofrange'><primary>copyright</primary><secondary>usage restrictions attached to</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 154 -->
 In real space, then, the possible uses of a book are divided into three
@@ -7459,7 +7540,9 @@ sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that
 are nonetheless deemed <quote>fair</quote> regardless of the copyright owner's views.
 </para>
 <indexterm startref='idxbooksthreetypesofusesof' class='endofrange'/>
-<indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
+<indexterm id='idxbooksoninternet' class='startofrange'><primary>books</primary><secondary>on Internet</secondary></indexterm>
+<indexterm id='idxinternetbookson2' class='startofrange'><primary>Internet</primary><secondary>books on</secondary></indexterm>
+<indexterm><primary>fair use</primary><secondary>Internet burdens on</secondary></indexterm>
 <para>
 Enter the Internet&mdash;a distributed, digital network where every use
 of a copyrighted work produces a copy.<footnote><para>
@@ -7481,6 +7564,8 @@ would defend the unregulated uses of copyrighted work must look
 exclusively to category 3, fair uses, to bear the burden of this
 shift.
 </para>
+<indexterm startref='idxfairuse' class='endofrange'/>
+<indexterm startref='idxcopyrightlawfairuseand2' class='endofrange'/>
 <para>
 So let's be very specific to make this general point clear. Before the
 Internet, if you purchased a book and read it ten times, there would
@@ -7493,7 +7578,7 @@ night before you went to bed. None of those instances of
 use&mdash;reading&mdash; could be regulated by copyright law because
 none of those uses produced a copy.
 </para>
-<indexterm><primary>books</primary><secondary>on Internet</secondary></indexterm>
+<indexterm id='idxebooks' class='startofrange'><primary>e-books</primary></indexterm>
 <indexterm id='idxderivativeworkstechnologicaldevelopmentsand' class='startofrange'><primary>derivative works</primary><secondary>technological developments and</secondary></indexterm>
 <para>
 But the same book as an e-book is effectively governed by a different
@@ -7534,6 +7619,9 @@ troubling the expansion with respect to copying a particular work, it
 is extraordinarily troubling with respect to transformative uses of
 creative work.
 </para>
+<indexterm id='idxfairuseinternetburdenson' class='startofrange'><primary>fair use</primary><secondary>Internet burdens on</secondary></indexterm>
+<indexterm id='idxcopyrightlawfairuseand3' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
+<indexterm id='idxderivativeworksfairusevs' class='startofrange'><primary>derivative works</primary><secondary>fair use vs.</secondary></indexterm>
 <para>
 Third, this shift from category 1 to category 2 puts an extraordinary
 
@@ -7563,7 +7651,16 @@ grounded in fair use makes sense when the vast majority of uses are
 presumptively regulated, then the protections of fair use are not
 enough.
 </para>
-<indexterm id='idxadvertising2' class='startofrange'><primary>advertising</primary></indexterm>
+<indexterm startref='idxcopyrightusagerestrictionsattachedto' class='endofrange'/>
+<indexterm startref='idxbooksoninternet' class='endofrange'/>
+<indexterm startref='idxinternetbookson2' class='endofrange'/>
+<indexterm startref='idxebooks' class='endofrange'/>
+<indexterm startref='idxfairuseinternetburdenson' class='endofrange'/>
+<indexterm startref='idxcopyrightlawfairuseand3' class='endofrange'/>
+<indexterm startref='idxderivativeworksfairusevs' class='endofrange'/>
+<indexterm id='idxvideopipeline' class='startofrange'><primary>Video Pipeline</primary></indexterm>
+<indexterm id='idxadvertising' class='startofrange'><primary>advertising</primary></indexterm>
+<indexterm id='idxfilmindustrytraileradvertisementsof' class='startofrange'><primary>film industry</primary><secondary>trailer advertisements of</secondary></indexterm>
 <para>
 The case of Video Pipeline is a good example. Video Pipeline was
 in the business of making <quote>trailer</quote> advertisements for movies available
@@ -7581,6 +7678,10 @@ technique by giving on-line stores the same ability to enable
 before you buy the book, so, too, you would be able to sample a bit
 from the movie on-line before you bought it.
 </para>
+<indexterm id='idxdisneyinc2' class='startofrange'><primary>Disney, Inc.</primary></indexterm>
+<indexterm><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
+<indexterm id='idxcopyrightlawcopiesascoreissueof3' class='startofrange'><primary>copyright law</primary><secondary>copies as core issue of</secondary></indexterm>
+<indexterm id='idxfairuselegalintimidationtacticsagainst2' class='startofrange'><primary>fair use</primary><secondary>legal intimidation tactics against</secondary></indexterm>
 <para>
 In 1998, Video Pipeline informed Disney and other film distributors
 that it intended to distribute the trailers through the Internet
@@ -7596,6 +7697,11 @@ distribution immediately.  Video Pipeline thought it was within their
 lawsuit to ask the court to declare that these rights were in fact
 their rights.
 </para>
+<indexterm startref='idxadvertising' class='endofrange'/>
+<indexterm startref='idxfilmindustrytraileradvertisementsof' class='endofrange'/>
+<indexterm id='idxcopyrightusagerestrictionsattachedto2' class='startofrange'><primary>copyright</primary><secondary>usage restrictions attached to</secondary></indexterm>
+<indexterm id='idxcopyrightinfringementlawsuitswillfulinfringementfindingsin' class='startofrange'><primary>copyright infringement lawsuits</primary><secondary>willful infringement findings in</secondary></indexterm>
+<indexterm><primary>willful infringement</primary></indexterm>
 <para>
 Disney countersued&mdash;for $100 million in damages. Those damages
 were predicated upon a claim that Video Pipeline had <quote>willfully
@@ -7615,7 +7721,7 @@ permitted to list the titles of the films they were selling, but they were
 not allowed to show clips of the films as a way of selling them without
 Disney's permission.
 </para>
-<indexterm startref='idxadvertising2' class='endofrange'/>
+<indexterm><primary>first-sale doctrine</primary></indexterm>
 <para>
 Now, you might think this is a close case, and I think the courts
 would consider it a close case. My point here is to map the change
@@ -7630,8 +7736,15 @@ copy, use on the Internet becomes subject to the copyright owner's
 control. The technology expands the scope of effective control,
 because the technology builds a copy into every transaction.
 </para>
+<indexterm startref='idxvideopipeline' class='endofrange'/>
+<indexterm startref='idxdisneyinc2' class='endofrange'/>
+<indexterm startref='idxcopyrightlawcopiesascoreissueof3' class='endofrange'/>
+<indexterm startref='idxfairuselegalintimidationtacticsagainst2' class='endofrange'/>
+<indexterm startref='idxcopyrightusagerestrictionsattachedto2' class='endofrange'/>
+<indexterm startref='idxcopyrightinfringementlawsuitswillfulinfringementfindingsin' class='endofrange'/>
 <indexterm><primary>Barnes &amp; Noble</primary></indexterm>
 <indexterm><primary>browsing</primary></indexterm>
+<indexterm><primary>market competition</primary></indexterm>
 <para>
 <!-- PAGE BREAK 158 -->
 No doubt, a potential is not yet an abuse, and so the potential for
@@ -7665,6 +7778,8 @@ second important change brought about by the Internet magnifies its
 significance. This second change does not affect the reach of copyright
 regulation; it affects how such regulation is enforced.
 </para>
+<indexterm><primary>copyright law</primary><secondary>technology as automatic enforcer of</secondary></indexterm>
+<indexterm><primary>technology</primary><secondary>copyright enforcement controlled by</secondary></indexterm>
 <para>
 In the world before digital technology, it was generally the law that
 controlled whether and how someone was regulated by copyright law.
@@ -7709,7 +7824,7 @@ like the Marx Brothers, knew that no court would ever enforce such a
 silly claim. This extremism was irrelevant to the real freedoms anyone
 (including Warner Brothers) enjoyed.
 </para>
-<indexterm id='idxbooksoninternet' class='startofrange'><primary>books</primary><secondary>on Internet</secondary></indexterm>
+<indexterm id='idxbooksoninternet2' class='startofrange'><primary>books</primary><secondary>on Internet</secondary></indexterm>
 <para>
 On the Internet, however, there is no check on silly rules, because on
 the Internet, increasingly, rules are enforced not by a human but by a
@@ -7927,7 +8042,7 @@ control.  That incentive is understandable, yet what it creates is
 often crazy.
 </para>
 <indexterm startref='idxadobeebookreader' class='endofrange'/>
-<indexterm startref='idxbooksoninternet' class='endofrange'/>
+<indexterm startref='idxbooksoninternet2' class='endofrange'/>
 <para>
 To see the point in a particularly absurd context, consider a favorite
 story of mine that makes the same point.

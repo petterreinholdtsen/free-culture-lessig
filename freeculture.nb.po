@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-05 16:31+0300\n"
+"POT-Creation-Date: 2012-09-05 20:08+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1599,11 +1599,11 @@ msgstr ""
 "teknologi for å bygge kultur. De lykkes i deres plan om å gjøre om "
 "internettet før internettet gjør om på dem."
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Valenti, Jack"
 msgstr "Valenti, Jack"
 
-#. type: Content of: <book><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "on creative property rights"
 msgstr "på kreative eiendomsrettigheter"
@@ -1685,7 +1685,7 @@ msgstr "Første tillegg til"
 msgid "copyright law"
 msgstr "åndsverkslov"
 
-#. type: Content of: <book><chapter><indexterm><secondary>
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as protection of creators"
 msgstr "som beskyttelse for skapere"
 
@@ -2146,7 +2146,7 @@ msgstr "Dreyfuss, Rochelle"
 msgid "Girl Scouts"
 msgstr "Jentespeidere"
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "creative property"
 msgstr "kreativ eiendel"
 
@@ -2608,7 +2608,7 @@ msgstr ""
 msgid "by transforming previous works"
 msgstr "ved å endre tidligere verker"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Disney, Inc."
 msgstr "Disney, Inc."
 
@@ -13004,6 +13004,34 @@ msgstr ""
 msgid "Beginnings"
 msgstr "Opphav"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on creative property"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright purpose established in"
+msgstr "opphavsrett formål som er etablert i"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "Progress Clause of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "constitutional purpose of"
+msgstr "konstitusjonelle formålet med"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "constitutional tradition on"
+msgstr "konstitusjonelle formålet med"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Progress Clause"
+msgstr "handel-setningsdelen i"
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13016,6 +13044,11 @@ msgstr ""
 "engelsk lov om opphavsrett. vår grunnlov gjør formålet med \"creative "
 "property\" fjerner du rettigheter; uttrykkelig begrensninger forsterke den "
 "engelske mål å unngå altfor kraftig utgivere."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "in constitutional Progress Clause"
+msgstr "konstitusjonelle formålet med"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13051,6 +13084,10 @@ msgstr ""
 "og formålet er en offentlig, ikke hensikten med berikende utgivere, eller "
 "med hovedsakelig formålet med givende forfatternes."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "history of American"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13070,6 +13107,18 @@ msgstr ""
 "engelsk for lignende formål. faktisk, i motsetning til engelsk, underskrev "
 "forsterket det målet ved å kreve at opphavsretten utvide \"til forfattere\" "
 "bare."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Senate, U.S."
+msgstr "Senatet i USA"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "structural checks and balances of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "electoral college"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13147,6 +13196,20 @@ msgstr "La meg forklare hvordan."
 msgid "Law: Duration"
 msgstr "Loven: Varighet"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Copyright Act (1790)"
+msgstr "Berlin act (1908)"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "common law protections of"
+msgstr "komponister, copyright beskyttelse av"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "balance of U.S. content in"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Crosskey, William W."
 msgstr "Crosskey, William W."
@@ -13182,6 +13245,10 @@ msgid ""
 "to reprint and distribute works."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "federal vs. state"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13198,6 +13265,11 @@ msgstr ""
 "lov beskyttelse. akkurat som i england betydde Vedtektene for anne til slutt "
 "at opphavsretten for alle engelsk arbeider utløpt, en føderale vedtekter "
 "betydde at staten opphavsrettigheter utløpt også."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "renewability of"
+msgstr "intangibility av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13313,6 +13385,15 @@ msgid ""
 "publication&mdash;is effectively free."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright terms extended by"
+msgstr "opphavsrett hensikt endret av"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "term extensions in"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13328,6 +13409,15 @@ msgstr ""
 "begrepet av opphavsrett fra 14 år til 28 år. i de neste femti årene av "
 "Republikken begrepet økt igjen. i 1909 utvidet Kongressen begrepet fornyelse "
 "av 14 år til 28 år, angi en maksimal periode på 56 år."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
+msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
+msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "future patents vs. future copyrights in"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13349,6 +13439,14 @@ msgstr ""
 "1976 utvidet Kongressen alle eksisterende opphavsrettigheter av nitten år. "
 "og i 1998, i sonny bono opphavsrett begrepet forlengelse loven Kongressen "
 "utvidet begrepet av eksisterende og fremtidige opphavsretten av tjue år."
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "patents"
+msgstr "patenter"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "in public domain"
+msgstr "i allemannseie (public domain)"
 
 #.  PAGE BREAK 146
 #. type: Content of: <book><part><chapter><section><para>
@@ -13387,6 +13485,19 @@ msgstr ""
 "ikke lenger nødvendig opphavsrettsbeskyttelse ville passere raskere i public "
 "domain. works gjenværende under beskyttelse vil være de som hadde noen "
 "vedvarende kommersiell verdi."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "of natural authors vs. corporations"
+msgstr ""
+
+#. type: Content of: <book><chapter><indexterm><primary>
+#, mtrans, fuzzy
+msgid "corporations"
+msgstr "selskaper"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "copyright terms for"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13454,6 +13565,10 @@ msgstr ""
 msgid "Law: Scope"
 msgstr "Loven: Virkeområde"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "scope of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -13466,6 +13581,10 @@ msgstr ""
 "omfanget av amerikanske copyright har endret seg dramatisk. disse endringene "
 "er ikke nødvendigvis dårlig. men vi bør forstå omfanget av endringene Hvis "
 "vi å holde denne debatten i sammenheng."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "historical shift in copyright coverage of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13523,6 +13642,18 @@ msgstr ""
 "kreativt arbeid, beskytter det kreative arbeidet mer forstand, og beskytter "
 "verk som er basert på en betydelig måte på det første skapende arbeidet."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "marking of"
+msgstr "merking av"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "formalities"
+msgstr "formaliteter"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "registration requirement of"
+msgstr ""
+
 #.  PAGE BREAK 148
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13574,6 +13705,10 @@ msgstr ""
 "avsatt å sikre at etter at opphavsretten utløpt, det ville være en kopi av "
 "arbeidet et sted slik at den kan kopieres av andre uten å finne den "
 "opprinnelige forfatteren."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "European"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13802,6 +13937,11 @@ msgstr ""
 msgid "Law and Architecture: Reach"
 msgstr "Lov og arkitektur: Rekkevidde"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copies as core issue of"
+msgstr "Kopier som kjernen utgave av"
+
 #.  f16
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -13831,6 +13971,10 @@ msgid ""
 "authors. It regulates them because all three are capable of making copies, "
 "and the core of the regulation of copyright law is copies.<placeholder type="
 "\"footnote\" id=\"0\"/>"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "other property rights vs."
 msgstr ""
 
 #.  PAGE BREAK 151
@@ -13902,11 +14046,6 @@ msgstr "tre typer bruk av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
-msgid "copies as core issue of"
-msgstr "Kopier som kjernen utgave av"
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "copyright applicability altered by technology of"
 msgstr "opphavsrett anvendbarhet endret av teknologien i"
 
@@ -13966,6 +14105,14 @@ msgstr ""
 "kretsen av mulige bruksområder for et opphavsrettslig beskyttet verk. Det er "
 "paradigmatic bruk riktig regulert av opphavsrett regulering (se første "
 "diagrammet på neste side)."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "fair use"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "fair use and"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14030,6 +14177,10 @@ msgstr ""
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1551.png\"></graphic>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "usage restrictions attached to"
+msgstr "bruksbegrensninger knyttet til"
+
 #.  PAGE BREAK 154
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14047,6 +14198,14 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet"
 msgstr "på internet"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "books on"
+msgstr "bøker på"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "Internet burdens on"
+msgstr ""
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -14100,6 +14259,10 @@ msgstr ""
 "før du gikk til sengs. Ingen av disse forekomstene av bruk&mdash;"
 "lesing&mdash;kan reguleres av lov om opphavsrett, fordi ingen av de bruker "
 "produsert en kopi."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "e-books"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -14180,6 +14343,10 @@ msgstr ""
 "troubling utvidelse med hensyn til kopiere et bestemt arbeid, men det er "
 "svært troubling med hensyn til transformative bruk av skapende arbeid."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "fair use vs."
+msgstr ""
+
 #.  PAGE BREAK 156
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14222,6 +14389,18 @@ msgstr ""
 "store flertallet av bruker er unregulated. men når alt blir presumptively "
 "regulert, deretter beskyttelse av fair use er ikke nok."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Video Pipeline"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "film industry"
+msgstr "filmindustri"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "trailer advertisements of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14260,6 +14439,11 @@ msgstr ""
 "bokhandel du kan lese noen få sider av en bok før du kjøper boken, så, du "
 "vil også kunne smake litt fra filmen on-line før du kjøpte den."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "legal intimidation tactics against"
+msgstr "trusler taktikk av"
+
 #.  PAGE BREAK 157
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14287,6 +14471,14 @@ msgstr ""
 "var innenfor sine \"fair use\"-rettigheter til å distribuere utklippene som "
 "de hadde. så de anlagt en sak å be retten å erklære at disse rettighetene "
 "var faktisk sine rettigheter."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "willful infringement findings in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "willful infringement"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14326,6 +14518,10 @@ msgstr ""
 "domstol var at butikkene ble tillatt å selge filmene og de ble tillatt å "
 "vise titlene på filmene de solgte, men de var ikke lov til å vise klipp av "
 "filmer som en måte å selge dem uten disney's tillatelse."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "first-sale doctrine"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14420,6 +14616,15 @@ msgstr ""
 "endringer forårsaket av Internett øker sin betydning. denne andre endringen "
 "påvirker ikke rekkevidden av opphavsrett regulering; det påvirker hvordan "
 "slike regulering fremtvinges."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "technology as automatic enforcer of"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "copyright enforcement controlled by"
+msgstr "opphavsrett hensikt endret av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -20370,16 +20575,6 @@ msgstr ""
 "til undervisning statsrett Hvis disse ni justiariusene skulle være smålig "
 "politikere."
 
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "copyright purpose established in"
-msgstr "opphavsrett formål som er etablert i"
-
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "constitutional purpose of"
-msgstr "konstitusjonelle formålet med"
-
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
 msgid ""
@@ -23613,10 +23808,6 @@ msgstr ""
 "Zimbabwe.  Med slike priser er disse medisinene fullstendig utilgjengelig."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "patents"
-msgstr "patenter"
-
 #. type: Content of: <book><chapter><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "on pharmaceuticals"
@@ -23903,11 +24094,6 @@ msgstr ""
 "slags berettigelse kan noen sinne eksistere for en politikk som resulterer i "
 "så mange døde?  Hva slags galskap er det egentlig som tillater at så mange "
 "dør for slik en abstraksjon?"
-
-#. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
-msgid "corporations"
-msgstr "selskaper"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -26343,14 +26529,13 @@ msgid ""
 "way. And more importantly, there is no reason a marking requirement needs to "
 "be enforced uniformly across all media."
 msgstr ""
-"Det å ikke merke kreative verker med opphavsrettsinformasjon førte "
-"tidligere til at en mistet opphavsretten.  Det var en veldig streng "
-"straff for å ikke overholde en regulatorisk regel&mdash;omtrent som å "
-"dømme noen til dødsstraff for å få ha parkert ulovlig i kreativ "
-"rettighets-verden.  Her er det heller ikke noen grunn til at "
-"markeringskravene trenger å bli håndhevd på denne måten.  Og viktigere "
-"er at det ikke er noen grunn til at merkingskravene trenger å "
-"håndheves likt på tvers av alle medier."
+"Det å ikke merke kreative verker med opphavsrettsinformasjon førte tidligere "
+"til at en mistet opphavsretten.  Det var en veldig streng straff for å ikke "
+"overholde en regulatorisk regel&mdash;omtrent som å dømme noen til "
+"dødsstraff for å få ha parkert ulovlig i kreativ rettighets-verden.  Her er "
+"det heller ikke noen grunn til at markeringskravene trenger å bli håndhevd "
+"på denne måten.  Og viktigere er at det ikke er noen grunn til at "
+"merkingskravene trenger å håndheves likt på tvers av alle medier."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
@@ -26358,10 +26543,10 @@ msgid ""
 "and that the author wants to enforce his rights. The mark also makes it easy "
 "to locate a copyright owner to secure permission to use the work."
 msgstr ""
-"Målet med merkingen er å signalisere til offentligheten at dette "
-"verket er opphavsrettsbeskyttet og at forfatteren ønsker a håndheve "
-"sine rettigheter. Merket gjør det også enkelt å spore opp en "
-"opphavsrettseier for å skaffe tillatelse til å bruke verket."
+"Målet med merkingen er å signalisere til offentligheten at dette verket er "
+"opphavsrettsbeskyttet og at forfatteren ønsker a håndheve sine rettigheter. "
+"Merket gjør det også enkelt å spore opp en opphavsrettseier for å skaffe "
+"tillatelse til å bruke verket."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 #, mtrans, fuzzy
@@ -26391,10 +26576,9 @@ msgid ""
 "here. In my view, the law of derivatives creates a more complicated system "
 "than is justified by the marginal incentive it creates."
 msgstr ""
-"En kompliserende faktor er avledede verker, og den har jeg ikke løst "
-"her.  Etter mitt syn skaper loven rundt avledede verker et mer "
-"komplisert system enn det som kan rettferdiggjøres ut fra de marginale "
-"insentivene dette gir."
+"En kompliserende faktor er avledede verker, og den har jeg ikke løst her.  "
+"Etter mitt syn skaper loven rundt avledede verker et mer komplisert system "
+"enn det som kan rettferdiggjøres ut fra de marginale insentivene dette gir."
 
 #.  PAGE BREAK 296
 #. type: Content of: <book><chapter><section><section><section><para>
@@ -26485,9 +26669,9 @@ msgid ""
 "does nothing to make things clear. Indeed, it seems designed to make things "
 "unclear."
 msgstr ""
-"Formålet med formaliteter er å gjøre ting mer klart.  Det "
-"eksisterende systemet gjør ingenting for å gjøre ting mer klart.  Det "
-"virker heller som om det er utformet for å gjøre ting mindre klart."
+"Formålet med formaliteter er å gjøre ting mer klart.  Det eksisterende "
+"systemet gjør ingenting for å gjøre ting mer klart.  Det virker heller som "
+"om det er utformet for å gjøre ting mindre klart."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 #, mtrans, fuzzy
@@ -26517,8 +26701,8 @@ msgid ""
 "authors."
 msgstr ""
 "Vernetiden i opphavsretten har gått fra fjorten år til nittifem år der "
-"selskap har forfatterskapet, og livstiden til forfatteren pluss sytti år "
-"for individuelle forfattere."
+"selskap har forfatterskapet, og livstiden til forfatteren pluss sytti år for "
+"individuelle forfattere."
 
 #.  f3.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -27513,10 +27697,6 @@ msgstr ""
 msgid "cable vs. broadcast"
 msgstr "kabel-TV mot kringkasting"
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "film industry"
-msgstr "filmindustri"
-
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "luxury theatres vs. video piracy in"
 msgstr "luksuskinoer mot video-piratvirksomhet i"
@@ -27694,11 +27874,6 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Nimmer, Melville"
 msgstr "Nimmer, Melville"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
-msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
-msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 #, mtrans, fuzzy
