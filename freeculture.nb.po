@@ -26334,7 +26334,6 @@ msgid "MARKING"
 msgstr "Merking"
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "It used to be that the failure to include a copyright notice on a creative "
 "work meant that the copyright was forfeited. That was a harsh punishment for "
@@ -26344,25 +26343,25 @@ msgid ""
 "way. And more importantly, there is no reason a marking requirement needs to "
 "be enforced uniformly across all media."
 msgstr ""
-"Det pleide å være at å inkludere en opphavsrett på en skapende arbeid "
-"betydde at opphavsretten ble forkastet. Det var en streng straff for ikke å "
-"overholde en regulatoriske regel&mdash;sammenlignes med imponerende "
-"dødsstraff for en parkeringsbilletten i verden av kreative rettigheter. Her "
-"igjen, er det ingen grunn som et merking krav må håndheves på denne måten. "
-"og enda viktigere, det er ingen grunn et merking krav må håndheves jevnt på "
-"tvers av alle medier."
+"Det å ikke merke kreative verker med opphavsrettsinformasjon førte "
+"tidligere til at en mistet opphavsretten.  Det var en veldig streng "
+"straff for å ikke overholde en regulatorisk regel&mdash;omtrent som å "
+"dømme noen til dødsstraff for å få ha parkert ulovlig i kreativ "
+"rettighets-verden.  Her er det heller ikke noen grunn til at "
+"markeringskravene trenger å bli håndhevd på denne måten.  Og viktigere "
+"er at det ikke er noen grunn til at merkingskravene trenger å "
+"håndheves likt på tvers av alle medier."
 
 #. type: Content of: <book><chapter><section><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The aim of marking is to signal to the public that this work is copyrighted "
 "and that the author wants to enforce his rights. The mark also makes it easy "
 "to locate a copyright owner to secure permission to use the work."
 msgstr ""
-"Målet med merking er med signal til publikum at dette arbeidet er "
-"opphavsrettsbeskyttet, og at forfatteren ønsker å håndheve sine rettigheter. "
-"mark gjør det også enkelt å finne en som har opphavsrettighetene for å sikre "
-"tillatelse til å bruke arbeidet."
+"Målet med merkingen er å signalisere til offentligheten at dette "
+"verket er opphavsrettsbeskyttet og at forfatteren ønsker a håndheve "
+"sine rettigheter. Merket gjør det også enkelt å spore opp en "
+"opphavsrettseier for å skaffe tillatelse til å bruke verket."
 
 #. type: Content of: <book><chapter><section><section><section><para>
 #, mtrans, fuzzy
