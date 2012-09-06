@@ -27061,7 +27061,6 @@ msgstr ""
 "id=\"0\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "I think it's time to recognize that there are airplanes in this field and "
 "the expansiveness of these rights of derivative use no longer make sense. "
@@ -27069,11 +27068,11 @@ msgid ""
 "copyright runs. And they don't make sense as an amorphous grant.  Consider "
 "each limitation in turn."
 msgstr ""
-"Jeg tror det er på tide å anerkjenne at det er fly i dette feltet og "
-"expansiveness av disse rettigheter til avledede bruk ikke lenger fornuftig. "
-"mer presist, fornuftig de ikke for hvor lang tid som en copyright kjører. og "
-"de har ikke noen mening som en formløse grant. vurdere hver begrensning "
-"igjen."
+"Jeg tror det er på tide å anerkjenne at det er flymaskiner på dette "
+"området, og at utvidelser av rettigheter for avledede verker ikke "
+"lenger gir mening.  Mer presist gir de ikke mening for hele "
+"verneperioden til opphavsretten.  Og de gir ikke mening som ubegrenset "
+"tildeling.  La oss vurdere hver begrensning for seg."
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
