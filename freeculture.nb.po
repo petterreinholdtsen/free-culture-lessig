@@ -26979,7 +26979,6 @@ msgid "3. Free Use Vs. Fair Use"
 msgstr "3. Fri Bruk vs. rimelig bruk"
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "As I observed at the beginning of this book, property law originally granted "
 "property owners the right to control their property from the ground to the "
@@ -26988,14 +26987,14 @@ msgid ""
 "anymore to grant that much control, given the emergence of that new "
 "technology."
 msgstr ""
-"som jeg observert i begynnelsen av denne boken, gitt åndsverkslovgivningen "
-"opprinnelig bolig retten til å kontrollere deres eiendom fra bakken til "
-"himmelen. flyet kom. omfanget av eiendomsrettigheter endres raskt. Det var "
-"ingen oppstyr, ingen konstitusjonelle utfordring. det gjorde ingen sans "
-"lenger for å gi så mye kontroll, gitt fremveksten av den nye teknologien."
+"Som jeg observerte i starten av denne boken, ga originalt "
+"eiendomsretten landeiere retten til å kontrollere sin eiendom fra joda "
+"og helt opp til himmelen.  Så kom flymaskiner, og omfanget av "
+"eiendomsretter ble raskt endret.  Det var intet oppstyr, ingen "
+"konstituell utfordring.  Det ga ikke mening lenger å gi bort så mye "
+"kontroll, gitt fremveksten av denne nye teknologien."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Our Constitution gives Congress the power to give authors <quote>exclusive "
 "right</quote> to <quote>their writings.</quote> Congress has given authors "
@@ -27005,12 +27004,14 @@ msgid ""
 "have the power to deny you the right to release that movie, even though that "
 "movie is not <quote>my writing.</quote>"
 msgstr ""
-"vår grunnlov gir Kongressen makt til å gi forfattere \"eksklusiv rett\" til "
-"\"deres skrifter.\" Kongressen har gitt forfatterne en eksklusiv rett til å "
-"\"deres skrifter\" pluss eventuelle avledede skrifter (laget av andre) som "
-"er tilstrekkelig nær forfatterens opprinnelige arbeid. Dermed, hvis jeg "
-"skrive en bok og en film basert på boken, jeg har makt til å nekte deg rett "
-"til å frigi den filmen, selv om filmen ikke er \"min skrive.\""
+"Vår grunnlov gir kongressen myndighet til å tildele forfattere "
+"<quote>eksklusive rett</quote> til <quote>deres skrifter</quote>. "
+"Kongressen har gitt forfattere en eksklusiv rett til <quote>deres "
+"skrifter</quote> pluss alle avledede skrifter (laget av andre) som er "
+"tilstrekkelig nær forfattenens opprinnelige verk.  Dermed, hvis jeg "
+"skriver en bok, og du baserer en film på den boken, så har jeg "
+"myndighet til å nekte deg å gi ut den filmen, selv om den filmen ikke "
+"er <quote>min skrift</quote>."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Kaplan, Benjamin"
@@ -27034,7 +27035,7 @@ msgid ""
 "This expansion has been commented upon by one of the law's greatest judges, "
 "Judge Benjamin Kaplan."
 msgstr ""
-"Kongressen innvilget starten på denne retten i 1870, da den utvidet den "
+"Kongressen innvilget opphavet til denne retten i 1870, da den utvidet den "
 "eksklusive retten i opphavsretten til å inneholde retten til å kontrollere "
 "oversettelser og dramatiseringer av et verk.<placeholder type=\"footnote\" "
 "id=\"0\"/> Domstolene har utvidet det sakte gjennom lovfortolkninger siden "
@@ -27043,9 +27044,8 @@ msgstr ""
 
 #.  f6.
 #. type: Content of: <book><chapter><section><section><blockquote><para><footnote><para>
-#, mtrans, fuzzy
 msgid "Ibid., 56."
-msgstr "ibid., 56."
+msgstr "Ibid., 56."
 
 #. type: Content of: <book><chapter><section><section><blockquote><para>
 msgid ""
@@ -27054,6 +27054,11 @@ msgid ""
 "accepting such an enlargement of copyright while yet intoning the "
 "abracadabra of idea and expression.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Vi har blitt så tilvendt til utvidelsen av monopolet til en stor "
+"rekke med såkalte avledede verker at vi ikke lenger ser hvor rart det "
+"er å akseptere en slik utvidelse av opphavsretten mens vi nynner på "
+"abrakadabraen rundt idéer og uttrykk.<placeholder type=\"footnote\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
@@ -27768,9 +27773,8 @@ msgstr ""
 "begrensninger på hva en var tillatt å gjøre med selve innholdet."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "MusicStore"
-msgstr "musicstore"
+msgstr "MusicStore"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "prices of"
@@ -27988,9 +27992,8 @@ msgid "Nimmer, Melville"
 msgstr "Nimmer, Melville"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "Supreme Court challenge of"
-msgstr "Høyesterett utfordringen med"
+msgstr "Høyesteretts utfordring av"
 
 #.  f10.
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
