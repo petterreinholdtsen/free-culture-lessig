@@ -26832,7 +26832,6 @@ msgstr ""
 
 #.  (1)
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis>Keep it short:</emphasis> The term should be as long as necessary "
 "to give incentives to create, but no longer. If it were tied to very strong "
@@ -26841,12 +26840,13 @@ msgid ""
 "extended further. The key is not to tie the work up with legal regulations "
 "when it no longer benefits an author."
 msgstr ""
-"holde det kort: begrepet skal være så lenge som nødvendig for å gi "
-"insentiver til å opprette, men ikke lenger. Hvis det var knyttet til veldig "
-"sterk beskyttelse for forfattere (slik at forfattere klarte å gjenvinne "
-"rettigheter fra utgivere), kan rettighetene til frembringelsen som samme "
-"(ikke avledede) utvides ytterligere. nøkkelen er ikke å knytte arbeidet opp "
-"med forskrifter når det ikke lenger fordeler en forfatter."
+"<emphasis>Hold den kort:</emphasis> Lengden bør være så lang at den "
+"gir nødvendig insentiv til å skape, men ikke lenger.  Hvis den er "
+"knyttet opp til svært sterk beskyttelse for forfattere (slik at "
+"forfattere er i stand til å få tilbake rettigheter fra utgiverne), så "
+"kan rettigheter til samme verk (ikke avledede verk) bli ytterligere "
+"utvidet.  Nøkkelen er å ikke binde verk opp med juridiske reguleringer "
+"når det ikke lenger gir fordeler til en forfatter."
 
 #.  (2)
 #.  PAGE BREAK 298
@@ -26899,6 +26899,16 @@ msgid ""
 "> If we make veterans suffer that burden, I don't see why we couldn't "
 "require authors to spend ten minutes every fifty years to file a single form."
 msgstr ""
+"<emphasis>Hold det i live:</emphasis> En bør være nødt til å fornye "
+"opphavsrettsbeskyttelsen.  Spesielt hvis den maksimale varigheten er "
+"lang, så bør opphavsrettseieren være nødt til å signalisere "
+"regelmessig at han ønsker at beskyttelsen fortsetter.  Dette trenger "
+"ikke være en enorm belastning, men det er ingen grunn til at denne "
+"monopolbeskyttelsen må deles ut gratis.  I snitt tar det nitti "
+"minutter for en veteran å søke om pensjon.<placeholder "
+"type=\"footnote\" id=\"0\"/> Hvis vi belaster veteraner med så mye, så "
+"ser jeg ikke hvorfor vi ikke kan kreve at forfattere bruker ti "
+"minutter hvert femtiende år for å fylle ut et enkelt skjema."
 
 #.  (4)
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
