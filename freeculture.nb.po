@@ -8977,9 +8977,8 @@ msgid "Henry V"
 msgstr "Henry V"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Romeo and Juliet (Shakespeare)"
-msgstr "Romeo og Julie (shakespeare)"
+msgstr "Romeo og Julie (Shakespeare)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9004,7 +9003,6 @@ msgstr ""
 "quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Conger"
 msgstr "Conger"
 
@@ -9333,9 +9331,8 @@ msgid "monopoly, copyright as"
 msgstr "monopol, opphavsrett som"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Statute of Monopolies (1656)"
-msgstr "Rhuddlan monopoler (1656)"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9585,7 +9582,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Donaldson, Alexander"
-msgstr ""
+msgstr "Donaldson, Alexander"
 
 #.  f7
 #. type: Content of: <book><part><chapter><para><footnote><para>
