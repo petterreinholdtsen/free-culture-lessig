@@ -4718,6 +4718,11 @@ from the implications that the copyright warriors would have us draw.
 <chapter label="6" id="founders">
 <title>CHAPTER SIX: Founders</title>
 <indexterm id='idxbooksenglishcopyrightlawdevelopedfor' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
+<indexterm id='idxcopyrightlawdevelopmentof' class='startofrange'><primary>copyright l
+aw</primary><secondary>development of</secondary></indexterm>
+<indexterm id='idxcopyrightlawenglish' class='startofrange'><primary>copyright law</primary><secondary>English</secondary></indexterm>
+<indexterm id='idxenglandcopyrightlawsdevelopedin' class='startofrange'><primary>England, copyright laws developed in</primary></indexterm>
+<indexterm id='idxunitedkingdomhistoryofcopyrightlawin' class='startofrange'><primary>United Kingdom</primary><secondary>history of copyright law in</secondary></indexterm>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
 <indexterm><primary>Henry V</primary></indexterm>
 <indexterm><primary>Shakespeare, William</primary></indexterm>
@@ -4766,7 +4771,9 @@ one else could publish copies of a book to which they held the
 copyright.  Prices of the classics were thus kept high; competition to
 produce better or cheaper editions was eliminated.
 </para>
-<indexterm id='idxbritishparliament' class='startofrange'><primary>British Parliament</primary></indexterm>
+<indexterm><primary>British Parliament</primary></indexterm>
+<indexterm id='idxcopyrightdurationof2' class='startofrange'><primary>copyright</primary><secondary>duration of</secondary></indexterm>
+<indexterm><primary>copyright</primary><secondary>renewability of</secondary></indexterm>
 <indexterm><primary>Statute of Anne (1710)</primary></indexterm>
 <para>
 Now, there's something puzzling about the year 1774 to anyone who
@@ -4787,6 +4794,8 @@ Tonson's control in 1774?
 </para>
 <indexterm startref='idxromeoandjulietshakespeare' class='endofrange'/>
 <indexterm startref='idxtonsonjacob' class='endofrange'/>
+<indexterm id='idxlawcommonvspositive' class='startofrange'><primary>law</primary><secondary>common vs. positive</secondary></indexterm>
+<indexterm><primary>positive law</primary></indexterm>
 <indexterm><primary>Licensing Act (1662)</primary></indexterm>
 <para>
 The reason is that the English hadn't yet agreed on what a <quote>copyright</quote>
@@ -4799,6 +4808,8 @@ published.  But after it expired, there was no positive law that said
 that the publishers, or <quote>Stationers,</quote> had an exclusive right to print
 books.
 </para>
+<indexterm startref='idxcopyrightdurationof2' class='endofrange'/>
+<indexterm><primary>common law</primary></indexterm>
 <para>
 There was no <emphasis>positive</emphasis> law, but that didn't mean
 that there was no law. The Anglo-American legal tradition looks to
@@ -4811,6 +4822,11 @@ background only if it passes a law to displace it. And so the real
 question after the licensing statutes had expired was whether the
 common law protected a copyright, independent of any positive law.
 </para>
+<indexterm startref='idxlawcommonvspositive' class='endofrange'/>
+<indexterm><primary>Conger</primary></indexterm>
+<indexterm id='idxbritishparliament' class='startofrange'><primary>British Parliament</primary></indexterm>
+<indexterm><primary>Scottish publishers</primary></indexterm>
+<indexterm id='idxstatuteofanne' class='startofrange'><primary>Statute of Anne (1710)</primary></indexterm>
 <para>
 This question was important to the publishers, or <quote>booksellers,</quote> as
 they were called, because there was growing competition from foreign
@@ -4823,6 +4839,7 @@ to again give them exclusive control over publishing. That demand
 		ultimately
 resulted in the Statute of Anne.
 </para>
+<indexterm id='idxcopyrightasnarrowmonopolyright' class='startofrange'><primary>copyright</primary><secondary>as narrow monopoly right</secondary></indexterm>
 <para>
 The Statute of Anne granted the author or <quote>proprietor</quote> of a book an
 exclusive right to print that book. In an important limitation,
@@ -4832,12 +4849,16 @@ copyright <quote>expired,</quote> and the work would then be free and could be
 published by anyone. Or so the legislature is thought to have
 believed.
 </para>
+<indexterm startref='idxstatuteofanne' class='endofrange'/>
 <para>
 Now, the thing to puzzle about for a moment is this: Why would
 Parliament limit the exclusive right? Not why would they limit it to
 the particular limit they set, but why would they limit the right
 <emphasis>at all?</emphasis>
 </para>
+<indexterm startref='idxbritishparliament' class='endofrange'/>
+<indexterm><primary>Shakespeare, William</primary></indexterm>
+<indexterm><primary>Romeo and Juliet (Shakespeare)</primary></indexterm>
 <para>
 For the booksellers, and the authors whom they represented, had a very
 strong claim. Take <citetitle>Romeo and Juliet</citetitle> as an example: That play
@@ -4856,6 +4877,7 @@ about the notion of <quote>copyright</quote> that existed at the time of the
 Statute of Anne. Second, we have to see something important about
 <quote>booksellers.</quote>
 </para>
+<indexterm><primary>copyright</primary><secondary>usage restrictions attached to</secondary></indexterm>
 <para>
 First, about copyright. In the last three hundred years, we have come
 to apply the concept of <quote>copyright</quote> ever more broadly. But in 1710, it
@@ -4872,6 +4894,7 @@ the author the exclusive right to copy, the exclusive right to
 distribute, the exclusive right to perform, and so on.
 </para>
 <indexterm><primary>Branagh, Kenneth</primary></indexterm>
+<indexterm><primary>Shakespeare, William</primary></indexterm>
 <para>
 So, for example, even if the copyright to Shakespeare's works were
 perpetual, all that would have meant under the original meaning of the
@@ -4883,6 +4906,7 @@ allowed to make his films. The <quote>copy-right</quote> was only an exclusive
 right to print&mdash;no less, of course, but also no more.
 </para>
 <indexterm><primary>Henry VIII, King of England</primary></indexterm>
+<indexterm id='idxmonopolycopyrightas' class='startofrange'><primary>monopoly, copyright as</primary></indexterm>
 <indexterm><primary>Statute of Monopolies (1656)</primary></indexterm>
 <para>
 Even that limited right was viewed with skepticism by the British.
@@ -4906,7 +4930,10 @@ have it forever.</quote>) The state would protect the exclusive right, but
 only so long as it benefited society. The British saw the harms from
 specialinterest favors; they passed a law to stop them.
 </para>
-<indexterm id='idxbooksellers' class='startofrange'><primary>booksellers, English</primary></indexterm>
+<indexterm><primary>Milton, John</primary></indexterm>
+<indexterm id='idxbooksellersenglish' class='startofrange'><primary>booksellers, English</primary></indexterm>
+<indexterm><primary>Conger</primary></indexterm>
+<indexterm id='idxcopyrightdurationof3' class='startofrange'><primary>copyright</primary><secondary>duration of</secondary></indexterm>
 <para>
 Second, about booksellers. It wasn't just that the copyright was a
 monopoly. It was also that it was a monopoly held by the booksellers.
@@ -4927,6 +4954,8 @@ Philip Wittenberg, <citetitle>The Protection and Marketing of Literary
 Property</citetitle> (New York: J. Messner, Inc., 1937), 31.
 </para></footnote>
 </para>
+<indexterm><primary>Enlightenment</primary></indexterm>
+<indexterm><primary>knowledge, freedom of</primary></indexterm>
 <para>
 Many believed the power the booksellers exercised over the spread of
 knowledge was harming that spread, just at the time the Enlightenment
@@ -4935,6 +4964,7 @@ generally. The idea that knowledge should be free was a hallmark of
 the time, and these powerful commercial interests were interfering
 with that idea.
 </para>
+<indexterm id='idxbritishparliament2' class='startofrange'><primary>British Parliament</primary></indexterm>
 <para>
 To balance this power, Parliament decided to increase competition
 among booksellers, and the simplest way to do that was to spread the
@@ -4947,6 +4977,9 @@ to fight the power of the booksellers. The limitation on terms was
 an indirect way to assure competition among publishers, and thus the
 construction and spread of culture.
 </para>
+<indexterm id='idxstatuteofanne2' class='startofrange'><primary>Statute of Anne (1710)
+</primary></indexterm>
+<indexterm id='idxcopyrightinperpetuity' class='startofrange'><primary>copyright</primary><secondary>in perpetuity</secondary></indexterm>
 <para>
 When 1731 (1710 + 21) came along, however, the booksellers were
 getting anxious. They saw the consequences of more competition, and
@@ -4982,6 +5015,11 @@ al., 8, <citetitle>Eldred</citetitle> v. <citetitle>Ashcroft</citetitle>, 537 U.
 </para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxstatuteofanne2' class='endofrange'/>
+<indexterm startref='idxcopyrightinperpetuity' class='endofrange'/>
+<indexterm><primary>common law</primary></indexterm>
+<indexterm><primary>law</primary><secondary>common vs. positive</secondary></indexterm>
+<indexterm><primary>positive law</primary></indexterm>
 <para>
 Having failed in Parliament, the publishers turned to the courts in a
 series of cases. Their argument was simple and direct: The Statute of
@@ -4997,7 +5035,10 @@ they had the right to ban the publication of a book, even if its
 Statute of Anne copyright had expired. This, they argued, was the only
 way to protect authors.
 </para>
+<indexterm startref='idxbritishparliament2' class='endofrange'/>
+<indexterm id='idxdonaldsonalexander' class='startofrange'><primary>Donaldson, Alexander</primary></indexterm>
 <indexterm><primary>Patterson, Raymond</primary></indexterm>
+<indexterm id='idxscottishpublishers' class='startofrange'><primary>Scottish publishers</primary></indexterm>
 <para>
 This was a clever argument, and one that had the support of some of
 the leading jurists of the day. It also displayed extraordinary
@@ -5065,6 +5106,8 @@ The London booksellers quickly brought suit to block <quote>piracy</quote> like
 Donaldson's. A number of actions were successful against the <quote>pirates,</quote>
 the most important early victory being <citetitle>Millar</citetitle> v. <citetitle>Taylor</citetitle>.
 </para>
+<indexterm startref='idxdonaldsonalexander' class='endofrange'/>
+<indexterm startref='idxscottishpublishers' class='endofrange'/>
 <indexterm><primary>Seasons, The (Thomson)</primary></indexterm>
 <indexterm><primary>Taylor, Robert</primary></indexterm>
 <para>
@@ -5126,6 +5169,8 @@ the House of Lords, which functioned much like our own Supreme
 Court. In February of 1774, that body had the chance to interpret the
 meaning of Parliament's limits from sixty years before.
 </para>
+<indexterm id='idxdonaldsonvbeckett' class='startofrange'><primary>Donaldson v. Beckett</primary></indexterm>
+<indexterm id='idxcommonlaw2' class='startofrange'><primary>common law</primary></indexterm>
 <para>
 As few legal cases ever do, <citetitle>Donaldson</citetitle> v. <citetitle>Beckett</citetitle> drew an
 enormous amount of attention throughout Britain. Donaldson's lawyers
@@ -5143,6 +5188,8 @@ members of special legal distinction who functioned much like the
 Justices in our Supreme Court. Then, after the law lords voted, the
 House of Lords generally voted.
 </para>
+<indexterm id='idxcopyrightinperpetuity3' class='startofrange'><primary>copyright</primary><secondary>in perpetuity</secondary></indexterm>
+<indexterm id='idxpublicdomainenglishlegalestablishmentof' class='startofrange'><primary>public domain</primary><secondary>English legal establishment of</secondary></indexterm>
 <para>
 The reports about the law lords' votes are mixed. On some counts,
 it looks as if perpetual copyright prevailed. But there is no ambiguity
@@ -5153,6 +5200,11 @@ Whatever one's understanding of the common law, now a copyright was
 fixed for a limited time, after which the work protected by copyright
 passed into the public domain.
 </para>
+<indexterm><primary>Bacon, Francis</primary></indexterm>
+<indexterm><primary>Bunyan, John</primary></indexterm>
+<indexterm><primary>Johnson, Samuel</primary></indexterm>
+<indexterm><primary>Milton, John</primary></indexterm>
+<indexterm><primary>Shakespeare, William</primary></indexterm>
 <para>
 <quote>The public domain.</quote> Before the case of <citetitle>Donaldson</citetitle>
 v. <citetitle>Beckett</citetitle>, there was no clear idea of a public domain in
@@ -5162,12 +5214,11 @@ born. For the first time in Anglo-American history, the legal control
 over creative works expired, and the greatest works in English
 history&mdash;including those of Shakespeare, Bacon, Milton, Johnson,
 and Bunyan&mdash;were free of legal restraint.
-<indexterm><primary>Bacon, Francis</primary></indexterm>
-<indexterm><primary>Bunyan, John</primary></indexterm>
-<indexterm><primary>Johnson, Samuel</primary></indexterm>
-<indexterm><primary>Milton, John</primary></indexterm>
-<indexterm><primary>Shakespeare, William</primary></indexterm>
 </para>
+<indexterm startref='idxcommonlaw2' class='endofrange'/>
+<indexterm startref='idxcopyrightinperpetuity3' class='endofrange'/>
+<indexterm startref='idxpublicdomainenglishlegalestablishmentof' class='endofrange'/>
+<indexterm><primary>Scottish publishers</primary></indexterm>
 <para>
 It is hard for us to imagine, but this decision by the House of Lords
 fueled an extraordinarily popular and political reaction. In Scotland,
@@ -5202,6 +5253,8 @@ Ibid.
 </para></footnote>
 </para>
 </blockquote>
+<indexterm><primary>House of Lords</primary></indexterm>
+<indexterm><primary>free culture</primary><secondary>English legal establishment of</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 105 -->
 <quote>Ruined</quote> is a bit of an exaggeration. But it is not an exaggeration to
@@ -5224,15 +5277,24 @@ context</emphasis>, not a context in which the choices about what
 culture is available to people and how they get access to it are made
 by the few despite the wishes of the many.
 </para>
-<indexterm startref='idxbooksellers' class='endofrange'/>
+<indexterm startref='idxbooksellersenglish' class='endofrange'/>
+<indexterm><primary>British Parliament</primary></indexterm>
 <para>
 At least, this was the rule in a world where the Parliament is
 antimonopoly, resistant to the protectionist pleas of publishers. In a
 world where the Parliament is more pliant, free culture would be less
 protected.
 </para>
-<indexterm startref='idxbritishparliament' class='endofrange'/>
 <indexterm startref='idxbooksenglishcopyrightlawdevelopedfor' class='endofrange'/>
+<indexterm startref='idxcopyrightlawdevelopmentof' class='endofrange'/>
+<indexterm startref='idxcopyrightlawenglish' class='endofrange'/>
+<indexterm startref='idxenglandcopyrightlawsdevelopedin' class='endofrange'/>
+<indexterm startref='idxunitedkingdomhistoryofcopyrightlawin' class='endofrange'/>
+<indexterm startref='idxcopyrightasnarrowmonopolyright' class='endofrange'/>
+<indexterm startref='idxmonopolycopyrightas' class='endofrange'/>
+<indexterm startref='idxbooksellersenglish' class='endofrange'/>
+<indexterm startref='idxcopyrightdurationof3' class='endofrange'/>
+<indexterm startref='idxdonaldsonvbeckett' class='endofrange'/>
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
