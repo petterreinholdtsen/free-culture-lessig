@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-05 20:08+0300\n"
+"POT-Creation-Date: 2012-09-06 08:16+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1986,7 +1986,7 @@ msgstr ""
 msgid "<quote>PIRACY</quote>"
 msgstr "<quote>Piratvirksomhet</quote>"
 
-#. type: Content of: <book><part><partintro><indexterm><secondary>
+#. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English"
 msgstr "Engelsk"
 
@@ -3280,7 +3280,7 @@ msgstr ""
 "Walt Disney-kreativitet anses som rimelig og riktig, selv om spesielt "
 "advokater synes det er vanskelig å forklare hvorfor."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Shakespeare, William"
 msgstr "Shakespeare, William"
 
@@ -8957,6 +8957,18 @@ msgid "English copyright law developed for"
 msgstr "Engelsk åndsverkslov utviklet for"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "England, copyright laws developed in"
+msgstr "England, åndsverkslov utviklet i"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "United Kingdom"
+msgstr "Storbritannia"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "history of copyright law in"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
 msgstr "Branagh, Kenneth"
 
@@ -9069,6 +9081,10 @@ msgstr ""
 msgid "British Parliament"
 msgstr "Britiske parlamentet, det"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "renewability of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Statute of Anne (1710)"
@@ -9109,6 +9125,14 @@ msgstr ""
 "falt i det fri i 1731. Hvordan kunne da Tonson fortsatt ha kontroll over "
 "verket i 1774?"
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "common vs. positive"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "positive law"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Licensing Act (1662)"
@@ -9134,6 +9158,10 @@ msgstr ""
 "ble publisert. Men etter at det har utløpt, var det ingen positiv lov som sa "
 "at utgiverne hadde en eksklusiv rett til å trykke bøker."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "common law"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "There was no <emphasis>positive</emphasis> law, but that didn't mean that "
@@ -9158,6 +9186,10 @@ msgstr ""
 "det virkelige spørsmålet etter lisensiering lover hadde utløpt om felles lov "
 "beskyttet opphavsretten, uavhengig av lovverket positiv."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Scottish publishers"
+msgstr ""
+
 #.  PAGE BREAK 98
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9176,6 +9208,10 @@ msgstr ""
 "Conger</quote>, som derfor krevde at parlamentet igjen skulle vedta en lov "
 "for å gi dem eksklusiv kontroll over publisering. Dette kravet resulterte i "
 "<quote>Statute of Anne</quote>."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "as narrow monopoly right"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9238,6 +9274,10 @@ msgstr ""
 "opphavsrett som fantes på tidspunktet da <quote>Statute of Anne</quote> ble "
 "vedtatt. Deretter må vi se på noe spesielt med bokhandlerne."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "usage restrictions attached to"
+msgstr "bruksbegrensninger knyttet til"
+
 #.  PAGE BREAK 99
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9289,6 +9329,10 @@ msgid "Henry VIII, King of England"
 msgstr "Henry VIII, Konge av England"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "monopoly, copyright as"
+msgstr "monopol, opphavsrett som"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
 msgid "Statute of Monopolies (1656)"
 msgstr "Rhuddlan monopoler (1656)"
@@ -9336,6 +9380,10 @@ msgstr ""
 "skape; de vedtok en lov for å stoppe dem."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Milton, John"
+msgstr "Milton, John"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "booksellers, English"
 msgstr "bokselgere, Engelske"
 
@@ -9372,6 +9420,14 @@ msgstr ""
 "<quote>menn som derfor ikke hadde  et ærlig arbeide hvor utdanning er "
 "nødvendig.</quote><placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Enlightenment"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "knowledge, freedom of"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Many believed the power the booksellers exercised over the spread of "
@@ -9406,6 +9462,10 @@ msgstr ""
 "periode på tjueen år et kompromiss for å bekjempe bokhandlernes makt. "
 "Begrensninger med dato var en indirekte måte å skape konkurranse mellom "
 "utgivere, og slik en skapelse og spredning av kultur."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "in perpetuity"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9488,6 +9548,10 @@ msgstr ""
 "de rett til å fordømme publiseringen av en bok, selv følgelig om "
 "<quote>Statute of Anne</quote> sa at de var falt i det fri. Dette, mente de, "
 "var den eneste måten å beskytte forfatterne."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Donaldson, Alexander"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Patterson, Raymond"
@@ -9748,6 +9812,10 @@ msgstr ""
 "dette organet muligheten til å tolke Parlamentets mening med utløpsdatoen "
 "fra seksti år før."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Donaldson v. Beckett"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "As few legal cases ever do, <citetitle>Donaldson</citetitle> v. "
@@ -9782,6 +9850,10 @@ msgstr ""
 "Høyesterett. Deretter, etter at <quote>juslordene</quote> hadde stemt, "
 "stemte resten av Overhuset."
 
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "English legal establishment of"
+msgstr ""
+
 #.  PAGE BREAK 104
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9800,21 +9872,17 @@ msgstr ""
 "hadde tolket sedvaneretten, var nå kopiretten begrenset til en periode, og "
 "etter denne ville verket falle i det fri."
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Bacon, Francis"
 msgstr "Bacon, Francis"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Bunyan, John"
 msgstr "Bunyan, John"
 
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Johnson, Samuel"
 msgstr "Johnson, Samuel"
-
-#. type: Content of: <book><part><chapter><para><indexterm><primary>
-msgid "Milton, John"
-msgstr "Milton, John"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9825,10 +9893,7 @@ msgid ""
 "born. For the first time in Anglo-American history, the legal control over "
 "creative works expired, and the greatest works in English history&mdash;"
 "including those of Shakespeare, Bacon, Milton, Johnson, and Bunyan&mdash;"
-"were free of legal restraint.  <placeholder type=\"indexterm\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" "
-"id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> <placeholder type="
-"\"indexterm\" id=\"4\"/>"
+"were free of legal restraint."
 msgstr ""
 "<quote>Å falle i det fri</quote>. Før rettssaken <citetitle>Donaldson</"
 "citetitle> mot <citetitle>Beckett</citetitle> var det ingen klar oppfatning "
@@ -9836,10 +9901,7 @@ msgstr ""
 "om at kopiretten var evigvarende. Men etter 1774 ble Public Domain født. For "
 "første gang i angloamerikansk historie var den lovlige beskyttelsen av et "
 "verk utgått, og de største verk i engelsk historie - inkludert Shakespeare, "
-"Bacon, Milton, Johnson og Bunyan - var frie.  <placeholder type=\"indexterm"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
-"<placeholder type=\"indexterm\" id=\"4\"/>"
+"Bacon, Milton, Johnson og Bunyan - var frie."
 
 #.  f13
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9894,6 +9956,10 @@ msgstr ""
 "og mange som gjennom mange år har opparbeidet kompetanse for å brødfø "
 "familien, sitter nå uten en shilling til sine.<placeholder type=\"footnote\" "
 "id=\"0\"/>"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "House of Lords"
+msgstr ""
 
 #.  PAGE BREAK 105
 #. type: Content of: <book><part><chapter><para>
@@ -13261,11 +13327,6 @@ msgstr ""
 "at opphavsretten for alle engelsk arbeider utløpt, en føderale vedtekter "
 "betydde at staten opphavsrettigheter utløpt også."
 
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "renewability of"
-msgstr "intangibility av"
-
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
 msgid ""
@@ -14171,10 +14232,6 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1551.png\"></graphic>"
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-msgid "usage restrictions attached to"
-msgstr "bruksbegrensninger knyttet til"
 
 #.  PAGE BREAK 154
 #. type: Content of: <book><part><chapter><section><para>
@@ -25188,10 +25245,6 @@ msgstr "Creative Commons"
 msgid "Gil, Gilberto"
 msgstr "Gil, Gilberto"
 
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "United Kingdom"
-msgstr "Storbritannia"
-
 #. type: Content of: <book><chapter><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "public creative archive in"
@@ -26554,15 +26607,14 @@ msgid ""
 "failure to mark&mdash;not the loss of the copyright, but the loss of the "
 "right to punish someone for failing to get permission first."
 msgstr ""
-"Et av problemene som opphavsrettssystemet konfronterte tidlig var at "
-"ulike opphavsrettsbeskyttede verker måtte markeres forskjellig.  Det "
-"var ikke klart hvordan og hvor en statue skulle merkes, eller en "
-"plate, eller en film.  Et nytt merkingskrav kan løse disse problemene "
-"ved å annerkjenne forskjellene i mediene, og ved å tillate "
-"merkings-systemet til å utvikle seg etter hvert som teknologien "
-"muliggjør det.  Systemet kan muliggjøre et spesielt signal når en ikke "
-"merker&mdash;ikke miste opphavsretten, men miste retten til å straffe "
-"noen for å ikke ha skaffet seg tillatelse først."
+"Et av problemene som opphavsrettssystemet konfronterte tidlig var at ulike "
+"opphavsrettsbeskyttede verker måtte markeres forskjellig.  Det var ikke "
+"klart hvordan og hvor en statue skulle merkes, eller en plate, eller en "
+"film.  Et nytt merkingskrav kan løse disse problemene ved å annerkjenne "
+"forskjellene i mediene, og ved å tillate merkings-systemet til å utvikle seg "
+"etter hvert som teknologien muliggjør det.  Systemet kan muliggjøre et "
+"spesielt signal når en ikke merker&mdash;ikke miste opphavsretten, men miste "
+"retten til å straffe noen for å ikke ha skaffet seg tillatelse først."
 
 #.  f2.
 #. type: Content of: <book><chapter><section><section><section><para><footnote><para>
@@ -26609,11 +26661,11 @@ msgid ""
 "that of approving standards for marking content that have been crafted "
 "elsewhere."
 msgstr ""
-"Dette i sin tur reiser spørsmålet om hvordan et verk best bør merkes. "
-"Her må systemet igjen justere seg etter hvert som teknologiene "
-"utvikler seg.  Den beste måten å sikre at systemet utvikler seg er å "
-"begrense opphavsrettskontorets rolle til å godkjenne standarder for å "
-"merke innhold som har vært utviklet av andre."
+"Dette i sin tur reiser spørsmålet om hvordan et verk best bør merkes. Her må "
+"systemet igjen justere seg etter hvert som teknologiene utvikler seg.  Den "
+"beste måten å sikre at systemet utvikler seg er å begrense "
+"opphavsrettskontorets rolle til å godkjenne standarder for å merke innhold "
+"som har vært utviklet av andre."
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
 msgid "copyright marking of"
@@ -26727,10 +26779,10 @@ msgid ""
 "term. But whether fourteen years or seventy-five, there are four principles "
 "that are important to keep in mind about copyright terms."
 msgstr ""
-"Jeg er enig med de som tror vi trenger en radikal endring i "
-"opphavsretten levetid.  Men hvorvidt den er fjorten år eller syttifem, "
-"så er det fire prinsipper som det er viktig å tenke på når det gjelder "
-"varighetenen til opphavsretten."
+"Jeg er enig med de som tror vi trenger en radikal endring i opphavsretten "
+"levetid.  Men hvorvidt den er fjorten år eller syttifem, så er det fire "
+"prinsipper som det er viktig å tenke på når det gjelder varighetenen til "
+"opphavsretten."
 
 #.  (1)
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
