@@ -27071,7 +27071,6 @@ msgstr ""
 "begrensning for seg."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis>Term:</emphasis> If Congress wants to grant a derivative right, "
 "then that right should be for a much shorter term. It makes sense to protect "
@@ -27081,13 +27080,15 @@ msgid ""
 "right could be important in inducing creativity; it is not important long "
 "after the creative work is done.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"begrepet: Hvis Kongressen vil gi et derivat rett, og at høyre skal være for "
-"en mye kortere sikt. Det er fornuftig å beskytte john grisham's rett til å "
-"selge film rettighetene til hans siste roman (eller minst er jeg villig til "
-"å påta seg det gjør); men det gjør ikke sans for det riktig å kjøre på samme "
-"ordet som underliggende opphavsretten. avledede høyre kan være viktig i "
-"inducing kreativitet; Det er ikke viktig lenge etter skapende arbeid er "
-"gjort."
+"<emphasis>Vernetid:</emphasis> Hvis kongressen ønsker å tildele "
+"avledede rettigheter, da bør den rettigheten ha mye kortere vernetid.. "
+"Det gir mening å beskytte John Grishams rett til å selge "
+"filmrettighetene til hans siste roman (eller i det minste er jeg "
+"villig til å anta at det gir mening), men det gir ikke mening at denne "
+"rettigheten skal vare like lenge som vernetiden til den underliggende "
+"opphavsretten.  Den avledede rettigheten kan være viktig for å bidra "
+"til kreativitet, men den er ikke viktig lenge etter at det kreative "
+"arbeidet er ferdig. <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><section><section><para>
 #, mtrans, fuzzy
