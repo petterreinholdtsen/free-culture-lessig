@@ -5314,13 +5314,17 @@ protected.
 <indexterm startref='idxunitedkingdomhistoryofcopyrightlawin' class='endofrange'/>
 <indexterm startref='idxcopyrightasnarrowmonopolyright' class='endofrange'/>
 <indexterm startref='idxmonopolycopyrightas' class='endofrange'/>
-<indexterm startref='idxbooksellersenglish' class='endofrange'/>
 <indexterm startref='idxcopyrightdurationof3' class='endofrange'/>
 <indexterm startref='idxdonaldsonvbeckett' class='endofrange'/>
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
 <title>CHAPTER SEVEN: Recorders</title>
+<indexterm id='idxcopyrightlawfairuseand' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
+<indexterm id='idxdocumentaryfilm' class='startofrange'><primary>documentary film</primary></indexterm>
+<indexterm id='idxelsejon' class='startofrange'><primary>Else, Jon</primary></indexterm>
+<indexterm id='idxfairuseindocumentaryfilm' class='startofrange'><primary>fair use</primary><secondary>in documentary film</secondary></indexterm>
+<indexterm id='idxfilmsfairuseofcopyrightedmaterialin' class='startofrange'><primary>films</primary><secondary>fair use of copyrighted material in</secondary></indexterm>
 <para>
 <emphasis role='strong'>Jon Else</emphasis> is a filmmaker. He is best
 known for his documentaries and has been very successful in spreading
@@ -5333,6 +5337,8 @@ Else worked on a documentary that I was involved in. At a break,
 he told me a story about the freedom to create with film in America
 today.
 </para>
+<indexterm id='idxwagnerrichard' class='startofrange'><primary>Wagner, Richard</primary></indexterm>
+<indexterm><primary>San Francisco Opera</primary></indexterm>
 <para>
 In 1990, Else was working on a documentary about Wagner's Ring
 Cycle. The focus was stagehands at the San Francisco Opera.
@@ -5340,8 +5346,8 @@ Stagehands are a particularly funny and colorful element of an opera.
 During a show, they hang out below the stage in the grips' lounge and
 in the lighting loft. They make a perfect contrast to the art on the
 stage.
-<indexterm><primary>San Francisco Opera</primary></indexterm>
 </para>
+<indexterm id='idxsimpsonsthe' class='startofrange'><primary>Simpsons, The</primary></indexterm>
 <para>
 During one of the performances, Else was shooting some stagehands
 playing checkers. In one corner of the room was a television set.
@@ -5351,6 +5357,8 @@ and the opera company played Wagner, was <citetitle>The Simpsons</citetitle>. As
 it, this touch of cartoon helped capture the flavor of what was special
 about the scene.
 </para>
+<indexterm startref='idxwagnerrichard' class='endofrange'/>
+<indexterm><primary>films</primary><secondary>multiple copyrights associated with</secondary></indexterm>
 <para>
 Years later, when he finally got funding to complete the film, Else
 attempted to clear the rights for those few seconds of <citetitle>The Simpsons</citetitle>.
@@ -5358,7 +5366,8 @@ For of course, those few seconds are copyrighted; and of course, to use
 copyrighted material you need the permission of the copyright owner,
 unless <quote>fair use</quote> or some other privilege applies.
 </para>
-<indexterm><primary>Gracie Films</primary></indexterm>
+<indexterm id='idxgraciefilms' class='startofrange'><primary>Gracie Films</primary></indexterm>
+<indexterm id='idxgroeningmatt' class='startofrange'><primary>Groening, Matt</primary></indexterm>
 <para>
 Else called <citetitle>Simpsons</citetitle> creator Matt Groening's office to get permission.
 Groening approved the shot. The shot was a four-and-a-halfsecond image
@@ -5366,7 +5375,7 @@ on a tiny television set in the corner of the room. How could it hurt?
 Groening was happy to have it in the film, but he told Else to contact
 Gracie Films, the company that produces the program.
 </para>
-<indexterm><primary>Gracie Films</primary></indexterm>
+<indexterm id='idxfoxfilmcompany' class='startofrange'><primary>Fox (film company)</primary></indexterm>
 <para>
 Gracie Films was okay with it, too, but they, like Groening, wanted
 to be careful. So they told Else to contact Fox, Gracie's parent company.
@@ -5374,6 +5383,7 @@ Else called Fox and told them about the clip in the corner of the one
 room shot of the film. Matt Groening had already given permission,
 Else said. He was just confirming the permission with Fox.
 </para>
+<indexterm startref='idxgraciefilms' class='endofrange'/>
 <para>
 Then, as Else told me, <quote>two things happened. First we discovered
 &hellip; that Matt Groening doesn't own his own creation&mdash;or at
@@ -5382,7 +5392,9 @@ And second, Fox <quote>wanted ten thousand dollars as a licensing fee for us
 to use this four-point-five seconds of &hellip; entirely unsolicited
 <citetitle>Simpsons</citetitle> which was in the corner of the shot.</quote>
 </para>
-<indexterm><primary>Herrera, Rebecca</primary></indexterm>
+<indexterm startref='idxgroeningmatt' class='endofrange'/>
+<indexterm startref='idxfoxfilmcompany' class='endofrange'/>
+<indexterm id='idxherrerarebecca' class='startofrange'><primary>Herrera, Rebecca</primary></indexterm>
 <para>
 Else was certain there was a mistake. He worked his way up to someone
 he thought was a vice president for licensing, Rebecca Herrera.  He
@@ -5391,6 +5403,7 @@ asking for your educational rate on this.</quote> That was the educational
 rate, Herrera told Else. A day or so later, Else called again to
 confirm what he had been told.
 </para>
+<indexterm><primary>Wagner, Richard</primary></indexterm>
 <para>
 <quote>I wanted to make sure I had my facts straight,</quote> he told me. <quote>Yes, you
 have your facts straight,</quote> she said. It would cost $10,000 to use the
@@ -5403,6 +5416,7 @@ if you quote me, I'll turn you over to our attorneys.</quote> As an assistant
 to Herrera told Else later on, <quote>They don't give a shit. They just want
 the money.</quote>
 </para>
+<indexterm startref='idxherrerarebecca' class='endofrange'/>
 <indexterm><primary>San Francisco Opera</primary></indexterm>
 <indexterm><primary>Day After Trinity, The</primary></indexterm>
 <para>
@@ -5413,6 +5427,8 @@ very last minute before the film was to be released, Else digitally
 replaced the shot with a clip from another film that he had worked on,
 <citetitle>The Day After Trinity</citetitle>, from ten years before.
 </para>
+<indexterm id='idxfoxfilmcompany2' class='startofrange'><primary>Fox (film company)</primary></indexterm>
+<indexterm id='idxgroeningmatt2' class='startofrange'><primary>Groening, Matt</primary></indexterm>
 <para>
 There's no doubt that someone, whether Matt Groening or Fox, owns the
 copyright to <citetitle>The Simpsons</citetitle>. That copyright is their property.  To use
@@ -5447,11 +5463,14 @@ Else's use of just 4.5 seconds of an indirect shot of a <citetitle>Simpsons</cit
 episode is clearly a fair use of <citetitle>The Simpsons</citetitle>&mdash;and fair use does
 not require the permission of anyone.
 </para>
+<indexterm startref='idxfoxfilmcompany2' class='endofrange'/>
+<indexterm startref='idxgroeningmatt2' class='endofrange'/>
 <para>
 <!-- PAGE BREAK 109 -->
 So I asked Else why he didn't just rely upon <quote>fair use.</quote> Here's his reply:
 </para>
 <blockquote>
+<indexterm id='idxfairuselegalintimidationtacticsagainst' class='startofrange'><primary>fair use</primary><secondary>legal intimidation tactics against</secondary></indexterm>
 <para>
 The <citetitle>Simpsons</citetitle> fiasco was for me a great lesson in the gulf between what
 lawyers find irrelevant in some abstract sense, and what is crushingly
@@ -5461,7 +5480,9 @@ fair use</quote> in an absolute legal sense. But I couldn't rely on the
 concept in any concrete way. Here's why:
 </para>
 <orderedlist numeration="arabic">
-<listitem><para>
+<listitem>
+<indexterm><primary>Errors and Omissions insurance</primary></indexterm>
+<para>
 <!-- 1. -->
 Before our films can be broadcast, the network requires that we buy
 Errors and Omissions insurance. The carriers require a detailed
@@ -5470,8 +5491,10 @@ shot in the film. They take a dim view of <quote>fair use,</quote> and a claim o
 <quote>fair use</quote> can grind the application process to a halt.
 </para></listitem>
 <listitem>
-<indexterm><primary><citetitle>Star Wars</citetitle></primary></indexterm>
+<indexterm id='idxfoxfilmcompany3' class='startofrange'><primary>Fox (film company)</primary></indexterm>
+<indexterm><primary>Groening, Matt</primary></indexterm>
 <indexterm><primary>Lucas, George</primary></indexterm>
+<indexterm><primary><citetitle>Star Wars</citetitle></primary></indexterm>
 <para>
 <!-- 2. -->
 I probably never should have asked Matt Groening in the first
@@ -5493,7 +5516,9 @@ life,</quote> regardless of the merits of my claim. He made clear that it
 would boil down to who had the bigger legal department and the deeper
 pockets, me or them.
 <!-- PAGE BREAK 110 -->
-</para></listitem>
+</para>
+<indexterm startref='idxfoxfilmcompany3' class='endofrange'/>
+</listitem>
 <listitem><para>
 <!-- 4. -->
 The question of fair use usually comes up at the end of the
@@ -5502,6 +5527,7 @@ money.
 </para></listitem>
 </orderedlist>
 </blockquote>
+<indexterm startref='idxsimpsonsthe' class='endofrange'/>
 <para>
 In theory, fair use means you need no permission. The theory therefore
 supports free culture and insulates against a permission culture.  But
@@ -5517,6 +5543,12 @@ publishers' profits against the unfair competition of a pirate. It has
 matured into a sword that interferes with any use, transformative or
 not.
 </para>
+<indexterm startref='idxcopyrightlawfairuseand' class='endofrange'/>
+<indexterm startref='idxdocumentaryfilm' class='endofrange'/>
+<indexterm startref='idxelsejon' class='endofrange'/>
+<indexterm startref='idxfairuseindocumentaryfilm' class='endofrange'/>
+<indexterm startref='idxfilmsfairuseofcopyrightedmaterialin' class='endofrange'/>
+<indexterm startref='idxfairuselegalintimidationtacticsagainst' class='endofrange'/>
 <!-- PAGE BREAK 111 -->
 </chapter>
 <chapter label="8" id="transformers">

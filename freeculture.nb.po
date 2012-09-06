@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-06 09:44+0300\n"
+"POT-Creation-Date: 2012-09-06 12:36+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -10023,6 +10023,30 @@ msgstr ""
 msgid "CHAPTER SEVEN: Recorders"
 msgstr "Kapittel sju: Innspillerne"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "fair use and"
+msgstr "rimelig bruk og"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "documentary film"
+msgstr "dokumentarfilm"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Else, Jon"
+msgstr "Else, Jon"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "fair use"
+msgstr "rimelig bruk"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "in documentary film"
+msgstr "i dokumentarfilm"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "fair use of copyrighted material in"
+msgstr "rimelig bruk av opphavsrettsbeskyttet materiale i"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "<emphasis role='strong'>Jon Else</emphasis> is a filmmaker. He is best known "
@@ -10046,6 +10070,10 @@ msgstr ""
 "så fortalte han meg om hvordan det kunne være å skape film i dagens Amerika."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Wagner, Richard"
+msgstr "Wagner, Richard"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "San Francisco Opera"
 msgstr "San Francisco Opera"
 
@@ -10055,14 +10083,17 @@ msgid ""
 "focus was stagehands at the San Francisco Opera.  Stagehands are a "
 "particularly funny and colorful element of an opera.  During a show, they "
 "hang out below the stage in the grips' lounge and in the lighting loft. They "
-"make a perfect contrast to the art on the stage.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"make a perfect contrast to the art on the stage."
 msgstr ""
 "I 1990 arbeidet Else med en dokumentar om Wagners Ring Cycle. Fokuset var på "
 "*stagehands* på San Francisco Opera. Stagehands er spesielt morsomt og "
 "fargerikt innslag i en opera. I løpet av forestillingen oppholder de seg "
 "blant publikum og på lysloftet. De er en perfekt kontrast til kunsten på "
-"scenen.<placeholder type=\"indexterm\" id=\"0\"/>"
+"scenen."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Simpsons, The"
+msgstr "Simpsons, The"
 
 #.  PAGE BREAK 107
 #. type: Content of: <book><part><chapter><para>
@@ -10079,6 +10110,10 @@ msgstr ""
 "forestillingen pågikk og operakompaniet spilte Wagner, gikk <citetitle>The "
 "Simpsons</citetitle>. Slik Else så det, så hjalp dette tegnefilm-innslaget "
 "med å fange det spesielle med scenen."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "multiple copyrights associated with"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10100,6 +10135,10 @@ msgstr ""
 msgid "Gracie Films"
 msgstr "Gracie Films"
 
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+msgid "Groening, Matt"
+msgstr "Groening, Matt"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Else called <citetitle>Simpsons</citetitle> creator Matt Groening's office "
@@ -10113,6 +10152,10 @@ msgstr ""
 "fire og et halvt sekund på et lite fjernsyn, bakerst i et hjørne av rommet. "
 "Hvordan kunne det skade? Groening var glad for å få ha det med i filmen, men "
 "han ba Else om å kontakte Gracie Films, firmaet som produserer programmet."
+
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+msgid "Fox (film company)"
+msgstr "Fox (filmselskap)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10280,6 +10323,10 @@ msgstr ""
 "Så jeg spurte Else om hvorfor han ikke bare stolte på <quote>fair use</"
 "quote>. Og her er hans svar:"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "legal intimidation tactics against"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
 "The <citetitle>Simpsons</citetitle> fiasco was for me a great lesson in the "
@@ -10295,6 +10342,10 @@ msgstr ""
 "kringkaste dokumentarer. Jeg tvilte aldri på at dette helt klart var "
 "<quote>rimelig bruk</quote>, men jeg kunne ikke stole på konseptet på noen "
 "konkret måte. Og dette er grunnen:"
+
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+msgid "Errors and Omissions insurance"
+msgstr ""
 
 #.  1.
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
@@ -10312,12 +10363,12 @@ msgstr ""
 "at noe er nettopp det kan forsinke, og i verste fall stoppe, prosessen."
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
-msgid "<citetitle>Star Wars</citetitle>"
-msgstr "<citetitle>Star Wars</citetitle>"
-
-#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
 msgid "Lucas, George"
 msgstr "Lucas, George"
+
+#. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+msgid "<citetitle>Star Wars</citetitle>"
+msgstr "<citetitle>Star Wars</citetitle>"
 
 #.  2.
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
@@ -14171,14 +14222,6 @@ msgstr ""
 "paradigmatic bruk riktig regulert av opphavsrett regulering (se første "
 "diagrammet på neste side)."
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "fair use"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-msgid "fair use and"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Finally, there is a tiny sliver of otherwise regulated copying uses that "
@@ -14499,11 +14542,6 @@ msgstr ""
 "butikker samme muligheten til å aktivere \"surfing.\" akkurat som i en "
 "bokhandel du kan lese noen få sider av en bok før du kjøper boken, så, du "
 "vil også kunne smake litt fra filmen on-line før du kjøpte den."
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
-msgid "legal intimidation tactics against"
-msgstr "trusler taktikk av"
 
 #.  PAGE BREAK 157
 #. type: Content of: <book><part><chapter><section><para>
