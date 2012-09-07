@@ -5427,12 +5427,11 @@ msgstr "mot student-fildeling"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "recording industry"
-msgstr "innspillingsindustrien"
+msgstr "plateindustrien"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "copyright infringement lawsuits of"
-msgstr "krenkelse av opphavsrett søksmål"
+msgstr "søksmål om opphavsrettbrudd fra"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
@@ -5504,9 +5503,8 @@ msgid "statutory damages"
 msgstr "lovbestemte skader"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "intimidation tactics of"
-msgstr "trusler taktikk av"
+msgstr "skremselstaktikker til"
 
 #.  PAGE BREAK 64
 #. type: Content of: <book><part><chapter><para>
