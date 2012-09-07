@@ -27554,9 +27554,9 @@ msgstr ""
 "utgaver av musikken tilgjengelig for salg, så ville kommersielle og "
 "ikke-kommersielle tilbydere stå fritt, under denne regelen, til å "
 "<quote>dele</quote> det innholdet, selv om delingen involverte å lage "
-"en kopi.  Kopien her ville være *incidential* for handelen.  I en "
-"sammenheng der kommersiell publisering er avsluttet, så burde friheten "
-"til å handle med musikk være lik den som gjelder for bøker."
+"en kopi.  Kopien her ville være teknisk detalj for å for gjennomføre "
+"handelen.  I en sammenheng der kommersiell publisering er avsluttet, så "
+"burde friheten til å handle med musikk være lik den som gjelder for bøker."
 
 #.  PAGE BREAK 305
 #. type: Content of: <book><chapter><section><section><para>
