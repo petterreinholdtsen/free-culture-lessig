@@ -27228,7 +27228,6 @@ msgstr ""
 "nettverket."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The aim of copyright, with respect to content in general and music in "
 "particular, is to create the incentives for music to be composed, performed, "
@@ -27236,14 +27235,13 @@ msgid ""
 "right to a composer to control public performances of his work, and to a "
 "performing artist to control copies of her performance."
 msgstr ""
-"Målet med opphavsrett, med hensyn til innhold Generelt og musikk er spesielt "
-"å skape insentiver for musikk komponert, utført, og, viktigst, spre. loven "
-"gjør dette ved å gi en eksklusiv rett til en komponisten å kontrollere "
-"offentlig fremføring av sitt arbeid, og til en profesjonell artist å "
-"kontrollere kopier av hennes ytelse."
+"Målet med opphavsrett, både generelt og for musikk spesielt, er å "
+"skape insentiver for å komponere, fremføre og aller viktigst, spre, "
+"musikk.  Loven gjør dette ved å gi en eksklusiv rett til en komponist "
+"til å kontrollere offentlige fremføringer av sitt verk, og til en "
+"utøvende artist til å kontrollere kopier av sine fremføringer."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "File-sharing networks complicate this model by enabling the spread of "
 "content for which the performer has not been paid. But of course, that's not "
@@ -27251,10 +27249,11 @@ msgid ""
 "\"select: labelnumber\" linkend=\"piracy\"/>, they enable four different "
 "kinds of sharing:"
 msgstr ""
-"fildeling nettverk komplisere denne modellen ved å aktivere spredning av "
-"innhold som utøveren ikke er blitt betalt. men selvfølgelig, det er ikke "
-"alle fildeling nettverk gjør. som jeg beskrevet i kapittel 5, aktivere de "
-"fire forskjellige typer deling:"
+"Fildelingsnettverk kompliserer denne modellen ved å gjøre det mulig a "
+"spre innhold uten at utøveren har fått betalt.  Men dette er "
+"naturligvis ikke alt et fildelingsnettverk gjør.  Som jeg beskrev i "
+"kapittel <xref xrefstyle=\"select: labelnumber\" linkend=\"piracy\"/>, "
+"så muliggjør de fire ulike former for deling:"
 
 #.  A.
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><para>
@@ -27297,7 +27296,6 @@ msgstr ""
 "opphavsrettsinnehaveren åpenbart går god for."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Any reform of the law needs to keep these different uses in focus. It must "
 "avoid burdening type D even if it aims to eliminate type A. The eagerness "
@@ -27305,6 +27303,13 @@ msgid ""
 "the magnitude of type B. As with VCRs, if the net effect of sharing is "
 "actually not very harmful, the need for regulation is significantly weakened."
 msgstr ""
+"Enhver reform av loven må ha disse ulike bruksområdene i fokus.  Den "
+"må unngå å belaste type-D-deling selv om den tar sikte på å fjerne "
+"type A.  Hvor ivrig loven søker å fjerne type-A-deling bør videre være "
+"avhengig av størrelsen på type-B-deling.  Som med videospillere, hvis "
+"nettoeffekten av deling ikke er spesielt skadelig, så er behovet for "
+"regulering betydelig svekket."
+
 "noen reform av loven behov for å holde disse ulike bruksområder i fokus. den "
 "må unngå bebyrde type d selv om formålet er å eliminere type a. den iver "
 "etter med som loven sikte på å eliminere type a, videre bør avhenger "
@@ -27312,7 +27317,6 @@ msgstr ""
 "er faktisk ikke svært skadelige, behovet for regulering er betydelig svekket."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "As I said in chapter <xref xrefstyle=\"select: labelnumber\" linkend=\"piracy"
 "\"/>, the actual harm caused by sharing is controversial.  For the purposes "
@@ -27320,10 +27324,11 @@ msgid ""
 "words, that type A sharing is significantly greater than type B, and is the "
 "dominant use of sharing networks."
 msgstr ""
-"som jeg sa i kapittel 5, er den faktiske skaden forårsaket av deling "
-"kontroversielt. i hensikt av dette kapitlet, men antar jeg skaden er reell. "
-"Jeg antar, med andre ord, denne typen en deling er betydelig større enn type "
-"b, og er dominerende bruk av deling av nettverk."
+"Som jeg sa i kapittel <xref xrefstyle=\"select: labelnumber\" "
+"linkend=\"piracy\"/>, er det kontroversielt om delingen forårsaker "
+"skade.  Men i dette kapittelen vil jeg anta at skaden er reell.  Jeg "
+"antar, med andre ord, at type-A-deling er betydelig større enn type-B, "
+"og er den dominerende bruken av delingsnettverk."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
