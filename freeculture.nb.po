@@ -5418,12 +5418,10 @@ msgstr ""
 "var nøyaktig hva han var ment å gjøre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "in recording industry"
-msgstr "i innspillingen industri"
+msgstr "i plateindustri"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "against student file sharing"
 msgstr "mot student-fildeling"
 
