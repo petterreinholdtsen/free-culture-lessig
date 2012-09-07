@@ -3249,6 +3249,10 @@ To Amend and Consolidate the Acts Respecting Copyright, 23
 <indexterm><primary>American Graphophone Company</primary></indexterm>
 <indexterm><primary>player pianos</primary></indexterm>
 <indexterm><primary>sheet music</primary></indexterm>
+<indexterm id='idxcongressusoncopyrightlaws' class='startofrange'><primary>Congress, U.S.</primary><secondary>on copyright laws</secondary></indexterm>
+<indexterm id='idxcongressusonrecordingindustry' class='startofrange'><primary>Congress, U.S.</primary><secondary>on recording industry</secondary></indexterm>
+<indexterm id='idxcopyrightlawstatutorylicensesin' class='startofrange'><primary>copyright law</primary><secondary>statutory licenses in</secondary></indexterm>
+<indexterm id='idxrecordingindustrystatutorylicensesystemin' class='startofrange'><primary>recording industry</primary><secondary>statutory license system in</secondary></indexterm>
 <para>
 These arguments have familiar echoes in the wars of our day. So, too,
 do the arguments on the other side. The innovators who developed the
@@ -3274,6 +3278,7 @@ memorandum of Philip Mauro, general patent counsel of the American
 Graphophone Company Association).
 </para></footnote>
 </para>
+<indexterm><primary>cover songs</primary></indexterm>
 <para>
 The law soon resolved this battle in favor of the composer
 <emphasis>and</emphasis> the recording artist. Congress amended the
@@ -3289,6 +3294,8 @@ copyright law that makes cover songs possible. Once a composer
 authorizes a recording of his song, others are free to record the same
 song, so long as they pay the original composer a fee set by the law.
 </para>
+<indexterm id='idxcompulsorylicense' class='startofrange'><primary>compulsory license</primary></indexterm>
+<indexterm id='idxstatutorylicenses' class='startofrange'><primary>statutory licenses</primary></indexterm>
 <para>
 American law ordinarily calls this a <quote>compulsory license,</quote> but I will
 refer to it as a <quote>statutory license.</quote> A statutory license is a license
@@ -3297,7 +3304,7 @@ Copyright Act in 1909, record companies were free to distribute copies
 of recordings so long as they paid the composer (or copyright holder)
 the fee set by the statute.
 </para>
-<indexterm><primary>Grisham, John</primary></indexterm>
+<indexterm id='idxgrishamjohn' class='startofrange'><primary>Grisham, John</primary></indexterm>
 <para>
 This is an exception within the law of copyright. When John Grisham
 writes a novel, a publisher is free to publish that novel only if
@@ -3308,6 +3315,7 @@ have no permission to use Grisham's work except with permission of
 Grisham.
 </para>
 <indexterm startref='idxcopyrightlawonmusicrecordings' class='endofrange'/>
+<indexterm><primary>Beatles</primary></indexterm>
 <para>
 But the law governing recordings gives recording artists less. And
 thus, in effect, the law <emphasis>subsidizes</emphasis> the recording
@@ -3329,8 +3337,10 @@ sess., 217 (1908) (statement of Senator Reed Smoot, chairman), reprinted
 in <citetitle>Legislative History of the 1909 Copyright Act</citetitle>, E. Fulton Brylawski and
 Abe Goldman, eds. (South Hackensack, N.J.: Rothman Reprints, 1976).
 </para></footnote>
-<indexterm><primary>Beatles</primary></indexterm>
 </para>
+<indexterm startref='idxcongressusoncopyrightlaws' class='endofrange'/>
+<indexterm startref='idxcongressusonrecordingindustry' class='endofrange'/>
+<indexterm startref='idxgrishamjohn' class='endofrange'/>
 <para>
 While the recording industry has been quite coy about this recently,
 historically it has been quite a supporter of the statutory license for
@@ -3360,6 +3370,10 @@ March 1967). I am grateful to Glenn Brown for drawing my attention to
 this report.</para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxcopyrightlawstatutorylicensesin' class='endofrange'/>
+<indexterm startref='idxrecordingindustrystatutorylicensesystemin' class='endofrange'/>
+<indexterm startref='idxcompulsorylicense' class='endofrange'/>
+<indexterm startref='idxstatutorylicenses' class='endofrange'/>
 <para>
 By limiting the rights musicians have, by partially pirating their
 creative work, the record producers, and the public, benefit.
@@ -3367,7 +3381,8 @@ creative work, the record producers, and the public, benefit.
 </section>
 <section id="radio">
 <title>Radio</title>
-<indexterm id='idxartistspayments1' class='startofrange'><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
+<indexterm id='idxrecordingindustryradiobroadcastand' class='startofrange'><primary>recording industry</primary><secondary>radio broadcast and</secondary></indexterm>
+<indexterm id='idxartistsrecordingindustrypaymentsto' class='startofrange'><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <para>
 Radio was also born of piracy.
 </para>
@@ -3431,6 +3446,7 @@ the sale of her CDs. The public performance of her recording is not a
 <emphasis>pirate</emphasis> the value of Madonna's work without paying
 her anything.
 </para>
+<indexterm startref='idxartistsrecordingindustrypaymentsto' class='endofrange'/>
 <indexterm startref='idxmadonna' class='endofrange'/>
 <para>
 No doubt, one might argue that, on balance, the recording artists
@@ -3440,7 +3456,7 @@ ordinarily gives the creator the right to make this choice. By making
 the choice for him or her, the law gives the radio station the right
 to take something for nothing.
 </para>
-<indexterm startref='idxartistspayments1' class='endofrange'/>
+<indexterm startref='idxrecordingindustryradiobroadcastand' class='endofrange'/>
 </section>
 <section id="cabletv">
 <title>Cable TV</title>
