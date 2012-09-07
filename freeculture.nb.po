@@ -25457,7 +25457,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "initial free character of"
-msgstr ""
+msgstr "opprinnelige frie egenskaper ved"
 
 #.  PAGE BREAK 282
 #. type: Content of: <book><chapter><section><para>
@@ -25597,7 +25597,7 @@ msgstr "informasjonskapsler, internett"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "privacy protection on"
-msgstr ""
+msgstr "personvernbeskyttelse på"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25741,7 +25741,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "proprietary code"
-msgstr ""
+msgstr "proprietær kode"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27210,7 +27210,6 @@ msgstr ""
 "musikk."
 
 #. type: Content of: <book><chapter><section><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The appeal of file-sharing music was the crack cocaine of the Internet's "
 "growth. It drove demand for access to the Internet more powerfully than any "
@@ -27219,13 +27218,13 @@ msgid ""
 "for bandwidth. It may well be the application that drives demand for "
 "regulations that in the end kill innovation on the network."
 msgstr ""
-"Anken av fildelings-musikken var crack-kokain av internetts vekst. den "
-"kjørte behov for tilgang til Internett mer kraftfullt enn andre enkelt "
-"program. Det var Internetts killer app&mdash;muligens i to sanser i "
-"beskrivelsen av ordet. Det var ingen tvil om programmet som kjørte "
-"etterspørselen etter båndbredde. Det kan godt være programmet som driver "
-"etterspørselen etter forskrifter som til slutt drepe innovasjon på "
-"nettverket."
+"Appellen til fildeling var dopet for veksten til internettet.  Det "
+"drev behovet for tilgang til internettet kraftigere enn noe annet "
+"enkeltbruksområde.  Det var internettets <quote>killer "
+"app</quote>&mdash;kanskje i to betydninger av ordet.  Det var uten "
+"tvil det bruksområdet som drev etterspørselen etter båndbredde.  Det "
+"kan godt endte opp med å være bruksområdet som driver igjennom krav om "
+"reguleringer som til slutt dreper nyskapning pa nettet."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
