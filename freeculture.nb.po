@@ -23158,7 +23158,6 @@ msgstr ""
 "datamaskinen og skrev en kronikk."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It was an act of contrition. During the whole of the flight from San "
 "Francisco to Washington, I had heard over and over again in my head the same "
@@ -23169,14 +23168,14 @@ msgid ""
 "so, having failed in the argument of constitutional principle, finally, I "
 "turned to an argument of politics."
 msgstr ""
-"Det var en handling av contrition. under hele flyturen fra san francisco til "
-"washington, jeg hadde hørt om og om igjen i hodet mitt samme råd fra don "
-"ayer: du trenger å gjøre dem se hvorfor det er viktig. og alternerende med "
-"den samme kommandoen ble spørsmålet om rettferdighet kennedy: \"for alle "
-"disse år loven har hindret fremgang i vitenskap og nyttig kunst. Jeg ser "
-"ikke noen empiriske bevis for som.\", og så å ha mislyktes i argument av "
-"konstitusjonelle prinsippet, til slutt, jeg slått til et argument av "
-"politikk."
+"Det var en botsøvelse.  Gjennom hele flyturen fra San Francisco til "
+"Washington hadde jeg i mitt indre øre hørt om og om igjen det samme "
+"rådet fra Don Ayer: Du må få dem til å forstå hvorfor det er viktig. "
+"Og innimellom dette rådet var spørsmålet fra dommer Kennedy: <quote>I "
+"alle disse årene som loven har hemmet fremgang i vitenskap og nyttige "
+"kunstarter, så ser jeg intet empirisk bevis for dette.</quote> Og "
+"dermed, etter å ha feilet i å argumentere med konstituelle prinsipper, "
+"forsøkte jeg til slutt meg med å argumentere politisk."
 
 #.  PAGE BREAK 256
 #. type: Content of: <book><part><chapter><para>
