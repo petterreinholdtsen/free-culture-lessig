@@ -9166,7 +9166,6 @@ msgstr ""
 "at utgiverne hadde en eksklusiv rett til å trykke bøker."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "common law"
 msgstr "sedvanerett"
 
@@ -9195,9 +9194,8 @@ msgstr ""
 "beskyttet opphavsretten, uavhengig av lovverket positiv."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Scottish publishers"
-msgstr "skotske utgivere"
+msgstr "Skotske utgivere"
 
 #.  PAGE BREAK 98
 #. type: Content of: <book><part><chapter><para>
@@ -9219,9 +9217,8 @@ msgstr ""
 "<quote>Statute of Anne</quote>."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "as narrow monopoly right"
-msgstr "som smale monopol høyre"
+msgstr "som smal monopolrett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9476,9 +9473,8 @@ msgstr ""
 "utgivere, og slik en skapelse og spredning av kultur."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "in perpetuity"
-msgstr "i perpetuity"
+msgstr "for evig"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9695,9 +9691,8 @@ msgstr ""
 "Anne</quote>, var falt i det fri."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Millar v. Taylor"
-msgstr "Millar v. taylor"
+msgstr "Millar mot taylor"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9809,14 +9804,12 @@ msgid "Beckett, Thomas"
 msgstr "Beckett, Thomas"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "House of Lords"
-msgstr "House of lords"
+msgstr "Overhuset, det britiske"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "House of Lords vs."
-msgstr "House of lords vs."
+msgstr "Overhuset, det britiske mot"
 
 #.  f12
 #. type: Content of: <book><part><chapter><para><footnote><para>
