@@ -25604,7 +25604,6 @@ msgid "restoration efforts on previous aspects of"
 msgstr "restaurering innsats på forrige aspekter av"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "privacy rights"
 msgstr "personvernrettigheter"
 
@@ -25695,9 +25694,8 @@ msgstr ""
 "friksjonen."
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "privacy rights in use of"
-msgstr "personvernet i bruk av"
+msgstr "personvernrettigheter i bruk av"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
