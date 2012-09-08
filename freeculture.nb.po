@@ -23180,7 +23180,6 @@ msgstr ""
 
 #.  PAGE BREAK 256
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>The New York Times</citetitle> published the piece. In it, I "
 "proposed a simple fix: Fifty years after a work has been published, the "
@@ -23188,22 +23187,23 @@ msgid ""
 "If he paid the fee, he got the benefit of the full term of copyright. If he "
 "did not, the work passed into the public domain."
 msgstr ""
-"new york times publisert arb. i den, jeg foreslått en enkel Fiks: femti år "
-"etter at et arbeid er publisert, eieren av opphavsretten ville være "
-"nødvendig å registrere arbeidet og betale en liten avgift. Hvis han betalt "
-"gebyret, fikk han fordelen med full sikt av opphavsrett. Hvis han ikke "
-"gjorde bestått arbeidet i public domain."
+"<citetitle>New York Times</citetitle> publiserte stykket.  I det "
+"foreslo jeg en enkel fiks: Femti år etter at et verk har blitt "
+"publisert, bør opphavsrettseieren være nødt til å registrere verket og "
+"betale en liten avgift.  Hvis han betalte avgiften fikk han fordelene "
+"av hele vernetiden for opphavstiden.  Hvis ha ikke gjorde det, falt "
+"verket i det fri."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We called this the Eldred Act, but that was just to give it a name.  Eric "
 "Eldred was kind enough to let his name be used once again, but as he said "
 "early on, it won't get passed unless it has another name."
 msgstr ""
-"Vi kalte denne loven eldred, men det var bare for å gi det et navn. Eric "
-"eldred var slag nok å la hans navn brukes igjen, men som han sa tidlig, det "
-"vil ikke få gått med mindre det er et annet navn."
+"Vi kalte dette Eldred-loven, men det var kun for å gi det et navn. "
+"Eric Eldred var snill nok til å la sitt navn brukes nok en gang, men "
+"han sa tidig at den ikke ville bli vedtatt med mindre den fikk et "
+"annet navn."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
