@@ -6199,8 +6199,9 @@ msgstr ""
 "id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "cover songs"
-msgstr ""
+msgstr "coverversjoner"
 
 #.  PAGE BREAK 70
 #. type: Content of: <book><part><chapter><section><para>
@@ -8969,8 +8970,9 @@ msgid "United Kingdom"
 msgstr "Storbritannia"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "history of copyright law in"
-msgstr ""
+msgstr "historie om opphavsrett i"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
@@ -9084,8 +9086,9 @@ msgid "British Parliament"
 msgstr "Britiske parlamentet, det"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "renewability of"
-msgstr ""
+msgstr "fornyelsesevne av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
@@ -9128,12 +9131,14 @@ msgstr ""
 "verket i 1774?"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "common vs. positive"
-msgstr ""
+msgstr "felles vs. positive"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "positive law"
-msgstr ""
+msgstr "positiv lov"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -9161,8 +9166,9 @@ msgstr ""
 "at utgiverne hadde en eksklusiv rett til å trykke bøker."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "common law"
-msgstr ""
+msgstr "sedvanerett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9189,8 +9195,9 @@ msgstr ""
 "beskyttet opphavsretten, uavhengig av lovverket positiv."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Scottish publishers"
-msgstr ""
+msgstr "skotske utgivere"
 
 #.  PAGE BREAK 98
 #. type: Content of: <book><part><chapter><para>
@@ -9212,8 +9219,9 @@ msgstr ""
 "<quote>Statute of Anne</quote>."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "as narrow monopoly right"
-msgstr ""
+msgstr "som smale monopol høyre"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9335,8 +9343,9 @@ msgid "monopoly, copyright as"
 msgstr "monopol, opphavsrett som"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Statute of Monopolies (1656)"
-msgstr ""
+msgstr "Rhuddlan monopoler (1656)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9422,12 +9431,14 @@ msgstr ""
 "nødvendig.</quote><placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Enlightenment"
-msgstr ""
+msgstr "opplysning"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "knowledge, freedom of"
-msgstr ""
+msgstr "kunnskap, frihet"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9465,8 +9476,9 @@ msgstr ""
 "utgivere, og slik en skapelse og spredning av kultur."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "in perpetuity"
-msgstr ""
+msgstr "i perpetuity"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9683,8 +9695,9 @@ msgstr ""
 "Anne</quote>, var falt i det fri."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Millar v. Taylor"
-msgstr ""
+msgstr "Millar v. taylor"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9796,12 +9809,14 @@ msgid "Beckett, Thomas"
 msgstr "Beckett, Thomas"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "House of Lords"
-msgstr ""
+msgstr "House of lords"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "House of Lords vs."
-msgstr ""
+msgstr "House of lords vs."
 
 #.  f12
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9830,8 +9845,9 @@ msgstr ""
 "fra seksti år før."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Donaldson v. Beckett"
-msgstr ""
+msgstr "Donaldson v. beckett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9868,8 +9884,9 @@ msgstr ""
 "stemte resten av Overhuset."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "English legal establishment of"
-msgstr ""
+msgstr "engelsk juridisk etableringen av"
 
 #.  PAGE BREAK 104
 #. type: Content of: <book><part><chapter><para>
@@ -10116,8 +10133,9 @@ msgstr ""
 "med å fange det spesielle med scenen."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "multiple copyrights associated with"
-msgstr ""
+msgstr "flere opphavsrettigheter knyttet"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10328,8 +10346,9 @@ msgstr ""
 "quote>. Og her er hans svar:"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "legal intimidation tactics against"
-msgstr ""
+msgstr "juridiske trusler taktikk mot"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -10348,8 +10367,9 @@ msgstr ""
 "konkret måte. Og dette er grunnen:"
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Errors and Omissions insurance"
-msgstr ""
+msgstr "feil og utelatelser forsikring"
 
 #.  1.
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
@@ -11072,7 +11092,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
-"Spielberg is right. Film sampling by Myers will be briljant. But if you "
+"Spielberg is right. Film sampling by Myers will be brilliant. But if you "
 "don't think about it, you might miss the truly astonishing point about this "
 "announcement. As the vast majority of our film heritage remains under "
 "copyright, the real meaning of the DreamWorks announcement is just this: It "
@@ -11081,8 +11101,8 @@ msgid ""
 "presumed for us all, is now a privilege reserved for the funny and "
 "famous&mdash;and presumably rich."
 msgstr ""
-"Spielberg har rett. Film sampling med Myers ville vært briljant. Men hvis "
-"du ikke følger godt med, så vil du overse det forbløffende med denne "
+"Spielberg har rett. Film sampling med Myers ville vært briljant. Men hvis du "
+"ikke følger godt med, så vil du overse det forbløffende med denne "
 "kunngjøringen. Siden den aller største delen av vår filmarv fortsetter å "
 "være regulert av loven, så er den virkelige meningen i DreamWorks "
 "kunngjøring følgende: Det er Mike Myers og kun Mike Myers som har lov til å "
@@ -12257,24 +12277,28 @@ msgstr ""
 "kontrollere hvordan kultur utvikler seg."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "four modalities of constraint on"
-msgstr ""
+msgstr "fire modalitetene for begrensningen på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "regulation"
 msgstr "regulering"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "four modalities of"
-msgstr ""
+msgstr "fire modalitetene for"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "as ex post regulation modality"
-msgstr ""
+msgstr "som ex post regulering modality"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "as constraint modality"
-msgstr ""
+msgstr "som betingelse modality"
 
 #.  PAGE BREAK 132
 #. type: Content of: <book><part><chapter><para>
@@ -12453,8 +12477,9 @@ msgid "driving speed, constraints on"
 msgstr "kjørehastighet, begrensninger på"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+#, mtrans, fuzzy
 msgid "speeding, constraints on"
-msgstr ""
+msgstr "Setter farten opp, begrensninger for"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12614,8 +12639,9 @@ msgid "Why Hollywood Is Right"
 msgstr "Hvorfor Hollywood har rett"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "four regulatory modalities on"
-msgstr ""
+msgstr "fire regulatoriske modaliteter på"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12666,16 +12692,19 @@ msgstr ""
 "krenkelse av."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copyright regulatory balance lost with"
-msgstr ""
+msgstr "opphavsrett regulatoriske balanse mistet med"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "regulatory balance lost in"
-msgstr ""
+msgstr "regulatoriske balanse tapt i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "MP3s"
-msgstr ""
+msgstr "MP3-filer"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12698,8 +12727,9 @@ msgid "technology"
 msgstr "teknologi"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "established industries threatened by changes in"
-msgstr ""
+msgstr "etablert industri truet av endringer i"
 
 #.  PAGE BREAK 137
 #. type: Content of: <book><part><chapter><section><para>
@@ -12733,8 +12763,9 @@ msgid "Commerce, U.S. Department of"
 msgstr "handel-setningsdelen i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "as establishment protectionism"
-msgstr ""
+msgstr "som etablering proteksjonistisk"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12823,8 +12854,9 @@ msgid "railroad industry"
 msgstr "jernbaneindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "remote channel changers"
-msgstr ""
+msgstr "Medieskiftere for ekstern kanal"
 
 #.  f5
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -12859,8 +12891,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "free market, technological changes in"
-msgstr ""
+msgstr "fritt marked, teknologiske endringer i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Brezhnev, Leonid"
@@ -12871,8 +12904,9 @@ msgid "Gates, Bill"
 msgstr "Gates, Bill"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "market competition"
-msgstr ""
+msgstr "marked"
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -12920,12 +12954,14 @@ msgstr ""
 "insentiver og muligheter for innovasjon og endre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "speech, freedom of"
-msgstr ""
+msgstr "tale, frihet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "constitutional guarantee of"
-msgstr ""
+msgstr "konstitusjonelle garanti for"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12984,8 +13020,9 @@ msgid "DDT"
 msgstr "DDT"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "insecticide, environmental consequences of"
-msgstr ""
+msgstr "insektmiddel, miljøkonsekvensene av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13022,8 +13059,9 @@ msgid "Silent Spring (Carson)"
 msgstr "Silent Spring (Carson)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "environmentalism"
-msgstr ""
+msgstr "environmentalism"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13061,8 +13099,9 @@ msgid "Boyle, James"
 msgstr "Boyle, James"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "innovative freedom balanced with fair compensation in"
-msgstr ""
+msgstr "nyskapende frihet balansert med rettferdig kompensasjon i"
 
 #.  f7
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13130,8 +13169,9 @@ msgid "Beginnings"
 msgstr "Opphav"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "on creative property"
-msgstr ""
+msgstr "på kreative eiendom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -13139,8 +13179,9 @@ msgid "copyright purpose established in"
 msgstr "opphavsrett formål som er etablert i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "Progress Clause of"
-msgstr ""
+msgstr "fremdrift-setningsdelen i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -13210,8 +13251,9 @@ msgstr ""
 "med hovedsakelig formålet med givende forfatternes."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "history of American"
-msgstr ""
+msgstr "History of american"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13238,12 +13280,14 @@ msgid "Senate, U.S."
 msgstr "Senatet i USA"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "structural checks and balances of"
-msgstr ""
+msgstr "strukturelle sjekker og Periodenes"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "electoral college"
-msgstr ""
+msgstr "valg Agder"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13332,8 +13376,9 @@ msgid "common law protections of"
 msgstr "komponister, copyright beskyttelse av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "balance of U.S. content in"
-msgstr ""
+msgstr "balanse mellom you.s. innhold i"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Crosskey, William W."
@@ -13371,8 +13416,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "federal vs. state"
-msgstr ""
+msgstr "føderale vs. tilstand"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13511,8 +13557,9 @@ msgid "copyright terms extended by"
 msgstr "opphavsrett hensikt endret av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "term extensions in"
-msgstr ""
+msgstr "sikt utvidelser i"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13536,8 +13583,9 @@ msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "future patents vs. future copyrights in"
-msgstr ""
+msgstr "fremtidige patenter vs. fremtidige opphavsrettigheter i"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13607,8 +13655,9 @@ msgstr ""
 "vedvarende kommersiell verdi."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "of natural authors vs. corporations"
-msgstr ""
+msgstr "av naturlige forfattere vs. selskaper"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -13616,8 +13665,9 @@ msgid "corporations"
 msgstr "selskaper"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "copyright terms for"
-msgstr ""
+msgstr "opphavsrett vilkår for"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13686,8 +13736,9 @@ msgid "Law: Scope"
 msgstr "Loven: Virkeområde"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "scope of"
-msgstr ""
+msgstr "omfanget av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13703,8 +13754,9 @@ msgstr ""
 "vi å holde denne debatten i sammenheng."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "historical shift in copyright coverage of"
-msgstr ""
+msgstr "historiske Skift i opphavsrett dekning av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13771,8 +13823,9 @@ msgid "formalities"
 msgstr "formaliteter"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "registration requirement of"
-msgstr ""
+msgstr "registreringskrav for"
 
 #.  PAGE BREAK 148
 #. type: Content of: <book><part><chapter><section><para>
@@ -13827,8 +13880,9 @@ msgstr ""
 "opprinnelige forfatteren."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "European"
-msgstr ""
+msgstr "europeiske"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14094,8 +14148,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "other property rights vs."
-msgstr ""
+msgstr "andre property rights vs."
 
 #.  PAGE BREAK 151
 #. type: Content of: <book><part><chapter><section><para>
@@ -14312,8 +14367,9 @@ msgid "books on"
 msgstr "bøker på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "Internet burdens on"
-msgstr ""
+msgstr "Internett byrder på"
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -14369,8 +14425,9 @@ msgstr ""
 "produsert en kopi."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "e-books"
-msgstr ""
+msgstr "e-bøker"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -14452,8 +14509,9 @@ msgstr ""
 "svært troubling med hensyn til transformative bruk av skapende arbeid."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "fair use vs."
-msgstr ""
+msgstr "rettferdig bruk vs."
 
 #.  PAGE BREAK 156
 #. type: Content of: <book><part><chapter><section><para>
@@ -14498,16 +14556,18 @@ msgstr ""
 "regulert, deretter beskyttelse av fair use er ikke nok."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Video Pipeline"
-msgstr ""
+msgstr "video rørledningen"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "film industry"
 msgstr "filmindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "trailer advertisements of"
-msgstr ""
+msgstr "Trailer reklame av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14576,12 +14636,14 @@ msgstr ""
 "var faktisk sine rettigheter."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "willful infringement findings in"
-msgstr ""
+msgstr "willful krenkelse funnene i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "willful infringement"
-msgstr ""
+msgstr "willful krenkelse"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14623,8 +14685,9 @@ msgstr ""
 "filmer som en måte å selge dem uten disney's tillatelse."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "first-sale doctrine"
-msgstr ""
+msgstr "første salg doktrine"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -14721,8 +14784,9 @@ msgstr ""
 "slike regulering fremtvinges."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "technology as automatic enforcer of"
-msgstr ""
+msgstr "teknologi som automatisk inndriver av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -17958,8 +18022,9 @@ msgid "innovation hampered by"
 msgstr "nyskapning hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "industry establishment opposed to"
-msgstr ""
+msgstr "industrien etablering motsetning til"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18024,8 +18089,9 @@ msgid "Barry, Hank"
 msgstr "Barry, Hank"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "venture capitalists"
-msgstr ""
+msgstr "venture kapitalister"
 
 #.  PAGE BREAK 198
 #. type: Content of: <book><part><chapter><section><para>
@@ -18064,12 +18130,14 @@ msgstr ""
 "(pessimist extraordinaire) ville aldri ha forutsett."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "MP3.com"
-msgstr ""
+msgstr "MP3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "my.mp3.com"
-msgstr ""
+msgstr "My.MP3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Roberts, Michael"
@@ -18175,12 +18243,14 @@ msgstr ""
 "kunder noe de hadde allerede kjøpt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "distribution technology targeted in"
-msgstr ""
+msgstr "distribusjon-teknologi som er rettet i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "outsize penalties of"
-msgstr ""
+msgstr "øket sanksjoner av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18260,12 +18330,14 @@ msgid "Hummer Winblad"
 msgstr "Hummer Winblad"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "MP3 players"
-msgstr ""
+msgstr "MP3-spillere"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "venture capital for"
-msgstr ""
+msgstr "risikovillig kapital for"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Needleman, Rafe"
@@ -18555,8 +18627,9 @@ msgstr ""
 "er regulering kraftig bruk å beseire konkurrenter."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+#, mtrans, fuzzy
 msgid "Digital Copyright (Litman)"
-msgstr ""
+msgstr "digitale copyright (litman)"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
@@ -18833,8 +18906,9 @@ msgid "on radio"
 msgstr "om radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "Internet radio hampered by"
-msgstr ""
+msgstr "Internett-radio som er hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet radio fees"
@@ -25530,12 +25604,14 @@ msgid "Rebuilding Freedoms Previously Presumed: Examples"
 msgstr "Gjenoppbygging av friheter som tidligere var antatt: Eksempler"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "restoration efforts on previous aspects of"
-msgstr ""
+msgstr "restaurering innsats på forrige aspekter av"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+#, mtrans, fuzzy
 msgid "privacy rights"
-msgstr ""
+msgstr "personvernrettigheter"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -25624,8 +25700,9 @@ msgstr ""
 "friksjonen."
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "privacy rights in use of"
-msgstr ""
+msgstr "personvernet i bruk av"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
