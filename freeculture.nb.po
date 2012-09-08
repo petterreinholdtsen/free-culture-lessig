@@ -23206,7 +23206,6 @@ msgstr ""
 "annet navn."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Or another two names. For depending upon your perspective, this is either "
 "the <quote>Public Domain Enhancement Act</quote> or the <quote>Copyright "
@@ -23216,12 +23215,13 @@ msgid ""
 "for those works where its worth is at least $1. But for everything else, let "
 "the content go."
 msgstr ""
-"eller en annen to navn. for avhengig av ditt perspektiv, dette er enten "
-"\"public domain forbedring act\" eller den \"copyright begrepet "
-"dereguleringen act.\" Uansett, essensen av idéen er klar og tydelig: fjerne "
-"copyright der det gjør ingenting bortsett fra blokkerer tilgang og spredning "
-"av kunnskap. La det for så lenge Kongressen tillater for disse arbeider der "
-"er verdt minst $1. men for alt annet, kan du la til innhold gå."
+"Eller to andre navn.  For avhengig av din synsvinkel, så er dette "
+"enten <quote>Forbedring av allemannseie-loven</quote> eller "
+"<quote>Avregulering av opphavsrettsvernetids-loven</quote>.  Uansett "
+"er essensen i idéen klar og tydelig: Fjerne opphavsretten der den ikke "
+"gjør noe annet enn å blokkere tilgang og spredning av kunnskap.  La "
+"den eksistere så lenge som kongressen tillater det for de verk hvis "
+"verdi er minst en dollar.  For alt annet, slipp innholdet fri."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Forbes, Steve"
@@ -23337,7 +23337,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "That's great rhetoric. It sounds wonderfully romantic. But it is absurd "
 "copyright policy. It is absurd especially for authors, because a world "
@@ -23345,11 +23344,12 @@ msgid ""
 "Disney creativity</quote> is destroyed when there is no simple way to know "
 "what's protected and what's not."
 msgstr ""
-"Det er stor retorikk. det høres usedvanlig romantiske. men det er absurd "
-"copyright policy. Det er absurd spesielt for forfattere, fordi en verden "
-"uten formaliteter skader skaperen. muligheten til å spre \"walt disney "
-"kreativitet\" er ødelagt når det er ingen enkel måte å vite hva er beskyttet "
-"og hva som ikke."
+"Det er flott retorikk, og det høres vidunderlig romatisk ut.  Men det "
+"er absurd opphavsrettspolitikk.  Det er absurd spesielt for "
+"forfattere, fordi en verden uten formaliterer skader skaperen. "
+"Muligheten til å spre <quote>Walt Disney-kreativtet</quote> er fjernet "
+"når det ikke er noen enkel måte å vite hva som er beskyttet og hva som "
+"ikke er det."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
