@@ -27873,7 +27873,7 @@ msgstr ""
 "systemet støtter den videste rekken av <quote>*semiotic democracy*</quote> "
 "som mulig.  Men målet om *semiotic democracy* kan oppfylles hvis de andre "
 "endringer jeg beskriver kommer på plass&mdash;spesielt begrensninger på "
-"avleded bruk.  Et system som ganske enkelt tar imot betaling for tilgang vil "
+"avledet bruk.  Et system som ganske enkelt tar imot betaling for tilgang vil "
 "ikke belaste *semiotic democracy* veldig hvis det var få begrensninger på "
 "hva en får lov til å gjøre med selve innholdet."
 
