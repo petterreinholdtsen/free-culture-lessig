@@ -10878,7 +10878,7 @@ msgstr ""
 "Jeg har sett glimt av gjenkjennelse på dette punktet, men bare noen få "
 "ganger. Første gang var på en konferanse for føderale dommere i California. "
 "Dommerne var samlet for å diskutere det økende temaet cyber-lov. Jeg ble "
-"spurt om å sitte i panelet. Harvey Saferstein, en respektert lawyer fra et "
+"spurt om å sitte i panelet. Harvey Saferstein, en respektert advokat fra et "
 "firma i Los Angeles, introduserte en film han og hans venn Robert Fairbank "
 "hadde laget for panelet."
 
