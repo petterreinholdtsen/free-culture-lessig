@@ -4685,14 +4685,12 @@ msgid "Thurmond, Strom"
 msgstr "Thurmond, Strom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "blog pressure on"
-msgstr "blogg press på"
+msgstr "blogg-press på"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "news events on"
-msgstr "nyheter hendelser på"
+msgstr "nyhetsinnslag på"
 
 #.  f18
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4747,9 +4745,8 @@ msgstr ""
 "må de bevege seg videre."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "peer-generated rankings on"
-msgstr "node-generert rangeringer på"
+msgstr "node-generert rangeringer av"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4769,7 +4766,6 @@ msgstr ""
 "av likemanns-generert rangering. "
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "journalism"
 msgstr "journalistikk"
 
