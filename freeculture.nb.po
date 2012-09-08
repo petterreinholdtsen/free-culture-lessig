@@ -23137,7 +23137,6 @@ msgid "CHAPTER FOURTEEN: Eldred II"
 msgstr "Kapittel fjorten: Eldred II"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>The day</emphasis> <citetitle>Eldred</citetitle> was "
 "decided, fate would have it that I was to travel to Washington, D.C. (The "
@@ -23148,13 +23147,15 @@ msgid ""
 "was delayed because of traffic, so I opened up my computer and wrote an op-"
 "ed piece."
 msgstr ""
-"dag-eldred ble besluttet, men skjebnen ville at som jeg var å reise til "
-"washington, DC (dagen rehearing protestskriv i eldred ble nektet&mdash;noe "
-"som betyr at saken var virkelig endelig over&mdash;skjebnen ville at at jeg "
-"ga en tale til Teknologorganisasjon på disney verden.) dette var en spesielt "
-"lang flytur til min minst favoritt by. stasjonen til byen fra dulles ble "
-"forsinket på grunn av trafikk, så jeg åpnet opp min datamaskin, og skrev en "
-"op-ed brikke."
+"<emphasis role='strong'>Dagen</emphasis> "
+"<citetitle>Eldred</citetitle> ble avgjort, ville skjebnen det at jeg "
+"skulle reise til Washington, D.C. (Dagen da en forespørsel ny høring "
+"for <citetitle>Eldred</citetitle> ble avslått&mdash;som betød at saken "
+"endelig var avsluttet&mdash;skjebnen gjorde at jeg holdt en tale til "
+"teknologer ved Disney World.)  Dette var en spesielt lang flytur til "
+"byen jeg setter minst pris på.  Kjøreturen inn til byen fra Dulles "
+"flyplass var forsinket på grunn av trafikken, sa jeg åpnet opp "
+"datamaskinen og skrev en kronikk."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
