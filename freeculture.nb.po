@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2012-09-07 21:56+0300\n"
+"POT-Creation-Date: 2012-09-08 22:57+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -3816,6 +3816,14 @@ msgstr ""
 "ville uten tvil aldri vært realisert en slik vekst i demokratisk "
 "uttrykksteknologi."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "digital cameras"
+msgstr "digitale kamera"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Just Think!"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "<emphasis role='strong'>If you drive</emphasis> through San Francisco's "
@@ -3845,6 +3853,23 @@ msgstr ""
 "disse bussene mer enn tredve skoler og gir mellom tre hundre og fire hundre "
 "barn muligheten til å lære noe om media ved å gjøre noe med media.  Ved å "
 "gjøre, så tenker de.  Ved å fikle, så lærer de."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "education"
+msgstr "utdanning"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "in media literacy"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "media literacy"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
+msgid "media literacy and"
+msgstr "blande teknologi og"
 
 #.  f9
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4000,12 +4025,12 @@ msgstr ""
 "reflektere over det en har laget."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Crichton, Michael"
-msgstr "Crichton, Michael"
-
-#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Daley, Elizabeth"
 msgstr "Daley, Elizabeth"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Crichton, Michael"
+msgstr "Crichton, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Barish, Stephanie"
@@ -5376,10 +5401,6 @@ msgstr ""
 "kanskje hadde laget, universitetsbrosjyrer&mdash;ganske enkelt alt som "
 "brukerne av RPI-nettverket hadde gjort tilgjengelig i en fellesmappe på sine "
 "datamaskiner."
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "education"
-msgstr "utdanning"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "tinkering as means of"
@@ -10100,8 +10121,8 @@ msgid ""
 "make a perfect contrast to the art on the stage."
 msgstr ""
 "I 1990 arbeidet Else med en dokumentar om Wagners Ring Cycle. Fokuset var på "
-"scenearbeidere på San Francisco Opera. Scenearbeiderne er spesielt morsomme og "
-"fargerike innslag i en opera. I løpet av forestillingen oppholder de seg "
+"scenearbeidere på San Francisco Opera. Scenearbeiderne er spesielt morsomme "
+"og fargerike innslag i en opera. I løpet av forestillingen oppholder de seg "
 "blant publikum og på lysloftet. De er en perfekt kontrast til kunsten på "
 "scenen."
 
@@ -10119,11 +10140,11 @@ msgid ""
 "this touch of cartoon helped capture the flavor of what was special about "
 "the scene."
 msgstr ""
-"Under en forestilling, filmet Else noen scenearbeidere som spilte dam. I "
-"et hjørne av rommet stod det et fjernsynsapparat. På fjernsynet, mens "
-"forestillingen pågikk, mens scenearbeiderne spilte dam og operakompaniet spilte Wagner, gikk <citetitle>The "
-"Simpsons</citetitle>. Slik Else så det, så hjalp dette tegnefilm-innslaget "
-"med å fange det spesielle med scenen."
+"Under en forestilling, filmet Else noen scenearbeidere som spilte dam. I et "
+"hjørne av rommet stod det et fjernsynsapparat. På fjernsynet, mens "
+"forestillingen pågikk, mens scenearbeiderne spilte dam og operakompaniet "
+"spilte Wagner, gikk <citetitle>The Simpsons</citetitle>. Slik Else så det, "
+"så hjalp dette tegnefilm-innslaget med å fange det spesielle med scenen."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -10291,13 +10312,13 @@ msgid ""
 "(rightly, in my view) can charge whatever she wants&mdash;$10 or $1,000,000. "
 "That's her right, as set by the law."
 msgstr ""
-"For eksempel <quote>offentlig fremvisning</quote> av <citetitle>The "
-"Simpson</citetitle> er en form for bruk hvor loven gir eieren kontroll. "
-"Dersom du velger ut dine favorittepisoder, leier en kinosal og selger "
-"billetter til <quote>Mine <citetitle>Simpson</citetitle>-favoritter</quote>, "
-"så må du ha tillatelse fra rettighetsinnehaveren (eieren). Og eieren kan "
-"(med rette, slik jeg ser det) kreve hvor mye han vil; $10 eller "
-"$1&nbsp;000&nbsp;000. Det er hans rett ifølge loven."
+"For eksempel <quote>offentlig fremvisning</quote> av <citetitle>The Simpson</"
+"citetitle> er en form for bruk hvor loven gir eieren kontroll. Dersom du "
+"velger ut dine favorittepisoder, leier en kinosal og selger billetter til "
+"<quote>Mine <citetitle>Simpson</citetitle>-favoritter</quote>, så må du ha "
+"tillatelse fra rettighetsinnehaveren (eieren). Og eieren kan (med rette, "
+"slik jeg ser det) kreve hvor mye han vil; $10 eller $1&nbsp;000&nbsp;000. "
+"Det er hans rett ifølge loven."
 
 #.  f1
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -12837,10 +12858,6 @@ msgstr ""
 "teknologien på Internett ikke har hatt en dyp effekt på innhold bransjens "
 "måten å drive virksomhet, eller som john seely brown beskriver den, dens "
 "\"arkitektur av inntekter.\""
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "digital cameras"
-msgstr "digitale kamera"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "railroad industry"
@@ -23147,15 +23164,14 @@ msgid ""
 "was delayed because of traffic, so I opened up my computer and wrote an op-"
 "ed piece."
 msgstr ""
-"<emphasis role='strong'>Dagen</emphasis> "
-"<citetitle>Eldred</citetitle> ble avgjort, ville skjebnen det at jeg "
-"skulle reise til Washington, D.C. (Dagen da en forespørsel ny høring "
-"for <citetitle>Eldred</citetitle> ble avslått&mdash;som betød at saken "
-"endelig var avsluttet&mdash;skjebnen gjorde at jeg holdt en tale til "
-"teknologer ved Disney World.)  Dette var en spesielt lang flytur til "
-"byen jeg setter minst pris på.  Kjøreturen inn til byen fra Dulles "
-"flyplass var forsinket på grunn av trafikken, sa jeg åpnet opp "
-"datamaskinen og skrev en kronikk."
+"<emphasis role='strong'>Dagen</emphasis> <citetitle>Eldred</citetitle> ble "
+"avgjort, ville skjebnen det at jeg skulle reise til Washington, D.C. (Dagen "
+"da en forespørsel ny høring for <citetitle>Eldred</citetitle> ble "
+"avslått&mdash;som betød at saken endelig var avsluttet&mdash;skjebnen gjorde "
+"at jeg holdt en tale til teknologer ved Disney World.)  Dette var en "
+"spesielt lang flytur til byen jeg setter minst pris på.  Kjøreturen inn til "
+"byen fra Dulles flyplass var forsinket på grunn av trafikken, sa jeg åpnet "
+"opp datamaskinen og skrev en kronikk."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23169,13 +23185,13 @@ msgid ""
 "turned to an argument of politics."
 msgstr ""
 "Det var en botsøvelse.  Gjennom hele flyturen fra San Francisco til "
-"Washington hadde jeg i mitt indre øre hørt om og om igjen det samme "
-"rådet fra Don Ayer: Du må få dem til å forstå hvorfor det er viktig. "
-"Og innimellom dette rådet var spørsmålet fra dommer Kennedy: <quote>I "
-"alle disse årene som loven har hemmet fremgang i vitenskap og nyttige "
-"kunstarter, så ser jeg intet empirisk bevis for dette.</quote> Og "
-"dermed, etter å ha feilet i å argumentere med konstituelle prinsipper, "
-"forsøkte jeg til slutt meg med å argumentere politisk."
+"Washington hadde jeg i mitt indre øre hørt om og om igjen det samme rådet "
+"fra Don Ayer: Du må få dem til å forstå hvorfor det er viktig. Og innimellom "
+"dette rådet var spørsmålet fra dommer Kennedy: <quote>I alle disse årene som "
+"loven har hemmet fremgang i vitenskap og nyttige kunstarter, så ser jeg "
+"intet empirisk bevis for dette.</quote> Og dermed, etter å ha feilet i å "
+"argumentere med konstituelle prinsipper, forsøkte jeg til slutt meg med å "
+"argumentere politisk."
 
 #.  PAGE BREAK 256
 #. type: Content of: <book><part><chapter><para>
@@ -23186,12 +23202,11 @@ msgid ""
 "If he paid the fee, he got the benefit of the full term of copyright. If he "
 "did not, the work passed into the public domain."
 msgstr ""
-"<citetitle>New York Times</citetitle> publiserte stykket.  I det "
-"foreslo jeg en enkel fiks: Femti år etter at et verk har blitt "
-"publisert, bør opphavsrettseieren være nødt til å registrere verket og "
-"betale en liten avgift.  Hvis han betalte avgiften fikk han fordelene "
-"av hele vernetiden for opphavstiden.  Hvis han ikke gjorde det, falt "
-"verket i det fri."
+"<citetitle>New York Times</citetitle> publiserte stykket.  I det foreslo jeg "
+"en enkel fiks: Femti år etter at et verk har blitt publisert, bør "
+"opphavsrettseieren være nødt til å registrere verket og betale en liten "
+"avgift.  Hvis han betalte avgiften fikk han fordelene av hele vernetiden for "
+"opphavstiden.  Hvis han ikke gjorde det, falt verket i det fri."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23199,10 +23214,9 @@ msgid ""
 "Eldred was kind enough to let his name be used once again, but as he said "
 "early on, it won't get passed unless it has another name."
 msgstr ""
-"Vi kalte dette Eldred-loven, men det var kun for å gi det et navn. "
-"Eric Eldred var snill nok til å la sitt navn brukes nok en gang, men "
-"han sa tidig at den ikke ville bli vedtatt med mindre den fikk et "
-"annet navn."
+"Vi kalte dette Eldred-loven, men det var kun for å gi det et navn. Eric "
+"Eldred var snill nok til å la sitt navn brukes nok en gang, men han sa tidig "
+"at den ikke ville bli vedtatt med mindre den fikk et annet navn."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23214,13 +23228,13 @@ msgid ""
 "for those works where its worth is at least $1. But for everything else, let "
 "the content go."
 msgstr ""
-"Eller to andre navn.  For avhengig av synsvinkel, så er dette "
-"enten <quote>Forbedring av allemannseie-loven</quote> eller "
-"<quote>Avregulering av opphavsrettsvernetids-loven</quote>.  Uansett "
-"er essensen i idéen klar og tydelig: Fjern opphavsretten der den ikke "
-"gjør noe annet enn å blokkere for tilgang og spredning av kunnskap.  La "
-"den eksistere så lenge som kongressen tillater det for de verk der "
-"verdien er minst en dollar.  For alt annet, slipp innholdet fri."
+"Eller to andre navn.  For avhengig av synsvinkel, så er dette enten "
+"<quote>Forbedring av allemannseie-loven</quote> eller <quote>Avregulering av "
+"opphavsrettsvernetids-loven</quote>.  Uansett er essensen i idéen klar og "
+"tydelig: Fjern opphavsretten der den ikke gjør noe annet enn å blokkere for "
+"tilgang og spredning av kunnskap.  La den eksistere så lenge som kongressen "
+"tillater det for de verk der verdien er minst en dollar.  For alt annet, "
+"slipp innholdet fri."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Forbes, Steve"
@@ -23343,12 +23357,11 @@ msgid ""
 "Disney creativity</quote> is destroyed when there is no simple way to know "
 "what's protected and what's not."
 msgstr ""
-"Det er flott retorikk, og det høres vidunderlig romatisk ut.  Men det "
-"er absurd opphavsrettspolitikk.  Det er absurd spesielt for "
-"forfattere, fordi en verden uten formaliterer skader den som skaper. "
-"Muligheten til å spre <quote>Walt Disney-kreativtet</quote> er fjernet "
-"når det ikke er noen enkel måte å vite hva som er beskyttet og hva som "
-"ikke er det."
+"Det er flott retorikk, og det høres vidunderlig romatisk ut.  Men det er "
+"absurd opphavsrettspolitikk.  Det er absurd spesielt for forfattere, fordi "
+"en verden uten formaliterer skader den som skaper. Muligheten til å spre "
+"<quote>Walt Disney-kreativtet</quote> er fjernet når det ikke er noen enkel "
+"måte å vite hva som er beskyttet og hva som ikke er det."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23361,16 +23374,15 @@ msgid ""
 "<citetitle>i</citetitle> or cross a <citetitle>t</citetitle> resulted in the "
 "loss of widows' only income."
 msgstr ""
-"Kampen mot formaliteter oppnådde sin første virkelige seier i Berlig "
-"i 1908.  Internasjonale opphavsrettsadvokater fikk på plass et tillegg "
-"i Bern-konvensjonen i 1909 som krevde opphavsrettslig verneperiode som "
-"rakk hele livet pluss femti år, i tillegg til å avskaffe "
-"opphavsrettsformaliteter.  Formalitetene var hatet på grunn av "
-"historiene om utilsiktet tap ble mer og mer vanlige.  Det var som om "
-"en karakter fra Charles Dickets drev alle opphavsrettskontorene, og å "
-"glemme å sette prikken over en <citetitle>i</citetitle> eller glemme å "
-"streke igjennom en <citetitle>t</citetitle> førte til at en enke "
-"mistet sin eneste inntekt."
+"Kampen mot formaliteter oppnådde sin første virkelige seier i Berlig i "
+"1908.  Internasjonale opphavsrettsadvokater fikk på plass et tillegg i Bern-"
+"konvensjonen i 1909 som krevde opphavsrettslig verneperiode som rakk hele "
+"livet pluss femti år, i tillegg til å avskaffe opphavsrettsformaliteter.  "
+"Formalitetene var hatet på grunn av historiene om utilsiktet tap ble mer og "
+"mer vanlige.  Det var som om en karakter fra Charles Dickets drev alle "
+"opphavsrettskontorene, og å glemme å sette prikken over en <citetitle>i</"
+"citetitle> eller glemme å streke igjennom en <citetitle>t</citetitle> førte "
+"til at en enke mistet sin eneste inntekt."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23381,12 +23393,11 @@ msgid ""
 "the response in Berlin should have been to embrace a more equitable system "
 "of registration."
 msgstr ""
-"Disse klagene var reelle og fornuftige.  Og hvor strengt "
-"formalitetene ble håndhevd, spesielt i USA, var absurd.  Loven bør "
-"alltid ha måter å tilgi uskyldige feil.  Det er ingen grunn til at "
-"ikke også åndsverksloven skulle kunne det.  I stedet for å droppen "
-"formaliteter helt, så burde responsen i Berlin vært å omfavne et mer "
-"rettverdig registreringssystem."
+"Disse klagene var reelle og fornuftige.  Og hvor strengt formalitetene ble "
+"håndhevd, spesielt i USA, var absurd.  Loven bør alltid ha måter å tilgi "
+"uskyldige feil.  Det er ingen grunn til at ikke også åndsverksloven skulle "
+"kunne det.  I stedet for å droppen formaliteter helt, så burde responsen i "
+"Berlin vært å omfavne et mer rettverdig registreringssystem."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy

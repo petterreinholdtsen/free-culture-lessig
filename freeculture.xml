@@ -2078,6 +2078,8 @@ realized.
 <indexterm startref='idxeastmangeorge' class='endofrange'/>
 <indexterm startref='idxpermissionsphotographyexemptedfrom' class='endofrange'/>
 <indexterm startref='idximagesownershipof' class='endofrange'/>
+<indexterm><primary>digital cameras</primary></indexterm>
+<indexterm id='idxjustthink' class='startofrange'><primary>Just Think!</primary></indexterm>
 <para>
 <emphasis role='strong'>If you drive</emphasis> through San
 Francisco's Presidio, you might see two gaudy yellow school buses
@@ -2094,6 +2096,9 @@ schools and enable three hundred to five hundred children to learn
 something about media by doing something with media.  By doing, they
 think. By tinkering, they learn.
 </para>
+<indexterm id='idxeducationinmedialiteracy' class='startofrange'><primary>education</primary><secondary>in media literacy</secondary></indexterm>
+<indexterm id='idxmedialiteracy' class='startofrange'><primary>media literacy</primary></indexterm>
+<indexterm id='idxexpressiontechnologiesofmedialiteracyand' class='startofrange'><primary>expression, technologies of</primary><secondary>media literacy and</secondary></indexterm>
 <para>
 These buses are not cheap, but the technology they carry is
 increasingly so. The cost of a high-quality digital video system has
@@ -2120,6 +2125,7 @@ deconstruct media images. Its aim is to make [kids] literate about the
 way media works, the way it's constructed, the way it's delivered, and
 the way people access it.</quote>
 </para>
+<indexterm startref='idxjustthink' class='endofrange'/>
 <para>
 This may seem like an odd way to think about <quote>literacy.</quote> For most
 people, literacy is about reading and writing. Faulkner and Hemingway
@@ -2163,8 +2169,8 @@ from reading a book about it. One learns to write by writing and then
 reflecting upon what one has written. One learns to write with images
 by making them and then reflecting upon what one has created.
 </para>
-<indexterm><primary>Crichton, Michael</primary></indexterm>
 <indexterm id='idxdaleyelizabeth' class='startofrange'><primary>Daley, Elizabeth</primary></indexterm>
+<indexterm><primary>Crichton, Michael</primary></indexterm>
 <para>
 This grammar has changed as media has changed. When it was just film,
 as Elizabeth Daley, executive director of the University of Southern
@@ -2285,6 +2291,7 @@ can do well. Yet neither is text a form in which
 this message depended upon its connection to this form of expression.
 </para>
 <indexterm startref='idxbarishstephanie' class='endofrange'/>
+<indexterm id='idxdaleyelizabeth2' class='startofrange'><primary>Daley, Elizabeth</primary></indexterm>
 <para>
 
 <!-- PAGE BREAK 52 -->
@@ -2317,6 +2324,7 @@ make a little movie.</quote> But instead, really help you take these elements
 that you understand, that are your language, and construct meaning
 about the topic.&hellip;
 </para>
+<indexterm><primary>Barish, Stephanie</primary></indexterm>
 <para>
 That empowers enormously. And then what happens, of
 course, is eventually, as it has happened in all these classes, they
@@ -2335,6 +2343,10 @@ had a lot of power with this language.
 <!-- FIXME removed a " from the end of the previous paragraph that did
      not match with any start quote. -->
 </blockquote>
+<indexterm startref='idxeducationinmedialiteracy' class='endofrange'/>
+<indexterm startref='idxmedialiteracy' class='endofrange'/>
+<indexterm startref='idxexpressiontechnologiesofmedialiteracyand' class='endofrange'/>
+<indexterm startref='idxdaleyelizabeth2' class='endofrange'/>
 <indexterm id='idxseptemberterroristattacksof' class='startofrange'><primary>September 11, 2001, terrorist attacks of</primary></indexterm>
 <indexterm><primary>World Trade Center</primary></indexterm>
 <indexterm id='idxnewscoverage' class='startofrange'><primary>news coverage</primary></indexterm>
