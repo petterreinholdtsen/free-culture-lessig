@@ -23571,7 +23571,6 @@ msgstr ""
 "opphavsrett sikt."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "If it isn't worth it to you to register to get the benefit of an extended "
 "term, then it shouldn't be worth it for the government to defend your "
@@ -23579,11 +23578,12 @@ msgid ""
 "where anyone can copy it, or build archives with it, or create a movie based "
 "on it. It should become free if it is not worth $1 to you."
 msgstr ""
-"Hvis det ikke er verdt det for deg å registrere for å få utbytte av en "
-"utvidet periode, bør ikke så det være verdt det for regjeringen å forsvare "
-"ditt monopol over som fungerer heller. arbeidet skal passere i public domain "
-"der alle kan kopiere den, eller bygge arkivet med det eller opprette en film "
-"basert på den. Det bør bli gratis hvis det ikke er verdt $1 for deg."
+"Hvis det ikke er verdt det for deg å registrere verket for å få "
+"fordelene av en utvidet vernetid, så bør det heller ikke være verdt "
+"det for myndighetene å forsvare ditt monopol over det samme verket. "
+"Verket bør falle i det fri hvor enhver kan kopiere det, eller lage "
+"arkiver med det, eller lage en film basert på det.  Det bør bli fritt "
+"tilgjengelig hvis det ikke er verdt en dollar for deg."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
