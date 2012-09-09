@@ -23840,7 +23840,6 @@ msgstr ""
 "kommersiell bruk av innhold som ikke krever at deres tillatelse først."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The opposition to the Eldred Act reveals how extreme the other side is. The "
 "most powerful and sexy and well loved of lobbies really has as its aim not "
@@ -23848,11 +23847,11 @@ msgid ""
 "Their aim is not simply to protect what is theirs. <emphasis>Their aim is to "
 "assure that all there is is what is theirs</emphasis>."
 msgstr ""
-"motstanden mot loven eldred avslører hvordan ekstreme den andre siden er. "
-"mektigste og sexy og godt elsket av lobbies virkelig har som målet ikke "
-"beskyttelse av \"property\" men avvisningen av en tradisjon. deres mål er "
-"ikke bare å beskytte hva er deres. deres mål er å sikre at alt er det er hva "
-"er deres."
+"Motstanden mot Eldred-loven avslører hvor ekstrem den andre siden er. "
+"Den mektigste, sexy og høyt elskede av lobbyorganisasjoner har som mål "
+"ikke å beskytte <quote>eiendom</quote> men å bli kvitt en tradisjon. "
+"Deres mål er ikke bare å beskytte det som er deres.  <emphasis>Deres "
+"mål er å sikre at alt som finnes er det som er deres.</emphasis>"
 
 #.  PAGE BREAK 263
 #. type: Content of: <book><part><chapter><para>
@@ -23887,7 +23886,6 @@ msgstr ""
 "opphavsrettsinnehaverne kan blokkere fremgangen til andre."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "All this seems to follow easily from this untroubled acceptance of the "
 "<quote>property</quote> in intellectual property. Common sense supports it, "
@@ -23897,12 +23895,14 @@ msgid ""
 "owner and gain permission to build upon his work. The future will be "
 "controlled by this dead (and often unfindable) hand of the past."
 msgstr ""
-"alt dette synes å følge lett fra denne untroubled aksept av \"eiendom\" i "
-"immaterielle. sunn fornuft støtter det, og så lenge den gjør det, assaults "
-"blir regn på teknologien av Internett. konsekvensen vil være et økende "
-"\"tillatelse samfunn.\" fortiden kan dyrkes bare hvis du kan identifisere "
-"eieren og få tillatelse til å bygge på hans arbeid. fremtiden vil bli "
-"kontrollert av denne døde (og ofte unfindable) hånden av fortiden."
+"Alt dette ser ut til å lett følge fra å ukritisk akseptere "
+"<quote>eiendom</quote>-biten av immateriell eiendom.  Sunn fornuft "
+"støtter det, og så lenge den gjør det vil overfallene regne ned over "
+"teknologiene på internettet.  Konsekvensene vil være mer og mer et "
+"<quote>tillatelses-samfunn</quote>.  Fortiden kan kun kultiveres hvis "
+"du kan finne eieren og be om tillatelse til å bygge på hans verk. "
+"Fremtiden vil bli kontrollert av denne døde (og ofte forsvunnede) hånd "
+"fra fortiden."
 
 #. type: Content of: <book><chapter><title>
 msgid "CONCLUSION"
