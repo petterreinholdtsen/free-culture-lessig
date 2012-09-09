@@ -23425,7 +23425,6 @@ msgstr ""
 
 #.  PAGE BREAK 258
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In addition to the practical complaint of authors in 1908, there was a moral "
 "claim as well. There was no reason that creative property should be a second-"
@@ -23435,13 +23434,14 @@ msgid ""
 "that right against anyone who would steal the table, whether or not he has "
 "informed the government of his ownership of the table."
 msgstr ""
-"i tillegg til praktiske klagen av forfattere i 1908 var det så vel moralsk "
-"krav. Det var ingen grunn at creative egenskapen, bør være en annenklasses "
-"form for egenskapen. Hvis en snekker bygger en tabell, avhenger ikke sine "
-"rettigheter over tabellen av innlevering et skjema med regjeringen. Han har "
-"en eiendomsrett over tabellen \"naturlig\", og han kan hevde at høyre mot "
-"alle som ville stjele tabellen, om han har informert regjeringen av sitt "
-"eierskap av tabellen."
+"I tillegg til de praktiske klagene fra forfatterne i 1908, så var det "
+"også moralske innsigelser.  Det var ingen grunn til at kreative "
+"eiendomsrettigheter skulle være en annenrangs type eiendom.  Hvis en "
+"snekker lager et bord, så er ikke hans rettigheter over dette bordet "
+"avhengig av av han sender inn et skjema til myndighetene.  Han har en "
+"<quote>naturgitt</quote> eiendomsrett til bordet og kan hevde denne "
+"retten mot enhver som forsøker å stjele bordet, uansett om han har "
+"informert myndighetene om sitt eierskap til bordet."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
