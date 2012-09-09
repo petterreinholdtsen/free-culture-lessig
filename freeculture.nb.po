@@ -23796,7 +23796,6 @@ msgid "Kelly, Kevin"
 msgstr "Kelly, Kevin"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But when the copyright owners oppose a proposal such as the Eldred Act, "
 "then, finally, there is an example that lays bare the naked selfinterest "
@@ -23807,14 +23806,15 @@ msgid ""
 "around the world. So when the warriors oppose a change like this, we should "
 "ask one simple question:"
 msgstr ""
-"men når opphavsrett eierne motsette et forslag som eldred act, så, til "
-"slutt, er det et eksempel at legger bare naken selfinterest kjører denne "
-"krigen. Denne loven ville frigjøre en ekstraordinære rekke innhold som "
-"ellers er ubrukt. det ville ikke forstyrre noen opphavsrettsinnehaveren "
-"ønske om å utøve fortsatt kontroll over hans innhold. det vil bare frigjøre "
-"hva kevin kelly kall det \"mørke innholdet\" at fyll arkiver rundt om i "
-"verden. så når warriors motsette en endring som dette, bør vi ber ett enkelt "
-"spørsmål:"
+"Men når opphavsrettseiere motsetter seg et forslag som Eldred-loven, "
+"så er det endelig et eksempel som eksponerer den nakne egeninteressen "
+"som holder denne krigen i gang.  Dette lovforslaget ville frigjøre en "
+"ekstraordinær rekke av innhold som ellers ville forbli ubrukt.  Det "
+"ville ikke forstyrre noen opphavsrettseiers trang til å utøve fortsatt "
+"kontroll over sitt innhold.  Det ville ganske enkelt frigjøre det som "
+"Kevin Kelly kaller det <quote>mørke innhold</quote> som fyller "
+"arkivene rundt om i verden.  Så når krigerne motsetter seg en slik "
+"endring, så bør vi stille et enkelt spørsmål:"
 
 #. type: Content of: <book><part><chapter><para>
 msgid "What does this industry really want?"
@@ -23923,9 +23923,8 @@ msgid "antiretroviral drugs"
 msgstr "antiretroviral medisin"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "developing countries, foreign patent costs in"
-msgstr "utviklingsland, utenlandske patent kostnader i"
+msgstr "utviklingsland, utenlandske patentkostnader i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "drugs"
@@ -24004,7 +24003,6 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on pharmaceuticals"
 msgstr "om legemidler"
 
@@ -24500,7 +24498,7 @@ msgstr "Wellcome Trust"
 #. type: Content of: <book><chapter><indexterm><primary>
 #, mtrans, fuzzy
 msgid "World Intellectual Property Organization (WIPO)"
-msgstr "World intellectual property organization (wipo)"
+msgstr "World intellectual property organization (WIPO)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "World Wide Web"
@@ -24595,9 +24593,8 @@ msgstr ""
 "begrensninger på hvordan proprietære krav kan bli brukt."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "in international debate on intellectual property"
-msgstr "i internasjonal debatt om immaterielle"
+msgstr "i internasjonal debatt om immateriell eiendom"
 
 #.  f7.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -25386,9 +25383,8 @@ msgid "Gil, Gilberto"
 msgstr "Gil, Gilberto"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "public creative archive in"
-msgstr "offentlige kreative arkivet i"
+msgstr "offentlig kreativt arkiv i"
 
 #.  f14.
 #. type: Content of: <book><chapter><para><footnote><para>
