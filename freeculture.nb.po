@@ -23820,7 +23820,6 @@ msgid "What does this industry really want?"
 msgstr "Hva ønsker denne industrien egentlig?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "With very little effort, the warriors could protect their content. So the "
 "effort to block something like the Eldred Act is not really about protecting "
@@ -23831,13 +23830,15 @@ msgid ""
 "there will be no commercial use of content that doesn't require "
 "<emphasis>their</emphasis> permission first."
 msgstr ""
-"med svært liten innsats, kunne warriors beskytte deres innhold. så innsatsen "
-"for å blokkere noe som eldred loven er ikke virkelig om å beskytte sitt "
-"innhold. innsatsen for å blokkere eldred loven er et forsøk på å sikre at "
-"ingenting mer passerer i public domain. Det er et skritt for å sikre at den "
-"offentlige sfæren vil aldri konkurrere, at det vil være ingen bruk av "
-"innhold som ikke er kommersielt kontrollert, og at det vil være ingen "
-"kommersiell bruk av innhold som ikke krever at deres tillatelse først."
+"Med svært liten innsats kunne krigerne beskytte sitt innhold.  Så "
+"innsatsen for å blokkere noe ala Eldred-loven er ikke egentlig om å "
+"beskytte <emphasis>deres</emphasis> innhold.  Innsatsen for å blokkere "
+"Eldred-loven er en innsats for å sikre at ingenting mer faller i det "
+"fri.  Det er et nytt steg for å sikre at allemannseiet aldri vil "
+"konkurrere, at det ikke vil være noe bruk av innhold som ikke er "
+"kommersielt kontrollert, og at det ikke vil være noe kommersiell bruk "
+"av innhold som ikke først krever <emphasis>deres</emphasis> "
+"tillatelse."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24071,9 +24072,8 @@ msgid "parallel importation"
 msgstr "parallellimport"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "South Africa, Republic of, pharmaceutical imports by"
-msgstr "Sør-Afrika, Republikken, farmasøytiske import av"
+msgstr "Sør-Afrika, Republikken, farmasøytiske import til"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Braithwaite, John"
@@ -24110,9 +24110,8 @@ msgstr ""
 "europeiske union.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "United States Trade Representative (USTR)"
-msgstr "USAs handel representant (ustr)"
+msgstr "USAs handelrepresentant (USTR)"
 
 #.  f3.
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -24289,9 +24288,8 @@ msgstr ""
 "dør for slik en abstraksjon?"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "in pharmaceutical industry"
-msgstr "om legemidler"
+msgstr "i farmasøytisk industri"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -24326,9 +24324,8 @@ msgstr ""
 "overvunnet."
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "of drug patents"
-msgstr "stoffet patenter"
+msgstr "av legemiddelpatenter"
 
 #.  PAGE BREAK 268
 #. type: Content of: <book><chapter><para>
