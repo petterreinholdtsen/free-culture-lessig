@@ -23664,7 +23664,6 @@ msgstr ""
 "oppstod en generell reaksjon i blogg-samfunnet om at noe godt kunne skje her."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But at this stage, the lobbyists began to intervene. Jack Valenti and the "
 "MPAA general counsel came to the congresswoman's office to give the view of "
@@ -23673,12 +23672,13 @@ msgid ""
 "embarrassingly thin. More importantly, their thinness shows something clear "
 "about what this debate is really about."
 msgstr ""
-"men på dette stadiet, lobbyister begynte å intervenere. Jack valenti og mpaa "
-"sjefsjurist kom til congresswoman's office å gi oversikt over mpaa. hjulpet "
-"av sin advokat, som valenti fortalte meg, informert valenti i congresswoman "
-"at mpaa vil motsette seg eldred act. årsakene er embarrassingly tynn. enda "
-"viktigere, viser deres tykkelse noe klart om hva denne debatten er virkelig "
-"om."
+"Men på dette stadiet begynte lobbyister å bryte inn.  Jack Valento og "
+"MPAAs sjefsjurist kom til kongressrepresentantens kontor for å gi "
+"MPAAS syn på saken.  Veiledet av sin advokat, fortalte Valenti meg, "
+"informerte Valenti kongressrepresentanten om at MPAA ville motsette "
+"seg Eldred-loven.  Arsakene var pinlig tynne.  Enda viktigere er det "
+"at deres spinkelhet viser noe klart om hva denne debatten egentlig "
+"handler om."
 
 #.  PAGE BREAK 261
 #. type: Content of: <book><part><chapter><para>
@@ -23772,7 +23772,6 @@ msgstr ""
 
 #.  PAGE BREAK 262
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "When the issue is piracy, it is right for the law to back the copyright "
 "owners. The commercial piracy that I described is wrong and harmful, and the "
@@ -23784,14 +23783,16 @@ msgid ""
 "copyright terms; it is thus still possible to see good faith within the "
 "resistance."
 msgstr ""
-"Når problemet er piratkopiering, er det riktig for loven tilbake opphavsrett "
-"eierne. kommersielle piratkopiering som jeg beskrevet er galt og skadelig, "
-"og loven bør arbeide for å fjerne den. Når problemet er p2p deling, det er "
-"lett å forstå hvorfor loven backs eierne fortsatt: mye av denne deling er "
-"feil, selv om mye er harmløse. Når problemet er copyright vilkår for Mikke "
-"Mus av verden, er det mulig for fortsatt å forstå hvorfor loven favoriserer "
-"hollywood: de fleste folk ikke gjenkjenner årsakene til å begrense "
-"opphavsrett vilkår; Det er derfor fremdeles mulig å se god tro i motstanden."
+"Når problemet er piratvirksomhet, så er det riktig at loven støtter "
+"opphavsrettseierne.  Den kommersielle piratvirksomheten som jeg har "
+"beskrevet er galt og skadelig, og loven bør jobbe for å eliminere den. "
+"Når problemet er p2p-deling, så er det enkelt å forstå hvorfor loven "
+"fortsatt støtter eierne. Mye av denne delingen er galt, selv om mye er "
+"harmløst.  Når problemet er opphavsrettsvernetiden for Mikke Mus-ene i "
+"verden, så er det forsatt mulig å forstå hvorfor loven favoriserer "
+"Hollywood: De fleste kjenner ikke igjen grunner til å begrense "
+"vernetiden for opphavsretten.  Det er dermed forsatt mulig å se god "
+"tro hos motstanden."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kelly, Kevin"
