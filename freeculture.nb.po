@@ -23284,9 +23284,8 @@ msgstr ""
 "et register hvor opphavsrettseierene kan identifiseres."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Berlin Act (1908)"
-msgstr "Berlin act (1908)"
+msgstr "Berlinloven (1908)"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Berne Convention (1908)"
@@ -23492,7 +23491,6 @@ msgstr ""
 "mye bedre system for å beskytte eiendom."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It is similarly special physics that makes formalities important in "
 "copyright law. Unlike a carpenter's table, there's nothing in nature that "
@@ -23505,15 +23503,18 @@ msgid ""
 "formalities. Complex, expensive, <emphasis>lawyer</emphasis> transactions "
 "take their place.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"på samme måte er det spesielle fysikk som gjør formaliteter viktig i lov om "
-"opphavsrett. i motsetning til en snekker tabell er det ingenting i naturen "
-"som gjør det relativt åpenbare som kan eie en bestemt bit av kreative-"
-"egenskapen. et opptak av lyle lovett siste albumet kan finnes i en milliard "
-"steder uten noe nødvendigvis knytte det tilbake til en bestemt eieren. og "
-"som en bil, det er ingen måte å kjøpe og selge kreative egenskapen med "
-"tillit med mindre det er noen enkel måte å godkjenne hvem er forfatter og "
-"hvilke rettigheter han har. enkle transaksjoner er ødelagt i en verden uten "
-"formaliteter. komplisert, dyrt, advokat transaksjoner ta sin plass."
+"Det er lignende spesielle fysiske egenskaper som gjør formaliteter "
+"viktig i opphavsrettslovgiving.  I motsetning til en snekkers bord, er "
+"det ingenting i naturen som gjør det relativt åpenbart hvem som kan "
+"eie en bestemt bit av kreativ eiendom.  Et opptak av Lyle Lovetts "
+"siste album kan eksistere en milliard steder uten at noe nødvendigvis "
+"peker tilbake til en bestemt eier.  Og på samme måte som en bil, er "
+"det ingen måte å være trygg ved kjøp og salg av kreativ eiendom med "
+"mindre det finnes en enkel måte å bekrefte hvem som er forfatteren og "
+"hvilke rettigheter han har.  Enkle transaksjoner blir umulige i en "
+"verden uten formaliteter.  Kompliserte, dyre, "
+"<emphasis>advokat</emphasis>-transaksjoner trer inn i stedet. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
