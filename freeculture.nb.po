@@ -23846,7 +23846,6 @@ msgstr ""
 
 #.  PAGE BREAK 263
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It is not hard to understand why the warriors take this view. It is not hard "
 "to see why it would benefit them if the competition of the public domain "
@@ -23855,12 +23854,13 @@ msgid ""
 "a public that now has the means to create with it and to share its own "
 "creation."
 msgstr ""
-"Det er ikke vanskelig å forstå hvorfor warriors ta denne visningen. Det er "
-"ikke vanskelig å se hvorfor det ville ha nytte dem. Hvis kunne noe ødela "
-"konkurransen av den offentlige sfæren knyttet til Internett. akkurat som rca "
-"fryktet konkurransen av fm, frykter de konkurransen av et offentlig-domene "
-"som er koblet til et offentlig som nå har mulighet til å opprette med det og "
-"dele sin egen etablering."
+"Det er ikke vanskelig å forstå hvorfor krigerne har dette synet.  Det "
+"er ikke vanskelig å se hvordan det vil gi dem fordeler hvis "
+"konkurransen fra allemannseiet knyttet til internettet på en eller "
+"mannen måte kunne knuses.  På samme måte som RCA fryktet konkurransen "
+"fra FM, frykter de konkurransen fra allemannseiet knyttet til en "
+"befolkning som nå har mulighet til å skape med den og dele sine egne "
+"kreasjoner."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
