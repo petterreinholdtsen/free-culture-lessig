@@ -17680,9 +17680,8 @@ msgstr ""
 "bekjempe dagens monopolists kultur."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, mtrans, fuzzy
 msgid "Constraining Creators"
-msgstr "Begrensende skaperne"
+msgstr "Legger bånd på skaperne"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18023,9 +18022,8 @@ msgstr ""
 "de kontrollen."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, mtrans, fuzzy
 msgid "Constraining Innovators"
-msgstr "Begrensende innovators"
+msgstr "Legger bånd på oppfinnere"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "innovation hampered by"
