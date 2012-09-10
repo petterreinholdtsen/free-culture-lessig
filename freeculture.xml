@@ -11059,6 +11059,7 @@ success will require.
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
 <title>CHAPTER THIRTEEN: Eldred</title>
+<indexterm id='idxeldrederic' class='startofrange'><primary>Eldred, Eric</primary></indexterm>
 <indexterm id='idxhawthornenathaniel' class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
 <para>
 <emphasis role='strong'>In 1995</emphasis>, a father was frustrated
@@ -11069,6 +11070,8 @@ Hampshire, decided to put Hawthorne on the Web. An electronic version,
 Eldred thought, with links to pictures and explanatory text, would
 make this nineteenth-century author's work come alive.
 </para>
+<indexterm id='idxlibrariesofpublicdomainliterature' class='startofrange'><primary>libraries</primary><secondary>of public-domain literature</secondary></indexterm>
+<indexterm id='idxpublicdomainlibraryofworksderivedfrom' class='startofrange'><primary>public domain</primary><secondary>library of works derived from</secondary></indexterm>
 <para>
 It didn't work&mdash;at least for his daughters. They didn't find
 Hawthorne any more interesting than before. But Eldred's experiment
@@ -11089,6 +11092,7 @@ accessible to the twentieth century, Eldred transformed Hawthorne, and
 many others, into a form more accessible&mdash;technically
 accessible&mdash;today.
 </para>
+<indexterm><primary>Scarlet Letter, The (Hawthorne)</primary></indexterm>
 <para>
 Eldred's freedom to do this with Hawthorne's work grew from the same
 source as Disney's. Hawthorne's <citetitle>Scarlet Letter</citetitle> had passed into the
@@ -11132,6 +11136,13 @@ world before the Internet were extremely few. Yet one would think it
 at least as important to protect the Eldreds of the world as to
 protect noncommercial pornographers.</para></footnote>
 </para>
+<indexterm id='idxcongressuscopyrighttermsextendedby2' class='startofrange'><primary>Congress, U.S.</primary><secondary>copyright terms extended by</secondary></indexterm>
+<indexterm id='idxcopyrightdurationof6' class='startofrange'><primary>copyright</primary><secondary>duration of</secondary></indexterm>
+<indexterm id='idxcopyrightlawtermextensionsin2' class='startofrange'><primary>copyright law</primary><secondary>term extensions in</secondary></indexterm>
+<indexterm><primary>Frost, Robert</primary></indexterm>
+<indexterm><primary>New Hampshire (Frost)</primary></indexterm>
+<indexterm><primary>patents</primary><secondary>in public domain</secondary></indexterm>
+<indexterm id='idxpatentsfuturepatentsvsfuturecopyrightsin' class='startofrange'><primary>patents</primary><secondary>future patents vs. future copyrights in</secondary></indexterm>
 <para>
 As I said, Eldred lives in New Hampshire. In 1998, Robert Frost's
 collection of poems <citetitle>New Hampshire</citetitle> was slated to
@@ -11146,8 +11157,12 @@ would pass into the public domain until that year (and not even then,
 if Congress extends the term again). By contrast, in the same period,
 more than 1 million patents will pass into the public domain.
 </para>
+<indexterm startref='idxlibrariesofpublicdomainliterature' class='endofrange'/>
+<indexterm startref='idxpublicdomainlibraryofworksderivedfrom' class='endofrange'/>
 <indexterm><primary>Bono, Mary</primary></indexterm>
 <indexterm><primary>Bono, Sonny</primary></indexterm>
+<indexterm id='idxcopyrightinperpetuity4' class='startofrange'><primary>copyright</primary><secondary>in perpetuity</secondary></indexterm>
+<indexterm id='idxsonnybonocopyrighttermextensionactctea2' class='startofrange'><primary>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</primary></indexterm>
 <para>
 
 <!-- PAGE BREAK 222 -->
@@ -11166,8 +11181,12 @@ you know, there is also Jack Valenti's proposal for a term to last
 forever less one day. Perhaps the Committee may look at that next
 Congress,</quote> 144 Cong. Rec. H9946, 9951-2 (October 7, 1998).
 </para></footnote>
-
 </para>
+<indexterm startref='idxpatentsfuturepatentsvsfuturecopyrightsin' class='endofrange'/>
+<indexterm><primary>copyright law</primary><secondary>felony punishment for infringement of</secondary></indexterm>
+<indexterm><primary>NET (No Electronic Theft) Act (1998)</primary></indexterm>
+<indexterm><primary>No Electronic Theft (NET) Act (1998)</primary></indexterm>
+<indexterm><primary>peer-to-peer (p2p) file sharing</primary><secondary>felony punishments for</secondary></indexterm>
 <para>
 Eldred decided to fight this law. He first resolved to fight it through
 civil disobedience. In a series of interviews, Eldred announced that he
@@ -11177,6 +11196,11 @@ of publishing would make Eldred a felon&mdash;whether or not anyone
 complained. This was a dangerous strategy for a disabled programmer
 to undertake.
 </para>
+<indexterm startref='idxsonnybonocopyrighttermextensionactctea2' class='endofrange'/>
+<indexterm id='idxcongressusconstitutionalpowersof' class='startofrange'><primary>Congress, U.S.</primary><secondary>constitutional powers of</secondary></indexterm>
+<indexterm id='idxconstitutionusprogressclauseof2' class='startofrange'><primary>Constitution, U.S.</primary><secondary>Progress Clause of</secondary></indexterm>
+<indexterm id='idxprogressclause2' class='startofrange'><primary>Progress Clause</primary></indexterm>
+<indexterm id='idxlessiglawrenceeldredcaseinvolvementof' class='startofrange'><primary>Lessig, Lawrence</primary><secondary>Eldred case involvement of</secondary></indexterm>
 <para>
 It was here that I became involved in Eldred's battle. I was a 
 		constitutional
@@ -11194,6 +11218,7 @@ by securing for limited Times to Authors &hellip; exclusive Right to
 their &hellip; Writings. &hellip;
 </para>
 </blockquote>
+<indexterm startref='idxeldrederic' class='endofrange'/>
 <para>
 As I've described, this clause is unique within the power-granting
 clause of Article I, section 8 of our Constitution. Every other clause
@@ -11204,6 +11229,9 @@ specific&mdash;to <quote>promote &hellip; Progress</quote>&mdash;through means t
 are also specific&mdash; by <quote>securing</quote> <quote>exclusive Rights</quote> (i.e.,
 copyrights) <quote>for limited Times.</quote>
 </para>
+<indexterm startref='idxconstitutionusprogressclauseof2' class='endofrange'/>
+<indexterm startref='idxprogressclause2' class='endofrange'/>
+<indexterm startref='idxlessiglawrenceeldredcaseinvolvementof' class='endofrange'/>
 <indexterm><primary>Jaszi, Peter</primary></indexterm>
 <para>
 In the past forty years, Congress has gotten into the practice of
@@ -11216,6 +11244,9 @@ Congress has the power to extend its term, then Congress can achieve
 what the Constitution plainly forbids&mdash;perpetual terms <quote>on the
 installment plan,</quote> as Professor Peter Jaszi so nicely put it.
 </para>
+<indexterm startref='idxcopyrightinperpetuity4' class='endofrange'/>
+<indexterm startref='idxcongressusconstitutionalpowersof' class='endofrange'/>
+<indexterm><primary>Lessig, Lawrence</primary><secondary>Eldred case involvement of</secondary></indexterm>
 <para>
 As an academic, my first response was to hit the books. I remember
 sitting late at the office, scouring on-line databases for any serious
@@ -11361,6 +11392,9 @@ constitutional requirement that terms be <quote>limited.</quote> If
 they could extend it once, they would extend it again and again and
 again.
 </para>
+<indexterm startref='idxcongressuscopyrighttermsextendedby2' class='endofrange'/>
+<indexterm startref='idxcopyrightdurationof6' class='endofrange'/>
+<indexterm startref='idxcopyrightlawtermextensionsin2' class='endofrange'/>
 <para>
 It was also my judgment that <emphasis>this</emphasis> Supreme Court
 would not allow Congress to extend existing terms. As anyone close to
