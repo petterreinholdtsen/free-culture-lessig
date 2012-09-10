@@ -20509,7 +20509,6 @@ msgstr ""
 
 #.  PAGE BREAK 225
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "You quickly get the point&mdash;you as the member of the board and, I trust, "
 "you the reader. Each time copyrights are about to expire, every beneficiary "
@@ -20519,12 +20518,13 @@ msgid ""
 "expire, there is a massive amount of lobbying to get the copyright term "
 "extended."
 msgstr ""
-"du raskt få poeng&mdash;du som medlem av styret, og jeg stoler du leseren. "
-"hver gang opphavsrett er om å opphøre, hver mottaker i posisjon av robert "
-"frost eiendom står overfor det samme valget: Hvis de kan bidra til å få en "
-"lov vedtatt for å utvide opphavsrettigheter, de vil ha stor nytte fra denne "
-"filtypen. og så hver gang opphavsrett er om å opphøre, det er en enorm "
-"mengde lobbyvirksomhet for å få opphavsrett begrepet utvidet."
+"Du tar raskt poenget&mdash;du som medlem av styret og, regner jeg "
+"med, du som leser.  Hver gang opphavsretten holder på å løpe ut, har "
+"hver eneste mottaker i samme posisjon som boet etter Robert Frost det "
+"samme valget: Hvis de bidrar til å få en lov vedtatt som utvider "
+"opphavsretten så vil de ha stor nytte av den utvidelsen.  Så hver "
+"eneste gang opphavsretten er i ferd med å løpe ut, så er det en massiv "
+"lobbyering for å få opphavsrettsvernetiden utvidet."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
