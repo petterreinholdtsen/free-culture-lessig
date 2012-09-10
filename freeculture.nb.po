@@ -20110,7 +20110,7 @@ msgstr ""
 "Eldreds frihet til å gjøre dette med Hawthornes verk kom fra samme "
 "kilde som Disneys.  Hawthornes <citetitle>Scarlet Letter</citetitle> "
 "hadde falt i det fri i 1907.  Alle hadde frihet til å ta det uten "
-"tillatelse fra Hawthorne-arvingene eller noen andre.  Noen, slik som "
+"tillatelse fra boet etter Hawthorne eller noen andre.  Noen, slik som "
 "Dover Press og Penguin Classics, tar verk som er falt i det fri og "
 "lager papirutgaver som de selger i bokhandler rundt om i landet. "
 "Andre, slik som Disney, tar disse historiene og gjør dem om til "
@@ -20377,7 +20377,6 @@ msgstr ""
 "betaler? forlengelse av lønner seg."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "If that's not obvious to you, consider the following: Say you're one of the "
 "very few lucky copyright owners whose copyright continues to make money one "
@@ -20387,125 +20386,126 @@ msgid ""
 "of copyright, since no publisher would pay the estate any money if the poems "
 "Frost wrote could be published by anyone for free."
 msgstr ""
-"Hvis det ikke er åpenbart for deg, kan du vurdere følgende: si du er en av "
-"svært få heldige opphavsrett eierne som har copyright fortsetter å gjøre "
-"penger ett hundre år etter at den ble opprettet. eiendom av robert frost er "
-"et godt eksempel. Frost døde i 1963. hans poesi fortsetter å være svært "
-"verdifull. Dermed kan robert frost eiendom fordelene sterkt fra noen "
-"utvidelse av opphavsrett, siden ingen publisher vil betale eiendom noen "
-"penger hvis dikt frost skrev publiseres av alle gratis."
+"Hvis det ikke er åpenbart for deg, vurder følgnede: La oss si at du "
+"er en av de heldige få opphavsrettseierne hvis opphavsrett fortsetter "
+"å skaffe penger ett hundre år etter at den ble tildelt.  Boet etter "
+"Robert Frost er et godt eksempel.  Frost døde i 1963.  Hans poesi "
+"forsetter å væræ svært verdifull.  Dermed har boet etter Robert Frost "
+"store fordeler av en utvidelse av opphavsretten, siden ingen utgiver "
+"ville betale boet penger hvis diktene Frost skrev kunne gis gratis ut "
+"av enhver."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "So imagine the Robert Frost estate is earning $100,000 a year from three of "
 "Frost's poems. And imagine the copyright for those poems is about to expire. "
 "You sit on the board of the Robert Frost estate.  Your financial adviser "
 "comes to your board meeting with a very grim report:"
 msgstr ""
-"så forestille robert frost eiendom er tjener $100.000 i året fra tre av "
-"frost's dikt. og forestille seg opphavsretten for disse diktene er i ferd "
-"med å utløpe. du sitter i styret for robert frost eiendom. finansiell "
-"rådgiver kommer til din styremøte med en svært dystre rapport:"
+"Forestill deg så at boet etter Robert Frost tjener $100&nbsp; hvert "
+"år fra tre av diktene til Frist.  Og forestill deg så at disse diktene "
+"snart faller i det fri.  Du sitter i styret for boet etter Robert "
+"Frost.  Din økonomirådgiver kommer til styremøtet med en veldig dyster "
+"rapport:"
 
 #.  PAGE BREAK 224
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Next year,</quote> the adviser announces, <quote>our copyrights in "
 "works A, B, and C will expire. That means that after next year, we will no "
 "longer be receiving the annual royalty check of $100,000 from the publishers "
 "of those works.</quote>"
 msgstr ""
-"\"neste år,\" rådgiver kunngjør, \"våre opphavsrett i works a, b og c vil "
-"utløpe. Det betyr at etter neste år, vi vil ikke lenger motta årlige royalty "
-"kontroll av $100.000 fra utgivere av disse fungerer."
+"<quote>Neste år</quote>, kunngjør rådgiveren, <quote>vil verkene A, B "
+"og C falle i det fri.  Det betyr at etter neste år vil vi ikke lenger "
+"motta den årlige vederlags-sjekken på $100&nbsp;000 fra utgiverne av "
+"disse verkene.</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>There's a proposal in Congress, however,</quote> she continues, "
 "<quote>that could change this. A few congressmen are floating a bill to "
 "extend the terms of copyright by twenty years. That bill would be "
 "extraordinarily valuable to us. So we should hope this bill passes.</quote>"
 msgstr ""
-"\"det er et forslag i Kongressen, men,\" hun fortsetter, \"som kan endre "
-"dette. noen congressmen flyter en regning å utvide vilkårene i copyright ved "
-"tjue år. at regningen ville være ekstremt verdifullt for oss. så vi bør håpe "
-"passerer denne regningen.\""
+"<quote>Men det er et forslag i kongressen</quote>, forsetter hun, "
+"<quote>som kan endre dette.  Noen kongressrepresentanter har lansert "
+"et lovforslag om å utvide vernetiden i opphavsretten med tjue år.  Det "
+"forslaget vil være ekstremt verdifullt for oss.  Så vi bør håpe at den "
+"loven blir vedtatt.</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Hope?</quote> a fellow board member says. <quote>Can't we be doing "
 "something about it?</quote>"
 msgstr ""
-"\"håper?\" styremedlem stipendiat sier. \"kan ikke vi gjøre noe med det?\""
+"<quote>Håpe?</quote>, sier en kollega i styret.  <quote>Kan vi ikke "
+"gjøre noe med det?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Well, obviously, yes,</quote> the adviser responds. <quote>We could "
 "contribute to the campaigns of a number of representatives to try to assure "
 "that they support the bill.</quote>"
 msgstr ""
-"\"Vel, tydeligvis ja,\" rådgiver svarer. \"vi kunne bidra til kampanjene av "
-"en rekke representanter å prøve å sikre at de støtter regningen.\""
+"<quote>Vel, jo, selvfølgelig</quote>, svarer rådgiveren.  <quote>Vi "
+"kan bidra til valgkampanjene til et antall representanter for å "
+"forsøke å sikre at de vil støtte lovforslaget.</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "You hate politics. You hate contributing to campaigns. So you want to know "
 "whether this disgusting practice is worth it. <quote>How much would we get "
 "if this extension were passed?</quote> you ask the adviser. <quote>How much "
 "is it worth?</quote>"
 msgstr ""
-"du hater politikk. du hater at bidra til kampanjer. så du ønsker å vite om "
-"denne motbydelig praksis er verdt det. \"hvor mye ville vi få Hvis denne "
-"utvidelsen ble passert?\" du be rådgiver. \"hvor mye er det verdt?\""
+"Du hater politikk.  Du hater å bidra til valgkampanjer.  Så du ønsker "
+"å vite hvorvidt denne motbydelige praksisen er verdt det.  <quote>Hvor "
+"mye vil vi få hvis denne utvidelsen blir vedtatt?</quote> spør du "
+"rådgiveren.  <quote>Hvor mye er det verdt?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Well,</quote> the adviser says, <quote>if you're confident that you "
 "will continue to get at least $100,000 a year from these copyrights, and you "
 "use the `discount rate' that we use to evaluate estate investments (6 "
 "percent), then this law would be worth $1,146,000 to the estate.</quote>"
 msgstr ""
-"\"Vel,\" rådgiver sier, \"Hvis du er sikker på at du vil fortsette å få "
-"minst $100.000 i året fra disse opphavsrett, og du bruker 'diskontosats' som "
-"vi bruker til å evaluere eiendom investeringer (6 prosent), og denne loven "
-"vil være verdt $1,146,000 til eiendom.\""
+"<quote>Vel</quote>, sier rådgiveren og fortsetter.  <quote>Hvis du er "
+"sikker på at du vil fortsette å få minst $100&nbsp;000 i året for "
+"disse opphavsrettene, og du bruker samme "
+"<quote>diskonteringssats</quote> som vi bruker for å vurdere "
+"eiendomsinvesteringer (6 prosent), så vil denne loven være verdt "
+"$1&nbsp;146&nbsp;000 til boet.</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "You're a bit shocked by the number, but you quickly come to the correct "
 "conclusion:"
 msgstr ""
-"du er litt sjokkert av nummeret, men du komme raskt til riktig konklusjon:"
+"Du blir litt sjokkert over tallet, men du kommer raskt frem til "
+"riktig konklusjon:"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>So you're saying it would be worth it for us to pay more than "
 "$1,000,000 in campaign contributions if we were confident those "
 "contributions would assure that the bill was passed?</quote>"
 msgstr ""
-"så du sier det ville være verdt det for oss å betale mer enn $1,000,000 i "
-"kampanjen bidrag om vi var sikker på disse bidragene vil forsikre at "
-"regningen ble sendt?"
+"<quote>Så du sier at det vil være verdt det for oss å betale mer enn "
+"$1&nbsp;000&nbsp;000 i valgkampbidrag hvis vi var trygge på at disse "
+"bidragene ville sikre at loven ble vedtatt?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Absolutely,</quote> the adviser responds. <quote>It is worth it to "
 "you to contribute up to the `present value' of the income you expect from "
 "these copyrights. Which for us means over $1,000,000.</quote>"
 msgstr ""
-"\"absolutt\", svarer rådgiver. \"det er verdt det for deg å bidra med opp "
-"til stede verdien av inntekten du forventer fra disse opphavsrettigheter. "
-"som for oss betyr over $1,000,000.\""
+"<quote>Aboslutt</quote>, svarer rådgiveren.  <quote>Det er verdt det "
+"hvis du bidrar med opp til dagens verdi av inntektene du forventer fra "
+"disse opphavsrettene.  Hvilket for oss betyr over "
+"$1&nbsp;000&nbsp;000.</quote>"
 
 #.  PAGE BREAK 225
 #. type: Content of: <book><part><chapter><para>
@@ -20527,15 +20527,14 @@ msgstr ""
 "mengde lobbyvirksomhet for å få opphavsrett begrepet utvidet."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Thus a congressional perpetual motion machine: So long as legislation can be "
 "bought (albeit indirectly), there will be all the incentive in the world to "
 "buy further extensions of copyright."
 msgstr ""
-"dermed en Kongressens evighetsmaskin maskin: så lenge lovgivning kan kjøpes "
-"(riktignok indirekte), vil det være alle ansporingen i verden til å kjøpe "
-"ytterligere utvidelser av copyright."
+"Dermed har vi en kongressbasert evighetsmaskin: Så lenge lovgiving "
+"kan kjøpes (riktignok indirekte), så vil det være alle insentiver i "
+"verden for å kjøpe ytterligere utvidelser av opphavsretten."
 
 #.  f3.
 #. type: Content of: <book><part><chapter><para><footnote><para>
