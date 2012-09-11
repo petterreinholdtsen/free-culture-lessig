@@ -3860,16 +3860,15 @@ msgstr "utdanning"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in media literacy"
-msgstr ""
+msgstr "i mediekompetanse"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media literacy"
-msgstr ""
+msgstr "mediekompetanse"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "media literacy and"
-msgstr "blande teknologi og"
+msgstr "mediekompetanse og"
 
 #.  f9
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5235,24 +5234,20 @@ msgid "Rensselaer Polytechnic Institute (RPI)"
 msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "computer network search engine of"
-msgstr "datamaskinen nettverk søkemotor av"
+msgstr "datanettverksøkemotor ved"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "search engines"
 msgstr "søkemotorer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "university computer networks, p2p sharing on"
-msgstr "Universitetet datanettverk, p2p fildeling på"
+msgstr "universitetdatanettverk, p2p-fildeling på"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "search engines used on"
-msgstr "søkemotorer som er brukt på"
+msgstr "søkemotorer brukt på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
