@@ -20695,7 +20695,6 @@ msgstr ""
 "utdanningen handel."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "As the economy grew, this standard increasingly meant that there was no "
 "limit to Congress's power to regulate, since just about every activity, when "
@@ -20703,11 +20702,12 @@ msgid ""
 "designed to limit Congress's power was instead interpreted to impose no "
 "limit."
 msgstr ""
-"som økonomien vokste, mente denne standarden stadig at det var ingen grense "
-"congress's makt til å regulere, siden omtrent hver aktivitet, når det i "
-"nasjonal skala, påvirker utdanningen handel. en konstitusjon som er utformet "
-"for å begrense Kongressens makt ble i stedet tolket for å innføre ingen "
-"grense."
+"Etter hvert som økonomien vokste, betød denne standarden i stadig "
+"større grad at det ikke var noen grenser for kongressens myndighet til "
+"å regulere, siden omtrent hver eneste aktivitet, når en vurderte det "
+"på nasjonal skala, påvirker mellomstatlig handel.  En grunnlov "
+"utformet for å begrense kongressens myndighet ble istedet tolket til å "
+"ikke ha noen grense."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Rehnquist, William H."
@@ -20740,19 +20740,21 @@ msgstr ""
 
 #.  f6.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Lopez</citetitle>, 514 U."
 "S. 549, 564 (1995)."
-msgstr "USA v. lopez, 514 amerikanske 549, 564 (1995)."
+msgstr ""
+"<citetitle>United States</citetitle> mot <citetitle>Lopez</citetitle>, 514 U."
+"S. 549, 564 (1995)."
 
 #.  f7.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>, 529 "
 "U.S. 598 (2000)."
-msgstr "USA v. morrison, 529 amerikanske 598 (2000)."
+msgstr ""
+"<citetitle>United States</citetitle> mot <citetitle>Morrison</citetitle>, 529 "
+"U.S. 598 (2000)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
