@@ -20885,6 +20885,14 @@ msgid ""
 "Constitution's requirements, but that doesn't make the Constitution a "
 "pirate's charter."
 msgstr ""
+"Noen folk ser på allemannseiet med forakt.  I notatet de sendt til "
+"høyesterett, skrev Nashville sangsforfatterforening at allemannseiet "
+"ikke var noe annet enn <quote>lovlig "
+"piratvirksomhet</quote>.<placeholder type=\"footnote\" id=\"0\"/> Men "
+"det er ikke piratvirksomhet når loven tillater det.  Og i vårt "
+"konstituelle system krever loven dette.  Noen liker kanskje ikke "
+"kravene i grunnloven vår, men det gjør ikke grunnloven til en "
+"piratkodeks."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -20936,6 +20944,11 @@ msgid ""
 "<citetitle>Ashcroft</citetitle>, 7, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #52</ulink>."
 msgstr ""
+"Tallet 2 prosent er en ektrapolering fra en undersøkelse gjort av "
+"kongressens forskningstjeneste, med bakgrunn i de estimerte "
+"fornyelsespennene.  Se Brief of Petitioners, <citetitle>Eldred</citetitle> mot "
+"<citetitle>Ashcroft</citetitle>, 7, tilgjengelig fra <ulink url=\"http://free-"
+"culture.cc/notes/\">link #52</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
