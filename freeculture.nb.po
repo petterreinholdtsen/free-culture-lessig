@@ -21423,9 +21423,8 @@ msgstr ""
 "interfered med noe."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid "But this situation has now changed."
-msgstr "men denne situasjonen er nå endret."
+msgstr "Men denne situasjonen er nå endret."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
