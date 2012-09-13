@@ -20864,9 +20864,8 @@ msgstr ""
 "oss alle."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Nashville Songwriters Association"
-msgstr "Nashville songwriters association"
+msgstr "Nashville sangforfatterforening"
 
 #.  f9.
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -20876,6 +20875,10 @@ msgid ""
 "01-618), n.10, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #51</ulink>."
 msgstr ""
+"Notat fra Nashvillesangforfatterforening, <citetitle>Eldred</"
+"citetitle> mot <citetitle>Ashcroft</citetitle>, 537 U.S.  186 (2003) (No. "
+"01-618), n.10, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
+"\">link #51</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -20888,7 +20891,7 @@ msgid ""
 "pirate's charter."
 msgstr ""
 "Noen folk ser på allemannseiet med forakt.  I notatet de sendt til "
-"høyesterett, skrev Nashville sangsforfatterforening at allemannseiet "
+"høyesterett, skrev Nashville sangforfatterforening at allemannseiet "
 "ikke var noe annet enn <quote>lovlig "
 "piratvirksomhet</quote>.<placeholder type=\"footnote\" id=\"0\"/> Men "
 "det er ikke piratvirksomhet når loven tillater det.  Og i vårt "
@@ -20998,25 +21001,23 @@ msgstr ""
 "bøker som fortsatt under opphavsrett."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Then for the books still under copyright, you would need to locate the "
 "current copyright owners. How would you do that?"
 msgstr ""
-"deretter for bøkene fortsatt under opphavsrett trenger du å finne gjeldende "
-"opphavsrett eiere. How 'd du gjøre det?"
+"Så for bøkerne som fortsatt er vernet av opphavsretten må en finne de "
+"nåværende opphavsrettseiere.  Hvordan vil du gjøre det?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Most people think that there must be a list of these copyright owners "
 "somewhere. Practical people think this way. How could there be thousands and "
 "thousands of government monopolies without there being at least a list?"
 msgstr ""
-"de fleste mennesker tror at det må være en liste over disse eiere av "
-"opphavsretter et sted. praktisk folk tror på denne måten. Hvordan kunne det "
-"være tusenvis og tusenvis av regjeringen monopoler uten det er minst en "
-"liste?"
+"De fleste folk tenker at det må være en liste over disse "
+"opphavsrettseierne en eller annen plass.  Praktiske folk tenker slik. "
+"Hvordan kan det være tusener på tusener av monopoler delt ut av "
+"myndighetene uten at det i hvert fall finnes en liste?"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
