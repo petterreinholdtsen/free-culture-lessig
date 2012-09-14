@@ -20680,7 +20680,6 @@ msgstr ""
 "som forbød besittelse av våpen nær skoler."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Since 1937, the Supreme Court had interpreted Congress's granted powers very "
 "broadly; so, while the Constitution grants Congress the power to regulate "
@@ -20688,11 +20687,12 @@ msgid ""
 "commerce</quote>), the Supreme Court had interpreted that power to include "
 "the power to regulate any activity that merely affected interstate commerce."
 msgstr ""
-"siden 1937, hadde Høyesterett tolket congress's gitt krefter svært bredt; så "
-"mens Grunnloven gir Kongressen makt til å regulere bare \"handel mellom "
-"flere stater\" (aka \"utdanningen handel\"), Høyesterett hadde tolket som "
-"makt til å inkludere makt til å regulere alle aktiviteter som bare berørt "
-"utdanningen handel."
+"Siden 1937 hadde høyesterett tolket kongressens tildelte myndighet "
+"svært bredt. Så mens grunnloven gir kongressen myndighet til å kun "
+"regulere <quote>handel mellom stater</quote> (aka <quote>mellomstatlig "
+"handel</quote>), så hadde høyesterett tolket den myndigheten til å "
+"inneholde myndigheten til å regulere enhver aktivitet som kun berører "
+"mellomstatlig handel."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
