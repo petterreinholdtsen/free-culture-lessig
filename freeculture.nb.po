@@ -21122,12 +21122,10 @@ msgid "Agee, Michael"
 msgstr "Agee, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Hal Roach Studios"
-msgstr "Hal mort studios"
+msgstr "Hal Roach Studios"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Laurel and Hardy Films"
 msgstr "Helan og Halvan-filmene"
 
