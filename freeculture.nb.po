@@ -21044,7 +21044,6 @@ msgstr ""
 "det finnes en liste over opphavsrettseiere?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Well, actually, if you think about it, there <emphasis>are</emphasis> plenty "
 "of lists of who owns what property. Think about deeds on houses, or titles "
@@ -21053,12 +21052,13 @@ msgid ""
 "your backyard is probably yours.) So formally or informally, we have a "
 "pretty good way to know who owns what tangible property."
 msgstr ""
-"Vel, egentlig, er Hvis du tenker på det, det masse av lister av hvem som "
-"eier hva egenskapen. Tenk på gjerninger på hus eller titler til biler. og "
-"der det ikke finnes en liste, koden for virkelige rommet er ganske god til å "
-"foreslå som eieren av en bit av egenskapen er. (en sving i bakgården er "
-"sannsynligvis ditt.) så har formelt eller uformelt, vi en ganske god måte å "
-"vite hvem som eier hvilke konkrete-egenskapen."
+"Vel, egentlig, når du tenker på det, så <emphasis>finnes</quote> det "
+"mange lister over hvem som eier hvilken eiendom.  Tenk på skjøter for "
+"hus, eller hvem som eier biler.  Og der det ikke finnes en liste, så "
+"er koden for den virkelige verden ganske god til å foreslå hvem som "
+"eier en bit eiendom (en huske plassert i bakhagen din er sannsynlig "
+"vis din) Så formelt eller uformelt har vi en ganske god måte å vite "
+"hvem som eier hvilken håndgripelig eiendom."
 
 #.  PAGE BREAK 230
 #. type: Content of: <book><part><chapter><para>
