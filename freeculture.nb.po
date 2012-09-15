@@ -21040,7 +21040,7 @@ msgid ""
 "copyright owners?</quote>"
 msgstr ""
 "<quote>Men det er ikke generelt en liste over hvem som eier "
-"eiedom</quote> svarer forsvarerne av systemet.  <quote>Hvorfor skulle "
+"eiendom</quote> svarer forsvarerne av systemet.  <quote>Hvorfor skulle "
 "det finnes en liste over opphavsrettseiere?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
@@ -21108,15 +21108,14 @@ msgstr ""
 "eierens tillatelse, egenskapen er ikke skal brukes."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The consequence with respect to old books is that they won't be digitized, "
 "and hence will simply rot away on shelves. But the consequence for other "
 "creative works is much more dire."
 msgstr ""
-"konsekvens med hensyn til gamle bøker er at de ikke digitalisert, og dermed "
-"vil bare rot bort på hyller. men konsekvensen for andre kreative verker er "
-"mye mer dire."
+"Konsekvensen men gamle bøker er at de ikke vil bli digitalisert, og "
+"dermed ganske enkelt vil rotne bort på hyller.  Men konsekvensen for "
+"andre kreative arbeider er mye mer alvorlig."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Agee, Michael"
@@ -21168,17 +21167,17 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet Agee opposed the CTEA. His reasons demonstrate a rare virtue in this "
 "culture: selflessness. He argued in a brief before the Supreme Court that "
 "the Sonny Bono Copyright Term Extension Act will, if left standing, destroy "
 "a whole generation of American film."
 msgstr ""
-"ennå imot agee ctea. hans grunner demonstrere en sjelden dyd i denne "
-"kulturen: selflessness. Han hevdet i en kort før Høyesterett at sonny bono "
-"opphavsrett begrepet filtypen act vil, hvis stå stående, ødelegge en hel "
-"generasjon av american film."
+"Likevel gikk Agee mot CTEA.  Hans begrunnelse en sjelden dyd i denne "
+"kulturen: uselviskhet.  Han argumenterte i sitt innlegg foran "
+"høyesteretten at Sonny Bono utvidelse av opphavsrettsvernetid-loven "
+"vil, hvis den ble stående, ødelegge en hel generasjon med amerikansk "
+"film."
 
 #.  PAGE BREAK 231
 #. type: Content of: <book><part><chapter><para>
