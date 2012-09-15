@@ -20967,7 +20967,6 @@ msgstr ""
 
 #.  PAGE BREAK 229
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Think practically about the consequence of this extension&mdash;practically, "
 "as a businessperson, and not as a lawyer eager for more legal work. In 1930, "
@@ -20976,15 +20975,14 @@ msgid ""
 "to the world in your iArchive project the remaining 9,873. What would you "
 "have to do?"
 msgstr ""
-"Tenk praktisk talt konsekvens av denne utvidelsen&mdash;praktisk talt, som "
-"en businessperson, og ikke som en advokat ivrige etter å få mer juridisk "
-"arbeid. i 1930, ble 10,047 bøker utgitt. i 2000 var 174 av bøkene fortsatt i "
-"utskriften. La oss si at du var brewster kahle, og du vil gjøre tilgjengelig "
-"for verden i iarchive prosjektet gjenværende 9,873. Hva ville du trenger å "
-"gjøre?"
+"Tenk praktisk om konsekvensen av denne utvidelsen&mdash;praktisk som "
+"en forretningsmann, ikke som en advokat ivrig etter mer juridisk "
+"arbeide.  I 1930 ble 10047 bøker publisert.  I 2000 var 174 av disse "
+"bøkene fortsatt tilgjengelig fra forlaget.  La oss anta at du var "
+"Brewster Kahle, og du ønsket å gjøre de resterende 9873 tilgjengelig "
+"for verden i ditt iArkiv-prosjekt.  Hva ville du måtte gjøre?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Well, first, you'd have to determine which of the 9,873 books were still "
 "under copyright. That requires going to a library (these data are not on-"
@@ -20993,12 +20991,13 @@ msgid ""
 "records for works published in 1930. That will produce a list of books still "
 "under copyright."
 msgstr ""
-"Vel, først, ville du har til å bestemme hvilke av de 9,873 bøkene var "
-"fortsatt under copyright. som krever skal et bibliotek (disse dataene ikke "
-"er on-line) og sidevekslingsfilen gjennom tomes bøker, på tvers av "
-"kontrollere titler og forfatterne av 9,873 bøker med copyright registrering "
-"og fornyelse postene for verk utgitt i 1930. som vil produsere en liste over "
-"bøker som fortsatt under opphavsrett."
+"Vel, først må du finne ut hvilke av disse 9873 bøkene som fortsatt er "
+"vernet av opphavsretten.  Det krever at du går til biblioteket (den "
+"informasjonen er ikke tilgjengelig på nettet) og blar igjennom haller "
+"med bøker mens du kryss-sjekker titler og forfatterne av disse 9873 "
+"bøkene med opphavsrettsregistreringene og fornyingsmeldingene for "
+"verker publisert i 1930.  Dette vil gi en liste med bøker som fortsatt "
+"er vernet av opphavsretten."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21020,7 +21019,6 @@ msgstr ""
 "myndighetene uten at det i hvert fall finnes en liste?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But there is no list. There may be a name from 1930, and then in 1959, of "
 "the person who registered the copyright. But just think practically about "
@@ -21028,22 +21026,22 @@ msgid ""
 "records&mdash;especially since the person who registered is not necessarily "
 "the current owner. And we're just talking about 1930!"
 msgstr ""
-"men det er ingen liste. Det kan være et navn fra 1930, og deretter i 1959, "
-"på personen som registrerte opphavsretten. men det er bare tenke praktisk "
-"talt på hvordan impossibly vanskelig det ville være å spore opp tusenvis av "
-"slike poster&mdash;spesielt siden personen som registrert ikke er "
-"nødvendigvis gjeldende eier. og vi snakker bare om 1930!"
+"Men det er ingen liste.  Det kan være et navn fra 1930, og deretter i "
+"1959, for personen som registrerte opphavsretten.  Men bare tenkt "
+"praktisk rundt hvor utrolig vanskelig det vil være å spore opp "
+"tusenvis av slike arkivoppføringer&mdash;spesielt siden personen som "
+"er registrert ikke nødvendigvis er den nåværende eier.  Og vi snakker "
+"kun om 1930!"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>But there isn't a list of who owns property generally,</quote> the "
 "apologists for the system respond. <quote>Why should there be a list of "
 "copyright owners?</quote>"
 msgstr ""
-"\"men det er ikke en liste av hvem som eier egenskapen vanligvis\" "
-"apologists for systemet svarer. \"Hvorfor skulle det være en liste over "
-"eiere av opphavsretter?\""
+"<quote>Men det er ikke generelt en liste over hvem som eier "
+"eiedom</quote> svarer forsvarerne av systemet.  <quote>Hvorfor skulle "
+"det finnes en liste over opphavsrettseiere?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
