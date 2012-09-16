@@ -21602,17 +21602,17 @@ msgstr ""
 "eksisterende vilkår."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "We asked the Court of Appeals for the D.C. Circuit as a whole to hear the "
 "case. Cases are ordinarily heard in panels of three, except for important "
 "cases or cases that raise issues specific to the circuit as a whole, where "
 "the court will sit <quote>en banc</quote> to hear the case."
 msgstr ""
-"vi spurte court of appeals for DC-kretsen som helhet å høre tilfelle. "
-"tilfeller er vanligvis hørt i paneler med tre, med unntak av viktige saker "
-"eller tilfeller som øke problemer som er spesifikke for kretsen som helhet, "
-"der domstolen skal sitte \"no banc\" for å høre tilfelle."
+"Vi spurte hele ankedomstolen for D.C. ankekretsen om å ta opp saken. "
+"Saker tas normalt opp i et panel med tre deltagere, med unntak av "
+"viktige saker eller saker som tar opp tema som er spesifikk for "
+"kretsen som helhet, der domstolen vil samles <quote>en banc</quote> "
+"for å ta opp saken."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Tatel, David"
@@ -21620,17 +21620,17 @@ msgstr "Tatel, David"
 
 #.  PAGE BREAK 236
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The Court of Appeals rejected our request to hear the case en banc.  This "
 "time, Judge Sentelle was joined by the most liberal member of the D.C. "
 "Circuit, Judge David Tatel. Both the most conservative and the most liberal "
 "judges in the D.C. Circuit believed Congress had overstepped its bounds."
 msgstr ""
-"lagmannsrett avvist vår anmodning om å høre case no banc. Denne gangen "
-"vurdere sentelle ble med seg mest liberale medlem av DC-krets, bedømme david "
-"tatel. både den mest konservative og mest liberale dommere i DC-krets mente "
-"Kongressen hadde overstepped sin grensene."
+"Ankedomstolen avviste vår anmodning om å ta opp saken en banc. "
+"Denne gangen fikk dommer Sentelle følge av det mest "
+"liberale medlemmet av ankekretsen i D.C., dommer David Tatel.  Både "
+"de mest konservative og den mest liberale dommerne i ankekretsen i "
+"D.C. mente kongressen hadde gått over side grenser."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
