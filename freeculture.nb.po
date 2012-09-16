@@ -21633,7 +21633,6 @@ msgstr ""
 "D.C. mente kongressen hadde gått over side grenser."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It was here that most expected Eldred v. Ashcroft would die, for the Supreme "
 "Court rarely reviews any decision by a court of appeals. (It hears about one "
@@ -21641,23 +21640,23 @@ msgid ""
 "practically never reviews a decision that upholds a statute when no other "
 "court has yet reviewed the statute."
 msgstr ""
-"Det var her at de fleste forventet eldred v. ashcroft ville dø, for "
-"Høyesterett vurderinger sjelden noen avgjørelse av en domstol i appeller. "
-"(det hører rundt hundre tilfeller et år, ut av mer enn fem tusen appeller.) "
-"og det praktisk talt aldri vurderinger en beslutning som opprettholder en "
-"vedtekt når ingen andre domstolen har gjennomgått vedtektene."
+"Det var her de fleste forventet at Eldred mot Ashcroft ville dø, for "
+"høyesterett tar sjelden opp en avgjørelse gjort av en "
+"ankedomstol.  (Den tar opp omtrent hundre saker i året, ut av mer enn "
+"fem tusen anker.)  Og den revurderer praktiskt talt aldri en "
+"avgjørelse som opprettholder en regel når ingen annen domstol så langt "
+"har revurdert regelen."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But in February 2002, the Supreme Court surprised the world by granting our "
 "petition to review the D.C. Circuit opinion. Argument was set for October of "
 "2002. The summer would be spent writing briefs and preparing for argument."
 msgstr ""
-"men i februar 2002, Høyesterett overrasket verden ved å gi vår "
-"underskriftskampanje for å gå gjennom DC krets oppfatning. argumentet ble "
-"satt for oktober 2002. sommeren ville være utbrent skrive truser og "
-"forberede for argumentet."
+"Men i februar 2002 overrasket høyesterett verden ved å innvilge vår "
+"forespørsel om å ta opp avgjørelsen fra D.C.-kretsen.  Argumentasjonen "
+"ble fastsat til oktober 2002.  Sommeren ble tilbrakt med å skrive "
+"innlegg og forberede oss for argumentasjonen."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
