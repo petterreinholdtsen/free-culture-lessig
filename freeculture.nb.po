@@ -21220,7 +21220,6 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Restoration technology is not the only cost, nor the most important.  "
 "Lawyers, too, are a cost, and increasingly, a very important one. In "
@@ -21228,11 +21227,12 @@ msgid ""
 "And to secure the rights for a film that is under copyright, you need to "
 "locate the copyright owner."
 msgstr ""
-"restaurering teknologien er ikke den eneste kostnaden, og heller ikke det "
-"viktigste. advokater, er også en kostnad, og i økende grad, en meget "
-"betydelig ettall. i tillegg til bevare filmen, må en distributør å sikre "
-"rettighetene. og for å sikre rettighetene for en film som er under "
-"opphavsrett, du trenger å finne eieren av opphavsretten."
+"Restaureringsteknologien er ikke den eneste kostnaden, og heller ikke "
+"den viktigste.  Advokater er også en kostnad, og i stadig større grad, "
+"en veldig viktig del.  I tillegg til å preservere filmen, så må en "
+"distributør sikre seg rettighetene.  Og for å sikre seg rettighetene "
+"til en film som er vernet av opphavsretten, så må du finne "
+"opphavsrettseieren."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
