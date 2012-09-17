@@ -370,3 +370,4 @@
 2012-09-16T0750 1598 oversatte meldinger, 628 antatte oversettelser, 99 uoversatte meldinger.
 2012-09-16T2007 1600 oversatte meldinger, 626 antatte oversettelser, 99 uoversatte meldinger.
 2012-09-16T2301 1601 oversatte meldinger, 626 antatte oversettelser, 98 uoversatte meldinger.
+2012-09-17T0711 1601 oversatte meldinger, 626 antatte oversettelser, 98 uoversatte meldinger.
