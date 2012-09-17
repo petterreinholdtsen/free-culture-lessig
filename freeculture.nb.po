@@ -21275,7 +21275,6 @@ msgstr ""
 
 #.  PAGE BREAK 232
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "For some films, the benefit of releasing the film may well exceed these "
 "costs. But for the vast majority of them, there is no way the benefit would "
@@ -21283,11 +21282,11 @@ msgid ""
 "argued, the film will not be restored and distributed until the copyright "
 "expires."
 msgstr ""
-"for noen filmer, kan fordelen av å slippe filmen godt overskride disse "
-"kostnadene. men for de aller fleste av dem, det er ikke mulig nytte ville "
-"oppveier saksomkostninger. Således, for de aller fleste av gamle filmer, "
-"agee hevdet, filmen vil ikke bli restaurert og distribuert til opphavsretten "
-"utløper."
+"For noen filmer kan det hende gevinsten fra å gi ut filmen vil "
+"overskride disse kostnadene.  Men for de aller fleste av dem er det "
+"ingen mulighet for at gevinsten vil oppveie de juridiske kostnadene. "
+"Dermed vil de aller fleste gamle filmer, argumenterte AGee, ikke bli "
+"restaurert og distribuert før opphavsretten løper ut."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
