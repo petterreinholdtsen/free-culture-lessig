@@ -20910,7 +20910,6 @@ msgstr ""
 "ikke, så lenge congress er gratis kjøpes for å utvide dem igjen."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>It is valuable</emphasis> copyrights that are "
 "responsible for terms being extended.  Mickey Mouse and <quote>Rhapsody in "
@@ -20922,14 +20921,17 @@ msgid ""
 "famous works. The real harm is to the works that are not famous, not "
 "commercially exploited, and no longer available as a result."
 msgstr ""
-"Det er verdifull opphavsrett som er ansvarlig for vilkårene blir utvidet. "
-"Mikke Mus og \"rhapsody in blue.\" disse verkene er også nyttig for eiere av "
-"opphavsretter å ignorere. men reell skade samfunnet fra opphavsrett "
-"servertilleggene er ikke at Mikke Mus forblir disney. glem Mikke Mus. glem "
-"robert frost. Glem alle verker fra 1920- og 1930-tallet som har fortsetter "
-"kommersiell verdi. reell skade sikt-utvidelsen kommer ikke fra disse berømte "
-"verk. reell skade er Works ikke er kjent, ikke kommersielt utnyttede og ikke "
-"lenger tilgjengelig som et resultat."
+"<emphasis role='strong'>Det er verdifull</emphasis> opphavsrett som "
+"er ansvarlig for at verneperioden blir utvidet.  Mikke Mus og "
+"<quote>Rhapsody in Blue</quote>.  Disse verkene er for verdifulle til "
+"at opphavsrettseierene kan ignorere dem.  Men den egentlige skaden fra "
+"opphavsrettsutvidelser for vårt samfunn er ikke at Mikke Mus forblir "
+"Disneys.  Glem Mikke Mus.  Glem Robert Frost.  Glem alle verk fra "
+"tjue-tallet og tredve-tallet som fortsatt har kommersiell verdi.  Den "
+"egentlige skaden fra utvidelse av vernetiden kommer ikke fra disse "
+"berømte verkene.  Den egenelige skaden er fra de verkene som ikke er "
+"berømte, ikke kommersielt utnytttet, og dermed heller ikke lenger "
+"tilgjengelig."
 
 #.  f10.
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -21302,7 +21304,6 @@ msgstr ""
 "metalleskene der de nå blir lagret vil kun inneholde støv."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>Of all the</emphasis> creative work produced by "
 "humans anywhere, a tiny fraction has continuing commercial value. For that "
@@ -21311,11 +21312,13 @@ msgid ""
 "the creative work. For that tiny fraction, the copyright acts as an "
 "<quote>engine of free expression.</quote>"
 msgstr ""
-"av alle kreative arbeidet produsert av mennesker overalt, har en liten "
-"brøkdel fortsetter kommersiell verdi. for at liten brøkdel er opphavsretten "
-"en svært viktig juridisk enhet. for at liten brøkdel oppretter opphavsretten "
-"incentiver til å produsere og distribuere skapende arbeid. for at liten "
-"brøkdel fungerer opphavsretten som en \"motoren i fri ytring.\""
+"<emphasis role='strong'>Av alle de</emphasis> kreative verk produsert "
+"av mennesker i verden, så er det kun en liten brøkdel som fortsetter å "
+"ha kommersiell verdi.  For en liten brøkdel er opphavsretten en "
+"kritisk viktig juridisk mekanisme.  For den lille brøkdelen skaper "
+"opphavsretten insentiver til å produsere og distribuere kreative "
+"verker.  For den lille brøkdelen fungerer opphavsrett som en "
+"<quote>motor for uttrykksfrihet</quote>."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
