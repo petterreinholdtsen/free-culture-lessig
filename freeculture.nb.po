@@ -21321,7 +21321,6 @@ msgstr ""
 "<quote>motor for uttrykksfrihet</quote>."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But even for that tiny fraction, the actual time during which the creative "
 "work has a commercial life is extremely short. As I've indicated, most books "
@@ -21330,15 +21329,15 @@ msgid ""
 "work falls out of favor with the commercial distributors, the commercial "
 "life ends."
 msgstr ""
-"men selv for at liten brøkdel, den faktiske tiden da skapende arbeid har en "
-"kommersiell levetid er ekstremt kort. som jeg har angitt, vil de fleste "
-"bøker gå ut av Skriv ut innen ett år. det samme gjelder av musikk og film. "
-"kommersielle kultur er sharklike. Det må bevege. og når en skapende arbeid "
-"faller ut av tjeneste med kommersielle distributører, kommersiell levetid "
-"slutter."
+"Men selv for denne lille brøkdelen, så er den faktiske tiden som det "
+"kreative arbeidet har kommersiellt liv ekstremt kort.  Som jeg indikerte "
+"tidligere blir de fleste bøker utsolgt fra forlaget innen et år.  Det "
+"samme er sant for musikk og film.  Kommersiell kultur er som et "
+"rovdyr.  Den må fortsette å bevege seg.  Og når et kreativt arbeid "
+"ikke lenger får godviljen fra en kommersell distributør, så tar det "
+"kommersielle livet slutt."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet that doesn't mean the life of the creative work ends. We don't keep "
 "libraries of books in order to compete with Barnes &amp; Noble, and we don't "
@@ -21349,26 +21348,27 @@ msgid ""
 "knowledge. To understand who we are, and where we came from, and how we have "
 "made the mistakes that we have, we need to have access to this history."
 msgstr ""
-"Det betyr ennå ikke livet av endene skapende arbeid. vi holde ikke "
-"biblioteker av bøker for å konkurrere med barnes &amp; noble, og vi har ikke "
-"arkiver av filmer fordi forventer vi folk til å velge mellom utgifter fredag "
-"kveld å se nye filmer og utgifter fredag kveld å se en 1930 nyheter "
-"dokumentar. ikke-kommersiell livet av kultur er viktig og verdifull&mdash;"
-"for underholdning men også, og enda viktigere, for kunnskap. for å forstå "
-"hvem vi er, og der vi kom fra, og hvordan vi har gjort feil som vi har, "
-"trenger vi å ha tilgang til denne historien."
+"Likevel betyr ikke dette at livet til det kreative arbeidet tar "
+"slutt.  Vi har ikke biblioteker for å konkurrere med Barnes &amp; "
+"Noble og vi har ikke filmarkiver fordi vi forventer at folk skal velge "
+"mellom å tilbringe fredagskvelden med å se nye filme eller tilbringe "
+"fredagskvelden med å se en nyhetsdokumentar fra 1930.  Det "
+"ikke-kommersielle livet til kulturen er viktig og verdifullt&mdash;for "
+"underholdning men også, og viktigere, for kunnskap.  For å forstå hvem "
+"vi er, hvor vi kom fra og hvordan vi gjorde de feil vi har gjort, så "
+"må vi ha tilgang til denne historien."
 
 #.  PAGE BREAK 233
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Copyrights in this context do not drive an engine of free expression.  In "
 "this context, there is no need for an exclusive right. Copyrights in this "
 "context do no good."
 msgstr ""
-"opphavsrettigheter i denne konteksten Kjør ikke en motor gratis "
-"uttrykksmåter. i denne sammenheng er det ikke behov for en eksklusiv rett. "
-"opphavsrettigheter i denne konteksten ikke nytter."
+"Opphavsretten i denne sammenhengen utgjør ikke en motor for "
+"uttrykksfrihet.  I denne sammenhengen er det ikke behov for en "
+"eksklusiv rettighet.  Opphavsretten i denne sammenhengen bidrar ikke "
+"positivt."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -21410,17 +21410,17 @@ msgstr ""
 "har mer å tilby."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In other words, though copyright has been relatively short for most of our "
 "history, long copyrights wouldn't have mattered for the works that lost "
 "their commercial value. Long copyrights for these works would not have "
 "interfered with anything."
 msgstr ""
-"med andre ord, om copyright har vært relativt kort for mesteparten av vår "
-"historie, ville ikke lang opphavsrett ha mattered for arbeider som mistet "
-"sin kommersiell verdi. lang opphavsretten for disse arbeider ville ikke har "
-"interfered med noe."
+"Med andre ord, selv om opphavsrettsbeskyttelsen har vært relativt "
+"kort for det meste av vår historie, sa ville ikke lang "
+"opphavsrettsbeskyttelse gjort noe forskjell for arbeider som har "
+"mistet sin kommersielle verdi.  Lang opphavsrettsbeskyttelse for disse "
+"verkene ville ikke forstyrret noe."
 
 #. type: Content of: <book><part><chapter><para>
 msgid "But this situation has now changed."
