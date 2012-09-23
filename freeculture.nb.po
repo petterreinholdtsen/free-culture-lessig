@@ -21557,7 +21557,6 @@ msgstr ""
 "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>In January 1999</emphasis>, we filed a lawsuit on "
 "Eric Eldred's behalf in federal district court in Washington, D.C., asking "
@@ -21567,11 +21566,14 @@ msgid ""
 "quote> requirement, and (2) that extending terms by another twenty years "
 "violated the First Amendment."
 msgstr ""
-"i januar 1999 anlagt vi en sak på eric eldred vegne i federal district court "
-"i washington, DC, spør domstolen å erklære sonny bono opphavsrett begrepet "
-"forlengelse loven unconstitutional. to sentrale krav som vi gjorde var (1) "
-"at utvide eksisterende vilkårene krenket av Grunnloven \"begrenset ganger\" "
-"krav, og (2) at utvide vilkårene ved en annen tjue år krenket first endring."
+"<emphasis role='strong'>I januar 1999</emphasis> anla vi sak på vegne "
+"av Eric Eldred ved den føderale distriktsretten i Washington, D.C., og "
+"ba retten om å erklære at Sonny Bono utvidelse av "
+"opphavsrettsvernetid-loven var i strid med grunnloven.  De to sentrale "
+"påstandene vi kom med var (1) at å utvide eksisterende vernetid var i "
+"strid med grunnlovens krav om <quote>et begrenset tidsrom</quote>, og "
+"(2) at å utvide vernetiden med tjue nye år var i strid med første "
+"grunnlovstillegg."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
