@@ -3942,9 +3942,8 @@ msgid "advertising"
 msgstr "markedsføring"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "commercials"
-msgstr "reklame"
+msgstr "reklameinnslag"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "television"
@@ -5446,9 +5445,8 @@ msgid "copyright infringement lawsuits of"
 msgstr "søksmål om opphavsrettbrudd fra"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Recording Industry Association of America (RIAA)"
-msgstr "Recording industry association of america (riaa)"
+msgstr "Recording Industry Association of America (RIAA)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -5497,9 +5495,8 @@ msgstr ""
 "og der det store flertall av dette ikke hadde noe å gjøre med musikk."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "exaggerated claims of"
-msgstr "overdrevet påstander om"
+msgstr "overdrevne påstander om"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "statutory damages of"
@@ -5619,9 +5616,8 @@ msgstr ""
 "øre som Jesse hadde spart opp."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "legal system, attorney costs in"
-msgstr "juridiske systemet, advokat kostnader i"
+msgstr "juridisk system, advokatkostnader i"
 
 #.  PAGE BREAK 65
 #. type: Content of: <book><part><chapter><para>
