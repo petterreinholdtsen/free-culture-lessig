@@ -21508,7 +21508,6 @@ msgstr ""
 "Brewster Kahle?</quote>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Maybe. Someday. But there is absolutely no evidence to suggest that "
 "publishers would be as complete as libraries. If Barnes &amp; Noble offered "
@@ -21520,15 +21519,16 @@ msgid ""
 "not&mdash;then we can't count on the commercial market to do our library "
 "work for us."
 msgstr ""
-"kanskje. en dag. men det er absolutt ingen bevis som tyder på at utgivere "
-"ville være så fullstendig som biblioteker. Hvis barnes &amp; noble tilbudt å "
-"låne bøker fra sine butikker for en lav pris, ville som eliminerer behovet "
-"for biblioteker? bare hvis du mener at et bibliotek eneste rolle er å tjene "
-"\"markedet\" ville kreve. men hvis du tror rollen til et bibliotek er større "
-"enn dette&mdash;hvis du tror sin rolle er å arkivere kultur, om det er en "
-"etterspørsel etter en bestemt bit av denne kulturen eller ikke&mdash; så vi "
-"ikke stole på det kommersielle markedet å gjøre arbeidet vårt bibliotek for "
-"oss."
+"Mulig det.  En eller annen dag.  Men det finnes ingen indisier som "
+"tyder på at utgivere vil bli like komplette som biblioteker.  Hvis "
+"Barnes &amp; Noble tilbød utlån av bøker fra sine lager til en lavere "
+"pris, ville det eliminere behovet for biblioteker?  Kun hvis du mener "
+"at den eneste rollen et bibliotek skal tjene er den "
+"<quote>markedet</quote> etterspør.  Men hvis du mener rollen til et "
+"bibliotek er større en dette&mdash;hvis du mener dets rolle er å "
+"arkivere kultur, uavhengig av om det er en etterspørsel etter en "
+"bestemt bit av den kulturen eller ikke&mdash;da kan vi ikke basere oss "
+"på at det kommersielle markedet vil gjøre biblioteksjobben for oss."
 
 #.  f13.
 #. type: Content of: <book><part><chapter><para><footnote><para>
