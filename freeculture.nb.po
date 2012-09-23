@@ -6211,9 +6211,8 @@ msgstr ""
 "id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "cover songs"
-msgstr "coverversjoner"
+msgstr "coverlåter"
 
 #.  PAGE BREAK 70
 #. type: Content of: <book><part><chapter><section><para>
@@ -6393,9 +6392,8 @@ msgid "Radio"
 msgstr "Radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "radio broadcast and"
-msgstr "radiosendinger og"
+msgstr "radiokringkasting og"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Radio was also born of piracy."
@@ -8225,9 +8223,8 @@ msgstr ""
 "har det gitt mer rettigheter til skaperne, og noen ganger mindre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "composers, copyright protections of"
-msgstr "komponister, copyright beskyttelse av"
+msgstr "komponister, opphavsrettsbeskyttelser for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
