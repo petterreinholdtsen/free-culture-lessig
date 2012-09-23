@@ -20860,7 +20860,7 @@ msgid ""
 "01-618), n.10, available at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #51</ulink>."
 msgstr ""
-"Notat fra Nashvillesangforfatterforening, <citetitle>Eldred</citetitle> mot "
+"Orientering fra Nashvillesangforfatterforening, <citetitle>Eldred</citetitle> mot "
 "<citetitle>Ashcroft</citetitle>, 537 U.S.  186 (2003) (No. 01-618), n.10, "
 "tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link #51</"
 "ulink>."
@@ -22089,13 +22089,12 @@ msgstr "Porgy and Bess"
 
 #.  f14.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Brief of Amici Dr. Seuss Enterprise et al., <citetitle>Eldred</citetitle> v. "
 "<citetitle>Ashcroft</citetitle>, 537 U.S.  (2003) (No. 01-618), 19."
 msgstr ""
-"kort av gikk dr. seuss enterprise et al., eldred v. ashcroft, 537 "
-"amerikanske (2003) (nr 01-618), 19."
+"Orientering fra Amici Dr. Seuss Enterprise et al., <citetitle>Eldred</citetitle> v. "
+"<citetitle>Ashcroft</citetitle>, 537 U.S.  (2003) (No. 01-618), 19."
 
 #.  f15.
 #. type: Content of: <book><part><chapter><para><footnote><para>
