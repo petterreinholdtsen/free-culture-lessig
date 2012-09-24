@@ -19722,15 +19722,15 @@ msgstr ""
 "befolkningen i \"lawbreakers.\""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "And the consequence of this transformation of the American public into "
 "criminals is that it becomes trivial, as a matter of due process, to "
 "effectively erase much of the privacy most would presume."
 msgstr ""
-"og konsekvens av denne transformasjonen av den amerikanske offentligheten "
-"til kriminelle er at den blir triviell, som et spørsmål om grunn prosessen "
-"til å effektivt viske ut mye av personvernet mest ville anta."
+"Og konsekvensen av denne transformeringen av det amerikanske folket "
+"til kriminelle er at det blir trivielt, i trå med *due process*, å "
+"effektivt sett radere ut mye av personvernet som de fleste tar for "
+"gitt."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -19787,6 +19787,15 @@ msgid ""
 "these families, just as they had sued Jesse Jordan.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"RIAA utvidet så denne kampanjen ved å annonsere en generell strategi "
+"om å saksøke individuelle brukere av internettet som blir anklaget for "
+"å ha lastet ned opphavsrettsbeskyttet musikk fra fildelingssystemer. "
+"Men som vi har sett er de potensielle skadene fra slike søksmål "
+"astronomiske: Hvis en families datamaskin blir brukt til å laste ned "
+"musikk tilsvarende en enkelt CD, sa kan familien risikere å måtte "
+"betale 2 millioner dollar i erstatning.  Dette stoppet ikke RIAA fra å "
+"saksøke et antall av disse familiene, på samme måte som de hadde "
+"saksøkt Jesse Jordan.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  f21.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -19808,6 +19817,13 @@ msgid ""
 "fingerprint of every song in the Napster catalog. Any copy of one of those "
 "MP3s will have the same <quote>fingerprint.</quote>"
 msgstr ""
+"Selv dette undervurderer spioneringen som blir gjennomført av RIAA. "
+"I en rapport fra CNN sent sist sommer beskriver en strategi som RIAA "
+"har adoptert for å spore Napster-brukere.<placeholder "
+"type=\"footnote\" id=\"0\"/> Ved å bruke en sofistikert "
+"hashings-algoritme tok RIAA det som effektivt sett er et fingeravtrykk "
+"av hver eneste sang i Napster-katalogen.  Enhver kopi av disse MP3-ene "
+"vil ha samme <quote>fingerprint</quote>."
 
 #.  f22.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -19846,6 +19862,19 @@ msgid ""
 "\"0\"/> your daughter can lose the right to use the university's computer "
 "network.  She can, in some cases, be expelled."
 msgstr ""
+"Så se for deg det følgende ikke usannsynlige scenariet: Tenk at en "
+"venn gir en CD til din datter&mdash;en samling med sanger lik de "
+"kasettene du laget som barn.  Hverken du eller din datter vet hvor "
+"disse sangene kom fra.  Men hun kopierer disse sangene inn på "
+"datamaskinen sin, og tar så maskinen med seg til universitetet og "
+"kobler den på universitetsnettverket.  Hvis universitetsnettet "
+"<quote>samarbeider</quote> med RIAAs spionering, og hun ikke har "
+"beskyttet sitt innhold på riktig vis (vet du selv hvordan du gjør "
+"dette?), så vil RIAA kunne identifisere din datter som en "
+"<quote>kriminell</quote>.  Og i henhold til de reglene som "
+"universiteter er i gang med å rulle ut,<placeholder type=\"footnote\" "
+"id=\"0\"/> så kan din datter miste retten til å bruke universitetets "
+"datanettverk.  Hun kan i noen tilfeller bli utvist."
 
 #.  PAGE BREAK 216
 #. type: Content of: <book><part><chapter><section><para>
@@ -20054,11 +20083,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "of public-domain literature"
-msgstr ""
+msgstr "av allemannseid litteratur"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "library of works derived from"
-msgstr ""
+msgstr "bibliotek av verker avledet fra"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -20950,6 +20979,13 @@ msgid ""
 "not limited to that 2 percent. The law extended the terms of copyright "
 "generally.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Hvis du ser på arbeider laget i de første tjue årene (1923 til 1942) "
+"påvirket av Sonny Bono utvidelse av opphavsrettsvernetid-loven, så har "
+"2 prosent av disse verkene fortsatt kommersielle verdi.  Det var "
+"opphavsrettsinnehaverne for disse 2 prosentene som fikk igjennom CTEA. "
+"Men loven og dens effekt var ikke begresnet til disse 2 prosentene. "
+"Loven utvidet vernetiden til opphavsretten generelt.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 229
 #. type: Content of: <book><part><chapter><para>
@@ -22098,14 +22134,14 @@ msgstr ""
 
 #.  f15.
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "Dinitia Smith, <quote>Immortal Words, Immortal Royalties? Even Mickey Mouse "
 "Joins the Fray,</quote> <citetitle>New York Times</citetitle>, 28 March "
 "1998, B7."
 msgstr ""
-"dinitia smith, \"udødelig ord, udødelig royalties? selv Mikke Mus tiltrer "
-"fray,\"new york times, 28 mars 1998, b7."
+"Dinitia Smith, <quote>Immortal Words, Immortal Royalties? Even Mickey Mouse "
+"Joins the Fray,</quote> <citetitle>New York Times</citetitle>, 28. mars "
+"1998, B7."
 
 #.  PAGE BREAK 241
 #. type: Content of: <book><part><chapter><para>
@@ -22172,6 +22208,9 @@ msgid ""
 "little I did beyond preparing for this case. Early on, as I said, I set the "
 "strategy."
 msgstr ""
+"<emphasis role='strong'>Mellom februar</emphasis> og kotober gjorde "
+"jeg lite ut over å forberede meg for denne saken.  Som jeg nevnte "
+"tidligere, satte jeg strategien tidlig."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "O'Connor, Sandra Day"
@@ -22464,6 +22503,11 @@ msgid ""
 "line for the chance to see the proceedings. Scores spent the night on the "
 "Supreme Court steps so that they would be assured a seat."
 msgstr ""
+"<emphasis role='strong'>Natten før</emphasis> argumentasjonen begynte "
+"en kø av folk å dukke opp foran høyesterett.  Saken hadde fått "
+"oppmerksomhet fra pressen og fri kultur-bevegelsen.  Hundrevis sto på "
+"rekke for å få en sjanse til å se forhandlingen.  Flokkevis tilbrakte "
+"natten på trappen til høyesterett for å sikre seg et sete."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -22507,26 +22551,24 @@ msgstr ""
 "grense."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Justice O'Connor stopped me within one minute of my opening.  The history "
 "was bothering her."
 msgstr ""
-"rettferdighet o'connor stoppet meg ett minutts min åpning. historien var "
-"plaget henne."
+"Dommer O'Connor stoppet meg før det jeg var kommet et minutt inn i "
+"åpningsforedraget mitt.  Historien plaget henne."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "justice o'connor: Congress has extended the term so often through the years, "
 "and if you are right, don't we run the risk of upsetting previous extensions "
 "of time? I mean, this seems to be a practice that began with the very first "
 "act."
 msgstr ""
-"rettferdighet o'connor: Kongressen har utvidet begrepet så ofte gjennom "
-"årene, og hvis du har rett, ikke vi kjøre risikoen for upsetting tidligere "
-"utvidelser av tid? Jeg mener, dette synes å være en praksis som begynte med "
-"svært første akt."
+"Dommer O'Connor: Kongressen har utvidet vernetiden så mange ganger "
+"etter hvert.  Hvis du har rett, risikerer vi ikke å forstyrre "
+"tidligere utvidelser av vernetiden?  Jeg mener, dette virker å være en "
+"praksis som startet med den aller første lovendringen?"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -22552,13 +22594,13 @@ msgstr ""
 "hadde i tankene, og svaret er Ja."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There were two points in this argument when I should have seen where the "
 "Court was going. The first was a question by Justice Kennedy, who observed,"
 msgstr ""
-"Det var to poeng i dette argumentet når jeg burde ha sett hvor domstolen "
-"skulle. Først var et spørsmål av rettferdighet kennedy, som observert,"
+"Det var to poenger i dette argumentet der jeg burde ha sett hvor "
+"retten var på vei.  Det første var et spørsmål fra dommer Kennedy, som "
+"observerte,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
@@ -22575,12 +22617,12 @@ msgstr ""
 "og nyttig kunst. Jeg ser ikke noen empiriske bevis for dette."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Here follows my clear mistake. Like a professor correcting a student, I "
 "answered,"
 msgstr ""
-"Her følger min klart feil. som professor korrigere en student, svarte jeg,"
+"Her følger min åpenbare feil.  Som en professor som korrigerer en "
+"student, svarte jeg,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
@@ -22598,7 +22640,6 @@ msgstr ""
 "ikke tillates under lover om opphavsrett."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "That was a correct answer, but it wasn't the right answer. The right answer "
 "was instead that there was an obvious and profound harm. Any number of "
@@ -22606,10 +22647,11 @@ msgid ""
 "place Don Ayer's advice should have mattered. This was a softball; my answer "
 "was a swing and a miss."
 msgstr ""
-"Det var riktig svar, men det var ikke riktig svar. riktig svar var i stedet "
-"at det var en opplagt og dyptgripende skade. en rekke truser hadde vært "
-"skrevet om den. han ønsket å høre den. og her var sted don ayer's råd skal "
-"ha mattered. Dette var en softball; mitt svar var en swing og en glipp."
+"Det var et riktig svar, men det var ikke det riktige svaret.  Det "
+"riktige svaret var i stedet at det var åpenbar og dyptgripende skade. "
+"En rekke orienteringer hadde blitt skrevet om den.  Han ønsket å høre "
+"det.  Og det var her rådet fra Don Ayer burde ha hatt betydning. "
+"Dette var en lett pasning, og mitt svar bommet fullstendig."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -22624,13 +22666,13 @@ msgstr ""
 
 #.  PAGE BREAK 247
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It was clear a second into his question that he wasn't at all sympathetic.  "
 "To him, we were a bunch of anarchists. As he asked:"
 msgstr ""
-"Det var klart en andre i sin spørsmålet at han ikke var på alle sympatisk. "
-"til ham var vi en gjeng med anarkistene. så han spurte:"
+"Det var klart ett sekund inn i hans spørsmål at han overhode ikke "
+"hadde sympati med oss.  For ham var vi en gjeng med anarkister.  Han "
+"spurte så,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, mtrans, fuzzy
