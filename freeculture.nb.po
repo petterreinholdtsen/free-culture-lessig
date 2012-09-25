@@ -23110,28 +23110,27 @@ msgstr ""
 "problemet."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Would it have been different if I had argued it differently? Would it have "
 "been different if Don Ayer had argued it? Or Charles Fried? Or Kathleen "
 "Sullivan?"
 msgstr ""
-"ville det ha vært annerledes hvis jeg hadde hevdet det annerledes? ville det "
-"ha vært annerledes hvis don ayer hadde hevdet det? eller charles stekt? "
-"eller kathleen sullivan?"
+"Ville det gått annerledes hvis jeg hadde argumentert litt "
+"forskjellig?  Ville det ha gått annerledes hvis Don Ayer hadde "
+"argumentert?  Eller Charles Fried?  Eller Kathleen Sullivan?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My friends huddled around me to insist it would not. The Court was not "
 "ready, my friends insisted. This was a loss that was destined. It would take "
 "a great deal more to show our society why our framers were right. And when "
 "we do that, we will be able to show that Court."
 msgstr ""
-"mine venner huddled rundt meg å insistere det ikke ville. domstolen ikke var "
-"klar, insisterte mine venner. Dette var et tap som var bestemt. det vil ta "
-"mye mer å vise vårt samfunn hvorfor våre underskrev hadde rett. og når vi "
-"gjør det, vil vi være i stand til å vise at domstolen."
+"Mine venner samlet seg rundt meg for å insistere på at det ville det "
+"ikke.  Domstolen var ikke klar, insisterte mine venner.  Det var et "
+"tap bestemt av skjebnen.  Det ville kreve mye mer for å vise samfunnet "
+"vårt hvorfor grunnlovsforsamlingen hadde rett.  Og når vi gjør det, så "
+"vil vi væræ i stand til å vise det til domstolen."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
