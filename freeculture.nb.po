@@ -22625,7 +22625,6 @@ msgstr ""
 "student, svarte jeg,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "mr. lessig: Justice, we are not making an empirical claim at all.  Nothing "
 "in our Copyright Clause claim hangs upon the empirical assertion about "
@@ -22633,11 +22632,12 @@ msgid ""
 "to assure that what would be an effectively perpetual term not be permitted "
 "under the copyright laws."
 msgstr ""
-"Mr. lessig: rettferdighet, vi ikke gjør en empirisk krav på alle. ingenting "
-"i våre opphavsrett-setningsdel krav henger på empirisk påstanden om hindrer "
-"fremdrift. vår eneste argumentet er at dette er en strukturell begrensning "
-"som er nødvendig for å sikre at det ville være et effektivt evigvarende sikt "
-"ikke tillates under lover om opphavsrett."
+"Mr. Lessig: Dommer, det er ikke en empirisk påstand i det hele tatt.
+Ingenting i påstanden om vår opphavsrettsbestemmelse baserer seg på
+den empiriske antagelsen om å hindre fremgang.  Vårt eneste argument
+er at dette er en strukturell begrensning som er nødvendig for å sikre
+at det som ellers ville være en evigvarende vernetid ikke blir tillatt
+i opphavsrettsloven."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22701,27 +22701,27 @@ msgid "Olson, Theodore B."
 msgstr "Olson, Theodore B."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Things went better for us when the government gave its argument; for now the "
 "Court picked up on the core of our claim. As Justice Scalia asked Solicitor "
 "General Olson,"
 msgstr ""
-"ting gikk bedre for oss når regjeringen ga argumentet; for nå domstolen "
-"plukket opp på kjernen av våre krav. som rettferdighet spurte scalia advokat "
-"generelt olson"
+"Ting gikk bedre for oss når regjerningen presenterte sitt "
+"åpniningsforedrag.  For nå tok retten tak i kjernen i våre påstander. "
+"Dommer Scalia spurte regjeringsadvokat Olson,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "justice scalia: You say that the functional equivalent of an unlimited time "
 "would be a violation [of the Constitution], but that's precisely the "
 "argument that's being made by petitioners here, that a limited time which is "
 "extendable is the functional equivalent of an unlimited time."
 msgstr ""
-"rettferdighet scalia: du si at samme en ubegrenset tid ville være et brudd "
-"[av Grunnloven], men det er nettopp argumentet som gjøres av petitioners "
-"her, det en begrenset periode som er utvidbart er samme en ubegrenset tid."
+"Dommer Scalia: Du sier at den funksjonelle ekvivalenten til en "
+"ubegrenset vernetid ville være i strid [med grunnloven], men det er jo "
+"nøyaktig det argumentet som fremmes av *petitioners* her, at en "
+"begrenset vernetid som er utvidbar er den funksjonelle ekvivalenten "
+"til en ubegrenset vernetid."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
