@@ -22632,12 +22632,12 @@ msgid ""
 "to assure that what would be an effectively perpetual term not be permitted "
 "under the copyright laws."
 msgstr ""
-"Mr. Lessig: Dommer, det er ikke en empirisk påstand i det hele tatt.
-Ingenting i påstanden om vår opphavsrettsbestemmelse baserer seg på
-den empiriske antagelsen om å hindre fremgang.  Vårt eneste argument
-er at dette er en strukturell begrensning som er nødvendig for å sikre
-at det som ellers ville være en evigvarende vernetid ikke blir tillatt
-i opphavsrettsloven."
+"Mr. Lessig: Dommer, det er ikke en empirisk påstand i det hele tatt. "
+"Ingenting i påstanden om vår opphavsrettsbestemmelse baserer seg på "
+"den empiriske antagelsen om å hindre fremgang.  Vårt eneste argument "
+"er at dette er en strukturell begrensning som er nødvendig for å sikre "
+"at det som ellers ville være en evigvarende vernetid ikke blir tillatt "
+"i opphavsrettsloven."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
