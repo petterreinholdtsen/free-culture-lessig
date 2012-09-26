@@ -19197,15 +19197,15 @@ msgid "Corrupting Citizens"
 msgstr "ødelegge borgere"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Overregulation stifles creativity. It smothers innovation. It gives "
 "dinosaurs a veto over the future. It wastes the extraordinary opportunity "
 "for a democratic creativity that digital technology enables."
 msgstr ""
-"overregulation stifles kreativitet. det smothers innovasjon. Det gir "
-"dinosaurer vetorett over fremtiden. det avfall ekstraordinær mulighet for en "
-"demokratisk kreativitet som digital teknologi gjør det mulig."
+"For mye regulering knebler kretiviteten.  Den kveler nyskapning.  Den
+gir dinosaurer vetorett over fremtiden.  Den kaster bort den
+ekstraordinære muligheten for en demokratisk kreativitet som digital
+teknologi gjør mulig."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -19878,7 +19878,6 @@ msgstr ""
 
 #.  PAGE BREAK 216
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Now, of course, she'll have the right to defend herself. You can hire a "
 "lawyer for her (at $300 per hour, if you're lucky), and she can plead that "
@@ -19918,25 +19917,25 @@ msgid ""
 "become lawbreakers, then we're really on a slippery slope to lose a lot of "
 "civil liberties for all forty to sixty million of them."
 msgstr ""
-"så når vi snakker om tall som førti til seksti millioner amerikanere som er "
-"egentlig opphavsrett varemerkerettigheter, oppretter du en situasjon der "
-"borgerrettigheter av dem er svært mye i fare i en generell sak. [jeg ikke] "
-"[det er noen] analog hvor du kunne tilfeldig velge en person av gaten og "
-"være trygg på at de var begå en ulovlig handling som kan sette dem på kroken "
-"for potensielle forbrytelse erstatningsansvar eller hundrevis av millioner "
-"av dollar til sivilrettslig ansvar. sikkert vi alle hastighet, men fart er "
-"ikke typen en handling som vi miste rutinemessig borgerrettigheter. noen "
-"mennesker bruker narkotika, og jeg tror det er den nærmeste analoge, [men] "
-"mange har bemerket at krigen mot narkotika har eroded alle våre "
-"borgerrettigheter fordi det har behandlet så mange amerikanere som "
-"kriminelle. Vel, jeg tror det er rimelig å si at fildeling er en bestilling "
-"av omfanget større antall amerikanere enn narkotikabruk.... Hvis førti til "
-"seksti millioner amerikanere har blitt lawbreakers, da er vi virkelig på en "
-"glatt skråning å miste mye av borgerrettigheter for alle førti til seksti "
-"millioner av dem."
+"Når vi snakker om tall som førti til seksti millioner amerikanere som "
+"i essensen bryter opphavsretten, så skaper du en situasjon der "
+"borgerrettighetene til disse folkene er står i fare for å forsvinne i "
+"praksis. [Jeg] tror [ikke det finnes noen] tilsvarende tilfeller hvor "
+"du kan velge en tilfeldig person på gata og være trygg på at de har "
+"brutt loven på en måte som gjør at de risikerer straffedom eller å "
+"måtte betale milloner av dollar i sivil erstatning.  Vi kjører alle "
+"for fort, men å kjøre for fort er ikke den type handlinger hvor vi på "
+"rutine fratar folk borgerrettigheter.  Noen folk bruker narkotika, og "
+"jeg tror det er den nærmeste analogien, [men] mange har kommentert at "
+"krigen mot narkotika har radert alle våre borgerrettigheter på grunn "
+"av at det behandler så mange amerikanere som kriminelle.  Jeg tror det "
+"er rimelig å si at fildeling gjelder en størrelsesorden flere "
+"amerikanere enn burk av narkotika. &hellip; Hvis førti til seksti "
+"millioner amerikanere har blitt lovbrytere, da er vi på en *slippery "
+"slope* der vi kan miste borgerrettighetene for alle disse førti til "
+"seksti personene."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "When forty to sixty million Americans are considered <quote>criminals</"
 "quote> under the law, and when the law could achieve the same "
@@ -19945,12 +19944,13 @@ msgid ""
 "the law? Which is American, a constant war on our own people or a concerted "
 "effort through our democracy to change our law?"
 msgstr ""
-"Når førti til seksti millioner amerikanere anses \"kriminelle\" under loven, "
-"og når loven kan oppnå det samme målet&mdash;sikre rettighetene til "
-"forfattere&mdash;uten disse millioner blir betraktet som \"kriminelle\", som "
-"er skurk? amerikanere eller loven? som er amerikansk, en konstant krig på "
-"våre egne folk eller en felles innsats gjennom vårt demokrati for å endre "
-"vår lov?"
+"Når førti til seksti millioner amerikanere i følge loven anses som "
+"<quote>kriminelle</quote>, og når loven kunne oppnå det samme "
+"målet&mdash;sikre rettigheter til forfattere&mdash; uten at disse "
+"millionene anses å være <quote>kriminelle</quote>, hvem er det da som "
+"er skurken?  Amerikanerne eller loven?  Hva er amerikansk, en konstant "
+"krig mot vårt eget folk, eller en felles innsats i vårt demokrati for "
+"å endre loven vår?"
 
 #. type: Content of: <book><part><title>
 msgid "BALANCES"
