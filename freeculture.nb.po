@@ -19202,10 +19202,10 @@ msgid ""
 "dinosaurs a veto over the future. It wastes the extraordinary opportunity "
 "for a democratic creativity that digital technology enables."
 msgstr ""
-"For mye regulering knebler kretiviteten.  Den kveler nyskapning.  Den
-gir dinosaurer vetorett over fremtiden.  Den kaster bort den
-ekstraordinære muligheten for en demokratisk kreativitet som digital
-teknologi gjør mulig."
+"For mye regulering knebler kretiviteten.  Den kveler nyskapning.  Den "
+"gir dinosaurer vetorett over fremtiden.  Den kaster bort den "
+"ekstraordinære muligheten for en demokratisk kreativitet som digital "
+"teknologi gjør mulig."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
