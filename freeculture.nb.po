@@ -22311,7 +22311,6 @@ msgstr ""
 "retrospektiv utvidelser."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The only vote we could be confident about was that of Justice Stevens. "
 "History will record Justice Stevens as one of the greatest judges on this "
@@ -22320,12 +22319,13 @@ msgid ""
 "limits in the context of intellectual property generally. We were fairly "
 "confident he would recognize limits here."
 msgstr ""
-"den eneste stemme som vi kan være trygg på var at for rettferdighet stevens. "
-"historie registrerer rettferdighet stevens som en av de største dommerne på "
-"denne retten. hans stemmer er konsekvent variert, som betyr bare at ingen "
-"enkel ideologi forklarer hvor han vil stå. men han hadde konsekvent "
-"argumentert for grenser i forbindelse med immaterielle generelt. Vi var "
-"ganske trygg på han ville anerkjenne grenser her."
+"Den eneste stemmen vi kunne være trygg på hvar den til dommer "
+"Stevens.  Historien viser at dommer Stevens er en av de største "
+"dommerne i denne domstolen.  Han stemmer har vært konsistent selektiv, "
+"hvilket bare betyr at ikke noen enkel ideologi forklarer hvordan vil "
+"stille seg.  Men han hadde konsistent argumentert for begresninger i "
+"sammenheng med immaterielle eiedom generelt.  Vi var rimelig sikre på "
+"at han ville kjenne igjen begresningene her."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23241,7 +23241,6 @@ msgid "Bolling, Ruben"
 msgstr "Bolling, Ruben"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The best responses were in the cartoons. There was a gaggle of hilarious "
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
@@ -23250,15 +23249,17 @@ msgid ""
 "But the punch in the face felt exactly like that.  <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
-"de beste svarene var i tegneserier. Det var en gaggle av morsom bilder&mdash;"
-"av mickey i fengsel og lignende. best, fra min mening i saken, var ruben "
-"bolling, gjengis på neste side. linjen \"kraftige og velstående\" er en "
-"smule urettferdig. Men slag i ansiktet følte akkurat sånn."
+"De beste responsene dukket opp i tegneseriene.  Det var en haug "
+"veldig morsome tegninger&mdash;av Mikke i fengsel og dets like.  Det "
+"beste fra mitt ståsted i saken, var fra Ruben Bolling, og er gjengitt "
+"på den neste siden (<xref linkend=\"fig-18\"/>).  Tekstlinjen om "
+"<quote>mektig og rik</quote> er litt urettferdig.  Men slaget i "
+"ansiktet føltes akkurat slik ut.<placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><figure><title>
-#, mtrans, fuzzy
 msgid "Tom the Dancing Bug cartoon"
-msgstr "Tom dans bug tegneserie"
+msgstr "Tom the Dancing Bug-tegneserie"
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
