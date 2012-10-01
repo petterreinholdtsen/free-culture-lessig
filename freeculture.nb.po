@@ -22829,7 +22829,7 @@ msgid ""
 "the hook, posted an announcement to our blog, and sat down to see where I "
 "had been wrong in my reasoning."
 msgstr ""
-"Noen få sekunder senere ankom domsavslutningen via epost.  Jeg tok "
+"Noen få sekunder senere ankom domsavsigelsen via epost.  Jeg tok "
 "telefonrøret av krogen, la ut en kunngjøring på bloggen vår, og satte "
 "meg så ned for å se hvor jeg hadde tatt feil i min argumentasjon."
 
@@ -22845,7 +22845,6 @@ msgstr ""
 "på jakt etter argumentasjon."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I first scoured the opinion, looking for how the Court would distinguish the "
 "principle in this case from the principle in <citetitle>Lopez</citetitle>. "
@@ -22853,10 +22852,11 @@ msgid ""
 "argument that was the core argument of our case did not even appear in the "
 "Court's opinion."
 msgstr ""
-"Jeg scoured først mening, ser for hvordan domstol vil skille prinsippet i "
-"dette tilfellet fra prinsippet i lopez. argumentet var ingensteds å bli "
-"funnet. saken ble ikke selv sitert. argumentet som ble argumentet kjernen i "
-"vårt tilfelle ikke engang vises i retten mening."
+"Først trålet jeg domsavsigelsen for å finne hvordan domstolen ville "
+"skille prinsippet i denne saken fra prinsippet i "
+"<citetitle>Lopez</citetitle>.  Jeg fant ikke argumentet noe sted. "
+"Saken var ikke en gang sitert.  Argumentet som var kjerneargumenet i "
+"vår sak var ikke en gang tilstede i domstolens domsavsigelse."
 
 #.  PAGE BREAK 249
 #. type: Content of: <book><part><chapter><para>
@@ -22871,17 +22871,17 @@ msgstr ""
 "hun hadde funnet Kongressens makt ikke begrenset her."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Her opinion was perfectly reasonable&mdash;for her, and for Justice Souter. "
 "Neither believes in <citetitle>Lopez</citetitle>. It would be too much to "
 "expect them to write an opinion that recognized, much less explained, the "
 "doctrine they had worked so hard to defeat."
 msgstr ""
-"hennes mening var helt rimelig&mdash;for henne, og for rettferdighet souter. "
-"Ingen av dem tror på lopez. det ville være for mye å forvente dem til å "
-"skrive en uttalelse som gjenkjennes, mye mindre forklart, doktrine som de "
-"hadde arbeidet så hardt for å beseire."
+"Hennes mening var helt rimelig&mdash;for henne og for dommer Souter. "
+"Ingen av dem tror på <citetitle>Lopez</citetitle>. Det ville være for "
+"mye å forvente at de skulle skrive en domsavsigelse som annerkjente, "
+"langt mindre forklarte, den doktrinen som de hadde jobbet så hardt for "
+"å bekjempe."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
