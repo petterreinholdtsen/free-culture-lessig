@@ -22766,17 +22766,17 @@ msgstr ""
 
 #.  PAGE BREAK 248
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>As I left</emphasis> the court that day, I knew "
 "there were a hundred points I wished I could remake. There were a hundred "
 "questions I wished I had answered differently. But one way of thinking about "
 "this case left me optimistic."
 msgstr ""
-"som jeg venstre retten denne dagen, jeg visste det var en hundre punkter jeg "
-"ønsket at jeg kunne remake. var det en hundre spørsmål jeg ønsket at jeg "
-"hadde svart på en annen måte. men en måte å tenke på dette tilfellet forlatt "
-"meg optimistisk."
+"<emphasis role='strong'>Da jeg dro</emphasis>fra retten den dagen "
+"visste jeg det var hundrevis av ting jeg skulle ønske jeg hadde gjort "
+"på nytt.  Det var hundrevis av spørsmål jeg skulle ønske jeg hadde "
+"svart annerledes.  Men en måte å tenke på denne saken gjorde jeg "
+"optimistisk."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -22824,26 +22824,25 @@ msgstr ""
 "justiariusene hadde stemt i fleste. Det var to Dissensene."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "A few seconds later, the opinions arrived by e-mail. I took the phone off "
 "the hook, posted an announcement to our blog, and sat down to see where I "
 "had been wrong in my reasoning."
 msgstr ""
-"noen sekunder senere, kom meninger via e-post. Jeg tok telefonen av kroken, "
-"postet en kunngjøring til vår blogg, og satte meg ned for å se hvor jeg "
-"hadde vært feil i mitt resonnement."
+"Noen få sekunder senere ankom domsavslutningen via epost.  Jeg tok "
+"telefonrøret av krogen, la ut en kunngjøring på bloggen vår, og satte "
+"meg så ned for å se hvor jeg hadde tatt feil i min argumentasjon."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My <emphasis>reasoning</emphasis>. Here was a case that pitted all the money "
 "in the world against <emphasis>reasoning</emphasis>. And here was the last "
 "naïve law professor, scouring the pages, looking for reasoning."
 msgstr ""
-"mitt resonnement. Her var en sak som pitted alle pengene i verden mot "
-"resonnement. og her var den siste naivt lov professoren, scouring sider, på "
-"jakt etter resonnement."
+"Min <emphasis>argumentasjon</emphasis>.  Her var et tilfelle der alle "
+"alle pengene i verden var satset mot <emphasis>argumentasjon</emphasis>. "
+"Og her satt den siste naive juss-professor og trålet igjennom sidene "
+"på jakt etter argumentasjon."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -23198,7 +23197,6 @@ msgstr ""
 
 #.  PAGE BREAK 253
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>While the reaction</emphasis> to the Sonny Bono Act "
 "itself was almost unanimously negative, the reaction to the Court's decision "
@@ -23210,17 +23208,18 @@ msgid ""
 "attacked because it left standing a silly and harmful law. <citetitle>The "
 "New York Times</citetitle> wrote in its editorial,"
 msgstr ""
-"mens reaksjonen til sonny bono handle selv var nesten enstemmig negativ, var "
-"reaksjonen til domstolens avgjørelse blandet. Ingen, minst i pressen, prøvde "
-"å si at utvidelse av copyright var en god idé. Vi hadde vant den kampen over "
-"idéer. der beslutningen ble rost, ble det rost av papir som hadde vært "
-"skeptisk til retten aktivisme i andre tilfeller. ærbødighet var bra, selv om "
-"det igjen en dum lov. men der beslutningen ble angrepet, den ble angrepet "
-"fordi det igjen en dum og skadelig lov. new york times skrev i sin "
-"redaksjonell,"
+"<emphasis role='strong'>Mens reaksjonen</emphasis>på Sonny Bono-loven "
+"selv var nesten enstemming negativ, så var reaksjonen på domstolens "
+"avgjørelse blandet.  Ikke en eneste, i hvert fall i pressen, forsøkte "
+"å si at det var en god idé å utvide vernetiden i opphavsretten.  Vi "
+"hadde vunnet kampen om idéen.  Avgjørelsen fikk støtte fra aviser som "
+"hadde vært skeptisk til domstolens aktivisme i andre saker.  Å holde "
+"hendene unna var en god ting, selv om den lot en dum lov bli stående. "
+"Men der avgjørelsen ble angrepet så ble den angrepet på grunn av at "
+"den lot en dum og skadelig bli stående.  <citetitle>The New York "
+"Times</citetitle> skrev i sin leder,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "In effect, the Supreme Court's decision makes it likely that we are seeing "
 "the beginning of the end of public domain and the birth of copyright "
@@ -23229,12 +23228,12 @@ msgid ""
 "output of humanity is one of the reasons we live in a time of such fruitful "
 "creative ferment."
 msgstr ""
-"i kraft gjør av Høyesterett beslutningen det sannsynlig at vi ser "
-"begynnelsen på slutten av public domain og fødselen av opphavsrett "
-"perpetuity. public domain har vært en store eksperimentet, som ikke skal "
-"tillates å dø. muligheten til å trekke fritt på hele kreativ produksjon av "
-"menneskeheten er en av grunnene til at vi lever i en tid med slike fruktbart "
-"kreative gjære."
+"Effekten er at beslutningen i Høyesterett gjør det sannsynlig at vi "
+"ser starten på slutten til allemannseie, og fødselen til evig "
+"opphavsrett.  Allemannseie har vært et storslått eksperiment, som ikke "
+"bør få lov til å dø.  Evnen til å trekke uten begresning på hele den "
+"kreative produksjonen til menneskeheten er en av grunnene til at vi "
+"lever i en tid med så fruktbart kreativt vekstmiljø."
 
 #. type: Content of: <book><part><chapter><figure><indexterm><primary>
 msgid "Bolling, Ruben"
