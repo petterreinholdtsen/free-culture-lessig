@@ -22884,7 +22884,6 @@ msgstr ""
 "å bekjempe."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But as I realized what had happened, I couldn't quite believe what I was "
 "reading. I had said there was no way this Court could reconcile limited "
@@ -22896,14 +22895,16 @@ msgid ""
 "case: In that context, Congress's power would be limited, but in this "
 "context it would not."
 msgstr ""
-"men som jeg hva som hadde skjedd, jeg kunne ikke helt tro hva jeg leser. Jeg "
-"hadde sagt det var ingen måte denne retten kan avstemme begrenset krefter "
-"med handel-setningsdelen og ubegrensede krefter med fremgang-setningsdelen. "
-"det hadde aldri skjedd for meg at de kunne forene to ved adressering ikke "
-"argumentet. Det var ingen inkonsekvens fordi de ikke ville snakker om to "
-"sammen. Det ble derfor ingen prinsippet som fulgt av lopez tilfelle: i den "
-"sammenhengen, Kongressens makt ville være begrenset, men i denne sammenheng "
-"vil det ikke."
+"Men etter hvert som jeg innså hva som hadde skjedd, så kunne jeg ikke "
+"helt tro det jeg leste.  Jeg hadde sagt at det ikke var mulig for "
+"domstolen å *reconcile* begrenset myndighet for handels-bestemmelsen "
+"og ubegrenset myndighet for fremgangs-bestemmelsen.  Det hadde aldri "
+"slått meg at de kunne *reconcile* de to ved å ganske enkelt "
+"<emphasis>ikke bry seg om argumentet</emphasis>.  Det var ingen "
+"manglende konsistens ganske enkelt fordi de lot være å omtale de to "
+"sammen.  Det var dermed ikke noe prinsipp som fulgte fra "
+"<citetitle>Lopez</citetitle>-saken: I den sammenhengen var kongressens "
+"myndighet begrenset, men i denne sammenhengen var den ikke begrenset."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
