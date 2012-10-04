@@ -18507,6 +18507,11 @@ msgid ""
 "regulate the technology of the Internet so that it better protects their "
 "content."
 msgstr ""
+"<emphasis role='strong'>Usikkerheten</emphasis> i loven er en av
+byrdene som legges på nyskapningen.  Det er en annen byrde som virker
+mer direkte.  Dette er effekten fra mange i innholdsindustrien som
+bruker loven til å direkte regulere teknologien på internettet slik at
+den beskytter deres innhold bedre."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
