@@ -18545,9 +18545,8 @@ msgstr ""
 
 #.  f7.
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid "GartnerG2, 26&ndash;27."
-msgstr "gartnerg2, 26­27."
+msgstr "GartnerG2, 26&ndash;27."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
