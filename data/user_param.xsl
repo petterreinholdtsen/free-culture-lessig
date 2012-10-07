@@ -40,10 +40,10 @@
     <xsl:text>»</xsl:text>
   </xsl:template>
   <xsl:template name="gentext.nestedstartquote">
-    <xsl:text>«</xsl:text>
+    <xsl:text>‘</xsl:text>
   </xsl:template>
   <xsl:template name="gentext.nestedendquote">
-    <xsl:text>»</xsl:text>
+    <xsl:text>’</xsl:text>
   </xsl:template>
 
   <!-- This is not working.  No idea why -->
