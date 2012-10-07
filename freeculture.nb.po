@@ -17205,17 +17205,17 @@ msgstr ""
 "underlig gledet</quote>."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "When Nunez announces his desire to marry his <quote>mysteriously delighted</"
 "quote> love, the father and the village object. <quote>You see, my dear,</"
 "quote> her father instructs, <quote>he's an idiot. He has delusions. He "
 "can't do anything right.</quote> They take Nunez to the village doctor."
 msgstr ""
-"Når nunez kunngjør hans ønske om å gifte seg med hans \"mysteriously glad\" "
-"kjærlighet, Faderen og landsbyen-objekt. \"du se, min kjære,\" hennes far "
-"instruerer, \"han er en idiot. Han har delusions. han kan ikke gjøre noe "
-"høyre. \"de tar nunez til landsbyen legen."
+"Når Nuez kunngjør sitt ønske om å gifte seg med sin <quote>underlig "
+"gledet</quote> kjærlighet, protesterte faaren og landsbyen.  <quote>Du "
+"skjønner, kjære</quote>, instruerer hennes far, <quote>han er en "
+"idiot.  Han har vrangforestillinger.  Han kan ikke gjøre noe "
+"riktig.</quote> De tar Nunez til landsbylegen."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -17289,7 +17289,7 @@ msgid ""
 "sets of DNA (a chimera). Our understanding of a <quote>person</quote> should "
 "reflect this reality."
 msgstr ""
-"For jeg hadde lest om fantasifoster, så ville jeg ha sagt at de var "
+"Før jeg hadde lest om fantasifoster, så ville jeg ha sagt at de var "
 "umulig.  En enkelt person kan ikke ha to sett med DNA.  Selve ideen "
 "med DNA er at det er koden til et individ.  Likevel er det jo faktisk "
 "slik at ikke bare kan to individer ha samme sett med DNA (identiske "
@@ -17456,7 +17456,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Alternatively, we could respond to file sharing the way many kids act as "
 "though we've responded. We could totally legalize it. Let there be no "
@@ -17464,14 +17463,14 @@ msgid ""
 "content available on the Net. Make file sharing like gossip: regulated, if "
 "at all, by social norms but not by law."
 msgstr ""
-"Alternativt kan vi svare på fildeling måten mange barn handle som om vi har "
-"svart. Vi kunne helt legalisere det. La det være ingen opphavsrett ansvar, "
-"sivil- eller strafferettslige, for å gjøre opphavsrettsbeskyttet innhold "
-"tilgjengelig på nettet. gjøre fildeling som sladder: regulert, hvis i det "
-"hele tatt, av sosiale normer, men ikke av loven."
+"Alternativt kan vi svare på fildeling slik mange unger oppfører seg "
+"som om vi har svart.  Vi kan legalisere det fullstendig.  Fjern "
+"alt ansvar for brudd på opphavsretten, både sivilt og strafferettslig, "
+"når en gjør opphavsrettsbeskyttet materiale tilgjengelig på nettet. "
+"Gjør fildeling som sladder: regulert av sosiale normer i stedet for "
+"med lov, hvis det er regulert i det hele tatt."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Either response is possible. I think either would be a mistake.  Rather than "
 "embrace one of these two extremes, we should embrace something that "
@@ -17482,17 +17481,18 @@ msgid ""
 "alternative.  But I believe the zero-tolerance solution would be the worse "
 "of the two extremes."
 msgstr ""
-"enten svar er mulig. Jeg tror enten ville være feil. i stedet for å omfavne "
-"en av disse to ytterpunktene, bør vi omfavne noe som gjenkjenner sannheten i "
-"begge. og mens jeg ender denne boken med en skisse av et system som gjør "
-"bare at målet mitt i neste kapittel er å vise hvor forferdelig det ville "
-"være for oss å vedta nulltoleranse ekstreme. Jeg tror begge ekstrem ville "
-"være verre enn et rimelig alternativ. men jeg tror den nulltoleranse "
-"løsningen ville være verre av to ytterpunktene."
+"Begge svarene er mulige.  Jeg tror hver av dem ville være en tabbe. "
+"I stedet for å velge en av disse to ekstremene, så bør vi velge noe "
+"som gjenkjenner sannheten i begge.  Og selv om jeg avslutter denne "
+"boken med en sksse til et system som gjør akkurat det, så er målet "
+"mitt med neste kapittel å vise akkurat hvor grufult det ville være for "
+"oss om vi adopterer nulltoleranse-ekstremet.  Jeg tror "
+"<emphasis>begge</emphasis> ekstremene vil være verre enn et rimelig "
+"alternativ.  Men jeg tror nulltoleranse-løsningen vil være den verste "
+"av de to ekstremene."
 
 #.  PAGE BREAK 190
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet zero tolerance is increasingly our government's policy. In the middle of "
 "the chaos that the Internet has created, an extraordinary land grab is "
@@ -17501,11 +17501,12 @@ msgid ""
 "this extremism, many an opportunity for new innovation and new creativity "
 "will be lost."
 msgstr ""
-"Nulltoleranse er ennå stadig våre regjeringens politikk. midt i kaoset som "
-"Internett har opprettet, skjer en ekstraordinære land grip. lov og teknologi "
-"er flyttet for å gi innhold holdere en type kontroll over vår kultur at de "
-"aldri har hatt før. og i denne ekstremisme, mange en mulighet for ny "
-"innovasjon og nye kreativitet går tapt."
+"Likevel er nulltoleranse i stadig større grad våre myndigheters "
+"politikk.  Midt i dette kaoset som internettet har skapt, finner en "
+"ekstraordinær *land grab* sted.  Retten og teknologien endres til å gi "
+"innholdsinnehaverne en type kontroll over kulturen vår som de aldri "
+"har hatt før.  Og i denne ekstremiteten vil mange muligheter for nye "
+"oppfinnelser og ny kreativitet gå tapt."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -17584,30 +17585,29 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Vivendi Universal"
-msgstr "Vivendi universal"
+msgstr "Vivendi Universal"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In April 2001, eMusic.com was purchased by Vivendi Universal, one of "
 "<quote>the major labels.</quote> Its position on these matters has now "
 "changed.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"i april 2001, ble emusic.com kjøpt av vivendi universal, en av \"den store "
-"etiketter.\" posisjonen på disse sakene er nå endret."
+"I april 2001 ble eMusic.com kjøpt opp av Vivendi Universal, en av "
+"<quote>de store plateselskapene</quote>.  Deres holdning i disse saken "
+"har nå endret seg. <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Reversing our tradition of tolerance now will not merely quash piracy. It "
 "will sacrifice values that are important to this culture, and will kill "
 "opportunities that could be extraordinarily valuable."
 msgstr ""
-"snu vår tradisjon toleranse nå vil ikke bare quash piratkopiering. det vil "
-"ofre verdier som er viktig for denne kulturen og vil drepe muligheter som "
-"kan være svært verdifull."
+"Å nå reversere vår tolerante tradisjon vil ikke bare knuse "
+"piratvirksomhet.  Det vil ofre verdier som er viktige for denne "
+"kulturen, og det vil drepe muligheter som kan være svært "
+"verdifulle."
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER TWELVE: Harms"
