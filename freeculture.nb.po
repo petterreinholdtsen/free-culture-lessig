@@ -17531,16 +17531,15 @@ msgstr ""
 "opphavsrettsbeskyttet materiale,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "eMusic opposes music piracy. We are a distributor of copyrighted material, "
 "and we want to protect those rights."
 msgstr ""
-"eMusic motsetter musikk piratkopiering. Vi er distributør av "
-"opphavsrettsbeskyttet materiale, og vi ønsker å beskytte disse rettighetene."
+"eMusic er imot piratkopiering av musikk.  Vi er en distributør av "
+"opphavsrettsbeskyttet materiale, og vi ønsker å beskytte disse "
+"rettighetene."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "But building a technology fortress that locks in the clout of the major "
 "labels is by no means the only way to protect copyright interests, nor is it "
@@ -17548,11 +17547,11 @@ msgid ""
 "forces operating naturally may very well produce a totally different "
 "industry model."
 msgstr ""
-"men bygge en teknologi festning som låser i innflytelse av de store "
-"etikettene er ikke den eneste måten å beskytte opphavsretten interesser, og "
-"heller ikke er det nødvendigvis best. Det er rett og Slett for tidlig å "
-"besvare det spørsmålet. markedskrefter operere naturlig kan godt gi en helt "
-"annen industri-modell."
+"Men å bygge en teknologisk festning som inn interessene til de store "
+"plateselskapene er ikke nødvendigvis den eneste måten å beskytte "
+"opphavsrettsinteresser, og heller ikke nødvendige den beste.  Det er "
+"ganske enkelt for tidlig å svare på det spørsmålet.  Markedskrefter "
+"som opererer fritt kan godt gi en helt annen indistri-modell."
 
 #.  f3.
 #. type: Content of: <book><part><chapter><blockquote><para><footnote><para>
