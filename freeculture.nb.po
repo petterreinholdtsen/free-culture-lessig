@@ -17345,7 +17345,6 @@ msgstr ""
 "venner.\""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Likewise, when the other side says, <quote>File sharing is just like walking "
 "into a Tower Records and taking a CD off the shelf and walking out with it,</"
@@ -17354,15 +17353,16 @@ msgid ""
 "copy to take, that is very much like stealing a copy from Tower.  "
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"på samme måte når den andre siden, sier, \"fildeling er akkurat som å vandre "
-"inn i en tower records og tar en cd av sokkelen og vandre ut med det,\" som "
-"er sann, i det minste delvis. Hvis, etter at lyle lovett (endelig) slipper "
-"et nytt album, heller enn å kjøpe det, jeg går til kazaa og finne en gratis "
-"kopi til å ta, det er veldig mye som å stjele en kopi fra tårnet."
+"Tilsvarende, når den andre siden sier, <quote>Fildeling er som å gå "
+"inn hos Tower Records å ta en CD fra hylla og gå ut av butikken med "
+"den</quote>, så er det riktig, i hvert fall delvis.  Hvis jeg, etter "
+"at Lyle Lovett (endelig) gir ut et nytt album, i stedet for å kjøpe "
+"den går på Kazaa og finner et gratis eksemplar jeg kan ta, så er det "
+"veldig likt det å stjele et eksemplar fra Tower.<placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #.  PAGE BREAK 189
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "But it is not quite stealing from Tower. After all, when I take a CD from "
 "Tower Records, Tower has one less CD to sell. And when I take a CD from "
@@ -17372,13 +17372,15 @@ msgid ""
 "California law, at least, is $1,000.  According to the RIAA, by contrast, if "
 "I download a ten-song CD, I'm liable for $1,500,000 in damages.)"
 msgstr ""
-"men det er ikke helt stjele fra tårnet. tross alt, når jeg tar en cd fra "
-"tower records, har tårnet en mindre cd å selge. og når jeg tar en cd fra "
-"tower records, får jeg en bit av plast og et dekke, og noe å vise på min "
-"hyller. (og mens vi er i gang, vi kan også oppmerksom på at når jeg tar en "
-"cd fra tower records, maksimum fine som kan bli pålagt på meg, under "
-"california lov, i det minste er $1000. Ifølge riaa, derimot, er hvis jeg "
-"dataoverføre en ti-sang-cd, jeg ansvarlig for $1,500,000 i skader.)"
+"Men det er ikke helt som å sjele fra Tower.  Tross alt har Tower "
+"Record en mindre CD de kan selge når jeg tar en CD fra Tower.  Og når "
+"jeg tar en CD fra Tower Records, så får jeg en bit plastik og et "
+"omslag, og noe å vise frem på hyllene mine.  (Og når vi først er i "
+"gang, bør vi også ta med at når jeg tar en CD fra Tower Records, så er "
+"den masimale boten jeg kan pårda meg, i hvert fall i følge loven i "
+"California, $1&nbsp;000.  I følge RIAA kan jeg, derimot, hvis jeg "
+"laster ned en ti-sangs CD, bli ansvarlig for $1&nbsp;500&nbsp;000 i "
+"erstatning.)"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
