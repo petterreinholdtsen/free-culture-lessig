@@ -17177,11 +17177,10 @@ msgstr ""
 "Han blir dermed mer og mer frustrert.  <quote><quote>Dere forstår "
 "ikke</quote>, ropte han, i en stemme som var ment å være storslått og "
 "bestemt, og som skar ut.  <quote>Dere er blinde og jeg kan se.  La meg "
-"være alene!</quote></quote>"
+"være i fred!</quote></quote>"
 
 #.  PAGE BREAK 187
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The villagers don't leave him alone. Nor do they see (so to speak) the "
 "virtue of his special power. Not even the ultimate target of his affection, "
@@ -17193,14 +17192,17 @@ msgid ""
 "did not believe,</quote> Wells tells us, and <quote>she could only half "
 "understand, but she was mysteriously delighted.</quote>"
 msgstr ""
-"landsbyboere la ikke ham være. heller ikke har de ser (så å si) kraft av sin "
-"spesielle kraft. ikke engang ultimate målet for hans hengivenhet, en ung "
-"kvinne som til ham synes \"det vakreste tingen i hele skapelse,\" forstår "
-"skjønnheten av syne. nunez's beskrivelse av det han ser \"syntes å henne de "
-"mest poetiske liker, og hun lyttet til hans beskrivelse av stjerner og "
-"fjellene og hennes egen søte hvite tent skjønnhet som om det var en skyldig "
-"overbærenhet.\" \"hun ikke tro,\" brønner forteller oss, og \"hun kunne bare "
-"halvparten forstår, men hun var mysteriously glad.\""
+"Landsbybeboerne lot han ikke være i fred.  Og de ser (for å si det "
+"slik) ikke det fine i hans spesielle krefter.  Ikke en gang det "
+"ultimale målet for hans hengivenhet, en ung kvinde som for han synes "
+"<quote>den vakreste tingen i hele skapelsen</quote>, forstår "
+"skjønnheten i å kunne se.  Ninez sine beskrivelser av det han ser "
+"<quote>virket for henne å være de mest poetiske av fantasier, og hun "
+"hørte på hans beskrivelser av stjernene og fjellene og hennes egen "
+"søte hvit-lysende skjønnhet som om det var en skylding "
+"tilfredsstillelse </quote>.  <quote>Hun trodde ikke</quote>, forteller "
+"Wells oss, og <quote>hun kunne bare halvveis forstå, men hun var "
+"underlig gledet</quote>."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
