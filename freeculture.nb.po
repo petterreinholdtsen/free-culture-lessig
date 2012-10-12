@@ -17633,17 +17633,16 @@ msgstr ""
 "disse ødeleggelsene."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My aim so far has been to describe the consequences of this war, in "
 "particular, the consequences for <quote>free culture.</quote> But my aim now "
 "is to extend this description of consequences into an argument. Is this war "
 "justified?"
 msgstr ""
-"Målet mitt hittil har vært å beskrive konsekvensene av denne krigen, "
-"spesielt konsekvenser for \"gratis kultur.\" men min målet nå er å utvide "
-"denne beskrivelsen av konsekvenser til et argument. er denne krigen "
-"rettferdiggjøres?"
+"Så langt har målet mitt vært å beskrive konsekvensene av denne "
+"krigen, og spesielt konsekvensene for <quote>fri kultur</quote>.  Men "
+"nå er målet mitt å utvide denne beskrivelsen av konsekvensene til et "
+"argument.  Er dette en godt begrunnet krig?"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -17653,26 +17652,25 @@ msgid ""
 "the property called <quote>intellectual property</quote> is at its greatest "
 "in our history."
 msgstr ""
-"i min mening er det ikke. Det er ingen god grunn hvorfor denne gangen, for "
-"første gang, loven skal forsvare gamle mot den nye, bare når strømmen av "
-"egenskap kalt \"intellectual property\" er på sitt største i vår historie."
+"Etter mitt syn er den ikke det.  Det er ingen god grunn nå, for "
+"første gang, at loven burde forsvare det gamle mot det nye, akkurat "
+"når makten til eiendomsretten som kalles <quote>immateriell "
+"eiendom</quote> er større en den noen gang har vært i vår historie."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet <quote>common sense</quote> does not see it this way. Common sense is "
 "still on the side of the Causbys and the content industry. The extreme "
 "claims of control in the name of property still resonate; the uncritical "
 "rejection of <quote>piracy</quote> still has play."
 msgstr ""
-"ennå se \"sunn fornuft\" ikke det på denne måten. sunn fornuft er fortsatt "
-"på siden av causbys og innhold industrien. ekstreme krav til kontroll i "
-"navnet på egenskapen fortsatt appellerer; ukritisk avvisningen av "
-"\"piratkopiering\" har fortsatt spille."
+"Likevel ser ikke <quote>sunn fornuft</quote> det slik.  Sunn fornuft "
+"er fortsatt enig med Causby-ene og innholdsindustrien.  Det ekstreme "
+"krav om kontroll som fremmes på vegne av eiendom aksepteres fortsatt. "
+"<quote>Piratvirksomhet</quote> avvises fortsatt ukritisk."
 
 #.  PAGE BREAK 193
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "There will be many consequences of continuing this war. I want to describe "
 "just three. All three might be said to be unintended. I am quite confident "
@@ -17680,11 +17678,12 @@ msgid ""
 "protect modern RCAs, but there is no Howard Armstrong in the wings to fight "
 "today's monopolists of culture."
 msgstr ""
-"det vil være mange konsekvensene av fortsetter denne krigen. Jeg vil "
-"beskrive bare tre. alle tre kan sies å være utilsiktede. Jeg er ganske "
-"sikker på tredjepart er utilsiktet. Jeg er mindre sikker på om to første. to "
-"første beskytte moderne rcas, men det er ingen howard armstrong i vingene å "
-"bekjempe dagens monopolists kultur."
+"Det vil være mange konsekvenser ved å fortsette denne krigen.  Jeg "
+"ønsker å beskrive kun tre.  Alle tre kan sies å være utilsiktet.  Jeg "
+"er ganske sikker på at den tredje er utilsiktet, men jeg er mindre "
+"sikker om de første to.  De første to beskytter de moderne RCA-ene, "
+"men det er ingen Howard Armstrong på flankene for å sloss mot dagens "
+"kulturmonopolister."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Constraining Creators"
