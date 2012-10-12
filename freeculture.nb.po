@@ -17624,11 +17624,11 @@ msgid ""
 "collateral damage. As with any war of prohibition, these damages will be "
 "suffered most by our own people."
 msgstr ""
-"<emphasis role='strong'>For å bekjempe</emphasis> "
+"<emphasis role='strong'>Ved å bekjempe</emphasis> "
 "<quote>piratvirksomhet</quote> for å beskytte <quote>eiendom</quote> "
 "har innholdsindustrien erklært krig.  Lobbyering og mange "
 "valgkampbidrag har nå dratt myndighetene inn i denne krigen.  Og som "
-"med enhver krig vil en både ha direkte og sideordnet ødeleggelse.  Og "
+"med enhver krig vil en både ha direkte og utilsiktet ødeleggelse.  Og "
 "som med enhver forbudskrig, er det mest våre egne folk som lider under "
 "disse ødeleggelsene."
 
@@ -17645,7 +17645,6 @@ msgstr ""
 "argument.  Er dette en godt begrunnet krig?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In my view, it is not. There is no good reason why this time, for the first "
 "time, the law should defend the old against the new, just when the power of "
@@ -17666,7 +17665,7 @@ msgid ""
 msgstr ""
 "Likevel ser ikke <quote>sunn fornuft</quote> det slik.  Sunn fornuft "
 "er fortsatt enig med Causby-ene og innholdsindustrien.  Det ekstreme "
-"krav om kontroll som fremmes på vegne av eiendom aksepteres fortsatt. "
+"krav om kontroll som fremmes på vegne av eiendomsrett aksepteres fortsatt. "
 "<quote>Piratvirksomhet</quote> avvises fortsatt ukritisk."
 
 #.  PAGE BREAK 193
@@ -18622,14 +18621,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>There is one</emphasis> more obvious way in which "
 "this war has harmed innovation&mdash;again, a story that will be quite "
 "familiar to the free market crowd."
 msgstr ""
-"Det er en tydeligere måte der denne krigen har skadet innovasjon - igjen, en "
-"historie som vil være ganske kjent for fritt marked publikum."
+"<emphasis role='strong'>Det er en</emphasis> mer åpenbar måte som "
+"denne krigen har skadet nyskapning&mdash;igjen, en historie som vil "
+"være ganske familiær for de som støtter det frie markedet."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18645,9 +18644,8 @@ msgstr ""
 "er regulering kraftig bruk å beseire konkurrenter."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Digital Copyright (Litman)"
-msgstr "digitale copyright (litman)"
+msgstr "Digital Copyright (Litman)"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #, mtrans, fuzzy
