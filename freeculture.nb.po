@@ -23010,15 +23010,14 @@ msgstr ""
 "hamlet uten prinsen."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>Defeat brings depression</emphasis>. They say it is "
 "a sign of health when depression gives way to anger. My anger came quickly, "
 "but it didn't cure the depression. This anger was of two sorts."
 msgstr ""
-"tap bringer depresjon. de sier det er et tegn på helse når depresjon gir "
-"måte å sinne. min vrede kom raskt, men det gjorde ikke kurere depresjon. "
-"Dette sinne var inälvor."
+"<emphasis role='strong'>Tap gir depresjon</emphasis>.  De sier det er "
+"et sunnhetstegn når depresjon må vike for sinne.  Mitt sinne kom "
+"raskt, men det kurerte ikke depresjonen.  Sinnet gikk i to retninger."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -23078,14 +23077,14 @@ msgstr ""
 "egen prinsipper."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "My anger with the Conservatives quickly yielded to anger with myself.  For I "
 "had let a view of the law that I liked interfere with a view of the law as "
 "it is."
 msgstr ""
-"mitt sinne med høyre raskt gitt til sinne med meg selv. for jeg hadde la en "
-"visning av loven som jeg likte forstyrre en visning av loven som det er."
+"Mitt sinne mot de konservative ga raskt etter for sinnet mot meg "
+"selv.  For jeg hadde latt en holdning til loven som jeg likte "
+"forstyrre en holdning til loven slik den er."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
