@@ -17966,7 +17966,6 @@ msgstr ""
 
 #.  PAGE BREAK 196
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "But fair use in America simply means the right to hire a lawyer to defend "
 "your right to create. And as lawyers love to forget, our system for "
@@ -17977,14 +17976,15 @@ msgid ""
 "For everyone else, it is an embarrassment to a tradition that prides itself "
 "on the rule of law."
 msgstr ""
-"men rimelig bruk i Amerika betyr ganske enkelt rett til å leie en advokat "
-"for å forsvare din rett til å opprette. og som advokater elsker å glemme, "
-"systemet vårt for å forsvare rettigheter for eksempel rimelig bruk er "
-"astonishingly dårlig&mdash;i praktisk talt alle sammenheng, men spesielt "
-"her. Det koster for mye, det leverer for tregt, og hva leverer ofte har "
-"liten forbindelse til rettferdighet underliggende kravet. Det kan hende at "
-"juridisk system utholdelig for de svært rike. for alle andre er det en "
-"forlegenhet til en tradisjon som prides seg på rettssikkerhet."
+"Men rimelig bruk i USA betyr bare en har rett til å hyre inn en "
+"advokat til å forsvare din rett til å skape.  Og som advokater liker å "
+"glemme er vårt system for å forsvare ens rett utrolig dårlig&mdash;i "
+"nær sagt enhver sammenheng, men spesielt her.  Det koster for mye, det "
+"leverer for tregt, og det som blir levert har ofte liten tilknytning "
+"til rettferdigheten i det underliggende kravet.  Rettssystemet er "
+"kanskje tolererbart for de veldig rike.  Men for alle andre er det "
+"pinlig for en tradisjon som ellers liker å være stolt av "
+"rettssikkerheten."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
