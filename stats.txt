@@ -408,3 +408,4 @@
 2012-10-12T2236 1708 oversatte meldinger, 534 antatte oversettelser, 83 uoversatte meldinger.
 2012-10-16T0730 1710 oversatte meldinger, 532 antatte oversettelser, 83 uoversatte meldinger.
 2012-10-16T0735 1712 oversatte meldinger, 530 antatte oversettelser, 83 uoversatte meldinger.
+2012-10-17T0735 1714 oversatte meldinger, 529 antatte oversettelser, 82 uoversatte meldinger.
