@@ -17886,6 +17886,23 @@ msgid ""
 "does their <quote>illegality</quote> consist? In the act of mixing the "
 "culture around us with an expression that is critical or reflective."
 msgstr ""
+"Konsekvensen av denne juridiske usikkerheten, sammen med desse "
+"ekstreme høye straffene, er at en ekstraordinær mengde kreativitet "
+"aldri vil gjennomføres, eller aldri vil gjennomføres åpnelyst.  Vi "
+"tvinger denne kreative prosessen under jorda ved å hevde at de moderne "
+"Walt Disney-ene er <quote>pirater</quote>.  Vi gjør det umulig for "
+"bedrifter å basere seg på et allemannseie på grunn av at grensene for "
+"allemannsienet er laget for å være uklare.  Det betaler seg aldri å "
+"gjøre noe annet enn å betale for retten til å skape, og dermed vil kun "
+"de som kan betale få lov til å skape.  Slik det var tilfelle i "
+"Sovjetunionen, dog av helt andre årsaker, så vil vi begynne å se en "
+"verden av undergrunns-kust&mdash;ikke fordi budskapet nødvendigvis er "
+"politisk, eller fordi temaet er kontroversielt, men på grunn av at "
+"selve det å skape denne kunsten er juridisk skummelt.  Allerede har "
+"utstillinger med <quote>ulovlig kunst</quote> vært på turné i "
+"USA.<placeholder type=\"footnote\" id=\"0\"/> Hva består deres "
+"<quote>ulovlighet</quote> i?  I det å mikse kulturen rundt oss med et "
+"uttrykk som er kritisk eller ettertenksomt."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -17910,7 +17927,6 @@ msgstr ""
 "hjemmeside som noen kunne tune inn uansett grunn de valgte."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Never in our history has a painter had to worry about whether his painting "
 "infringed on someone else's work; but the modern-day painter, using the "
@@ -17922,18 +17938,18 @@ msgid ""
 "monopolized market in cultural icons; the right to cultivate and transform "
 "them is not similarly free."
 msgstr ""
-"aldri i vår historie har en maler hadde å bekymre deg om hans maleri krenket "
-"på noen andre 's arbeid; men dagens maleren, ved hjelp av verktøyene i "
-"photoshop, deling av innhold på nettet, må bekymre deg hele tiden. bilder er "
-"rundt, men de eneste sikre bildene som skal brukes i loven av etableringen "
-"er de kjøpt fra corbis eller en annen bilde farm. og i å kjøpe, sensurere "
-"skjer. Det er et fritt marked i blyanter; Vi trenger ikke bekymre deg om sin "
-"effekt på kreativitet. men det er en svært regulert, monopolized markedet i "
-"kulturelle: ikoner; retten til å dyrke og forvandle dem er ikke på samme "
-"måte gratis."
+"Aldri før i vår historie har en maler trengt å bekymre seg om hans "
+"maleri krenker noen andres verk.  Men en moderne maler, som bruker "
+"verktøyene til Photoshop og deler innholdet på nettet, må bekymre seg "
+"for dette hele tiden.  Bilder er over alt, men de eneste trygge "
+"bildene å bruke i skapelsesprosessen er de som er kjøpt fra Corbis "
+"eller en annen av bildebutikkene.  Og i denne kjøpsprosessen skjer det "
+"sensurering.  Det er et fritt marked for blyanter.  Vi trenger ikke "
+"bekymre oss for dets effekt på kreativiteten.  Men det er en strengt "
+"regulert og monopolisert marked for kulturelle ikoner, retten til å "
+"kultivere og endre på dem er ikke tilsvarende fritt."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Lawyers rarely see this because lawyers are rarely empirical. As I described "
 "in chapter <xref xrefstyle=\"select: labelnumber\" linkend=\"recorders\"/>, "
@@ -17941,11 +17957,12 @@ msgid ""
 "lectured again and again by lawyers who insist Else's use was fair use, and "
 "hence I am wrong to say that the law regulates such a use."
 msgstr ""
-"advokater se sjelden dette fordi advokater er sjelden empirisk. som jeg "
-"beskrevet i kapittel 7, som svar på historien om dokumentar filmskaper jon "
-"annet, jeg har vært forelest igjen og igjen av advokater som insisterer "
-"ellers har bruk var rettferdig bruk, og derfor er jeg feil å si at loven "
-"regulerer slik bruk."
+"Advokater ser sjelden dette på grunn av at advokater er sjelden "
+"empiriske.  Som jeg beskrev i kapittel <xref xrefstyle=\"select: "
+"labelnumber\" linkend=\"recorders\"/>, som respons på historien om "
+"dokumentarfilmskaper Jon Else, har jeg blitt belært gang på gang av "
+"advokater som insisterer på at Elses bruk var rimelig bruk.  Og at jeg "
+"derfor tok feil når jeg sa at loven regulerer slik bruk."
 
 #.  PAGE BREAK 196
 #. type: Content of: <book><part><chapter><section><para>
@@ -18012,9 +18029,8 @@ msgstr ""
 "gratis."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid "As Jed Horovitz, the businessman behind Video Pipeline, said to me,"
-msgstr "som jed horovitz, forretningsmann bak video rørledning, sa til meg,"
+msgstr "Som Jed Horovitz, forretningsmannen som står bak Video Pipelie sa til meg,"
 
 #.  PAGE BREAK 197
 #. type: Content of: <book><part><chapter><section><blockquote><para>
