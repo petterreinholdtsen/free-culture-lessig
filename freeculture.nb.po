@@ -17755,7 +17755,6 @@ msgstr ""
 "historiefortellingen utvidet til å nå over hele verden."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet all this is possible only if the activity is presumptively legal. In the "
 "current regime of legal regulation, it is not. Forget file sharing for a "
@@ -17770,12 +17769,12 @@ msgstr ""
 "Likevel er alt dette kun mulig hvis aktiviteten antas å være lovlig. "
 "I dagens juridiske reguleringsregime er det ikke det.  La oss glemme "
 "fildeling et øyeblikk.  Tenk på dine fantastiske favorittsteder på "
-"nettet.  Nettsteder som tilbyr oppsummeringer av handlginen for glemte "
-"TV-serier, steder som katalogiserere tegneserier fra 1960-tallet, "
-"steder som blander bilder og lyd for å kritisere politikere eller "
-"selskaper, steder som samler avisartikler fra fjerne tema om vitenskap "
+"nettet.  Nettsteder som tilbyr oppsummeringer av handlingen for glemte "
+"TV-serier, steder som samler tegneserier fra 1960-tallet, "
+"steder som mikser bilde og lyd for å kritisere politikere eller "
+"bedrifter, steder som samler avisartikler fra smale tema om vitenskap "
 "eller kultur.  Det er store mengder kreativte verker spredt rundt om "
-"på internettet.  Men lik loven er satt sammen i dag er disse verkene "
+"på internettet.  Men slik loven er satt sammen i dag er disse verkene "
 "antatt å være ulovlig."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
