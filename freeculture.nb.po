@@ -18456,7 +18456,6 @@ msgstr ""
 
 #.  PAGE BREAK 201
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The point is not that businesses should have a right to start illegal "
 "enterprises. The point is the definition of <quote>illegal.</quote> The law "
@@ -18470,17 +18469,18 @@ msgid ""
 "uncertain and unlimited liability, we will have much less vibrant innovation "
 "and much less creativity."
 msgstr ""
-"Poenget er ikke at virksomheter bør ha rett til å starte ulovlig bedrifter. "
-"Poenget er definisjonen av \"ulovlig.\" loven er et rot av usikkerhet. Vi "
-"har ingen god måte å vite hvordan den skal brukes på nye teknologier. ennå "
-"gir ved å snu vår tradisjon av juridisk deference, og ved å omfavne de "
-"astonishingly høyt straffene som pålegger lov om opphavsrett, det "
-"usikkerheten nå en realitet som er langt mer konservative enn det som er "
-"rett. Hvis loven pålagt dødsstraff for parkering billetter, vi ville ikke "
-"bare ha færre parkering billetter, ville vi også ha mye mindre kjøring. det "
-"samme prinsippet gjelder for innovasjon. Hvis innovasjon er stadig "
-"kontrolleres av denne usikker og ubegrenset ansvar, har vi mye mindre "
-"levende innovasjon og mye mindre kreativitet."
+"Poenget er ikke at virksomheter skal ha lov til å starte ulovlig "
+"aktivitet.  Poenget er definisjonen av <quote>ulovlig</quote>.  Loven "
+"er et rot av usikkerhet.  Vi har ingen god måte å vite hvordan den bør "
+"anvendes på nye teknologier.  Og likevel, ved å reverse vår tradisjon "
+"for juridisk hensynsfullhet og omfavne det forbløffende høye "
+"straffenivået som pålegges av opphavsretten, gir denne usikkerheten nå "
+"en virkelighet som er mye mer konservativ enn det som er rett.  Hvis "
+"loven påla dødsstraff for å parkere ulovlig, så ville vi ikke bare ha "
+"færre ulovlige parkeringer, vi ville også ha mye mindre kjøring.  Det "
+"samme prinsippet gjelder for nyskapning.  Hvis innovasjon stadig "
+"kontrolleres av denne usikre og ubegrensede strafferettsansvaret, så "
+"vil vi ha mye mindre levende nyskapning og mye mindre kreativitet."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
