@@ -18187,21 +18187,18 @@ msgstr ""
 "(pessimist extraordinaire) ville aldri ha forutsett."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "MP3.com"
 msgstr "MP3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "my.mp3.com"
-msgstr "My.MP3.com"
+msgstr "my.mp3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Roberts, Michael"
 msgstr "Roberts, Michael"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In 1997, Michael Roberts launched a company called MP3.com.  MP3.com was "
 "keen to remake the music business. Their goal was not just to facilitate new "
@@ -18210,12 +18207,13 @@ msgid ""
 "distribute their creativity, without demanding an exclusive engagement from "
 "the creators."
 msgstr ""
-"i 1997, michael roberts lansert et firma som heter mp3.com. MP3.com var "
-"opptatt av å remake musikkbransjen. deres mål var ikke bare for å lette nye "
-"måter å få tilgang til innhold. deres mål var også å lette nye måter å lage "
-"innhold. i motsetning til de store plateselskapene tilbudt mp3.com skaperne "
-"en arena for å distribuere sine kreativitet, uten å kreve en eksklusiv "
-"engasjement fra skaperne."
+"I 1997 etablerte Michael Roberts et selskap ved navn MP3.com. "
+"MP3.com var ute etter å endre på musikkbransjen.  Målet deres var ikke "
+"bare å bidra til nye måter å få tilgang til innhold.  Målet var også å "
+"bidra til nye måter å skape innhold.  Til forskjell fra de store "
+"plateselskapene tilbød MP3.com opphavspersonene en arena for å "
+"distribuere sin kreativitet, uten å kreve et eksklusivt engasjement "
+"fra opphavspersonene."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -18223,7 +18221,6 @@ msgid "preference data on"
 msgstr "preferanse data på"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "To make this system work, however, MP3.com needed a reliable way to "
 "recommend music to its users. The idea behind this alternative was to "
@@ -18231,11 +18228,11 @@ msgid ""
 "artists. If you like Lyle Lovett, you're likely to enjoy Bonnie Raitt. And "
 "so on."
 msgstr ""
-"Hvis du vil gjøre dette systemet fungerer, men trengte mp3.com en pålitelig "
-"måte å anbefale musikk til sine brukere. idéen bak denne alternative var å "
-"utnytte åpenbarte innstillingene av musikk lyttere å anbefale nye artister. "
-"Hvis du liker lyle lovett, sannsynligvis du til å nyte bonnie raitt. og så "
-"videre."
+"Men for å få dette systemet til å virke, trengte MP3.com en pålitelig "
+"måte å anbefale musikk til sine brukere.  Idéen bak dette alternativet "
+"var å utnytte musikklytternes eksponerte musikkvalg for å anbefale nye "
+"artister.  Hvis du liker Lyle Lovett, så vil du antagelig nyte Bonnie "
+"Raitt.  Og så videre."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
