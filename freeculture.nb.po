@@ -18297,14 +18297,12 @@ msgstr ""
 "kunder noe de hadde allerede kjøpt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "distribution technology targeted in"
-msgstr "distribusjon-teknologi som er rettet i"
+msgstr "distribusjon-teknologi mål for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "outsize penalties of"
-msgstr "øket sanksjoner av"
+msgstr "økte straffer ved"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -18317,13 +18315,14 @@ msgid ""
 "then settled with the remaining plaintiff, Vivendi Universal, paying over "
 "$54 million. Vivendi purchased MP3.com just about a year later."
 msgstr ""
-"ni dager etter mp3.com lansert sin tjeneste, brakte de fem store etikettene, "
-"ledet av riaa, en sak mot mp3.com. MP3.com utlignet med fire av de fem. ni "
-"måneder senere, en føderal dommer funnet mp3.com å ha vært skyldig i willful "
-"brudd med hensyn til femte. å bruke loven som det er, pålagt dommeren en bot "
-"mot mp3.com av 118 millioner. MP3.com deretter utlignet med gjenstående "
-"saksøker, vivendi universal, betaler over $54 millioner. Vivendi kjøpt mp3."
-"com omtrent et år senere."
+"Ni dager etter at MP3.com lanserte sin tjeneste anla de fem store "
+"plateselskapene, under ledelse av RIAA, sak mot MP3.com.  MP3.com "
+"inngikk forlik med fire av de fem.  Ni måneder senere avgjorde en "
+"føderal dommer at MP3.com hadde vært skyldig i å med hensikt ha brutt "
+"opphavsretten når det gjalt den femte.  Ved å anvende loven slik den "
+"er ila dommeren MP3.com en bot på $118 millioner.  MP3.com inngikk så "
+"et forlig med den gjenstående saksøker, Vivendi Universal, og betalte "
+"mer enn $54 millioner.  Vivendi kjøpte MP3.com omtrent et år senere."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "That part of the story I have told before. Now consider its conclusion."
