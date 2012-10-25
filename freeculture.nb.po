@@ -18186,7 +18186,6 @@ msgstr ""
 "eksklusivt engasjement fra opphavspersonene."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "preference data on"
 msgstr "preferanse data på"
 
