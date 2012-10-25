@@ -18305,7 +18305,6 @@ msgid "outsize penalties of"
 msgstr "økte straffer ved"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Nine days after MP3.com launched its service, the five major labels, headed "
 "by the RIAA, brought a lawsuit against MP3.com. MP3.com settled with four of "
@@ -18320,8 +18319,8 @@ msgstr ""
 "inngikk forlik med fire av de fem.  Ni måneder senere avgjorde en "
 "føderal dommer at MP3.com hadde vært skyldig i å med hensikt ha brutt "
 "opphavsretten når det gjalt den femte.  Ved å anvende loven slik den "
-"er ila dommeren MP3.com en bot på $118 millioner.  MP3.com inngikk så "
-"et forlig med den gjenstående saksøker, Vivendi Universal, og betalte "
+"er utformet nå ila dommeren MP3.com en bot på $118 millioner.  MP3.com inngikk så "
+"et forlik med den gjenstående saksøker, Vivendi Universal, og betalte "
 "mer enn $54 millioner.  Vivendi kjøpte MP3.com omtrent et år senere."
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -18329,7 +18328,6 @@ msgid "That part of the story I have told before. Now consider its conclusion."
 msgstr "Den delen av historien har jeg fortalt før.  Nå kommer konklusjonen."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "After Vivendi purchased MP3.com, Vivendi turned around and filed a "
 "malpractice lawsuit against the lawyers who had advised it that they had a "
@@ -18339,13 +18337,14 @@ msgid ""
 "lawsuit sought to punish any lawyer who had dared to suggest that the law "
 "was less restrictive than the labels demanded."
 msgstr ""
-"Etter at Vivendi kjøpte MP3.com, snudde Vivendi seg rundt og saksøkte for "
-"malpractice juristene som hadde anbefalt at de hadde en god tro hevder at de "
-"ønsket å tilby tjenesten vil bli vurdert juridiske lover om opphavsrett. "
-"Dette søksmålet påstått at det burde vært åpenbart at domstolene ville finne "
-"denne virkemåten ulovlig; Derfor var dette søksmålet søkt å straffe noen "
-"advokat som hadde våget å foreslå at loven mindre restriktive enn etikettene "
-"krevde."
+"Etter at Vivendi kjøpte MP3.com, snudde Vivendi seg rundt og saksøkte "
+"for pliktforsømmelse de advokatene som hadde gitt råd om at selskapet "
+"i god tro kunne hevde at tjenesten selskapet ønsket å tilby ville bli "
+"ansett som lovlig i henhold til opphavsretten.  Dette søksmålet hevdet "
+"at det burde ha vært åpenbart at domstolene ville anse denne "
+"oppførselen for ulovlig.  Dermed forsøkte dette søksmålet å straffe "
+"enhver advokat som våget å foreslå at loven var mindre restrektiv en "
+"plateselskapene krevde."
 
 #.  PAGE BREAK 200
 #. type: Content of: <book><part><chapter><section><para>
