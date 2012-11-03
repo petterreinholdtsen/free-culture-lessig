@@ -14146,9 +14146,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "other property rights vs."
-msgstr "andre property rights vs."
+msgstr "andre eiendomsretter vs."
 
 #.  PAGE BREAK 151
 #. type: Content of: <book><part><chapter><section><para>
@@ -14199,11 +14198,11 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "We can see this point abstractly by beginning with this largely empty circle."
 msgstr ""
-"Vi kan se dette punktet abstractly begynner med dette i stor grad tom sirkel."
+"Vi kan se dette poenget helt abstrakt ved å starte med denne i "
+"hovedsak tomme sirkel."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "All potential uses of a book."
@@ -14289,13 +14288,12 @@ msgstr ""
 "quote>."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, mtrans, fuzzy
 msgid ""
 "Republishing stands at the core of this circle of possible uses of a "
 "copyrighted work."
 msgstr ""
-"republishing står i kjernen av denne kretsen av mulige bruksområder for et "
-"opphavsrettslig beskyttet verk."
+"Å gi ut på nytt står i midten av denne sirkelen av mulige "
+"bruksområder for et opphavsrettsbeskyttet verk."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1541.png\"></graphic>"
@@ -14331,12 +14329,12 @@ msgid "<graphic fileref=\"images/1542.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1542.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, mtrans, fuzzy
 msgid ""
 "Uses that before were presumptively unregulated are now presumptively "
 "regulated."
 msgstr ""
-"bruker som før var presumptively unregulated er nå presumptively regulert."
+"Bruk som tidligere var antatt å ikke være regulert er nå antatt å "
+"være regulert."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1551.png\"></graphic>"
@@ -14962,11 +14960,8 @@ msgstr ""
 "som utgiveren hensikt å gi med denne boken."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, mtrans, fuzzy
 msgid "List of the permissions that the publisher purports to grant."
-msgstr ""
-"Hvis du klikker på knappen tillatelser, ser du en liste over tillatelsene "
-"som utgiveren hensikt å gi med denne boken."
+msgstr "Liste med tillatelser som utgiveren har til hensikt å gi."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1612.png\"></graphic>"
