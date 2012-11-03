@@ -13902,7 +13902,7 @@ msgstr ""
 msgid ""
 "Consider a practical example to understand the scope of these differences."
 msgstr ""
-"Vurder et praktisk eksempel for å forstå omfanget av disse forskjellene."
+"La oss se på et praktisk eksempel for å forstå omfanget av disse forskjellene."
 
 #.  f13
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13930,6 +13930,15 @@ msgid ""
 "regulation of a tiny proportion of a tiny part of the creative market in the "
 "United States&mdash;publishers."
 msgstr ""
+"Hvis du i 1790 skrev en bok og du var en av de fem prosentene som "
+"faktisk registrerte opphavsretten for den boken, så ville "
+"opphavsrettsloven beskytte deg mot at andre utgivere tok boken din og "
+"publiserte den på nytt uten din tillatelse.  Målet med loven var å "
+"regulere utgivere for å hindre denne typen urimelig konkurranse.  I "
+"1790 var det 174 utgivere i USA.<placeholder type=\"footnote\" "
+"id=\"0\"/> Opphavsrettslovgivingen var dermed en liten regulering av "
+"en liten andel av et liten del av det kreative markedet i "
+"USA&mdash;utgivere."
 
 #.  PAGE BREAK 149
 #. type: Content of: <book><part><chapter><section><para>
