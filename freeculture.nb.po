@@ -13616,7 +13616,6 @@ msgstr "i allemannseie (public domain)"
 
 #.  PAGE BREAK 146
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The effect of these extensions is simply to toll, or delay, the passing of "
 "works into the public domain. This latest extension means that the public "
@@ -13626,12 +13625,14 @@ msgid ""
 "copyrights will pass into the public domain by virtue of the expiration of a "
 "copyright term."
 msgstr ""
-"effekten av disse tilleggene er ganske enkelt å tollpenger, eller "
-"forsinkelse, bestått av works i public domain. Denne siste utvidelsen betyr "
-"at allemannseie vil ha blitt kirkeklokkene for trettini fifty-fem år, eller "
-"70 prosent av tiden siden 1962. i tjue år etter sonny bono loven, mens en "
-"million patenter vil passere i den offentlige sfæren, vil dermed null "
-"opphavsrett passerer i public domain kraft av utløpet av en opphavsrett sikt."
+"Effekten av disse utvidelsene er ganske enkelt å skattlegge, eller "
+"forsinke, når verk faller i det fri og blir allemannseie.  Denne siste "
+"utvidelsen betyr at allemannseie vil ha blitt skattlagt for trettivi "
+"av femtifem år, eller 70 prosent av tiden siden 1962.  Dermed vil det "
+"i de tjue årene etter Sonny Bono-loven, samtidig som en million "
+"patenter har blitt allemannseie, ikke være et eneste "
+"opphavsrettsbeskyttet verk som har falt i det fri takket være utløp av "
+"vernetiden i opphavsretten."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13746,15 +13747,16 @@ msgid ""
 "changes are not necessarily bad. But we should understand the extent of the "
 "changes if we're to keep this debate in context."
 msgstr ""
-"\"område\" av en opphavsrett er området av rettigheter gitt av loven. "
-"omfanget av amerikanske copyright har endret seg dramatisk. disse endringene "
-"er ikke nødvendigvis dårlig. men vi bør forstå omfanget av endringene Hvis "
-"vi å holde denne debatten i sammenheng."
+"<quote>Dekningsområdet</quote> for opphavsretten er den rekken av "
+"rettighetsområder tildelt gjennom lovverket.  Dekningsområdet for "
+"amerikansk opphavsrett har endret seg dramatisk.  Disse endringene er "
+"ikke nødvendigvis dårlige, men vi bør forstå omfanget av endringer "
+"hvis vi skal forholde oss til sammenhengen i denne debatten."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
 msgid "historical shift in copyright coverage of"
-msgstr "historiske Skift i opphavsrett dekning av"
+msgstr "historisk endring i opphavsrettslig dekning av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
