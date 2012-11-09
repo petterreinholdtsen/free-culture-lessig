@@ -11862,7 +11862,6 @@ msgid "Kennedy, John F."
 msgstr "Kennedy, John F."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>Jack Valenti</emphasis> has been the president of "
 "the Motion Picture Association of America since 1966. He first came to "
@@ -11872,44 +11871,40 @@ msgid ""
 "almost forty years of running the MPAA, Valenti has established himself as "
 "perhaps the most prominent and effective lobbyist in Washington."
 msgstr ""
-"Jack valenti har vært president i motion picture association of america "
-"siden 1966. først kom han til washington, DC, med lyndon johnson's "
-"administrasjon&mdash;bokstavelig. det berømte bildet av johnson's swearing-"
-"in på air force en etter assassination av president kennedy har valenti i "
-"bakgrunnen. i hans nesten førti år kjører mpaa, har valenti etablert seg som "
-"kanskje mest iøynefallende og effektiv korridorpolitiker i washington."
+"<emphasis role='strong'>Jack Valenti</emphasis> har vært president "
+"for Motion Picture Assication of America siden 1966.  Han ankom "
+"Washing D.C. med Lyndon Johnson-administrasjonen&mdash;bokstavlig "
+"talt.  På det berømte bildet av edsavleggingen til Johnson på Air "
+"Force One etter snikmordet på president Kennedy befinner Valenti seg i "
+"bakgrunnen.  I sine nesten ført år som leder av MPAA har Valenti "
+"etablert seg som kanskje den mest synlige og effektive lobbyisten i "
+"Washington."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Sony Pictures Entertainment"
-msgstr "Sony pictures entertainment"
+msgstr "Sony Pictures Entertainment"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "MGM"
 msgstr "MGM"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Paramount Pictures"
-msgstr "Paramount bilder"
+msgstr "Paramount Pictures"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Twentieth Century Fox"
-msgstr "20th century fox"
+msgstr "Twentieth Century Fox"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Universal Pictures"
-msgstr "Universal pictures"
+msgstr "Universal Pictures"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Warner Brothers"
-msgstr "Warner brothers"
+msgstr "Warner Brothers"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The MPAA is the American branch of the international Motion Picture "
 "Association. It was formed in 1922 as a trade association whose goal was to "
@@ -11921,18 +11916,18 @@ msgid ""
 "Walt Disney, Sony Pictures Entertainment, MGM, Paramount Pictures, Twentieth "
 "Century Fox, Universal Studios, and Warner Brothers."
 msgstr ""
-"mpaa er den amerikanske avdelingen av internasjonale motion picture "
-"association. Det ble dannet i 1922 som en handelsforening som har mål var å "
-"forsvare amerikanske filmer mot økende innenriks kritikk. organisasjonen nå "
-"representerer ikke bare filmskapere men produsenter og distributører av "
-"underholdning for TV, video og kabel. Styret består av formenn og "
-"presidenter av de sju store produsentene og distributører av filmselskaper "
-"og TV-programmer i USA: walt disney, sony pictures entertainment, mgm, "
-"paramount bilder, 20th century fox, universal studios og warner brothers."
+"MPAA er den amerikanske grenen av den internasjonale filmforeningen. "
+"Den ble stiftet i 1922 som en handelsforening hvis mål var å forsvare "
+"amerikanske filmer mot økende kritikk innenlands.  Organisasjonen "
+"representerer nå ikke bare filmskapere, med også produsenter og "
+"distributører av underholdning for TV, video og kabel-TV.  Styret er "
+"satt sammen av styrelederne og presidentene i de syv største "
+"produsentene og distributørene for film og TV-programmer i USA: Walt "
+"Disney, Sony Pictures Entertainment, MGM, Paramount Pictures, "
+"Twentieth Centory Fox, Universal Studios og Warner Brothers."
 
 #.  PAGE BREAK 128
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Valenti is only the third president of the MPAA. No president before him has "
 "had as much influence over that organization, or over Washington. As a "
@@ -11944,15 +11939,16 @@ msgid ""
 "is no Mr. Smith. When Valenti went to Washington, he mastered the city in a "
 "quintessentially Washingtonian way."
 msgstr ""
-"Valenti er bare den tredje presidenten av mpaa. Ingen president før ham har "
-"hatt så stor innflytelse over denne organisasjonen eller over washington. "
-"som en Texas har valenti mestret enkelt viktigste politiske ferdigheter til "
-"en southerner&mdash;muligheten til å vises enkle og treg mens skjule en "
-"lynrask intellekt. til denne dag har spiller valenti enkel, ydmyke mann. men "
-"denne harvard mba, og forfatter av fire bøker, som fullført videregående "
-"skole i en alder av femten, og fløy mer enn femti bekjempe oppdrag i andre "
-"verdenskrig, er ingen mr. smith. Når valenti gikk til washington, han "
-"mestret byen i en typiske washingtonian måte."
+"Valenti er den tredje presidenten for MPAA.  Ingen president før han "
+"har hatt like mye innflytelse over organisasjonen, eller over "
+"Washington.  Valenti, som kommer fra Texas, har mestret den viktigste "
+"politiske enkeltferdighet som trengs av en fra sørstatene&mdash;evnen "
+"til å fremstå enkel og treg mens en skjuler sitt lynraske intellekt. "
+"Valenti spiller fortsatt en enkel og ydmyk man.  Men denne mannen, med "
+"MBA fra Harward har skrevet fire bøker, fullført videregående skole i "
+"en alder av femten år og fløyet mer enn femti kampoppdrag under andre "
+"verdenskrig, er ingen Mr. Smith.  Da Valenti dro til Washington "
+"mestret han byen like godt som en innfødt."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11973,11 +11969,11 @@ msgstr ""
 "redefinere betydningen av \"kreative property.\""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In 1982, Valenti's testimony to Congress captured the strategy perfectly:"
 msgstr ""
-"i 1982 innspilt valenti's vitnesbyrd til Kongressen strategien perfekt:"
+"Valentis vitnemål i 1982 til kongressen fanget denne strategien "
+"perfekt:"
 
 #.  f1
 #. type: Content of: <book><part><chapter><blockquote><para><footnote><para>
@@ -12009,7 +12005,6 @@ msgstr ""
 
 #.  PAGE BREAK 129
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The strategy of this rhetoric, like the strategy of most of Valenti's "
 "rhetoric, is brilliant and simple and brilliant because simple. The "
@@ -12019,12 +12014,14 @@ msgid ""
 "nation.</quote> There are no second-class citizens, Valenti might have "
 "continued. There should be no second-class property owners."
 msgstr ""
-"strategien for denne retorikk, som strategi for de fleste av valenti's "
-"retorikk, er strålende og enkel og strålende fordi enkel. \"sentrale temaet"
-"\" som \"rimelig menn og kvinner\" vil returnere er dette: \"kreative bolig "
-"må substansiell med samme rettigheter og beskyttelsene bosatt i alle andre "
-"bolig i nasjonen.\" det er ingen andre klasses borgere, valenti kanskje har "
-"fortsatt. Det bør være ingen annenklasses bolig."
+"Strategien for denne retorikken, som strategien til det meste av "
+"Valentis retorikk, er strålende og enkel og strålede fordi den er "
+"enkel.  Det <quote>sentrale temaet</quote> som <quote>fornuftige menn "
+"og kvinner</quote> vil komme tilbake til er dette: <quote>Kreative "
+"eiendomseiere må få de samme rettigheter og beskyttelse som gis til "
+"alle andre eiendomseiere i nasjonen</quote>.  Det finnes ikke "
+"annenrangs borgere, kunne Valenti fortsatt.  Det bør ikke finnes noen "
+"annenrangs eiendomseiere."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
