@@ -12083,7 +12083,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Valenti knows this. But he speaks for an industry that cares squat for our "
 "tradition and the values it represents. He speaks for an industry that is "
@@ -12091,11 +12090,12 @@ msgid ""
 "1710. In the world that Valenti's changes would create, a powerful few would "
 "exercise powerful control over how our creative culture would develop."
 msgstr ""
-"Valenti vet dette. men han taler for en bransje som bryr seg undersetsig om "
-"vår tradisjon og verdiene den representerer. han snakker for en bransje som "
-"er i stedet kjemper for å gjenopprette tradisjon som britene overturned i "
-"1710. i verden som vil opprette valenti's endringer, vil noen kraftige utøve "
-"kraftig kontroll over hvordan vår kreative kultur ville utvikle."
+"Valenti vet dette.  Men han snakker på vegne av en industri som ikke "
+"bryr seg om vår tradisjon og verdiene den representerer.  Han snakker "
+"i stedet for en industri som sloss for å gjeninnføre tradisjonen som "
+"britene gjorde slutt på i 1710.  I verden skapt av endringene Valenti "
+"foreslår, vil noen få mektige aktører utøve kraftig kontroll over "
+"hvordan vår kreative kultur får utvikle seg.""
 
 #.  PAGE BREAK 130
 #. type: Content of: <book><part><chapter><para>
