@@ -12095,11 +12095,10 @@ msgstr ""
 "i stedet for en industri som sloss for å gjeninnføre tradisjonen som "
 "britene gjorde slutt på i 1710.  I verden skapt av endringene Valenti "
 "foreslår, vil noen få mektige aktører utøve kraftig kontroll over "
-"hvordan vår kreative kultur får utvikle seg.""
+"hvordan vår kreative kultur får utvikle seg."
 
 #.  PAGE BREAK 130
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "I have two purposes in this chapter. The first is to convince you that, "
 "historically, Valenti's claim is absolutely wrong. The second is to convince "
@@ -12111,14 +12110,15 @@ msgid ""
 "for new creators to create.  Creativity depends upon the owners of "
 "creativity having less than perfect control."
 msgstr ""
-"Jeg har to formål i dette kapitlet. først er å overbevise deg om at, "
-"historisk valenti's krav er helt galt. andre er å overbevise deg om at det "
-"ville være veldig galt for oss å avvise vår historie. Vi har alltid "
-"behandlet rettigheter i kreative egenskapen annerledes fra rettigheter som "
-"er bosatt i alle andre bolig. de har aldri vært den samme. og de aldri skal "
-"være den samme, fordi, men counterintuitive dette kan synes å gjøre dem det "
-"samme vil være å svekke fundamentalt mulighet for nye skapere å lage. "
-"kreativitet, avhenger av eierne av kreativitet som har mindre enn perfekt "
+"Jeg har to formål med dette kapittelet.  Dte første er å overbevise "
+"deg om at historisk sett er Valentis påstander helt gale.  Det andre "
+"er å overbevise deg om at det ville være forferdelig galt av oss å "
+"avvise får historie.  Vi har alltid behandlet kreative eiendomsretter "
+"forskjellig fra rettighetene som hører til alle andre eiendomseiere. "
+"De har aldri vært like.  Og de bør aldri bli like, uansett hvor lite "
+"intititivt det kan virke, for å gjøre dem like ville være å "
+"fundamentalt svekke muligheten for nye skapere til å skape. "
+"Kreativitet er avhengig av at eierne av kreativitet ikke har perfekt "
 "kontroll."
 
 #. type: Content of: <book><part><chapter><para>
@@ -12147,6 +12147,9 @@ msgid ""
 "something fundamentally wrong in Valenti's argument, we need look no further "
 "than the United States Constitution itself."
 msgstr ""
+"<emphasis role='strong'>For å få</emphasis> et lite hint om at det er "
+"noe fundamentalt galt med Valentis argument trenger vi ikke se lenger "
+"en i grunnloven til USA."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
