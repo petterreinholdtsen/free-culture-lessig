@@ -12201,7 +12201,6 @@ msgstr ""
 "kompensasjon overhodet."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The Constitution thus on its face states that these two forms of property "
 "are not to be accorded the same rights. They are plainly to be treated "
@@ -12210,15 +12209,14 @@ msgid ""
 "the same rights as every other property-right owner. He is effectively "
 "arguing for a change in our Constitution itself."
 msgstr ""
-"grunnlov dermed på sitt ansikt sier at disse to former for egenskapen ikke "
-"skal får de samme rettighetene. de er tydelig å bli behandlet annerledes. "
-"Valenti er derfor ikke bare ber om en endring i vår tradisjon når han hevder "
-"at creative-bolig bør substansiell de samme rettighetene som hver andre "
-"eiendomsrett eier. Han er effektivt kranglet for en endring i våre "
-"Grunnloven selv."
+"Grunnloven sier dermed rett frem at disse to formene for eiendom ikke "
+"skal tildeles de samme rettighetene.  De skal tydelig behandles "
+"forskjellig.  Valenti ber dermed ikke bare om at vår tradisjon skal "
+"endres når an argumenterer med at eiere av kreativ eiendom skal få de "
+"samme rettighetene som enhver annen eiendomseier.  Han argumenterer i "
+"effekt for å endre grunnloven selv."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Arguing for a change in our Constitution is not necessarily wrong.  There "
 "was much in our original Constitution that was plainly wrong.  The "
@@ -12230,18 +12228,19 @@ msgid ""
 "mistakes; no doubt there could be others that we should reject as well. So "
 "my argument is not simply that because Jefferson did it, we should, too."
 msgstr ""
-"kranglet for en endring i vår grunnlov er ikke nødvendigvis galt. Det var "
-"mye i vår opprinnelige grunnlov som var tydelig galt. Grunnloven av 1789 "
-"entrenched slaveri, det venstre senators du kan være utnevnt stedet valgt; "
-"det gjorde det mulig for de valg Agder å produsere uavgjort mellom president "
-"og sin egen vice president (som det gjorde i 1800). underskrev var uten tvil "
-"ekstraordinære, men jeg vil være først til å innrømme at de gjorde en stor "
-"feil. Vi har siden avvist noen av disse feilene; ingen tvil om kan det være "
-"andre som vi bør avvise også. så mitt argument ikke er bare at fordi "
-"jefferson gjorde det, vi bør, også."
+"Å argumentere for en endring i grunnlvoen vår er ikke nødvendigvis "
+"galt.  Det var mye i vår originale grunnlov som helt tydelig var galt. "
+"Grunnloven av 1789 *entrenched* slaveri.  Den sa at senatorer skulle "
+"utnevnes i stedet for å bli valgt.  Den gjorde det mulig å få en "
+"valgforsamling som ga like mange stemmer til presidenten og hans egen "
+"visepresident (som den gjorde i 1800).  Grunnlovsforfatterne var uten "
+"tvil ekstraordinære, men jeg vil være den første til å innrømme at de "
+"gjorde store feil.  Vi har siden avvist noen av disse feilene, og det "
+"er uten tvil andre som vi også burde avvise.  Så argumentet mitt er "
+"ikke at bare på grunn av at Jefferson gjorde det, så bør vi også gjøre "
+"det."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Instead, my argument is that because Jefferson did it, we should at least "
 "try to understand <emphasis>why</emphasis>. Why did the framers, fanatical "
@@ -12249,11 +12248,12 @@ msgid ""
 "given the same rights as all other property? Why did they require that for "
 "creative property there must be a public domain?"
 msgstr ""
-"i stedet, mitt argument er at fordi jefferson gjorde det, vi bør i det "
-"minste prøver å forstå hvorfor. Hvorfor underskrev, fanatical egenskapstyper "
-"som de var, avvise påstanden om at creative egenskapen gis samme rettigheter "
-"som alle andre eiendom? Hvorfor de krever at for kreative egenskapen det må "
-"være et frivare?"
+"I stedet er mitt argument at på grunn av at Jefferson gjorde det, bør "
+"vi i det minste forsøke å forstå <emphasis>hvorfor</emphasis>. "
+"Hvorfor avviste grunnlovsforfatterne, som jo var fanatiske "
+"eiendomstilhengere, avvise påstanden om at kreativ eiendom skulle "
+"tildeles de samme rettighetene som all annen eiendom?  Hvorfor krevde "
+"de at for kreativ eiendom må det finnes et allemannseie?"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12730,7 +12730,6 @@ msgid "technology"
 msgstr "teknologi"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "established industries threatened by changes in"
 msgstr "etablert industri truet av endringer i"
 
@@ -12752,9 +12751,8 @@ msgstr ""
 "gangen ingen regjering er rettferdiggjørende looting resultater."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, mtrans, fuzzy
 msgid "effective state of anarchy after the Internet."
-msgstr "effektiv delstaten anarki etter Internett."
+msgstr "effektiv tilstand av anarki etter internettet."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1381.png\"></graphic>"
@@ -12890,9 +12888,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "free market, technological changes in"
-msgstr "fritt marked, teknologiske endringer i"
+msgstr "frie marked, teknologiske endringer i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Brezhnev, Leonid"
@@ -12903,9 +12900,8 @@ msgid "Gates, Bill"
 msgstr "Gates, Bill"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "market competition"
-msgstr "marked"
+msgstr "markedskonkurranse"
 
 #.  f6
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -12932,6 +12928,21 @@ msgid ""
 "ideas will not succeed. It is a world of stasis and increasingly "
 "concentrated stagnation. It is the Soviet Union under Brezhnev."
 msgstr ""
+"Det åpenbare svaret på disse åpenbart retoriske spørsmålene er nei. "
+"I et fritt samfunn, med et fritt marked, støttet av frie "
+"markedsaktører og fri handel, er ikke myndighetenes rolle å støtte en "
+"bestemt måte å gjøre forretninger mot andre måter.  Deres rolle er "
+"ikke å velge vinnere og beskytte dem mot tap.  Hvis myndighetene "
+"gjorde dette generelt, så ville vi aldri få noen fremgang.  Bill "
+"Gates, styrelederen i Microsoft, skrev i 1991 i et notat soma "
+"kritiserte programvarepatenter at <quote>etablerte selskaper har "
+"interesse av å eksludere fremtidige konkurrenter</quote>.<placeholder "
+"type=\"footnote\" id=\"0\"/> Og i forhold til et nystartet selskap har "
+"etablerte selskaper også andre virkemidler.  (Tenk RCA og FM-radio.) "
+"En verden hvor konkurrenter med nye ideer må sloss ikke bare mot "
+"markedet men også mot myndighetene er en verden hvor konkurrenter med "
+"nye ideer ikke vil lykkes.  Det er en verden i stillstand og økende "
+"konsentrert stagnering.  Det er sovjetunionen under Brezhnev."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
