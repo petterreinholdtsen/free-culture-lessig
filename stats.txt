@@ -428,3 +428,4 @@
 2012-11-10T1542 1754 oversatte meldinger, 493 antatte oversettelser, 78 uoversatte meldinger.
 2012-11-11T0803 1757 oversatte meldinger, 491 antatte oversettelser, 77 uoversatte meldinger.
 2012-11-12T0832 1759 oversatte meldinger, 489 antatte oversettelser, 77 uoversatte meldinger.
+2012-11-12T1640 1767 oversatte meldinger, 482 antatte oversettelser, 76 uoversatte meldinger.
