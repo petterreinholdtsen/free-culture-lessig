@@ -11951,7 +11951,6 @@ msgstr ""
 "mestret han byen like godt som en innfødt."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In defending artistic liberty and the freedom of speech that our culture "
 "depends upon, the MPAA has done important good. In crafting the MPAA rating "
@@ -11961,12 +11960,13 @@ msgid ""
 "epitomized in Valenti's every act, to redefine the meaning of "
 "<quote>creative property.</quote>"
 msgstr ""
-"til å forsvare kunstneriske frihet og ytringsfriheten som avhenger av vår "
-"kultur, har mpaa gjort viktig gode. i laging Toppliste mpaa, har det "
-"sannsynligvis unngått mye tale-regulere skade. men det er et aspekt til "
-"organisasjonens misjon som er både den mest radikale og de viktigste. Dette "
-"er organisasjonens-innsats, epitomized i valenti's hver handling, til å "
-"redefinere betydningen av \"kreative property.\""
+"Ved å forsvare kunstnerisk frihet og ytringsfrihet som vår kultur er "
+"avhengig av, så har MPAA gjort viktig og positivt arbeide.  Ved å "
+"utarbeide MPAAs klassifiseringsystem har de antagelig unngått "
+"betydelig skade på talefriheten.  Men det er et aspekt ved "
+"organisasjonens mål som både er det mest radikale og det viktigste. "
+"Dette er organisasjonens innsats, personifisert i alt Valenti gjør, "
+"for å omdefiniere betydningen av <quote>kreativ eiendom</quote>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
