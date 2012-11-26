@@ -8227,14 +8227,12 @@ msgid "composers, copyright protections of"
 msgstr "komponister, opphavsrettsbeskyttelser for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "music recordings played on"
-msgstr "innspillinger spilt på"
+msgstr "musikkinnspillinger spillt på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "copyright protections in"
-msgstr "opphavsrett formål som er etablert i"
+msgstr "opphavsrettbeskyttelser i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 #, mtrans, fuzzy
@@ -11149,10 +11147,9 @@ msgstr "arkiver, digitale"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "bots"
-msgstr "bot-er"
+msgstr "boter"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>In April 1996</emphasis>, millions of <quote>bots</"
 "quote>&mdash;computer codes designed to <quote>spider,</quote> or "
@@ -11163,21 +11160,21 @@ msgid ""
 "again. Over and over again, once every two months, these bits of code took "
 "copies of the Internet and stored them."
 msgstr ""
-"I april 1996 begynte millioner av \"bots\"&mdash;datakode utformet til "
-"\"edderkopp\", eller automatisk søke Internett og kopiere innholdet&mdash;"
-"kjører over nettet. side for side, disse botene kopiert Internett-basert "
-"informasjon på et lite sett med datamaskiner som er plassert i en kjeller i "
-"san Franciscos presidio. Når roboter ferdig med hele Internett, startet de "
-"igjen. igjen og igjen, en gang enhver to måneder, disse biter av koden tok "
-"kopier av Internett og lagret dem."
+"<emphasis role='strong'>I april 1996</emphasis> hadde millioner av "
+"<quote>bots</quote> dataprogramkode utformet for å "
+"<quote>kravle</quote> eller automatisk søking på internettet og "
+"kopiering av innhold&mdash;gikk i gang over nettet.  Side for side "
+"kopierte disse botene internet-basert informasjon til et lite sett "
+"maskiner plassert i en kjeller i San Franciscos Presidio.  Da botene "
+"var ferdig med hele internettet startet de på nytt.  Igjen og igjen, "
+"en gang hver to måneder, tok disse bitene med kode kopier av "
+"internettet og lagret dem."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Way Back Machine"
-msgstr "vei tilbake maskinen"
+msgstr "Way Back Machine"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "By October 2001, the bots had collected more than five years of copies. And "
 "at a small announcement in Berkeley, California, the archive that these "
@@ -11186,43 +11183,41 @@ msgid ""
 "page, and see all of its copies going back to 1996, as well as when those "
 "pages changed."
 msgstr ""
-"av oktober 2001, roboter hadde samlet inn mer enn fem år av Kopier. og på en "
-"liten pressemelding i berkeley, california, arkivet som disse kopiene "
-"opprettet internet archive, ble åpnet til verden. bruker en teknologi som "
-"kalles \"vei tilbake maskinen\", kan du angi en web-side, og se alle dens "
-"Kopier gå tilbake til 1996, og når disse sidene endres."
+"I oktober 2001 hadde botene samlet mer enn fem år med kopier.  Og "
+"ved en liten kunngjøring i Berkeley, Californa, ble arkivene som disse "
+"kopiene utgjorde, internett-arkivet, åpnet for verden.  Ved å bruke en "
+"teknologi ved navn <quote>Way Back machine</quote> kan du skrive inn "
+"en nettside og se alle dets kopier helt tilbake til 1996, samt se når "
+"disse sidene endret seg."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Orwell, George"
 msgstr "Orwell, George"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "This is the thing about the Internet that Orwell would have appreciated.  In "
 "the dystopia described in <citetitle>1984</citetitle>, old newspapers were "
 "constantly updated to assure that the current view of the world, approved of "
 "by the government, was not contradicted by previous news reports."
 msgstr ""
-"Dette er ting om Internett som orwell ville ha verdsatt. i dystopia "
-"beskrevet i 1984, ble gamle aviser stadig oppdatert for å sikre som "
-"gjeldende visning av verden, godkjent av regjeringen, ikke var motsagt av "
-"forrige nyhetsrapporter."
+"Dette er en egenskap med internettet som Orwell visse satt pris på. "
+"I den dystre verden beskrevet i <citetitle>1984</citetitle> ble gamle aviser "
+"kontinuerlig oppdatert for å sikre at gjeldende oppfattning av verden, "
+"godkjent av myndighetene, ikke ble motsagt av gamle nyhetsmeldinger."
 
 #.  PAGE BREAK 120
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Thousands of workers constantly reedited the past, meaning there was no way "
 "ever to know whether the story you were reading today was the story that was "
 "printed on the date published on the paper."
 msgstr ""
-"tusenvis av arbeidstakere stadig reedited fortiden, noe som betyr at det var "
-"ingen måte noen gang å vite om historien du lese i dag var historie som ble "
-"skrevet ut på dato publisert på papiret."
+"Tusenvis av arbeidere redigerte konstant fortiden, hvilket gjorde at "
+"det aldri var mulig å vite om historien du leste i dag var historien "
+"som ble trykket den datoen som sto ført opp på papiret."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It's the same with the Internet. If you go to a Web page today, there's no "
 "way for you to know whether the content you are reading is the same as the "
@@ -11230,19 +11225,17 @@ msgid ""
 "easily be different. The Internet is Orwell's library&mdash;constantly "
 "updated, without any reliable memory."
 msgstr ""
-"Det er det samme med Internett. Hvis du går til en webside i dag, er det "
-"ingen måte for deg å vite om innholdet du leser er det samme som innholdet "
-"du lese før. siden kan virke det samme, men innholdet kan være forskjellige. "
-"Internett er orwell's bibliotek&mdash;oppdatert hele tiden, uten noen "
-"pålitelig minne."
+"Det er det samme med internettet.  Hvis du besøker en nettside i dag "
+"så har du ingen måte å vite om innholdte du leser nå er det samme som "
+"innholdet du leste tidligere.  Siden kan se helt lik ut, men innholdet "
+"kan ganske enkelt vær helt annerledes.  Internettet er Orwells "
+"bibliotek&mdash;kontinuerlig oppdatert, uten en pålitelig hukommelse."
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-#, mtrans, fuzzy
 msgid "White House press releases"
-msgstr "hvite hus-pressemeldinger"
+msgstr "pressemeldinger fra det hvite hus"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/> The temptations remain, however. Brewster Kahle reports that the "
@@ -11251,11 +11244,13 @@ msgid ""
 "That was later changed, without notice, to <quote>Major Combat Operations in "
 "Iraq Have Ended.</quote> E-mail from Brewster Kahle, 1 December 2003."
 msgstr ""
-"fristelsene fortsatt, men. Brewster kahle rapporterer at det hvite hus "
-"endrer sin egen pressemeldinger uten varsel. en mai 13, 2003, pressemelding "
-"uttalt, \"stridende operasjoner i Irak er avsluttet.\" som ble senere "
-"endret, uten varsel, \"store stridende operasjoner i Irak er avsluttet.\" e-"
-"post fra brewster kahle, 1 desember 2003."
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"type=\"indexterm\" id=\"1\"/> Fristelsene er dog der fortsatt. "
+"Brewster Kahle forteller at Det hvite hus endrer sine egne "
+"pressemeldinger uten varsel.  En pressemelding fra 13. mai 2003 "
+"inneholdt <quote>Kampoperasjoner i Irak er over</quote>.  Det ble "
+"senere endret, uten varsel, til <quote>Større kampoperasjoner i Irak "
+"er over</quote>.  Epost fra Brewster Kahle, 1. desember 2003."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11265,14 +11260,18 @@ msgid ""
 "the power to find what you don't remember and what others might prefer you "
 "forget.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"I hvert fall før Way Back Machine dukket opp.  Ved hjelp av Way Back Machine, "
+"og internett-arkivet som ligger til grunn for denne, så kan du se "
+"hvordan internettet var.  Du har mulighet til å se det du husker.  Og "
+"kanskje viktigere, så har du mulighet til å finne det du ikke husker "
+"og det andre kanskje fortrekker at du glemmer.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "history, records of"
-msgstr "historie, poster av"
+msgstr "historien, arkiv over"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>We take it</emphasis> for granted that we can go "
 "back to see what we remember reading. Think about newspapers. If you wanted "
@@ -11283,17 +11282,17 @@ msgid ""
 "free, using a library, to go back and remember&mdash;not just what it is "
 "convenient to remember, but remember something close to the truth."
 msgstr ""
-"vi ta det for gitt at vi kan gå tilbake til å se hva vi husker jeg leser. "
-"Tenk på aviser. Hvis du ønsker å studere reaksjon i hjembyen avisa på rase "
-"opptøyene i watt i 1965, eller til bull connor's vannkanon i 1963, kan du gå "
-"til din offentlige bibliotek og se på avisene. Disse papirene finnes "
-"sannsynligvis på mikrokort. Hvis du er heldig, finnes de i papir, også. "
-"Uansett, du er fri, ved hjelp av et bibliotek, for å gå tilbake og "
-"huske&mdash;ikke bare hva det er praktisk å huske, men husker noe nær "
-"sannheten."
+"<emphasis role='strong'>Vi tar det</emphasis> for gitt at vi kan gå "
+"tilbake å se det vi husker å ha lest.  Tenk for eksempel på aviser. "
+"Hvis du ønsker å studenere reaksjonene i lokalavisen din om "
+"raseopprørene i Watts i 1965, eller til vannkanonen til Bull Connor i "
+"1963, så kan du gå til ditt lokale bibliotek og se i avisene.  Disse "
+"artiklene finnes sannsynligvis på microfiche.  Hvis du er heldig, så "
+"eksisterer de også på papir.  Uansett, så står du fritt til, ved å "
+"bruke et bibliotek, å gå tilbake for å huske&mdash;ikke bare det som "
+"er behagelig å huske, men å huske noe som er nær sannheten."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "It is said that those who fail to remember history are doomed to repeat it. "
 "That's not quite correct. We <emphasis>all</emphasis> forget history. The "
@@ -11302,12 +11301,13 @@ msgid ""
 "help do that, by collecting content and keeping it, for schoolchildren, for "
 "researchers, for grandma. A free society presumes this knowedge."
 msgstr ""
-"Det sies at de som ikke klarer å huske historie er dømt til å gjenta den. "
-"Det er ikke helt riktig. vi alle glemme historie. nøkkelen er om vi har en "
-"måte å gå tilbake til Gjenoppdag hva vi glemme. nøkkelen er mer direkte om "
-"en objektiv siste kan holde oss ærlig. biblioteker hjelpe gjøre det, ved å "
-"samle innhold og holde den, for skolebarn, til forskere for bestemor. et "
-"fritt samfunn forutsetter dette knowedge."
+"Det sies a tde som ikke husker historiek er dømt til å gjenta den. "
+"Det er ikke helt riktig.  <emphasis>Alle</emphasis> oss glemmer "
+"historien.  Nøkkelen er hvorvidt vi har en måte å gå tilbake å "
+"gjennoppdage det vi har glemt.  Helt konkret er nøkkelen hvorvidt en "
+"objektiv fortid kan holde oss ærlige.  Biblioteker bidrar til dette, "
+"ved å samle innhold og ta vare på det, for skolebar, for forskere, for "
+"bestemor.  Et fritt samfunn forutsetter denne kunnskapen."
 
 #.  PAGE BREAK 121
 #. type: Content of: <book><part><chapter><para>
@@ -11329,7 +11329,6 @@ msgstr ""
 "det er én kopi av Internett&mdash;det ettall holdt av internet archive."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Brewster Kahle is the founder of the Internet Archive. He was a very "
 "successful Internet entrepreneur after he was a successful computer "
@@ -11340,19 +11339,19 @@ msgid ""
 "Internet. By December of 2002, the archive had over 10 billion pages, and it "
 "was growing at about a billion pages a month."
 msgstr ""
-"Brewster kahle er grunnleggeren av internet archive. Han var en svært "
-"vellykket Internett entreprenør etter at han var vellykket datamaskinen "
-"forsker. i 1990-årene besluttet kahle han hadde hatt nok suksess. Det var "
-"tid for å bli en annen type suksess. så han lansert en rekke prosjekter som "
-"er utformet for å arkivere menneskelig kunnskap. internet archive var bare "
-"først av prosjekter av denne andrew carnegie av Internett. ved desember "
-"2002, arkivet hadde over 10 milliarder sider, og det ble vokser om en "
-"milliard sider per måned."
+"Brewster Kahle er stifteren av internet-arkivet.  Han var en svært "
+"vellykket internet-entreprenør etter at han hadde vært en vellykket "
+"data-forsker.  På 1990-tallet bestemte Kahle seg at han hadde hatt nok "
+"suksess som forretningsmann, og at det var på tide å bli vellykket på "
+"et annet område.  Derfor lanserte han en serie prosjekter som ble "
+"utformet for å arkivere menneskelig kunnskap.  Internet-arkivet var "
+"bare det første av prosjektene til denne *Andrew Carnige* for "
+"internettet.  I desember 2002 hadde arkivet over ti milliard sider, og "
+"det vokste med omtrent en milliard sider i måneden."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Library of Congress"
-msgstr "Library of congress"
+msgstr "Kongress-biblioteket"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -11364,13 +11363,12 @@ msgid "Vanderbilt University"
 msgstr "Vanderbilt University"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "libraries"
 msgstr "biblioteker"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archival function of"
-msgstr "arkiveringsfunksjon for"
+msgstr "arkiveringsfunksjonen til"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11410,9 +11408,8 @@ msgid "Quayle, Dan"
 msgstr "Quayle, Dan"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
-#, mtrans, fuzzy
 msgid "60 Minutes"
-msgstr "60 minutter"
+msgstr "60 Minutes"
 
 #.  PAGE BREAK 122
 #. type: Content of: <book><part><chapter><blockquote><para>
@@ -11434,16 +11431,14 @@ msgstr ""
 "materialene er nesten unfindable...."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "newspapers"
-msgstr "Aviser"
+msgstr "aviser"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archives of"
-msgstr "arkiver av"
+msgstr "arkiver over"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Why is that? Why is it that the part of our culture that is recorded in "
 "newspapers remains perpetually accessible, while the part that is recorded "
@@ -11452,15 +11447,14 @@ msgid ""
 "have an easier time than researchers trying to understand the effect of "
 "media on twentieth-century America?"
 msgstr ""
-"Hvorfor er det? Hvorfor er det at delen av vår kultur som er registrert i "
-"aviser forblir perpetually tilgjengelig, mens delen som er registrert på "
-"videobåndet ikke er? Hvordan er det at vi har laget en verden hvor forskere "
-"prøver å forstå virkningen av media på nineteenthcentury Amerika vil ha en "
-"enklere tid enn forskere prøver å forstå virkningen av media på 1900-tallet "
-"Amerika?"
+"Hvorfor er det slik?  Hvor er den delen av kulturen vår som er lagret "
+"i aviser tilgjengelige til evig tid, mens ikke den delen som er lagret "
+"på videobånd er det?  Hvorfor har vi laget en verden der forskere som "
+"forsøker a forstå effekten av media på Amerika i det nittende århundre "
+"har en enklere jobb enn forskere som forsøker å forstå effekten av "
+"media på Amerika i det tjuende århundre?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "In part, this is because of the law. Early in American copyright law, "
 "copyright owners were required to deposit copies of their work in "
@@ -11468,15 +11462,15 @@ msgid ""
 "knowledge and to assure that a copy of the work would be around once the "
 "copyright expired, so that others might access and copy the work."
 msgstr ""
-"Dette er delvis på grunn av loven. tidlig i amerikansk lov om opphavsrett "
-"var opphavsrett eiere nødvendige for å sette inn kopier av sitt arbeid på "
-"bibliotekene. Disse kopiene var ment å forenkle spredning av kunnskap og å "
-"sikre at en kopi av arbeidet vil være rundt når opphavsretten utløpt, slik "
-"at andre kan få tilgang til og kopiere arbeidet."
+"Dette er delvis på grunn av loven.  Opphavsrettseiere var tidlig i "
+"amerikansk opphavsrettslov nødt til å deponere kopier av sine verk i "
+"biblioteker.  Disse kopiene skulle både sikre spredning av kunnskap, "
+"og sikre at det fantes en kopi av verket tilgjenggelig når vernetiden "
+"utløp, slik at andre kunne få tilgang til og kopiere verket."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archive of"
-msgstr "arkiv av"
+msgstr "arkiv for"
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -11504,6 +11498,16 @@ msgid ""
 "copy exists&mdash;if it exists at all&mdash;in the library archive of the "
 "film company.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Disse reglene gjalt også for filmer.  Men i 1915 gjorde "
+"kongressbiblioteket et unntak for film.  Filmer kunne bli "
+"opphavsrettsbeskyttet så lenge det ble gjort slik deponering.  Men "
+"filmskaperne fikk så lov til å låne tilbake de deponerte "
+"filmene&mdash;så lenge de ville uten noe kostnad.  Bare i 1915 var det "
+"mer enn 5475 filmer deponert og <quote>lånt tilbake</quote>.  Dermed "
+"var det ikke noe eksemplar i noe bibliotek når vernetiden til filmen "
+"utløp.  Eksemplaret eksisterer&mdash;hvis den finnes i det hele "
+"tatt&mdash;i arkivbiblioteket til filmselskapet.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -11528,7 +11532,6 @@ msgstr ""
 
 #.  PAGE BREAK 123
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Kahle was eager to correct this. Before September 11, 2001, he and his "
 "allies had started capturing television. They selected twenty stations from "
@@ -11538,18 +11541,17 @@ msgid ""
 "of September 11 available free on-line.  Anyone could see how news reports "
 "from around the world covered the events of that day."
 msgstr ""
-"Kahle var ivrig etter å rette opp dette. før september 11, 2001, hadde han "
-"og hans allierte begynt å fange TV. de tyve radiostasjoner fra hele verden "
-"er merket, og trykk på record-knappen. etter 11 september, kahle, arbeide "
-"med mange andre, merkede tjue radiostasjoner fra hele verden, og starter 11. "
-"oktober 2001, gjort sin dekning i uken av 11 september tilgjengelig gratis "
-"on-line. alle kunne se hvordan nyhetsrapporter fra rundt om i verden dekkes "
-"hendelsene den dagen."
+"Kahle ivret etter å rette på dette.  Før 11. september 2001 hadde han "
+"og hans allierte begynt å ta opp TV.  De valgte tjue stasjoner rundt "
+"om i verden og trykket på opptaksknappen.  Etter 11. september jobbet "
+"Kahle med et dusin andre og valgte tjue stasjoner verden rundt og "
+"11. oktober 2001 ut alt dekningen derfra for uken rundt 11. september "
+"fritt tilgjengelig på nett.  Envher kunne se hvordan nyhetsmeldingene "
+"verden rundt dekket hendelsene den dagen."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Movie Archive"
-msgstr "film arkiv"
+msgstr "Movie Archive"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archive.org"
@@ -11560,9 +11562,8 @@ msgid "Internet Archive"
 msgstr "Internett-arkivet"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Duck and Cover film"
-msgstr "Duck og dekke film"
+msgstr "Dukk og skjul deg-film"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -11570,9 +11571,8 @@ msgid "ephemeral films"
 msgstr "flyktige filmer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Prelinger, Rick"
-msgstr "prelinger, rick"
+msgstr "Prelinger, Rick"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12147,7 +12147,7 @@ msgid ""
 msgstr ""
 "<emphasis role='strong'>For å få</emphasis> et lite hint om at det er "
 "noe fundamentalt galt med Valentis argument trenger vi ikke se lenger "
-"en i grunnloven til USA."
+"en til grunnloven til USA."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
