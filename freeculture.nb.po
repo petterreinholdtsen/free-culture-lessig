@@ -11711,6 +11711,15 @@ msgid ""
 "thus the second life of a book. That second life is extremely important to "
 "the spread and stability of culture."
 msgstr ""
+"Det samme har alltid vært tilfelle for bøker.  En bok blir utsolgt "
+"fra forlaget svært raskt (i dag skjer det i snitt etter et "
+"år<placeholder type=\"footnote\" id=\"0\"/>).  Etter at den er utsolgt "
+"fra forlaget kan den selges i bruktbokhandler uten at "
+"opphavsrettsinnehaveren får noe.  Den kan også oppbevares i "
+"biblioteker, hvor mange får mulighet til å lese boken, helt gratis. "
+"Bruktbokhandler og biblioteker er dermed det andre livet til en bok. "
+"Dette andre livet er ekstremt viktig for spredningen og stabiliteten "
+"til kulturen."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
