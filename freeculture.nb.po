@@ -11840,7 +11840,6 @@ msgstr ""
 "gjøre drømmen om biblioteket i alexandria virkelig igjen."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Technologists have thus removed the economic costs of building such an "
 "archive. But lawyers' costs remain. For as much as we might like to call "
@@ -11849,12 +11848,13 @@ msgid ""
 "digital spaces is also someone's <quote>property.</quote> And the law of "
 "property restricts the freedoms that Kahle and others would exercise."
 msgstr ""
-"Teknologorganisasjon har dermed fjernet de økonomiske kostnadene med å bygge "
-"et slikt arkiv. men fortsatt advokater kostnader. for så mye som vi kanskje "
-"liker å kalle disse \"archives\", så varmt som idéen om et \"bibliotek\" kan "
-"virke, \"innhold\" som er samlet inn i disse digitale mellomrom er også "
-"noens \"egenskapen.\" og loven om egenskapen begrenser friheter som kahle, "
-"og andre vil utøve."
+"Teknologer har dermed fjernet den økonomiske kostnaden med å bygge et "
+"slikt arkiv.  Men advokatkostnadene består.  For uansett hvor mye vi "
+"ønsker å kalle dette <quote>arkiver</quote>, og uansett hvor koselig "
+"ideen om et <quote>bibliotek</quote> kan virke, så er "
+"<quote>innholdet</quote> som er samlet i disse digitale områdene også "
+"noens <quote>eiendom</quote>.  Og eiendoms-lover begrenser friheten "
+"til folk som Kahle."
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER TEN: <quote>Property</quote>"
