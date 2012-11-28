@@ -11306,7 +11306,7 @@ msgstr ""
 "historien.  Nøkkelen er hvorvidt vi har en måte å gå tilbake for å "
 "gjenoppdage det vi har glemt.  Helt konkret er nøkkelen hvorvidt en "
 "objektiv fortid kan holde oss ærlige.  Biblioteker bidrar til dette, "
-"ved å samle innhold og ta vare på det, for skolebar, for forskere, for "
+"ved å samle innhold og ta vare på det, for skolebarn, for forskere, for "
 "bestemor.  Et fritt samfunn forutsetter denne kunnskapen."
 
 #.  PAGE BREAK 121
