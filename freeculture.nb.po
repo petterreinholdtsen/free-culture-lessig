@@ -11322,7 +11322,7 @@ msgid ""
 msgstr ""
 "Internettet var en unntak fra denne forutsetningen.  Før "
 "Internettarkivet var det ikke mulig å gå tilbake.  Internettet var i "
-"essens et flyktig medium.  Og likevel, etter vert som det ble "
+"essens et flyktig medium.  Og likevel, etter hvert som det ble "
 "viktigere og viktigere i å forme og reformere samfunnet, så blir det "
 "viktigere og viktigere å bevare det i en eller annen historisk form. "
 "Det er helt sært å tenke på at vi har masse arkiver med aviser fra små "
@@ -11743,7 +11743,6 @@ msgstr ""
 
 #.  PAGE BREAK 125
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "<emphasis role='strong'>For most of</emphasis> the twentieth century, it was "
 "economics that made this so. It would have been insanely expensive to "
@@ -11754,13 +11753,14 @@ msgid ""
 "difficult to do anything about this ephemeral culture; the law had little "
 "practical effect."
 msgstr ""
-"for det meste av det tjuende århundre var det økonomi som gjorde dette så. "
-"det ville ha vært sinnsykt dyrt å samle og gjøre tilgjengelig alle TV og "
-"film og musikk: kostnaden for analoge Kopier er svært høy. så selv om loven "
-"i prinsippet ville har begrenset mulighet til en brewster kahle å kopiere "
-"kultur Generelt, ekte begrensningen var økonomi. markedet gjorde det "
-"impossibly vanskelig å gjøre noe med denne flyktige kultur; loven hadde lite "
-"praktiske effekten."
+"<emphasis role='strong'>I det meste</emphasis> av det tjuende "
+"århundre var det økonomi som sørget for dette.  Det ville vært "
+"sinnsykt dyrt a samle og gjøre alt av TV, film og musikk tilgjengelig: "
+"Kostnaden for analoge eksemplarer er ekstremt høy.  Så selv om loven i "
+"prinsippet ville ha begrenset muligheten for en som Brewster Kahle til "
+"å kopiere kulturen generelt, så var den reelle begresningen økonomi. "
+"Markedet gjorde det helt umulig å gjøre noe med denne flyktige "
+"kulturen.  Loven hadde liten praktisk effekt."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
