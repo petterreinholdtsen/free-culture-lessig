@@ -125,7 +125,7 @@ freeculture.pot: freeculture.xml
 	  -f docbook -m $^  > $@.new && mv $@.new $@
 
 stats: update-stats progress.png
-update-stats: freeculture.nb.po
+update-stats: freeculture.nb.po lint.nb
 	( \
 	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
