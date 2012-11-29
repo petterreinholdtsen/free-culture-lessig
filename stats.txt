@@ -441,3 +441,5 @@
 2012-11-28T1814 1809 oversatte meldinger, 443 antatte oversettelser, 73 uoversatte meldinger.
 2012-11-28T1913 1814 oversatte meldinger, 438 antatte oversettelser, 73 uoversatte meldinger.
 2012-11-29T2014 1817 oversatte meldinger, 436 antatte oversettelser, 72 uoversatte meldinger.
+2012-11-29T2127 1824 oversatte meldinger, 429 antatte oversettelser, 72 uoversatte meldinger.
+2012-11-29T2210 1826 oversatte meldinger, 427 antatte oversettelser, 72 uoversatte meldinger.
