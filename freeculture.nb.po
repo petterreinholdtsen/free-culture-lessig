@@ -18193,15 +18193,15 @@ msgstr ""
 "har blitt lært."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Consider one example to make the point, a story whose beginning I told in "
 "<citetitle>The Future of Ideas</citetitle> and which has progressed in a way "
 "that even I (pessimist extraordinaire) would never have predicted."
 msgstr ""
-"vurdere ett eksempel for å gjøre punktet, en historie som begynnelsen jeg "
-"fortalt i fremtiden for idéer og som har kommet i en måte at selv jeg "
-"(pessimist extraordinaire) ville aldri ha forutsett."
+"Her er et eksempel for å demonstrere dette poenget, en historie jeg "
+"fortalte starten av i <citetitle>The Future of Ideas</citetitle> og som "
+"har utviklet seg på en måte som selv ikke jeg (en ekstraordinær "
+"pessimist) kunne ha spådd."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MP3.com"
