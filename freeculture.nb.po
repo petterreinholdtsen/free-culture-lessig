@@ -12515,9 +12515,8 @@ msgid "driving speed, constraints on"
 msgstr "kjørehastighet, begrensninger på"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "speeding, constraints on"
-msgstr "Setter farten opp, begrensninger for"
+msgstr "hastighet, begrensning av"
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
@@ -12585,9 +12584,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><title>
-#, mtrans, fuzzy
 msgid "Law has a special role in affecting the three."
-msgstr "loven har en spesiell rolle i å påvirke tre."
+msgstr "Lovverket har en spesiell rolle i å påvirke disse tre."
 
 #. type: Content of: <book><part><chapter><figure>
 msgid "<graphic fileref=\"images/1361.png\"></graphic>"
@@ -12740,9 +12738,8 @@ msgid "regulatory balance lost in"
 msgstr "regulatoriske balanse tapt i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "MP3s"
-msgstr "MP3-filer"
+msgstr "MP3-er"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -12999,9 +12996,8 @@ msgstr ""
 "insentiver og muligheter for innovasjon og endre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "speech, freedom of"
-msgstr "tale, frihet"
+msgstr "talefrihet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -13065,12 +13061,10 @@ msgid "DDT"
 msgstr "DDT"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "insecticide, environmental consequences of"
-msgstr "insektmiddel, miljøkonsekvensene av"
+msgstr "insektmiddel, miljøkonsekvensene fra"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "In 1873, the chemical DDT was first synthesized. In 1948, Swiss chemist Paul "
 "Hermann Müller won the Nobel Prize for his work demonstrating the "
@@ -13078,22 +13072,23 @@ msgid ""
 "used around the world to kill disease-carrying pests. It was also used to "
 "increase farm production."
 msgstr ""
-"i 1873, ble kjemiske ddt først syntetisert. i 1948, sveitsisk apotek paul "
-"hermann müller vant nobel prisen for sitt arbeid demonstrere egenskapene "
-"insecticidal av ddt. av 1950-tallet, var det mye brukt insektmiddel rundt om "
-"i verden til å drepe sykdom-bærer skadedyr. Det ble også brukt til å øke "
-"produksjonen av gården."
+"I 1873 ble kjemikaliet DDT syntesert første gang.  I 1948 vant den "
+"sveitsiske kjemikeren Paul Hermann Müller nobelprisen for sitt arbeide "
+"med å demonstrere de insektsdrepende egenskapene til DDT.  I løpet av "
+"1950-tallet ble insektsmiddelet mye brukt rundt om i verden for å "
+"drepe sykdomsbærende skadedyr.  Det ble også brukt til å øke "
+"landbruksproduksjon."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "No one doubts that killing disease-carrying pests or increasing crop "
 "production is a good thing. No one doubts that the work of Müller was "
 "important and valuable and probably saved lives, possibly millions."
 msgstr ""
-"ingen tvil at drepte sykdom-bærer skadedyr eller økende beskjære produksjon "
-"som er en god ting. ingen tvil at arbeidet med müller var viktig og "
-"verdifull og sannsynligvis lagret liv, kanskje millioner."
+"Ingen tviler på at det er en god ting å drepe sykdomsbærende skadedyr "
+"eller å øke avlingene.  Og ingen tviler på at arbeidet til Müller var "
+"viktig og verdifult, og antagelig sparte liv, kanskje millioner av "
+"liv."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Carson, Rachel"
