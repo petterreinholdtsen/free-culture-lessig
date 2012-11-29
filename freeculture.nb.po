@@ -13291,9 +13291,8 @@ msgstr ""
 "med hovedsakelig formålet med givende forfatternes."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "history of American"
-msgstr "History of american"
+msgstr "historie for Amerikansk"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -13325,9 +13324,8 @@ msgid "structural checks and balances of"
 msgstr "strukturelle sjekker og Periodenes"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "electoral college"
-msgstr "valg Agder"
+msgstr "valgkollegiet"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
