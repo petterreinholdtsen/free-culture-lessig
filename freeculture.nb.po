@@ -18274,7 +18274,6 @@ msgstr ""
 
 #.  PAGE BREAK 199
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "No doubt some could use this system to illegally copy content. But that "
 "opportunity existed with or without MP3.com. The aim of the my.mp3.com "
@@ -18282,11 +18281,11 @@ msgid ""
 "by seeing the content they already owned, to discover the kind of content "
 "the users liked."
 msgstr ""
-"ingen tvil kan noen bruker dette systemet til å kopiere ulovlig innhold. men "
-"at mulighet eksistert med eller uten mp3.com. målet for my.mp3.com-tjenesten "
-"var å gi brukere tilgang til sitt eget innhold, og er et biprodukt ved å se "
-"innholdet de allerede eid, til å oppdage hva slags innhold som brukerne "
-"likte."
+"Det er ingen tvil om at noen kunne bruke dette systemet til å kopiere "
+"ulovlig innhold.  Men den muligheten eksisterte både før og etter "
+"MP3.com.  Målet med my.mpr.com-tjenesten var å gi brukere tilgang til "
+"deres eget innhold, og som et biprodukt av å se hva slags innhold de "
+"allerede eide, oppdage hva slags innhold brukerne likte."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
