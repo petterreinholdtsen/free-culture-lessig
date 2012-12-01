@@ -23150,7 +23150,6 @@ msgstr ""
 "stand til å vise det til domstolen."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Maybe, but I doubt it. These Justices have no financial interest in doing "
 "anything except the right thing. They are not lobbied. They have little "
@@ -23158,11 +23157,11 @@ msgid ""
 "down from this pretty picture of dispassionate justice, I could have "
 "persuaded."
 msgstr ""
-"kanskje, men jeg tviler på det. disse to andre justiariusene har ingen "
-"økonomiske interesse i å gjøre noe annet enn rette. de er ikke planlagt. de "
-"har liten grunn til å motstå gjør akkurat. Jeg kan ikke hjelpe, men mener at "
-"hvis jeg hadde trappet ned fra denne pen bilde av dispassionate "
-"rettferdighet, jeg kunne har overbevist."
+"Mulig det, men jeg tviler.  Disse dommerne hadde ingen økonomiske "
+"interesser i å gjøre noe annet en det som var riktig.  De blir ikke "
+"lobbiert.  De har liten interesse i for å ikke gjøre det som er "
+"riktig.  Jeg klarer ikke la være å tenke at om jeg hadde gitt slipp på "
+"min pene bilde av justis uten følelser, så hadde jeg overbevist dem."
 
 #. type: Content of: <book><part><chapter><para>
 #, mtrans, fuzzy
