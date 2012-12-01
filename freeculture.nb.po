@@ -18250,7 +18250,6 @@ msgstr ""
 "videre."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "This idea required a simple way to gather data about user preferences.  MP3."
 "com came up with an extraordinarily clever way to gather this preference "
@@ -18262,15 +18261,16 @@ msgid ""
 "you could get access to that music once you signed into your account. The "
 "system was therefore a kind of music-lockbox."
 msgstr ""
-"Denne idéen kreves en enkel måte å samle data om brukerinnstillinger. MP3."
-"com kom opp med en usedvanlig smart måte å samle inn data for denne "
-"preferanse. i januar 2000 lansert selskapet en tjeneste kalt my.mp3.com. "
-"bruker programvare som leveres av mp3.com, ville en bruker logge inn en "
-"konto og deretter sette inn datamaskinen for en cd. programvaren vil "
-"identifisere cd, og deretter gi brukertilgang til dette innholdet. så, for "
-"eksempel hvis du satte inn en cd ved jill sobule, deretter uansett hvor du "
-"var &mdash; på jobben eller hjemme &mdash; du kan få tilgang til at musikk "
-"når du er logget på din konto. systemet ble derfor en type musikk-lås."
+"Denne idéen krevde et enkel måte å samle inn data om hva brukerne "
+"foretrekker.  MP3.com kom opp med en svært snedig måte å samle inn "
+"data om hva brukerne foretrakk.  Januar 2000 lanserte selskapet "
+"tjenesten my.mp3.com.  Ved å bruke programvare fra MP3.com logget "
+"brukeren inn på en konto og satte så en CD inn i datamaskinen sin. "
+"Programvaren ville kjenne igjen CDen og så gi brukeren tilgang til det "
+"innholdet.  Dermed kunne du hvis du f.eks.  satte inn en CD av Jill "
+"Sobule, få tilgang til den musikken uansett hvor du var&mdash;på jobb "
+"eller hjemme&mdash;så snart du hadde logget inn på konto.  Systemet "
+"var dermed en slags låsbart musikk-skrin."
 
 #.  PAGE BREAK 199
 #. type: Content of: <book><part><chapter><section><para>
@@ -18288,7 +18288,6 @@ msgstr ""
 "allerede eide, oppdage hva slags innhold brukerne likte."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "To make this system function, however, MP3.com needed to copy 50,000 CDs to "
 "a server. (In principle, it could have been the user who uploaded the music, "
@@ -18300,15 +18299,16 @@ msgid ""
 "this was 50,000 copies, it was 50,000 copies directed at giving customers "
 "something they had already bought."
 msgstr ""
-"Hvis du vil gjøre denne systemfunksjon, men mp3.com nødvendig å kopiere "
-"50.000 CDer til en server. (i prinsippet, det kunne ha vært brukeren som "
-"lastet opp musikken, men som ville ha tatt mye tid, og ville har produsert "
-"et produkt av tvilsom kvalitet.) Det er derfor kjøpt 50.000 CDer fra en "
-"butikk, og startet prosessen med å lage kopier av disse CDene. igjen, det "
-"ville ikke tjene innholdet fra de kopiene til alle bortsett fra de som "
-"godkjent at de hadde en kopi av cd de ønsket å få tilgang til. så selv om "
-"dette var 50 000 eksemplarer, det var 50,000 kopier som er rettet mot å gi "
-"kunder noe de hadde allerede kjøpt."
+"Men for å få dette systemet til å fungere, måtte MP3.com kopiere "
+"50&nbsp;000 CD-er til en tjener.  (I prinsippet kunne det vært "
+"brukerne som lastet opp musikken, men det ville tatt svært mye tid, og "
+"det ville gjort at produktet hadde tvilsom kvalitet.)  Det kjøpte "
+"derfor 50&nbsp;000 CDer fra en butikk og gikk igang med å kopiere "
+"disse CD-ene.  Og nok en gang, selskapet ville ikke gi ut innholdet "
+"fra disse kopiene til noen andre enn de som kunne bekrefte at de "
+"allerede hadde et eksemplar av Cd-en de ønsket tilgang til.  Så selv "
+"pom dette var 50&nbsp;000 kopier, så var det 50&nbsp;000 kopier som "
+"ble tilbudt for å gi kunder noe de allerede hadde kjøpt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "distribution technology targeted in"
@@ -18395,7 +18395,6 @@ msgid "Hummer Winblad"
 msgstr "Hummer Winblad"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "MP3 players"
 msgstr "MP3-spillere"
 
