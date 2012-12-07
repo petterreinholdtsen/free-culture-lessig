@@ -9435,14 +9435,12 @@ msgstr ""
 "nødvendig.</quote><placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Enlightenment"
-msgstr "opplysning"
+msgstr "opplysningstiden"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "knowledge, freedom of"
-msgstr "kunnskap, frihet"
+msgstr "kunnskap, frihet for"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9845,9 +9843,8 @@ msgstr ""
 "fra seksti år før."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Donaldson v. Beckett"
-msgstr "Donaldson v. beckett"
+msgstr "Donaldson mot beckett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12179,7 +12176,6 @@ msgstr ""
 
 #.  PAGE BREAK 131
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Yet the very same Constitution speaks very differently about what Valenti "
 "calls <quote>creative property.</quote> In the clause granting Congress the "
@@ -12194,16 +12190,19 @@ msgid ""
 "compensation for your land requires that you lose your <quote>creative "
 "property</quote> right without any compensation at all."
 msgstr ""
-"men svært samme grunnlov snakker veldig annerledes om hva valenti samtaler "
-"\"kreative egenskapen.\" i setningsdelen gir Kongressen makt til å opprette "
-"\"kreative property\" Grunnloven krever at etter en \"begrenset tid,\" "
-"Kongressen ta tilbake rettighetene at det har gitt og egenskapen \"kreative"
-"\" gratis til public domain. men når Kongressen gjør dette, når utløpet av "
-"en opphavsrett begrepet \"tar\" din opphavsrett og snur den over til public "
-"domain, Kongressen ikke har noen forpliktelse til å betale \"bare erstatning"
-"\" for denne \"tar.\" i stedet samme grunnlov som krever erstatning for ditt "
-"land krever at du mister din \"kreative eiendom\" rett uten noen "
-"kompensasjon overhodet."
+"Likevel snakker den samme grunnloven svært annerledes om det Valenti "
+"kaller <quote>kreativ eiendom</quote>.  I *clause* som gir kongressen "
+"myndighet til å skape <quote>creativ eiendom</quote>, "
+"<emphasis>krever</emphasis> grunnloven at kongressen etter en "
+"<quote>begrenset tid</quote> tar tilbake rettighetene den har delt ut "
+"og lar den <quote>kreative eiendommen</quote> falle i det fri og bli "
+"allemannseie.  Men når kongressen gjør dette, når utløpet av "
+"vernetiden <quote>tar</quote> din opphavsrett og overleverer den til "
+"allemannseiet, så har ikke kongressen noe pålegg om å betale "
+"<quote>rimelig kompensasjon</quote> for denne <quote>beslaget</quote>. "
+"I stedet krever den samme konstitusjonen som krever kompensasjon når "
+"det gjelder landområder at du skal miste din <quote>kreative "
+"eiendom</quote> helt uten kompensasjon overhodet."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
