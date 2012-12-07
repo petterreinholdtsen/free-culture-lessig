@@ -4,6 +4,7 @@
 # Translators:
 # Petter Reinholdtsen <pere@hungry.com>, 2012.
 # Anders Hagen Jarmund <ajarmund@gmail.com>, 2012.
+# Kirill Miazine <km@krot.org>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
@@ -39,7 +40,7 @@ msgid ""
 "HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
 "CREATIVITY"
 msgstr ""
-"Hvordan store medieaktører bruker teknologi og retten til å innskrenke "
+"Hvordan store medieaktører bruker teknologi og jussen til å begrense "
 "kulturen og kontrollere kreativiteten"
 
 #. type: Content of: <book><bookinfo>
@@ -218,18 +219,17 @@ msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid ""
 "THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street "
 "New York, New York"
 msgstr ""
-"penguin-trykk, medlem av penguin-gruppen (usa) inc. 375 hudson street new "
-"york, new york"
+"The Penguin Press, medlem av Penguin Group (USA) Inc.  375 Hudson Street "
+"New York, Yew Uork, USA"
 
 #. type: Content of: <book><colophon><para>
 msgid "Copyright &copy; Lawrence Lessig.  All rights reserved."
 msgstr ""
-"Opphavsrettbeskyttet &copy; Lawrence Lessig.  Alle rettigheter reservert."
+"Opphavsrettbeskyttet &copy; Lawrence Lessig.  Alle rettigheter forbeholdt."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -237,6 +237,9 @@ msgid ""
 "quote> <citetitle>The New York Times</citetitle>, January 16, 2003. "
 "Copyright &copy; 2003 by The New York Times Co.  Reprinted with permission."
 msgstr ""
+"Utdrag fra redaktørartikkel <quote>The Coming of Copyright Perpetuity,</"
+"quote> <citetitle>The New York Times</citetitle>, 16. januar 2003. "
+"Opphavsrettsbeskyttet &copy; 2003 The New York Times Co.  Gjengitt med tillatelse."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -245,8 +248,8 @@ msgid ""
 "Reprinted with permission."
 msgstr ""
 "Humortegningen i <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> er "
-"laget av Paul Conrad, og opphavsrettsbeskyttet for Tribune Media Services, "
-"Inc.  Alle rettigheter reservert, trykket her med tillatelse."
+"laget av Paul Conrad. Opphavsretten tilhører Tribune Media Services, "
+"Inc.  Alle rettigheter forbeholdt.  Gjengitt med tillatelse."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -281,40 +284,35 @@ msgid "ISBN 1-59420-006-8 (hardcover)"
 msgstr "ISBN 1-59420-006-8 (Innbundet bok)"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid ""
 "1. Intellectual property&mdash;United States. 2. Mass media&mdash;United "
 "States."
-msgstr "1. eiendomsrett &mdash; USA. 2. massemedia &mdash; USA."
+msgstr "1. Immaterielle rettigheter&mdash;USA. 2. Massemedia&mdash;SA."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
 msgstr ""
-"3. teknologiske nyvinninger &mdash; USA. 4. art &mdash; USA. i. tittel."
+"3. Teknologiske nyvinninger&mdash;USA. 4. Kunst&mdash;USA. I. Tittel."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "KF2979.L47"
-msgstr "kf2979.l47"
+msgstr "KF2979.l47"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "343.7309'9&mdash;dc22"
-msgstr "343.7309'9 &mdash; dc22"
+msgstr "343.7309'9&mdash;dc22"
 
 #. type: Content of: <book><colophon><para>
 msgid "This book is printed on acid-free paper."
-msgstr "Denne boken er trykket på syre-fritt papir."
+msgstr "Denne boken er trykt på syrefritt papir."
 
 #. type: Content of: <book><colophon><para>
 msgid "Printed in the United States of America"
 msgstr "Trykt i USA"
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "1 3 5 7 9 10 8 6 4"
 msgstr "1 3 5 7 9 10 8 6 4"
 
@@ -328,8 +326,8 @@ msgstr ""
 "Oversatt til bokmål av Petter Reinholdtsen, Anders Hagen Jarmund og Kirill "
 "Miazine. Takk til Ralph Amissah for hjelp med registeroppføringene. "
 "Kildefilene til oversetterprosjektet er <ulink url=\"https://github.com/"
-"petterreinholdtsen/free-culture-lessig\">tilgjengelig fra github</ulink>. "
-"Rapporter feil med oversettelsen via github."
+"petterreinholdtsen/free-culture-lessig\">tilgjengelig fra GitHub</ulink>. "
+"Rapporter feil med oversettelsen via GitHub."
 
 #. type: Content of: <book><colophon><para>
 #, mtrans, fuzzy
@@ -340,11 +338,11 @@ msgid ""
 "photocopying, recording or otherwise), without the prior written permission "
 "of both the copyright owner and the above publisher of this book."
 msgstr ""
-"uten å begrense rettighetene under opphavsrett reservert ovenfor, kan ingen "
-"del av denne publikasjonen bli reprodusert, lagret i eller innført i et "
-"gjenfinningssystem eller overføres, i noen form eller på noen måte "
-"(elektronisk, mekanisk, fotokopiering, innspilling eller annet), uten "
-"skriftlig tillatelse fra både eieren av opphavsretten og ovenfor utgiveren "
+"Ingen "
+"del av denne publikasjonen kan bli gjengitt, lagret i eller innført i et "
+"gjenfinningssystem, eller i noen form eller på noen måte overført "
+"(bl.a. elektronisk, mekanisk, fotokopiering, innspilling), uten "
+"skriftlig tillatelse fra både innehaveren av opphavsretten og utgiveren "
 "av denne boken."
 
 #. type: Content of: <book><colophon><para>
@@ -372,7 +370,7 @@ msgstr ""
 
 #. type: Content of: <book><lot><title>
 msgid "List of figures"
-msgstr "Figurliste"
+msgstr "Figuroversikt"
 
 #. type: Content of: <book><preface><title>
 msgid "PREFACE"
@@ -389,9 +387,9 @@ msgid ""
 "Pogue, a brilliant writer and author of countless technical and computer-"
 "related texts, wrote this:"
 msgstr ""
-"<emphasis role=\"bold\">På slutten av</emphasis> hans gjennomgang av min "
+"<emphasis role=\"bold\">I slutten av</emphasis> sin gjennomgang av min "
 "første bok <citetitle>Code: And Other Laws of Cyberspace</citetitle>, skrev "
-"David Pogue, en glimrende skribent og forfatter av utallige tekniske "
+"David Pogue, en glimrende skribent og forfatter av utallige tekniske og "
 "datarelaterte tekster, dette:"
 
 #. type: Content of: <book><preface><blockquote><para><footnote><para>
@@ -400,7 +398,7 @@ msgid ""
 "York Times</citetitle>, 30 January 2000."
 msgstr ""
 "David Pogue, <quote>Don't Just Chat, Do Something,</quote> <citetitle>New "
-"York Times</citetitle>, 30. januar 2000"
+"York Times</citetitle>, 30. januar 2000."
 
 #. type: Content of: <book><preface><blockquote><para>
 msgid ""
@@ -409,10 +407,10 @@ msgid ""
 "population is). And if you don't like the Internet's system, you can always "
 "flip off the modem.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"I motsetning til faktiske lover, så har ikke internett-programvare "
-"kapasiteten til å straffe.  Den påvirker ikke folk som ikke er online (og "
-"kun en veldig liten minoritet av verdens befolkning er online).  Og hvis du "
-"ikke liker systemet på internett, så kan du alltid slå av modemet."
+"I motsetning til rettslige lover, har ikke Internett-programvare "
+"evnen til å straffe.  Den påvirker ikke folk som ikke er online (og "
+"bare en veldig liten minoritet av verdens befolkning er online).  Og hvis du "
+"ikke liker systemet med Internett, kan du alltid skru av modemet."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><preface><para>
