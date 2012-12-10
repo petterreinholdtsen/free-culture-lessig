@@ -10492,9 +10492,8 @@ msgstr ""
 "forsket Starwave på ny teknologi for å levere underholdning uten nettverk."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "retrospective compilations on"
-msgstr "retrospektiv samleplater på"
+msgstr "retrospektiv samling av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
@@ -10571,9 +10570,8 @@ msgstr ""
 "<quote>Vel, hvor mye vil det kreve?</quote>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "publicity rights on images of"
-msgstr "publisitet rettigheter på bilder av"
+msgstr "offentliggjøringsrettigheter for bilder av"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -12257,7 +12255,6 @@ msgstr ""
 "et allemannseie?"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "To answer this question, we need to get some perspective on the history of "
 "these <quote>creative property</quote> rights, and the control that they "
@@ -12270,15 +12267,18 @@ msgid ""
 "artists should be paid, but whether institutions designed to assure that "
 "artists get paid need also control how culture develops."
 msgstr ""
-"for å besvare dette spørsmålet, trenger vi å få noen perspektiv om disse "
-"\"kreative eiendom\", og kontrollen som de aktivert historie. Når vi ser "
-"klart hvor annerledes disse rettighetene er definert, vil vi være i en bedre "
-"posisjon til å stille spørsmål som bør være kjernen i denne krigen: ikke om "
-"kreative egenskapen skal beskyttes, men hvordan. ikke om vi vil håndheve "
-"rettigheter gir loven til creative-bolig, men hva bestemt blanding av "
-"rettigheter bør være. ikke om artister som skal betales, men om "
-"institusjoner utformet for å forsikre at artister får betalt må du også "
-"kontrollere hvordan kultur utvikler seg."
+"For å besvare dette spørsmålet trenger vi å få litt perspektiv på "
+"historien til disse <quote>kreativ eiendomsrettene</quote>, og "
+"kontrollen de har muliggjort.  Når vi klarere ser hvor forskjellig "
+"disse rettighetene har vært definert, så har vi bedre mulighet til å "
+"stille spørsmålene som bør være i kjernen av denne krigen: Ikke "
+"<emphasis>hvorvidt</emphasis> kreativ eiendom bør beskyttes, men "
+"hvordan.  Ikke <emphasis>hvorvidt</emphasis> vi vil håndheve "
+"rettighetene som lovverket gir til eiere av kreativ eiendom, men "
+"hvordan den spesifikk blandingen av rettigheter bør være.  Ikke "
+"<emphasis>hvorvidt</emphasis> artister bør få betalt, men hvorvidt "
+"institusjoner utformet for å sikre at artister får betalt også må "
+"kontrollere hvordan kultur utvilker seg."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
