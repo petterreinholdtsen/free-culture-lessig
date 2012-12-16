@@ -260,9 +260,8 @@ msgstr ""
 "kommer fra kontoret til FCC-kommisjonæren, Michael J. Copps."
 
 #. type: Content of: <book><colophon><para>
-#, mtrans, fuzzy
 msgid "Library of Congress Cataloging-in-Publication Data"
-msgstr "Library of congress cataloging i publikasjonen data"
+msgstr "Cataloging-in-Publication-data til Library of Congress"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -529,9 +528,8 @@ msgid "power, concentration of"
 msgstr "makt, konsentrasjon av"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "CodePink Women in Peace"
-msgstr "codepink kvinner i fred"
+msgstr "codePink-kvinner i fred"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Safire, William"
@@ -1148,7 +1146,6 @@ msgstr ""
 "<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "FCC"
 msgstr "FCC"
 
@@ -4748,7 +4745,6 @@ msgstr ""
 "\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "commercial imperatives of"
 msgstr "kommersielle imperativer av"
 
@@ -5447,9 +5443,8 @@ msgid "Recording Industry Association of America (RIAA)"
 msgstr "Recording Industry Association of America (RIAA)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "copyright infringement lawsuits filed by"
-msgstr "krenkelse av opphavsrett søksmål"
+msgstr "stevning i sak om om krenkelse av opphavsrett tatt ut av"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5501,9 +5496,8 @@ msgid "statutory damages of"
 msgstr "lovbestemte skader for"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "individual defendants intimidated by"
-msgstr "individuelle saksøkte skremt av"
+msgstr "de enkelte saksøkte skremt av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "statutory damages"
@@ -5654,14 +5648,12 @@ msgid "recording industry payments to"
 msgstr "musikkindustriens betaling til"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "artist remuneration in"
-msgstr "artist godtgjørelse i"
+msgstr "artisthonorar i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "lobbying power of"
-msgstr "lobbyvirksomhet makt"
+msgstr "lobbymakten til"
 
 #.  f2
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5748,9 +5740,8 @@ msgid "CHAPTER FOUR: <quote>Pirates</quote>"
 msgstr "Kapittel fire: <quote>Pirater</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "in development of content industry"
-msgstr "i utviklingen av innhold industri"
+msgstr "i utviklingen av innholdsindustri"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8233,9 +8224,8 @@ msgid "copyright protections in"
 msgstr "opphavsrettbeskyttelser i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "composer's rights vs. producers' rights in"
-msgstr "composer's rettigheter vs. produsentenes rettigheter i"
+msgstr "komponistens rettigheter versus produsentenes rettigheter i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8362,9 +8352,8 @@ msgstr ""
 "for arkitekturen de valgte."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on VCR technology"
-msgstr "på vcr-teknologi"
+msgstr "på videospiller-teknologi"
 
 #.  f18
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8681,9 +8670,8 @@ msgstr ""
 "en advokat for å få tillatelse til å spille inn en sang?"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on balance of interests in copyright law"
-msgstr "på balanse mellom interesser i lov om opphavsrett"
+msgstr "om interesseavveininger i opphavsrettslovgivning"
 
 #.  f25
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8889,9 +8877,8 @@ msgstr ""
 "\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "intangibility of"
-msgstr "intangibility av"
+msgstr "ubegripelighet av"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -8975,9 +8962,8 @@ msgid "United Kingdom"
 msgstr "Storbritannia"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "history of copyright law in"
-msgstr "historie om opphavsrett i"
+msgstr "historie av opphavsrettslovgivning i"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
@@ -9091,14 +9077,12 @@ msgid "British Parliament"
 msgstr "Britiske parlamentet, det"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "renewability of"
-msgstr "fornyelsesevne av"
+msgstr "fornyelsesevnen til"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Statute of Anne (1710)"
-msgstr "Vedtektene for anne (1710)"
+msgstr "Statute of Anne (1710)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -9141,14 +9125,12 @@ msgid "common vs. positive"
 msgstr "felles vs. positive"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "positive law"
-msgstr "positiv lov"
+msgstr "positiv rett"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Licensing Act (1662)"
-msgstr "lisensiering act (1662)"
+msgstr "Licensing Act (1662)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9345,9 +9327,8 @@ msgid "monopoly, copyright as"
 msgstr "monopol, opphavsrett som"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Statute of Monopolies (1656)"
-msgstr "Rhuddlan monopoler (1656)"
+msgstr "Statute of Monopolis (1656)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9879,9 +9860,8 @@ msgstr ""
 "stemte resten av Overhuset."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "English legal establishment of"
-msgstr "engelsk juridisk etableringen av"
+msgstr "den engelske juridiske etableringen av"
 
 #.  PAGE BREAK 104
 #. type: Content of: <book><part><chapter><para>
@@ -10492,8 +10472,9 @@ msgstr ""
 "forsket Starwave på ny teknologi for å levere underholdning uten nettverk."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
+#, mtrans, fuzzy
 msgid "retrospective compilations on"
-msgstr "retrospektiv samling av"
+msgstr "retrospektiv samleplater på"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
