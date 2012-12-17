@@ -15811,7 +15811,6 @@ msgstr ""
 "god slutt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "handguns"
 msgstr "håndvåpen"
 
@@ -15832,14 +15831,13 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "VCR/handgun cartoon."
-msgstr ""
+msgstr "Videospiller/håndvåpen-tegneserie"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid "<graphic fileref=\"images/1711.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1711.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The obvious point of Conrad's cartoon is the weirdness of a world where guns "
 "are legal, despite the harm they can do, while VCRs (and circumvention "
@@ -15848,12 +15846,13 @@ msgid ""
 "absolutely, despite the potential that they might do some good, but permits "
 "guns, despite the obvious and tragic harm they do."
 msgstr ""
-"den åpenbare punkt conrad's tegneserie er weirdness av en verden der guns er "
-"juridisk, til tross for skade som de kan gjøre, mens videospillere (og "
-"omgåelse teknologier) er ulovlig. Flash: ingen noensinne døde fra "
-"opphavsrett omgåelse. ennå forbud lov omgåelse teknologier absolutt, til "
-"tross for potensialet som de kan gjøre noe godt, men tillater våpen, til "
-"tross for den åpenbare og tragisk skaden de gjør."
+"Det åpenbare poenget med Conrad's tegneserie er det merkelige med en "
+"verden hvor handvåpen er lovlige, på tross av skaden de gjør, mens "
+"videspillere (og omgåelsesteknologier) er ulovlige.  Merk: "
+"<emphasis>Ingen har noen sinne dødd av omgåelse av "
+"opphavsretten.</emphasis> Likevel forbyr loven omgåelsesteknologier "
+"fullstendig, på tross av potensialet de har for å bidra positivt, men "
+"tillater håndvåpen, på tross den åpenbare og tragiske skaden de gjør."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
