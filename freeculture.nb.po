@@ -15020,22 +15020,20 @@ msgid "<graphic fileref=\"images/1622.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Future of Ideas, The (Lessig)"
-msgstr "fremtiden for ideer, (lessig)"
+msgstr "Future of Ideas, The (Lessig)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Lessig, Lawrence"
 msgstr "Lessig, Lawrence"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Finally (and most embarrassingly), here are the permissions for the original "
 "e-book version of my last book, <citetitle>The Future of Ideas</citetitle>:"
 msgstr ""
-"Endelig (og mest embarrassingly), her er du tillatelsene for den "
-"opprinnelige e-bok-versjonen av boken min siste, fremtiden for idéer:"
+"Til slutt (og mest pinlig), her er tillatelsene for den originale "
+"ebok-versjonen av min siste bok, <citetitle>The Future of Ideas</citetitle>:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "List of the permissions for <quote>The Future of Ideas</quote>."
