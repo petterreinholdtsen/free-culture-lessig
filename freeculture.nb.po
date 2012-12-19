@@ -15269,13 +15269,12 @@ msgstr ""
 "kontrollen. dette insentiv er forståelig, men hva som skaper er ofte gal."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "To see the point in a particularly absurd context, consider a favorite story "
 "of mine that makes the same point."
 msgstr ""
-"Hvis du vil se punktet i en spesielt absurd sammenheng, bør du vurdere en "
-"favoritt historien om mine som gjør det samme punktet."
+"For å se dette poenget i en spesielt absurd sammenheng, la oss se på "
+"en av mine favoritthistorier som får fram det samme poenget."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aibo robotic dog"
@@ -15294,19 +15293,18 @@ msgid "Aibo robotic dog produced by"
 msgstr "Aibo robothund produsert av"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Consider the robotic dog made by Sony named <quote>Aibo.</quote> The Aibo "
 "learns tricks, cuddles, and follows you around. It eats only electricity and "
 "that doesn't leave that much of a mess (at least in your house)."
 msgstr ""
-"vurdere robotic hunden gjort av sony kalt \"aibo.\" i aibo lærer triks, "
-"cuddles, og følger deg. det spiser bare elektrisitet og som ikke la så mye "
-"av et rot (i det minste i huset)."
+"La oss se på robothunden fra Sony ved navn <quote>Aibo</quote>. "
+"Aibo-en lærer triks, koser og følger deg rudt.  Den spiser kun "
+"elektrisitet og etterlater ikke så mye gris (i hvert fall ikke i "
+"huset)."
 
 #.  PAGE BREAK 165
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The Aibo is expensive and popular. Fans from around the world have set up "
 "clubs to trade stories. One fan in particular set up a Web site to enable "
@@ -15315,15 +15313,15 @@ msgid ""
 "provided information about how to teach an Aibo to do tricks in addition to "
 "the ones Sony had taught it."
 msgstr ""
-"aibo er dyrt og populære. fans fra hele verden har satt opp klubber til "
-"handel historier. en vifte spesielt satt opp et webområde slik at "
-"informasjon om aibo hunden som skal deles. Dette fan satt opp aibopet.com "
-"(og aibohack.com, men de løser til det samme området), og han gitt "
-"informasjon om hvordan du lære en aibo å gjøre triks i tillegg til de sony "
-"hadde lært det på det området."
+"Aibo-en er dyr og populær.  Fans over hele verden har laget klubber "
+"for å dele historier.  En bestemt fan har satt opp et nettsted som "
+"gjør det mulig å dele informasjon om Aibo-hunden.  Denne fansen satte "
+"opp aibopet.com (og aibohack.com, men det ender opp på samme "
+"nettsted), og ga ut informasjon på dette nettesteten om hvordan en kan "
+"lære en Aibo å gjøre flere triks enn de triksene som Sony hadde lært "
+"den."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "<quote>Teach</quote> here has a special meaning. Aibos are just cute "
 "computers.  You teach a computer how to do something by programming it "
@@ -15332,17 +15330,17 @@ msgid ""
 "information to users of the Aibo pet about how to hack their computer "
 "<quote>dog</quote> to make it do new tricks (thus, aibohack.com)."
 msgstr ""
-"\"lære\" har her en spesiell betydning. aibos er bare søt datamaskiner. du "
-"lære en datamaskin hvor å gjøre noe ved programmering det annerledes. så å "
-"si at aibopet.com var å gi informasjon om hvordan du lære hunden å gjøre nye "
-"triks er bare å si at aibopet.com var å gi informasjon til brukere av aibo-"
-"pet om hvordan å hacke datamaskinen \"hund\" slik at den gjør nye triks "
-"(derfor aibohack.com)."
+"<quote>Lære</quote> har her en spesiell betydning.  Aibo-er er bare "
+"søte datamaskiner.  Du lærer en datamaskin hvordan den skal gjøre noe "
+"nytt ved å programmere annerledes.  Det å si at aibopet.com ga "
+"informasjon om hvordan en kunne lære hunden nye triks er bare en måte "
+"å si at aibopet.com ga brukere av Aibo-kjæledyret informasjon om "
+"hvordan de skulle hacke sin data-<quote>hund</quote> for å få den til "
+"å gjøre nye triks (derav aibohack.com)."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "hacks"
-msgstr "Hacks"
+msgstr "hack"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
