@@ -15474,6 +15474,12 @@ msgid ""
 "weakness in an encryption system being developed by the Secure Digital Music "
 "Initiative as a technique to control the distribution of music."
 msgstr ""
+"Men Feltens mot ble virkelig testet i april 2001.<placeholder "
+"type=\"footnote\" id=\"0\"/> Han og en gruppe kollegaer arbeidet med "
+"en artikkel som skulle sendes inn til en konferanse.  Artikkelen "
+"skulle beskrive svakhetene i et krypteringssystem som ble utviklet av "
+"Secure Digital Music Initiative som en teknikk for å kontrollere "
+"distribusjon av musikk."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
@@ -15915,16 +15921,16 @@ msgstr ""
 
 #.  f24
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "For an early and prescient analysis, see Rebecca Tushnet, <quote>Legal "
 "Fictions, Copyright, Fan Fiction, and a New Common Law,</quote> "
 "<citetitle>Loyola of Los Angeles Entertainment Law Journal</citetitle> 17 "
 "(1997): 651."
 msgstr ""
-"for en tidlig og forutseende analyse, kan du se rebecca tushnet, \"legal-"
-"fictions, copyright, fanfiction og en ny felles lov,\" loyola av los angeles "
-"underholdning law journal 17 (1997): 651."
+"For en tidlig og forutseende analyse, se Rebecca Tushnet, <quote>Legal "
+"Fictions, Copyright, Fan Fiction, and a New Common Law,</quote> "
+"<citetitle>Loyola of Los Angeles Entertainment Law Journal</citetitle> 17 "
+"(1997): 651."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
