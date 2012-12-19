@@ -15394,7 +15394,6 @@ msgstr ""
 
 #.  PAGE BREAK 166
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "I've told this story in many contexts, both inside and outside the United "
 "States. Once I was asked by a puzzled member of the audience, is it "
@@ -15407,16 +15406,18 @@ msgid ""
 "that the owner of aibopet.com thought, <emphasis>What possible problem could "
 "there be with teaching a robot dog to dance?</emphasis>"
 msgstr ""
-"Jeg har fortalt denne historien i mange sammenhenger, både i og utenfor USA. "
-"Når jeg ble spurt av en rådvill medlem av publikum, er det tillatt for en "
-"hunden å danse jazz i USA? Vi glemmer at artikler om backcountry fremdeles "
-"flyter gjennom store deler av verden. så la oss være klare før vi "
-"fortsetter: det er ikke en forbrytelse hvor som helst (lenger) å danse jazz. "
-"heller ikke er det en forbrytelse å lære din hunden å danse jazz. heller "
-"ikke bør det være en forbrytelse (selv om vi ikke har mye å gå på her) å "
-"lære hunden din robot å danse jazz. dans jazz er en helt lovlig aktivitet. "
-"en bilder at eieren av aibopet.com trodde, hva et mulig problem kan det være "
-"med undervisning en robot hunden å danse?"
+"Jeg har fortalt denne historien i mange sammenhenger, både i og "
+"utenfor USA.  En gang ble jeg spurt av et forbløffet medlem av "
+"publikum om det er tillatt for en hund å danse jazz i USA.  Vi glemmer "
+"at historier om landet der hjemme fortsatt flyter rundt omkring i "
+"store deler av verden.  Sa la oss bare være helt klare før vi "
+"fortsetter: Det er ikke (lenger kriminelt noe sted å danse jazz.  Det "
+"er ikke kriminelt å lære hunden din å danse jazz.  Og det bør heller "
+"ikke være kriminelt (selv om vi ikke har så mye å gå på her) å lære "
+"din robothund å danse jazz.  Jazz-dansing er en fullstendig lovlig "
+"aktivitet.  En kan se for seg at eieren av aibopet.com tenkte at "
+"<emphasis>Hva i alle dager kan være galt med å lære en robothund å "
+"danse?</emphasis>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
