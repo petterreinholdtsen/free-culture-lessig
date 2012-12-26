@@ -23153,7 +23153,6 @@ msgstr ""
 "min pene bilde av justis uten følelser, så hadde jeg overbevist dem."
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "And even if I couldn't, then that doesn't excuse what happened in January. "
 "For at the start of this case, one of America's leading intellectual "
@@ -23161,11 +23160,12 @@ msgid ""
 "mistake. <quote>The Court is not ready,</quote> Peter Jaszi said; this issue "
 "should not be raised until it is."
 msgstr ""
-"og selv om jeg ikke kunne, deretter som unnskylde ikke hva som skjedde i "
-"januar. for ved starten av dette tilfellet uttalt en av Amerikas ledende "
-"immaterielle professorer offentlig at mitt å bringe denne saken var en feil. "
-"-domstolen ikke er klar,\"sagt peter jaszi, Dette problemet bør ikke heves "
-"før det er."
+"Men selv om jeg ikke kunne det, så unnskylder det ikke det som "
+"skjedde i januar.  For i starten av denne saken hadde en av USAs "
+"ledende professorer innen immaterialretten uttalt offentlig at det var "
+"jeg gjorde en feil ved å fremme denne saken.  <quote>Domstolen er ikke "
+"klar</quote> hadde Peter Jaszi sagt og fulgte opp med <quote>dette "
+"temaet bør ikke tas opp før den er det</quote>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
