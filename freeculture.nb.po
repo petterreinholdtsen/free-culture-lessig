@@ -16277,9 +16277,8 @@ msgid "Lear, Norman"
 msgstr "Lear, Norman"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, mtrans, fuzzy
 msgid "All in the Family"
-msgstr "alle i familien"
+msgstr "All in the Family"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16289,8 +16288,8 @@ msgid ""
 "than the first. ABC was exasperated. You're missing the point, they told "
 "Lear.  We wanted less edgy, not more."
 msgstr ""
-"I 1969 laget Norman Lear en polit for <citetitle>All in the Family</"
-"citetitle>.  Han tok piloten til ABC, og nettverket likte det ikke.  Da sa "
+"I 1969 laget Norman Lear en pilot for <citetitle>All in the Family</"
+"citetitle>.  Han tok piloten til ABC, og nettverket likte det ikke.  De sa "
 "til Lear at det var for på kanten.  Gjør det om igjen. Lear lagde piloten på "
 "nytt, mer på kanten enn den første.  ABC ble fra seg.  Du får ikke med deg "
 "poenget, fortalte de Lear.  Vi vil ha det mindre på kanten, ikke mer."
