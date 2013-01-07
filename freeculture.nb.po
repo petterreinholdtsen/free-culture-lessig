@@ -16608,7 +16608,7 @@ msgstr ""
 "Men la oss si at du mener dette er et galt budskap, og du ønsker å "
 "kjøre en motreklame.  La oss si at du ønsker å sende en serie med "
 "annonser som forsøker å vise den ekstraordinære utilssiktede skade som "
-"krigen mot narkotika fører til.  Kan du gjøre det?
+"krigen mot narkotika fører til.  Kan du gjøre det?"
 
 #.  PAGE BREAK 179
 #. type: Content of: <book><part><chapter><section><para>
@@ -16621,7 +16621,7 @@ msgstr ""
 "Naturligvis koster disse annonsene mye penger.  Anta at du klarer å "
 "skaffe pengene.  Anta at en gruppe med bekymrede borgere donerer alle "
 "pengene i verden for å hjelpe deg med å få ditt budskap ut.  Kan du da "
-"være sikker på at ditt budskap vil bli hørt?
+"være sikker på at ditt budskap vil bli hørt?"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Comcast"
