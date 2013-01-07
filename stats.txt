@@ -459,3 +459,5 @@
 2012-12-19T1801 1885 oversatte meldinger, 371 antatte oversettelser, 69 uoversatte meldinger.
 2012-12-19T2156 1887 oversatte meldinger, 370 antatte oversettelser, 68 uoversatte meldinger.
 2012-12-26T1314 1889 oversatte meldinger, 368 antatte oversettelser, 68 uoversatte meldinger.
+2013-01-07T0842 1890 oversatte meldinger, 367 antatte oversettelser, 68 uoversatte meldinger.
+2013-01-07T1955 1893 oversatte meldinger, 365 antatte oversettelser, 67 uoversatte meldinger.
