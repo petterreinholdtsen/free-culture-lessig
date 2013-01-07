@@ -16591,40 +16591,37 @@ msgstr ""
 "pluggen på slutten er en damning angrep på pro-legalization kampanjen."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Fair enough. It's a good ad. Not terribly misleading. It delivers its "
 "message well. It's a fair and reasonable message."
 msgstr ""
-"Fair nok. Det er en god annonse. ikke veldig misvisende. Det gir sin melding "
-"godt. Det er en rettferdig og rimelig melding."
+"Rimelig nok.  Det er en god annonse.  Ikke veldig villedede.  Den "
+"leverer budskapet sin godt.  Det er et rimelig og fornuftig budskap."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "But let's say you think it is a wrong message, and you'd like to run a "
 "countercommercial. Say you want to run a series of ads that try to "
 "demonstrate the extraordinary collateral harm that comes from the drug war. "
 "Can you do it?"
 msgstr ""
-"men la oss si at du tror det er en feil melding, og du ønsker å kjøre en "
-"countercommercial. si du vil kjøre en rekke annonser som prøver å "
-"demonstrere den ekstraordinære sikkerhetsstillelse skaden som kommer fra "
-"stoffet krigen. kan du gjøre det?"
+"Men la oss si at du mener dette er et galt budskap, og du ønsker å "
+"kjøre en motreklame.  La oss si at du ønsker å sende en serie med "
+"annonser som forsøker å vise den ekstraordinære utilssiktede skade som "
+"krigen mot narkotika fører til.  Kan du gjøre det?
 
 #.  PAGE BREAK 179
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Well, obviously, these ads cost lots of money. Assume you raise the money. "
 "Assume a group of concerned citizens donates all the money in the world to "
 "help you get your message out. Can you be sure your message will be heard "
 "then?"
 msgstr ""
-"Vel, tydeligvis, koste disse annonsene massevis av penger. Anta du heve "
-"penger. Anta at en gruppe av berørte borgere donerer alle pengene i verden "
-"for å hjelpe deg å få budskapet. kan du være sikker på at meldingen vil "
-"deretter bli hørt?"
+"Naturligvis koster disse annonsene mye penger.  Anta at du klarer å "
+"skaffe pengene.  Anta at en gruppe med bekymrede borgere donerer alle "
+"pengene i verden for å hjelpe deg med å få ditt budskap ut.  Kan du da "
+"være sikker på at ditt budskap vil bli hørt?
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Comcast"
@@ -16692,6 +16689,16 @@ msgid ""
 "defend the rights of the stations to be this biased.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"Nei, det kan du ikke.  TV-stasjoner har en generell regel om å unngå "
+"<quote>kontroversielle</quote> annonser.  Annonser sponset av "
+"myndighetene anses som ukontroversielle.  Annonser som er uenig med "
+"myndighetene er kontroversielle.  Denne utvelgelsen kan kanskje tenkes "
+"å være i strid med det første grunnlovstillegget, men høyestrett har "
+"avgjort at stasjonene har rett til å velge hva de sender.  Dermed vil "
+"de store kommersielle mediekanalene avvise den en siden av en viktig "
+"debatt muligheten til å legge frem sin sak.  Og domstolene vil "
+"forsvare stasjonenes rett til å være så ensidig.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
