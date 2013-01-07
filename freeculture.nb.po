@@ -16222,17 +16222,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The pattern with Murdoch is the pattern of modern media. Not just large "
 "companies owning many radio stations, but a few companies owning as many "
 "outlets of media as possible. A picture describes this pattern better than a "
 "thousand words could do:"
 msgstr ""
-"mønsteret med murdoch er mønsteret av moderne medier. ikke bare store "
-"selskaper å eie mange radiostasjoner, men noen selskaper å eie så mange "
-"uttak av media som mulig. et bilde beskriver bedre enn tusen ord kunne gjøre "
-"dette mønsteret:"
+"Mønsteret med Murdoch er møsteret for moderne medier.  Ikke bare "
+"store selskaper som eier mange radiostasjoner, men noen få selskaper "
+"som eier så mange mediekilder som mulig.  Et bilde beskriver bedre enn "
+"tusen ord dette mønsteret:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "Pattern of modern media ownership."
