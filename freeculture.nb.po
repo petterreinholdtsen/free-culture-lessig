@@ -14110,7 +14110,6 @@ msgstr "Kopier som kjernen utgave av"
 
 #.  f16
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, mtrans, fuzzy
 msgid ""
 "This is a simplification of the law, but not much of one. The law certainly "
 "regulates more than <quote>copies</quote>&mdash;a public performance of a "
@@ -14122,13 +14121,17 @@ msgid ""
 "17 <citetitle>United States Code</citetitle>, section 102) is that if there "
 "is a copy, there is a right."
 msgstr ""
-"Dette er en forenkling av loven, men ikke mye av en. loven absolutt "
-"regulerer mer enn \"Kopier\"&mdash;en offentlig fremføring av en "
-"kopibeskyttet sang, for eksempel er regulert selv om ytelse per se ikke "
-"gjøre en kopi; 17 united states code, delen 106(4). og det sikkert noen "
-"ganger regulere ikke en \"kopi\"; 17 united states code, delen 112(a). men "
-"antagelse under den eksisterende lov (som regulerer \"Kopier\"; 17 united "
-"states code, avsnitt 102) er at hvis det er en kopi, det er rett."
+"Dette er en forenkling av loven, men ikke en særlig stor en.  Loven "
+"regulerer helt klart mer enn <quote>eksemplarer</quote>&mdash;en "
+"offentlig fremføring av en opphavsrettsbeskyttet sang er for eksempel "
+"regulert selv om fremføringen i seg selv ikke lager et eksemplar; 17 "
+"<citetitle>United States Code</citetitle>, del 106(4).  Og det er helt "
+"klart at noen ganger regulerer det ikke et <quote>eksemplar</quote>; "
+"17 <citetitle>United States Code</citetitle>, del 112(a).  Men "
+"antagelsen under gjeldende lov (som regulerer "
+"<quote>eksemplarer</quote> 17 <citetitle>United States "
+"Code</citetitle>, del 102) er at hvis det er et eksemplar, så er det "
+"også en rettighet knyttet til det."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
