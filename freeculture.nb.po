@@ -10108,9 +10108,8 @@ msgstr ""
 "så hjalp dette tegnefilm-innslaget med å fange det spesielle med scenen."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "multiple copyrights associated with"
-msgstr "flere opphavsrettigheter knyttet"
+msgstr "flere opphavsrettigheter knyttet til"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10321,9 +10320,8 @@ msgstr ""
 "quote>. Og her er hans svar:"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "legal intimidation tactics against"
-msgstr "juridiske trusler taktikk mot"
+msgstr "juridisk skremselstaktikk mot"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -10342,9 +10340,8 @@ msgstr ""
 "konkret måte. Og dette er grunnen:"
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
-#, mtrans, fuzzy
 msgid "Errors and Omissions insurance"
-msgstr "feil og utelatelser forsikring"
+msgstr "Forsikring mot feil og utelatelser"
 
 #.  1.
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><para>
@@ -10472,9 +10469,8 @@ msgstr ""
 "forsket Starwave på ny teknologi for å levere underholdning uten nettverk."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "retrospective compilations on"
-msgstr "retrospektiv samleplater på"
+msgstr "retrospektive samlinger om"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
@@ -12352,7 +12348,6 @@ msgid "norms, regulatory influence of"
 msgstr "normer, reguleringspåvirkning fra"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "Norms are a different kind of constraint. They, too, punish an individual "
 "for violating a rule. But the punishment of a norm is imposed by a "
@@ -12363,14 +12358,15 @@ msgid ""
 "of the punishments imposed by the state. The mark of the difference is not "
 "the severity of the rule, but the source of the enforcement."
 msgstr ""
-"normer er en annen type betingelse. de, også, straffe en person for å bryte "
-"en regel. men straffen av en normen er pålagt av et fellesskap, ikke (eller "
-"ikke bare) av staten. Det finnes kanskje ingen lov mot spytter, men det "
-"betyr ikke at du ikke vil bli straffet dersom du spytte på bakken mens du "
-"står i kø på en film. straff kan ikke være harde, men avhengig av samfunnet, "
-"det kan lett bli mer harde enn mange av straffene pålagt av staten. Merk av "
-"differansen er ikke av alvorlighetsgraden av regelen, men kilden for "
-"håndhevelse."
+"Normer er en annen type begresning.  De kan også straffe et individ "
+"for å bryte en regel.  Men straffen for normbrudd kommer fra "
+"fellesskapet, ikke (eller ikke bare) fra staten.  Det er kanskje ingen "
+"lov mot spytting, men det betyr ikke at du ikke blir straffet hvis du "
+"spytter på bakken mens du står i en kinokø.  Straffen er kanskje ikke "
+"veldig streng, selv om det avhenger av fellesskapet, så kan den uten "
+"problemer være strengere enn mange straffer som påføres av staten. "
+"Det som er skillet er ikke hvor alvorlig regelen håndheves, men hva "
+"som er kilden til håndhevelsen."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "market constraints"
