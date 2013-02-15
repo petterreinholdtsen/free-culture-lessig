@@ -12373,7 +12373,6 @@ msgid "market constraints"
 msgstr "markedskonsentrasjon"
 
 #. type: Content of: <book><part><chapter><para>
-#, mtrans, fuzzy
 msgid ""
 "The market is a third type of constraint. Its constraint is effected through "
 "conditions: You can do X if you pay Y; you'll be paid M if you do N. These "
@@ -12383,13 +12382,15 @@ msgid ""
 "and a background of property and contract law, the market imposes a "
 "simultaneous constraint upon how an individual or group might behave."
 msgstr ""
-"markedet er en tredje type betingelse. betingelsen er berørt gjennom "
-"betingelser: du kan gjøre x Hvis du betaler y; vil du få betalt m Hvis du "
-"gjør n. slike betingelser er åpenbart ikke uavhengig av loven eller "
-"normer&mdash;det er regler som definerer hva må kjøpes Hvis det er å bli "
-"tatt lovlig; Det er normer som sier hva selges på riktig måte. men gitt et "
-"sett av normer og bakgrunn av eiendom og kontrakt lov, markedet pålegger en "
-"samtidige begrensning på hvor en person eller gruppe kan oppføre seg."
+"Markedet er en tredje type begresning.  Dets begrensing tar effekt "
+"gjennom betingelser.  Du kan gjøre X hvis du betaler Y og du vil få "
+"betalt M hvis du gjør N.  Disse begresningene er åpenbart ikke "
+"uavhengig av lover og normer&mdash;det er eiendomsretten som definerer "
+"hva som må kjøpes før det skal kunne tas på lovlig vis, og det er "
+"normer som sier hva det er greit å selge.  Men gitt et sett med normer "
+"og en bakgrunn med eiendoms- og kontraktslovgiving, så påfører markedet "
+"samtidig begresninger på hvordan et individ eller en gruppe kan "
+"oppføre seg."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "architecture, constraint effected through"
@@ -13149,14 +13150,12 @@ msgid "Beginnings"
 msgstr "Opphav"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "on creative property"
-msgstr "på kreative eiendom"
+msgstr "om kreativ eiendom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "copyright purpose established in"
-msgstr "opphavsrett formål som er etablert i"
+msgstr "opphavsrettsformål som er etablert i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, mtrans, fuzzy
@@ -13164,14 +13163,12 @@ msgid "Progress Clause of"
 msgstr "fremdrift-setningsdelen i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "constitutional purpose of"
-msgstr "konstitusjonelle formålet med"
+msgstr "konstitusjonellt formål med"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, mtrans, fuzzy
 msgid "constitutional tradition on"
-msgstr "konstitusjonelle formålet med"
+msgstr "konstitusjonell tradisjon med"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, mtrans, fuzzy
@@ -13179,17 +13176,17 @@ msgid "Progress Clause"
 msgstr "handel-setningsdelen i"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "America copied English copyright law. Actually, we copied and improved "
 "English copyright law. Our Constitution makes the purpose of <quote>creative "
 "property</quote> rights clear; its express limitations reinforce the English "
 "aim to avoid overly powerful publishers."
 msgstr ""
-"Amerika kopiert engelsk lov om opphavsrett. egentlig vi kopiert og forbedret "
-"engelsk lov om opphavsrett. vår grunnlov gjør formålet med \"creative "
-"property\" fjerner du rettigheter; uttrykkelig begrensninger forsterke den "
-"engelske mål å unngå altfor kraftig utgivere."
+"Amerika kopierte engelsk opphavsrettslov.  Egentlig kopierte og "
+"forbedret vi engelsk opphavsrettslov.  Grunnloven vår gjør formålet "
+"med <quote>kreativ eiendom</quote> helt klart; dens uttrykkelige "
+"begrensninger forsterker det engelske mål om å unngå for mektige "
+"utgivere."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, mtrans, fuzzy
@@ -13197,19 +13194,18 @@ msgid "in constitutional Progress Clause"
 msgstr "konstitusjonelle formålet med"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The power to establish <quote>creative property</quote> rights is granted to "
 "Congress in a way that, for our Constitution, at least, is very odd. Article "
 "I, section 8, clause 8 of our Constitution states that:"
 msgstr ""
-"makt til å etablere \"kreative\" eiendomsrettigheter gis til Kongressen på "
-"en måte som for vår grunnlov, minst, er veldig rart. artikkel, del 8, 8-"
-"setningsdelen i vår grunnlov sier at:"
+"Myndigheten til å etablere <quote>kreative "
+"eiendoms</quote>-rettigheter gis til Kongressen på en måte som, i "
+"hvert fall for for vår grunnlov, er veldig rar.  Artikklen I, del 8, "
+"setningsdel 8 i grunnloven vår lyder:"
 
 #.  PAGE BREAK 142
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Congress has the power to promote the Progress of Science and useful Arts, "
 "by securing for limited Times to Authors and Inventors the exclusive Right "
@@ -13221,14 +13217,17 @@ msgid ""
 "one, not the purpose of enriching publishers, nor even primarily the purpose "
 "of rewarding authors."
 msgstr ""
-"Kongressen har makt til å fremme utviklingen av vitenskap og nyttig kunst, "
-"ved å sikre begrenset ganger til forfattere og oppfinnere den eksklusive "
-"retten til deres respektive skrifter og funn. Vi kan kalle dette den "
-"\"fremgang setningen,\" for å se hva denne bestemmelsen ikke si. Det er ikke "
-"si Kongressen har makt til å gi \"kreative egenskapen rettigheter.\" det "
-"står at Kongressen har makt til å fremme fremdrift. grant strøm er formålet, "
-"og formålet er en offentlig, ikke hensikten med berikende utgivere, eller "
-"med hovedsakelig formålet med givende forfatternes."
+"Kongressen har myndighet til å fremme utviklingen av vitenskap og "
+"nyttig kunst ved å sikre forfattere og oppfinnere, i et begrenset "
+"tidsrom, eksklusive rettigheter til sine respektive skrifter og "
+"oppdagelser.  Vi kaller dette <quote>fremgangsdelen</quote>, på "
+"grunn av det denne setningsdelen ikke sier.  Den sier ikke at "
+"Kongressen har myndighet til å dele ut <quote>kreative "
+"eiendomsretter</quote>.  Den sier at Kongressen har myndighet til å "
+"<emphasis>fremme fremgang</emphasis>.  Tildeling av myndighet er dets "
+"formål, og dets formål er for fellesskapet, ikke formålet med å gjøre "
+"berike utgivere, og formålet er heller ikke hovedsaklig å belønne "
+"forfattere."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "history of American"
@@ -13246,13 +13245,15 @@ msgid ""
 "reinforced that objective, by requiring that copyrights extend <quote>to "
 "Authors</quote> only."
 msgstr ""
-"fremdrift-setningsdelen begrenser uttrykkelig begrepet av opphavsretten. som "
-"vi så i kapittel 6, ville engelsk begrenset av copyright å forsikre om at "
-"noen ikke utøve uforholdsmessig kontroll over kultur ved å trene "
-"uforholdsmessig kontroll over publisering. Vi kan anta underskrev etterfulgt "
-"engelsk for lignende formål. faktisk, i motsetning til engelsk, underskrev "
-"forsterket det målet ved å kreve at opphavsretten utvide \"til forfattere\" "
-"bare."
+"Fremdriftsdelen begrenser uttrykkelig varigheten for opphavsretten. "
+"Som vi så i kapittel <xref xrefstyle=\"select: labelnumber\" "
+"linkend=\"founders\"/>, begrenset engelskmennene varigheten i "
+"opphavsretten for å sikre at noen få ikke kunne utøve uforholdsmessig "
+"stor kontroll over kulturen ved å utøve uforholdsmessig kontroll over "
+"publisering.  Vi kan anta at grunnlovsforfatterne tok etter England "
+"med et lignende formål.  Faktisk forsterket, i motsetning til "
+"engelskmennene, grunnlovsforfatterne dette målet ved å kreve at "
+"opphavsretten kun gjalt for <quote>forfattere</quote>."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Senate, U.S."
@@ -20374,9 +20375,9 @@ msgid ""
 msgstr ""
 "Det var her jeg ble involvert i Eldreds kamp.  Jeg var en grunnlovsforsker "
 "hvis første lidenskap var grunnlovstolkning.  Og selv om grunnlovskursene "
-"aldri fokuserer på <quote>fremme</quote>-delen av grunnloven, så har det at "
-"den er forskjellig fra resten alltid slått meg som viktig.  Som du vet sier "
-"grunnloven følgende,"
+"aldri fokuserer på <quote>fremgangs-delen</quote> av grunnloven, så har det "
+"at den er forskjellig fra resten alltid slått meg som viktig.  Som du vet "
+"sier grunnloven følgende,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -20384,7 +20385,7 @@ msgid ""
 "securing for limited Times to Authors &hellip; exclusive Right to their "
 "&hellip; Writings. &hellip;"
 msgstr ""
-"Kongressen har myndighet til å fremme utviklingen av vitenskapen&hellip;ved "
+"Kongressen har myndighet til å fremme utviklingen av vitenskap&hellip;ved "
 "å sikre forfattere, i et begrenset tidsrom, &hellip; eksklusive rettigheter "
 "til sine &hellip; skrifter. &hellip;"
 
