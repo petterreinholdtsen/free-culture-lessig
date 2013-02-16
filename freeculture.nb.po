@@ -19117,17 +19117,14 @@ msgid "channel or program;"
 msgstr "kanal eller program;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "date and time that the user logged in (in the user's time zone);"
-msgstr "datoen og klokkeslettet da brukeren logget på (i brukerens tidssone);"
+msgstr "dato og klokkeslett da brukeren logget på (i brukerens tidssone);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "date and time that the user logged out (in the user's time zone);"
-msgstr "datoen og klokkeslettet da brukeren logget ut (i brukerens tidssone);"
+msgstr "dato og klokkeslett da brukeren logget ut (i brukerens tidssone);"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid "time zone where the signal was received (user);"
 msgstr "tidssone der signalet ble mottatt (bruker);"
 
@@ -19140,7 +19137,6 @@ msgid "the country in which the user received the transmissions."
 msgstr "landet til brukeren som mottok sendingene."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The Librarian of Congress eventually suspended these reporting requirements, "
 "pending further study. And he also changed the original rates set by the "
@@ -19149,22 +19145,23 @@ msgid ""
 "pay a <emphasis>type of copyright fee</emphasis> that terrestrial radio does "
 "not."
 msgstr ""
-"bibliotekaren til Kongressen stoppet til slutt disse rapportering krav, "
-"ventende videre studium. og han endret også de opprinnelige prisene ved "
-"voldgift panelet belastet med angivelse av priser. men den grunnleggende "
-"forskjellen mellom Internett-radio og bakkesendte radio gjenstår: Internett "
-"radio har å betale en type opphavsrett gebyr som bakkesendte radio ikke."
+"Kongressbibliotekaren stoppet til slutt disse rapporteringskravene, i "
+"påvente av flere undersøkelser.  Han endret også de opprinnelige "
+"prisene satt av voldgiftspanelet som fikk oppgaven med å fastsette "
+"prisene.  Men den grunnleggende forskjellen mellom Internett-radio og "
+"bakkesendt radio består: Internett-radio må betale <emphasis>en slags "
+"opphavsrettsavgift</emphasis> som bakkesendt radio slipper."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "Why? What justifies this difference? Was there any study of the economic "
 "consequences from Internet radio that would justify these differences? Was "
 "the motive to protect artists against piracy?"
 msgstr ""
-"hvorfor? Hva rettferdiggjør denne forskjellen? var det noen studier av "
-"økonomiske konsekvensene fra Internett-radio som ville forsvare disse "
-"forskjellene? var motivet å beskytte kunstnere mot piratkopiering?"
+"Hvorfor er det slik?  Hva rettferdiggjør denne forskjellen?  Ble det "
+"gjort noen studier av de økonomiske konsekvensene for Internet-radio "
+"som kan forsvare disse forskjellene?  Var motivet å beskytte artister "
+"mot piratvirksomhet?"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Real Networks"
