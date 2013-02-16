@@ -19203,17 +19203,17 @@ msgstr ""
 "drive små webcasters ut av business.... \""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
-#, mtrans, fuzzy
 msgid ""
 "And the RIAA experts said, <quote>Well, we don't really model this as an "
 "industry with thousands of webcasters, <emphasis>we think it should be an "
 "industry with, you know, five or seven big players who can pay a high rate "
 "and it's a stable, predictable market</emphasis>.</quote> (Emphasis added.)"
 msgstr ""
-"og riaa eksperter sa, \"Vel, vi ikke virkelig modell dette som industri med "
-"tusenvis av webcasters, vi tror det bør være en bransje med, du vet, fem "
-"eller sju store spillere som kan betale en høy hastighet, og det er en "
-"stabil, forutsigbar marked.\" (vekt legges)."
+"Og RIAA-eksperten svarte, <quote>Vel, vi ser ikke for oss dette "
+"som en industri med tusenvis av webcastere.  <emphasis>Vi tror "
+"det bør bli en industri med, du vet, fem eller syv store aktører som "
+"kan betale en høy avgift og slik få et stabilt og forutsigbart "
+"marked.</emphasis></quote> (min utheving.)"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, mtrans, fuzzy
