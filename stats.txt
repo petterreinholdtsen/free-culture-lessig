@@ -470,3 +470,6 @@
 2013-02-15T0842 1915 oversatte meldinger, 345 antatte oversettelser, 65 uoversatte meldinger.
 2013-02-16T1322 1920 oversatte meldinger, 340 antatte oversettelser, 65 uoversatte meldinger.
 2013-02-16T1832 1921 oversatte meldinger, 339 antatte oversettelser, 65 uoversatte meldinger.
+2013-02-17T0856 1922 oversatte meldinger, 338 antatte oversettelser, 65 uoversatte meldinger.
+2013-02-17T0924 1923 oversatte meldinger, 337 antatte oversettelser, 65 uoversatte meldinger.
+2013-02-17T1148 1925 oversatte meldinger, 335 antatte oversettelser, 65 uoversatte meldinger.
