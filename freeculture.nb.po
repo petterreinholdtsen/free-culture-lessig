@@ -19017,16 +19017,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, mtrans, fuzzy
 msgid ""
 "The burden is not financial only. Under the original rules that were "
 "proposed, an Internet radio station (but not a terrestrial radio station) "
 "would have to collect the following data from <emphasis>every listening "
 "transaction</emphasis>:"
 msgstr ""
-"byrden er ikke økonomiske bare. under de opprinnelige reglene som ble "
-"foreslått, Internett-radiostasjonen (men ikke en terrestriske radiostasjon) "
-"ville ha til å samle inn følgende data fra hver lytting transaksjon:"
+"Byrden er ikke kun økonimisk.  I følge det opprinnelige forslag til "
+"regler, måtte en Internett-radiostasjon (men ikke en bakkebasert "
+"radiostasjon) samle inn følgende informasjon for <emphasis>hver eneste "
+"lytter-transaksjon</emphasis>:"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "name of the service;"
