@@ -19053,10 +19053,9 @@ msgid "time zone of origination of transmission;"
 msgstr "tidssone til opprinnelsen for sending;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "numeric designation of the place of the sound recording within the program;"
-msgstr "numeriske angivelsen av i stedet for lydopptak programmet;"
+msgstr "numerisk angivelse av plassering for lydopptaket i programmet;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "duration of transmission (to nearest second);"
@@ -19071,14 +19070,14 @@ msgid "ISRC code of the recording;"
 msgstr "ISRC-kode for opptaket;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
-#, mtrans, fuzzy
 msgid ""
 "release year of the album per copyright notice and in the case of "
 "compilation albums, the release year of the album and copy- right date of "
 "the track;"
 msgstr ""
-"gi år av albumet per opphavsrett og når det gjelder samlealbum, utgivelsesår "
-"av albumet og kopi høyre datoen for spor;"
+"utgivelsesår for albumet i henhold til opphavsrettsmerking, og i "
+"tilfelle samlealbum, utgivelsesår for albumet og opphavsrettsdato "
+"forsporet;"
 
 #. type: Content of: <book><part><chapter><section><orderedlist><listitem><para>
 msgid "featured recording artist;"
