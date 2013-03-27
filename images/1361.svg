@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="1331.svg">
+   sodipodi:docname="1361.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -516,7 +516,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.1111949"
      inkscape:cx="347.62703"
-     inkscape:cy="342.20727"
+     inkscape:cy="486.19641"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -573,7 +573,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -581,33 +581,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g7786"
-       transform="translate(-1.4515388,-7.9834637)">
-      <path
-         transform="matrix(1,-0.17146406,0,1,4.3864577,63.533701)"
-         d="m 433.35545,580.62097 c 0,23.98935 -39.57281,43.43656 -88.38835,43.43656 -48.81554,0 -88.38835,-19.44721 -88.38835,-43.43656 0,-23.98935 39.57281,-43.43656 88.38835,-43.43656 48.81554,0 88.38835,19.44721 88.38835,43.43656 z"
-         sodipodi:ry="43.436558"
-         sodipodi:rx="88.388351"
-         sodipodi:cy="580.62097"
-         sodipodi:cx="344.9671"
-         id="path3082"
-         style="fill:url(#linearGradient7791);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:type="arc" />
-      <text
-         transform="matrix(0.94266229,-0.16163271,0,1.0608253,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3088"
-         y="617.18457"
-         x="306.37946"
-         style="font-size:29.83495903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px"
-           y="617.18457"
-           x="306.37946"
-           id="tspan3090"
-           sodipodi:role="line">Teknologi</tspan></text>
-    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient7791);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3082"
+       sodipodi:cx="344.9671"
+       sodipodi:cy="580.62097"
+       sodipodi:rx="88.388351"
+       sodipodi:ry="43.436558"
+       d="m 433.35545,580.62097 a 88.388351,43.436558 0 1 1 -176.7767,0 88.388351,43.436558 0 1 1 176.7767,0 z"
+       transform="matrix(1,-0.17146406,0,1,2.9349189,55.550237)" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.83495903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="301.02094"
+       y="610.53906"
+       id="text3088"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.94266229,-0.16163271,0,1.0608253,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3090"
+         x="301.02094"
+         y="610.53906"
+         style="font-size:28px">Arkitektur</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3883);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

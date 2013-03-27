@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="1331.svg">
+   sodipodi:docname="1442.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -305,7 +305,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3778481"
-     inkscape:cx="208.2357"
+     inkscape:cx="120.05472"
      inkscape:cy="532.3176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -317,7 +317,12 @@
      inkscape:window-height="1004"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="353.4497,748.26826"
+       id="guide3320" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -326,7 +331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -336,27 +341,27 @@
      id="layer1">
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient3866);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient3866);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path3082"
        sodipodi:cx="344.9671"
        sodipodi:cy="580.62097"
        sodipodi:rx="88.388351"
        sodipodi:ry="43.436558"
        d="m 433.35545,580.62097 a 88.388351,43.436558 0 1 1 -176.7767,0 88.388351,43.436558 0 1 1 176.7767,0 z"
-       transform="matrix(0.84244042,0,0,1.6885962,57.288645,-442.09213)" />
+       transform="matrix(0.84244042,0,0,1.6885962,57.589352,-442.09213)" />
     <text
        xml:space="preserve"
        style="font-size:29.83495903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="306.37946"
-       y="521.7207"
+       x="299.56091"
+       y="522.40485"
        id="text3088"
        sodipodi:linespacing="125%"
        transform="scale(0.94266229,1.0608253)"><tspan
          sodipodi:role="line"
          id="tspan3090"
-         x="306.37946"
-         y="521.7207"
-         style="font-size:28px">Teknologi</tspan></text>
+         x="299.56091"
+         y="522.40485"
+         style="font-size:28px">Arkitektur</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3883);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -370,13 +375,13 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="327.5491"
+       x="329.30222"
        y="378.98444"
        id="text3902"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3904"
-         x="327.5491"
+         x="329.30222"
          y="378.98444"
          style="font-size:28px">Jus</tspan></text>
     <path
@@ -436,6 +441,6 @@
        sodipodi:rx="15.909091"
        sodipodi:ry="16.422287"
        d="m 361.29032,455.00146 a 15.909091,16.422287 0 1 1 -31.81819,0 15.909091,16.422287 0 1 1 31.81819,0 z"
-       transform="translate(6.1496423,0.36056721)" />
+       transform="translate(2.8223568,0.36056721)" />
   </g>
 </svg>

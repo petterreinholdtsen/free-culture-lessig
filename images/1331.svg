@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="1331.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -332,7 +332,7 @@
        id="guide5981" />
     <sodipodi:guide
        orientation="1,0"
-       position="230.42522,969.42815"
+       position="345.46624,775.12173"
        id="guide5983" />
     <sodipodi:guide
        orientation="1,0"
@@ -359,7 +359,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -389,7 +389,7 @@
          id="tspan3090"
          x="302.52988"
          y="551.82355"
-         style="font-size:28px">Teknologi</tspan></text>
+         style="font-size:28px">Arkitektur</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3883);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

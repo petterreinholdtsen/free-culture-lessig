@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="1331.svg">
+   sodipodi:docname="1381.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -305,7 +305,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3778481"
-     inkscape:cx="336.334"
+     inkscape:cx="248.15302"
      inkscape:cy="532.3176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -332,7 +332,7 @@
        id="guide5981" />
     <sodipodi:guide
        orientation="1,0"
-       position="230.42522,969.42815"
+       position="348.36932,818.66789"
        id="guide5983" />
     <sodipodi:guide
        orientation="1,0"
@@ -359,7 +359,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -376,20 +376,20 @@
        sodipodi:rx="88.388351"
        sodipodi:ry="43.436558"
        d="m 433.35545,580.62097 a 88.388351,43.436558 0 1 1 -176.7767,0 88.388351,43.436558 0 1 1 176.7767,0 z"
-       transform="matrix(0.76394099,0,0,0.58965533,79.287126,265.27564)" />
+       transform="matrix(0.76394099,0,0,0.58965533,85.608207,265.27564)" />
     <text
        xml:space="preserve"
        style="font-size:20.02416611px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="276.40305"
+       x="278.53665"
        y="658.19232"
        id="text3088"
        sodipodi:linespacing="125%"
        transform="scale(1.0729684,0.9319939)"><tspan
          sodipodi:role="line"
          id="tspan3090"
-         x="276.40305"
+         x="278.53665"
          y="658.19232"
-         style="font-size:18.79260826px">Teknologi</tspan></text>
+         style="font-size:18.79260826px">Arkitektur</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3883);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -399,17 +399,17 @@
        sodipodi:rx="88.388351"
        sodipodi:ry="43.436558"
        d="m 433.35545,580.62097 a 88.388351,43.436558 0 1 1 -176.7767,0 88.388351,43.436558 0 1 1 176.7767,0 z"
-       transform="translate(0.75761055,-250.51786)" />
+       transform="translate(4.1756144,-250.51786)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="326.82333"
+       x="330.24136"
        y="336.16403"
        id="text3902"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3904"
-         x="326.82333"
+         x="330.24136"
          y="336.16403"
          style="font-size:28px">Jus</tspan></text>
     <path
