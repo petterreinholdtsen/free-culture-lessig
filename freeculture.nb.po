@@ -12914,22 +12914,21 @@ msgid "Silent Spring (Carson)"
 msgstr "Silent Spring (Carson)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "environmentalism"
-msgstr "environmentalism"
+msgstr "miljøbevegelse"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "But in 1962, Rachel Carson published <citetitle>Silent Spring</citetitle>, "
 "which argued that DDT, whatever its primary benefits, was also having "
 "unintended environmental consequences. Birds were losing the ability to "
 "reproduce.  Whole chains of the ecology were being destroyed."
 msgstr ""
-"men i 1962, rachel carson publisert stille våren, som hevdet at ddt, uansett "
-"dens primære fordeler, hadde også utilsiktede miljømessige konsekvenser. "
-"fugler var å miste muligheten til å reprodusere. hele kjeder av økologi ble "
-"blir ødelagt."
+"Men i 1962 publiserte Rachel Carson <citetitle>Silent "
+"Spring</citetitle>, som hevdet at DDT, uansett dets primære fordeler, "
+"også hadde utilsiktede miljømessige konsekvenser.  Fugler mistet evnen "
+"til å reprodusere seg.  Hele kjeder i økologien holdt på å bli "
+"ødelagt."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
