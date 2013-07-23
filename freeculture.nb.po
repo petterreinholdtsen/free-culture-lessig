@@ -12932,7 +12932,6 @@ msgstr ""
 "blir ødelagt."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "No one set out to destroy the environment. Paul Müller certainly did not aim "
 "to harm any birds. But the effort to solve one set of problems produced "
@@ -12942,12 +12941,13 @@ msgid ""
 "environmentally friendly ways to solve the problems that DDT was meant to "
 "solve."
 msgstr ""
-"ingen fastsatt til å ødelegge miljøet. Paul müller sikkert ikke mål å skade "
-"noen fugler. men arbeidet med å løse ett sett med problemer produsert et "
-"annet sett som i visningen av noen, var langt verre enn problemene som "
-"opprinnelig ble angrepet. eller mer nøyaktig problemer ddt forårsaket var "
-"verre enn problemer det løst, minst når de vurderer den andre, mer "
-"miljøvennlig måten å løse problemer som ddt var ment å løse."
+"Ingen gikk inn for å ødelegge miljøet.  Paul Müller hadde ikke som "
+"mål å skade fugler.  Men arbeidet med å løse ett sett med problemer "
+"laget et nytt sett som, etter noens syn, var mye værre enn de "
+"problemene som opprinnelig ble angrepet.  Eller for å være mer presis, "
+"problemene som DDT forårsaket var verre enn problemene de løste, i "
+"hvert fall når en vurderer andre, mer miljøvennlige måter å løse "
+"problemet som DDT var ment å løse."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Boyle, James"
