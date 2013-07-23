@@ -13026,13 +13026,13 @@ msgstr ""
 "kreativitet."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In a line: To kill a gnat, we are spraying DDT with consequences for free "
 "culture that will be far more devastating than that this gnat will be lost."
 msgstr ""
-"i en linje: for å drepe en mygg, er vi sprøyting ddt med konsekvenser, for "
-"fri kultur som vil være langt mer ødeleggende enn denne mygg, vil gå tapt."
+"For å oppsummere: For å drepe en mygg spøyter vi DDT med konsekvenser "
+"for fri kultur som vil være mye mer ødeleggende enn at denne myggen "
+"vil bli borte."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Beginnings"
