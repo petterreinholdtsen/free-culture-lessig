@@ -13413,6 +13413,11 @@ msgid ""
 "them renewed their copyright after fourteen years; the balance allowed their "
 "work to pass into the public domain.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Fjorten år virker kanskje ikke lenge for oss, men for det store "
+"flertall av opphavsrettsinnehavere på den tiden var den lenge nok. "
+"Kun en liten minoritet blant dem fornyet sin opphavsrett etter fjorten "
+"år.  Balansen tillot deres verk å falle i det fri.<placeholder "
+"type=\"footnote\" id=\"0\"/>"
 
 #.  f11 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
