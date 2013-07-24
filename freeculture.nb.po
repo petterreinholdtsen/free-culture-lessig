@@ -3676,7 +3676,7 @@ msgstr "digitale kamera"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Just Think!"
-msgstr ""
+msgstr "Just Think!"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -18926,6 +18926,14 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/> A regular radio station "
 "broadcasting the same content would pay no equivalent fee."
 msgstr ""
+"Den finansielle belastningen er ikke liten.  Slik jussprofessor "
+"William Fisher ved Harvard estimer, hvis en Internet-radiostasjon "
+"distribuerte reklamefri populærmusikk til (i gjennomsnitt) ti tusen "
+"lyttere, tjuefire timer i døgnet, så ville de totale utbetalingene til "
+"artister som denne radiostasjonen ville skylde være over en million "
+"dollar i året.<placeholder type=\"footnote\" id=\"0\"/> En "
+"radiostasjon som kringkaster det samme innholdet ville ikke måtte "
+"betale et tilsvarende beløp."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
