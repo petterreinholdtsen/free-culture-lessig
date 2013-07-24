@@ -13435,11 +13435,19 @@ msgid ""
 "sell the books as used books; that use&mdash;because it does not involve "
 "publication&mdash;is effectively free."
 msgstr ""
+"Selv i dag gir denne strukturen gi mening.  De fleste av kreative "
+"verk har et kommersielt liv som kun varer noen få år.  De fleste bøker "
+"er utsolgt fra forlaget etter ett år.<placeholder type=\"footnote\" "
+"id=\"0\"/> Når det skjer kjøpes og selges de brukte bøkene helt uten "
+"opphavsrettslige reguleringer.  Dermed er bøkene <emphasis>i "
+"effekt</emphasis> ikke lenger kontrollert av opphavsretten.  Den "
+"eneste praktiske kommersielle bruken av bøkene på dette stadiet er å "
+"selge bøkene som brukte bøker.  Denne bruken &mdash; fordi den ikke "
+"involverer publisering &mdash; er effektivt uten begresninger."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "copyright terms extended by"
-msgstr "opphavsrett hensikt endret av"
+msgstr "opphavsrettens vernetid utvidet av"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, fuzzy
@@ -13447,7 +13455,6 @@ msgid "term extensions in"
 msgstr "sikt utvidelser i"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In the first hundred years of the Republic, the term of copyright was "
 "changed once. In 1831, the term was increased from a maximum of 28 years to "
@@ -13456,11 +13463,12 @@ msgid ""
 "again. In 1909, Congress extended the renewal term of 14 years to 28 years, "
 "setting a maximum term of 56 years."
 msgstr ""
-"i de første hundre år av republikken ble av copyright endret én gang. i "
-"1831, ble begrepet økt fra maksimum 28 år til maksimalt 42 ved å øke første "
-"begrepet av opphavsrett fra 14 år til 28 år. i de neste femti årene av "
-"Republikken begrepet økt igjen. i 1909 utvidet Kongressen begrepet fornyelse "
-"av 14 år til 28 år, angi en maksimal periode på 56 år."
+"I de første hundre årene av republikken, ble vernetiden for "
+"opphavsretten endret en gang.  I 1831 ble vernetiden økt fra maksimalt "
+"28 år til maksimalt 42 år ved å øke den opprinnelige vernetiden fra 14 "
+"til 28 år.  I de neste femti årene av republikken, ble vernetiden "
+"igjen økt en gang.  I 1909 utvidet Kongressen fornyingsvernetiden fra "
+"14 til 28 år, og vedtok dermed maksimal vernetid på 56 år."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 #, fuzzy
