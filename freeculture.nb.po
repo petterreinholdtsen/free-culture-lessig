@@ -18803,7 +18803,6 @@ msgstr ""
 
 #.  f12. 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
-#, fuzzy
 msgid "Lessing, 239."
 msgstr "Lessing, 239."
 
@@ -18837,6 +18836,11 @@ msgid ""
 "type=\"footnote\" id=\"0\"/> to retard the growth of this competing "
 "technology."
 msgstr ""
+"Dette potensialet for FM-radio ble aldri realisert&mdash;ikke på "
+"grunn av at Armstrong tok feil av teknologien, men fordi han "
+"undervurderte evnen til <quote>*vested interests*, vaner, skikker og "
+"lovgiving</quote><placeholder type=\"footnote\" id=\"0\"/> å hemme "
+"veksten av denne konkurrerende teknologien."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
