@@ -14867,13 +14867,12 @@ msgid "<graphic fileref=\"images/1611.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1611.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "If you click on the Permissions button, you'll see a list of the permissions "
 "that the publisher purports to grant with this book."
 msgstr ""
-"Hvis du klikker på knappen tillatelser, ser du en liste over tillatelsene "
-"som utgiveren hensikt å gi med denne boken."
+"Hvis du klikker på Tillatelser-knappen, så får du se en liste med "
+"tillatelser som utgiveren ønsker å tildele med denne boken."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "List of the permissions that the publisher purports to grant."
@@ -14885,7 +14884,6 @@ msgstr "<graphic fileref=\"images/1612.png\"></graphic>"
 
 #.  PAGE BREAK 161 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "According to my eBook Reader, I have the permission to copy to the clipboard "
 "of the computer ten text selections every ten days. (So far, I've copied no "
@@ -14894,11 +14892,13 @@ msgid ""
 "button to hear <citetitle>Middlemarch</citetitle> read aloud through the "
 "computer."
 msgstr ""
-"Ifølge min eBok-leser har jeg tillatelse til å kopiere til utklippstavlen på "
-"datamaskinen ti tekstområder ti dager. (så langt jeg har kopiert ingen tekst "
-"til utklippstavlen.) Jeg har også tillatelse til å skrive ut ti sider fra "
-"boken ti dager. til slutt, jeg har tillatelse til å bruke lese høyt knapp "
-"for å høre middlemarch lest høyt gjennom datamaskinen."
+"I henholdt til min eBook Reader, så har jeg tillatelse til å kopiere "
+"til utklippstavlen på min datamaskin ti tekstutsnitt hver tiende dag. "
+"(Så langt har jeg ikke kopiert noe tekst til utklippstavlen.)  Jeg har "
+"også tillatelse til å skrive ut ti sider fra boken hver tiende dag. "
+"Til sist har jeg tillatelse til å bruke Les Høyt-knappen for å høre "
+"<citetitle>Middlemarch</citetitle> lest høyt ved hjelp av "
+"datamaskinen."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aristotle"
@@ -14925,13 +14925,13 @@ msgid "<graphic fileref=\"images/1621.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1621.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "According to its permissions, no printing or copying is permitted at all. "
 "But fortunately, you can use the Read Aloud button to hear the book."
 msgstr ""
-"i henhold til tillatelsene, ingen utskrift eller kopiering er tillatt i det "
-"hele tatt. men heldigvis kan du bruke lese høyt knappen for å høre boken."
+"I henholdt til dens tillatelser, er det absolut ikke tillatt med "
+"utskrift eller kopiering.  Heldigvis kan en bruke Les Høyt-knappen for "
+"å høre boken."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "List of the permissions for Aristotle;s <quote>Politics</quote>."
@@ -15162,7 +15162,6 @@ msgstr ""
 "det mildt, absurd."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Adobe responded quickly that it was absurd to think that it was trying to "
 "restrict the right to read a book aloud. Obviously it was only restricting "
@@ -15175,20 +15174,20 @@ msgid ""
 "agree that such a use of an eBook Reader was fair? Adobe didn't answer "
 "because the answer, however absurd it might seem, is no."
 msgstr ""
-"Adobe svarte raskt at det var absurd å tro at den prøvde å begrense "
-"rettigheten til å lese en bok høyt. Det ble åpenbart bare begrense "
-"muligheten til å bruke lese høyt knappen for å få boken lest høyt. Men "
-"spørsmålet adobe aldri svar er dette: er adobe dermed enig at en forbruker "
-"var fri til å bruke programvare for å banalisere rundt restriksjoner som er "
-"innebygd i eBok-leser? Hvis noen selskap (kaller det elcomsoft) utviklet et "
-"program for å deaktivere teknologiske beskyttelsen som er innebygd i en "
-"adobe-eBok slik at en blind person, sier, kan bruke en datamaskin til å lese "
-"boken høyt, vil adobe være enig at slik bruk av en eBok-leser var "
-"rettferdig? Adobe ikke svare fordi svaret, men absurde det kan virke, er "
-"ingen."
+"Adobe svarte raskt at det var absurd å tro at de forsøkte å begrense "
+"retten til å lese boken høyt.  Selvsagt begrenset de kun muligheten "
+"til a bruke Les Høyt-knappen for å få boken til å bli lest opp.  Men "
+"spørsmålet som Adobe aldri besvarte er dette: Ville Adobe dermed godta "
+"at en forbruker sto fritt til å bruke programvare til å jobbe seg "
+"rundt begrensingen som var bygget inn i eBook Reader?  Hvis et eller "
+"annet selskap (la oss kalle det Elcomsoft) utviklet et program som "
+"koblet ut denne tekniske begresningen som var bygget inn i Adobe "
+"eBook, slik at en blind person kunne, la oss si, bruke en datamaskin "
+"til å lese boken høyt, ville Adobe akseptere at slik bruk av en eBook "
+"Reader var rimelig?  Adobe svarte ikke fordi svaret, uansett hvor "
+"absurd det virker, er nei."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The point is not to blame Adobe. Indeed, Adobe is among the most innovative "
 "companies developing strategies to balance open access to content with "
@@ -15196,11 +15195,12 @@ msgid ""
 "control, and Adobe has an incentive to defend this control.  That incentive "
 "is understandable, yet what it creates is often crazy."
 msgstr ""
-"Poenget er ikke å klandre adobe. faktisk, adobe er blant de mest innovative "
-"selskapene som utvikler strategier for å balansere åpen tilgang til innhold "
-"med insentiver for bedriftene å skape noe nytt. men Adobes teknologi gjør "
-"det mulig for kontroll, og adobe har et insentiv til å forsvare denne "
-"kontrollen. dette insentiv er forståelig, men hva som skaper er ofte gal."
+"Poenget er ikke å skylde på Adobe.  Faktisk er Adobe blant de mest "
+"nyskapende selskapene som utvikler strategier for å balansere åpen "
+"tilgang til innhold med insentiver for selskaper til å være "
+"nyskapende.  Men Adobes teknologi muliggjør kontroll, og Adobe har et "
+"insentiv til å forsvare denne kontrollen.  Dette insentivet er "
+"forståelig, selv om resultatet ofte er galskap."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
