@@ -14832,15 +14832,13 @@ msgstr ""
 "innholdet ved hjelp av teknologien."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "On the next page is a picture of an old version of my Adobe eBook Reader."
 msgstr ""
-"på neste er siden et bilde av en gammel versjon av min adobe eBok-leser."
+"På neste side er et bilde av en eldre versjon av min Adobe eBook Reader."
 
 #.  PAGE BREAK 160 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "As you can see, I have a small collection of e-books within this e-book "
 "library. Some of these books reproduce content that is in the public domain: "
@@ -14851,12 +14849,14 @@ msgid ""
 "my e-book copy of <citetitle>Middlemarch</citetitle>, you'll see a fancy "
 "cover, and then a button at the bottom called Permissions."
 msgstr ""
-"som du ser, har jeg en liten samling av e-bøker i denne e-boken biblioteket. "
-"noen av disse bøkene reprodusere innholdet i public domain: middlemarch, er "
-"for eksempel i public domain. noen av dem reprodusere innhold som ikke er "
-"allemannseie: min egen bok fremtiden for idéer er ennå ikke i public domain. "
-"vurdere middlemarch først. Hvis du klikker på min e-bok-kopi av middlemarch, "
-"vil du se en fancy cover og deretter en knapp på bunnen kalt tillatelser."
+"Som du kan se har jeg en liten samling med ebøker i dette "
+"ebok-biblioteket.  Noen av disse bøkene er allemannseie.  For eksempel "
+"<citetitle>Middlemarch</citetitle> er falt i det fri.  Noen av dem "
+"reproduserer innhold som ikke er allemannseie.  Min egen bok "
+"<citetitle>The Future of Ideas</citetitle> er ennå ikke falt i det "
+"fri.  La oss se på <citetitle>Middlemarch</citetitle> først.  Hvis du "
+"klikker på min ebok-kopi av <citetitle>Middlemarch</citetitle>, så får "
+"du se et avansert omslag og en knapp nederst ved navn Tillatelser."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "Picture of an old version of Adobe eBook Reader"
