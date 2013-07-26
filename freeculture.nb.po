@@ -14791,7 +14791,6 @@ msgstr ""
 "friheter som alle (inkludert Warner Brothers) nøt godt av."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "On the Internet, however, there is no check on silly rules, because on the "
 "Internet, increasingly, rules are enforced not by a human but by a machine: "
@@ -14801,19 +14800,19 @@ msgid ""
 "is that, unlike law, code has no shame. Code would not get the humor of the "
 "Marx Brothers. The consequence of that is not at all funny."
 msgstr ""
-"På Internett, er det derimot ingen kontroll mot dum regler, fordi på "
-"Internett, i økende grad, blir regler ikke håndhevet av et menneske, men av "
-"en maskin: i økende grad reglene om opphavsrett, som tolkes av eieren av "
-"opphavsretten få innebygd i teknologien som leverer opphavsrettsbeskyttet "
-"innhold. Det er koden, i stedet for loven, at reglene. og problemet med "
-"koden forskrifter er at, i motsetning til loven, koden har ingen skam. koden "
-"ville ikke få humor av the marx brothers. Konsekvensen av dette er overhodet "
-"ikke morsomt."
+"På Internett er det derimot ingen sjekkmot tullete regler, fordi det "
+"på Internett, i stadig større grad, blir reglene håndhevet ikke av "
+"folk men av en maskin.  I stadig større grad blir reglene i "
+"opphavsrettsloven, slik de blir tolket av opphavsrettsinnehaveren, "
+"bygget inn i teknologien som leverer opphavsrettsbeskyttet innhold. "
+"Det er kildekoden, mer enn domstolene, som bestemmer.  Og problemet "
+"med kildekodebaserte reguleringer er at kildekode, i motsetning til "
+"domstolene, ikke eier skam.  Kildekode forstår ikke humoren til "
+"Marx-brødrene.  Konsekvensen av det er over hodet ikke morsomt."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "Adobe eBook Reader"
-msgstr "Adobe eBok-leser"
+msgstr "Adobe eBook Reader"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Consider the life of my Adobe eBook Reader."
@@ -15701,17 +15700,33 @@ msgid ""
 "be more active in the control of his or her life, in a healthy way, is "
 "important.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Noen allmenkringkastere, i tillegg til kommersielle stasjoner, legger "
+"<quote>Neighborhood</quote> inn i sendeplanen på tidspunkter der noen "
+"barn ikke kan bruke det.  Jeg tror det er en virkelig tjeneste for "
+"familier at de er i stand til å ta opp slike programmer og vise dem på "
+"mer hensiktsmessige tidspunkt.  Jeg har alltid følt slik med "
+"fremveksten av all denne nye teknologien som gjør det mulig for folk å "
+"ta opp <quote>Neighborhood</quote>, og jeg snakker om "
+""<quote>Neighborhood</quote> for dette er det jeg produserer, at de "
+"dermed blir mer aktivt involvert i å styre sin families TV-liv.  Helt "
+"erlig, så er jeg imot at folk blir styrt av andre.  Hele min "
+"tilnærming til kringkasting har alltid vært at <quote>Du er en viktig "
+"person akkurat slik du er.  Du kan ta sunne avgjørelser</quote>. "
+"Kanskje holder jeg på for lenge, men jeg føler bare at alt som "
+"tillater en person å være mer aktiv i å kontrollere hans eller hennes "
+"liv, på en sunn måte, er viktig.<placeholder type=\"footnote\" "
+"id=\"0\"/>"
 
 #.  PAGE BREAK 170 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Even though there were uses that were legal, because there were some uses "
 "that were illegal, the court held the companies producing the VCR "
 "responsible."
 msgstr ""
-"Selv om det var bruker som var juridiske, fordi det var noen bruksområder "
-"som var ulovlig, domstolen holdt selskaper produsere vcr ansvarlig."
+"Selv om det fantes bruksområder som var lovlige, fordi det var noen "
+"bruksområder som var ulovlige, så holdt domstolen selskapene som "
+"produserte videoopptakere ansvarlige."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
