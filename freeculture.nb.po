@@ -2457,7 +2457,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "by transforming previous works"
-msgstr "ved å endre tidligere verker"
+msgstr "ved å omforme tidligere verker"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Disney, Inc."
@@ -10300,7 +10300,7 @@ msgstr ""
 "Dette eksempelet viser hvor langt denne loven har kommet fra sine "
 "syttenhundretalls røtter. Loven som skulle beskytte utgiverne mot "
 "urettferdig piratkonkurranse, hadde utviklet seg til et sverd som slo ned på "
-"_all_ bruk, transformativ* eller ikke."
+"_all_ bruk, omformende eller ikke."
 
 #. type: Content of: <book><part><chapter><title>
 msgid "CHAPTER EIGHT: Transformers"
@@ -13999,7 +13999,7 @@ msgstr ""
 "Like vel behandler opphavsrettsloven disse to ulike forbudte "
 "handlingene på samme måte.  Jeg kan gå til domstolen å få en "
 "*injunction* mot din piratkopiering av min bok.  Jeg kan gå til "
-"domstolen å få en *injunciton* mot din transformative bruk av min "
+"domstolen å få en *injunciton* mot din omformende bruk av min "
 "bok.<placeholder type=\"footnote\" id=\"0\"/> Disse to ulike "
 "bruksmåtene for mitt kreative verk behandles likt."
 
@@ -14442,15 +14442,15 @@ msgid ""
 "troubling with respect to transformative uses of creative work."
 msgstr ""
 "For det andre, dette skiftet er spesielt bekymringsverdig i "
-"sammenheng med transformerende bruk av kreativt innhold.  Igjen kan vi "
+"sammenheng med omformende bruk av kreativt innhold.  Igjen kan vi "
 "alle forstå at det er galt med kommersiel piratvirksomhet.  Men loven "
 "gir nå inntrykk av å regulere <emphasis>enhver</emphasis> "
-"transformering som du kan gjøre med en maskin.  <quote>Kopier og "
+"omforming som du kan gjøre med en maskin.  <quote>Kopier og "
 "lim</quote> og <quote>klipp og lim</quote> blir kriminelle handlinger. "
 "Fikling med en historie og å gi den ut til andre eksponerer fikleren "
 "som minimum et krav om begrunnelse.  Uansett hvor bekymringsverdig "
 "utvidelsen med hensyn til kopiering av et bestemt verk, så er de svært "
-"bekymringsverdig med hensyn til transformerende bruk av kreative verk."
+"bekymringsverdig med hensyn til omformende bruk av kreative verk."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use vs."
@@ -16458,35 +16458,47 @@ msgid ""
 "there will be far too little sprinting.  <placeholder type=\"indexterm\" id="
 "\"1\"/>"
 msgstr ""
+"Økonomi tilbyr selv en parallell som forklarer hvorfor denne "
+"integrasjonen påvirker kreativitet.  Clay Christensen har skrevet om "
+"<quote>innovatørenes dilemma</quote>: faktumet at store tradisjonelle "
+"firmaer finner det rasjonelt å ignoerer nye, gjennombrytende "
+"teknologier som konkurrerer med deres kjernevirksomhet.  Den samme "
+"analysen kan bidra til å forklare hvorfor tradisjonelle medieselskaper "
+"finner det rasjonelt å ignorere nye kulturelle trender.<placeholder "
+"type=\"footnote\" id=\"0\"/> Sovende giganter lar ikke bare være, men "
+"bør ikke springe.  Og likevel, hvis banen kun er åpen for gigantene, "
+"så vil det bli alt for lite springing. <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "I don't think we know enough about the economics of the media market to say "
 "with certainty what concentration and integration will do. The efficiencies "
 "are important, and the effect on culture is hard to measure."
 msgstr ""
-"Jeg tror ikke vi vet nok om økonomien i media markedet å si med sikkerhet "
-"hva konsentrasjon og integrering vil gjøre. effektiviteten er viktig, og "
-"effekten på kultur er vanskelig å måle."
+"Jeg tror ikke vi vet nok om økonomien i mediemarkedet til å si med "
+"sikkerhet hva konsentrasjonen og integrasjonen vil gjøre. "
+"Effektivitetsendringene er viktige, og effekten på kulturen er "
+"vanskelig å måle."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "But there is a quintessentially obvious example that does strongly suggest "
 "the concern."
-msgstr "men det er en typiske åpenbare eksempel som sterkt at bekymringen."
+msgstr ""
+"Men det er typiske og åpenbare eksempler som sterkt gir oss grunn til "
+"bekymring."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In addition to the copyright wars, we're in the middle of the drug wars. "
 "Government policy is strongly directed against the drug cartels; criminal "
 "and civil courts are filled with the consequences of this battle."
 msgstr ""
-"i tillegg til opphavsrett krigene er vi midt i narkotika-krigene. "
-"regjeringens politikk er sterkt rettet mot narkotika cartels; straffesaker "
-"og sivile domstolene er fylt med konsekvensene av denne kampen."
+"I tillegg til opphavsrettskrigen, så er vi midt inne i en "
+"narkotikakrig.  Myndighetenes politikk er sterkt rettet mot "
+"narkotikakartellene.  Kriminell- og sivildomstolene er fyllt opp med "
+"konsekvensene av denne kampen."
 
 #.  PAGE BREAK 178 
 #. type: Content of: <book><part><chapter><section><para>
@@ -16831,14 +16843,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "<emphasis role='strong'>This has been</emphasis> a long chapter. Its point "
 "can now be briefly stated."
-msgstr "Dette har vært en lang kapittel. sitt punkt kan nå kort oppgis."
+msgstr ""
+"<emphasis role='strong'>Det har vært</emphasis> et langt kapittel. "
+"Dets poeng kan nå formuleres ganske kort."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "At the start of this book, I distinguished between commercial and "
 "noncommercial culture. In the course of this chapter, I have distinguished "
@@ -16846,11 +16858,11 @@ msgid ""
 "distinctions and draw a clear map of the changes that copyright law has "
 "undergone.  In 1790, the law looked like this:"
 msgstr ""
-"i starten av denne boken skilte jeg mellom kommersielle og ikke-kommersiell "
-"kultur. i løpet av dette kapitlet, har jeg skilte mellom kopiere et arbeid "
-"og transformerer det. Vi kan nå kombinere disse to utmerkelser og tegne en "
-"Fjern tilordning av endringene som har gjennomgått en lov om opphavsrett. i "
-"1790, loven så ut som dette:"
+"I starten av denne boken, skilte jeg mellom kommersielle og "
+"ikke-kommersiell kultur.  I løpet av dette kapitelet har jeg skilt "
+"mellom kopiering av et verk, og omforming av det.  Vi kan nå kombinere "
+"disse to skillene og tegne et klart kart over endringene som "
+"opphavsrettsloven har gjennomgått.  I 1790, så loven slik ut:"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "PUBLISH"
