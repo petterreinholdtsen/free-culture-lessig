@@ -18691,6 +18691,17 @@ msgid ""
 "licenses have been one part of that strategy. Free use (as in the case of "
 "the VCR) has been another."
 msgstr ""
+"Som jeg beskrev i kapittel <xref xrefstyle=\"select: labelnumber\" "
+"linkend=\"property-i\"/>, og på tross av denne egenskapen av "
+"opphavsrett som regulering, og når en tar hensyn til viktige "
+"kvalifiseringer skissert av Jessica Litman i hennes bok "
+"<citetitle>Digital Copyright</citetitle>,<placeholder "
+"type=\"footnote\" id=\"0\"/>, så er i det store og hele historien til "
+"opphavsretten ikke ille.  Når nye teknologier dukker opp, slik "
+"kapittel *10* forteller mer om, har Kongressen funnet en balanse for å "
+"sikre at det nye er beskyttet fra det gamle.  Tvangslisenser eller "
+"lovbestemte lisenser har vært del av denne strategien.  Gratis bruk "
+"(slik tilfellet er for videoopptakeren) har vært en annen."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
