@@ -13894,15 +13894,15 @@ msgstr ""
 "ditt. beskyttelse følger etablering, ikke trinnene du ta for å beskytte den."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "That protection gives you the right (subject to a narrow range of fair use "
 "exceptions) to control how others copy the work, whether they copy it to "
 "republish it or to share an excerpt."
 msgstr ""
-"som beskyttelse gir deg rett til (begrenset et smalt spekter av fair use "
-"unntak) til å kontrollere hvordan andre kopierer arbeidet, om de kopiere den "
-"til å publisere den på nytt, eller for å dele et utdrag."
+"Den beskyttelsen gir deg retten til (begrenset av et smalt spekter av "
+"unntak for rimelig bruk) å kontrollere hovrdan andre kopierer verket, "
+"uansett om de kopierer for å videredistribuere det eller for å dele et "
+"utdrag."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -13930,7 +13930,6 @@ msgstr ""
 "andel av skrifter som er inspirert av dem."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "It is this derivative right that would seem most bizarre to our framers, "
 "though it has become second nature to us. Initially, this expansion was "
@@ -13940,13 +13939,14 @@ msgid ""
 "law was properly expanded to include those slight modifications as well as "
 "the verbatim original work."
 msgstr ""
-"Det er denne derivat høyre som vil synes mest bisarre til våre underskrev, "
-"selv om det har blitt andre naturen til oss. i utgangspunktet ble denne "
-"ekspansjonen opprettet for å håndtere åpenbare evasions av en smalere "
-"opphavsrett. Hvis jeg skriver en bok, kan du endre ett ord og deretter "
-"hevder en opphavsrett i en ny og annerledes bok? som ville selvsagt gjøre en "
-"spøk av opphavsretten, slik loven ble riktig utvidet til å omfatte disse små "
-"endringer, så vel som ordrett opprinnelige arbeidet."
+"Det er denne retten til avledede verk som ville synes mest sært for "
+"de som laget grunnloven vår, selv om det har blitt helt naturlig for "
+"oss.  I utgangspunktet ble denne utvidelsen laget for å håndtere den "
+"åpenbare unnvikelsen av en smalere opphavsrett.  Hvis jeg skriver en "
+"bok, kan du endre ett ord og så hevde opphavsrett til en ny og "
+"annerledes bok?  Det ville åpenbart gjøre opphavsretten til en spøk, "
+"så loven ble utvidet på ordentlig vis til å inkludere slike små endringene "
+"på samme måte som ordrette originale verk."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -13973,6 +13973,18 @@ msgid ""
 "or not you go that far, it seems plain that whatever wrong is involved is "
 "fundamentally different from the wrong of direct piracy."
 msgstr ""
+"For å unngå denne spøken skapte loven en utrolig myndighet innen fri "
+"kultur&mdash;det er i hvert fall utrolig når du forstår at loven ikke "
+"bare gjelder for den kommersielle utgiver men for enhver med en "
+"datamaskin.  Jeg forstår at det er galt å duplisere og selge andres "
+"verk.  Men uansett hvor galt <emphasis>det</emphasis> er, omforming av "
+"andres verk er en annen type galt.  Noen ser ikke på omforminger som "
+"galt i det hele tatt&mdash;de mener at vår lov, slik grunnlovsmennene "
+"formulerte den, ikke skulle beskytte avleded verker i det hele "
+"tatt.<placeholder type=\"footnote\" id=\"0\"/> Uansett om du går så "
+"langt eller ikke, så virker det klart at det som er galt er "
+"fundamentalt forskjellig fra det som er galt med direkte "
+"piratvirksomhet."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Rubenfeld, Jeb"
