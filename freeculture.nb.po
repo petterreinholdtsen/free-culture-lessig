@@ -2823,7 +2823,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Japanese"
-msgstr "Japansk"
+msgstr "japansk"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -13800,7 +13800,6 @@ msgid "European"
 msgstr "europeisk"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "All of these <quote>formalities</quote> were abolished in the American "
 "system when we decided to follow European copyright law. There is no "
@@ -13809,11 +13808,13 @@ msgid ""
 "&copy;; and the copyright exists whether or not you actually make a copy "
 "available for others to copy."
 msgstr ""
-"alle disse \"formaliteter\" ble avskaffet i det amerikanske systemet når vi "
-"besluttet å følge europeiske lov om opphavsrett. Det er ingen krav at du "
-"registrerer et arbeid for å få en copyright; opphavsretten nå er automatisk; "
-"opphavsretten finnes om du merker arbeidet med en ©; og opphavsretten finnes "
-"om du faktisk lage en kopi tilgjengelig for andre å kopiere."
+"Alle disse <quote>formalitetene</quote> ble avskaffet i USAs system "
+"da vi bestemte oss for å følge europeisk opphavsrettslov.  Det er "
+"intet krav om at du registrerer et verk for å få "
+"opphavsrettsbeskyttelse.  Opphavsrettsbeskyttelsen er nå automatisk. "
+"Opphavsretten eksisterer uansett om du merker ditt verk med &copy;, og "
+"opphavsretten eksisterer uansett om du faktisk gjør verket "
+"tilgjengelig for andre å kopiere."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
