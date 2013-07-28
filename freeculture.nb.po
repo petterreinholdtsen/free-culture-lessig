@@ -19324,8 +19324,8 @@ msgstr ""
 "Mike Graziano og Lee Rainie, <quote>The Music Downloading Deluge,</quote> "
 "Pew Internet and American Life Project (24. april 2001), tilgjengelig fra <ulink "
 "url=\"http://free-culture.cc/notes/\">link #46</ulink>.  The Pew Internet "
-"and American Life Project rapporterte at 37 millioner Amerikanere
-hadde lastet ned musikkfiler fra Internet før starten av 2001."
+"and American Life Project rapporterte at 37 millioner Amerikanere "
+"hadde lastet ned musikkfiler fra Internet før starten av 2001."
 
 #.  PAGE BREAK 209 
 #. type: Content of: <book><part><chapter><section><para>
