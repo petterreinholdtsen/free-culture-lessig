@@ -12702,6 +12702,13 @@ msgid ""
 "Make Up for Lost Moments?</quote> Forbes.com, 6 October 2003, available at "
 "<ulink url=\"http://free-culture.cc/notes/\">link #24</ulink>."
 msgstr ""
+"Se Geoffrey Smith, <quote>Film vs. Digital: Can Kodak Build a "
+"Bridge?</quote> BusinessWeek online, 2. august 1999, tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #23</ulink>.  For en "
+"nyere analyse av Kodaks plass i markedet, se Chana R. Schoenberger, "
+"<quote>Can Kodak Make Up for Lost Moments?</quote> Forbes.com, "
+"6. oktober 2003, tilgjengelig fra "
+"<ulink url=\"http://free-culture.cc/notes/\">link #24</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -12759,12 +12766,12 @@ msgstr "markedskonkurranse"
 
 #.  f6 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Fred Warshofsky, <citetitle>The Patent Wars</citetitle> (New York: Wiley, "
 "1994), 170&ndash;71."
 msgstr ""
-"Fred Warshofsky, The Patent Wars (New York: Wiley, 1994), 170&ndash;71."
+"Fred Warshofsky, <citetitle>The Patent Wars</citetitle> (New York: Wiley, "
+"1994), 170&ndash;71."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13972,7 +13979,6 @@ msgid "Rubenfeld, Jeb"
 msgstr "Rubenfeld, Jeb"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Professor Rubenfeld has presented a powerful constitutional argument about "
 "the difference that copyright law should draw (from the perspective of the "
@@ -13982,11 +13988,13 @@ msgid ""
 "(2002): 1&ndash;60 (see especially pp. 53&ndash;59).  <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
-"professor rubenfeld har presentert en kraftig konstitusjonelle argument om "
-"forskjellen som lov om opphavsrett bør trekke (fra perspektivet til den "
-"første endringen) bare \"Kopier\" og avledede produkter. se jed rubenfeld, "
-"\"ytringsfriheten fantasi: opphavsrett 's constitutionality,\" yale law "
-"journal 112 (2002): 1­60 (se spesielt s. 53­59)."
+"Professor Rubenfeld har presentert en kraftfullt konstitusjonelt "
+"argument om skillet som opphavsretten burde sette (fra perspektivet "
+"til det første grunnlovstillegget) mellom kun <quote>kopier</quote> og "
+"avleded verk.  Se Jed Rubenfeld, <quote>The Freedom of Imagination: "
+"Copyright's Constitutionality,</quote> <citetitle>Yale Law "
+"Journal</citetitle> 112 (2002): 1&ndash;60 (se spesielt sidene "
+"53&ndash;59).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -28712,6 +28720,9 @@ msgid ""
 "Lessig, Lawrence.  Free culture : how big media uses technology and the law "
 "to lock down culture and control creativity / Lawrence Lessig."
 msgstr ""
+"Lessig, Lawrence.  Fri kultur : Hvordan store medieaktører bruker "
+"teknologi og jussen til å begrense kulturen og kontrollere "
+"kreativiteten"
 
 #. type: Content of: <book><colophon><para>
 #, fuzzy
