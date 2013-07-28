@@ -14127,6 +14127,13 @@ msgid ""
 "because it is clear that the current reach of copyright was never "
 "contemplated, much less chosen, by the legislators who enacted copyright law."
 msgstr ""
+"Dette er kanskje den sentrale påstanden i denne boken, så la meg ta "
+"dette veldig sakte slik at en ikke går enkelt glipp av poenget.  Min "
+"påstand er at Internett i hvert fall bør tvinge oss til å tenke "
+"igjennom forholdene der opphavsrettsloven automatisk kommer til "
+"anvendelse,<placeholder type=\"footnote\" id=\"0\"/> da det er klart "
+"at dagens rekkevidde for opphavsretten aldri ble vurdert, og lang "
+"mindre valgt, av lovgiverne som vedtok opphavsrettsloven."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14300,7 +14307,6 @@ msgstr "Internett byrder på"
 
 #.  f18 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "I don't mean <quote>nature</quote> in the sense that it couldn't be "
 "different, but rather that its present instantiation entails a copy. Optical "
@@ -14308,11 +14314,11 @@ msgid ""
 "network could be designed to delete anything it copies so that the same "
 "number of copies remain."
 msgstr ""
-"Jeg trenger ikke bety \"natur\" i den forstand at det kunne ikke være "
-"annerledes, men heller at sin nåværende objektforekomst innebærer en kopi. "
-"optisk nettverk ikke trenger lage kopier av innhold de overføre, og en "
-"digital network kan være utformet for å slette noe det kopierer slik at det "
-"samme antallet kopier forblir."
+"Jeg mener ikke <quote>natur</quote> i betydningen at det ikke kunne "
+"vært annerledes, men heller at dagens nåværende tilstand innebærer en "
+"kopi.  Optiske nettverk trenger ikke lage kopier av innhold de "
+"distribuerer, og et digitalt nettverk kan lages slik at det sletter "
+"alt det kopierer slik at det forblir samme antall kopier."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14328,6 +14334,18 @@ msgid ""
 "copyrighted work must look exclusively to category 3, fair uses, to bear the "
 "burden of this shift."
 msgstr ""
+"Så kom Internett&mdash;et distribuert, digitalt nettverk hvor enhver "
+"bruk av et opphavsrettsbeskyttet verk produserer en kopi.<placeholder "
+"type=\"footnote\" id=\"0\"/> Og på grunn av denne ene, vilkårlige "
+"egenskapen i utformingen av digitale nettverk, endres dekningsområdet "
+"for kategori 1 dramatisk.  Bruk osm tidligere ble antatt å ikke være "
+"regulert er nå antatt å være regulert.  Det finnes ikke lenger et sett "
+"med antatt uregulert bruksområder som definerer friheter knyttet til "
+"et opphavsrettsbeskyttet verk.  I stedet er enhver bruk nå omfavnet av "
+"opphavsretten, fordi enhver bruk også lager en kopi&mdash;kategori 1 "
+"blir sugt inn i kategori 2.  Og de som vil forsvare den uregulerte "
+"bruken av opphavsrettsbeskyttede verker må nå kun se til kategori 3, "
+"rimelig bruk, for å bære byrden av denne endringen."
 
 #.  PAGE BREAK 155 
 #. type: Content of: <book><part><chapter><section><para>
