@@ -20873,6 +20873,15 @@ msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>."
 "<placeholder type=\"footnote\" id=\"1\"/>"
 msgstr ""
+"<quote>Vi tar en pause for å vurdere implikasjonene fra regjeringens "
+"argumenter,</quote> skrev *chief justice*.<placeholder "
+"type=\"footnote\" id=\"0\"/> Hvis alt Kongressen sier er mellomstatlig "
+"handel dermed må anses å være mellomstatlig handel, så finnes det "
+"ingen begresninger i Kongressens myndighet.  Avgjørelsen i "
+"<citetitle>Lopez</citetitle> ble bekreftet fire år senere i "
+"<citetitle>United States</citetitle> mot "
+"<citetitle>Morrison</citetitle>.<placeholder type=\"footnote\" "
+"id=\"1\"/>"
 
 #.  f8. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
