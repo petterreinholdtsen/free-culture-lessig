@@ -22047,17 +22047,17 @@ msgstr ""
 "biblioteker og den nasjonale forfattere unionen."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "But two briefs captured the policy argument best. One made the argument I've "
 "already described: A brief by Hal Roach Studios argued that unless the law "
 "was struck, a whole generation of American film would disappear. The other "
 "made the economic argument absolutely clear."
 msgstr ""
-"men to truser fanget argumentet policyen best. en gjort argumentet jeg har "
-"allerede beskrevet: en kort av hal mort studios hevdet at med mindre loven "
-"ble truffet, en hel generasjon av american film ville forsvinne. den andre "
-"gjort argumentet økonomiske helt klart."
+"Men to notater fanget argumentet best.  Et fremmet argumentet jeg "
+"allerede har beskrevet: Et notat fra Hal Roach Studios argumenterte "
+"med at med mindre loven ble droppet, ville en hel generasjon "
+"amerikansk film forsvinne.  Det andre gjorde det økonomiske argumentet "
+"helt klart."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Akerlof, George"
@@ -22080,7 +22080,6 @@ msgid "Friedman, Milton"
 msgstr "Friedman, Milton"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "This economists' brief was signed by seventeen economists, including five "
 "Nobel Prize winners, including Ronald Coase, James Buchanan, Milton "
@@ -22092,14 +22091,15 @@ msgid ""
 "quote>&mdash;the fancy term economists use to describe special-interest "
 "legislation gone wild."
 msgstr ""
-"Denne økonomer kort ble signert av sytten økonomer, inkludert fem "
-"Nobelprisen vinnerne, inkludert ronald Coases, james buchanan, milton "
-"friedman, kenneth pilen og george akerlof. økonomer, spredte som viser "
-"listen over nobel vinnere, det politiske spektret. deres konklusjoner var "
-"kraftig: det var ingen sannsynlig hevder at utvide vilkårene i eksisterende "
-"opphavsrettigheter ville gjøre noe for å øke insentiver til å opprette. "
-"slike utvidelser var ingenting mer enn \"leie-søker\"&mdash;fancy sikt "
-"økonomer bruk å beskrive spesielle interesser lovgivning gone wild."
+"Notatet fra økonomene var underskrevet av sytten økonomer, inkludert "
+"fem nobelprisvinnere, inkludert Ronald Coase, James Buchanan, Milton "
+"Friedman, Kenneth Arrow, og George Akerlof.  Økonomene, slik listen "
+"med Nobel-vinnere demonstrerer, spredte seg over hele det politiske "
+"spektrum.  Deres konklusjon var kraftig: Det fantes ingen troverdig "
+"påstand om at å utvide vernetiden for eksisterende opphavsrett ville "
+"øke insentivene for å skape.  Slik utvidelse var intet mer enn å "
+"<quote>ta inn renter</quote>&mdash; det fancy begrepet økonomer bruker "
+"for å beskrive særinteresse-lovgiving på villspor."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Fried, Charles"
@@ -22110,9 +22110,8 @@ msgid "Morrison, Alan"
 msgstr "Morrison, Alan"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "Public Citizen"
-msgstr "offentlige borger"
+msgstr "Public Citizen"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Reagan, Ronald"
