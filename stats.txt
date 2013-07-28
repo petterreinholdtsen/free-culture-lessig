@@ -493,3 +493,4 @@
 2013-07-28T1250 2005 oversatte meldinger, 277 antatte oversettelser, 43 oversatte meldinger.
 2013-07-28T1258 2006 oversatte meldinger, 277 antatte oversettelser, 42 oversatte meldinger.
 2013-07-28T1500 2009 oversatte meldinger, 276 antatte oversettelser, 40 oversatte meldinger.
+2013-07-28T1610 2015 oversatte meldinger, 271 antatte oversettelser, 39 oversatte meldinger.
