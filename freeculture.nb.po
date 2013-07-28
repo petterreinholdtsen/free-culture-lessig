@@ -12668,7 +12668,6 @@ msgstr ""
 "industrien."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Thus, there's nothing wrong or surprising in the content industry's campaign "
 "to protect itself from the harmful consequences of a technological "
@@ -12677,21 +12676,21 @@ msgid ""
 "industry's way of doing business, or as John Seely Brown describes it, its "
 "<quote>architecture of revenue.</quote>"
 msgstr ""
-"Således, det er ingenting galt eller overraskende i innhold bransjens "
-"kampanje til å beskytte seg fra skadelige konsekvensene av en teknologisk "
-"innovasjon. og jeg vil være den siste personen som hevder at den endrede "
-"teknologien på Internett ikke har hatt en dyp effekt på innhold bransjens "
-"måten å drive virksomhet, eller som john seely brown beskriver den, dens "
-"\"arkitektur av inntekter.\""
+"Det er dermed ikke noe galt eller overraskende i innholdsindistriens "
+"kampanje for å beskytte seg mot de skadelige konsekvensene av en "
+"teknologisk nyvinning.  Og jeg ville være den siste personen til å "
+"hevde at den endrede teknologien på Internett ikke har hatt "
+"vidtrekkende effekt på innholdsindustriens måte å gjøre forretninger, "
+"eller som John Seely Brown beskriver det, dens "
+"<quote>inntektsarkitektur</quote>."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "railroad industry"
 msgstr "jernbaneindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "remote channel changers"
-msgstr "Medieskiftere for ekstern kanal"
+msgstr "fjernkontroll for kanalbytte"
 
 #.  f5 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13997,9 +13996,14 @@ msgid ""
 "<placeholder type=\"footnote\" id=\"0\"/> These two different uses of my "
 "creative work are treated the same."
 msgstr ""
+"Like vel behandler opphavsrettsloven disse to ulike forbudte "
+"handlingene på samme måte.  Jeg kan gå til domstolen å få en "
+"*injunction* mot din piratkopiering av min bok.  Jeg kan gå til "
+"domstolen å få en *injunciton* mot din transformative bruk av min "
+"bok.<placeholder type=\"footnote\" id=\"0\"/> Disse to ulike "
+"bruksmåtene for mitt kreative verk behandles likt."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "This again may seem right to you. If I wrote a book, then why should you be "
 "able to write a movie that takes my story and makes money from it without "
@@ -14007,23 +14011,24 @@ msgid ""
 "<quote>Mickey Mouse,</quote> why should you be able to make Mickey Mouse "
 "toys and be the one to trade on the value that Disney originally created?"
 msgstr ""
-"Dette kan igjen virke riktig for deg. Hvis jeg skrev en bok, så hvorfor skal "
-"du kunne skrive en film som tar min historie og gjør penger fra det uten å "
-"betale meg eller kreditering meg? eller hvis disney oppretter en skapning "
-"kalt \"Mikke Mus\", hvorfor skal du kunne gjøre Mikke Mus leker og være en "
-"til å handle på verdien som disney opprinnelig opprettet?"
+"Dette kan virke riktig for deg.  Hvis jeg skrev en bok, hvorfor skal "
+"du ha mulighet til å lage en film som tar min historie og tjene penger "
+"fra den uten å betale meg eller kreditere meg?  Eller hvis Disney "
+"lager en figur kalt <quote>Mikke Mus</quote>, hvorfor skal du ha "
+"mulighet til å lage Mikke Mus-leker og være den som tjener penger på "
+"verdien som Disney opprinnelig skapte."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "These are good arguments, and, in general, my point is not that the "
 "derivative right is unjustified. My aim just now is much narrower: simply to "
 "make clear that this expansion is a significant change from the rights "
 "originally granted."
 msgstr ""
-"disse er gode argumenter, og generelt, mitt poeng er ikke at derivat høyre "
-"er grunnløs. meg sikte akkurat nå er mye smalere: bare for å gjøre det klart "
-"at denne utvidelsen er en betydelig endring fra de opprinnelig rettighetene."
+"Dette er gode argumenter, og generellt sett er ikke mitt poeng at "
+"slike deriverte rettigheter er grunnløse.  Mitt mål akkurat nå er mye "
+"smalere: ganske enkelt å gjøre det klart at denne utvidelsen er en "
+"betydelig endring fra de opprinnelig tildelte rettighetene."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Law and Architecture: Reach"
