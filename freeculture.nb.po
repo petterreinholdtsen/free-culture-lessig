@@ -13474,9 +13474,8 @@ msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "future patents vs. future copyrights in"
-msgstr "fremtidige patenter vs. fremtidige opphavsrettigheter i"
+msgstr "fremtidige patenter og fremtidige opphavsrettigheter i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13627,9 +13626,8 @@ msgid "Law: Scope"
 msgstr "Loven: Virkeområde"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "scope of"
-msgstr "omfanget av"
+msgstr "omfang for"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -13772,9 +13770,8 @@ msgstr ""
 "opprinnelige forfatteren."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "European"
-msgstr "europeiske"
+msgstr "europeisk"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -14013,9 +14010,8 @@ msgid "Law and Architecture: Reach"
 msgstr "Lov og arkitektur: Rekkevidde"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "copies as core issue of"
-msgstr "Kopier som kjernen utgave av"
+msgstr "kopier som kjernetema for"
 
 #.  f16 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -14326,12 +14322,10 @@ msgstr ""
 "produsert en kopi."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "e-books"
 msgstr "e-bøker"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "technological developments and"
 msgstr "teknologisk utvikling og"
 
@@ -14685,9 +14679,8 @@ msgstr ""
 "slike regulering fremtvinges."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "technology as automatic enforcer of"
-msgstr "teknologi som automatisk inndriver av"
+msgstr "teknologi som automatisk håndhever av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, fuzzy
@@ -19312,9 +19305,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "alcohol prohibition"
-msgstr "alkohol forbud"
+msgstr "alkoholforbud"
 
 #.  f17. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
