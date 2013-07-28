@@ -16945,7 +16945,6 @@ msgid "&copy;/Free"
 msgstr "&copy;/Fri"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The law was interpreted to reach noncommercial copying through, say, copy "
 "machines, but still much of copying outside of the commercial market "
@@ -16953,10 +16952,11 @@ msgid ""
 "especially in the context of a digital network, means that the law now looks "
 "like this:"
 msgstr ""
-"loven ble tolket for å nå reklamefrie kopiering gjennom, si, kopimaskiner, "
-"men fortsatt mye med å kopiere utenfor det kommersielle markedet vært "
-"gratis. men konsekvensen av fremveksten av digitale teknologier, spesielt i "
-"sammenheng med en digital network, betyr at loven nå ser slik ut:"
+"Loven ble tolket til å nå ikke-kommersiell kopiering ved hjelp av, "
+"f.eks. kopimaskiner, men fortsatt forble mye av kopieringen utenom det "
+"kommersielle markedet fri.  Men konsekvensen fra fremveksten av "
+"digitale teknologier, spesielt i sammenehg med digitale nettverk, "
+"betyr at loven å ser slik ut:"
 
 #.  PAGE BREAK 183 
 #. type: Content of: <book><part><chapter><section><para>
@@ -18589,6 +18589,10 @@ msgid ""
 "School (2003), 33&ndash;35, available at <ulink url=\"http://free-culture.cc/"
 "notes/\">link #44</ulink>."
 msgstr ""
+"<quote>Copyright and Digital Media in a Post-Napster World,</quote> "
+"GartnerG2 and the Berkman Center for Internet and Society at Harvard Law "
+"School (2003), 33&ndash;35, tilgjengelig fra <ulink url=\"http://free-culture.cc/"
+"notes/\">link #44</ulink>."
 
 #.  f7. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -19317,6 +19321,11 @@ msgid ""
 "and American Life Project reported that 37 million Americans had downloaded "
 "music files from the Internet by early 2001."
 msgstr ""
+"Mike Graziano og Lee Rainie, <quote>The Music Downloading Deluge,</quote> "
+"Pew Internet and American Life Project (24. april 2001), tilgjengelig fra <ulink "
+"url=\"http://free-culture.cc/notes/\">link #46</ulink>.  The Pew Internet "
+"and American Life Project rapporterte at 37 millioner Amerikanere
+hadde lastet ned musikkfiler fra Internet før starten av 2001."
 
 #.  PAGE BREAK 209 
 #. type: Content of: <book><part><chapter><section><para>
