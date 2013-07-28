@@ -14070,6 +14070,11 @@ msgid ""
 "and the core of the regulation of copyright law is copies.<placeholder type="
 "\"footnote\" id=\"0\"/>"
 msgstr ""
+"Mens loven opprinnelig kun regulerte forleggere, så betyr endringen i "
+"opphavsrettens dekningsområde at loven i dag regulerer forleggere, "
+"brukere og forfattere.  Det regulerer dem på grunn av at alle tre er i "
+"stand til å lage kopier, og kjernen i reguleringen til "
+"opphavsrettsloven er kopier.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "other property rights vs."
