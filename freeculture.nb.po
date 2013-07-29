@@ -16842,7 +16842,6 @@ msgstr ""
 
 #.  PAGE BREAK 181 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "For the single point that is lost in this war on pirates is a point that we "
 "see only after surveying the range of these changes. When you add together "
@@ -16851,12 +16850,12 @@ msgid ""
 "history have fewer had a legal right to control more of the development of "
 "our culture than now</emphasis>."
 msgstr ""
-"for enkeltpunkt som er tapt i denne krigen mot pirater er et punkt som vi "
-"ser bare etter kartlegging på rekke disse endringene. Når du legger sammen "
-"til effekten av å endre loven, konsentrert markeder, og endre teknologien, "
-"sammen de produserer en forbløffende konklusjon: aldri i vår historie har "
-"færre hadde en lovfestet rett til å styre flere av utviklingen av vår kultur "
-"enn nå."
+"For det enkeltpoenget som går tapt i denne krigen mot pirater er et "
+"poeng som vi kun ser etter å ha kartlagt alle disse endringene.  Når "
+"du slår sammen effekten av å endret lovverk, konsentrert markedet og "
+"endret teknologi så får en en forbløffende konklusjon: <emphasis>Aldri "
+"før i vår historie har færre hatt juridisk rett til å kontrollere mer "
+"av utviklingen av vår kultur enn nå</emphasis>."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -16884,6 +16883,20 @@ msgid ""
 "most significant regulation of culture that our free society has known."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
+"Ikke da opphavsretten var evig, for da opphavsretten var evig "
+"påvirket de kun det spesifikke kreative verket.  Ikke da kun utgivere "
+"hadde publiserings-utstyr, for markedet var da mye mer variert.  Ikke "
+"når det kun fantes tre TV-nettverk, for selv da var aviser, "
+"filmstudio, radiostasjoner og utgivere uavhengige av "
+"nettverkene. <emphasis>Aldri</emphasis> har opphavsretten beskyttet en "
+"så stor rekke av rettigheter, mot en så stor rekke av aktører, for en "
+"vernetid som var i nærheten av så lang.  Denne form for "
+"regulering&mdash;en liten regulering av en liten del av den kreative "
+"energien til en nasjon i emning&mdash;er nå en massiv regulering av "
+"hele den kreative prosessen.  Lovverk pluss teknologi pluss marked "
+"jobber nå sammen for å gjøre denne historisk ubetydelige regulering "
+"til den mest betydningsfulle reguleringen av kulturen som vårt frie "
+"samfunn har kjent.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16933,18 +16946,18 @@ msgstr "Ikke-kommersiell"
 
 #.  PAGE BREAK 182 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The act of publishing a map, chart, and book was regulated by copyright law. "
 "Nothing else was. Transformations were free. And as copyright attached only "
 "with registration, and only those who intended to benefit commercially would "
 "register, copying through publishing of noncommercial work was also free."
 msgstr ""
-"loven av publisering på et kart, diagram og boken var regulert av lov om "
-"opphavsrett. ingenting annet var. transformasjoner var gratis. og som "
-"copyright tilknyttet bare med registrering, og bare de som ment å gagne "
-"kommersielt ville registrere, kopiere gjennom publisering av ikke-"
-"kommersielt arbeid var også gratis."
+"Selve det å publisere et kart, diagram og bok var regulert av "
+"opphavsrettsloven.  Ingenting annet.  Det var fritt frem for "
+"omforminger.  Og i og med at opphavsretten kun gjalt etter "
+"registrering, og kun de som planla å ha kommersiell nytte ville "
+"registrere, var kopiering gjennom publisering av ikkekommersielle verk "
+"også fritt frem."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "By the end of the nineteenth century, the law had changed to this:"
