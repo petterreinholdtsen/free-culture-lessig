@@ -499,3 +499,5 @@
 2013-07-28T1704 2022 oversatte meldinger, 267 antatte oversettelser, 36 oversatte meldinger.
 2013-07-28T2103 2026 oversatte meldinger, 265 antatte oversettelser, 34 oversatte meldinger.
 2013-07-28T2122 2029 oversatte meldinger, 263 antatte oversettelser, 33 oversatte meldinger.
+2013-07-29T0111 2030 oversatte meldinger, 262 antatte oversettelser, 33 oversatte meldinger.
+2013-07-29T0818 2041 oversatte meldinger, 251 antatte oversettelser, 33 oversatte meldinger.
