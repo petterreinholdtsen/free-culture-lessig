@@ -12499,15 +12499,14 @@ msgstr ""
 "samlingspunkt fornuftig."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Let's say this is the picture of copyright's regulation before the Internet:"
-msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
+msgstr ""
+"La oss si at dette er et bilde av opphavsrettens regulering før Internett:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-#, fuzzy
 msgid "Copyright's regulation before the Internet."
-msgstr "La oss si at dette er bilde av copyright's regulering før Internett:"
+msgstr "Opphavsrettens regulering før Internett"
 
 #.  PAGE BREAK 136 
 #. type: Content of: <book><part><chapter><section><para>
@@ -13378,7 +13377,7 @@ msgid ""
 "within twenty-eight years at most, and more likely within fourteen years."
 "<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
-"Selv om det ble skapt mange verker i USA i de første 10 årene til "
+"Selv om det ble skapt mange verk i USA i de første 10 årene til "
 "republikken, så ble kun 5 prosent av verkene registrert under det føderale "
 "opphavsrettsregimet.  Av alle verker skapt i USA både før 1790 og fra 1790 "
 "fram til 1800, så ble 95 prosent øyeblikkelig allemannseie (public domain). "
@@ -13487,9 +13486,8 @@ msgstr ""
 "maksimal vernetid på 56 år."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, fuzzy
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
-msgstr "Sonny bono opphavsrett begrepet filtypen handle (ctea) (1998)"
+msgstr "Sonny Bono utvidelse av opphavsrettsvernetid-loven (CTEA) (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "future patents vs. future copyrights in"
@@ -13544,7 +13542,6 @@ msgstr ""
 "være utløp av vernetiden i opphavsretten."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The effect of these extensions has been exacerbated by another, little-"
 "noticed change in the copyright law. Remember I said that the framers "
@@ -13554,31 +13551,28 @@ msgid ""
 "quickly into the public domain. The works remaining under protection would "
 "be those that had some continuing commercial value."
 msgstr ""
-"effekten av disse tilleggene har blitt forverret av en annen, lite merke "
-"endringen i lov om opphavsrett. Husk jeg sa at underskrev etablert et todelt "
-"opphavsrett regime, som krever en rettighetsinnehaveren å fornye sin "
-"copyright etter en innledende sikt. kravet om fornyelse betydde at verk som "
-"ikke lenger nødvendig opphavsrettsbeskyttelse ville passere raskere i public "
-"domain. works gjenværende under beskyttelse vil være de som hadde noen "
+"Effekten av disse endringene har blitt forverret av en annen endring "
+"i opphavsrettsloven som få har lagt merke til.  Husk at jeg sa at "
+"grunnlovsforfatterne etablerte et to-delt opphavsrettsregime, som "
+"krevde at opphavsrettsinnehaver fornyet sin opphavsrett etter en "
+"initiell vernetid.  Dette fornyingskravet betød at verk som ikke "
+"lenger trengte opphavsrettsbeskyttelse ville raskt bli allemannseie. "
+"De gjenværende beskyttede verk ville være de som hadde en viss "
 "vedvarende kommersiell verdi."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "of natural authors vs. corporations"
-msgstr "av naturlige forfattere vs. selskaper"
+msgstr "til naturlige forfattere vs. selskaper"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, fuzzy
 msgid "corporations"
 msgstr "selskaper"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "copyright terms for"
-msgstr "opphavsrett vilkår for"
+msgstr "opphavsrettvernetid for"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The United States abandoned this sensible system in 1976. For all works "
 "created after 1978, there was only one copyright term&mdash;the maximum "
@@ -13588,17 +13582,15 @@ msgid ""
 "1978. All works still under copyright would be accorded the maximum term "
 "then available. After the Sonny Bono Act, that term was ninety-five years."
 msgstr ""
-"USA forlatt dette fornuftig systemet i 1976. for alle arbeider opprettet "
-"etter 1978, var det bare en opphavsrett term&mdash;den maksimale "
-"betegnelsen. for \"naturlige\" forfattere var dette ordet livet pluss femti "
-"år. for bedrifter var begrepet sytti-fem år. deretter, i 1992, Kongressen "
-"forlatt fornyelse kravet for alle arbeider opprettet før 1978. alle fungerer "
-"fortsatt under opphavsrett ville substansiell den maksimale betegnelsen "
-"deretter tilgjengelig. etter sonny bono loven, at begrepet var fem og nitti "
-"år."
+"USA forlot dette fornuftige systemet i 1976.  For alle verk skapt "
+"etter 1978 var det kun en vernetid&mdash;maksimal vernetid.  For "
+"<quote>naturlige</quote> forfattere var vernetiden livstid pluss femti "
+"år.  For selskaper var vernetiden syttifem år.  Så, i 1992, fjernet "
+"Kongressen kravet om fornying for alle verk skapt før 1978.  Alle verk "
+"beskyttet av opphavsretten ville få tildelt maksimal vernetid.  Etter "
+"Sonny Bonny-loven var vernetiden nittifem år."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "This change meant that American law no longer had an automatic way to assure "
 "that works that were no longer exploited passed into the public domain. And "
@@ -13607,26 +13599,27 @@ msgid ""
 "changes in copyright law. Despite the requirement that terms be "
 "<quote>limited,</quote> we have no evidence that anything will limit them."
 msgstr ""
-"Denne endringen betydde at amerikansk lov ikke lenger en automatisk måte å "
-"forsikre som fungerer som utnyttes ikke lenger sendes til public domain. og "
-"faktisk, etter disse endringene, er det uklart om det er også mulig å sette "
-"fungerer i public domain. public domain er foreldreløse av disse endringene "
-"i lov om opphavsrett. til tross for kravet om at vilkårene være \"begrenset"
-"\", har vi ingen bevis for at noe vil begrense dem."
+"Denne endringen betød at USAs lov ikke lenger hadde en automatisk "
+"måte å sikre ta verk som ikke lenger ble utnyttet ble allemannseie. "
+"Og ganske riktig, etter disse endringene, er det uklart hvorvidt det i "
+"det hele tatt er mulig å la et verk bli allemannseie.  Allemannseiet "
+"ble foreldreløst etter disse endringene i opphavsrettsloven.  På tross "
+"av kravet om av vernetiden skal være <quote>begrenset</quote> så har "
+"vi ingen indikasjoner på at noe vil begrense den."
 
 #.  f12 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "These statistics are understated. Between the years 1910 and 1962 (the first "
 "year the renewal term was extended), the average term was never more than "
 "thirty-two years, and averaged thirty years. See Landes and Posner, "
 "<quote>Indefinitely Renewable Copyright,</quote> loc. cit."
 msgstr ""
-"disse statistikkene er undervurdert. i årene 1910 og 1962 (det første året "
-"fornyelse sikt ble forlenget), gjennomsnittlig begrepet var aldri mer enn "
-"tretti-to år, og tretti år i gjennomsnitt. se landes og posner, \"på "
-"ubestemt tid fornybar copyright,\" loc. cit."
+"Disse statistikkene er undervurdert.  Mellom årene 1910 og 1962 (det "
+"første året fornyings-vernetiden ble utvidet), var gjennomsnittelig "
+"vernetid aldri mer enn trettito år, og gjennomsnittet tretti år.  Se "
+"Landes og Posner, <quote>Indefinitely Renewable Copyright,</quote> "
+"loc. cit."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13656,7 +13649,6 @@ msgid "scope of"
 msgstr "omfang for"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The <quote>scope</quote> of a copyright is the range of rights granted by "
 "the law.  The scope of American copyright has changed dramatically. Those "
@@ -13664,7 +13656,7 @@ msgid ""
 "changes if we're to keep this debate in context."
 msgstr ""
 "<quote>Dekningsområdet</quote> for opphavsretten er den rekken av "
-"rettighetsområder tildelt gjennom lovverket.  Dekningsområdet for amerikansk "
+"rettigheter tildelt gjennom lovverket.  Dekningsområdet for USAs "
 "opphavsrett har endret seg dramatisk.  Disse endringene er ikke nødvendigvis "
 "dårlige, men vi bør forstå omfanget av endringer hvis vi skal forholde oss "
 "til sammenhengen i denne debatten."
