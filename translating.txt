@@ -9,7 +9,7 @@ fair use              = rimelig bruk
 copyright             = kopirett / copyright / opphavsrett?
 intellectual property = immaterielle eiendeler / immaterielle rettigheter
 constitutional law    = forfatnigsrett
-unconstitutional      = forfatningsstridig
+unconstitutional      = forfatningsstridig / i strid med grunnloven
 
 Marker ord som ikke er oversatt med stjerne (*) foran og bak i
 teksten, for å gjøre det enkelt å finne dem igjen.
