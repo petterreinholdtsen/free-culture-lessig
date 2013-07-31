@@ -506,3 +506,6 @@
 2013-07-29T0916 2048 oversatte meldinger, 248 antatte oversettelser, 29 oversatte meldinger.
 2013-07-31T0928 2053 oversatte meldinger, 245 antatte oversettelser, 27 oversatte meldinger.
 2013-07-31T1112 2054 oversatte meldinger, 245 antatte oversettelser, 26 oversatte meldinger.
+2013-07-31T1829 2056 oversatte meldinger, 243 antatte oversettelser, 26 oversatte meldinger.
+2013-07-31T2216 2060 oversatte meldinger, 240 antatte oversettelser, 25 oversatte meldinger.
+2013-08-01T0023 2061 oversatte meldinger, 239 antatte oversettelser, 25 oversatte meldinger.
