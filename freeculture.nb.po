@@ -18748,17 +18748,17 @@ msgstr ""
 "familiær for de som støtter det frie markedet."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Copyright may be property, but like all property, it is also a form of "
 "regulation. It is a regulation that benefits some and harms others.  When "
 "done right, it benefits creators and harms leeches. When done wrong, it is "
 "regulation the powerful use to defeat competitors."
 msgstr ""
-"Copyright kanskje eiendom, men som all eiendom, det er også en form for "
-"regulering. Det er en forordning som fordeler noen og skader andre. Når det "
-"gjøres riktig, det fordeler skaperne og skader leeches. Når gjort galt, det "
-"er regulering kraftig bruk å beseire konkurrenter."
+"Opphavsrett er kanskje eiendom, men som all eiendom er det også en "
+"form for regulering.  Det er en regulering som gir fordeler for noen "
+"og skader for andre.  Når det gjøres riktig, gir det fordeler til "
+"skapere og skader til snyltere.  Når det er gjort galt, er det "
+"regulering som de mektige bruker til å beseire konkurrenter."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Digital Copyright (Litman)"
