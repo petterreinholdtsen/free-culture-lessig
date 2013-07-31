@@ -12172,7 +12172,7 @@ msgid ""
 "How four different modalities of regulation interact to support or weaken "
 "the right or regulation."
 msgstr ""
-"Hvordan fire forskjellige *reguleringsmodaliteter* samhandler for å støtte "
+"Hvordan fire forskjellige reguleringsmodaliteter samhandler for å støtte "
 "eller svekke rettigheten eller reguleringen."
 
 #. type: Content of: <book><part><chapter><section><figure>
@@ -12491,6 +12491,12 @@ msgid ""
 "modality might be displaced by another.<placeholder type=\"footnote\" id="
 "\"0\"/>"
 msgstr ""
+"Disse begresningne kan dermed endre seg, og de kan bli endret.  For å "
+"forstå den effektive beskyttelsen til friheten eller beskyttelse for "
+"eiendom på et bestemt tidspunkt, må vi holde rede på disse endringene "
+"over tid.  En begresning påført av en modalitet kan bli slettet av en "
+"anne.  En frihet muliggjort av en modalitet kan bli tatt bort av en "
+"annen.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Why Hollywood Is Right"
