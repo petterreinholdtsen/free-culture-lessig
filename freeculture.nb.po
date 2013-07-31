@@ -177,6 +177,8 @@ msgid ""
 "<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata fileref=\"images/"
 "cover.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 msgstr ""
+"<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata fileref=\"images/"
+"cover.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 
 #.  LCCN from
 #.      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
@@ -12124,18 +12126,16 @@ msgstr ""
 "kontrollere hvordan kultur utvilker seg."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "four modalities of constraint on"
-msgstr "fire modalitetene for begrensningen på"
+msgstr "fire modaliteter for begrensninger på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "regulation"
 msgstr "regulering"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "four modalities of"
-msgstr "fire modalitetene for"
+msgstr "fire modaliteter for"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 #, fuzzy
@@ -12164,7 +12164,7 @@ msgstr ""
 "<citetitle>Code and Other Laws of Cyberspace</citetitle> brukte jeg en enkel "
 "modell for å representere dette mer generelle perspektivet.  For enhver "
 "spesiefikk rettighet eller regulering, spør denne modellen hvordan fire "
-"ulike *reguleringsmodaliteter* samvirker for å støtte eller svekke "
+"ulike reguleringsmodaliteter samvirker for å støtte eller svekke "
 "rettigheten eller reguleringen.  Jeg representerte det med dette diagrammet:"
 
 #. type: Content of: <book><part><chapter><figure><title>
@@ -12291,15 +12291,15 @@ msgstr ""
 
 #.  PAGE BREAK 134 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "So the first point about these four modalities of regulation is obvious: "
 "They interact. Restrictions imposed by one might be reinforced by another. "
 "Or restrictions imposed by one might be undermined by another."
 msgstr ""
-"så det første punktet om disse fire metoder av regulering er åpenbare: de "
-"samhandler. restriksjoner pålagt av en kan bli forsterket av en annen. eller "
-"restriksjoner pålagt av en kan bli undergravd av en annen."
+"Så det første poenget om disse fire reguleringsmodalitetene er "
+"åpenbart: De påvirker hverandre.  Restriksjoner pålagt av en kan "
+"forsterke en annen.  Eller restriksjoner pålagt av en kan bli "
+"undergravd av en annen."
 
 #. type: Content of: <book><part><chapter><para>
 #, fuzzy
@@ -12391,6 +12391,19 @@ msgid ""
 "limit, for example&mdash;so as to decrease the attractiveness of fast "
 "driving."
 msgstr ""
+"Det siste poenget om denne enkle modellen bør også være rimelig "
+"klart: Mens disse fire modalitetene er analytisk uavhengige, så har "
+"lovverket en spesiell rolle i å påvirke de andre tre.<placeholder "
+"type=\"footnote\" id=\"0\"/> Lovverket vil med andre ord noen ganger "
+"operere for å øke eller redusere begresningene til en bestemt "
+"modalitet.  Loven kan slik brukes til å øke skattene på bensin for "
+"slik å øke insentivene til å kjøre saktere.  Loven kan brukes til å "
+"kreve flere fartsdumper, for slik å gjøre det vanskeligere å kjøre "
+"raskt.  Loven kan brukes til å finansiere reklamekampanjer som "
+"stigmatiserer stygg kjøring.  Eller loven kan brukes til å kreve at "
+"andre lover blir mer streng&mdash;et føderalt krav som sier at "
+"delstatene må redusere fartsgrensene&mdash;for slik å gjøre det mindre "
+"attraktivt å kjøre fort."
 
 #. type: Content of: <book><part><chapter><figure><title>
 msgid "Law has a special role in affecting the three."
@@ -20816,7 +20829,7 @@ msgid ""
 "<quote>limited.</quote> If they could extend it once, they would extend it "
 "again and again and again."
 msgstr ""
-"<emphasis role='strong'>Grunnlovsrett</emphasis> er ikke uvitende om det "
+"<emphasis role='strong'>Forfatningsrett</emphasis> er ikke uvitende om det "
 "åpenbare.  Eller det tregner ikke være det.  Så da jeg vurderte klagen fra "
 "Eldred, så var denne virkeligheten om de ubegrensede insentivene for å øke "
 "opphavsrettsvernetiden sentral i min tenking. Etter min mening ville en "
@@ -21003,7 +21016,7 @@ msgstr ""
 "mot opphavet</quote> en slik tolking var mot Grunnloven.  Idéen om at "
 "høyesterett avgjorde saker basert på sin politiske overbevisning slo meg som "
 "å usedvanlig kjedelig.  Jeg kom ikke til å dedikere mitt liv til å lære bort "
-"grunnlovsjus hvis disse ni dommerne kun skulle være smålige politikere."
+"forfatnigsrett hvis disse ni dommerne kun skulle være smålige politikere."
 
 #. type: Content of: <book><part><chapter><para>
 #, fuzzy
@@ -21982,7 +21995,7 @@ msgstr ""
 "ingen grunn til å ta opp saken i høyesterett hvis de ikke var overbevist om "
 "at dette lovverket var skadelig.  Dermed var det etter mitt syn ikke "
 "nødvendig å overbevise den om at denne loven var ille.  Vi trengte å vise "
-"den hvorfor den var i strid med grunnloven."
+"den hvorfor den var forfatningsstridig."
 
 #.  PAGE BREAK 238 
 #. type: Content of: <book><part><chapter><para>
@@ -22523,7 +22536,7 @@ msgstr ""
 "ned til dette: Kongressen har gjort det før, og bør få lov til å gjøre det "
 "igjen.  Regjeringen hevdet at helt fra starten har kongressen utvidet "
 "vernetiden til eksisterende opphavsrett.  Derfor, argumenterte regjeringen, "
-"burde ikke retten nå si at praksisen var i strid med grunnloven."
+"burde ikke retten nå si at praksisen var forfatningsstridig."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
