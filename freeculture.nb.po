@@ -16738,17 +16738,16 @@ msgid "Together"
 msgstr "Sammen"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "There is something innocent and obvious about the claim of the copyright "
 "warriors that the government should <quote>protect my property.</quote> In "
 "the abstract, it is obviously true and, ordinarily, totally harmless. No "
 "sane sort who is not an anarchist could disagree."
 msgstr ""
-"Det er noe uskyldig og åpenbar om kravet om opphavsrett warriors at "
-"regjeringen bør \"beskytte min egenskapen.\" i abstrakt, det er åpenbart "
-"sann og, vanligvis helt ufarlig. Ingen forstandig sortering som ikke er en "
-"Anarkisten kan uenige."
+"Det er noe uskyldig og åpenbart i kravet fra opphavsrettskrigerne om "
+"at myndighetene bør <quote>beskytte min eiendom</quote>.  Som abstrakt "
+"ide er det åpenbart riktig, og vanligvis helt ufarlig.  Ingen "
+"fornuftig type som ikke er anarkist vil være uenig."
 
 #.  PAGE BREAK 180 
 #. type: Content of: <book><part><chapter><section><para>
@@ -16765,15 +16764,18 @@ msgid ""
 "changes the freedom within this culture to cultivate and build upon our "
 "past, then we have to ask whether this property should be redefined."
 msgstr ""
-"men når vi ser hvor dramatisk denne \"property\" er endret&mdash;når vi "
-"innser hvor den kan nå kommunisere med både teknologi og markeder å bety at "
-"effektiv begrensningen på den frihet å dyrke vår kultur er dramatisk "
-"annerledes&mdash;kravet begynner å synes mindre uskyldig og åpenbar. gitt "
-"(1) den kraftige teknologi til å supplere lovens kontroll, og (2) makt "
-"konsentrert markeder for å svekke muligheten for dissens, hvis strengt "
-"håndheve massivt utvidet \"property\"-rettigheter som er gitt av copyright "
-"fundamentalt endres frihet i denne kulturen til å dyrke og bygge på vår "
-"fortid, så må vi spørre om denne egenskapen skal defineres."
+
+"Men når vi ser hvor dramatisk denne <quote>eiendommen<quote> har "
+"endret seg&mdash;når vi innser hvordan den slik den nå er knyttet til "
+"både teknologi og markeder til å bety at de effektive begresningene i "
+"friheten til å kultivere kulturen vår er dramatisk "
+"forskjellig&mdash;begynner kravet å se mindre uskyldig og åpenbart ut. "
+"Gitt (1) kraften i teknologien til å supplere lovens kontroll og (2) "
+"kraften i konsentrerte markeder til å svekke muligheten for å være "
+"uenig, hvis strikt håndheving av den massivt utvidete "
+"<quote>eieondomsretten</quote> delt ut av opphavsretten fundamentalt "
+"endrer friheten i denne kulturen til å kultivere og bygge på vår "
+"fortid, så må vi spørre oss om denne eiendomen bør omdefineres."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -17005,17 +17007,17 @@ msgstr ""
 
 #.  PAGE BREAK 183 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Every realm is governed by copyright law, whereas before most creativity was "
 "not. The law now regulates the full range of creativity&mdash; commercial or "
 "not, transformative or not&mdash;with the same rules designed to regulate "
 "commercial publishers."
 msgstr ""
-"hver riket er underlagt lov om opphavsrett, mens før de fleste kreativitet "
-"ikke var. loven regulerer nå hele omfanget av kreativitet&mdash;kommersielle "
-"eller ikke, transformative eller ikke – med de samme reglene som er utformet "
-"for å regulere kommersielle utgivere."
+"Hvert område er styrt av åndsverksloven, mens mesteparten av "
+"kreativiteten ikke var det tidligere.  Loven regulerer nå hele "
+"omfanget av kreativiteten&mdash;kommersiell eller ikke, omformende "
+"eller ikke&mdash;med de samme reglene som ble utformet for å regulere "
+"kommersielle utgivere."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
