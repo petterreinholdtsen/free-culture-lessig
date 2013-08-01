@@ -20482,13 +20482,12 @@ msgstr ""
 "for en handikappet programmerer."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "constitutional powers of"
-msgstr "konstitusjonelle formålet med"
+msgstr "konstitusjonelle makt til"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Eldred case involvement of"
-msgstr ""
+msgstr "Eldred-saken involvering til"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
