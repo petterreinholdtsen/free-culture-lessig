@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-08-01 08:51+0300\n"
+"POT-Creation-Date: 2013-08-01 09:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2949,7 +2949,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:2049 freeculture.xml:2601 freeculture.xml:6748 freeculture.xml:7720 freeculture.xml:8817 freeculture.xml:8888
+#: freeculture.xml:2049 freeculture.xml:2601 freeculture.xml:6748 freeculture.xml:7720 freeculture.xml:8817 freeculture.xml:8864
 msgid "advertising"
 msgstr ""
 
@@ -3274,7 +3274,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:2287 freeculture.xml:8645 freeculture.xml:8882
+#: freeculture.xml:2287 freeculture.xml:8645 freeculture.xml:8858
 msgid "ABC"
 msgstr ""
 
@@ -12671,42 +12671,46 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:8883
+#: freeculture.xml:8859
 msgid "Comcast"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:8884
+#: freeculture.xml:8860
 msgid "Marijuana Policy Project"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:8885
+#: freeculture.xml:8861
 msgid "NBC"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:8886
+#: freeculture.xml:8862
 msgid "WJOA"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:8887
+#: freeculture.xml:8863
 msgid "WRC"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #: freeculture.xml:8858
 msgid ""
-"The Marijuana Policy Project, in February 2003, sought to place ads that "
-"directly responded to the Nick and Norm series on stations within the "
-"Washington, D.C., area. Comcast rejected the ads as <quote>against [their] "
-"policy.</quote> The local NBC affiliate, WRC, rejected the ads without "
-"reviewing them. The local ABC affiliate, WJOA, originally agreed to run the "
-"ads and accepted payment to do so, but later decided not to run the ads and "
-"returned the collected fees. Interview with Neal Levine, 15 October 2003.  "
-"These restrictions are, of course, not limited to drug policy. See, for "
-"example, Nat Ives, <quote>On the Issue of an Iraq War, Advocacy Ads Meet "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder "
+"type=\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> "
+"<placeholder type=\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" "
+"id=\"6\"/> The Marijuana Policy Project, in February 2003, sought to place "
+"ads that directly responded to the Nick and Norm series on stations within "
+"the Washington, D.C., area. Comcast rejected the ads as <quote>against "
+"[their] policy.</quote> The local NBC affiliate, WRC, rejected the ads "
+"without reviewing them. The local ABC affiliate, WJOA, originally agreed to "
+"run the ads and accepted payment to do so, but later decided not to run the "
+"ads and returned the collected fees. Interview with Neal Levine, 15 October "
+"2003.  These restrictions are, of course, not limited to drug policy. See, "
+"for example, Nat Ives, <quote>On the Issue of an Iraq War, Advocacy Ads Meet "
 "with Rejection from TV Networks,</quote> <citetitle>New York "
 "Times</citetitle>, 13 March 2003, C4.  Outside of election-related air time "
 "there is very little that the FCC or the courts are willing to do to even "
@@ -12722,11 +12726,7 @@ msgid ""
 "Matier and Andrew Ross, <quote>Antidiesel Group Fuming After Muni Rejects "
 "Ad,</quote> SFGate.com, 16 June 2003, available at <ulink "
 "url=\"http://free-culture.cc/notes/\">link #32</ulink>. The ground was that "
-"the criticism was <quote>too controversial.</quote> <placeholder "
-"type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> "
-"<placeholder type=\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" "
-"id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> <placeholder "
-"type=\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" id=\"6\"/>"
+"the criticism was <quote>too controversial.</quote>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -12997,19 +12997,19 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:9170
+#: freeculture.xml:9164
 msgid "legal realist movement"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 #: freeculture.xml:9164
 msgid ""
-"It was the single most important contribution of the legal realist movement "
-"to demonstrate that all property rights are always crafted to balance public "
-"and private interests. See Thomas C. Grey, <quote>The Disintegration of "
-"Property,</quote> in <citetitle>Nomos XXII: Property</citetitle>, J. Roland "
-"Pennock and John W.  Chapman, eds. (New York: New York University Press, "
-"1980).  <placeholder type=\"indexterm\" id=\"0\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> It was the single most important "
+"contribution of the legal realist movement to demonstrate that all property "
+"rights are always crafted to balance public and private interests. See "
+"Thomas C. Grey, <quote>The Disintegration of Property,</quote> in "
+"<citetitle>Nomos XXII: Property</citetitle>, J. Roland Pennock and John W.  "
+"Chapman, eds. (New York: New York University Press, 1980)."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
