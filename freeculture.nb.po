@@ -13218,15 +13218,15 @@ msgstr ""
 
 #.  PAGE BREAK 143 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Some of these changes come from the law: some in light of changes in "
 "technology, and some in light of changes in technology given a particular "
 "concentration of market power. In terms of our model, we started here:"
 msgstr ""
-"noen av disse endringene kommer fra loven: noen i lys av endringer i "
-"teknologi, og noen i lys av endringer i teknologi gitt en bestemt "
-"konsentrasjon av markedets makt. Når det gjelder vår modell startet vi her:"
+"Noen av disse endringer kommer fra lovverket: noen i lys av endringer "
+"i teknologi og noen i lys av endringer i teknologi gitt en bestemt "
+"konsentrasjon av markedsmakt.  Etter begrepene i vår modell, startet "
+"vi her:"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "We will end here:"
@@ -13250,9 +13250,8 @@ msgid "Law: Duration"
 msgstr "Loven: Varighet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "Copyright Act (1790)"
-msgstr "Berlin act (1908)"
+msgstr "Opphavsrettslov (1790)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, fuzzy
@@ -13476,9 +13475,8 @@ msgid "copyright terms extended by"
 msgstr "opphavsrettens vernetid utvidet av"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "term extensions in"
-msgstr "sikt utvidelser i"
+msgstr "vernetidesutvidelser i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13739,7 +13737,6 @@ msgid "formalities"
 msgstr "formaliteter"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "registration requirement of"
 msgstr "registreringskrav for"
 
@@ -14297,17 +14294,16 @@ msgstr "<graphic fileref=\"images/1551.png\"></graphic>"
 
 #.  PAGE BREAK 154 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In real space, then, the possible uses of a book are divided into three "
 "sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that "
 "are nonetheless deemed <quote>fair</quote> regardless of the copyright "
 "owner's views."
 msgstr ""
-"i virkelige rommet, deretter mulige bruksområder for en bok er delt inn i "
-"tre sorterer: (1) unregulated bruker, (2) regulert bruker og (3) regulert "
-"bruker som likevel anses \"rettferdig\" uavhengig av copyrighteieren "
-"visninger."
+"I den virkelige verden er dermed mulig bruk av en bok delt i tre "
+"typer: (1) uregulert bruk, (2) regulert bruk og (3) regulert bruk som "
+"likevel anses <quote>rimelig</quote> uavhengig av opphavsrettseierens "
+"syn."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet"
@@ -14540,7 +14536,6 @@ msgstr ""
 "solgt kassetter til selge i detalj butikker."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
-#, fuzzy
 msgid "browsing"
 msgstr "surfing"
 
@@ -14640,9 +14635,8 @@ msgstr ""
 "filmer som en måte å selge dem uten disney's tillatelse."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "first-sale doctrine"
-msgstr "første salg doktrine"
+msgstr "førstesalgs-doktrinen"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -14767,9 +14761,8 @@ msgid "Casablanca"
 msgstr "Casablanca"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "Marx Brothers"
-msgstr "Brødrene Marx"
+msgstr "Marx-brødrene"
 
 #.  f19 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
