@@ -8046,9 +8046,9 @@ msgstr ""
 "Hvis 99,4 prosent ikke er godt nok, så er dette en krig mot "
 "fildelingsteknologier, og ikke en krig mot opphavsrettsbrudd.  Det er ikke "
 "mulig å sikre at et p2p-system brukes 100 prosent av tiden i henhold til "
-"loven, like lite som det er mulig å sikre at 100 prosent av videospillere "
+"lovverket, like lite som det er mulig å sikre at 100 prosent av videospillere "
 "eller 100 prosent av kopimaskiner eller 100 prosent av håndvåpen blir brukt "
-"i henhold til loven.  Ingen toleranse betyr ingen p2p.  Rettens avgjørelser "
+"i henhold til lovverket.  Ingen toleranse betyr ingen p2p.  Rettens avgjørelser "
 "betyr at vi som samfunn må miste fordelene med p2p, selv for de fullstendig "
 "lovlige og fordelaktige bruksområdene som de tjener, kun for å sikre at de "
 "ikke er brudd på opphavsretten forårsaket av p2p."
@@ -19427,13 +19427,12 @@ msgstr ""
 
 #.  f16. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Alex Pham, <quote>The Labels Strike Back: N.Y. Girl Settles RIAA Case,</"
 "quote> <citetitle>Los Angeles Times</citetitle>, 10 September 2003, Business."
 msgstr ""
-"Alex pham, \"etikettene streik tilbake: ny jente settles riaa tilfelle,\" "
-"los angeles times, 10 september 2003, business."
+"Alex Pham, <quote>The Labels Strike Back: N.Y. Girl Settles RIAA Case,</"
+"quote> <citetitle>Los Angeles Times</citetitle>, 10. september 2003, Business."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -19462,14 +19461,14 @@ msgstr "alkoholforbud"
 
 #.  f17. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Jeffrey A. Miron and Jeffrey Zwiebel, <quote>Alcohol Consumption During "
 "Prohibition,</quote> <citetitle>American Economic Review</citetitle> 81, no. "
 "2 (1991): 242."
 msgstr ""
-"Jeffrey a. miron og jeffrey zwiebel, \"alkoholforbruk under forbudstiden,\" "
-"amerikanske økonomiske anmeldelse 81, no. 2 (1991): 242."
+"Jeffrey A. Miron og Jeffrey Zwiebel, <quote>Alcohol Consumption During "
+"Prohibition,</quote> <citetitle>American Economic Review</citetitle> 81, no. "
+"2 (1991): 242."
 
 #.  f18. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -19485,15 +19484,14 @@ msgstr ""
 
 #.  f19. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "See James Andreoni, Brian Erard, and Jonathon Feinstein, <quote>Tax "
 "Compliance,</quote> <citetitle>Journal of Economic Literature</citetitle> 36 "
 "(1998): 818 (survey of compliance literature)."
 msgstr ""
-"se james andreoni, brian Eberhard og jonathon feinstein, \"skatt samsvar,\" "
-"journal av økonomiske litteratur 36 (1998): 818 (undersøkelse av samsvar "
-"litteratur)."
+"Se James Andreoni, Brian Erard, og Jonathon Feinstein, <quote>Tax "
+"Compliance,</quote> <citetitle>Journal of Economic Literature</citetitle> 36 "
+"(1998): 818 (oversikt over litteratur om bruk i henhold til lovverket)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
