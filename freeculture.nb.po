@@ -17018,16 +17018,16 @@ msgstr ""
 "for å regulere kommersielle utgivere."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Obviously, copyright law is not the enemy. The enemy is regulation that does "
 "no good. So the question that we should be asking just now is whether "
 "extending the regulations of copyright law into each of these domains "
 "actually does any good."
 msgstr ""
-"tydeligvis er lov om opphavsrett ikke fienden. fienden er regulering som "
-"virker ikke godt. Så spørsmålet som vi bør spørre akkurat nå er enten utvide "
-"forskrifter om opphavsrett i hver av disse domenene faktisk gjør noe bra."
+"Åndsverksloven er åpenbart ikke fienden.  Fienden er regulering som "
+"ikke gjør noe bra.  Så spørsmålet vi bør stille oss akkurat nå er "
+"hvorvidt å utvide reguleringene i åndsverksloven inn i hver av disse "
+"områdene faktisk gjør noe bra."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -17051,9 +17051,8 @@ msgstr ""
 "bli opprettet hvis avledede rettigheter ble mer kraftig begrenset."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#, fuzzy
 msgid "legal realist movement"
-msgstr "juridiske realist bevegelse"
+msgstr "juridiske realist-bevegelsen"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
