@@ -15385,9 +15385,8 @@ msgstr ""
 "emphasis>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "government case against"
-msgstr "regjeringen sak mot"
+msgstr "myndighetssak mot"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15458,7 +15457,6 @@ msgstr ""
 "teknikk for å kontrollere distribusjon av musikk."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The SDMI coalition had as its goal a technology to enable content owners to "
 "exercise much better control over their content than the Internet, as it "
@@ -15468,13 +15466,14 @@ msgid ""
 "was to be part of a <quote>trusted system</quote> of control that would get "
 "content owners to trust the system of the Internet much more."
 msgstr ""
-"sdmi-koalisjonen hadde som mål en teknologi for å aktivere innholdseiere å "
-"utøve mye bedre kontroll over deres innhold enn Internett, som den "
-"opprinnelig stod, gitt dem. Hvis du bruker kryptering, sdmi håpet å utvikle "
-"en standard som ville tillate innholdseieren å si \"denne musikken ikke kan "
-"kopieres\", og har en datamaskin respekterer kommandoen. teknologien var å "
-"være del av et \"klarert system\" av kontroll som ville få innholdseiere kan "
-"stole på systemet av Internett mye mer."
+"SDMI-koalisjonen hadde som sitt mål en teknologi som gjorde det mulig "
+"for innholdseiere å utøve mye bedre kontroll ver deres innhold enn "
+"Internettet, slik det opprinnelig fungerer, ga dem.  Ved å bruke "
+"kryptering håpet de å utvikle en standard som ville tillate "
+"innholdseiere å si <quote>denne musikke kan ikke kopieres</quote>, og "
+"få en datamaskinen til å respektere denne kommentaren.  Teknologien "
+"skulle bli del av et <quote>tiltrodd system</quote> for kontroll som "
+"ville få innholdseiere til å stole mye mer på Internett-systemet."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15502,7 +15501,6 @@ msgstr ""
 "dette til de som studerer kryptering."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Let's review just what Felten was doing. Again, this is the United States. "
 "We have a principle of free speech. We have this principle not just because "
@@ -15511,15 +15509,15 @@ msgid ""
 "criticism. That criticism is likely, in turn, to improve the systems or "
 "people or ideas criticized."
 msgstr ""
-"La oss vurdere bare hva felten gjorde. igjen, dette er USA. Vi har et "
-"prinsipp for ytringsfrihet. Vi har dette prinsippet ikke bare fordi det er "
-"loven, men også fordi det er en virkelig god idé. en sterkt beskyttet "
-"tradisjon av ytringsfriheten er sannsynlig å oppmuntre til et bredt spekter "
-"av kritikk. at kritikk er sannsynlig, i sin tur til å forbedre systemer "
-"eller personer eller idéer kritisert."
+"La oss vurdere akkurat hva Felden gjorde.  Igjen, dette er USA.  Vi "
+"har et prinsipp om ytringsfrihet.  Vi har dette prinsippet ikke bare "
+"på grunn av at det er slik loven er, men også fordi det er en virkelig "
+"god idé.  En sterkt beskyttet tradisjon for ytringsfrihet vil "
+"sannsynligvis oppmuntre til et bredt sprekter av kritikk.  Denne "
+"kritikken vil sannsynligvis i sin tur forbedre systemet eller folkene "
+"eller idéene som blir kritisert."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "What Felten and his colleagues were doing was publishing a paper describing "
 "the weakness in a technology. They were not spreading free music, or "
@@ -15527,33 +15525,33 @@ msgid ""
 "unintelligible to most people. But it clearly showed the weakness in the "
 "SDMI system, and why SDMI would not, as presently constituted, succeed."
 msgstr ""
-"Hva felten og hans kolleger gjorde var publisering en papiret beskriver "
-"svakhet i en teknologi. de var ikke spre gratis musikk, eller bygge og "
-"distribusjon av denne teknologien. papiret var en faglige essay, uleselig "
-"for fleste. men det viste klart svakhetene i sdmi-systemet, og hvorfor sdmi "
-"ville ikke, så dag konstituert, lykkes."
+"Det Felten og hans kollegaer gjorde var å publisere en artikkel som "
+"beskrev svakheten i en teknologi.  De spredte ikke gratis musikk, "
+"eller bygte og rullet ut denne teknologien.  Artikkelen var et "
+"akademisk essay, uleselig for folk flest.  Men det viste klart "
+"svakheten i SDMI-systemet, og hvorfor SDMI ikke ville, slik det var "
+"konstruert i dag, lykkes."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "What links these two, aibopet.com and Felten, is the letters they then "
 "received. Aibopet.com received a letter from Sony about the aibopet.com "
 "hack. Though a jazz-dancing dog is perfectly legal, Sony wrote:"
 msgstr ""
-"Hva kobler disse to, aibopet.com og felten, er bokstavene de deretter "
-"mottatt. aibopet.com mottatt et brev fra sony om det aibopet.com banalisere. "
-"Selv om en jazz-dans hunden er helt lovlig, skrev sony:"
+"Det som kobler disse to, aibopet.com og Felten, er brevet de deretter "
+"mottok.  Aibopet.com mottok et brev fra Sony om aibopet.com-hacket. "
+"Selv om en jazz-dansende hun er helt lovlig, skrev Sony:"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
-#, fuzzy
 msgid ""
 "Your site contains information providing the means to circumvent AIBO-ware's "
 "copy protection protocol constituting a violation of the anti-circumvention "
 "provisions of the Digital Millennium Copyright Act."
 msgstr ""
-"nettstedet inneholder informasjon metoder for å omgå aibo-ware "
-"kopibeskyttelse protokollen utgjør et brudd på anti-omgåelse bestemmelsene i "
-"digital millennium copyright act."
+"Ditt nettsted inneholder informasjon som tilbyr midlene til å omgå "
+"AIBO-wares kopibeskyttelsesprotokoll utgjør et brudd på "
+"anti-omgåelsesbestemmelsene i opphavsrettslov for et digitalt "
+"århundre (DMCA)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15567,28 +15565,27 @@ msgstr ""
 
 #.  PAGE BREAK 168 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
-#, fuzzy
 msgid ""
 "Any disclosure of information gained from participating in the Public "
 "Challenge would be outside the scope of activities permitted by the "
 "Agreement and could subject you and your research team to actions under the "
 "Digital Millennium Copyright Act (<quote>DMCA</quote>)."
 msgstr ""
-"enhver formidling av informasjon fra å delta i offentlig challenge ville "
-"være utenfor omfanget av aktiviteter som er tillatt i henhold til avtalen og "
-"kunne utsettes du og din undersøkelsesgruppen for handlinger under digital "
-"millennium copyright act (\"dmca\")."
+"Enver offentliggjøring av informasjon mottatt fra å delta i Offentlig "
+"Utfordring vil være utenfor rammen av aktiviteter tillatt av Avtalen "
+"og kan utsette deg og ditt forskergruppe for handlinger i henhold til "
+"opphavsrettslov for et digitalt århundre (<quote>DMCA</quote>)."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In both cases, this weirdly Orwellian law was invoked to control the spread "
 "of information. The Digital Millennium Copyright Act made spreading such "
 "information an offense."
 msgstr ""
-"i begge tilfeller ble denne nifs orwellian loven startet for å kontrollere "
-"spredningen av informasjon. digital millennium copyright act gjort sprer seg "
-"slik informasjon en krenkelser."
+"I begge tilfeller har denne sære Orwelliske loven blitt tatt i bruk "
+"for å kontrollere spredning av infomrasjon.  Opphavsrettsloven for et "
+"digitalt århundre (DMCA) gjorde spredning av slik informasjon til et "
+"brudd på åndsverkloven."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
