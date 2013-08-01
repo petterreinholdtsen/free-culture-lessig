@@ -16751,7 +16751,6 @@ msgstr ""
 
 #.  PAGE BREAK 180 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "But when we see how dramatically this <quote>property</quote> has "
 "changed&mdash; when we recognize how it might now interact with both "
@@ -16764,8 +16763,7 @@ msgid ""
 "changes the freedom within this culture to cultivate and build upon our "
 "past, then we have to ask whether this property should be redefined."
 msgstr ""
-
-"Men når vi ser hvor dramatisk denne <quote>eiendommen<quote> har "
+"Men når vi ser hvor dramatisk denne <quote>eiendommen</quote> har "
 "endret seg&mdash;når vi innser hvordan den slik den nå er knyttet til "
 "både teknologi og markeder til å bety at de effektive begresningene i "
 "friheten til å kultivere kulturen vår er dramatisk "
@@ -16778,19 +16776,18 @@ msgstr ""
 "fortid, så må vi spørre oss om denne eiendomen bør omdefineres."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Not starkly. Or absolutely. My point is not that we should abolish copyright "
 "or go back to the eighteenth century. That would be a total mistake, "
 "disastrous for the most important creative enterprises within our culture "
 "today."
 msgstr ""
-"ikke starkly. eller absolutt. Mitt poeng er ikke at vi bør avskaffe "
-"copyright eller gå tilbake til 1700-tallet. det ville være en totalt feil, "
-"katastrofalt for de viktigste kreative bedriftene i vår kultur i dag."
+"Ikke fjernes, og ikke fullstendig.  Mitt poeng er ikke at vi bør avskaffe "
+"opphavsretten eller gå tilbake til det attende århundre.  Det ville "
+"være et totalt feilgrep, katastrofalt for mesteparten av de viktigste "
+"kreative bedriftene i vår kultur i dag."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "But there is a space between zero and one, Internet culture "
 "notwithstanding.  And these massive shifts in the effective power of "
@@ -16802,14 +16799,16 @@ msgid ""
 "adjustment to restore the balance that has traditionally defined copyright's "
 "regulation&mdash;a weakening of that regulation, to strengthen creativity."
 msgstr ""
-"men det er et mellomrom mellom null og én, Internett-kultur til tross for. "
-"og disse massiv Skift i effektiv kraft av opphavsrett regulering, knyttet "
-"til økt konsentrasjon av innhold industrien og hvile i hendene på teknologi "
-"som i økende grad vil aktivere kontroll over bruken av kultur, bør kjøre oss "
-"til å vurdere om en annen justering kalles for. ikke en justering som øker "
-"copyright's strøm. ikke en justering som øker sin sikt. snarere en justering "
-"for å gjenopprette balansen som tradisjonelt har definert copyright's "
-"regulering&mdash;en svekkelse av den reguleringen, å styrke kreativitet."
+"Men det er et område mellom null og en, på tross av Internett-kultur. "
+"Og disse massive endringene i den effektive makten til "
+"opphavsrettsregulering, knyttet til den økende konsentrasjonen i "
+"innholdsindustrien og hvilende i teknologiens hender som i økende grad "
+"kan kontrollere bruken av kultur, bør få oss til å vurdere hvorvidt en "
+"annen justering er nødvendig.  Ikke en justering som øker "
+"opphavsrettens makt.  Ikke en justering som øker dens vernetid.  I "
+"stedet en justering som gjenoppretter balansen som tradisjonelt har "
+"definert opphavsrettens regulering&mdash;en svekkelse av den "
+"reguleringen for å styrke kreativiteten."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
