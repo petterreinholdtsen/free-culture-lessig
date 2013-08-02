@@ -16088,23 +16088,21 @@ msgstr ""
 
 #.  f26 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Lynette Holloway, <quote>Despite a Marketing Blitz, CD Sales Continue to "
 "Slide,</quote> <citetitle>New York Times</citetitle>, 23 December 2002."
 msgstr ""
-"lynette holloway, \"til tross for en markedsføring blitz cd salg fortsette å "
-"skyve,\" new york times, 23 desember 2002."
+"Lynette Holloway, <quote>Despite a Marketing Blitz, CD Sales Continue to "
+"Slide,</quote> <citetitle>New York Times</citetitle>, 23. desember 2002."
 
 #.  f27 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Molly Ivins, <quote>Media Consolidation Must Be Stopped,</quote> "
 "<citetitle>Charleston Gazette</citetitle>, 31 May 2003."
 msgstr ""
-"Molly ivins, \"media konsolidering må stoppes,\" charleston gazette, 31 kan "
-"2003."
+"Molly Ivins, <quote>Media Consolidation Must Be Stopped,</quote> "
+"<citetitle>Charleston Gazette</citetitle>, 31. mai 2003."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
