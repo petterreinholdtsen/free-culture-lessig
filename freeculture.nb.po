@@ -22075,36 +22075,42 @@ msgstr ""
 msgid ""
 "In the Supreme Court, the briefs on our side were about as diverse as it "
 "gets. They included an extraordinary historical brief by the Free Software "
-"Foundation (home of the GNU project that made GNU/ Linux possible). They "
+"Foundation (home of the GNU project that made GNU/Linux possible). They "
 "included a powerful brief about the costs of uncertainty by Intel. There "
 "were two law professors' briefs, one by copyright scholars and one by First "
 "Amendment scholars. There was an exhaustive and uncontroverted brief by the "
 "world's experts in the history of the Progress Clause. And of course, there "
 "was a new brief by Eagle Forum, repeating and strengthening its arguments."
 msgstr ""
+"I høyesteretten var notatene som støttet vår side så spredt som de "
+"kan bli.  De inkluderte et ekstraordinært historisk notat fra Free "
+"Software Foundation (hjemmet til GNU-prosjektet som gjorde GNU/Linux "
+"mulig).  De inkluderte et kraftfylt notat om kostnaden ved usikkerhet "
+"fra Intel.  Det var notater fra to jussprofessorer, et fra en "
+"opphavsrettsakademiker og et fra første grunnlovstillegg-akademikere. "
+"Det var et uttømmende og uomtvistet notat fra verdens ekspert på "
+"historien til *the progress clause*.  Og naturligvis var det et notat "
+"fra Eagle Forum, som gjentok og styrket deres argument."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "American Association of Law Libraries"
-msgstr "American association of lov biblioteker"
+msgstr "Amerikansk forening for juss-biblioteker"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "National Writers Union"
-msgstr "nasjonale forfattere union"
+msgstr "Nasjonal skribentunion"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "Those briefs framed a legal argument. Then to support the legal argument, "
 "there were a number of powerful briefs by libraries and archives, including "
 "the Internet Archive, the American Association of Law Libraries, and the "
 "National Writers Union."
 msgstr ""
-"disse truser innrammet et juridisk argument. deretter for å støtte "
-"argumentet juridiske, var det en rekke kraftige truser av biblioteker og "
-"arkiver, inkludert internet archive, american association av loven "
-"biblioteker og den nasjonale forfattere unionen."
+"Disse notatene rammet inn et juridisk argument.  Og til støtte for "
+"det juridiske argumentet var det en rekke kraftige notater fra "
+"biblioteker og arkiver, inkludert Internett-arkivet, den amerikanske "
+"forening for juss-biblioteker og og den nasjonale skribentunionen."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
