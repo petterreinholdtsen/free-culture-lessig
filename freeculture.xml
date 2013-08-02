@@ -4304,7 +4304,7 @@ Congress chose a path that would assure
 <indexterm startref='idxcopyrightlawonmusicrecordings2' class='endofrange'/>
 <indexterm startref='idxcopyrightlawstatutorylicensesin2' class='endofrange'/>
 <indexterm startref='idxcabletv2' class='endofrange'/>
-<indexterm><primary>Betamax</primary></indexterm>
+<indexterm id='idxbetamax' class='startofrange'><primary>Betamax</primary></indexterm>
 <indexterm id='idxcassettevcrs1' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
 <para>
 In the same year that Congress struck this balance, two major
@@ -4377,6 +4377,7 @@ Copyright Infringements (Audio and Video Recorders), 485 (testimony
 of Jack Valenti).
 </para></footnote>
 </para>
+<indexterm startref='idxbetamax' class='endofrange'/>
 <para>
 It took eight years for this case to be resolved by the Supreme
 Court. In the interim, the Ninth Circuit Court of Appeals, which
