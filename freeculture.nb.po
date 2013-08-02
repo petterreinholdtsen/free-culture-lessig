@@ -15983,7 +15983,6 @@ msgstr "Marked: Konsentrasjon"
 
 #.  PAGE BREAK 173 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "So copyright's duration has increased dramatically&mdash;tripled in the past "
 "thirty years. And copyright's scope has increased as well&mdash;from "
@@ -15999,21 +15998,23 @@ msgid ""
 "and creativity; it would be totally unrecognizable to those who gave birth "
 "to copyright's control."
 msgstr ""
-"Slik copyright's varighet har økt dramatisk&mdash;tredoblet de siste tretti "
-"årene. og copyright's omfang har økt samt&mdash;fra regulerer bare utgivere "
-"å regulere nå omtrent alle. og copyright's rekkevidde har endret, som hver "
-"handling blir en kopi og dermed presumptively regulert. og som "
-"Teknologorganisasjon finne bedre måter å kontrollere bruken av innhold, og "
-"som copyright stadig fremtvinges gjennom teknologi, copyright's kraft "
-"endringer, også. misbruk er enklere å finne og enklere å kontrollere. Denne "
-"reguleringen av den kreative prosessen, som begynte som en liten regulering "
-"som styrer en liten del av markedet for skapende arbeid, har blitt enkelt "
-"viktigste regulator av kreativitet som det er. Det er en massiv økning i "
-"omfanget av regjeringens kontroll over innovasjon og kreativitet; det ville "
-"være helt ugjenkjennelige til de som fødte copyright's kontroll."
+"Så opphavsrettens varighet har økt dramatisk&mdash;tredoblet seg de "
+"siste tretti årene.  Og ophavsrettens omfang har også økt&mdash;fra å "
+"kun regulere utgivere til nå å regulere omtrent alle.  Og "
+"opphavsrettens rekkevidde har endret seg, etter hvert som hver "
+"handling blir en kopi og dermed antatt regulert.  Og etter hvert som "
+"teknologer finner bedre måter å kontrollere bruken av innhold, og "
+"etter hvert som opphavsretten i stadig større grad blir kontrollert "
+"gjennom teknologi, endres opphavsrettens kraft også.  Misbruk er "
+"enklere å finne og enklere å kontrollere.  Denne reguleringen av den "
+"kreative prosessen, som startet som en liten myndighetsregulering av "
+"en liten del av markedet for kreative verk, har blitt den ene mest "
+"viktige regulatoren for kreativitiet som finnes.  Det er en massiv "
+"økning i omfanget til myndighetens kontroll over nyskapning og "
+"kreativitet.  Den ville være fullstendig ugjenkjennelig for de som "
+"skapte opphavsrettens kontroll."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Still, in my view, all of these changes would not matter much if it weren't "
 "for one more change that we must also consider. This is a change that is in "
@@ -16021,14 +16022,14 @@ msgid ""
 "understood. It is the one that creates precisely the reason to be concerned "
 "about all the other changes I have described."
 msgstr ""
-"Likevel, etter mitt syn, alle disse endringene vil ikke saken mye hvis det "
-"ikke var for en enda en endring som må vi også vurdere. Dette er en endring "
-"som er i noen forstand den mest kjente, om sin betydning og omfang ikke er "
-"godt forstått. Det er den som oppretter nettopp grunnen til å være bekymret "
-"for alle andre endringer jeg har beskrevet."
+"Likevel ville, etter mitt syn, ikke disse endringene bety så mye hvis "
+"det ikke var for enda en endring som vi også må ta hensyn til.  Det er "
+"en endring som på en måte er den vi er mest kjent med, selv om dens "
+"betydning og omfang ikke er godt forstått.  Det er den som nettopp "
+"skaper årsaken til å være bekymret om alle de andre endringene jeg har "
+"beskrevet."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "This is the change in the concentration and integration of the media.  In "
 "the past twenty years, the nature of media ownership has undergone a radical "
@@ -16037,16 +16038,16 @@ msgid ""
 "media companies. Now, the media is increasingly owned by only a few "
 "companies. Indeed, after the changes that the FCC announced in June 2003, "
 "most expect that within a few years, we will live in a world where just "
-"three companies control more than percent of the media."
+"three companies control more than 85 percent of the media."
 msgstr ""
-"Dette er endring i konsentrasjon og integrering av media. i de siste tjue "
-"årene, har natur av media eierskapet gjennomgått en radikal endring, "
-"forårsaket av endringer i juridiske reglene som styrer media. før denne "
-"endringen skjedde, var de ulike formene for media eid av egen media "
-"selskapene. media eies nå, i økende grad av bare et par selskaper. faktisk, "
-"etter endringene som fcc annonsert i juni 2003, mest forventer at innen få "
-"år vil vi lever i en verden der bare tre selskaper kontrollere mer enn "
-"prosent av media."
+"Dette er endringen i konsentrasjonen og integrasjonen i media.  I de "
+"siste tjue årene, har naturen til mediaeierskap gjennomgått en radikal "
+"endring, forårsaket av endringer i juridiske regler som styrer media. "
+"Før denne endringen skjedde, var ulike former for media eid av ulike "
+"medieselskaper.  Nå er mediene i stadig større grad eid av kun noen få "
+"selskaper.  Faktisk, etter endringene som FCC annonserte i juni 2003, "
+"forventer de fleste at innen noen få år vi vil leve i en verden der "
+"kun tre selskaper kontrollerer mer enn 85 prosent av mediene."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16059,7 +16060,6 @@ msgid "BMG"
 msgstr "BMG"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "EMI"
 msgstr "EMI"
 
@@ -16068,14 +16068,12 @@ msgid "McCain, John"
 msgstr "McCain, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "Universal Music Group"
-msgstr "Universal music group"
+msgstr "Universal Music Group"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
 msgid "Warner Music Group"
-msgstr "Warner music group"
+msgstr "Warner Music Group"
 
 #.  f25 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
