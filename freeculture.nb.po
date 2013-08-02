@@ -19358,9 +19358,8 @@ msgstr ""
 "effektivt for å hindre det."
 
 #. type: Content of: <book><part><chapter><section><title>
-#, fuzzy
 msgid "Corrupting Citizens"
-msgstr "ødelegge borgere"
+msgstr "Skader borgere"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
