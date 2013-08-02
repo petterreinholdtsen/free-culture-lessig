@@ -4128,8 +4128,9 @@ money from the content they sell; but as with cable companies before
 statutory licensing, they don't have to pay the copyright owner for
 the content they sell.
 </para>
-<indexterm><primary>Bernstein, Leonard</primary></indexterm>
 <indexterm><primary>books</primary><secondary>out of print</secondary></indexterm>
+<indexterm><primary>Bernstein, Leonard</primary></indexterm>
+<indexterm id='idxinternetbookson' class='startofrange'><primary>Internet</primary><secondary>books on</secondary></indexterm>
 <para>
 Type C sharing, then, is very much like used book stores or used
 record stores. It is different, of course, because the person making
@@ -4152,6 +4153,8 @@ stopped, do you think that libraries and used book stores should be
 shut as well?
 </para>
 <indexterm id='idxbooksfreeonline1' class='startofrange'><primary>books</primary><secondary>free on-line releases of</secondary></indexterm>
+<indexterm><primary>Doctorow, Cory</primary></indexterm>
+<indexterm><primary>Down and Out in the Magic Kingdom (Doctorow)</primary></indexterm>
 <para>
 Finally, and perhaps most importantly, file-sharing networks enable
 type D sharing to occur&mdash;the sharing of content that copyright owners
@@ -4183,6 +4186,7 @@ understandably says, <quote>This is how much we've lost,</quote> we must also as
 efficiencies?  What is the content that otherwise would be
 unavailable?</quote>
 </para>
+<indexterm startref='idxinternetbookson' class='endofrange'/>
 <para>
 For unlike the piracy I described in the first section of this
 chapter, much of the <quote>piracy</quote> that file sharing enables is plainly
