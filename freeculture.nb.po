@@ -18687,7 +18687,6 @@ msgstr ""
 
 #.  PAGE BREAK 203 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In one sense, these solutions seem sensible. If the problem is the code, why "
 "not regulate the code to remove the problem. But any regulation of technical "
@@ -18695,11 +18694,12 @@ msgid ""
 "It will impose significant burdens and costs on the technology, but will "
 "likely be eclipsed by advances around exactly those requirements."
 msgstr ""
-"i en forstand synes disse løsningene fornuftig. Hvis problemet er koden, "
-"hvorfor ikke regulere koden for å fjerne problemet. men noen regulering av "
-"tekniske infrastruktur vil alltid er stilt inn på bestemt teknologi av "
-"dagen. det vil innføre betydelig byrder og kostnader på teknologi, men vil "
-"trolig være eclipsed av fremskritt rundt akkurat disse kravene."
+"På en måte virker disse løsningene fornuftige.  Hvis problemet er "
+"koden, hvorfor ikke regulere koden for å fjerne problemet.  Men enhver "
+"regulering av teknisk infrastruktur vil alltid være stilt inn mot "
+"dagens aktuelle teknologi.  Den vil påføre betydelig byrder og "
+"kostnader på teknologien, men vil mest sannsynlig omgått av fremskritt "
+"når det gjelder akkurat disse kravene."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Intel"
@@ -18707,13 +18707,12 @@ msgstr "Intel"
 
 #.  f8. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "See David McGuire, <quote>Tech Execs Square Off Over Piracy,</quote> "
 "Newsbytes, February 2002 (Entertainment)."
 msgstr ""
-"se david mcguire, \"tech execs torget off over piratkopiering,\" newsbytes, "
-"februar 2002 (underholdning)."
+"Se David McGuire, <quote>Tech Execs Square Off Over Piracy,</quote> "
+"Newsbytes, februar 2002 (Entertainment)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
