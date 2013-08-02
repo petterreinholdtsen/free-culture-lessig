@@ -19317,17 +19317,16 @@ msgid ""
 "and that should establish the market rate, and if you set the rate so high, "
 "you're going to drive the small webcasters out of business. &hellip;</quote>"
 msgstr ""
-
-"RIAA, som representerte plateselskapene, presenterte noen vitnesbyrd
-om hva de trodde en villig kjøper ville betale til en villig selger,
-og det var mye høyere.  Det var ti ganger høyere enn det
-radiostasjoner betaler for å fremføre de samme sangene i den samme
-tidsperioden.  Så advokatene som representerte webcasterne spurte
-RIAA, &hellip; <quote>Hvordan kommer du opp med en rate som er så mye
-høyere?  Hvorfor er det verdt mer enn radio?  Fordi her har vi
-hundretusenvis av webcastere som ønsker å betale, og det ville
-etablere markedsraten, og hvis du setter den raten så høyt vil du
-tvinge de små webcasterne til å måtte gi opp. &hellip;</quote>
+"RIAA, som representerte plateselskapene, presenterte noen vitnesbyrd "
+"om hva de trodde en villig kjøper ville betale til en villig selger, "
+"og det var mye høyere.  Det var ti ganger høyere enn det "
+"radiostasjoner betaler for å fremføre de samme sangene i den samme "
+"tidsperioden.  Så advokatene som representerte webcasterne spurte "
+"RIAA, &hellip; <quote>Hvordan kommer du opp med en rate som er så mye "
+"høyere?  Hvorfor er det verdt mer enn radio?  Fordi her har vi "
+"hundretusenvis av webcastere som ønsker å betale, og det ville "
+"etablere markedsraten, og hvis du setter den raten så høyt vil du "
+"tvinge de små webcasterne til å måtte gi opp. &hellip;</quote>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
