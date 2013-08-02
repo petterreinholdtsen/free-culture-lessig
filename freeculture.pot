@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-08-02 21:15+0300\n"
+"POT-Creation-Date: 2013-08-03 00:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12226,7 +12226,7 @@ msgid ""
 "media companies. Now, the media is increasingly owned by only a few "
 "companies. Indeed, after the changes that the FCC announced in June 2003, "
 "most expect that within a few years, we will live in a world where just "
-"three companies control more than percent of the media."
+"three companies control more than 85 percent of the media."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
