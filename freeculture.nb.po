@@ -22745,27 +22745,27 @@ msgstr ""
 "den aller første lovendringen?"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "She was quite willing to concede <quote>that this flies directly in the face "
 "of what the framers had in mind.</quote> But my response again and again was "
 "to emphasize limits on Congress's power."
 msgstr ""
-"Hun var ganske villig til å innrømme \"at dette flyr direkte i møte med hva "
-"underskrev hadde i tankene.\", men mitt svar var igjen og igjen å "
-"understreke begrensninger på Kongressens makt."
+"Hun var ganske villig til å innrømme <quote>at dette går rett i synet "
+"på det det grunnlovsforfatterne hadde i tankene</quote>.  Men min "
+"respons igjen og igjen var å understreke begresningene i Kongressens "
+"myndighet."
 
 #.  PAGE BREAK 246 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, fuzzy
 msgid ""
 "mr. lessig: Well, if it flies in the face of what the framers had in mind, "
 "then the question is, is there a way of interpreting their words that gives "
 "effect to what they had in mind, and the answer is yes."
 msgstr ""
-"Mr. lessig: Vel, hvis det flyr i ansiktet av hva underskrev hadde i tankene, "
-"så spørsmålet er, er det en måte å tolke sine ord som gir kraft til hva de "
-"hadde i tankene, og svaret er Ja."
+"Mr. Lessig: Vel, hvis det går rett i synet på det "
+"grunnlovsforfatterne hadde i tankene så er spørsmålet, er det en måte "
+"å tolke deres ord som gir effekten de hadde i tankene, og svaret er "
+"ja."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22784,10 +22784,11 @@ msgid ""
 "progress in science and the useful arts.  I just don't see any empirical "
 "evidence for that."
 msgstr ""
-"rettferdighet kennedy: Vel, jeg antar implisitt i argumentet at ' 76-loven, "
-"også, bør har blitt gjort ugyldige, og at vi kan la det være på grunn av "
-"avbrudd, er som for alle disse årene loven har hindret fremgang i vitenskap "
-"og nyttig kunst. Jeg ser ikke noen empiriske bevis for dette."
+"Dommer Kennedy: Vel, jeg antar at det er implisitt i argumentet at "
+"76-loven også bør bli kjent ugyldig, og at vi kan la den være for å "
+"unngå forstyrrelsen, er at i alle disse årene har loven hindret "
+"fremgang i vitenskap og nyttig kunst.  Jeg ser bare ikke noen "
+"empiriske bevis for det."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
