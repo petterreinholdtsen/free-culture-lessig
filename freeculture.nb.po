@@ -19294,15 +19294,14 @@ msgid "Real Networks"
 msgstr "Real Networks"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In a rare bit of candor, one RIAA expert admitted what seemed obvious to "
 "everyone at the time. As Alex Alben, vice president for Public Policy at "
 "Real Networks, told me,"
 msgstr ""
-"i sjeldne litt candor innrømmet én riaa ekspert hva syntes åpenbar for alle "
-"samtidig. som alex alben fortalte visepresident for public policy på real "
-"networks, meg:"
+"I et sjeldent oppriktig øyeblikk, innrømmet en RIAA-ekspert det som "
+"virket åpenbart for alle på den tiden.  Slik Alex Alben, visepresident "
+"for *Public Policy* ved Real Networks, fortalte meg,"
 
 #.  PAGE BREAK 208 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
@@ -19318,15 +19317,17 @@ msgid ""
 "and that should establish the market rate, and if you set the rate so high, "
 "you're going to drive the small webcasters out of business. &hellip;</quote>"
 msgstr ""
-"riaa, som var som representerer plateselskapene, presentert noen vitnesbyrd "
-"om hva de tenkte en villig kjøper betaler til en villig selger, og det var "
-"mye høyere. Det var ti ganger høyere enn hva radiostasjoner betale for å "
-"utføre de samme sangene i samme periode av tid. og så advokater som "
-"representerer webcasters spurte riaa... \"hvordan kan du komme opp med en "
-"hastighet som er så mye høyere? Hvorfor er det verdt mer enn radio? fordi "
-"her har vi hundretusener av webcasters som ønsker å betale, og som bør "
-"etablere markedet rate, og hvis du angir satsen så høyt, du kommer til å "
-"drive små webcasters ut av business.... \""
+
+"RIAA, som representerte plateselskapene, presenterte noen vitnesbyrd
+om hva de trodde en villig kjøper ville betale til en villig selger,
+og det var mye høyere.  Det var ti ganger høyere enn det
+radiostasjoner betaler for å fremføre de samme sangene i den samme
+tidsperioden.  Så advokatene som representerte webcasterne spurte
+RIAA, &hellip; <quote>Hvordan kommer du opp med en rate som er så mye
+høyere?  Hvorfor er det verdt mer enn radio?  Fordi her har vi
+hundretusenvis av webcastere som ønsker å betale, og det ville
+etablere markedsraten, og hvis du setter den raten så høyt vil du
+tvinge de små webcasterne til å måtte gi opp. &hellip;</quote>
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -19373,15 +19374,14 @@ msgstr ""
 "muligheten for en demokratisk kreativitet som digital teknologi gjør mulig."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In addition to these important harms, there is one more that was important "
 "to our forebears, but seems forgotten today. Overregulation corrupts "
 "citizens and weakens the rule of law."
 msgstr ""
-"i tillegg til disse viktige skadene er det en mer som var viktig for våre "
-"forfedre, men synes glemt i dag. overregulation skader borgere og svekker "
-"rettssikkerhet."
+"I tillegg til disse viktige skadene, så er det en til som var viktig "
+"for våre forfedre, men som synes glemt i dag.  For mye regulering "
+"skader borgerne og svekker respekten for loven."
 
 #.  f15. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
