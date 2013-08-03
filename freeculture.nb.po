@@ -11839,7 +11839,6 @@ msgstr ""
 "(vitnesbyrd om jack valenti)."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, fuzzy
 msgid ""
 "No matter the lengthy arguments made, no matter the charges and the counter-"
 "charges, no matter the tumult and the shouting, reasonable men and women "
@@ -11854,10 +11853,10 @@ msgstr ""
 "uansett herjing og roping, så vil fornuftige menn og kvinner komme tilbake "
 "til det fundamentale i saken, det sentrale tema som holder liv i hele denne "
 "debatten: <emphasis>Eiere av kreative eiendomsretter må tildeles de samme "
-"rettigheter og beskyttelser som alle andre eiendomseiere i nasjonen</"
+"rettigheter og beskyttelser som alle andre eiendomseiere i landet</"
 "emphasis>.  Det er det som er saken.  Det er det som er spørsmålet.  Og det "
-"er *the rostrum* som hele denne høringen og debatten som følger må legge "
-"saken til hvilke.<placeholder type=\"footnote\" id=\"0\"/>"
+"er podiet som hele denne høringen og debatten som følger må legge "
+"saken til hvile på.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 129 
 #. type: Content of: <book><part><chapter><para>
@@ -12158,9 +12157,8 @@ msgid "as ex post regulation modality"
 msgstr "som ex post regulering modality"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "as constraint modality"
-msgstr "som betingelse modality"
+msgstr "som begrensningsmodalitet"
 
 #.  PAGE BREAK 132 
 #. type: Content of: <book><part><chapter><para>
