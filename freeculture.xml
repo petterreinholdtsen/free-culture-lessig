@@ -6465,7 +6465,7 @@ weaken the right or regulation. I represented it with this diagram:
 </para>
 <figure id="fig-1331">
 <title>How four different modalities of regulation interact to support or weaken the right or regulation.</title>
-<graphic fileref="images/1331.png"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="50%"></graphic>
 </figure>
 <indexterm><primary>Madonna</primary></indexterm>
 <para>
@@ -6594,7 +6594,8 @@ driving.
 <indexterm startref='idxspeedingconstraintson' class='endofrange'/>
 <figure id="fig-1361">
 <title>Law has a special role in affecting the three.</title>
-<graphic fileref="images/1361.png"></graphic>
+<graphic fileref="images/1361.svg" align="center" width="50%"></graphic>
+
 </figure>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <para>
@@ -6657,7 +6658,8 @@ Internet:
 </para>
 <figure id="fig-1371">
 <title>Copyright's regulation before the Internet.</title>
-<graphic fileref="images/1331.png"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="50%"></graphic>
+
 </figure>
 <indexterm id='idxarchitectureconstrainteffectedthrough' class='startofrange'><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>law</primary><secondary>as constraint modality</secondary></indexterm>
@@ -6702,7 +6704,8 @@ looting that results.
 </para>
 <figure id="fig-1381">
 <title>effective state of anarchy after the Internet.</title>
-<graphic fileref="images/1381.png"></graphic>
+<graphic fileref="images/1381.svg" align="center" width="50%"></graphic>
+
 </figure>
 <indexterm><primary>Commerce, U.S. Department of</primary></indexterm>
 <indexterm id='idxregulationasestablishmentprotectionism' class='startofrange'><primary>regulation</primary><secondary>as establishment protectionism</secondary></indexterm>
@@ -7025,14 +7028,14 @@ started here:
 </para>
 <figure id="fig-1441">
 <title>Copyright's regulation before the Internet.</title>
-<graphic fileref="images/1331.png"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="50%"></graphic>
 </figure>
 <para>
 We will end here:
 </para>
 <figure id="fig-1442">
 <title><quote>Copyright</quote> today.</title>
-<graphic fileref="images/1442.png"></graphic>
+<graphic fileref="images/1442.svg" align="center" width="50%"></graphic>
 </figure>
 <para>
 Let me explain how.
@@ -7527,7 +7530,7 @@ empty circle.
 </para>
 <figure id="fig-1521">
 <title>All potential uses of a book.</title>
-<graphic fileref="images/1521.png"></graphic>
+<graphic fileref="images/1521.svg" align="center" width="50%"></graphic>
 </figure>
 <indexterm id='idxbooksthreetypesofusesof' class='startofrange'><primary>books</primary><secondary>three types of uses of</secondary></indexterm>
 <indexterm id='idxcopyrightlawcopiesascoreissueof2' class='startofrange'><primary>copyright law</primary><secondary>copies as core issue of</secondary></indexterm>
@@ -7551,7 +7554,7 @@ acts do not make a copy.
 </para>
 <figure id="fig-1531">
 <title>Examples of unregulated uses of a book.</title>
-<graphic fileref="images/1531.png"></graphic>
+<graphic fileref="images/1531.svg" align="center" width="50%"></graphic>
 </figure>
 <para>
 Obviously, however, some uses of a copyrighted book are regulated
@@ -7572,7 +7575,7 @@ that remain unregulated because the law considers these <quote>fair uses.</quote
 <!-- PAGE BREAK 153 -->
 <figure id="fig-1541">
 <title>Republishing stands at the core of this circle of possible uses of a copyrighted work.</title>
-<graphic fileref="images/1541.png"></graphic>
+<graphic fileref="images/1541.png" align="center" width="50%"></graphic>
 </figure>
 <indexterm><primary>Constitution, U.S.</primary><secondary>First Amendment to</secondary></indexterm>
 <indexterm><primary>First Amendment</primary></indexterm>
@@ -7588,12 +7591,12 @@ for public policy (and possibly First Amendment) reasons.
 </para>
 <figure id="fig-1542">
 <title>Unregulated copying considered <quote>fair uses.</quote></title>
-<graphic fileref="images/1542.png"></graphic>
+<graphic fileref="images/1542.png" align="center" width="50%"></graphic>
 </figure>
 <para> </para>
 <figure id="fig-1551">
 <title>Uses that before were presumptively unregulated are now presumptively regulated.</title>
-<graphic fileref="images/1551.png"></graphic>
+<graphic fileref="images/1551.png" align="center" width="50%"></graphic>
 </figure>
 <indexterm id='idxcopyrightusagerestrictionsattachedto' class='startofrange'><primary>copyright</primary><secondary>usage restrictions attached to</secondary></indexterm>
 <para>
@@ -7931,7 +7934,7 @@ a button at the bottom called Permissions.
 </para>
 <figure id="fig-1611">
 <title>Picture of an old version of Adobe eBook Reader</title>
-<graphic fileref="images/1611.png"></graphic>
+<graphic fileref="images/1611.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 If you click on the Permissions button, you'll see a list of the
@@ -7939,7 +7942,7 @@ permissions that the publisher purports to grant with this book.
 </para>
 <figure id="fig-1612">
 <title>List of the permissions that the publisher purports to grant.</title>
-<graphic fileref="images/1612.png"></graphic>
+<graphic fileref="images/1612.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 161 -->
@@ -7958,7 +7961,7 @@ translation): Aristotle's <citetitle>Politics</citetitle>.
 </para>
 <figure id="fig-1621">
 <title>E-book of Aristotle;s <quote>Politics</quote></title>
-<graphic fileref="images/1621.png"></graphic>
+<graphic fileref="images/1621.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 According to its permissions, no printing or copying is permitted
@@ -7967,7 +7970,7 @@ the book.
 </para>
 <figure id="fig-1622">
 <title>List of the permissions for Aristotle;s <quote>Politics</quote>.</title>
-<graphic fileref="images/1622.png"></graphic>
+<graphic fileref="images/1622.png" align="center" width="50%"></graphic>
 </figure>
 <indexterm><primary>Future of Ideas, The (Lessig)</primary></indexterm>
 <indexterm><primary>Lessig, Lawrence</primary></indexterm>
@@ -7979,7 +7982,7 @@ Ideas</citetitle>:
 <!-- PAGE BREAK 162 -->
 <figure id="fig-1631">
 <title>List of the permissions for <quote>The Future of Ideas</quote>.</title>
-<graphic fileref="images/1631.png"></graphic>
+<graphic fileref="images/1631.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 No copying, no printing, and don't you dare try to listen to this book!
@@ -8065,7 +8068,7 @@ following report:
 <figure id="fig-1641">
 <title>List of the permissions for <quote>Alice's Adventures in
 Wonderland</quote>.</title>
-<graphic fileref="images/1641.png"></graphic>
+<graphic fileref="images/1641.png" align="center" width="50%"></graphic>
 </figure>
 <!-- PAGE BREAK 164-->
 <para>
@@ -8414,7 +8417,7 @@ and bad uses.
 </para>
 <figure id="fig-1711-vcr-handgun-cartoonfig">
 <title>VCR/handgun cartoon.</title>
-<graphic fileref="images/1711.png"></graphic>
+<graphic fileref="images/1711.png" align="center" width="70%"></graphic>
 </figure>
 <indexterm><primary>Conrad, Paul</primary></indexterm>
 <para>
@@ -8628,7 +8631,7 @@ pattern better than a thousand words could do:
 </para>
 <figure id="fig-1761-pattern-modern-media-ownership">
 <title>Pattern of modern media ownership.</title>
-<graphic fileref="images/1761.png"></graphic>
+<graphic fileref="images/1761.png" align="center" width="90%"></graphic>
 </figure>
 <para>
 <!-- PAGE BREAK 175 -->
@@ -12718,7 +12721,7 @@ unfair. But the punch in the face felt exactly like that.
 </para>
 <figure id="fig-18">
 <title>Tom the Dancing Bug cartoon</title>
-<graphic fileref="images/18.png"></graphic>
+<graphic fileref="images/18.png" align="center" width="95%"></graphic>
 <indexterm><primary>Bolling, Ruben</primary></indexterm>
 </figure>
 <para>

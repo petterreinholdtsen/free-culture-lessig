@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2013-08-03 20:38+0300\n"
+"POT-Creation-Date: 2013-08-03 22:41+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -590,14 +590,14 @@ msgid ""
 "that you owned the stars? Could you prosecute geese for their willful and "
 "regular trespass?"
 msgstr ""
-"Da Wright-brødrene fant opp flymaskinen, hevdet rettsvesenet i USA at en grunneier "
-"ble antatt å eie ikke bare overflaten på området sitt, men også alt landet "
-"under bakken, helt ned til senterpunktet i jorda, og alt volumet over "
-"bakken, <quote>i ubestemt grad, oppover</quote>.<placeholder type=\"footnote"
-"\" id=\"0\"/> I mange år undret lærde over hvordan en best skulle tolke "
-"idéen om at eiendomsretten gikk helt til himmelen. Betød dette at du eide "
-"stjernene?  Kunne en dømme gjess for at de regelmessig og med vilje tok seg "
-"inn på annen manns eiendom?"
+"Da Wright-brødrene fant opp flymaskinen, hevdet rettsvesenet i USA at en "
+"grunneier ble antatt å eie ikke bare overflaten på området sitt, men også "
+"alt landet under bakken, helt ned til senterpunktet i jorda, og alt volumet "
+"over bakken, <quote>i ubestemt grad, oppover</quote>.<placeholder type="
+"\"footnote\" id=\"0\"/> I mange år undret lærde over hvordan en best skulle "
+"tolke idéen om at eiendomsretten gikk helt til himmelen. Betød dette at du "
+"eide stjernene?  Kunne en dømme gjess for at de regelmessig og med vilje tok "
+"seg inn på annen manns eiendom?"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -9044,15 +9044,14 @@ msgid ""
 msgstr ""
 "At det ikke fantes noen <emphasis>positiv</emphasis> lov, betydde ikke at "
 "det ikke fantes noen lov. Den anglo-amerikanske juridiske tradisjon ser både "
-"til lover skapt av det lovgivende statsorgen og til lover "
-"(prejudikater) skapt av domstolene for å bestemme hvordan folket skal "
-"oppføre seg.  Vi kaller politikernes lover for positiv lov og vi kaller "
-"lovene fra dommerne sedvanerett.  Sedvaneretten angir bakgrunnen "
-"for de lovgivendes lovgivning; vedtatte lover vil vanligvis overstyre "
-"bakgrunnen kun hvis det vedtas en lov for å erstatte den.  Så det "
-"egentlige spørsmålet etter at lisensieringslovene hadde utløpt var om "
-"sedvanerett beskyttet en opphavsrett uavhengig av eventuell positiv "
-"lov."
+"til lover skapt av det lovgivende statsorgen og til lover (prejudikater) "
+"skapt av domstolene for å bestemme hvordan folket skal oppføre seg.  Vi "
+"kaller politikernes lover for positiv lov og vi kaller lovene fra dommerne "
+"sedvanerett.  Sedvaneretten angir bakgrunnen for de lovgivendes lovgivning; "
+"vedtatte lover vil vanligvis overstyre bakgrunnen kun hvis det vedtas en lov "
+"for å erstatte den.  Så det egentlige spørsmålet etter at "
+"lisensieringslovene hadde utløpt var om sedvanerett beskyttet en opphavsrett "
+"uavhengig av eventuell positiv lov."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Scottish publishers"
@@ -11724,7 +11723,7 @@ msgstr ""
 "<emphasis role='strong'>Jack Valenti</emphasis> har vært president for "
 "Motion Picture Assication of America siden 1966.  Han ankom Washington D.C. "
 "med Lyndon Johnson-administrasjonen&mdash;bokstavelig talt.  På det berømte "
-"bildet av edsavleggingen til Johnson på Air Force One etter snikmordet på "
+"bildet av edsavleggelsen til Johnson på Air Force One etter snikmordet på "
 "president Kennedy befinner Valenti seg i bakgrunnen.  I sine nesten ført år "
 "som leder av MPAA har Valenti etablert seg som kanskje den mest synlige og "
 "effektive lobbyisten i Washington."
@@ -11855,8 +11854,8 @@ msgstr ""
 "debatten: <emphasis>Eiere av kreative eiendomsretter må tildeles de samme "
 "rettigheter og beskyttelser som alle andre eiendomseiere i landet</"
 "emphasis>.  Det er det som er saken.  Det er det som er spørsmålet.  Og det "
-"er podiet som hele denne høringen og debatten som følger må legge "
-"saken til hvile på.<placeholder type=\"footnote\" id=\"0\"/>"
+"er podiet som hele denne høringen og debatten som følger må legge saken til "
+"hvile på.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #.  PAGE BREAK 129 
 #. type: Content of: <book><part><chapter><para>
@@ -12189,8 +12188,12 @@ msgstr ""
 "eller svekke rettigheten eller reguleringen."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1331.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1331.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12419,8 +12422,12 @@ msgid "Law has a special role in affecting the three."
 msgstr "Lovverket har en spesiell rolle i å påvirke disse tre."
 
 #. type: Content of: <book><part><chapter><figure>
-msgid "<graphic fileref=\"images/1361.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1361.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 #, fuzzy
@@ -12621,8 +12628,12 @@ msgid "effective state of anarchy after the Internet."
 msgstr "effektiv tilstand av anarki etter Internettet."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1381.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1381.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Commerce, U.S. Department of"
@@ -13248,8 +13259,12 @@ msgid "<quote>Copyright</quote> today."
 msgstr "<quote>Opphavsrett</quote> i dag."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1442.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1442.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #.  PAGE BREAK 144 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14170,8 +14185,12 @@ msgid "All potential uses of a book."
 msgstr "Alle potensielle bruksområder for en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1521.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1521.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "three types of uses of"
@@ -14219,8 +14238,12 @@ msgid "Examples of unregulated uses of a book."
 msgstr "Eksempler på uregulert bruk av en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1531.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1531.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1531.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1531.svg\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14256,8 +14279,12 @@ msgstr ""
 "et opphavsrettsbeskyttet verk."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1541.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1541.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1541.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1541.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -14285,8 +14312,12 @@ msgid "Unregulated copying considered <quote>fair uses.</quote>"
 msgstr "Uregulert kopiering anses som <quote>rimelig bruk</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1542.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1542.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1542.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1542.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid ""
@@ -14297,8 +14328,12 @@ msgstr ""
 "regulert."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1551.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1551.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #.  PAGE BREAK 154 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14893,8 +14928,12 @@ msgid "Picture of an old version of Adobe eBook Reader"
 msgstr "Bilde av en gammel versjon av Adobe eBook Reader."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1611.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1611.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14909,8 +14948,12 @@ msgid "List of the permissions that the publisher purports to grant."
 msgstr "Liste med tillatelser som utgiveren har til hensikt å gi."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1612.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1612.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #.  PAGE BREAK 161 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14950,8 +14993,12 @@ msgid "E-book of Aristotle;s <quote>Politics</quote>"
 msgstr "E-bok av Aristoteles <quote>Politikk</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1621.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1621.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1621.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1621.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14966,8 +15013,12 @@ msgid "List of the permissions for Aristotle;s <quote>Politics</quote>."
 msgstr "Liste med tillatelser for Aristoteles &quot;Politikk&quot;."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1622.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1622.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Future of Ideas, The (Lessig)"
@@ -14990,8 +15041,12 @@ msgid "List of the permissions for <quote>The Future of Ideas</quote>."
 msgstr "Liste med tillatelser for <quote>The Future of Ideas</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1631.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1631.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "No copying, no printing, and don't you dare try to listen to this book!"
@@ -15154,8 +15209,12 @@ msgid ""
 msgstr "Liste med tillatelser for <quote>Alice i Eventyrland</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1641.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1641.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15805,8 +15864,12 @@ msgid "VCR/handgun cartoon."
 msgstr "Videospiller/håndvåpen-humortegning"
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1711.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1711.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1711.png\" align=\"center\" width=\"70%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1711.png\" align=\"center\" width=\"70%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16215,8 +16278,12 @@ msgid "Pattern of modern media ownership."
 msgstr "Mønster for moderne mediaeierskap."
 
 #. type: Content of: <book><part><chapter><section><figure>
-msgid "<graphic fileref=\"images/1761.png\"></graphic>"
-msgstr "<graphic fileref=\"images/1761.png\"></graphic>"
+msgid ""
+"<graphic fileref=\"images/1761.png\" align=\"center\" width=\"90%\"></"
+"graphic>"
+msgstr ""
+"<graphic fileref=\"images/1761.png\" align=\"center\" width=\"90%\"></"
+"graphic>"
 
 #.  PAGE BREAK 175 
 #. type: Content of: <book><part><chapter><section><para>
@@ -23442,11 +23509,11 @@ msgstr "Tom the Dancing Bug-tegneserie"
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
-"<graphic fileref=\"images/18.png\"></graphic> <placeholder type=\"indexterm"
-"\" id=\"0\"/>"
+"<graphic fileref=\"images/18.png\" align=\"center\" width=\"95%\"></graphic> "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"<graphic fileref=\"images/18.png\"></graphic> <placeholder type=\"indexterm"
-"\" id=\"0\"/>"
+"<graphic fileref=\"images/18.png\" align=\"center\" width=\"95%\"></graphic> "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23485,7 +23552,7 @@ msgid ""
 msgstr ""
 "<emphasis role='strong'>Dagen</emphasis> <citetitle>Eldred</citetitle> ble "
 "avgjort, ville skjebnen det at jeg skulle reise til Washington, D.C. (Dagen "
-"da en forespørsel ny høring for <citetitle>Eldred</citetitle> ble "
+"da en forespørsel om ny høring for <citetitle>Eldred</citetitle> ble "
 "avslått&mdash;som betød at saken endelig var avsluttet&mdash;skjebnen gjorde "
 "at jeg holdt en tale til teknologer ved Disney World.)  Dette var en "
 "spesielt lang flytur til byen jeg setter minst pris på.  Kjøreturen inn til "
