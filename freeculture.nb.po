@@ -19090,7 +19090,6 @@ msgstr ""
 "teknologien."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Now the very same claim could be made about Internet radio. For again, there "
 "is no technical limitation that could restrict the number of Internet radio "
@@ -19098,28 +19097,27 @@ msgid ""
 "law. Copyright law is one such law. So the first question we should ask is, "
 "what copyright rules would govern Internet radio?"
 msgstr ""
-"nå kunne samme kravet gjort om Internett-radio. for på nytt finnes det ingen "
-"teknisk begrensning som kan begrense hvor mange Internett-radiostasjoner. de "
-"eneste begrensningene på Internett-radio som er pålagt av loven. lov om "
-"opphavsrett er en slik lov. så det første spørsmålet som vi bør spørre er, "
-"hvilke opphavsrett regler ville styre Internett-radio?"
+"Akkurat den samme påstanden kan nå gjøres om Internettradio.  Og også "
+"denne gangen er det ingen tekniske begresninger som kan begrense "
+"antallet Internettradioer.  Den eneste begresningen for Internettradio "
+"er de som blir pålagt av lovverket.  Åndsverkloven er en slik lov.  Så "
+"det første spørsmålet vi bør stille er, hvilke opphavsrettsregler bør "
+"styre Internettradio?"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on radio"
 msgstr "om radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "Internet radio hampered by"
-msgstr "Internett-radio som er hemmet av"
+msgstr "Internettradio hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet radio fees"
-msgstr "om radio-avgifter på internet"
+msgstr "om Internettradio-avgifter"
 
 #.  PAGE BREAK 206 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "But here the power of the lobbyists is reversed. Internet radio is a new "
 "industry. The recording artists, on the other hand, have a very powerful "
@@ -19132,15 +19130,17 @@ msgid ""
 "neutral toward Internet radio&mdash;the law actually burdens Internet radio "
 "more than it burdens terrestrial radio."
 msgstr ""
-"men her kraften i lobbyister tilbakeføres. Internett-radio er en ny "
-"industri. artister, derimot, har en svært kraftig lobby, riaa. dermed hadde "
-"Kongressen vurdert når fenomenet Internett-radio i 1995, lobbyister primed "
-"Kongressen å adoptere en annen regel for Internett-radio enn regelen som "
-"gjelder bakkesendte radio. mens bakkesendte radio ikke trenger å betale våre "
-"hypotetisk marilyn monroe når den spilles hennes hypotetisk innspillingen av "
-"\"happy birthday\" på luften, Internett-radio gjør. ikke bare er loven ikke "
-"nøytral mot Internett-radio&mdash;loven faktisk byrder Internettradio mer "
-"enn det byrder bakkesendte radio."
+"Men her er makten til lobbyistene motsatt.  Internettradio er en ny "
+"industri.  Plateartistene derimot har en svært mektig lobby, RIAA. "
+"Dermed hadde lobbyistene preparert Kongressen til å ta til seg en "
+"annen regel for Internettradio enn reglene som gjelder for landbasert "
+"radio da de vurderte fenomenet Internettradio i 1995.  Mens landbasert "
+"radio ikke må betale når hypotetiske Marilyn Monroe når den spiller "
+"hennes hypotetiske opptak av <quote>Gratulerer med dagen</quote> på "
+"luften, <emphasis>så må Internettradio betale</emphasis>.  Ikke bare "
+"er lovverket ikke nøytral når det gjelder "
+"Internettradio&mdash;lovverket belaster Internettradio mye mer enn det "
+"belaster landbasert radio."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 #, fuzzy
@@ -19346,7 +19346,6 @@ msgstr ""
 
 #.  PAGE BREAK 208 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
-#, fuzzy
 msgid ""
 "The RIAA, which was representing the record labels, presented some testimony "
 "about what they thought a willing buyer would pay to a willing seller, and "
