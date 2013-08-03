@@ -16569,7 +16569,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Nick and Norm anti-drug campaign"
-msgstr ""
+msgstr "Nick og Norm anti-narkotikakampanjen"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16629,11 +16629,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on television advertising bans"
-msgstr ""
+msgstr "om TV-reklame-bannlysning"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "controversy avoided by"
-msgstr ""
+msgstr "kontrovers unngått av"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Comcast"
@@ -17139,7 +17139,6 @@ msgstr ""
 "forskjellig fra den ekstremistvisjonen som dominerer debatten i dag."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Free culture is increasingly the casualty in this war on piracy. In response "
 "to a real, if not yet quantified, threat that the technologies of the "
@@ -17152,15 +17151,17 @@ msgid ""
 "in a world in which creation requires permission and creativity must check "
 "with a lawyer."
 msgstr ""
-"fri kultur er stadig havariet i denne krigen mot piratkopiering. som svar på "
-"en ekte, hvis ikke kvantifisert, trusselen som teknologien av Internett "
-"presentere til 1900-tallet forretningsmodeller for produksjon og "
-"distribusjon av kultur, blir lov og teknologi forvandlet på en måte som vil "
-"undergrave vår tradisjon for fri kultur. eiendommen er copyright ikke lenger "
-"rettigheten balansert som det var, eller var ment å være. egenskapen akkurat "
-"det vil si opphavsrett har blitt ubalansert, skråstilt mot en ekstrem. "
-"muligheten til å opprette og transformere blir svekket i en verden der "
-"oppretting krever tillatelse og kreativitet må kontrollere med en advokat."
+"Fri kultur er stadig større grad ofret i denne krigen mot "
+"piratvirksomhet.  Som respons på en virkelig, men ennå ikke "
+"kvantifisert, trussel som teknologiene på Internett gir til det "
+"tjuende århundrets forretingsmodeller for produksjon og distribusjon "
+"av kultur, har lovverk og teknologi blitt omformet på en slik måte at "
+"det undergraver vår tradisjon for fri kultur.  Eiendomsretten som "
+"opphavsretten utgjør er ikke lenger den balanserte rettigheten som det "
+"var, eller var ment å være.  Eiendomsretten som utgjør opphavsrett har "
+"blitt ubalansert, med utslag mot det ekstreme.  Muligheten til å skape "
+"og omforme blir svekket i en verden der det å skape krever tilatelse "
+"og kreativitet må sjekke med en advokat."
 
 #. type: Content of: <book><part><title>
 msgid "PUZZLES"
