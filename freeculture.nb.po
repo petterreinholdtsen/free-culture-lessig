@@ -19720,9 +19720,8 @@ msgid "Andromeda"
 msgstr "Andromeda"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "mix technology and"
-msgstr "blande teknologi og"
+msgstr "mikseteknologi og"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
