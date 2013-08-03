@@ -22926,15 +22926,15 @@ msgstr ""
 "pasning, og mitt svar bommet fullstendig."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "The second came from the Chief, for whom the whole case had been crafted. "
 "For the Chief Justice had crafted the <citetitle>Lopez</citetitle> ruling, "
 "and we hoped that he would see this case as its second cousin."
 msgstr ""
-"andre kom fra sjefen, som hele saken hadde blitt utformet. for "
-"justisministeren hadde utformet lopez avgjørelse, og vi håpet at ville han "
-"se denne saken som sin andre fetter."
+"Det andre kom fra høyesterettsjustitiariusen, som hele saken "
+"hadde blitt utformet for.  For høyesterettsjustitiariusen hadde utformet "
+"<citetitle>Lopez</citetitle>-avgjørelsen og vi håpet at han ville se "
+"at denne saken var dens tremenning."
 
 #.  PAGE BREAK 247 
 #. type: Content of: <book><part><chapter><para>
@@ -22946,13 +22946,12 @@ msgstr ""
 "sympati med oss.  For ham var vi en gjeng med anarkister.  Han spurte så,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, fuzzy
 msgid ""
 "chief justice: Well, but you want more than that. You want the right to copy "
 "verbatim other people's books, don't you?"
 msgstr ""
-"Chief justice: godt, men du ønsker mer enn som. du vil ha rett til å kopiere "
-"ordrett andres bøker, ikke du?"
+"Høyesterettsjustitiarius: Vel, men du ønsker mer enn det.  Du ønsker å ha "
+"lov til å ordrett kopiere andre folks bøker, gjør du ikke?"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 #, fuzzy
