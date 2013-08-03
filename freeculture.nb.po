@@ -10339,7 +10339,7 @@ msgid ""
 msgstr ""
 "<emphasis role='strong'>I 1993</emphasis> var Alex Alben en jurist som "
 "arbeidet hos Starwave Inc. Starwave var et innovativt firma grunnlagt av "
-"Paul Allen, som også hadde vært med på å grunnlegge Microsoft.Starwaves mål "
+"Paul Allen, som også hadde vært med på å grunnlegge Microsoft. Starwaves mål "
 "var å utvikle digital underholdning. Lenge før Internett ble superpopulært, "
 "forsket Starwave på ny teknologi for å levere underholdning uten nettverk."
 
