@@ -8994,9 +8994,8 @@ msgstr ""
 "verket i 1774?"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "common vs. positive"
-msgstr "felles vs. positive"
+msgstr "sedvane vs. positiv"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "positive law"
@@ -9031,7 +9030,6 @@ msgid "common law"
 msgstr "sedvanerett"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "There was no <emphasis>positive</emphasis> law, but that didn't mean that "
 "there was no law. The Anglo-American legal tradition looks to both the words "
@@ -9046,14 +9044,15 @@ msgid ""
 msgstr ""
 "At det ikke fantes noen <emphasis>positiv</emphasis> lov, betydde ikke at "
 "det ikke fantes noen lov. Den anglo-amerikanske juridiske tradisjon ser både "
-"til lover skapt av politikere (det lovgivende statsorgen) og til lover "
-"(prejudikater) skapt av domstolene for å bestemme hvordan folket skal leve. "
-"Vi kaller politikernes lover for positiv lov og vi kaller lovene fra "
-"dommerne sedvanerett.<quote>Common law</quote> angir bakgrunnen for de "
-"lovgivendes lovgivning; retten til lovgiving, vanligvis kan trumfe at "
-"bakgrunnen bare hvis det går gjennom en lov til å forskyve den. Og så var "
-"det virkelige spørsmålet etter lisensiering lover hadde utløpt om felles lov "
-"beskyttet opphavsretten, uavhengig av lovverket positiv."
+"til lover skapt av det lovgivende statsorgen og til lover "
+"(prejudikater) skapt av domstolene for å bestemme hvordan folket skal "
+"oppføre seg.  Vi kaller politikernes lover for positiv lov og vi kaller "
+"lovene fra dommerne sedvanerett.  Sedvaneretten angir bakgrunnen "
+"for de lovgivendes lovgivning; vedtatte lover vil vanligvis overstyre "
+"bakgrunnen kun hvis det vedtas en lov for å erstatte den.  Så det "
+"egentlige spørsmålet etter at lisensieringslovene hadde utløpt var om "
+"sedvanerett beskyttet en opphavsrett uavhengig av eventuell positiv "
+"lov."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Scottish publishers"
