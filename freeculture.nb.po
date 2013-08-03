@@ -14228,7 +14228,6 @@ msgid "<graphic fileref=\"images/1531.png\"></graphic>"
 msgstr "<graphic fileref=\"images/1531.png\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Obviously, however, some uses of a copyrighted book are regulated by "
 "copyright law. Republishing the book, for example, makes a copy. It is "
@@ -14237,12 +14236,13 @@ msgid ""
 "paradigmatic use properly regulated by copyright regulation (see first "
 "diagram on next page)."
 msgstr ""
-"åpenbart, men noen bruker av en opphavsrettsbeskyttet bok er regulert av lov "
-"om opphavsrett. republishing boken, for eksempel lager en kopi. Det er "
-"derfor regulert av lov om opphavsrett. faktisk står bruk i kjernen av denne "
-"kretsen av mulige bruksområder for et opphavsrettslig beskyttet verk. Det er "
-"paradigmatic bruk riktig regulert av opphavsrett regulering (se første "
-"diagrammet på neste side)."
+"Derimot er det åpenbart noen bruk av en opphavsrettsbeskyttet som er "
+"regulert av åndsverksloven.  Å publisere boken på nytt, for eksempel, "
+"lager et eksemplar.  Det er dermed regulert av opphavsrettsloven. "
+"Faktisk står denne bestemte bruken i kjernen av sirkelen over mulig "
+"bruk av et opphavsrettsbeskyttet verk.  Det er den pragmatiske bruken "
+"ordentlig regulert av opphavsrettsreguleringen (se første diagram på "
+"neste side)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
