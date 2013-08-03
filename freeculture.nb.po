@@ -7901,7 +7901,7 @@ msgid ""
 msgstr ""
 "Det kan godt være, når alle faktorer vurderes, at det ville vært bedre om "
 "opphavsrettseieren fikk noe fra denne handelen.  Men det at det kunne vært "
-"bedre fører ikke til at det ville vært en god ide å forby bruktbokbutikker.  "
+"bedre fører ikke til at det ville vært en god ide å forby bruktbokhandlere.  "
 "Eller sagt på en annen måte, hvis du tror type-C-deling burde vært stoppet, "
 "mener du også at biblioteker og bruktbokhandler også burde vært stengt?"
 
