@@ -22876,7 +22876,6 @@ msgstr ""
 "på vei.  Det første var et spørsmål fra dommer Kennedy, som observerte,"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
-#, fuzzy
 msgid ""
 "justice kennedy: Well, I suppose implicit in the argument that the '76 act, "
 "too, should have been declared void, and that we might leave it alone "
@@ -22884,10 +22883,11 @@ msgid ""
 "progress in science and the useful arts.  I just don't see any empirical "
 "evidence for that."
 msgstr ""
-"Dommer Kennedy: Vel, jeg antar at det er implisitt i argumentet at 76-loven "
-"også bør bli kjent ugyldig, og at vi kan la den være for å unngå "
-"forstyrrelsen, er at i alle disse årene har loven hindret fremgang i "
-"vitenskap og nyttig kunst.  Jeg ser bare ikke noen empiriske bevis for det."
+"Dommer Kennedy: Vel, jeg antar at det er implisitt i argumentet at "
+"76-loven også bør bli kjent ugyldig, og at vi kan la den være for å "
+"unngå forstyrrelsen, er at i alle disse årene som loven har hemmet fremgang "
+"i vitenskap og nyttige kunstarter, så ser jeg intet empirisk bevis for "
+"dette."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
