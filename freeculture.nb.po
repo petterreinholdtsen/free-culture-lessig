@@ -14751,7 +14751,6 @@ msgid "copyright enforcement controlled by"
 msgstr "opphavsrettshåndheving kontrollert av"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In the world before digital technology, it was generally the law that "
 "controlled whether and how someone was regulated by copyright law.  The law, "
@@ -14759,11 +14758,12 @@ msgid ""
 "tradition of the law and cognizant of the balances that tradition embraced, "
 "who said whether and how the law would restrict your freedom."
 msgstr ""
-"i verden før digital teknologi var det generelt loven som kontrollerte om og "
-"hvordan noen var regulert av lov om opphavsrett. loven, noe som betyr en "
-"court, som betyr en dommer: til slutt, det var et menneske, utdannet i "
-"tradisjonen med loven og cognizant av saldoer som tradisjon omfavnet, som sa "
-"om og hvordan loven ville begrense friheten."
+"I verden før digital teknologi var det generelt rettsvesenet som "
+"kontrollerte hvorvidt og hvordan noen ble regulert av åndsverkloven. "
+"Rettsvesenet, i betydningen en domstol, i betydningen en dommer.  Til "
+"sist var det et menneske, trenet i tradisjonen til rettsvesenet og "
+"følsom for balansene som denne tradisjonen omfavnet, som sa hvorvidt "
+"og hvordan loven skulle begrense din frihet."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Casablanca"
