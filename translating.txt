@@ -11,6 +11,9 @@ intellectual property = immaterielle eiendeler / immaterielle rettigheter
 constitutional law    = forfatnigsrett
 unconstitutional      = forfatningsstridig / i strid med grunnloven
 compliance            = i henhold til loven
+the law               = rettsvesenet, lovverket, loven
+common law            = sedvanerett
+positive law          = positiv lov
 
 Marker ord som ikke er oversatt med stjerne (*) foran og bak i
 teksten, for å gjøre det enkelt å finne dem igjen.
