@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-08-03 08:16+0300\n"
+"POT-Creation-Date: 2013-08-03 14:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14140,7 +14140,7 @@ msgid ""
 "generally. Free market and free culture depend upon vibrant competition.  "
 "Yet the effect of the law today is to stifle just this kind of competition.  "
 "The effect is to produce an overregulated culture, just as the effect of too "
-"much control in the market is to produce an overregulatedregulated market."
+"much control in the market is to produce an overregulated-regulated market."
 msgstr ""
 
 #.  PAGE BREAK 202 
