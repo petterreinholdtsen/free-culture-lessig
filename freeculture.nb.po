@@ -14568,7 +14568,6 @@ msgstr ""
 
 #.  PAGE BREAK 157 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "In 1998, Video Pipeline informed Disney and other film distributors that it "
 "intended to distribute the trailers through the Internet (rather than "
@@ -14648,7 +14647,6 @@ msgid "first-sale doctrine"
 msgstr "førstesalgs-doktrinen"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Now, you might think this is a close case, and I think the courts would "
 "consider it a close case. My point here is to map the change that gives "
@@ -14662,16 +14660,19 @@ msgid ""
 "copyright owner's control. The technology expands the scope of effective "
 "control, because the technology builds a copy into every transaction."
 msgstr ""
-"Nå kan du tror dette er en Lukk tilfelle, og jeg tror domstolene anser det "
-"som en Lukk saken. Mitt poeng her er å tilordne endringen som gir disney "
-"denne makten. før Internett, kunne ikke disney virkelig styre hvordan folk "
-"har tilgang til innholdet. Når en video var i markedet, ville \"første-salg "
-"doktrine\" gratis selgeren for å bruke videoen som han ønsket, inkludert "
-"viser deler av det for å skape salg av hele filmen video. men med Internett, "
-"blir det mulig for disney å sentralisere kontroll over tilgang til dette "
-"innholdet. fordi hver bruk av Internett gir en kopi, blir copyrighteieren "
-"kontroll en bruk på Internett. teknologien utvider omfanget av effektiv "
-"kontroll, fordi teknologien bygger en kopi til hver transaksjon."
+"Du tenker kanskje nå at dette er en avgjort sak, og jeg tror "
+"domstolene også anser dette som en avgjort sak.  Poenget mitt her er å "
+"kartlegge endringen som gir Disney denne makten.  Før Internettet "
+"kunne ikke Disney egentlig kontrollere hvordan folk fikk tilgang til "
+"deres innhold.  Når en video var i markedet, ville "
+"<quote>førstesalgs-doktrinen</quote> frigjøre selgeren til å bruke "
+"videoen som han ønsker, inkludert å vise deler av den for å skape salg "
+"av hele filmen.  Men med Internettet ble det mulig for Disney å "
+"sentralisere kontrollen over tilgang til dette innholdet.  På grunn av "
+"at hver bruk over Internettet lager en kopi, blir bruk på Internettet "
+"underlagt opphavsrettseierens kontroll.  Teknologien utvider omfanget "
+"av effektiv kontroll, på grunn av at teknologien bygger en kopi inn i "
+"hver eneste transaksjon."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Barnes &amp; Noble"
@@ -14679,7 +14680,6 @@ msgstr "Barnes &amp; Noble"
 
 #.  PAGE BREAK 158 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "No doubt, a potential is not yet an abuse, and so the potential for control "
 "is not yet the abuse of control. Barnes &amp; Noble has the right to say you "
@@ -14694,21 +14694,21 @@ msgid ""
 "competitive market such as the book market, the dangers of this happening "
 "are quite slight."
 msgstr ""
-"ingen tvil, et potensial er ikke et misbruk, og så potensialet for kontroll "
-"er ikke ennå misbruk av kontroll. Barnes &amp; noble har rett til å si du "
-"ikke røre en bok i deres store; åndsverkslovgivningen gir dem det riktig. "
-"men markedet beskytter effektivt mot at misbruk. Hvis barnes &amp; noble "
-"utestengt surfing, vil deretter forbrukere velge andre bokhandlere. "
-"konkurranse beskytter mot ytterpunktene. og det kan godt være (mitt argument "
-"så langt ikke selv spørsmålet dette) at konkurransen ville hindre noen "
-"lignende fare når det gjelder opphavsrett. sikker, kan utgivere utøve "
-"rettigheter som forfattere har tildelt dem prøver å regulere hvor mange "
-"ganger du leser en bok, eller prøv å opphøre du fra deler av boken med noen. "
-"men i et konkurranseutsatt marked som bok-markedet, farene ved dette skjer "
-"er ganske liten."
+"Det er ingen tvil, et potensiale er ennå ikke et misbruk, og dermed "
+"er potensialet for kontroll ennå ikke misbruk av kontroll.  Barnes "
+"&amp; Noble har lov til å si at du ikke får ta på en bok i deres "
+"butikk.  Eiendomsretten gir dem denne rettigheten.  Men markedet "
+"beskytter effektivt mot slikt misbruk.  Hvis forbød å bla i bøkene, så "
+"ville forbrukerne velge andre bokhandlere.  Konkurranse beskytter mot "
+"ytterpunktene.  Og det kan godt være (mitt argument så langt stiller "
+"ikke en gang spørsmål ved dette) at konkurranse ville hindre enhver "
+"lignende fare når det gjelder opphavsrett.  Joda, utgivere som utøver "
+"de rettigheter som forfattere har tildelt dem kan forsøke å regulere "
+"hvor mange ganger du kan lese en bok, eller forsøke å stoppe deg fra å "
+"dele en bok med andre.  Men i et konkurranseutsatt marked slik som "
+"bokmarkedet, er farene for at noe slikt skjer svært liten."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Again, my aim so far is simply to map the changes that this changed "
 "architecture enables. Enabling technology to enforce the control of "
@@ -14717,38 +14717,38 @@ msgid ""
 "choose. In some contexts, at least, that fact is harmless. But in some "
 "contexts it is a recipe for disaster."
 msgstr ""
-"igjen, mitt mål så langt er ganske enkelt å kartlegge endringene som er at "
-"dette endret arkitekturen aktiverer. aktivere teknologien å håndheve "
-"kontroll av opphavsrett betyr at kontroll av copyright er ikke lenger "
-"definert av balansert policyen. kontroll på opphavsrett er bare hva privat "
-"eiere velge. i enkelte sammenhenger, minst, er det faktum harmløse. men det "
-"er en oppskrift på katastrofe i enkelte sammenhenger."
+"Igjen, målet mitt så langt er ganske enkelt å kartlegge endringene "
+"som denne endrede arkitekturen muliggjør.  A gi teknologi mulighet til "
+"å håndheve kontrollen over opphavsretten betyr at kontrollen over "
+"opphavsretten ikke lenger er definert av en balansert politikk. "
+"Kontrollen over opphavsretten er ganske enkelt det private eiere "
+"velger.  I hvert fall i noen sammenhenger er dette faktum harmløst. "
+"Men i andre sammenhenger er det oppskriften på katastrofe."
 
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Architecture and Law: Force"
 msgstr "Arkitektur og lov: Makt"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The disappearance of unregulated uses would be change enough, but a second "
 "important change brought about by the Internet magnifies its significance. "
 "This second change does not affect the reach of copyright regulation; it "
 "affects how such regulation is enforced."
 msgstr ""
-"forsvinningen av unregulated bruker ville være endre nok, men andre viktige "
-"endringer forårsaket av Internett øker sin betydning. denne andre endringen "
-"påvirker ikke rekkevidden av opphavsrett regulering; det påvirker hvordan "
-"slike regulering fremtvinges."
+"At uregulert bruk forsvinner burde være nok endring, men en annen "
+"viktig endring forårsaket av Internettet forsterker dens betydning. "
+"Denne andre endringen endrer ikke rekkevidden til "
+"opphavsrettreguleringen.  Den påvirker hvordan slik regulering blir "
+"handhevet."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "technology as automatic enforcer of"
 msgstr "teknologi som automatisk håndhever av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "copyright enforcement controlled by"
-msgstr "opphavsrett hensikt endret av"
+msgstr "opphavsrettshåndheving kontrollert av"
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
@@ -17158,7 +17158,7 @@ msgstr ""
 "omformet på en slik måte at det undergraver vår tradisjon for fri kultur.  "
 "Eiendomsretten som opphavsretten utgjør er ikke lenger den balanserte "
 "rettigheten som det var, eller var ment å være.  Eiendomsretten som utgjør "
-"opphavsrett har blitt ubalansert, med utslag mot det ekstreme.  Muligheten "
+"opphavsrett har blitt ubalansert, med utslag mot et ytterpunkt.  Muligheten "
 "til å skape og omforme blir svekket i en verden der det å skape krever "
 "tilatelse og kreativitet må sjekke med en advokat."
 
