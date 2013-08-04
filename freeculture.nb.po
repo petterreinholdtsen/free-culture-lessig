@@ -19521,6 +19521,18 @@ msgid ""
 "use. It is an arms race or a civil war, with the extremes of one side "
 "inviting a more extreme response by the other."
 msgstr ""
+"Krigen som føres i dag er en forbudskrig.  Og som enhver forbudskrig, "
+"er den rettet mot oppførselen til et veldig stort antall borgere.  I "
+"følge <citetitle>The New York Times</citetitle>, lastet 43 millioner "
+"amerikanere ned musikk i mai 2002.<placeholder type=\"footnote\" "
+"id=\"0\"/> I følge RIAA er oppførselen til disse 43 millionene "
+"amerikanere til forbrytere.  Vi har dermed et sett med regler som gjør 20 "
+"prosent av USA til kriminelle.  Mens RIAA saksøker ikke bare Napsterne "
+"og Kazaaene i verden, men studenter som bygger søkemotorer og i økende "
+"grad mot vanlige brukere som laster ned innhold, vil teknologiene for "
+"deling bli utviklet til å beskytte og skjule ulovlig bruk Det er et "
+"våpenkappløp eller en borgerkrig, med ekstre på den ene siden som "
+"inviterer til en mer ekstrem respons fra den andre."
 
 #.  f16. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
