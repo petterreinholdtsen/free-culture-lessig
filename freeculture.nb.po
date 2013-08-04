@@ -24083,10 +24083,10 @@ msgid ""
 "about what this debate is really about."
 msgstr ""
 "Men på dette stadiet begynte lobbyister å bryte inn.  Jack Valenti og MPAAs "
-"sjefsjurist kom til kongressrepresentantens kontor for å gi MPAAS syn på "
+"sjefsjurist kom til kongressrepresentantens kontor for å gi MPAAs syn på "
 "saken.  Veiledet av sin advokat, fortalte Valenti meg, informerte Valenti "
-"kongressrepresentanten om at MPAA ville motsette seg Eldred-loven.  Årsakene "
-"var pinlig tynne.  Enda viktigere er det at deres spinkelhet viser noe klart "
+"kongressrepresentanten om at MPAA ville motsette seg Eldred-loven.  Begrunnelsen "
+"var pinlig tynn.  Enda viktigere er det at deres spinkelhet viser noe klart "
 "om hva denne debatten egentlig handler om."
 
 #.  PAGE BREAK 261 
