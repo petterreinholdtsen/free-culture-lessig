@@ -19570,15 +19570,15 @@ msgstr ""
 
 #.  f18. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "National Drug Control Policy: Hearing Before the House Government Reform "
 "Committee, 108th Cong., 1st sess. (5 March 2003) (statement of John P. "
 "Walters, director of National Drug Control Policy)."
 msgstr ""
-"nasjonale narkotikapolitikken kontroll: høre før house government reform "
-"committee, 108th cong., 1 sess. (5 mars 2003) (setning av john p. walters, "
-"direktør for nasjonale narkotikapolitikken kontroll)."
+"Nasjonal narkotikakontrollpolitikk: Høring foran Kongressens komite "
+"for myndighetsreform, 108. Kongress, 1. sesjon. (5. mars 2003) "
+"(uttalelse fra John P. Walters, direktør for Nasjonal "
+"narkotikakontrollpolitikk)."
 
 #.  f19. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
