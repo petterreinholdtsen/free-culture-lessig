@@ -86,6 +86,9 @@ msgid ""
 "type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
 "<holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
+"<publisher> <publishername>The Penguin Press</publishername> <placeholder "
+"type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
+"<holder>Lawrence Lessig</holder> </copyright>"
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject>
 msgid ""
