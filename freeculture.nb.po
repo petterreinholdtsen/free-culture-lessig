@@ -19682,7 +19682,7 @@ msgstr ""
 "skille mellom egne og klienters penger, eller hedre et krav om å "
 "utlevere et dokument som betyr at saken deres stopper fullstendig.  Generasjoner "
 "av amerikanere&mdash;mer betydelig i noen deler av USA enn andre, men "
-"likefullt over hele USA i dag&mdash;can ikke leve sitt liv både "
+"likefullt over hele USA i dag&mdash;kan ikke leve sitt liv både "
 "normalt og lovlydig, siden <quote>normalt</quote> innebærer en viss "
 "grad av lovbrudd."
 
