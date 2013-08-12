@@ -19845,7 +19845,6 @@ msgid "mix technology and"
 msgstr "mikseteknologi og"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "This <quote>use</quote> of my records is certainly valuable. I have begun a "
 "large process at home of ripping all of my and my wife's CDs, and storing "
@@ -19857,15 +19856,16 @@ msgid ""
 "valuable. Compilations of songs are creative and meaningful in their own "
 "right."
 msgstr ""
-"Denne \"Bruk\" av min poster er absolutt verdifull. Jeg har begynt en stor "
-"prosess hjemme med ripping av alle mine og min kones CDer, og lagre dem i en "
-"arkiv. deretter bruker Apples itunes eller en praktfull program kalt "
-"andromeda, kan vi bygge forskjellige spillelister over våre musikk: bach, "
-"barokk, love songs, love songs av betydelige andre&mdash;potensialet er "
-"uendelige. og ved å redusere kostnadene ved å blande spillelister, disse "
-"teknologier hjelpe bygge en kreativitet med spille lister som selv er "
-"uavhengig verdifull. samlinger av sanger er kreative og meningsfull i egen "
-"rett."
+"Denne <quote>bruken</quote> av mine plater er helt klart verdifull. "
+"Jeg har begynt en stor prosess hjemme for å rippe alle mine og min "
+"kones CD-er, og lagrer dem i et arkiv.  Dermed kan vi, vet hjelp av "
+"iTunes fra Apple eller et praktfullt program ved navn Andromeda, bygge "
+"ulike spillelister for musikken vår: Bach, Barokk, Kjærlighetssanger, "
+"Kjærlighetssanger til vår kjære&mdash;potensialet er uendelig.  Og ved "
+"å redusere kostnaden med å lage spillelister, har disse teknolgiene "
+"hjulpet til med å bygge en kreativtet rundt psillelister som uavhengig "
+"av dette er verdifull i seg selv.  Samlinger av sanger er kreative og "
+"meningsfylte på egen hånd."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
