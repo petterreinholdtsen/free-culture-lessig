@@ -20251,9 +20251,9 @@ msgstr ""
 "grunn av at det behandler så mange amerikanere som kriminelle.  Jeg "
 "tror det er rimelig å si at fildeling gjelder en størrelsesorden flere "
 "amerikanere enn bruk av narkotika. &hellip; Hvis førti til seksti "
-"millioner amerikanere har blitt lovbrytere, da er vi på usikker grunn "
+"millioner amerikanere har blitt lovbrytere, da er vi på glattisen "
 "der borgerrettighetene for alle disse førti til seksti personene kan "
-"gå tapt."
+"skli vekk."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
