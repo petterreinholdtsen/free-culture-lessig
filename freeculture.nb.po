@@ -15828,7 +15828,6 @@ msgstr ""
 "nærheten."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The anticircumvention provisions of the DMCA target copyright circumvention "
 "technologies. Circumvention technologies can be used for different ends. "
@@ -15837,12 +15836,13 @@ msgid ""
 "particular copyrighted materials in ways that would be considered fair "
 "use&mdash;a good end."
 msgstr ""
-"anticircumvention bestemmelsene i dmca mot opphavsrett omgåelse teknologier. "
-"omgåelse teknologiene kan brukes for ulike ender. de kan brukes, for "
-"eksempel å aktivere massiv pirating av opphavsrettsbeskyttet materiale&mdash;"
-"en dårlig slutt. eller de kan brukes til å aktivere bruken av bestemt "
-"opphavsrettsbeskyttet materiale på måter som vil anses rimelig bruk&mdash;en "
-"god slutt."
+"Målet for antiomgåelsesbestemmelsene i DMCAen er "
+"opphavsrettsomgåelsesteknologier.  Omgåelsesteknologier kan brukes for "
+"andre formål.  De kan for eksempel brukes til å muliggjøre massiv "
+"piratvirksomhet mot opphavsrettsbeskyttet materiale &mdash; et dårlig "
+"formål.  Eller de kan brukes til å muliggjøre bruk av utvalgte "
+"opphavsrettsbeskyttede materiale på måter som ville anses som rimelig "
+"bruk &mdash; et godt formål."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "handguns"
