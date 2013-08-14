@@ -17248,7 +17248,7 @@ msgstr ""
 "rettigheten som det var, eller var ment å være.  Eiendomsretten som utgjør "
 "opphavsrett har blitt ubalansert, med utslag mot et ytterpunkt.  Muligheten "
 "til å skape og omforme blir svekket i en verden der det å skape krever "
-"tilatelse og kreativitet må sjekke med en advokat."
+"tillatelse og kreativitet må sjekke med en advokat."
 
 #. type: Content of: <book><part><title>
 msgid "PUZZLES"
@@ -17517,8 +17517,8 @@ msgstr ""
 "frem på hyllene mine.  (Og når vi først er i gang, bør vi også ta med at når "
 "jeg tar en CD fra Tower Records, så er den maksimale boten jeg kan pådra "
 "meg, i hvert fall i følge loven i California, $1&nbsp;000.  I følge RIAA kan "
-"jeg, derimot, hvis jeg laster ned en ti-sangs CD, bli ansvarlig for "
-"$1&nbsp;500&nbsp;000 i erstatning.)"
+"jeg, derimot, hvis jeg laster ned en CD med ti sanger, bli ansvarlig for "
+"1&nbsp;500&nbsp;000 dollar i erstatning.)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
