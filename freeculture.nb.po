@@ -15820,7 +15820,7 @@ msgid ""
 "This led Conrad to draw the cartoon below, which we can adopt to the DMCA.  "
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Dette fikk Conrad til å tegne humortegningen under, som vi kan også kan ta i "
+"Dette fikk Conrad til å tegne vitsetegningen under, som vi kan også kan ta i "
 "bruk til DMCA. <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -15866,7 +15866,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "VCR/handgun cartoon."
-msgstr "Videospiller/håndvåpen-humortegning"
+msgstr "Videospiller/håndvåpen-vitsetegning"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -15885,7 +15885,7 @@ msgid ""
 "absolutely, despite the potential that they might do some good, but permits "
 "guns, despite the obvious and tragic harm they do."
 msgstr ""
-"Det åpenbare poenget med humortegningen til Conrad er det merkelige med en "
+"Det åpenbare poenget med vitsetegningen til Conrad er det merkelige med en "
 "verden hvor handvåpen er lovlige, på tross av skaden de gjør, mens "
 "videspillere (og omgåelsesteknologier) er ulovlige.  Merk: <emphasis>Ingen "
 "har noen sinne dødd av omgåelse av opphavsretten.</emphasis> Likevel forbyr "
@@ -28927,7 +28927,7 @@ msgid ""
 "Conrad, copyright Tribune Media Services, Inc.  All rights reserved. "
 "Reprinted with permission."
 msgstr ""
-"Humortegningen i <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> er "
+"Vitsetegningen i <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> er "
 "laget av Paul Conrad. Opphavsretten tilhører Tribune Media Services, Inc.  "
 "Alle rettigheter forbeholdt.  Gjengitt med tillatelse."
 
