@@ -14147,17 +14147,17 @@ msgstr ""
 
 #.  f17 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid ""
 "Thus, my argument is not that in each place that copyright law extends, we "
 "should repeal it. It is instead that we should have a good argument for its "
 "extending where it does, and should not determine its reach on the basis of "
 "arbitrary and automatic changes caused by technology."
 msgstr ""
-"Således, mitt argument er ikke at i hvert sett at lov om opphavsrett "
-"utvider, vi bør oppheve den. Det er i stedet at vi bør ha et godt argument "
-"for dens utvidelse der den does, og bør ikke avgjøre sin rekkevidde på "
-"grunnlag av vilkårlig og automatiske endringer forårsaket av teknologi."
+"Dermed er mitt argument at for hvert sted der opphavsrettsloven "
+"utvides så bør vi avvise det.  Det er i stedet at vi bør ha gode "
+"argumenter for dens utvidelse når det gjøres, og bør ikke avgjøre "
+"rekkevidden bassert på vilkårlige og automatiske endringer forårsaket "
+"av teknologi."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15736,7 +15736,6 @@ msgid "Conrad, Paul"
 msgstr "Conrad, Paul"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The bizarreness of these arguments is captured in a cartoon drawn in 1981 by "
 "Paul Conrad. At that time, a court in California had held that the VCR could "
@@ -15747,13 +15746,16 @@ msgid ""
 "in that case that he wanted people to feel free to tape Mr. Rogers' "
 "Neighborhood.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"bizarreness av disse argumentene er fanget i en tegneserie tegnet i 1981 av "
-"paul conrad. på den tiden, en domstol i california hadde holdt at "
-"videoopptakeren kan bli utestengt fordi det var en copyright-krenkende "
-"teknologi: det aktivert forbrukere til å kopiere filmer uten tillatelse fra "
-"eieren av opphavsretten. Det var ingen tvil om bruk av teknologien som var "
-"juridiske: fred rogers, aka \"mr. rogers,\" for eksempel hadde vitnet i så "
-"fall at han ønsket å fremkalle gratis å tape mr. rogers' neighborhood."
+"Særheten i disse argumentene er ble tatt på kornet i en vitsetegning "
+"fra 1981 av Paul Conrad.  På den tiden avgjorde en domstol i "
+"California at en videoopptaker kunne forbys på grunn av at det var "
+"opphavsrettsbrytende teknologi.  Det gjorde det mulig for forbrukere å "
+"kopiere filmer uten tillatelse fra opphavssrettseieren.  Det var ingen "
+"tvil om at det fantes bruksområder for denne teknologien som var "
+"lovlig: For eksempel hadde Fred Rogers, kjent som "
+"<quote><citetitle>Mr. Rogers</citetitle></quote>, vitnet i saken at "
+"han ønsket folk skulle så fritt til å ta opp Mr. Rogers "
+"Neighborhood. <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 #, fuzzy
