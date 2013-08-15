@@ -12320,7 +12320,6 @@ msgstr ""
 "Eller restriksjoner pålagt av en kan bli undergravd av en annen."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "The second point follows directly: If we want to understand the effective "
 "freedom that anyone has at a given moment to do any particular thing, we "
@@ -12330,12 +12329,14 @@ msgid ""
 "regulator (whether controlling or freeing)  must consider how these four in "
 "particular interact."
 msgstr ""
-"det andre punktet følger direkte: Hvis vi ønsker å forstå effektiv friheten "
-"som noen har på et gitt øyeblikk å gjøre noen bestemt ting, vi har til å "
-"vurdere hvordan disse fire metoder samhandler. om det er andre betingelser "
-"(det kan godt være; min påstand er ikke om objektivitet), disse fire er "
-"blant de viktigste, og eventuelle regulator (enten kontroll eller frigjør) "
-"må vurdere hvordan disse fire spesielt samhandle."
+"Det andre poenget følger direkte fra dette: Hvis vi ønsker å forstå "
+"den effektive friheten som enhver har ved et bestemt tidspunkt til å "
+"gjøre en bestmt ting, må vi vurdere hvordan disse fire modalitetene "
+"virker sammen.  Uansett om det er andre begresninger eller ikke (det "
+"kan det godt være, min påstand er ikke at listen er komplett), så er "
+"disse fire blant de viktigste og eventuelle lovendringer (uansett om "
+"den øker kontroll eller øker frihet) må vurdere hvordan disse fire i "
+"særdeleshet virker sammen."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "driving speed, constraints on"
