@@ -12154,9 +12154,8 @@ msgid "four modalities of"
 msgstr "fire modaliteter for"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "as ex post regulation modality"
-msgstr "som ex post regulering modality"
+msgstr "som <quote>ex post</quote> modalitetsregulering"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as constraint modality"
@@ -12279,7 +12278,6 @@ msgid "architecture, constraint effected through"
 msgstr "arkitektur, begrensninger med opphav i"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "Finally, and for the moment, perhaps, most mysteriously, "
 "<quote>architecture</quote>&mdash;the physical world as one finds it&mdash;"
@@ -12294,17 +12292,21 @@ msgid ""
 "enforces this constraint. If a $500 airplane ticket stands between you and a "
 "flight to New York, it is the market that enforces this constraint."
 msgstr ""
-"til slutt, og for øyeblikket, kanskje mest mysteriously \"arkitektur\"&mdash;"
-"den fysiske verden som en finner den&mdash;er en begrensning på atferd. en "
-"falne bro kan begrense din evne til å komme over en elv. Railroad tracks kan "
-"begrense evnen til et fellesskap for å integrere sin sosiale liv. som med "
-"markedet, påvirker ingen arkitektur betingelsen gjennom ex post straffene. i "
-"stedet, også som med markedet, arkitektur effekter betingelsen gjennom "
-"samtidige forhold. disse betingelsene er pålagt ikke av domstolene håndheve "
-"kontrakter, eller av politiet straffe tyveri, men av natur, \"arkitektur.\" "
-"Hvis en 500-pund kampestein blokkerer deg, det er lov av tyngdekraften som "
-"gjennomfører denne betingelsen. Hvis en $500 flybillett står mellom deg og "
-"et fly til new york, er det markedet som håndhever denne betingelsen."
+"Til slutt og kanskje for økeblikket det mest mysiske, "
+"<quote>arkitektur</quote>&mdash;den fysiske verden slik en "
+"oppleves&mdash;er en begresning på adferd.  En nedrast bro kan "
+"begrense din mulighet til å komme over en elv.  Jernbanespor kan "
+"begrense et fellesskaps mulighet til å holde ved like sammen sitt "
+"sosiale liv.  På samme måte som med markedet, påfører ikke "
+"arkitekturen sine begresninger via <quote>ex post</quote> straff.  I "
+"stedet, også på samme måte som med markedet, påfører arkitektur sine "
+"begresninger tjennom samtidige betingelser.  Disse betingelsene blir "
+"ikke handhevet av domstolene som handhever okntrakter eller av "
+"politiet som straffer tyveri, men av naturen, av "
+"<quote>arkitektur</quote>.Hvis en 200 kilos steinblokk som sperrer "
+"veien din, så er det gravitasjonsloven som håndhever den begresningen. "
+"Hvis en 500 dollars flybillett står mellom deg og en flytur til New "
+"York, så er det markedet som håndhever den begresningen."
 
 #.  PAGE BREAK 134 
 #. type: Content of: <book><part><chapter><para>
