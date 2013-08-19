@@ -12591,7 +12591,6 @@ msgid "MP3s"
 msgstr "MP3-er"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Enter the Internet, or, more precisely, technologies such as MP3s and p2p "
 "sharing. Now the constraint of architecture changes dramatically, as does "
@@ -12600,11 +12599,12 @@ msgid ""
 "warriors, at least) of life before the Internet becomes an effective state "
 "of anarchy after the Internet."
 msgstr ""
-"Angi Internett eller, mer presist, teknologier som MP3-er og p2p fildeling. "
-"nå begrensningen av arkitektur endres dramatisk, som gjør begrensningen av "
-"markedet. og som både markedet og arkitektur kan du slappe av med regulering "
-"av copyright, normer haug på. happy saldoen (for krigere, minst) av livet "
-"før Internett blir en effektiv stat av anarchy etter Internett."
+"Så kommer Internettet, eller mer presist, teknologier som MP3-er og "
+"p2p-fildeling.  Nå endrer begresningene fra arkitektur seg dramatisk, "
+"og det samme gjør begresningene fra markedet.  Og etter hvert som både "
+"markedet og arkitekturen roer ned sin regulering av opphavsrett, hoper "
+"normene seg opp.  Den glade balansen (i hvert fall for krigerne) i "
+"livet før Internettet blir en effektiv anarkistat etter Internettet."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "technology"
@@ -12616,7 +12616,6 @@ msgstr "etablert industri truet av endringer i"
 
 #.  PAGE BREAK 137 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Thus the sense of, and justification for, the warriors' response.  "
 "Technology has changed, the warriors say, and the effect of this change, "
@@ -12625,11 +12624,12 @@ msgid ""
 "of Saddam, but this time no government is justifying the looting that "
 "results."
 msgstr ""
-"Således følelse av, og den begrunnelsen for warriors' svar. teknologi er "
-"endret, krigere, sier, og effekten av denne endringen, når ramified gjennom "
-"markedet og normer, er at en balanse av beskyttelse for opphavsrett eiernes "
-"rettigheter har gått tapt. Dette er Irak etter fallet av saddam, men denne "
-"gangen ingen regjering er rettferdiggjørende looting resultater."
+"Dermed fornuftien i, og begrunnelsen for, krigernes svar. "
+"Teknologien er endret, sier krigerne, og effekten av denne endringen "
+"når den kjøres igjennom markedet og normene, er at balansen i "
+"beskyttelsen for opphavsrettseierenes rettigheter har gått tapt. "
+"Dette er Irak etter Saddams fall, men denne gangen er det ingen "
+"regjering som rettferdiggjør ranet som fulgte."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "effective state of anarchy after the Internet."
@@ -12648,12 +12648,10 @@ msgid "Commerce, U.S. Department of"
 msgstr "Handelsdepartementet, USAs"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "as establishment protectionism"
-msgstr "som etablering proteksjonistisk"
+msgstr "som beskyttelse av det etablerte"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Neither this analysis nor the conclusions that follow are new to the "
 "warriors. Indeed, in a <quote>White Paper</quote> prepared by the Commerce "
@@ -12665,15 +12663,17 @@ msgid ""
 "(3) technologists should push to develop code to protect copyrighted "
 "material, and (4) educators should educate kids to better protect copyright."
 msgstr ""
-"Denne analysen verken konklusjonene som følger er en ny warriors. faktisk i "
-"en \"hvitbok\" utarbeidet av commerce department (en sterkt påvirket av "
-"opphavsrett warriors) i 1995, denne blandingen av regulatoriske modaliteter "
-"hadde allerede identifisert og strategi for å svare allerede tilordnet. svar "
-"på endringene Internett hadde berørt, hevdet den tekniske beskrivelsen (1) "
-"Kongressen bør styrke lovgivning for immaterielle, (2) bedrifter skal vedta "
-"innovativ markedsføring teknikker, (3) Teknologorganisasjon push for å "
-"utvikle kode for å beskytte opphavsrettsbeskyttet materiale og (4) lærere "
-"skal utdanne barn å bedre beskytte opphavsretten."
+"Hverken denne analysen eller konklusjonene som følger av den er nye "
+"for krigerne.  Faktisk ble denne miksen av regulatoriske modaliteter, "
+"i en <quote>hvitbok</quote> utarbeidet av handelsdepartementet (et "
+"sterkt påvirket av opphavsrettskrigerne) i 1995, allerede identifisert "
+"og strategien for å respondere den gang kartlagt.  Som svar på "
+"endringene som Internettet hadde ført til, argumenterte hvitboken (1) "
+"Kongressen burde styrke immateriallovene, (2) bedrifter burde ta i "
+"bruk nyskapende markedsføringsteknikker, (3) teknologer burde "
+"anstrenge seg for å utvikle kode som beskyttet opphavsrettsbeskyttet "
+"materiale og (4) lærer burde lære opp unger til å beskytte "
+"opphavsretten bedre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "farming"
