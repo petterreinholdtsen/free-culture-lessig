@@ -12529,9 +12529,8 @@ msgid "Why Hollywood Is Right"
 msgstr "Hvorfor Hollywood har rett"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "four regulatory modalities on"
-msgstr "fire regulatoriske modaliteter på"
+msgstr "fire regulatoriske modaliteter til"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13290,9 +13289,8 @@ msgid "Copyright Act (1790)"
 msgstr "Opphavsrettslov (1790)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "common law protections of"
-msgstr "komponister, copyright beskyttelse av"
+msgstr "sedvanerettsbeskyttelse av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 #, fuzzy
@@ -13777,7 +13775,6 @@ msgstr "registreringskrav for"
 
 #.  PAGE BREAK 148 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "At the same time that the scope of copyright has expanded, procedural "
 "limitations on the right have been relaxed. I've already described the "
@@ -13790,15 +13787,16 @@ msgid ""
 "copyright law, there was a requirement that works be deposited with the "
 "government before a copyright could be secured."
 msgstr ""
-"på samme tid som har utvidet omfanget av copyright, er fremgangsmåter for "
-"begrensninger til høyre avslappet. Jeg har allerede beskrevet fullstendig "
-"fjerning av kravet om fornyelse i 1992. i tillegg til fornyelse behovet, for "
-"det meste av historien til amerikansk lov om opphavsrett, det var et krav at "
-"et arbeid registreres før den kan motta beskyttelse av opphavsretten. Det "
-"var også et krav at opphavsrettsbeskyttet arbeid merkes enten med det "
-"berømte © eller word-copyright. og for de fleste av historien til amerikansk "
-"lov om opphavsrett, det var et krav at works settes med regjeringen før "
-"opphavsretten som kan sikres."
+"Mens omfanget av opphavsretten har utvidet seg, har *prosedyrale* "
+"begresninger på retten blitt slakket på.  Jeg har allerede beskrevet "
+"den fullstendige fjerningen av fornyelseskravet i 1992.  I tillegg til "
+"fornyelseskravet var det, i det meste av historien til USAs "
+"opphavsrettslov, et krav om at et erk måtte registreres før det kunne "
+"nyte godt av opphavsrettsbeskyttelsen.  Det var også et krav om at "
+"ethvert opphavsrettsbeskyttet verk enten måtte merkes med det berømte "
+"&copy; eller ordet <emphasis>copyright</emphasis>.  For mesteparten av "
+"historien til USAs opphavsrettslov var det også et krav at verket ble "
+"innlevert til myndighetene før en opphavsrett kunne sikres."
 
 #. type: Content of: <book><part><chapter><section><para>
 #, fuzzy
