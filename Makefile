@@ -130,7 +130,9 @@ update-stats: freeculture.nb.po lint.nb
 	( \
 	printf "%s " $$(date +"%Y-%m-%dT%H%M") ; \
 	msgfmt -o /dev/null --statistics freeculture.nb.po 2>&1 \
-	) | tee -a stats.txt
+	) \
+	  | sed -e 's/translated messages/oversatte meldinger/' -e 's/fuzzy translations/antatte oversettelser/' -e 's/untranslated messages/oversatte meldinger/' \
+	  | tee -a stats.txt
 progress.png: stats.txt progress.gnuplot
 	awk '{print $$1, $$2, $$5, $$8}' < stats.txt > stats.csv
 	gnuplot progress.gnuplot
