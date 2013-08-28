@@ -14288,7 +14288,6 @@ msgstr ""
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "These are uses that themselves involve copying, but which the law treats as "
 "unregulated because public policy demands that they remain unregulated.  You "
@@ -14299,14 +14298,15 @@ msgid ""
 "over such <quote>fair uses</quote> for public policy (and possibly First "
 "Amendment) reasons."
 msgstr ""
-"disse er bruker at selv innebære kopiering, men som det lov behandler som "
-"unregulated fordi public policy krever at de forblir unregulated. du er fri "
-"til å sitere fra denne boken, selv i en gjennomgang som er ganske negativ, "
-"uten min tillatelse, selv om den sitere lager en kopi. Denne kopien vil "
-"vanligvis gi eieren av opphavsretten eksklusiv rett til å si om kopien er "
-"tillatt eller ikke, men loven fornekter eieren av en eksklusiv rett over "
-"slike \"fair bruker\" for offentlig politikk (og muligens first endring) "
-"grunner."
+"Disse er bruksmåter som selv innebærer kopiering, men som loven "
+"behandler som ikke er regulert fordi *public policy* krever at de "
+"forblir uregulert.  Du står fritt til å sitere fra denne boken, selv i "
+"en anmeldelse som er ganske negativ, uten min tillatelse, selv om "
+"sitering lager en kopi.  Den kopien ville normalt gi "
+"opphavsrettseieren eksklusiv rett til å si hvorvidt kopien er tillatt "
+"eller ikke, men loven nekter eieren enhver eksklusiv rett over slik "
+"<quote>rimelig bruk</quote> av *public policy* (og muligens første "
+"grunnlovstilleggs)-grunner."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "Unregulated copying considered <quote>fair uses.</quote>"
@@ -14353,9 +14353,8 @@ msgid "on Internet"
 msgstr "på internet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "Internet burdens on"
-msgstr "Internett byrder på"
+msgstr "Internett-byrder på"
 
 #.  f18 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -21492,9 +21491,8 @@ msgid "Laurel and Hardy Films"
 msgstr "Helan og Halvan-filmene"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "Lucky Dog, The"
-msgstr "heldig hunden, den"
+msgstr "Lucky Dog, The"
 
 #.  f11. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
