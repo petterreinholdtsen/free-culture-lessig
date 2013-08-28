@@ -15719,7 +15719,6 @@ msgstr ""
 "et system for opphavsrettsbeskyttelse var omgikk."
 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "The threat against Felten was more attenuated, but it followed the same line "
 "of reasoning. By publishing a paper describing how a copyright protection "
@@ -15728,12 +15727,13 @@ msgid ""
 "himself infringing anyone's copyright, his academic paper was enabling "
 "others to infringe others' copyright."
 msgstr ""
-"trusselen mot felten mer ble oppveid, men det fulgte den samme linjen med "
-"resonnement. ved å publisere en papir som beskriver hvordan et system for "
-"opphavsrettsbeskyttelse kan circumvented, riaa advokat foreslått, felten "
-"selv var distribuere en omgåelse-teknologi. Således, selv om han ikke var "
-"selv krenker andres opphavsrett, hans akademiske papir var aktivere andre "
-"til å krenke andres opphavsrett."
+"Trusselen mot Felten var mer dempet, men fulgte det samme "
+"resonementet.  Ved å publisere en artikkel som beskrev hvordan en "
+"kunne komme seg rundt et opphavsrettsbeskyttelses-system, distribuerte "
+"Felten selv, i følge RIAAs advokat, en teknologi for å omgå "
+"opphavsretten.  Dermed, selv om han ikke selv brøt noens opphavsrett, "
+"gjorde hans akademiske artikkel det mulig for andre å bryte andres "
+"opphavsrett."
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Rogers, Fred"
@@ -18226,9 +18226,8 @@ msgid "innovation hampered by"
 msgstr "nyskapning hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "industry establishment opposed to"
-msgstr "industrien etablering motsetning til"
+msgstr "etablert industri mot"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
