@@ -13098,9 +13098,8 @@ msgid "copyright purpose established in"
 msgstr "opphavsrettsformål som er etablert i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "Progress Clause of"
-msgstr "fremdrift-setningsdelen i"
+msgstr "Fremskritts-bestemmelsen i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional purpose of"
@@ -13111,9 +13110,8 @@ msgid "constitutional tradition on"
 msgstr "konstitusjonell tradisjon med"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "Progress Clause"
-msgstr "handel-setningsdelen i"
+msgstr "Fremskritts-bestemmelsen"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13128,9 +13126,8 @@ msgstr ""
 "engelske mål om å unngå for mektige utgivere."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "in constitutional Progress Clause"
-msgstr "konstitusjonelle formålet med"
+msgstr "i grunnlovens Fremskritts-bestemmelse"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13158,10 +13155,10 @@ msgstr ""
 "Kongressen har myndighet til å fremme utviklingen av vitenskap og nyttig "
 "kunst ved å sikre forfattere og oppfinnere, i et begrenset tidsrom, "
 "eksklusive rettigheter til sine respektive skrifter og oppdagelser.  Vi "
-"kaller dette <quote>fremgangsdelen</quote>, på grunn av det denne "
-"setningsdelen ikke sier.  Den sier ikke at Kongressen har myndighet til å "
+"kaller dette <quote>Fremskritts-bestemmelsen</quote>, på grunn av det denne "
+"bestemmelsen ikke sier.  Den sier ikke at Kongressen har myndighet til å "
 "dele ut <quote>kreative eiendomsretter</quote>.  Den sier at Kongressen har "
-"myndighet til å <emphasis>fremme fremgang</emphasis>.  Tildeling av "
+"myndighet til å <emphasis>fremme fremskritt</emphasis>.  Tildeling av "
 "myndighet er dets formål, og dets formål er for fellesskapet, ikke formålet "
 "med å gjøre berike utgivere, og formålet er heller ikke hovedsaklig å "
 "belønne forfattere."
@@ -20663,7 +20660,7 @@ msgid ""
 msgstr ""
 "Det var her jeg ble involvert i Eldreds kamp.  Jeg var en grunnlovsforsker "
 "hvis første lidenskap var grunnlovstolkning.  Og selv om grunnlovskursene "
-"aldri fokuserer på <quote>fremgangs-delen</quote> av grunnloven, så har det "
+"aldri fokuserer på <quote>Fremskritts-bestemmelsen</quote> av grunnloven, så har det "
 "at den er forskjellig fra resten alltid slått meg som viktig.  Som du vet "
 "sier grunnloven følgende,"
 
@@ -22270,7 +22267,7 @@ msgstr ""
 "kraftfylt notat om kostnaden ved usikkerhet fra Intel.  Det var notater fra "
 "to jussprofessorer, et fra en opphavsrettsakademiker og et fra første "
 "grunnlovstillegg-akademikere. Det var et uttømmende og uomtvistet notat fra "
-"verdens ekspert på historien til *the progress clause*.  Og naturligvis var "
+"verdens ekspert på historien til Fremskritts-bestemmelsen.  Og naturligvis var "
 "det et notat fra Eagle Forum, som gjentok og styrket deres argument."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
@@ -22700,7 +22697,7 @@ msgstr ""
 "<citetitle>Lopez</citetitle>-saken, så ville Kongressen i følge "
 "regjeringens argumentasjon alltid ha ubegrenset makt til å utvide "
 "eksisterende vernetid.  Hvis noe var klart om Kongressens makt i "
-"henhold til *the progress clause*, så var det at makten var ment å "
+"henhold til Fremskritts-bestemmelsen, så var det at makten var ment å "
 "være <quote>begrenset</quote>.  Vår måtte mål ville være å få retten "
 "til å avstemme <citetitle>Eldred</citetitle> med "
 "<citetitle>Lopez</citetitle>: Hvis Kongressens makt til å regulere "
@@ -23358,7 +23355,6 @@ msgstr ""
 
 #.  PAGE BREAK 251 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "Here, they had joined an opinion that never once tried to explain what the "
 "framers had meant by crafting the Progress Clause as they did; they joined "
@@ -23371,16 +23367,18 @@ msgid ""
 "yielded a result that they liked. It did not produce a reason that was "
 "consistent with their own principles."
 msgstr ""
-"her, de hadde med seg en oppfatning at aldri en gang prøvde å forklare hva "
-"underskrev hadde menes med laging setningsdelen fremgang som de gjorde; de "
-"sluttet seg en oppfatning at aldri en gang forsøkt å forklare hvordan "
-"strukturen i som ledd vil påvirke tolkningen av Kongressens makt. og de med "
-"seg en mening som ikke engang forsøke å forklare hvorfor dette stipendet av "
-"makt kan være ubegrenset, mens handel-setningsdel ville være begrenset. kort "
-"sagt, hadde de sluttet en uttalelse som ikke gjelde, og var inkonsekvent med "
-"sin egen metode for tolking av Grunnloven. denne mening kan også har gitt et "
-"resultat som de likte. det ikke produsere en grunn som var i samsvar med sin "
-"egen prinsipper."
+"Her hadde de samlet seg om en uttalelse som ikke en eneste gang "
+"forsøkte å forklare hva grunnlovsforfatterne hadde ment ved å utforme "
+"Fremskritts-bestemmelsen slik de gjorde.  De ble med på en uttalelse "
+"som aldri forsøkte å forklare hvordan strukturene til denne "
+"bestemmelsen ville påvirke tolkningen av Kongressens myndighet.  Og de "
+"ble med på en uttalelse som ikke engang forsøker å forklare hvorfor "
+"denne tildeling av myndighet kunne være ubegrenset, mens "
+"Handelsbestemmelsen ville være begrenset.  Kort sagt, de hadde blitt "
+"med på en uttalelse som i ikke ble anvendt på, og var inkonsistent "
+"med, deres egen metode for å tolke Grunnloven.  Denne uttalelsen ga "
+"muligens et resultat som de likte.  Men den ga ikke en begrunnelse som "
+"var konsisten med deres egne prinsipper."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
