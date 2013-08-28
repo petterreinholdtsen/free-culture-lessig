@@ -14213,9 +14213,8 @@ msgid "copyright applicability altered by technology of"
 msgstr "opphavsrett anvendbarhet endret av teknologien i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "copyright intent altered by"
-msgstr "opphavsrett hensikt endret av"
+msgstr "opphavsretthensikten endret av"
 
 #.  PAGE BREAK 152 
 #. type: Content of: <book><part><chapter><section><para>
@@ -20614,9 +20613,8 @@ msgstr ""
 "quote>.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "felony punishment for infringement of"
-msgstr "forbrytelse straff for krenkelse av"
+msgstr "forbryterstraff for krenkelse av"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "NET (No Electronic Theft) Act (1998)"
@@ -20627,9 +20625,8 @@ msgid "No Electronic Theft (NET) Act (1998)"
 msgstr "Nei til Elektronisk Tyveri(NET)-loven (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "felony punishments for"
-msgstr "forbrytelse straffer for"
+msgstr "forbryterstraff for"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21155,6 +21152,17 @@ msgid ""
 "principle applied to the power to grant copyrights should entail that "
 "Congress is not allowed to extend the term of existing copyrights."
 msgstr ""
+"Hvis det er et prinsipp som anvendes her, så bør det være like gyldig "
+"for fremgangs-bestemmelsen som for Handels-bestemmelsen.<placeholder "
+"type=\"footnote\" id=\"0\"/> Og hvis det anvendes på "
+"Fremgangs-bestemmelsen, bør prinsippe føre til konklusjonen at "
+"Kongressen ikke kan utvide en eksisternede vernetid.  Hvis Kongressen "
+"kan utvide en eksisterende vernetid, så finnes det intet "
+"<quote>stopp-punkt</quote> for Kongressens myndighet over vernetiden, "
+"selv om grunnloven klart sier at det er en slik grense.  Dermed, hvis "
+"det samme prinsippet anvendes på myndigheten til å dele ut "
+"opphavsretter burde det gjøre at Kongressen ikke får lov til å utvide "
+"vernetiden til eksisterende opphavsretter."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22380,9 +22388,8 @@ msgstr ""
 "første endring strategi; og endelig, tidligere advokat general charles stekt."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
-#, fuzzy
 msgid "Commerce Clause of"
-msgstr "handel-setningsdelen i"
+msgstr "Handels-bestemmelsen i"
 
 #. type: Content of: <book><part><chapter><para>
 #, fuzzy
@@ -23217,8 +23224,8 @@ msgid ""
 msgstr ""
 "Men etter hvert som jeg innså hva som hadde skjedd, så kunne jeg ikke helt "
 "tro det jeg leste.  Jeg hadde sagt at det ikke var mulig for domstolen å "
-"avstemme begrenset myndighet for handels-bestemmelsen og ubegrenset "
-"myndighet for fremgangs-bestemmelsen.  Det hadde aldri slått meg at de kunne "
+"avstemme begrenset myndighet for Handels-bestemmelsen og ubegrenset "
+"myndighet for Fremgangs-bestemmelsen.  Det hadde aldri slått meg at de kunne "
 "avstemme de to ved å ganske enkelt <emphasis>ikke bry seg om argumentet</"
 "emphasis>.  Det var ingen manglende konsistens ganske enkelt fordi de lot "
 "være å omtale de to sammen.  Det var dermed ikke noe prinsipp som fulgte fra "
