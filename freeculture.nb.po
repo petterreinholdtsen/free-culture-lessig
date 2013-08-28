@@ -11517,7 +11517,6 @@ msgstr ""
 "informere selv om informasjonen ikke lenger blir solgt."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> Dave Barns, <quote>Fledgling "
 "Career in Antique Books: Woodstock Landlord, Bar Owner Starts a New Chapter "
@@ -11529,17 +11528,12 @@ msgid ""
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> Dave Barns, <quote>Fledgling "
 "Career in Antique Books: Woodstock Landlord, Bar Owner Starts a New Chapter "
-"by Adopting Business,</quote> <citetitle>Chicago Tribune</citetitle>, 5. "
-"september 1997, ved Metro Lake 1L. For bøker publisert mellom 1927 og 1946, "
-"var kun 2,2 prosent fortsatt tilgjengelig fra forlaget 2002. R. Anthony "
-"Reese, <quote>The First Sale Doctrine in the Era of Digital Networks,</"
-"quote> <citetitle>Boston College Law Review</citetitle> 44 (2003): 593 n. 51."
-"Dave barns, \"fledgling karriere i antikke bøker: woodstock utleier, bar "
-"eier starter et nytt kapittel ved å innta virksomhet,\" chicago tribune, 5 "
-"september 1997, på t lake 1 l. bøker publisert mellom 1927 og 1946, bare 2,2 "
-"prosent var i Skriv ut i 2002. r. anthony reese, \"den første salg doktrinen "
-"i tid med digitale nettverk,\" boston college lov gå gjennom 44 (2003): 593 "
-"n. 51."
+"by Adopting Business,</quote> <citetitle>Chicago Tribune</citetitle>, 5 "
+"september 1997, ved Metro Lake 1L. Av bøker publisert mellom 1927 og 1946 "
+"var kun 2.2 prosent fortsatt tilgjengelig fra forlaget i "
+"2002. R. Anthony Reese, <quote>The First Sale Doctrine in the Era of "
+"Digital Networks,</quote> <citetitle>Boston College Law "
+"Review</citetitle> 44 (2003): 593 n. 51."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12871,9 +12865,8 @@ msgid "speech, freedom of"
 msgstr "talefrihet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "constitutional guarantee of"
-msgstr "konstitusjonelle garanti for"
+msgstr "konstitusjonell garanti for"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14215,7 +14208,6 @@ msgstr "opphavsretthensikten endret av"
 
 #.  PAGE BREAK 152 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "Think about a book in real space, and imagine this circle to represent all "
 "its potential <emphasis>uses</emphasis>. Most of these uses are unregulated "
@@ -14228,17 +14220,19 @@ msgid ""
 "lamp or let your puppy chew it up, those acts are not regulated by copyright "
 "law, because those acts do not make a copy."
 msgstr ""
-"Tenk på en bok i virkelige rommet, og tenke denne sirkelen til å "
-"representere alle dens potensial bruker. de fleste av disse bruksområdene er "
-"unregulated ved lov om opphavsrett, fordi bruker ikke opprette en kopi. Hvis "
-"du leser en bok, er ikke det handle regulert av lov om opphavsrett. Hvis du "
-"gir noen boken, er ikke det handle regulert av lov om opphavsrett. Hvis du "
-"selge en bok, loven er ikke regulert (lov om opphavsrett uttrykkelig sier at "
-"etter første salg av en bok, eieren av opphavsretten kan pålegge uten "
-"ytterligere betingelser om tilstanden i boken). Hvis du sove på boken eller "
-"bruke den til å holde opp en lampe eller la din valp tygge den opp, vil ikke "
-"disse handlinger er regulert av lov om opphavsrett, fordi disse handlinger "
-"ikke gjør en kopi."
+"Tenk på en bok i den virkelige verden, og forestill deg at denne "
+"sirkelen representerer alle potensielle "
+"<emphasis>bruksmåter</emphasis>.  De fleste av disse bruksmåtene er "
+"ikke regulert av åndsverksloven, fordi bruken ikke skaper et "
+"eksemplar.  Hvis du leser en bok så er den handlingen ikke regulert av "
+"åndsverkloven.  Hvis du gir noen boken så er den handlingen ikke "
+"regulert av åndsverkloven.  Hvis du selger boken brukt, så er ikke "
+"dette regulert (åndsverksloven sier uttrykkelig at etter det første "
+"salget av en bok kan opphavsrettseieren ikke stille ytteligere "
+"betingelser til hvordan boken håndteres).  Hvis du sover på boken "
+"eller bruker den til å holde oppe en lampe, eller lar valpen din tygge "
+"den opp, så er dette bruksmåter som ikke er regulert av "
+"åndsverksloven, da de ikke lager en kopi."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
 msgid "Examples of unregulated uses of a book."
