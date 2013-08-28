@@ -1,11 +1,13 @@
-# Free Culture
-# Copyright (C) 2004 Lawrence Lessig
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-08-03 22:41+0300\n"
+"POT-Creation-Date: 2013-08-28 23:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,8 +220,8 @@ msgstr ""
 #. type: Content of: <book><dedication><para>
 #: freeculture.xml:168
 msgid ""
-"To Eric Eldred&mdash;whose work first drew me to this cause, and for whom it "
-"continues still."
+"To Eric Eldred &mdash; whose work first drew me to this cause, and for whom "
+"it continues still."
 msgstr ""
 
 #. type: Content of: <book><lot><title>
@@ -2256,7 +2258,7 @@ msgid ""
 "flourish. As American graphic novelist Judd Winick said to me, <quote>The "
 "early days of comics in America are very much like what's going on in Japan "
 "now. &hellip; American comics were born out of copying each other. &hellip; "
-"That's how [the artists] learn to draw&mdash;by going into comic books and "
+"That's how [the artists] learn to draw &mdash; by going into comic books and "
 "not tracing them, but looking at them and copying them</quote> and building "
 "from them.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
@@ -2372,9 +2374,9 @@ msgid ""
 "<citetitle>Copyrights and Copywrongs</citetitle>, 11 (New York: New York "
 "University Press, 2001). See also Lawrence Lessig, <citetitle>The Future of "
 "Ideas</citetitle> (New York: Random House, 2001), 293 n. 26. The term "
-"accurately describes a set of <quote>property</quote> "
-"rights&mdash;copyright, patents, trademark, and trade-secret&mdash;but the "
-"nature of those rights is very different."
+"accurately describes a set of <quote>property</quote> rights &mdash; "
+"copyright, patents, trademark, and trade-secret &mdash; but the nature of "
+"those rights is very different."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
