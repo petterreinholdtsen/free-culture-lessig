@@ -23358,7 +23358,6 @@ msgstr ""
 
 #.  PAGE BREAK 252 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "As I read back over the transcript from that argument in October, I can see "
 "a hundred places where the answers could have taken the conversation in "
@@ -23375,20 +23374,22 @@ msgid ""
 "with the passion I had used elsewhere. It was not the basis on which a court "
 "should decide the issue."
 msgstr ""
-"som jeg leste tilbake over transkripsjon fra argumentet i oktober, kan jeg "
-"se hundre steder der svarene kan ha tatt samtalen i forskjellige retninger, "
-"der sannheten om skade som denne ukontrollert makt vil forårsake kunne vært "
-"gjort klart til denne retten. rettferdighet kennedy i god tro ville være "
-"vist. Jeg, idiotically, rettet opp sine spørsmål. rettferdighet souter i god "
-"tro ville være vist den første endringen skader. Jeg, reframed som en "
-"matematikk-lærer spørsmål for å gjøre det logiske punktet. Jeg hadde vist "
-"dem hvordan de kunne streik denne lov av Kongressen hvis de ville. Det var "
-"en hundre steder hvor jeg kunne ha hjulpet dem vil, men min vrangvilje, mine "
-"nektet å gi i, stoppet meg. Jeg har stått før hundrevis av målgrupper prøver "
-"å overtale; Jeg har brukt lidenskap i at forsøk på å overtale; men jeg "
-"nektet å stå denne målgruppen og prøver å overtale med lidenskap jeg hadde "
-"brukt et annet sted. Det var ikke grunnlag som en domstol bør avgjøre "
-"problemet."
+"Når jeg igjen leser igjennom avskriften fra argumentasjonen i "
+"oktober, ser jeg hundrevis av plasser hvor svarene kunne ha tatt "
+"samtalen i andre retninger, hvor sannheten om skaden som denne "
+"ukontrollerte myndigheten ville forårsake kunne vært klargjort for "
+"domstolen.  Dommer Kennedy ønsket i god tro å bli vist dette.  Jeg, "
+"idiotisk nok, korrigerte spørsmålet hans.  Dommer Souter wille i god "
+"tro bli vist skadene relatert til Første grunnlovstillegg.  Jeg, som "
+"en mattelærer, omrammet spørsmålet for å legge frem et logisk poeng. "
+"Jeg hadde vist dem hvordan de kunne slå den på denne loven hvis de "
+"ønsket det.  Det var hundrevis av steder hvor jeg kunne ha hjulpet dem "
+"til å ønske det, men min vrangvilje, at jeg aldri ga meg, hindret meg. "
+"Jeg hadde stått foran hundrevis av publikum og forsøkt å overtale dem. "
+"Jeg hadde brukt lidenskap i mitt forsøk på å overtale, men jeg nektet "
+"å stå foran dette publikumet og forsøke å overtale dem med den "
+"lidenskapen jeg hadde brukt andre steder.  Det var ikke på et slikt "
+"grunnlag en domstol skulle avgjøre saken."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24859,9 +24860,8 @@ msgid "biomedical research"
 msgstr "biomedisinsk forskning"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
-#, fuzzy
 msgid "international organization on issues of"
-msgstr "internasjonal organisasjon om saker av"
+msgstr "internasjonal organisasjon for saker om"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "IBM"
