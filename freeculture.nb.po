@@ -192,6 +192,9 @@ msgid ""
 "\">1-59420-006-8</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid>"
 msgstr ""
+"  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
+"\">1-59420-006-8</biblioid> <biblioid class=\"libraryofcongress"
+"\">2003063276</biblioid>"
 
 #. type: Content of: <book><dedication><para>
 msgid "You can buy a copy of this book by clicking on one of the links below:"
@@ -8443,7 +8446,7 @@ msgstr "Plateartister"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Nothing"
@@ -22450,7 +22453,6 @@ msgstr ""
 "effektuere denne kontrollen."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "This argument made clear a theme that is rarely noticed in this debate.  "
 "When Congress decides to extend the term of existing copyrights, Congress is "
@@ -22463,16 +22465,17 @@ msgid ""
 "speak in a certain way, that's just what the First Amendment is "
 "traditionally meant to block."
 msgstr ""
-"Dette argumentet gjort klart et tema som er sjelden merke i denne debatten. "
-"Når Kongressen beslutter å forlenge eksisterende opphavsrettigheter, gjør "
-"Kongressen et valg om hvilke høyttalere det prioriteres. berømte og elskede "
-"opphavsrett eiere, for eksempel gershwin eiendom og dr. seuss, komme til "
-"Kongressen og si, \"gi oss tjue år å kontrollere tale om disse ikonene av "
-"den amerikanske kulturen. Vi vil gjøre bedre med dem enn noen andre."
-"\"Kongressen liker selvfølgelig å belønne de populære og berømte ved å gi "
-"dem det de ønsker. men når Kongressen gir folk en eksklusiv rett til å "
-"snakke på en bestemt måte, det er akkurat hva den første endringen er "
-"tradisjonelt ment å blokkere."
+"Dette argumentet gjorde klart et tema som sjelden blir lagt merke til "
+"i denne debatten.  Når Kongressen beslutter å forlenge vernetiden til "
+"eksisterende opphavsretter, så gjør Kongressen et valg om hvilke "
+"talere dem gir fordeler.  Berømte og elskede opphavsrettseiere, slik "
+"som Gershwin-boet og Dr. Seuss, kommer til Kongressen og sier "
+"<quote>Gi oss tjue år til å kontrollere talen om disse Amerikanske "
+"kultur-ikonene.  Vi vill gjøre en bedre jobb enn noen andre.</quote> "
+"Kongressen liker naturligvis å belønne de populære og berømte ved å gi "
+"dem det de ønsker.  Men når Kongressen gir folk en eksklusiv rett til "
+"å snakke på en bestemt måte, så er det akkurat det Første "
+"grunnlovstillegg tradisjonelt er ment å blokkere."
 
 #. type: Content of: <book><part><chapter><para>
 #, fuzzy
