@@ -23268,12 +23268,10 @@ msgstr ""
 "kurerte ikke depresjonen.  Sinnet gikk i to retninger."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "originalism"
-msgstr "originalism"
+msgstr "orginalisme"
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "It was first anger with the five <quote>Conservatives.</quote> It would have "
 "been one thing for them to have explained why the principle of "
@@ -23287,16 +23285,19 @@ msgid ""
 "produced <citetitle>Lopez</citetitle> and many other <quote>originalist</"
 "quote> rulings. Where was their <quote>originalism</quote> now?"
 msgstr ""
-"Det var første sinne på fem \"konservative.\" det ville ha vært en ting for "
-"dem å har forklart hvorfor prinsippet om lopez ikke bruk i dette tilfellet. "
-"ikke som ville vært et veldig overbevisende argument, jeg ikke tror, etter å "
-"ha lest det gjort av andre, og at de hadde prøvd å gjøre det selv. men i "
-"alle fall ville det ha vært en handling av integritet. disse to andre "
-"justiariusene spesielt har gjentatte ganger sagt at riktig tolke Grunnloven "
-"er \"originalism\"&mdash;å først forstå underskrev tekst, tolkes i sin "
-"sammenheng, i lys av strukturen av Grunnloven. Denne metoden hadde produsert "
-"lopez og mange andre \"originalist\" rulings. hvor var deres \"originalism\" "
-"nå?"
+"Det var først sinne mot de fem <quote>Konservative</quote>.  Det "
+"ville vært en ting om de hadde forklart hvorfor prinsippet i "
+"<citetitle>Lopez</citetitle> ikke skulle anvendes i dette tilfellet. "
+"Jeg tror ikke det ville ikke vært et veldig overbevisende argument, "
+"etter å ha lest det fremmet av andre, og forsøkt å fremføre det selv. "
+"Men det ville i hvert fall vært en handling med itegritet.  Disse "
+"dommerne i særdeleshet hadde gjentatte ganger sagt at den riktige "
+"måten å tolke Grunnloven på var <quote>orginalisme</quote> &mdash; å "
+"først forstå grunnlovsforfatternes tekst, tolket i deres sammenheng, i "
+"lys av strukturen i Grunnloven.  Den metoden hadde ført til "
+"<citetitle>Lopez</citetitle> og mange andre "
+"<quote>orginalisme</quote>-avgjørelser.  Hvor var deres "
+"<quote>orginalisme</quote> nå?"
 
 #.  PAGE BREAK 251 
 #. type: Content of: <book><part><chapter><para>
