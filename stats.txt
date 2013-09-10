@@ -578,3 +578,5 @@
 2013-08-29T1048 2267 oversatte meldinger, 52 antatte oversettelser, 11 oversatte meldinger.
 2013-08-29T1936 2272 oversatte meldinger, 47 antatte oversettelser, 11 oversatte meldinger.
 2013-08-29T2231 2275 oversatte meldinger, 46 antatte oversettelser, 9 oversatte meldinger.
+2013-09-10T1841 2279 oversatte meldinger, 42 antatte oversettelser, 9 oversatte meldinger.
+2013-09-10T1857 2281 oversatte meldinger, 40 antatte oversettelser, 9 oversatte meldinger.
