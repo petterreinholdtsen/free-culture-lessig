@@ -12430,9 +12430,8 @@ msgstr ""
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
-#, fuzzy
 msgid "Americans with Disabilities Act (1990)"
-msgstr "amerikanerne med funksjonshemminger act (1990)"
+msgstr "Handikappede amerikanere-loven (1990)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Commons, John R."
@@ -14102,7 +14101,6 @@ msgstr "andre eiendomsretter vs."
 
 #.  PAGE BREAK 151 
 #. type: Content of: <book><part><chapter><section><para>
-#, fuzzy
 msgid ""
 "<quote>Copies.</quote> That certainly sounds like the obvious thing for "
 "<emphasis>copy</emphasis>right law to regulate. But as with Jack Valenti's "
@@ -14115,14 +14113,17 @@ msgid ""
 "be the trigger for copyright law. More precisely, they should not "
 "<emphasis>always</emphasis> be the trigger for copyright law."
 msgstr ""
-"\"Kopier.\" som absolutt høres ut som det åpenbare tingen for opphavsrett å "
-"regulere. men som med jack valenti argumentet i begynnelsen av dette "
-"kapitlet, at \"kreative property\" fortjener \"samme rettigheter\" som alle "
-"andre eiendom, det er åpenbart at vi trenger å være mest forsiktig med. for "
-"mens det kan være opplagt at i verden før Internett, Kopier var åpenbare "
-"utløser for opphavsrett, på refleksjon, bør det være åpenbart at i verden "
-"med Internett, Kopier ikke bør være utløser for lov om opphavsrett. mer "
-"presist, bør de ikke alltid være utløser for lov om opphavsrett."
+"<quote>Kopier.</quote> Det høres helt klart ut som noe "
+"opphavsrettsloven åpnebart regulerer.  Men som med argumentet til Jack "
+"Valenti i starten av dette kapittelet, om at <quote>kreativ "
+"eiendom</quote> fortjener <quote>de samme rettigheter</quote> som all "
+"annen eiendom, så er det dette <emphasis>åpenbare</emphasis> som vi må "
+"være mest forsiktig med.  For selv om det kan ha vært åpenbart i "
+"verden før Internet, at eksemplarer var en åpenbar utløser for "
+"opphavsrettsloven, så bør det ved nærmere ettertanke være åpenbart i "
+"verden med Internet, så bør kopier <emphasis>ikke</emphasis> være "
+"utløseren for opphavsrettsloven.  For å være presis, bør de ikke "
+"<emphasis>alltid</emphasis> være utløseren for opphavsrettsloven."
 
 #.  f17 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -22119,7 +22120,6 @@ msgstr ""
 
 #.  PAGE BREAK 238 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "There was one way, however, in which I felt politics would matter and in "
 "which I thought a response was appropriate. I was convinced that the Court "
@@ -22136,19 +22136,22 @@ msgid ""
 "and famous, but because they, in the aggregate, demonstrated that this law "
 "was unconstitutional regardless of one's politics."
 msgstr ""
-"Det var en måte, men i som jeg følte politikk ville saken og som jeg trodde "
-"et svar var riktig. Jeg var overbevist om at domstolen ikke ville høre våre "
-"argumenter Hvis det trodde disse var bare argumentene i en gruppe av lefty "
-"loons. Denne Høyesterett var ikke om å lansere i et nytt felt med juridisk "
-"vurdering Hvis det syntes at dette feltet av nytt var bare preferanse av et "
-"lite politisk mindretall. Selv om mitt fokus i tilfelle var ikke til å "
-"demonstrere hvor ille sonny bono handle var, men for å demonstrere at det "
-"var forfatningsstridig, mitt håp var å gjøre dette argumentet mot et "
-"bakteppe av truser som dekket hele spekteret av politiske synspunkter. å "
-"vise at denne påstanden mot ctea ble jordet i loven og ikke politikk, så vi "
-"prøvde å samle så mange søkeordresultater troverdig kritikere&mdash;"
-"troverdig ikke fordi de var rike og berømte, men fordi de, i samlet, vist at "
-"denne loven var forfatningsstridig uavhengig av ens politikk."
+"Det var derimot en måte der jeg følte at politikk ville bety noe og "
+"hvor jeg tenkte et svar var riktig.  Jeg var overbevist om at "
+"domstolen ikke ville høre på våre argumenter hvis den mente at de bare "
+"var argumenter fra en gruppe ned venstrevridde gærninger.  Denne "
+"Høysteretten kom ikke til å stupe inn i et nytt juridisk vurderingsfel "
+"hvis det virket som om dette feltet kun var interessant for en liten "
+"politisk minoritet.  Selv om min fokus i saken ikke var å demonstrere "
+"hvor ille Sonny Bono-loven var, men å demonstrere at den var i strid "
+"med grunnloven, så var det mitt håp å gjøre argumentere for dette mot "
+"en bakgrunn av støttebrev som dekket hele spekteret av politiske "
+"ståsteder.  For å vise at denne påstanden mot CTEA var fundert i "
+"<emphasis>lovverket</emphasis> og ikke i politikken, forsøkte vi "
+"derfor å samle den videste rekken av troverdige kritikere &mdash; ikke "
+"troverdige fordi de var rike og berømte, men fordi dem, samlet sett, "
+"demonstrerte at denne loven var i strid med grunnloven uavhengig av "
+"ens politiske syn."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 #, fuzzy
