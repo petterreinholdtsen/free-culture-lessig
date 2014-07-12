@@ -22485,7 +22485,6 @@ msgstr ""
 "grunnlovstillegg tradisjonelt er ment å blokkere."
 
 #. type: Content of: <book><part><chapter><para>
-#, fuzzy
 msgid ""
 "We argued as much in a final brief. Not only would upholding the CTEA mean "
 "that there was no limit to the power of Congress to extend copyrights&mdash;"
@@ -22493,13 +22492,12 @@ msgid ""
 "that there was no limit to Congress's power to play favorites, through "
 "copyright, with who has the right to speak."
 msgstr ""
-"Vi hevdet så mye i en endelige kort. ikke bare vil opprettholde ctea bety at "
-"det var ingen grense for strøm av Kongressen for å forlenge "
-"opphavsrett&mdash;utvidelser som ytterligere konsentrere seg markedet; det "
-"vil også bety at det var ingen grense congress's kraft til å spille "
-"favoritter, gjennom opphavsrett, med som har rett til å snakke. mellom "
-"februar og oktober var det lite jeg gjorde utover forbereder for denne "
-"saken. tidlig som jeg sa, satt jeg strategien."
+"Vi hevdet det samme i et avsluttende skriv.  Ikke bare ville å "
+"opprettholde CTEA bety at det ikke fantes noen grense for Kongressens "
+"myndighet til å utvide vernetiden&mdash;utvidelser som ytterligere "
+"ville konsentrere markedet.  Det ville også bety at det ikke var noen "
+"begrensninger i Kongressens mulighet til å favorisere enkeltaktører, "
+"ved hjelp av opphavsretten, om hvem som hadde lov til å snakke."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
