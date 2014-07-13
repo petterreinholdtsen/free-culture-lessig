@@ -22153,9 +22153,8 @@ msgstr ""
 "ens politiske syn."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#, fuzzy
 msgid "Eagle Forum"
-msgstr "Eagle forum"
+msgstr "Ørneforumet"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Schlafly, Phyllis"
@@ -22178,7 +22177,7 @@ msgid ""
 msgstr ""
 "Det første steget skjedde helt av seg selv.  Phyllis Schlafly sin "
 "organisasjon, Ørneforumet, hadde vært motstander av CTEA helt fra "
-"begynnelsen.  Fru Schlafly så på CTEA som et *sellout" av kongressen. "
+"begynnelsen.  Fru Schlafly så på CTEA som at kongressen hadde solgt seg. "
 "Hun skrev in skarp kommentarartikkel i november 1998 som angrep den "
 "republikanske kongressen for å tillate loven å bli vedtatt.  Der skrev "
 "hun <quote>Du lurer noen ganger på hvorfor lovforslag som skaper "
