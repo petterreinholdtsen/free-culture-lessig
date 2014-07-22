@@ -10553,7 +10553,7 @@ msgid ""
 msgstr ""
 "Alben er stolt av arbeidet sitt. Prosjektet var det første av sitt slag, og "
 "første gang han hadde hørt om et team som hadde tatt på seg så mye arbeid "
-"for å gi ut en *retrospective*."
+"for å gi ut en samling av tidligere arbeider."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -22596,7 +22596,7 @@ msgstr ""
 "allierte, men vi kunne bli overrasket.  Dommer Souter favoriserte sterkt å "
 "la Kongressen bestemme, og det samme gjorde dommer Breyer.  Men begge var "
 "også svært følsomme for ytringsfrihetsbekymringer.  Og vi trodde sterkt at "
-"det var viktige ytringsfrihetsargumenter mot disse *retrospective* "
+"det var viktige ytringsfrihetsargumenter mot disse tilbakevirkende "
 "utvidelsene."
 
 #. type: Content of: <book><part><chapter><para>
