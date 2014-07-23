@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-08-28 23:08+0300\n"
+"POT-Creation-Date: 2014-07-23 22:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21592,70 +21592,45 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15620
-msgid "p. cm."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15623
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15626
+#: freeculture.xml:15623
 msgid "ISBN 1-59420-006-8 (hardcover)"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15630
+#: freeculture.xml:15627
 msgid ""
 "1. Intellectual property&mdash;United States. 2. Mass media&mdash;United "
 "States."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15633
+#: freeculture.xml:15630
 msgid ""
 "3. Technological innovations&mdash;United States. 4. Art&mdash;United "
 "States. I. Title."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15636
+#: freeculture.xml:15633
 msgid "KF2979.L47"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15639
+#: freeculture.xml:15636
 msgid "343.7309'9&mdash;dc22"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15642
-msgid "This book is printed on acid-free paper."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15645
-msgid "Printed in the United States of America"
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15648
-msgid "1 3 5 7 9 10 8 6 4"
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15651
-msgid "Designed by Marysarah Quinn"
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15655
+#: freeculture.xml:15640
 msgid "&translationblock;"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15659
+#: freeculture.xml:15644
 msgid ""
 "Without limiting the rights under copyright reserved above, no part of this "
 "publication may be reproduced, stored in or introduced into a retrieval "
@@ -21665,7 +21640,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15667
+#: freeculture.xml:15652
 msgid ""
 "The scanning, uploading, and distribution of this book via the Internet or "
 "via any other means without the permission of the publisher is illegal and "
