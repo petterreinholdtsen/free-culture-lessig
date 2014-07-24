@@ -25155,14 +25155,12 @@ msgstr ""
 "type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, fuzzy
 msgid "General Public License (GPL)"
-msgstr "general public license (gpl)"
+msgstr "General Public License (GPL)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, fuzzy
 msgid "GPL (General Public License)"
-msgstr "GPL (general public license)"
+msgstr "GPL (General Public License)"
 
 #.  PAGE BREAK 272 
 #. type: Content of: <book><chapter><para>
