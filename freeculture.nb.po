@@ -25992,9 +25992,8 @@ msgid "Rebuilding Freedoms Previously Presumed: Examples"
 msgstr "Gjenoppbygging av friheter som tidligere var antatt: Eksempler"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
-#, fuzzy
 msgid "restoration efforts on previous aspects of"
-msgstr "restaurering innsats på forrige aspekter av"
+msgstr "restureringsinnsatser på tidligere fasetter av"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "privacy rights"
