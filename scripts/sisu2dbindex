@@ -1,0 +1,92 @@
+#!/usr/bin/perl
+
+use warnings;
+use strict;
+
+my %usedid;
+my $filename = shift || 'free_culture.lawrence_lessig.sst';
+
+open(my $fh, '<', $filename) || die;
+
+my @ranges;
+my $lastline = "foo";
+while (<$fh>) {
+    my $printpara = "";
+    if (m/^group{/) {
+        while (my $line = <$fh>) {
+            $_ .= $line;
+            last if ($line =~ m/^}group/);
+        }
+    }
+    if (m/^={(.+)}/) {
+        my @entries = split(/;/, $1);
+        for my $entry (@entries) {
+            my @ends = dbentry($entry);
+            push(@ranges, @ends) if @ends;
+        }
+    }
+    if ($lastline =~ m/^$/) {
+        my @newranges;
+        for my $r (@ranges) {
+            $r->{'paracount'} --;
+            if (0 >= $r->{'paracount'}) {
+                my $idx = $r->{'id'};
+                print "<indexterm startref='$idx' class='endofrange'/>\n";
+                $printpara = 1;
+            } else {
+                push(@newranges, $r);
+            }
+        }
+        @ranges = @newranges;
+    }
+    $lastline = $_;
+    my $startofline = substr($_, 0, 60);
+    chomp $startofline;
+    print ($startofline,"\n") if ($printpara);
+}
+close $fh;
+
+sub dbentry {
+    my ($entry) = @_;
+    my $isrange;
+    $entry =~ s/&/&amp;/g;
+    if ($entry =~ m/^(.+)\+(\d+)$/) {
+        $entry = $1;
+        $isrange = $2;
+    }
+    my $block = "<primary>$entry</primary>";
+    my @ranges;
+    if ($entry =~ /:/) {
+        my ($primary, $secondary) = split(/:/, $entry);
+        if ($secondary =~ m/\|/) {
+            my @seclist = split(/\|/, $secondary);
+            $secondary = pop @seclist;
+            for my $s (@seclist) {
+                push(@ranges, dbentry("$primary:$s"));
+            }
+        }
+        $block = "<primary>$primary</primary><secondary>$secondary</secondary>"
+    }
+
+    if ($isrange) {
+        my $id = $block;
+        $id =~ s/<[^>]+>//g;
+        $id =~ tr/A-Z/a-z/;
+#        print "id1: $id\n";
+        $id =~ s/[^a-z]//g;
+#        print "id2: $id\n";
+        my $idx = "idx$id";
+        my $count = 1;
+        while (exists $usedid{$idx}) {
+            $count++;
+            $idx = "idx$id$count";
+        }
+        $usedid{$idx} = 1;
+        print "<indexterm id='$idx' class='startofrange'>$block</indexterm>\n";
+#        print "<indexterm startref='$idx+$isrange' class='endofrange'/>\n";
+        push(@ranges, {'paracount' => $isrange+1, 'id' => $idx});
+    } else {
+        print "<indexterm>$block</indexterm>\n";
+    }
+    return @ranges;
+}

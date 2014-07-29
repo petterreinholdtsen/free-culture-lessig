@@ -80,5 +80,5 @@ Todo
    is easiest).
  * Complete the proof reading.
  * Publish first edition.
-
- (* Add missing index entries.)
+ * (Add missing index entries.  Nice to have, not vital.  See
+   scripts/idxcompare for helper script.)

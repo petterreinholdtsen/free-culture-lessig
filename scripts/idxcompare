@@ -1,0 +1,12 @@
+#!/bin/sh
+clean() {
+#    grep -v class= |
+#    sed 's/ id=.[^ ]*. class/ class/' |
+#    sed 's/ startref=.[^ ]*. class/ class/'
+#    grep -v 'startref=' |
+    cat
+}
+bindir="$(dirname $0)"
+$bindir/sisu2dbindex | clean > index-sisu-summary
+grep '<indexterm' freeculture.xml | clean > index-xml-summary
+diff -u index-sisu-summary index-xml-summary |less
