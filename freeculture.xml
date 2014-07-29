@@ -15691,11 +15691,9 @@ KF2979.L47 2004
 <para>
 The source of this version of the text is written using DocBook
 notation and the other formats are derived from the DocBook source.
-The DocBook source is based on a
-<ulink url="http://www.sslug.dk/~chlor/lessig/">DocBook XML version
-created by Hans Schou</ulink>, and extended with formatting and index
-references by Petter Reinholdtsen.  The source files of this book is
-available as
+The DocBook source is based on a DocBook XML version created by Hans
+Schou, and extended with formatting and index references by Petter
+Reinholdtsen.  The source files of this book is available as
 <ulink url="https://github.com/petterreinholdtsen/free-culture-lessig">a
 github project</ulink>.
 </para>
