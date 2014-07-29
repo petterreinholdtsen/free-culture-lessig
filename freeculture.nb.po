@@ -29013,7 +29013,7 @@ msgstr ""
 #. type: Content of: <book><colophon><para>
 msgid "&translationblock;"
 msgstr ""
-"Oversatt til bokmål av Petter Reinholdtsen, Anders Hagen Jarmund og Kirill "
+"Oversatt til bokmål på dugnad av Petter Reinholdtsen, Anders Hagen Jarmund og Kirill "
 "Miazine. Takk til Ralph Amissah for hjelp med registeroppføringene. "
 "Kildefilene til oversetterprosjektet er <ulink url=\"https://github.com/"
 "petterreinholdtsen/free-culture-lessig\">tilgjengelig fra GitHub</ulink>. "
