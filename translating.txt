@@ -14,6 +14,10 @@ compliance            = i henhold til loven
 the law               = rettsvesenet, lovverket, loven
 common law            = sedvanerett
 positive law          = positiv lov
+Solicitor General     = riksadvokat
+Supreme Court         = domstol, rettsal
+Judge Xs opinion      = dommer Xs betenkning
+Court opinion         = domstolavgjørelse
 
 Marker ord som ikke er oversatt med stjerne (*) foran og bak i
 teksten, for å gjøre det enkelt å finne dem igjen.
