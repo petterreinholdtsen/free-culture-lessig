@@ -3765,9 +3765,10 @@ and how much p2p sharing harms before we know how strongly the
 law should seek to either prevent it or find an alternative to assure the
 author of his profit.
 </para>
-<indexterm><primary>innovation</primary></indexterm>
-<indexterm><primary>Fanning, Shawn</primary></indexterm>
 <para>
+<indexterm><primary>Fanning, Shawn</primary></indexterm>
+<indexterm><primary>innovation</primary></indexterm>
+<indexterm id='idxnapster' class='startofrange'><primary>Napster</primary></indexterm>
 Peer-to-peer sharing was made famous by Napster. But the inventors of
 the Napster technology had not made any major technological
 innovations.  Like every great advance in innovation on the Internet
@@ -3788,6 +3789,9 @@ Christensen's ideas, see Lawrence Lessig, <citetitle>Future</citetitle>, 89&ndas
 put together components that had been developed independently.
 </para>
 <para>
+<indexterm><primary>Kazaa</primary></indexterm>
+<indexterm><primary>Napster</primary><secondary>number of registrations on</secondary></indexterm>
+<indexterm><primary>Napster</primary><secondary>replacement of</secondary></indexterm>
 The result was spontaneous combustion. Launched in July 1999,
 Napster amassed over 10 million users within nine months. After
 eighteen months, there were close to 80 million registered users of the
@@ -3808,6 +3812,7 @@ users to make content available to any number of other users. With a
 p2p system, you can share your favorite songs with your best friend&mdash;
 or your 20,000 best friends.
 </para>
+<indexterm startref='idxnapster' class='endofrange'/>
 <para>
 According to a number of estimates, a huge proportion of Americans
 have tasted file-sharing technology. A study by Ipsos-Insight in
@@ -4192,14 +4197,13 @@ found only with time.
 just what you call type A sharing?</quote>
 </para>
 <para>
-You would think. And we should hope. But so far, it is not. The 
-		effect
+You would think. And we should hope. But so far, it is not. The effect
 of the war purportedly on type A sharing alone has been felt far
-beyond that one class of sharing. That much is obvious from the 
-		Napster
-case itself. When Napster told the district court that it had 
-		developed
-a technology to block the transfer of 99.4 percent of identified
+beyond that one class of sharing. That much is obvious from the
+Napster case itself. When Napster told the district court that it had
+developed a technology to block the transfer of 99.4 percent of
+identified
+
 <!-- PAGE BREAK 87 -->
 infringing material, the district court told counsel for Napster 99.4
 percent was not good enough. Napster had to push the infringements
@@ -5731,9 +5735,12 @@ room of over 250 well-entertained judges. Taking an ominous tone, he
 began his talk with a question: <quote>Do you know how many federal laws
 were just violated in this room?</quote>
 </para>
-<indexterm><primary>Boies, David</primary></indexterm>
-<indexterm><primary>Alben, Alex</primary></indexterm>
 <para>
+<indexterm><primary>Alben, Alex</primary></indexterm>
+<indexterm><primary>Boies, David</primary></indexterm>
+<indexterm><primary>Court of Appeals</primary><secondary>Ninth Circuit</secondary></indexterm>
+<indexterm><primary>Ninth Circuit Court of Appeals</primary></indexterm>
+<indexterm><primary>Napster</primary></indexterm>
 For of course, the two brilliantly talented creators who made this
 film hadn't done what Alben did. They hadn't spent a year clearing the
 rights to these clips; technically, what they had done violated the
