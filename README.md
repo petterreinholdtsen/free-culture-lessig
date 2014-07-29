@@ -60,3 +60,23 @@ Translation status
 ------------------
 
 <img src="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/progress.png">
+
+Todo
+----
+
+ * Convert remaining figures to SVG.
+ * Figure out a way to translate SVGs, or pick the correct of the
+   original and translated SVGs for the English and Norwegian version.
+ * Complete translation of the foot notes.
+ * Figure out translation of the words/phrases marked with a star (*)
+ * Decide which docbook to PDF processor to use (dblatex,
+   docbook-xsl/fop or xmlto).
+ * Decide how to handle chapter numbering.
+ * Decide the paper size to use.
+ * Figure out where to print the book.
+ * Get ISBN numbers (from Thomas Gramstad).
+ * Decide what content to include in the colophon page.
+ * Complete the spell checking of the content (using the txt version
+   is easiest).
+ * Complete the proof reading.
+ * Publish first edition.
