@@ -9915,7 +9915,7 @@ msgstr ""
 "<emphasis role='strong'>Jon Else</emphasis> er en filmskaper. Han er mest "
 "kjent for sine dokumentarer og har på ypperlig vis klart å spre sin kunst. "
 "Han er også en lærer, som meg selv, og jeg misunner den lojaliteten og "
-"beundringen hans studenter har for ham. (Ved et uhell møtte jeg to av hans "
+"beundringen hans studenter har for ham. (Ved et tilfelle møtte jeg to av hans "
 "studenter i et middagsselskap og han var deres Gud.)"
 
 #. type: Content of: <book><part><chapter><para>
