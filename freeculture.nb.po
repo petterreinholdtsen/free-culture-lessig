@@ -15173,10 +15173,10 @@ msgid ""
 "citetitle>.  This wonderful book is in the public domain. Yet when you "
 "clicked on Permissions for that book, you got the following report:"
 msgstr ""
-"Tidlig i livet til Adobe eBook Reader, opplevde Adobe et markedsmessig "
+"Tidlig i eksistensen til Adobe eBook Reader, opplevde Adobe et markedsmessig "
 "mareritt.  Blant bøkene du kunne laste ned gratis på Adobes nettsted var en "
 "kopi av <citetitle>Alice i eventyrland</citetitle>. Denne vidunderlige boken "
-"er allemannseie..  Likevel fikk du se følgende rapport når du trykket på "
+"er allemannseie..  Likevel fikk du se følgende oversikt når du trykket på "
 "Tillatelser for denne boken:"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
