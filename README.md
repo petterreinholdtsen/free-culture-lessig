@@ -80,3 +80,5 @@ Todo
    is easiest).
  * Complete the proof reading.
  * Publish first edition.
+
+ (* Add missing index entries.)
