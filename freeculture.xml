@@ -124,7 +124,7 @@ Appeals.
 -->
  </mediaobject>
 
- <biblioid class="isbn">1-59420-006-8</biblioid>
+ <biblioid class="isbn">978-82-92812-XX-Y</biblioid>
 
 <!-- LCCN from
      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
@@ -132,20 +132,6 @@ Appeals.
   <biblioid class="libraryofcongress">2003063276</biblioid>
 
 </bookinfo>
-<!--PAGE BREAK 1-->
-<dedication id="salespoints">
-<title></title>
-<para>
-You can buy a copy of this book by clicking on one of the links below:
-</para>
-<itemizedlist mark="number" spacing="compact">
-<listitem><para><ulink url="http://www.amazon.com/">Amazon</ulink></para></listitem>
-<listitem><para><ulink url="http://www.barnesandnoble.com/">B&amp;N</ulink></para></listitem>
-<listitem><para><ulink url="http://www.penguin.com/">Penguin</ulink></para></listitem>
-<!-- <ulink url="">Local Bookstore</ulink> -->
-</itemizedlist>
-</dedication>
-<!-- PAGE BREAK 2 -->
 <!-- PAGE BREAK 3 -->
 <dedication id="alsobylessig">
 <title></title>
@@ -15589,24 +15575,37 @@ grateful for her perpetual patience and love.
 <index></index>
 <colophon>
 <para>
-THE PENGUIN PRESS, a member of Penguin Group (USA) Inc.  375 Hudson Street New
-York, New York
+The original hardcover paper book was published in 2004 by The Penguin
+Press, a member of Penguin Group (USA) Inc. 375 Hudson Street New
+York, New York.
 </para>
 <para>
-Copyright &copy; Lawrence Lessig.  All rights reserved.
+This digital book was published by Petter Reinholdtsen in 2014.
 </para>
 <para>
-Excerpt from an editorial titled <quote>The Coming of Copyright Perpetuity,</quote>
-<citetitle>The New York Times</citetitle>, January 16, 2003. Copyright
-&copy; 2003 by The New York Times Co.  Reprinted with permission.
+Copyright &copy; Lawrence Lessig.  Some rights reserved.
 </para>
 <para>
-Cartoon in <xref linkend="fig-1711-vcr-handgun-cartoonfig"/> by Paul Conrad, copyright Tribune
-Media Services, Inc.  All rights reserved. Reprinted with permission.
+This version of <citetitle>Free Culture</citetitle> is licensed under
+a Creative Commons license. This license permits non-commercial use of
+this work, so long as attribution is given.  For more information
+about the license, click the icon above, or visit
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
 </para>
 <para>
-Diagram in <xref linkend="fig-1761-pattern-modern-media-ownership"/> courtesy of the office of FCC
-Commissioner, Michael J. Copps.
+Excerpt from an editorial titled <quote>The Coming of Copyright
+Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January
+16, 2003. Copyright &copy; 2003 by The New York Times Co.  Reprinted
+with permission.
+</para>
+<para>
+Cartoon in <xref linkend="fig-1711-vcr-handgun-cartoonfig"/> by Paul
+Conrad, copyright Tribune Media Services, Inc.  All rights
+reserved. Reprinted with permission.
+</para>
+<para>
+Diagram in <xref linkend="fig-1761-pattern-modern-media-ownership"/>
+courtesy of the office of FCC Commissioner, Michael J. Copps.
 </para>
 <para>
 Library of Congress Cataloging-in-Publication Data
@@ -15617,44 +15616,86 @@ Free culture : how big media uses technology and the law to lock down
 culture and control creativity / Lawrence Lessig.
 </para>
 <para>
-Includes index.
+p. cm.
 </para>
 <para>
-ISBN 1-59420-006-8 (hardcover)
+Includes index.
 </para>
 
 <para>
-1. Intellectual property&mdash;United States. 2. Mass media&mdash;United States.
+<informaltable id="isbn">
+<tgroup cols="2" align="left">
+<thead>
+ <row>
+ <entry>ISBN</entry>
+ <entry>Format / MIME-type</entry>
+ </row>
+</thead>
+<tbody>
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>text/plain</entry>
+ </row>
+
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>application/pdf</entry>
+ </row>
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>text/html</entry>
+ </row>
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>application/epub+zip</entry>
+ </row>
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>application/docbook+xml</entry>
+ </row>
+ <row>
+ <entry>978-82-92812-XX-Y</entry>
+ <entry>application/x-mobipocket-ebook</entry>
+ </row>
+</tbody>
+</tgroup>
+</informaltable>
+</para>
+
+<para>
+1. Intellectual property&mdash;United States.
 </para>
 <para>
-3. Technological innovations&mdash;United States. 4. Art&mdash;United States. I. Title.
+2. Mass media&mdash;United States.
 </para>
 <para>
-KF2979.L47
+3. Technological innovations&mdash;United States.
 </para>
 <para>
-343.7309'9&mdash;dc22
+4. Art&mdash;United States. I. Title.
+</para>
+<para>
+KF2979.L47 2004
+</para>
+<para>
+343.7309'9&mdash;dc22 2003063276
+</para>
+
+<para>
+The source of this version of the text is written using DocBook
+notation and the other formats are derived from the DocBook source.
+The DocBook source is based on a
+<ulink url="http://www.sslug.dk/~chlor/lessig/">DocBook XML version
+created by Hans Schou</ulink>, and extended with formatting and index
+references by Petter Reinholdtsen.  The source files of this book is
+available as
+<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig">a
+github project</ulink>.
 </para>
 
 <para>
 &translationblock;
 </para>
 
-<para>
-Without limiting the rights under copyright reserved above, no part of
-this publication may be reproduced, stored in or introduced into a
-retrieval system, or transmitted, in any form or by any means
-(electronic, mechanical, photocopying, recording or otherwise),
-without the prior written permission of both the copyright owner and
-the above publisher of this book.
-</para>
-<para>
-The scanning, uploading, and distribution of this book via the
-Internet or via any other means without the permission of the
-publisher is illegal and punishable by law.  Please purchase only
-authorized electronic editions and do not participate in or encourage
-electronic piracy of copyrighted materials. Your support of the
-author's rights is appreciated.
-</para>
 </colophon>
 </book>
