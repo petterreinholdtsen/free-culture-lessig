@@ -14557,9 +14557,8 @@ msgid "film industry"
 msgstr "filmindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "trailer advertisements of"
-msgstr "Trailer reklame av"
+msgstr "filmtrailer-reklamene til"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14626,9 +14625,8 @@ msgstr ""
 "rettigheter."
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "willful infringement findings in"
-msgstr "willful krenkelse funnene i"
+msgstr "bevisst krenkelse-kjennelser i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "willful infringement"
@@ -19147,9 +19145,8 @@ msgstr ""
 
 #.  f13. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#, fuzzy
 msgid "Ibid., 229."
-msgstr "ibid., 229."
+msgstr "Ibid., 229."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
