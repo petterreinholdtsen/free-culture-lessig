@@ -41,7 +41,7 @@ PDF_XSLT = \
   data/stylesheet-fo.xsl
 
 
-all: lint lint.nb html epub pdf
+all: lint lint.nb html epub pdf mobi
 
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -50,8 +50,9 @@ freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
 pdf: freeculture.nb.pdf freeculture.pdf
-epub: freeculture.nb.epub 
-html: freeculture.html freeculture.nb.html 
+epub: freeculture.nb.epub freeculture.epub 
+mobi: freeculture.nb.mobi freeculture.mobi 
+html: freeculture.nb.html freeculture.html 
 
 %.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile
 # Possible pipelines:
@@ -115,6 +116,9 @@ pdf-compare: freeculture.xml $(IMAGES)
 
 %.epub: %.xml $(IMAGES)
 	$(DBTOEPUB) $<
+
+%.mobi: %.epub
+	ebook-convert $< $@
 
 freeculture.xml:
 	GET $(url) | gunzip > freeculture.xml
