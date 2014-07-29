@@ -10177,7 +10177,7 @@ msgid ""
 "So I asked Else why he didn't just rely upon <quote>fair use.</quote> Here's "
 "his reply:"
 msgstr ""
-"Så jeg spurte Else om hvorfor han ikke bare stolte på <quote>timelig bruk</"
+"Så jeg spurte Else om hvorfor han ikke bare stolte på <quote>rimelig bruk</"
 "quote>. Og han svarte:"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
