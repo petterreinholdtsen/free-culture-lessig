@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2014-07-29 20:40+0300\n"
+"POT-Creation-Date: 2014-07-29 20:59+0300\n"
 "PO-Revision-Date: 2012-08-29 11:14+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -77,16 +77,16 @@ msgstr "Kunst&mdash;USA."
 
 #. type: Content of: <book><bookinfo><publisher><address>
 #, no-wrap
-msgid "<city>New York</city>"
-msgstr "<city>New York</city>"
+msgid "<city>Oslo</city>"
+msgstr "<city>Oslo</city>"
 
 #. type: Content of: <book><bookinfo>
 msgid ""
-"<publisher> <publishername>The Penguin Press</publishername> <placeholder "
+"<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
 "type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
 "<holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
-"<publisher> <publishername>The Penguin Press</publishername> <placeholder "
+"<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
 "type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
 "<holder>Lawrence Lessig</holder> </copyright>"
 
@@ -14194,7 +14194,7 @@ msgstr "Alle potensielle bruksområder for en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1521.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
 "<graphic fileref=\"images/nb/1521.svg\" align=\"center\" width=\"50%\"></"
@@ -14286,10 +14286,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1541.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1541.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14933,7 +14933,7 @@ msgstr "Bilde av en gammel versjon av Adobe eBook Reader."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1611.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
 "<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"

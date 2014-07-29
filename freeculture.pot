@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-07-29 20:40+0300\n"
+"POT-Creation-Date: 2014-07-29 21:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,13 +86,13 @@ msgstr ""
 #. type: Content of: <book><bookinfo><publisher><address>
 #: freeculture.xml:56
 #, no-wrap
-msgid "<city>New York</city>"
+msgid "<city>Oslo</city>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:54
 msgid ""
-"<publisher> <publishername>The Penguin Press</publishername> <placeholder "
+"<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
 "type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
 "<holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
@@ -10845,7 +10845,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7526
 msgid ""
-"<graphic fileref=\"images/1521.png\" align=\"center\" "
+"<graphic fileref=\"images/1521.svg\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 
@@ -10920,7 +10920,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7571
 msgid ""
-"<graphic fileref=\"images/1541.png\" align=\"center\" "
+"<graphic fileref=\"images/1541.svg\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 
@@ -11413,7 +11413,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7930
 msgid ""
-"<graphic fileref=\"images/1611.png\" align=\"center\" "
+"<graphic fileref=\"images/1611.svg\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 
