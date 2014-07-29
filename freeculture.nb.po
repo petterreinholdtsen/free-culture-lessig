@@ -9343,8 +9343,8 @@ msgid ""
 "Parliament rejected their requests. As one pamphleteer put it, in words that "
 "echo today,"
 msgstr ""
-"Parlamentet avslo kravene, Som en pamflett sa, i en vending som levere ennå "
-"idag,"
+"Parlamentet avslo kravene, Som en pamflett sa, i en formulering som er gyldig "
+"også i dag,"
 
 #.  f5 
 #. type: Content of: <book><part><chapter><blockquote><para><footnote><para>
@@ -9357,6 +9357,13 @@ msgid ""
 "Curiae of Tyler T. Ochoa et al., 8, <citetitle>Eldred</citetitle> v. "
 "<citetitle>Ashcroft</citetitle>, 537 U.S. 186 (2003) (No. 01-618)."
 msgstr ""
+"A Letter to a Member of Parliament concerning the Bill now depending in the "
+"House of Commons, for making more effectual an Act in the Eighth Year of the "
+"Reign of Queen Anne, entitled, An Act for the Encouragement of Learning, by "
+"Vesting the Copies of Printed Books in the Authors or Purchasers of such "
+"Copies, during the Times therein mentioned (London, 1735), in Brief Amici "
+"Curiae of Tyler T. Ochoa et al., 8, <citetitle>Eldred</citetitle> v. "
+"<citetitle>Ashcroft</citetitle>, 537 U.S. 186 (2003) (No. 01-618)."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
