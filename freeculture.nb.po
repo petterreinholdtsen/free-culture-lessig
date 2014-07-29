@@ -24537,6 +24537,16 @@ msgid ""
 "1st sess., Ser. No. 106-126 (22 July 1999), 150&ndash;57 (statement of James "
 "Love)."
 msgstr ""
+"International Intellectual Property Institute (IIPI), "
+"<citetitle>Patent Protection and Access to HIV/AIDS Pharmaceuticals in "
+"Sub-Saharan Africa, en rapport forberedt for Verdens "
+"opphavsrettsorganisasjon</citetitle> (Washington, D.C., 2000), 14, "
+"tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/\">link "
+"#56</ulink>.  For en førstehånds beskrivelse av kampen om Sør-Afrika, "
+"se Høring foorran underkomite for kriminalomsorg, medikamentregelverk "
+"og menneskelige ressurser, House Committee on Government Reform, "
+"H. Rep., 1. økt., Ser. No. 106-126 (22. juli 1999), 150&ndash;57 "
+"(uttalelse fra James Love)."
 
 #.  f4. 
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -24548,7 +24558,7 @@ msgid ""
 msgstr ""
 "International Intellectual Property Institute (IIPI), <citetitle>Patent "
 "Protection and Access to HIV/AIDS Pharmaceuticals in Sub-Saharan Africa, en "
-"rapport forberedt for the World Intellectual Property Organization</"
+"rapport forberedt for Verdens opphavsrettsorganisasjon</"
 "citetitle> (Washington, D.C., 2000), 15."
 
 #. type: Content of: <book><chapter><para>
@@ -24907,9 +24917,8 @@ msgid "Wellcome Trust"
 msgstr "Wellcome Trust"
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, fuzzy
 msgid "World Intellectual Property Organization (WIPO)"
-msgstr "World intellectual property organization (WIPO)"
+msgstr "Verdens opphavsrettsorganisasjon (WIPO)"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "World Wide Web"
@@ -24969,7 +24978,7 @@ msgid ""
 "included <quote>open source and free software.</quote>"
 msgstr ""
 "<emphasis role='strong'>I august 2003</emphasis> brøt en kamp ut i USA om en "
-"avgjørelse fra World Intellectual Property Organiation om å avlyse et møte."
+"avgjørelse fra Verdens opphavsrettsorganisasjon (WIPO) om å avlyse et møte."
 "<placeholder type=\"footnote\" id=\"0\"/> På forespørsel fra en lang rekke "
 "med interessenter hadde WIPO bestemt å avholde et møte for å diskutere "
 "<quote>åpne og samarbeidende prosjekter for å skape goder for felleskapet</"
@@ -25031,9 +25040,8 @@ msgstr ""
 "drev med immaterielle rettighetsspørsmål."
 
 #. type: Content of: <book><chapter><indexterm><primary>
-#, fuzzy
 msgid "World Summit on the Information Society (WSIS)"
-msgstr "World summit på informasjonssamfunnet (wsis)"
+msgstr "Verdenstoppmøtet om informasjonssamfunnet (WSIS)"
 
 #.  PAGE BREAK 271 
 #. type: Content of: <book><chapter><para>
@@ -25060,7 +25068,7 @@ msgid ""
 msgstr ""
 "Faktisk fikk jeg en gang offentlig kjeft for å ikke anerkjenne dette faktum "
 "om WIPO.  I februar 2003 leverte jeg et nøkkelforedrag på en forberedende "
-"konferanse for World Summit on the Information Society (WSIS).  På en "
+"konferanse for Verdenstoppmøtet om informasjonssamfunnet (WSIS).  På en "
 "pressekonferanse før innlegget, ble jeg spurt hva jeg skulle snakke om.  Jeg "
 "svarte at jeg skulle snakke litt om viktigheten av balanse rundt "
 "immaterielle verdier for utviklingen av informasjonssamfunnet.  Ordstyreren "
