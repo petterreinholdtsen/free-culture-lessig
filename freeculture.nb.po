@@ -14289,7 +14289,7 @@ msgid ""
 "<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1541.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
