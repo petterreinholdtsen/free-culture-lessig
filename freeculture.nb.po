@@ -12560,8 +12560,8 @@ msgid ""
 msgstr ""
 "Det mest åpenbare poenget som denne modellen avslører er akkurat hvorfor, "
 "eller akkurat hvordan, Hollywood har rett. Opphavsrettskrigerne har "
-"*rallied* Kongressen og domstolene for å forsvare opphavsretten.  Denne "
-"modellen hjelper oss å forstå hvorfor denne *rallying* gir mening"
+"kjørt kampanje mot Kongressen og domstolene for å forsvare opphavsretten.  Denne "
+"modellen hjelper oss å forstå hvorfor slik kampanje gir mening."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
