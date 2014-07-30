@@ -1,0 +1,24 @@
+#!/bin/sh
+
+(
+for png in *.png; do
+  svg="$(basename $png .png).svg"
+  nbsvg="nb/$(basename $png .png).svg"
+  echo "<p>$png</p>"
+  echo "<table>"
+  echo "<tr>"
+  echo "<td><img width=\"60%\" src=\"$png\"></td>"
+  if [ -e $svg ] ; then
+    echo "<td><img width=\"60%\" src=\"$svg\"></td>"
+  else
+    echo "<td></td>"
+  fi
+  if [ -e $nbsvg ] ; then
+    echo "<td><img width=\"60%\" src=\"$nbsvg\"></td>"
+  else
+    echo "<td></td>"
+  fi
+  echo "</tr>"
+  echo "</table>"
+done
+) > compare.html
