@@ -12454,7 +12454,7 @@ msgid ""
 "<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -12655,7 +12655,7 @@ msgstr "effektiv tilstand av anarki etter Internettet."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1381.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
 "<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"50%\"></"
@@ -13274,7 +13274,7 @@ msgstr "<quote>Opphavsrett</quote> i dag."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1442.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
 "<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"50%\"></"
