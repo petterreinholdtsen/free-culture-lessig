@@ -13299,9 +13299,8 @@ msgid "common law protections of"
 msgstr "sedvanerettsbeskyttelse av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "balance of U.S. content in"
-msgstr "balanse mellom innhold fra USA i"
+msgstr "balanse for innhold fra USA i"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Crosskey, William W."
