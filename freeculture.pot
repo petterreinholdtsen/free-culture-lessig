@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-07-30 22:59+0300\n"
+"POT-Creation-Date: 2014-08-06 11:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1259,7 +1259,7 @@ msgstr ""
 #. type: Content of: <book><chapter><para>
 #: freeculture.xml:905
 msgid ""
-"The story that follows is about this war. Is it not about the "
+"The story that follows is about this war. It is not about the "
 "<quote>centrality of technology</quote> to ordinary life. I don't believe in "
 "gods, digital or otherwise. Nor is it an effort to demonize any individual "
 "or group, for neither do I believe in a devil, corporate or otherwise. It is "
