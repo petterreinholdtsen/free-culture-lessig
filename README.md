@@ -59,15 +59,22 @@ the book can be build by running 'make' on the command line.
 Changes done to the original
 ----------------------------
 
-Changed typo in quote from Elizabeth Daly::
-  power with this language."
-to::
-  power with this language.
+Changed typo in introduction (page 11 in original):
 
-Changed typo in introduction::
   It is not about the «cen- trality of technology» to ordinary life.
-to::
+
+to:
+
   Is it not about the «cen- trality of technology» to ordinary life.
+
+Changed typo in quote from Elizabeth Daly (page 40 in original),
+removed trailing quite character:
+
+  power with this language."
+
+to:
+
+  power with this language.
 
 Rewrote colophon page and dropped irrelevant pages between the content
 table and the preface.
