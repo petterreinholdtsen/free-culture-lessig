@@ -14,7 +14,7 @@
    id="svg10441"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 64">
+   sodipodi:docname="1521.svg">
   <defs
      id="defs10443" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="1004"
-     inkscape:window-x="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,13 +64,13 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="173.64346"
-       y="523.92322"
+       x="267.92917"
+       y="521.06604"
        id="text11098"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11100"
-         x="173.64346"
-         y="523.92322">uses</tspan></text>
+         x="267.92917"
+         y="521.06604">uses</tspan></text>
   </g>
 </svg>

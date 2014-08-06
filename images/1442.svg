@@ -313,9 +313,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-from-guide="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="1004"
-     inkscape:window-x="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -351,17 +351,17 @@
        transform="matrix(0.84244042,0,0,1.6885962,57.589352,-442.09213)" />
     <text
        xml:space="preserve"
-       style="font-size:29.83495903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="299.56091"
-       y="522.40485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="294.94144"
+       y="519.66821"
        id="text3088"
        sodipodi:linespacing="125%"
        transform="scale(0.94266229,1.0608253)"><tspan
          sodipodi:role="line"
          id="tspan3090"
-         x="299.56091"
-         y="522.40485"
-         style="font-size:28px">Architecture</tspan></text>
+         x="294.94144"
+         y="519.66821"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Architecture</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3883);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
