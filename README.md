@@ -61,11 +61,11 @@ Changes done to the original
 
 Changed typo in introduction (page 11 in original):
 
-  It is not about the «centrality of technology» to ordinary life.
+  Is it not about the «centrality of technology» to ordinary life.
 
 to:
 
-  Is it not about the «centrality of technology» to ordinary life.
+  It is not about the «centrality of technology» to ordinary life.
 
 Changed typo in quote from Elizabeth Daly (page 40 in original),
 removed trailing quite character:
