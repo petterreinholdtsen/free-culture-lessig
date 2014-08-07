@@ -4092,7 +4092,7 @@ msgstr ""
 "annet</quote>, forklarer Barish.  Delvis, helt klart, fordi å uttrykke seg "
 "selv i tekstform ikke er noe disse studentene behersker. Heller ikke er "
 "tekstform en form som kan uttrykke <emphasis>disse</emphasis> idéene godt.  "
-"Kraften i dette budskapet var avhenging av hvordan det hang sammen med 
+"Kraften i dette budskapet var avhenging av hvordan det hang sammen med "
 "uttryksformen."
 
 #.  PAGE BREAK 52 
@@ -4206,7 +4206,7 @@ msgstr ""
 "Center, og et annet inn i Pentagon, og et fjerde inn i et jorde i "
 "Pennsylvania, snudde alle medier verden rundt seg mot denne nyheten.  "
 "Hvert eneste øyeblikk i omtrent hver eneste dag den uka, og ukene som "
-fulgte, gjenfortalte TV spesielt, og media generelt, historien om disse "
+"fulgte, gjenfortalte TV spesielt, og media generelt, historien om disse "
 "hendelsene som vi nettopp hadde vært vitne til.  Genialiteten i denne "
 "forferdelige terrorhandlingen var at det forsinkede andre-angrepet var "
 "perfekt tidsatt for å sikre at hele verden ville være der for å se på."
