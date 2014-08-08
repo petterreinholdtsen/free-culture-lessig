@@ -591,3 +591,4 @@
 2014-07-29T1311 2309 oversatte meldinger, 17 antatte oversettelser, 12 oversatte meldinger.
 2014-07-29T2309 2315 oversatte meldinger, 12 antatte oversettelser, 11 oversatte meldinger.
 2014-08-06T1302 2316 oversatte meldinger, 11 antatte oversettelser, 11 oversatte meldinger.
+2014-08-08T1346 2317 oversatte meldinger, 10 antatte oversettelser, 11 oversatte meldinger.
