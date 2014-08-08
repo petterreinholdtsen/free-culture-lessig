@@ -18517,9 +18517,8 @@ msgid "MP3 players"
 msgstr "MP3-spillere"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
 msgid "venture capital for"
-msgstr "risikovillig kapital for"
+msgstr "venturekapital for"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Needleman, Rafe"
