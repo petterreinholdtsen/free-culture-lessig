@@ -17927,8 +17927,8 @@ msgstr ""
 "disse verkene antatt å være ulovlig."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-msgid "Worldcom"
-msgstr "Worldcom"
+msgid "WorldCom"
+msgstr "WorldCom"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "doctors malpractice claims against"
