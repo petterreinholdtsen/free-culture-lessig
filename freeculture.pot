@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-04-03 09:03+0300\n"
+"POT-Creation-Date: 2015-04-03 14:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13027,7 +13027,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:9104
-msgid "&copy;/Free"
+msgid "&copy; / Free"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
