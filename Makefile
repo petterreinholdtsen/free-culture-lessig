@@ -50,6 +50,11 @@ freeculture.nb.po: freeculture.pot
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
+freeculture.es_419.po: freeculture.pot
+	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
+freeculture.es_419.xml: freeculture.es_419.po freeculture.xml
+	po4a --translate-only freeculture.es_419.xml po4a.cfg 
+
 pdf: freeculture.nb.pdf freeculture.pdf
 epub: freeculture.nb.epub freeculture.epub 
 mobi: freeculture.nb.mobi freeculture.mobi 
