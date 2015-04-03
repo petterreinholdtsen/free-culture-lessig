@@ -35,7 +35,7 @@ msgstr "Cultura Libre"
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:19
 msgid "<abbrev>\"freeculture\"</abbrev>"
-msgstr "Content of: <book><bookinfo>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><subtitle>
 #: freeculture.xml:21
@@ -67,28 +67,28 @@ msgstr "Lessig"
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 #: freeculture.xml:40
 msgid "Intellectual property&mdash;United States."
-msgstr "Content of: <book><bookinfo><subjectset><subject><subjectterm>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 #: freeculture.xml:43
 msgid "Mass media&mdash;United States."
-msgstr "Content of: <book><bookinfo><subjectset><subject><subjectterm>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 #: freeculture.xml:46
 msgid "Technological innovations&mdash;United States."
-msgstr "Content of: <book><bookinfo><subjectset><subject><subjectterm>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 #: freeculture.xml:49
 msgid "Art&mdash;United States."
-msgstr "Content of: <book><bookinfo><subjectset><subject><subjectterm>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><publisher><address>
 #: freeculture.xml:56
 #, no-wrap
 msgid "<city>Oslo</city>"
-msgstr "Content of: <book><bookinfo><publisher><address>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:54
@@ -111,7 +111,7 @@ msgstr "<imageobject> <imagedata fileref=\"images/cc.png\" contentdepth=\"3em\" 
 #. <book><bookinfo><legalnotice><para><inlinemediaobject><textobject><phrase>
 #: freeculture.xml:73
 msgid "Creative Commons, Some rights reserved"
-msgstr " Content of: <book><bookinfo><legalnotice><para><inlinemediaobject><textobject><phrase>"
+msgstr ""
 
 #. type: Content of: <book><bookinfo><legalnotice><para>
 #: freeculture.xml:65
