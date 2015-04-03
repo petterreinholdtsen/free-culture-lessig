@@ -99,8 +99,8 @@ html: freeculture.nb.html freeculture.html
 	esac
 
 pdf-compare: freeculture.xml $(IMAGES)
-	dblatex -o freeculture-dblatex.pdf freeculture.xml
-	dblatex -T db2latex \-o freeculture-dblatex-db2latex.pdf freeculture.xml
+	$(DBLATEX) -o freeculture-dblatex.pdf freeculture.xml
+	$(DBLATEX) -T db2latex \-o freeculture-dblatex-db2latex.pdf freeculture.xml
 
 	# plain xmlto fail
 	#xmlto pdf freeculture.xml && mv freeculture.pdf freeculture-xmlto.pdf
