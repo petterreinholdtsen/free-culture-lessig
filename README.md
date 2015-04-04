@@ -76,6 +76,9 @@ to:
 
   power with this language.
 
+Changed 'next page' references to use cross references instead (pages
+141, 148 and 246 in original).
+
 Rewrote colophon page and dropped irrelevant pages between the content
 table and the preface.
 
