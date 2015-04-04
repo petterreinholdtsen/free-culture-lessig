@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-04-03 14:40+0300\n"
+"POT-Creation-Date: 2015-04-05 00:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10899,8 +10899,8 @@ msgid ""
 "copyright law. Republishing the book, for example, makes a copy. It is "
 "therefore regulated by copyright law. Indeed, this particular use stands at "
 "the core of this circle of possible uses of a copyrighted work. It is the "
-"paradigmatic use properly regulated by copyright regulation (see diagram "
-"<xref xrefstyle=\"select: labelnumber\" linkend=\"fig-1541\"/>)."
+"paradigmatic use properly regulated by copyright regulation (see diagram in "
+"<xref linkend=\"fig-1541\"/>)."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11389,8 +11389,8 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><para>
 #: freeculture.xml:7911
 msgid ""
-"On the next page (<xref linkend=\"fig-1611\"/>) is a picture of an old "
-"version of my Adobe eBook Reader."
+"In <xref linkend=\"fig-1611\"/> is a picture of an old version of my Adobe "
+"eBook Reader."
 msgstr ""
 
 #.  PAGE BREAK 160 
@@ -17707,10 +17707,9 @@ msgstr ""
 msgid ""
 "The best responses were in the cartoons. There was a gaggle of hilarious "
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
-"case, was Ruben Bolling's, reproduced on the next page (<xref "
-"linkend=\"fig-18\"/>). The <quote>powerful and wealthy</quote> line is a bit "
-"unfair. But the punch in the face felt exactly like that.  <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"case, was Ruben Bolling's, reproduced in <xref linkend=\"fig-18\"/>. The "
+"<quote>powerful and wealthy</quote> line is a bit unfair. But the punch in "
+"the face felt exactly like that.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><title>
