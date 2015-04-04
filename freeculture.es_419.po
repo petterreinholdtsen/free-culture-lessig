@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# pere <pere-transifex@hungry.com>, 2015
 # RodrigoFlores <rodrigoflores1371@hotmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-04-03 09:03+0300\n"
-"PO-Revision-Date: 2015-04-03 08:45+0000\n"
+"POT-Creation-Date: 2015-04-03 14:40+0300\n"
+"PO-Revision-Date: 2015-04-04 08:45+0000\n"
 "Last-Translator: pere <pere-transifex@hungry.com>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/projects/p/free-culture-lessig/language/es_419/)\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +89,7 @@ msgstr ""
 #: freeculture.xml:56
 #, no-wrap
 msgid "<city>Oslo</city>"
-msgstr ""
+msgstr "<city>Oslo</city>"
 
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:54
@@ -13226,7 +13227,7 @@ msgstr ""
 #. type: Content of:
 #. <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:9104
-msgid "&copy;/Free"
+msgid "&copy; / Free"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
