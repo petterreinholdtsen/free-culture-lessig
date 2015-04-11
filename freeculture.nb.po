@@ -11385,7 +11385,7 @@ msgstr ""
 "deponerte filmene&mdash;så lenge de ville uten noe kostnad.  Bare i 1915 var "
 "det mer enn 5475 filmer deponert og <quote>lånt tilbake</quote>.  Dermed var "
 "det ikke noe eksemplar i noe bibliotek når vernetiden til filmen utløp.  "
-"Eksemplaret finnes&mdash;hvis den finnes i det hele tatt&mdash;i "
+"Eksemplaret finnes&mdash;hvis det finnes i det hele tatt&mdash;i "
 "arkivbiblioteket til filmselskapet.<placeholder type=\"footnote\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
