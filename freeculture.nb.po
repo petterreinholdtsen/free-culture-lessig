@@ -160,7 +160,7 @@ msgstr ""
 "<quote>e.biz 25</quote>, og omtalt som en av Scientific Americans <quote>50 "
 "visjonærer</quote>.  Etter utdanning ved University of Pennsylvania, "
 "Cambridge University, og Yale Law School, assisterte Lessig dommer Richard "
-"Posner ved USAs syvende ankekrets"
+"Posner ved USAs syvende ankekrets."
 
 #
 #
