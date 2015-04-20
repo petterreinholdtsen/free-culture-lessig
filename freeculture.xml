@@ -30,6 +30,20 @@
    <firstname>Lawrence</firstname>
    <surname>Lessig</surname>
   </author>
+<!--
+  Keep these out to avoid showing up as author in the PDF.
+
+  <editor>
+   <firstname>Petter</firstname>
+   <surname>Reinholdtsen</surname>
+  </editor>
+
+  <othercredit role='converter'>
+    <firstname>Petter</firstname>
+    <surname>Reinholdtsen</surname>
+    <contrib>Created this Docbook version from an earlier version</contrib>
+  </othercredit>
+-->
  </authorgroup>
 
 <!-- <subjectset> and cover <mediaobject> Based on example from
