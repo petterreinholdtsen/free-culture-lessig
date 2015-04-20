@@ -15613,12 +15613,8 @@ grateful for her perpetual patience and love.
 <index></index>
 <colophon>
 <para>
-This digital book was published by Petter Reinholdtsen in 2014.
-</para>
-<para>
-The original hardcover paper book was published in 2004 by The Penguin
-Press, a member of Penguin Group (USA) Inc. 375 Hudson Street New
-York, New York.
+Free culture: How big media uses technology and the law to lock down
+culture and control creativity / Lawrence Lessig.
 </para>
 <para>
 Copyright &copy; Lawrence Lessig.  Some rights reserved.
@@ -15627,8 +15623,13 @@ Copyright &copy; Lawrence Lessig.  Some rights reserved.
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
 this work, so long as attribution is given.  For more information
-about the license, click the icon above, or visit
+about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
+</para>
+<para>
+This digital book was published by Petter Reinholdtsen in 2015.  The
+original hardcover paper book was published in 2004 by The Penguin
+Press.
 </para>
 <para>
 Excerpt from an editorial titled <quote>The Coming of Copyright
@@ -15645,19 +15646,28 @@ reserved. Reprinted with permission.
 Diagram in <xref linkend="fig-1761-pattern-modern-media-ownership"/>
 courtesy of the office of FCC Commissioner, Michael J. Copps.
 </para>
+
 <para>
-Library of Congress Cataloging-in-Publication Data
+The source of this version of the text is written using DocBook
+notation and the other formats are derived from the DocBook source.
+The DocBook source is based on a DocBook XML version created by Hans
+Schou, and extended with formatting and index references by Petter
+Reinholdtsen.  The source files of this book is available as
+<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig">a
+github project</ulink>.
 </para>
+
 <para>
-Lessig, Lawrence.
-Free culture : how big media uses technology and the law to lock down 
-culture and control creativity / Lawrence Lessig.
+&translationblock;
 </para>
-<para>
-p. cm.
-</para>
+
 <para>
 Includes index.
+</para>
+
+<para>
+Classifications: (Dewey) 306.4 306.40973 341.7582 306.46 306.4 306.4
+343.7309/9, (UDK) 347.78 (US Lib. of Congress) KF2979.L47 2004
 </para>
 
 <para>
@@ -15674,7 +15684,6 @@ Includes index.
  <entry>978-82-92812-XX-Y</entry>
  <entry>text/plain</entry>
  </row>
-
  <row>
  <entry>978-82-92812-XX-Y</entry>
  <entry>application/pdf</entry>
@@ -15698,39 +15707,6 @@ Includes index.
 </tbody>
 </tgroup>
 </informaltable>
-</para>
-
-<para>
-1. Intellectual property&mdash;United States.
-</para>
-<para>
-2. Mass media&mdash;United States.
-</para>
-<para>
-3. Technological innovations&mdash;United States.
-</para>
-<para>
-4. Art&mdash;United States. I. Title.
-</para>
-<para>
-KF2979.L47 2004
-</para>
-<para>
-343.7309'9&mdash;dc22 2003063276
-</para>
-
-<para>
-The source of this version of the text is written using DocBook
-notation and the other formats are derived from the DocBook source.
-The DocBook source is based on a DocBook XML version created by Hans
-Schou, and extended with formatting and index references by Petter
-Reinholdtsen.  The source files of this book is available as
-<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig">a
-github project</ulink>.
-</para>
-
-<para>
-&translationblock;
 </para>
 
 </colophon>
