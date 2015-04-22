@@ -65,7 +65,7 @@ html: freeculture.nb.html freeculture.html
 #
 # dblatex:
 #   This converts the docbook content to latex and leave it to latex
-#   to format it.
+#   to format it.  Index ranges are broken.
 #
 # xmlto:
 #   Alternative processing path to dblatex is to use xmlto using fop
@@ -75,7 +75,7 @@ html: freeculture.nb.html freeculture.html
 # docbook-xsl:
 #   Third alternative is to use xsltproc and fop directly, as
 #   recommended by <URL: http://www.sagehill.net/docbookxsl/index.html >.
-#   This include images, but the index refs and footnote handling
+#   This include images, but the index refs and footnote/endnote handling
 #   is broken.
 
 	pipeline=dblatex; \
