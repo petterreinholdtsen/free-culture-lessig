@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-04-20 11:47+0300\n"
+"POT-Creation-Date: 2015-04-22 11:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21663,51 +21663,51 @@ msgstr ""
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15669
 msgid ""
-"Classifications: (Dewey) 306.4 306.40973 341.7582 306.46 306.4 306.4 "
-"343.7309/9, (UDK) 347.78 (US Lib. of Congress) KF2979.L47 2004"
+"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
+"347.78 (US Lib. of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15678
+#: freeculture.xml:15684
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15679
+#: freeculture.xml:15685
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15684 freeculture.xml:15688 freeculture.xml:15692 freeculture.xml:15696 freeculture.xml:15700 freeculture.xml:15704
+#: freeculture.xml:15690 freeculture.xml:15694 freeculture.xml:15698 freeculture.xml:15702 freeculture.xml:15706 freeculture.xml:15710
 msgid "978-82-92812-XX-Y"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15685
+#: freeculture.xml:15691
 msgid "text/plain"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15689
+#: freeculture.xml:15695
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15693
+#: freeculture.xml:15699
 msgid "text/html"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15697
+#: freeculture.xml:15703
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15701
+#: freeculture.xml:15707
 msgid "application/docbook+xml"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15705
+#: freeculture.xml:15711
 msgid "application/x-mobipocket-ebook"
 msgstr ""
