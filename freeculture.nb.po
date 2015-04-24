@@ -15801,7 +15801,7 @@ msgstr ""
 "America</citetitle> v. <citetitle>Universal City Studios, Inc.</citetitle>, "
 "464 U.S 417, 455 fn. 27 (1984).  Rogers endret aldri sitt syn om "
 "videoopptakeren.  Se James Lardner, <citetitle>Fast Forward: Hollywood, the "
-"Japanese, and the Onslaught of the VCR</citetitle> (New York: W. W. Norton, 
+"Japanese, and the Onslaught of the VCR</citetitle> (New York: W. W. Norton, "
 "1987), 270­71.  <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
