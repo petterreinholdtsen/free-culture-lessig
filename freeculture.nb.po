@@ -23798,8 +23798,8 @@ msgstr ""
 "quote>  Naturlige rettigheter trenger ingen formaliterer for å eksistere.  "
 "Tradisjoner lik den anglo-amerikanske som har krevd at opphavsrettseiere må "
 "følge visse formaliteter hvis deres rettigheter skal bli beskyttet, mente "
-"europeerne  ikke respekterte forfatterens verdighet skikkelig.  Mine skaper-"
-"rettigheter stammer fra min kreativitet, ikke noe som deles ut av "
+"europeerne  ikke respekterte forfatterens verdighet skikkelig.  Mine rettigheter"
+"som skaper stammer fra min kreativitet, ikke noe som deles ut av "
 "myndighetene."
 
 #. type: Content of: <book><part><chapter><para>
