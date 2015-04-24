@@ -1,0 +1,28 @@
+#!/bin/sh
+
+set -e
+
+TEXFILE="$1"
+
+# Legg inn orddelingspunkt på problematiske ord.  LaTeX deler ikke ord
+# med bindestrek automatisk, slik at endel ord blir veldig lange.  Vil
+# ikke endre i originalteksten, så vi skriver om aktuelle ord her til
+# å inneholde orddelingsmarkør.
+sed -i 's%FS/OSS-{}teknologi%FS/OSS-tekno\\-logi%g' $TEXFILE
+sed -i 's/-{}opptakeren/-{}opp\\-takeren/g' $TEXFILE
+sed -i 's/Eastman-fabrikk/East\\-man-fabrikk/g' $TEXFILE
+sed -i 's/TV-{}kringkasting/TV-{}kring\\-kast\\-ing/g' $TEXFILE
+sed -i 's/bygningen/byg\\-ningen/g' $TEXFILE
+sed -i 's/fildeling/fil\\-del\\-ing/g' $TEXFILE
+sed -i 's/fjerdedel/fjerde\\-del/g' $TEXFILE
+sed -i 's/ikke-{}diskriminerende/ikke-diskrim\\-inerende/g' $TEXFILE
+sed -i 's/kommersiell/kom\\-mer\\-siell/g' $TEXFILE
+sed -i 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' $TEXFILE
+sed -i 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' $TEXFILE
+sed -i 's/tvangslisens/tvangs\\-lisens/g' $TEXFILE
+sed -i 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' $TEXFILE
+sed -i 's/Handels-{}bestemmelsen/Handels-{}bestemmelsen/g' $TEXFILE
+sed -i 's/Fremskritts-{}bestemmelsen/Fremskritts-{}bestemmelsen/g' $TEXFILE
+sed -i 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' $TEXFILE
+
+exit 0

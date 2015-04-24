@@ -12,6 +12,7 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 DBLATEX = dblatex \
 	-T simple \
 	-b xetex \
+	-r data/dblatex-postprocess \
 	--indexstyle=myindexstyle.ist \
 	--param lingua=nb \
 	--xsl-user=data/user_param.xsl \
