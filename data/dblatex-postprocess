@@ -21,8 +21,14 @@ sed -i 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' $TEXF
 sed -i 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' $TEXFILE
 sed -i 's/tvangslisens/tvangs\\-lisens/g' $TEXFILE
 sed -i 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' $TEXFILE
-sed -i 's/Handels-{}bestemmelsen/Handels-{}bestemmelsen/g' $TEXFILE
-sed -i 's/Fremskritts-{}bestemmelsen/Fremskritts-{}bestemmelsen/g' $TEXFILE
+sed -i 's/Handels-{}bestemmelsen/Han\\-dels-{}bestem\\-melsen/g' $TEXFILE
+sed -i 's/Fremskritts-{}bestemmelsen/Frems\\-kritts-{}bestem\\-melsen/g' $TEXFILE
 sed -i 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' $TEXFILE
+sed -i 's/opphavsrettsbeskyttelses-{}system/opp\\-havs\\-retts\\-beskyt\\-telses-{}system/g' $TEXFILE
+sed -i 's/anti-{}omgåelsesbestemmelsene/anti-{}om\\-gåelses\\-bestem\\-melsene/g' $TEXFILE
+sed -i 's/grunnlovstilleggs/grunn\\-lovs\\-til\\-leggs/g' $TEXFILE
+sed -i 's/beslagleggings-{}avsnitt/be\\-slag\\-leg\\-gings-{}av\\-snitt/g' $TEXFILE
+sed -i 's/fildelingsnettverk/fil\\-delings\\-nett\\-verk/g' $TEXFILE
+sed -i 's/monopol/mono\\-pol/g' $TEXFILE
 
 exit 0
