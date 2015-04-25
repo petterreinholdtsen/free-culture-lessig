@@ -21,6 +21,7 @@ sed -i 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' $TEXF
 sed -i 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' $TEXFILE
 sed -i 's/tvangslisens/tvangs\\-lisens/g' $TEXFILE
 sed -i 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' $TEXFILE
+sed -i 's/opphavsrettsvernetids-{}loven/opp\\-havs\\-retts\\-verne\\-tids-{}loven/g' $TEXFILE
 sed -i 's/Handels-{}bestemmelsen/Han\\-dels-{}bestem\\-melsen/g' $TEXFILE
 sed -i 's/Fremskritts-{}bestemmelsen/Frems\\-kritts-{}bestem\\-melsen/g' $TEXFILE
 sed -i 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' $TEXFILE
@@ -30,5 +31,18 @@ sed -i 's/grunnlovstilleggs/grunn\\-lovs\\-til\\-leggs/g' $TEXFILE
 sed -i 's/beslagleggings-{}avsnitt/be\\-slag\\-leg\\-gings-{}av\\-snitt/g' $TEXFILE
 sed -i 's/fildelingsnettverk/fil\\-delings\\-nett\\-verk/g' $TEXFILE
 sed -i 's/monopol/mono\\-pol/g' $TEXFILE
+sed -i 's/Disney-{}kreativitet/Disney-{}kreativ\\-itet/g' $TEXFILE
+sed -i 's/2004-{}presidentvalgkampen/2004-{}president\\-valg\\-kampen/g' $TEXFILE
+sed -i 's/Madonna-{}CD/Madon\\-na-{}CD/g' $TEXFILE
+sed -i 's/kabel-{}TV-{}selskapene/kabel-{}TV-{}selskap\\-nene/g' $TEXFILE
+sed -i 's/Eastwood/East\\-wood/g' $TEXFILE
+sed -i 's/MP3.com/MP3\\-.com/g' $TEXFILE
+sed -i 's/Ikke-{}programmerere/Ikke-{}program\\-merere/g' $TEXFILE
+sed -i 's/tilhenger-{}fantasi/til\\-henger-{}fantasi/g' $TEXFILE
+sed -i 's/opphavsretts-/opp\\-havs\\-retts-/g' $TEXFILE
+sed -i 's/MTV-{}oppmerksomhetsspenn/MTV-{}opp\\-merksom\\-hets\\-spenn/g' $TEXFILE
+sed -i 's/Linux-{}operativsystemet/Linux-{}operativ\\-systemet/g' $TEXFILE
+sed -i 's/monopolbeskyttelsen/mono\\-pol\\-beskyt\\-telsen/g' $TEXFILE
+sed -i 's/FCC-{}kommisjonæren/FCC-{}kom\\-misjon\\-æren/g' $TEXFILE
 
 exit 0
