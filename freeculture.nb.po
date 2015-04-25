@@ -23813,7 +23813,7 @@ msgstr ""
 "Det er flott retorikk, og det høres vidunderlig romantisk ut.  Men det er "
 "absurd opphavsrettspolitikk.  Det er absurd spesielt for forfattere, fordi "
 "en verden uten formaliterer skader den som skaper. Muligheten til å spre "
-"<quote>Walt Disney-kreativtet</quote> er fjernet når det ikke er noen enkel "
+"<quote>Walt Disney-kreativitet</quote> er fjernet når det ikke er noen enkel "
 "måte å vite hva som er beskyttet og hva som ikke er det."
 
 #. type: Content of: <book><part><chapter><para>
