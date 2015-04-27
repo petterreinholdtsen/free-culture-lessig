@@ -28501,7 +28501,7 @@ msgstr ""
 "Men vi er langt unna å spikke problemet ned til dette delsettet av type-A-"
 "delere.  Og vårt fokus inntil vi er der bør ikke være å finne måter å "
 "ødelegge Internett.  Var fokus inntil vi er der bør være hvordan sikre at "
-"artister får betalt, mens vi beskytter *rommet* for nyskapning og "
+"artister får betalt, mens vi beskytter *plassen* for nyskapning og "
 "kreativitet som Internett er."
 
 #. type: Content of: <book><chapter><section><section><title>
