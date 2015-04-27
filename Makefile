@@ -22,7 +22,7 @@ DBLATEX = dblatex \
 
 DBTOEPUB = dbtoepub
 
-IMAGES = images/cc.png
+IMAGES = images/cc.png images/pattern-modern-media-ownership.png images/tom-the-dancing-bug.png
 
 XSLT = \
   data/user_param.xsl
@@ -163,3 +163,18 @@ images/cc.svg:
 
 images/cc.png: images/cc.svg
 	inkscape -z -D --export-height=200 -D --export-png=$(shell pwd)/$@ $^
+
+.xcf.png:
+	convert $^ $@
+
+clean:
+	$(RM) *~
+
+distclean: clean
+	$(RM) freeculture-docbook-xsl.pdf \
+	freeculture-docbook-xsl.fo \
+	freeculture-dblatex-db2latex.pdf \
+	freeculture-dblatex.pdf \
+	freeculture-xmlto-fop.pdf
+
+.SUFFIXES: .png .xcf .svg .xml
