@@ -19121,8 +19121,8 @@ msgstr ""
 "med valg.  Og i og med at det potensielle publikum for Internettradio er "
 "hele verden, nisje-stasjoner kan enkelt utvikle og markedsføre sitt innhold "
 "til et relativt stort antall brukere over hele verden.  I følge noen "
-"estimater har mer enn åtti millioner brukere over hele verden *stilt seg inn "
-"på denne nye formen for radio*."
+"estimater har mer enn åtti millioner brukere over hele verden koblet seg opp "
+"til denne nye formen for radio."
 
 #.  PAGE BREAK 205 
 #. type: Content of: <book><part><chapter><section><para>
