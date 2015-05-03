@@ -19,7 +19,7 @@ Supreme Court         = domstol, rettsal
 Judge Xs opinion      = dommer Xs betenkning
 Court opinion         = domstolavgjørelse
 en banc               = i plenum
-district court        = områdedomstol
+district court        = regionsdomstol
 
 Marker ord som ikke er oversatt med stjerne (*) foran og bak i
 teksten, for å gjøre det enkelt å finne dem igjen.
