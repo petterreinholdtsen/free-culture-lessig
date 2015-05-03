@@ -67,15 +67,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34249114"
+     inkscape:zoom="1.9374225"
      inkscape:cx="347.81657"
-     inkscape:cy="522.35268"
+     inkscape:cy="495.59594"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="1004"
-     inkscape:window-x="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="false" />
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,18 +118,18 @@
        transform="matrix(1,0,0,1.0834432,0,-34.200521)" />
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="273.24625"
-       y="453.34174"
+       style="font-size:38px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="264.47171"
+       y="437.85724"
        id="text11227"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11229"
-         x="273.24625"
-         y="453.34174">uregulert</tspan></text>
+         x="264.47171"
+         y="437.85724">uregulert</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
        x="214.15234"
        y="554.35699"
        id="text11231"
@@ -138,10 +138,10 @@
          id="tspan11233"
          x="214.15234"
          y="554.35699"
-         style="font-size:22px;fill:#9c9c9c;fill-opacity:1">les</tspan></text>
+         style="font-size:22px;fill:#9c9c9c;fill-opacity:1;-inkscape-font-specification:Crimson Text;font-family:Crimson Text;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">les</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
        x="360.9068"
        y="487.5188"
        id="text11231-5"
@@ -150,10 +150,10 @@
          id="tspan11233-3"
          x="360.9068"
          y="487.5188"
-         style="font-size:22px;fill:#9c9c9c;fill-opacity:1">gi bort</tspan></text>
+         style="font-size:22px;fill:#9c9c9c;fill-opacity:1;-inkscape-font-specification:Crimson Text;font-family:Crimson Text;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">gi bort</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:22.00000002px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
        x="529.75092"
        y="367.2475"
        id="text11231-5-9"
@@ -163,10 +163,10 @@
          id="tspan11233-3-4"
          x="529.75092"
          y="367.2475"
-         style="font-size:22px;fill:#9c9c9c;fill-opacity:1">selg</tspan></text>
+         style="font-size:22.00000002px;fill:#9c9c9c;fill-opacity:1;-inkscape-font-specification:Crimson Text;font-family:Crimson Text;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">selg</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:21.99999996px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
        x="35.240643"
        y="709.12476"
        id="text11231-5-8"
@@ -176,26 +176,26 @@
          id="tspan11233-3-2"
          x="35.240643"
          y="709.12476"
-         style="font-size:22px;fill:#9c9c9c;fill-opacity:1">sov</tspan></text>
+         style="font-size:21.99999996px;fill:#9c9c9c;fill-opacity:1;-inkscape-font-specification:Crimson Text;font-family:Crimson Text;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">sov</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#c1c1c1;stroke-width:2.14996219;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect11794"
-       width="40.406101"
-       height="25.75889"
-       x="255.06352"
-       y="648.30115" />
+       width="46.966084"
+       height="25.608929"
+       x="248.42856"
+       y="648.3761" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="257.0838"
-       y="667.49408"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="251.40616"
+       y="669.55865"
        id="text11796"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11798"
-         x="257.0838"
-         y="667.49408"
-         style="font-size:16px;fill:#b3b3b3;fill-opacity:1">5 kr</tspan></text>
+         x="251.40616"
+         y="669.55865"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;font-family:Crimson Text;-inkscape-font-specification:Crimson Text">5 kr</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect11800"
@@ -289,7 +289,7 @@
        id="path11936"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.02411592px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.02411592000000007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 353.42859,524.81884 0.48096,6.67549 0,0"
        id="path11938"
        inkscape:connector-curvature="0" />
@@ -317,7 +317,7 @@
          inkscape:connector-curvature="0"
          id="path11944"
          d="m 407.64951,541.42458 14.54131,-8.48039 0,0"
-         style="fill:#b87474;fill-opacity:1;stroke:#000000;stroke-width:1.10590255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#b87474;fill-opacity:1;stroke:#000000;stroke-width:1.10590254999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path11948"
