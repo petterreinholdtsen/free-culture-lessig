@@ -8,8 +8,8 @@
 
   <xsl:param name="xetex.font">
     <!-- Western centric Adobe PostScript looks-alike: gsfonts -->
-    <xsl:text>\setmainfont{Nimbus Roman No9 L}&#10;</xsl:text>
-    <xsl:text>\setsansfont{Nimbus Sans L}&#10;</xsl:text>
+    <xsl:text>\setmainfont{Crimson Text}&#10;</xsl:text>
+    <xsl:text>\setsansfont{Crimson Text}&#10;</xsl:text>
     <xsl:text>\setmonofont{Nimbus Mono L}&#10;</xsl:text>
     <xsl:text>\usepackage{xeCJK}&#10;</xsl:text>
     <xsl:choose>

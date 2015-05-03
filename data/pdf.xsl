@@ -29,4 +29,13 @@
 <xsl:param name="latex.class.book">scrreprtmargins</xsl:param>
 <xsl:param name="latex.class.options">a4paper</xsl:param>
 
+<!-- font for XSL/FOP -->
+<!-- FIXME figure out why the font name 'Crimson Text' is not recoginized by fop -->
+<!--
+<xsl:param name="body.font.family" select="'Crimson Text'"/>
+<xsl:param name="title.font.family" select="'Crimson Text'"/>
+-->
+<!-- <xsl:param name="dingbat.font.family">Crimson Text</xsl:param> -->
+<!-- <xsl:param name="monospace.font.family" select="'Courier,MS Gothic'"/> -->
+
 </xsl:stylesheet>
