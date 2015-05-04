@@ -28977,9 +28977,9 @@ msgstr ""
 msgid "&translationblock;"
 msgstr ""
 "Boken er oversatt til bokmål på dugnad av Petter Reinholdtsen med hjelp fra "
-"Anders Hagen Jarmund og Kirill Miazine. Takk til Ralph Amissah for hjelp med "
-"registeroppføringene samt Morten Sickel og Alexander Alemayhu for hjelp med "
-"bildene.  Rapporter feil i oversettelsen via GitHub."
+"Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva. Takk til Ralph Amissah for "
+"hjelp med registeroppføringene samt Morten Sickel og Alexander Alemayhu for "
+"hjelp med bildene.  Rapporter feil i oversettelsen via GitHub."
 
 #. type: Content of: <book><colophon><para>
 msgid "Includes index."
