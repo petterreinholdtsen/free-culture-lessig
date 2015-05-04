@@ -28986,16 +28986,12 @@ msgid "Includes index."
 msgstr "Inkluderer register."
 
 #. type: Content of: <book><colophon><para>
-#, fuzzy
-#| msgid ""
-#| "Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, "
-#| "(UDK) 347.78 (US Lib. of Congress) KF2979.L47 2004"
 msgid ""
 "Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
 "347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
 msgstr ""
 "Klassifiseringer: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
-"347.78 (US Lib. of Congress) KF2979.L47 2004"
+"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
 msgid "ISBN"
