@@ -19445,7 +19445,7 @@ msgid ""
 msgstr ""
 "I et sjeldent oppriktig øyeblikk, innrømmet en RIAA-ekspert det som virket "
 "åpenbart for alle på den tiden.  Dette fortalte Alex Alben, visepresident "
-"for *Public Policy* ved Real Networks, meg,"
+"med ansvar for offentlig politikk ved Real Networks, meg,"
 
 #.  PAGE BREAK 208 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
