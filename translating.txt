@@ -22,6 +22,7 @@ en banc               = i plenum
 district court        = regionsdomstol
 Digital Millennium Copyright Act (DMCA) = Opphavsrettslov for et Digitalt Århundre
 land grab             = eiendomstyveri
+enumerated powers     = opplistede kompetanse
 
 Marker ord som ikke er oversatt med stjerne (*) foran og bak i
 teksten, for å gjøre det enkelt å finne dem igjen.
