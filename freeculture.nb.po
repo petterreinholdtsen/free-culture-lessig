@@ -21122,7 +21122,6 @@ msgstr ""
 
 #.  f8. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
-#, fuzzy
 msgid ""
 "If it is a principle about enumerated powers, then the principle carries "
 "from one enumerated power to another. The animating point in the context of "
@@ -21134,14 +21133,14 @@ msgid ""
 "copyrights&mdash;the limitation to <quote>limited times</quote> "
 "notwithstanding."
 msgstr ""
-"Hvis det er et prinsipp om opplistede myndigheter, deretter bærer prinsippet "
-"fra en *opplistet myndighet* til en annen. animert poenget i konteksten av "
-"handel-setningsdelen var at tolkningen tilbys av regjeringen ville tillate "
-"regjeringen unending makt til å regulere handel&mdash;begrenset til "
-"utdanningen handel til tross for. det samme punktet er sant i forbindelse "
-"med opphavsrett-setningsdel. her også, regjeringens tolkning ville tillate "
-"regjeringen unending makt til å regulere opphavsrett&mdash;begrenset til "
-"\"begrenset ganger\" til tross for."
+"Hvis det er et prinsipp om opplistede kompetanser, så bør dette "
+"prinsippet kunne overføres fra en opplistet kompetanse til den neste. "
+"Det utslagsgivende poenget når det gjalt handelsbestemmelsen var at "
+"tolkningen staten kom med ville gi staten ubegrenset kompetanse til "
+"å regulere handel&mdash;på tross av begresningen om mellomstatlig "
+"handel.  Også i denne sammenehengen ville statens tolkning gi staten "
+"ubegrenset kompetanse til å regulere opphavsrett&mdash;på tross av "
+"begrensningen om <quote>et begrenset tidsrom.</quote>"
 
 #.  PAGE BREAK 227 
 #. type: Content of: <book><part><chapter><para>
