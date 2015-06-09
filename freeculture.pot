@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-05-03 23:35+0300\n"
+"POT-Creation-Date: 2015-06-03 11:01+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11415,8 +11415,8 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><para>
 #: freeculture.xml:7942
 msgid ""
-"In <xref linkend=\"fig-1611\"/> is a picture of an old version of my Adobe "
-"eBook Reader."
+"In <xref linkend=\"fig-example-adobe-ebook-reader\"/> is a picture of an old "
+"version of my Adobe eBook Reader."
 msgstr ""
 
 #.  PAGE BREAK 160 
@@ -11441,7 +11441,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7960
 msgid ""
-"<graphic fileref=\"images/1611.png\" align=\"center\" "
+"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 

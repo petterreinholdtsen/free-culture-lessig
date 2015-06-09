@@ -14932,10 +14932,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
-"In <xref linkend=\"fig-1611\"/> is a picture of an old version of my Adobe "
+"In <xref linkend=\"fig-example-adobe-ebook-reader\"/> is a picture of an old version of my Adobe "
 "eBook Reader."
 msgstr ""
-"I <xref linkend=\"fig-1611\"/> er et bilde av en eldre versjon av min Adobe "
+"I <xref linkend=\"fig-example-adobe-ebook-reader\"/> er et bilde av en eldre versjon av min Adobe "
 "eBook Reader."
 
 #.  PAGE BREAK 160 
@@ -14965,10 +14965,10 @@ msgstr "Bilde av en gammel versjon av Adobe eBook Reader."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1611.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>

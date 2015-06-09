@@ -7939,7 +7939,7 @@ technology, and the publisher delivers the content by using the
 technology.
 </para>
 <para>
-In <xref linkend="fig-1611"/> is a picture of an old version of my
+In <xref linkend="fig-example-adobe-ebook-reader"/> is a picture of an old version of my
 Adobe eBook Reader.
 </para>
 <para>
@@ -7955,9 +7955,9 @@ copy of
 <citetitle>Middlemarch</citetitle>, you'll see a fancy cover, and then
 a button at the bottom called Permissions.
 </para>
-<figure id="fig-1611">
+<figure id="fig-example-adobe-ebook-reader">
 <title>Picture of an old version of Adobe eBook Reader</title>
-<graphic fileref="images/1611.png" align="center" width="50%"></graphic>
+<graphic fileref="images/example-adobe-ebook-reader.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 If you click on the Permissions button, you'll see a list of the
