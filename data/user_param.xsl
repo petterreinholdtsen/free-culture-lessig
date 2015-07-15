@@ -13,9 +13,6 @@
   <xsl:template match="book|article" mode="docinfo">
     <!-- Apply default settings -->
     <xsl:apply-imports/>
-    <!--
-    <xsl:text>\input{</xsl:text>po4a/hyphenation.<xsl:value-of select="$lingua"/><xsl:text>.tex}</xsl:text>
-    -->
   </xsl:template>
 
   <xsl:param name="hyphenate">false</xsl:param>
