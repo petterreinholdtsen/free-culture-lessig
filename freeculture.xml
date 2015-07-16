@@ -15614,6 +15614,7 @@ grateful for her perpetual patience and love.
 </chapter>
 <index></index>
 <colophon>
+<?latex {\tiny ?>
 <para>
 Free culture: How big media uses technology and the law to lock down
 culture and control creativity / Lawrence Lessig.
@@ -15717,6 +15718,6 @@ Classifications: (Dewey)
 </tgroup>
 </informaltable>
 </para>
-
+<?latex } %\tiny ?>
 </colophon>
 </book>
