@@ -10,7 +10,7 @@ TEXFILE="$1"
 # å inneholde orddelingsmarkør.
 sed -i 's%FS/OSS-{}teknologi%FS/OSS-tekno\\-logi%g' $TEXFILE
 sed -i 's/-{}opptakeren/-{}opp\\-takeren/g' $TEXFILE
-sed -i 's/Eastman-fabrikk/East\\-man-fabrikk/g' $TEXFILE
+sed -i 's/Eastman-{}fabrikk/East\\-man-fabrikk/g' $TEXFILE
 sed -i 's/TV-{}kringkasting/TV-{}kring\\-kast\\-ing/g' $TEXFILE
 sed -i 's/bygningen/byg\\-ningen/g' $TEXFILE
 sed -i 's/fildeling/fil\\-del\\-ing/g' $TEXFILE
@@ -44,5 +44,6 @@ sed -i 's/MTV-{}oppmerksomhetsspenn/MTV-{}opp\\-merksom\\-hets\\-spenn/g' $TEXFI
 sed -i 's/Linux-{}operativsystemet/Linux-{}operativ\\-systemet/g' $TEXFILE
 sed -i 's/monopolbeskyttelsen/mono\\-pol\\-beskyt\\-telsen/g' $TEXFILE
 sed -i 's/FCC-{}kommisjonæren/FCC-{}kom\\-misjon\\-æren/g' $TEXFILE
-
+sed -i 's/Wright-{}brødrenes/Wright-{}brød\\-renes/g' $TEXFILE
+sed -i 's/Nord-{}Carolina/Nord-{}Caro\-lina/g' $TEXFILE
 exit 0
