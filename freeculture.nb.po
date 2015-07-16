@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE
+# Free Culture translation to Norwegian Bokmål.
 # Copyright (C) 2015 Petter Reinholdtsen and contributors
 # This file is distributed under the same license as the Free Culture book.
 #
@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
 "POT-Creation-Date: 2015-06-03 11:01+0300\n"
-"PO-Revision-Date: 2015-07-12 09:59+0000\n"
+"PO-Revision-Date: 2015-07-12 10:31+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/p/free-culture-"
 "lessig/language/nb/)\n"
@@ -120,8 +120,8 @@ msgid ""
 "org/licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</"
 "ulink>"
 msgstr ""
-"Denne versjonen av <citetitle>Frigjør kulturen</citetitle> er lisensiert under en "
-"Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
+"Denne versjonen av <citetitle>Frigjør kulturen</citetitle> er lisensiert "
+"under en Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
 "utnyttelse av verket dersom opphavsmannen er navngitt.  For mer informasjon "
 "om lisensen, klikk på ikonet over eller besøk <ulink url=\"http://"
 "creativecommons.org/licenses/by-nc/1.0/\">http://creativecommons.org/"
@@ -4548,7 +4548,8 @@ msgstr ""
 "Sfæren er faktisk fylt med politiske innlegg, både på høyre- og "
 "venstresiden.  Noen av de mest populære stedene er konservative eller "
 "*frihetsforkjempere*, men det er mange av alle politiske farger.  Til og med "
-"blogger som ikke er politiske dekker politiske temaer når anledningen krever det."
+"blogger som ikke er politiske dekker politiske temaer når anledningen krever "
+"det."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Dean, Howard"
@@ -9361,7 +9362,7 @@ msgstr ""
 "være tilgjengelige for nyutgivelse for enhver utgiver etter en begrenset "
 "tidsperiode.  Dermed var det at vernetiden for eksisterende verk bare ble på "
 "tjueen år, et kompromiss for å bekjempe makten til bokhandlerne.  "
-"Begresningen i vernetiden var en indirekte måte å sikre konkurranse mellom "
+"Begrensningen i vernetiden var en indirekte måte å sikre konkurranse mellom "
 "utgivere, og dermed oppbyggingen og spredning av kultur."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
@@ -17009,9 +17010,9 @@ msgid ""
 "distinctions and draw a clear map of the changes that copyright law has "
 "undergone.  In 1790, the law looked like this:"
 msgstr ""
-"I starten av denne boken, poengterte jeg forskjellen mellom kommersielle og "
+"I starten av denne boken, poengterte jeg forskjellen mellom kommersiell og "
 "ikke-kommersiell kultur.  I løpet av dette kapitelet har jeg skilt mellom "
-"kopiering av et verk, og omforming av det.  Vi kan nå kombinere disse to "
+"kopiering av et verk, og å omforme det.  Vi kan nå kombinere disse to "
 "skillene og tegne et klart kart over endringene som opphavsrettsloven har "
 "gjennomgått.  I 1790, så loven slik ut:"
 
@@ -21104,10 +21105,10 @@ msgstr ""
 "kunne overføres fra en opplistet kompetanse til den neste. Det "
 "utslagsgivende poenget når det gjalt handelsbestemmelsen var at tolkningen "
 "staten kom med ville gi staten ubegrenset kompetanse til å regulere "
-"handel&mdash;på tross av begresningen om mellomstatlig handel.  Også i denne "
-"sammenehengen ville statens tolkning gi staten ubegrenset kompetanse til å "
-"regulere opphavsrett&mdash;på tross av begrensningen om <quote>et begrenset "
-"tidsrom.</quote>"
+"handel&mdash;på tross av begrensningen om mellomstatlig handel.  Også i "
+"denne sammenehengen ville statens tolkning gi staten ubegrenset kompetanse "
+"til å regulere opphavsrett&mdash;på tross av begrensningen om <quote>et "
+"begrenset tidsrom.</quote>"
 
 #.  PAGE BREAK 227 
 #. type: Content of: <book><part><chapter><para>
@@ -22240,8 +22241,8 @@ msgstr ""
 "innlegg fra to jussprofessorer, et fra en opphavsrettsakademiker og et fra "
 "Første grunnlovstillegg-akademikere. Det var et uttømmende og uomtvistet "
 "innlegg fra verdens ekspert på historien til Fremskritts-bestemmelsen.  Og "
-"naturligvis var det et innlegg fra Ørneforumet, som gjentok og styrket "
-"argumentet deres."
+"naturligvis var det et innlegg fra Ørneforumet, som gjentok og styrket sitt "
+"argument."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "American Association of Law Libraries"
