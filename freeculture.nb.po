@@ -1,6 +1,8 @@
 # Free Culture translation to Norwegian Bokmål.
 # Copyright (C) 2015 Petter Reinholdtsen and contributors
-# This file is distributed under the same license as the Free Culture book.
+# This file is distributed under the same license as the Free Culture
+# book.  When the original enter the public domain, the intention is
+# for this translation to do so too.
 #
 # Translators:
 # Petter Reinholdtsen <pere@hungry.com>, 2012-2015.
@@ -9,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-06-03 11:01+0300\n"
-"PO-Revision-Date: 2015-07-12 10:31+0000\n"
+"POT-Creation-Date: 2015-07-16 21:30+0000\n"
+"PO-Revision-Date: 2015-07-18 05:23+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/p/free-culture-"
 "lessig/language/nb/)\n"
@@ -30,11 +32,11 @@ msgstr "nb"
 
 #. type: Content of: <book><bookinfo><title>
 msgid "Free Culture"
-msgstr "Frigjør kulturen"
+msgstr "Fri kultur"
 
 #. type: Content of: <book><bookinfo>
 msgid "<abbrev>\"freeculture\"</abbrev>"
-msgstr "<abbrev>\"frigjørkulturen\"</abbrev>"
+msgstr "<abbrev>\"frikultur\"</abbrev>"
 
 #. type: Content of: <book><bookinfo><subtitle>
 msgid ""
@@ -120,8 +122,8 @@ msgid ""
 "org/licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</"
 "ulink>"
 msgstr ""
-"Denne versjonen av <citetitle>Frigjør kulturen</citetitle> er lisensiert "
-"under en Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
+"Denne versjonen av <citetitle>Fri kultur</citetitle> er lisensiert under en "
+"Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
 "utnyttelse av verket dersom opphavsmannen er navngitt.  For mer informasjon "
 "om lisensen, klikk på ikonet over eller besøk <ulink url=\"http://"
 "creativecommons.org/licenses/by-nc/1.0/\">http://creativecommons.org/"
@@ -463,7 +465,7 @@ msgid ""
 "not you care about the Internet, and whether you're on Safire's left or on "
 "his right."
 msgstr ""
-"Denne idéen er et element i argumentet til <citetitle>Frigjør kulturen</"
+"Denne idéen er et element i argumentet til <citetitle>Fri kultur</"
 "citetitle>, selv om min fokus ikke bare er på konsentreringen av makt som "
 "følger av konsentreringen i eierskap, men mer viktig, og fordi det er mindre "
 "synlig, på konsentreringen av makt som er resultat av en radikal endring i "
@@ -28849,9 +28851,8 @@ msgid ""
 "Free culture: How big media uses technology and the law to lock down culture "
 "and control creativity / Lawrence Lessig."
 msgstr ""
-"Frigjør kulturen: Hvordan store medieaktører bruker teknologi og "
-"rettsvesenet til å begrense kulturen og kontrollere kreativiteten / Lawrence "
-"Lessig."
+"Fri kultur: Hvordan store medieaktører bruker teknologi og rettsvesenet til "
+"å begrense kulturen og kontrollere kreativiteten / Lawrence Lessig."
 
 #. type: Content of: <book><colophon><para>
 msgid "Copyright &copy; Lawrence Lessig.  Some rights reserved."
@@ -28866,8 +28867,8 @@ msgid ""
 "license visit <ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/"
 "\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
 msgstr ""
-"Denne versjonen av <citetitle>Frigjør Kulturen</citetitle> er lisensert med "
-"en Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
+"Denne versjonen av <citetitle>Fri kultur</citetitle> er lisensert med en "
+"Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
 "utnyttelse av verket, hvis opphavsinnehaveren er navngitt.  For mer "
 "informasjon om lisensen, besøk <ulink url=\"http://creativecommons.org/"
 "licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
