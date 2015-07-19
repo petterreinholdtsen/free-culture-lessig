@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-07-16 21:30+0000\n"
-"PO-Revision-Date: 2015-07-18 05:23+0000\n"
+"POT-Creation-Date: 2015-07-19 23:35+0300\n"
+"PO-Revision-Date: 2015-07-19 21:31+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/p/free-culture-"
 "lessig/language/nb/)\n"
@@ -201,32 +201,32 @@ msgid "Also by Lawrence Lessig"
 msgstr "Andre bøker av Lawrence Lessig"
 
 #.  2014 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "The USA is lesterland: The nature of congressional corruption"
 msgstr "The USA is lesterland: The nature of congressional corruption"
 
 #.  2011, 2012 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Republic, lost: How money corrupts Congress - and a plan to stop it"
 msgstr "Republic, lost: How money corrupts Congress - and a plan to stop it"
 
 #.  2008 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Remix: Making art and commerce thrive in the hybrid economy"
 msgstr "Remix: Making art and commerce thrive in the hybrid economy"
 
 #.  2006 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Code: Version 2.0"
 msgstr "Code: Version 2.0"
 
 #.  2001, 2002 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
 msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
 #.  1999 
-#. type: Content of: <book><dedication><para>
+#. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Code: And Other Laws of Cyberspace"
 msgstr "Code: And Other Laws of Cyberspace"
 
@@ -15111,7 +15111,7 @@ msgstr ""
 "I Adobe eBook Reader kalles disse kontrollene <quote>tillatelser</"
 "quote>&mdash; som om utgiver har myndighet til å kontrollere hvordan du "
 "bruker disse verkene.  For verk vernet av opphavsretten har "
-"opphavsrettsinnehaveren helt klart denne myndigheten&mdash;innefor "
+"opphavsrettsinnehaveren helt klart denne myndigheten&mdash;innenfor "
 "begrensningene i opphavsrettsloven.  Men for verk som ikke er vernet av "
 "opphavsretten er det ingen slik opphavsrettslig myndighet.<placeholder type="
 "\"footnote\" id=\"0\"/> Når min e-bok <citetitle>Middlemarch</citetitle> "
@@ -17556,7 +17556,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "ISPs (Internet service providers), user identities revealed by"
-msgstr "ISPer (Internet-tilbydere), brukeridentiteter avslørt av"
+msgstr "ISPer (Internett-tilbydere), brukeridentiteter avslørt av"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Conyers, John, Jr."
@@ -19262,7 +19262,7 @@ msgid ""
 "broadcasting the same content would pay no equivalent fee."
 msgstr ""
 "Den finansielle belastningen er ikke ubetydelig.  Slik jussprofessor William "
-"Fisher ved Harvard estimerte, hvis en Internet-radiostasjon distribuerte "
+"Fisher ved Harvard estimerte, hvis en Internett-radiostasjon distribuerte "
 "reklamefri populærmusikk til (i gjennomsnitt) ti tusen lyttere, tjuefire "
 "timer i døgnet, så ville de totale utbetalingene til artister som denne "
 "radiostasjonen ville skylde være over en million dollar i året.<placeholder "
@@ -19410,7 +19410,7 @@ msgid ""
 "the motive to protect artists against piracy?"
 msgstr ""
 "Hvorfor er det slik?  Hva rettferdiggjør denne forskjellen?  Ble det gjort "
-"noen studier av de økonomiske konsekvensene for Internet-radio som kan "
+"noen studier av de økonomiske konsekvensene for Internett-radio som kan "
 "forsvare disse forskjellene?  Var motivet å beskytte kunstnere mot "
 "piratvirksomhet?"
 
