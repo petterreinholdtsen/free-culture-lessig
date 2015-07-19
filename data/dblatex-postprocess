@@ -4,46 +4,55 @@ set -e
 
 TEXFILE="$1"
 
-# Legg inn orddelingspunkt på problematiske ord.  LaTeX deler ikke ord
-# med bindestrek automatisk, slik at endel ord blir veldig lange.  Vil
-# ikke endre i originalteksten, så vi skriver om aktuelle ord her til
-# å inneholde orddelingsmarkør.
-sed -i 's%FS/OSS-{}teknologi%FS/OSS-tekno\\-logi%g' $TEXFILE
-sed -i 's/-{}opptakeren/-{}opp\\-takeren/g' $TEXFILE
-sed -i 's/Eastman-{}fabrikk/East\\-man-fabrikk/g' $TEXFILE
-sed -i 's/TV-{}kringkasting/TV-{}kring\\-kast\\-ing/g' $TEXFILE
-sed -i 's/bygningen/byg\\-ningen/g' $TEXFILE
-sed -i 's/fildeling/fil\\-del\\-ing/g' $TEXFILE
-sed -i 's/fjerdedel/fjerde\\-del/g' $TEXFILE
-sed -i 's/ikke-{}diskriminerende/ikke-diskrim\\-inerende/g' $TEXFILE
-sed -i 's/kommersiell/kom\\-mer\\-siell/g' $TEXFILE
-sed -i 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' $TEXFILE
-sed -i 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' $TEXFILE
-sed -i 's/tvangslisens/tvangs\\-lisens/g' $TEXFILE
-sed -i 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' $TEXFILE
-sed -i 's/opphavsrettsvernetids-{}loven/opp\\-havs\\-retts\\-verne\\-tids-{}loven/g' $TEXFILE
-sed -i 's/Handels-{}bestemmelsen/Han\\-dels-{}bestem\\-melsen/g' $TEXFILE
-sed -i 's/Fremskritts-{}bestemmelsen/Frems\\-kritts-{}bestem\\-melsen/g' $TEXFILE
-sed -i 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' $TEXFILE
-sed -i 's/opphavsrettsbeskyttelses-{}system/opp\\-havs\\-retts\\-beskyt\\-telses-{}system/g' $TEXFILE
-sed -i 's/anti-{}omgåelsesbestemmelsene/anti-{}om\\-gåelses\\-bestem\\-melsene/g' $TEXFILE
-sed -i 's/grunnlovstilleggs/grunn\\-lovs\\-til\\-leggs/g' $TEXFILE
-sed -i 's/beslagleggings-{}avsnitt/be\\-slag\\-leg\\-gings-{}av\\-snitt/g' $TEXFILE
-sed -i 's/fildelingsnettverk/fil\\-delings\\-nett\\-verk/g' $TEXFILE
-sed -i 's/monopol/mono\\-pol/g' $TEXFILE
-sed -i 's/Disney-{}kreativitet/Disney-{}kreativ\\-itet/g' $TEXFILE
-sed -i 's/2004-{}presidentvalgkampen/2004-{}president\\-valg\\-kampen/g' $TEXFILE
-sed -i 's/Madonna-{}CD/Madon\\-na-{}CD/g' $TEXFILE
-sed -i 's/kabel-{}TV-{}selskapene/kabel-{}TV-{}selskap\\-nene/g' $TEXFILE
-sed -i 's/Eastwood/East\\-wood/g' $TEXFILE
-sed -i 's/MP3.com/MP3\\-.com/g' $TEXFILE
-sed -i 's/Ikke-{}programmerere/Ikke-{}program\\-merere/g' $TEXFILE
-sed -i 's/tilhenger-{}fantasi/til\\-henger-{}fantasi/g' $TEXFILE
-sed -i 's/opphavsretts-/opp\\-havs\\-retts-/g' $TEXFILE
-sed -i 's/MTV-{}oppmerksomhetsspenn/MTV-{}opp\\-merksom\\-hets\\-spenn/g' $TEXFILE
-sed -i 's/Linux-{}operativsystemet/Linux-{}operativ\\-systemet/g' $TEXFILE
-sed -i 's/monopolbeskyttelsen/mono\\-pol\\-beskyt\\-telsen/g' $TEXFILE
-sed -i 's/FCC-{}kommisjonæren/FCC-{}kom\\-misjon\\-æren/g' $TEXFILE
-sed -i 's/Wright-{}brødrenes/Wright-{}brød\\-renes/g' $TEXFILE
-sed -i 's/Nord-{}Carolina/Nord-{}Caro\-lina/g' $TEXFILE
+# Legg inn orddelingspunkt på problematiske ord for å få jevnere
+# høyrekant på tekstblokkene.  LaTeX deler ikke ord med bindestrek
+# automatisk, slik at endel ord blir veldig lange og stikker ut over
+# kanten.  Ønsker ikke endre i originalteksten, så vi skriver om
+# aktuelle ord i latex-fila her til å inneholde orddelingsmarkør i
+# stedet.
+sed -i \
+    -e 's%FS/OSS-{}teknologi%FS/OSS-tekno\\-logi%g' \
+    -e 's/-{}opptakeren/-{}opp\\-takeren/g' \
+    -e 's/-{}rettigheter/-{}rettig\\-heter/g' \
+    -e 's/2004-{}presidentvalgkampen/2004-{}president\\-valg\\-kampen/g' \
+    -e 's/Disney-{}kreativitet/Disney-{}kreativ\\-itet/g' \
+    -e 's/Eastman-{}fabrikk/East\\-man-fabrikk/g' \
+    -e 's/Eastwood/East\\-wood/g' \
+    -e 's/FCC-{}kommisjonæren/FCC-{}kom\\-misjon\\-æren/g' \
+    -e 's/Fremskritts-{}bestemmelsen/Frems\\-kritts-{}bestem\\-melsen/g' \
+    -e 's/Handels-{}bestemmelsen/Han\\-dels-{}bestem\\-melsen/g' \
+    -e 's/Ikke-{}programmerere/Ikke-{}program\\-merere/g' \
+    -e 's/Linux-{}operativsystemet/Linux-{}operativ\\-systemet/g' \
+    -e 's/MP3.com/MP3\\-.com/g' \
+    -e 's/MTV-{}oppmerksomhetsspenn/MTV-{}opp\\-merksom\\-hets\\-spenn/g' \
+    -e 's/Madonna-{}CD/Madon\\-na-{}CD/g' \
+    -e 's/Nord-{}Carolina/Nord-{}Caro\-lina/g' \
+    -e 's/TV-{}kringkasting/TV-{}kring\\-kast\\-ing/g' \
+    -e 's/Wright-{}brødrenes/Wright-{}brød\\-renes/g' \
+    -e 's/anti-{}omgåelsesbestemmelsene/anti-{}om\\-gåelses\\-bestem\\-melsene/g' \
+    -e 's/beslagleggings-{}avsnitt/be\\-slag\\-leg\\-gings-{}av\\-snitt/g' \
+    -e 's/bygningen/byg\\-ningen/g' \
+    -e 's/fildeling/fil\\-del\\-ing/g' \
+    -e 's/fildelingsnettverk/fil\\-delings\\-nett\\-verk/g' \
+    -e 's/fjerdedel/fjerde\\-del/g' \
+    -e 's/grunnlovstilleggs/grunn\\-lovs\\-til\\-leggs/g' \
+    -e 's/hvorvidt/hvor\\-vidt/g' \
+    -e 's/ikke-{}diskriminerende/ikke-diskrim\\-inerende/g' \
+    -e 's/kabel-{}TV-{}selskapene/kabel-{}TV-{}selskap\\-nene/g' \
+    -e 's/kommersiell/kom\\-mer\\-siell/g' \
+    -e 's/masse-{}fotografering/masse-{}foto\\-graf\\-er\\-ing/g' \
+    -e 's/monopol/mono\\-pol/g' \
+    -e 's/monopolbeskyttelsen/mono\\-pol\\-beskyt\\-telsen/g' \
+    -e 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' \
+    -e 's/opphavsretts-/opp\\-havs\\-retts-/g' \
+    -e 's/opphavsrettsbeskyttelses-{}system/opp\\-havs\\-retts\\-beskyt\\-telses-{}system/g' \
+    -e 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' \
+    -e 's/opphavsrettsvernetids-{}loven/opp\\-havs\\-retts\\-verne\\-tids-{}loven/g' \
+    -e 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' \
+    -e 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' \
+    -e 's/stumfilm-{}æraen/stum\\-film-{}æraen/g' \
+    -e 's/tilhenger-{}fantasi/til\\-henger-{}fantasi/g' \
+    -e 's/tvangslisens/tvangs\\-lisens/g' \
+    $TEXFILE
+
 exit 0
