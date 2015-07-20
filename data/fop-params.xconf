@@ -4,6 +4,17 @@
     <renderer mime="application/pdf">
       <!-- Full path to truetype fonts to be embedded in PDF file -->
       <fonts>
+
+	<font embed-url="file:///home/pere/.fonts/CrimsonText-Regular.ttf">
+	  <font-triplet name="Crimson Text" style="normal" weight="normal"/>
+	</font>
+	<font embed-url="file:///home/pere/.fonts/CrimsonText-Italic.ttf">
+	  <font-triplet name="Crimson Text" style="italic" weight="normal"/>
+	</font>
+	<font embed-url="file:///home/pere/.fonts/CrimsonText-Bold.ttf">
+	  <font-triplet name="Crimson Text" style="normal" weight="bold"/>
+	</font>
+
 	<font embed-url="file:///usr/share/fonts/truetype/freefont/FreeSerif.ttf">
 	  <font-triplet name="Times" style="normal" weight="normal"/>
 	</font>
