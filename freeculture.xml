@@ -408,7 +408,8 @@ by extremism in the property rights that define it. That is what I
 fear about our culture today. It is against that extremism that this
 book is written.
 </para>
-
+<!-- Hack to get correct chapter numbering with dblatex -->
+<?latex \setcounter{chapter}{-1} ?>
 </preface>
 <!-- PAGE BREAK 15 -->
 
@@ -1253,7 +1254,7 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
-<title>CHAPTER ONE: Creators</title>
+<title>Creators</title>
 <indexterm id='idxanimatedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
 <indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
 <indexterm id='idxfilmsanimated' class='startofrange'><primary>films</primary><secondary>animated</secondary></indexterm>
@@ -1782,7 +1783,7 @@ free culture. It is becoming much less so.
 <!-- PAGE BREAK 44 -->
 </chapter>
 <chapter label="2" id="mere-copyists">
-<title>CHAPTER TWO: <quote>Mere Copyists</quote></title>
+<title><quote>Mere Copyists</quote></title>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <indexterm id='idxcameratechnology' class='startofrange'><primary>camera technology</primary></indexterm>
 <indexterm id='idxphotography' class='startofrange'><primary>photography</primary></indexterm>
@@ -2745,7 +2746,7 @@ quipped to me in a rare moment of despondence.
 <!-- PAGE BREAK 61 -->
 </chapter>
 <chapter label="3" id="catalogs">
-<title>CHAPTER THREE: Catalogs</title>
+<title>Catalogs</title>
 <indexterm><primary>Jordan, Jesse</primary></indexterm>
 <indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute (RPI)</see></indexterm>
 <indexterm id='idxrensselaer' class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
@@ -3003,7 +3004,7 @@ wrong message. And he wants to correct the record.</quote>
 <!-- PAGE BREAK 66 -->
 </chapter>
 <chapter label="4" id="pirates">
-<title>CHAPTER FOUR: <quote>Pirates</quote></title>
+<title><quote>Pirates</quote></title>
 <indexterm id='idxpiracyindevelopmentofcontentindustry' class='startofrange'><primary>piracy</primary><secondary>in development of content industry</secondary></indexterm>
 <indexterm><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
@@ -3551,7 +3552,7 @@ last. Every generation&mdash;until now.
 </section>
 </chapter>
 <chapter label="5" id="piracy">
-<title>CHAPTER FIVE: <quote>Piracy</quote></title>
+<title><quote>Piracy</quote></title>
 <para>
 <emphasis role='strong'>There is piracy</emphasis> of copyrighted
 material. Lots of it. This piracy comes in many forms. The most
@@ -4690,7 +4691,7 @@ from the implications that the copyright warriors would have us draw.
 
 <!-- PAGE BREAK 96 -->
 <chapter label="6" id="founders">
-<title>CHAPTER SIX: Founders</title>
+<title>Founders</title>
 <indexterm id='idxbooksenglishcopyrightlawdevelopedfor' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
 <indexterm id='idxcopyrightlawdevelopmentof' class='startofrange'><primary>copyright law</primary><secondary>development of</secondary></indexterm>
 <indexterm id='idxcopyrightlawenglish' class='startofrange'><primary>copyright law</primary><secondary>English</secondary></indexterm>
@@ -5293,7 +5294,7 @@ protected.
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
-<title>CHAPTER SEVEN: Recorders</title>
+<title>Recorders</title>
 <indexterm id='idxcopyrightlawfairuseand' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
 <indexterm id='idxdocumentaryfilm' class='startofrange'><primary>documentary film</primary></indexterm>
 <indexterm id='idxelsejon' class='startofrange'><primary>Else, Jon</primary></indexterm>
@@ -5526,7 +5527,7 @@ not.
 <!-- PAGE BREAK 111 -->
 </chapter>
 <chapter label="8" id="transformers">
-<title>CHAPTER EIGHT: Transformers</title>
+<title>Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
 <indexterm id='idxalbenalex1' class='startofrange'><primary>Alben, Alex</primary></indexterm>
 <indexterm><primary>Microsoft</primary></indexterm>
@@ -5887,7 +5888,7 @@ curse, reserved for the few.
 <!-- PAGE BREAK 119 -->
 </chapter>
 <chapter label="9" id="collectors">
-<title>CHAPTER NINE: Collectors</title>
+<title>Collectors</title>
 <indexterm id='idxarchivesdigital1' class='startofrange'><primary>archives, digital</primary></indexterm>
 <indexterm><primary>bots</primary></indexterm>
 <para>
@@ -6251,7 +6252,7 @@ that Kahle and others would exercise.
 <!-- PAGE BREAK 127 -->
 </chapter>
 <chapter label="10" id="property-i">
-<title>CHAPTER TEN: <quote>Property</quote></title>
+<title><quote>Property</quote></title>
 <indexterm><primary>Johnson, Lyndon</primary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
 <para>
@@ -9274,7 +9275,7 @@ lawyer.
 
 <!-- PAGE BREAK 186 -->
 <chapter label="11" id="chimera">
-<title>CHAPTER ELEVEN: Chimera</title>
+<title>Chimera</title>
 <indexterm id='idxchimera' class='startofrange'><primary>chimeras</primary></indexterm>
 <indexterm id='idxwells' class='startofrange'><primary>Wells, H. G.</primary></indexterm>
 <indexterm id='idxtcotb' class='startofrange'><primary><quote>Country of the Blind, The</quote> (Wells)</primary></indexterm>
@@ -9553,7 +9554,7 @@ and will kill opportunities that could be extraordinarily valuable.
 <!-- PAGE BREAK 192 -->
 </chapter>
 <chapter label="12" id="harms">
-<title>CHAPTER TWELVE: Harms</title>
+<title>Harms</title>
 <para>
 <emphasis role='strong'>To fight</emphasis> <quote>piracy,</quote> to
 protect <quote>property,</quote> the content industry has launched a
@@ -11030,7 +11031,7 @@ success will require.
 
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
-<title>CHAPTER THIRTEEN: Eldred</title>
+<title>Eldred</title>
 <indexterm id='idxeldrederic' class='startofrange'><primary>Eldred, Eric</primary></indexterm>
 <indexterm id='idxhawthornenathaniel' class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
 <para>
@@ -12766,7 +12767,7 @@ better lawyer would have made them see differently.
 <!-- PAGE BREAK 254 -->
 </chapter>
 <chapter label="14" id="eldred-ii">
-<title>CHAPTER FOURTEEN: Eldred II</title>
+<title>Eldred II</title>
 <para>
 <emphasis role='strong'>The day</emphasis>
 <citetitle>Eldred</citetitle> was decided, fate would have it that I

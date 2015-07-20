@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-07-19 23:35+0300\n"
+"POT-Creation-Date: 2015-07-21 00:14+0300\n"
 "PO-Revision-Date: 2015-07-19 21:31+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/p/free-culture-"
@@ -2228,8 +2228,8 @@ msgstr ""
 "merkelappen <quote>piratvirksomhet</quote> i sin rette sammenheng."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER ONE: Creators"
-msgstr "Kapittel en: Skaperne"
+msgid "Creators"
+msgstr "Skaperne"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "animated cartoons"
@@ -3236,8 +3236,8 @@ msgstr ""
 "kultur. Den er på tur til å bli mindre fri."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER TWO: <quote>Mere Copyists</quote>"
-msgstr "Kapittel to: <quote>Kun etter-apere</quote>"
+msgid "<quote>Mere Copyists</quote>"
+msgstr "<quote>Kun etter-apere</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Daguerre, Louis"
@@ -5086,8 +5086,8 @@ msgstr ""
 "\"/>, kommenterte til meg i et sjeldent øyeblikk av nedstemthet."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER THREE: Catalogs"
-msgstr "Kapittel tre: Kataloger"
+msgid "Catalogs"
+msgstr "Kataloger"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Jordan, Jesse"
@@ -5613,8 +5613,8 @@ msgstr ""
 "rullebladet.</quote>"
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER FOUR: <quote>Pirates</quote>"
-msgstr "Kapittel fire: <quote>Pirater</quote>"
+msgid "<quote>Pirates</quote>"
+msgstr "<quote>Pirater</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in development of content industry"
@@ -6672,8 +6672,8 @@ msgstr ""
 "velkommen.  Hver generasjon&mdash;inntil nå."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER FIVE: <quote>Piracy</quote>"
-msgstr "Kapittel fem: <quote>Piratvirksomhet</quote>"
+msgid "<quote>Piracy</quote>"
+msgstr "<quote>Piratvirksomhet</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8857,8 +8857,8 @@ msgstr ""
 "forstå."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER SIX: Founders"
-msgstr "Kapittel seks: Grunnleggerne"
+msgid "Founders"
+msgstr "Grunnleggerne"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English copyright law developed for"
@@ -9936,8 +9936,8 @@ msgstr ""
 "påvirke, vil den frie kultur være mindre beskyttet."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER SEVEN: Recorders"
-msgstr "Kapittel sju: Innspillerne"
+msgid "Recorders"
+msgstr "Innspillerne"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use and"
@@ -10365,8 +10365,8 @@ msgstr ""
 "bruk, omformende eller ikke."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER EIGHT: Transformers"
-msgstr "Kapittel åtte: Omformerne"
+msgid "Transformers"
+msgstr "Omformerne"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Allen, Paul"
@@ -11050,8 +11050,8 @@ msgstr ""
 "privilegium forbeholdt de få."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER NINE: Collectors"
-msgstr "Kapittel ni: Samlere"
+msgid "Collectors"
+msgstr "Samlere"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archives, digital"
@@ -11759,8 +11759,8 @@ msgstr ""
 "eiendoms-lover begrenser friheten til folk som Kahle."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER TEN: <quote>Property</quote>"
-msgstr "Kapittel ti: <quote>Eiendom</quote>"
+msgid "<quote>Property</quote>"
+msgstr "<quote>Eiendom</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Johnson, Lyndon"
@@ -17275,8 +17275,8 @@ msgid "PUZZLES"
 msgstr "Nøtter"
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER ELEVEN: Chimera"
-msgstr "Kapittel elleve: Fantasifoster / Chimera"
+msgid "Chimera"
+msgstr "Fantasifoster / Chimera"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "chimeras"
@@ -17774,8 +17774,8 @@ msgstr ""
 "muligheter som kan være svært verdifulle."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER TWELVE: Harms"
-msgstr "Kapittel tolv: Skader"
+msgid "Harms"
+msgstr "Skader"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -20355,8 +20355,8 @@ msgstr ""
 "å lykkes."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER THIRTEEN: Eldred"
-msgstr "Kapittel tretten: Eldred"
+msgid "Eldred"
+msgstr "Eldred"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eldred, Eric"
@@ -23566,8 +23566,8 @@ msgstr ""
 "ville fått dem til å annerledes på det."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "CHAPTER FOURTEEN: Eldred II"
-msgstr "Kapittel fjorten: Eldred II"
+msgid "Eldred II"
+msgstr "Eldred II"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""

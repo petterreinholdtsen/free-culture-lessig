@@ -11,9 +11,8 @@
 <!-- List the examples and equations too, no tables and figures -->
 <xsl:param name="doc.lot.show">example</xsl:param>
 
-<!-- Avoid incorrect chapter numbers -->
-<xsl:param name="doc.section.depth">-2</xsl:param>
-<xsl:param name="latex.class.book">myclass</xsl:param>
+<!-- Only want chapter numbers -->
+<xsl:param name="doc.section.depth">0</xsl:param>
 
 <xsl:param name="imagedata.default.scale">maxwidth=15.5cm,maxheight=12cm</xsl:param>
 <xsl:param name="draft.mode">yes</xsl:param>
