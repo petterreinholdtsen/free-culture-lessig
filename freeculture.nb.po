@@ -26001,7 +26001,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Rebuilding Freedoms Previously Presumed: Examples"
-msgstr "Gjenoppbygging av friheter som tidligere var antatt: Eksempler"
+msgstr "Gjenoppbygging av tidligere antatte friheter: Eksempler"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "restoration efforts on previous aspects of"
