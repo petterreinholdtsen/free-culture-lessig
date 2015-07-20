@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-07-21 00:14+0300\n"
+"POT-Creation-Date: 2015-07-21 01:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21641,73 +21641,72 @@ msgstr ""
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15659
 msgid ""
-"The source of this version of the text is written using DocBook notation and "
+"The source of this version of the book is written using DocBook notation and "
 "the other formats are derived from the DocBook source.  The DocBook source "
-"is based on a DocBook XML version created by Hans Schou, and extended with "
-"formatting and index references by Petter Reinholdtsen.  The source files of "
-"this book is available as <ulink "
-"url=\"https://github.com/petterreinholdtsen/free-culture-lessig\">a github "
-"project</ulink>."
+"is based on a DocBook XML version created by Hans Schou, and extended by "
+"Petter Reinholdtsen with formatting and index references.  The source files "
+"for this book are available from <ulink "
+"url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15669
+#: freeculture.xml:15668
 msgid "&translationblock;"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15673
+#: freeculture.xml:15672
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15677
+#: freeculture.xml:15676
 msgid ""
 "Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
 "347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15693
+#: freeculture.xml:15692
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15694
+#: freeculture.xml:15693
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15699 freeculture.xml:15703 freeculture.xml:15707 freeculture.xml:15711 freeculture.xml:15715 freeculture.xml:15719
+#: freeculture.xml:15698 freeculture.xml:15702 freeculture.xml:15706 freeculture.xml:15710 freeculture.xml:15714 freeculture.xml:15718
 msgid "978-82-92812-XX-Y"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15700
+#: freeculture.xml:15699
 msgid "text/plain"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15704
+#: freeculture.xml:15703
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15708
+#: freeculture.xml:15707
 msgid "text/html"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15712
+#: freeculture.xml:15711
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15716
+#: freeculture.xml:15715
 msgid "application/docbook+xml"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15720
+#: freeculture.xml:15719
 msgid "application/x-mobipocket-ebook"
 msgstr ""
