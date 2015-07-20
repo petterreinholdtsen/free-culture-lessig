@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="422.80301"
+   height="433.66544"
    id="svg10441"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="1541.svg">
   <defs
      id="defs10443" />
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.36489339"
-     inkscape:cx="204.87512"
-     inkscape:cy="526.18109"
+     inkscape:cx="-314.11604"
+     inkscape:cy="197.29946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,11 @@
      inkscape:window-height="721"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata10446">
     <rdf:RDF>
@@ -43,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,36 +55,34 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="background"
-     style="display:inline">
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.05814123;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+     style="display:inline"
+     transform="translate(-105.17166,-289.81513)">
+    <ellipse
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.05814123;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path10588-4"
-       sodipodi:cx="651.42859"
-       sodipodi:cy="560.93359"
-       sodipodi:rx="137.14285"
-       sodipodi:ry="128.57143"
-       d="m 788.57144,560.93359 a 137.14285,128.57143 0 1 1 -274.2857,0 137.14285,128.57143 0 1 1 274.2857,0 z"
-       transform="matrix(0.53864425,0,0,0.57455386,-33.945543,182.50539)" />
+       transform="matrix(0.53864425,0,0,0.57455386,-33.945543,182.50539)"
+       cx="651.42859"
+       cy="560.93359"
+       rx="137.14285"
+       ry="128.57143" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:4.05814123;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="display:inline"
+     transform="translate(-105.17166,-289.81513)">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:4.05814123;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path10588"
-       sodipodi:cx="651.42859"
-       sodipodi:cy="560.93359"
-       sodipodi:rx="137.14285"
-       sodipodi:ry="128.57143"
-       d="m 788.57144,560.93359 a 137.14285,128.57143 0 1 1 -274.2857,0 137.14285,128.57143 0 1 1 274.2857,0 z"
-       transform="matrix(1.5189953,0,0,1.6602748,-672.94381,-424.65607)" />
+       transform="matrix(1.5189953,0,0,1.6602748,-672.94381,-424.65607)"
+       cx="651.42859"
+       cy="560.93359"
+       rx="137.14285"
+       ry="128.57143" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Crimson Text';-inkscape-font-specification:'Crimson Text';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="236.03415"
        y="389.63751"
        id="text11098"
@@ -91,7 +93,7 @@
          y="389.63751">uregulert</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:125%;font-family:Gentium;-inkscape-font-specification:Gentium;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke:none"
        x="317.14288"
        y="549.62164"
        id="text2985"
