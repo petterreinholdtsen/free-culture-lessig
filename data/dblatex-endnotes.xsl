@@ -13,9 +13,14 @@ in front of it.
 \usepackage{endnotes}
 \let\footnote=\endnote
 \def\enoteheading{\mbox{}\par\vskip-\baselineskip }
+
+% Trick to avoid many words sticking out of the right margin of the text.
+% Need to add it here with the end notes, as only one
+% latex.begindocument can be active.
+\sloppy
+
 \begin{document}
     </xsl:text>
 
   </xsl:param>
 </xsl:stylesheet>
-
