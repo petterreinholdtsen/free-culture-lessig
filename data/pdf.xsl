@@ -32,13 +32,10 @@
 <xsl:param name="double.sided">0</xsl:param>
 <xsl:param name="latex.class.options">a4paper</xsl:param>
 
-<!-- font for XSL/FOP -->
-<!-- FIXME figure out why the font name 'Crimson Text' is not recoginized by fop -->
-<!--
-<xsl:param name="body.font.family" select="'Crimson Text'"/>
-<xsl:param name="title.font.family" select="'Crimson Text'"/>
--->
-<!-- <xsl:param name="dingbat.font.family">Crimson Text</xsl:param> -->
-<!-- <xsl:param name="monospace.font.family" select="'Courier,MS Gothic'"/> -->
+<!-- font for XSL/FOP, see also fop-params.xconf -->
 
+<xsl:param name="body.font.family">Crimson Text</xsl:param>
+<xsl:param name="title.font.family">Crimson Text</xsl:param>
+<xsl:param name="slide.font.family">Crimson Text</xsl:param>
+<xsl:param name="slide.title.font.family">Crimson Text</xsl:param>
 </xsl:stylesheet>
