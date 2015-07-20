@@ -15656,13 +15656,12 @@ courtesy of the office of FCC Commissioner, Michael J. Copps.
 </para>
 
 <para>
-The source of this version of the text is written using DocBook
+The source of this version of the book is written using DocBook
 notation and the other formats are derived from the DocBook source.
 The DocBook source is based on a DocBook XML version created by Hans
-Schou, and extended with formatting and index references by Petter
-Reinholdtsen.  The source files of this book is available as
-<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig">a
-github project</ulink>.
+Schou, and extended by Petter Reinholdtsen with formatting and index
+references.  The source files for this book are available from
+<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
 </para>
 
 <para>
