@@ -13,9 +13,6 @@
 <xsl:param name="page.margin.inner">2cm</xsl:param>
 <xsl:param name="page.margin.outer">1cm</xsl:param>
 <xsl:param name="body.start.indent">10pt</xsl:param>
-<xsl:param name="body.font.family">Times</xsl:param>
-<xsl:param name="title.font.family">Times</xsl:param>
-<xsl:param name="dingbat.font.family">Times</xsl:param>
 <xsl:param name="double.sided">1</xsl:param>
 
 <xsl:param name="latex.class.book">scrreprt</xsl:param>
