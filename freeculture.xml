@@ -408,8 +408,7 @@ by extremism in the property rights that define it. That is what I
 fear about our culture today. It is against that extremism that this
 book is written.
 </para>
-<!-- Hack to get correct chapter numbering with dblatex -->
-<?latex \setcounter{chapter}{-1} ?>
+
 </preface>
 <!-- PAGE BREAK 15 -->
 
