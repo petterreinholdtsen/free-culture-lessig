@@ -17,6 +17,7 @@
 
   <xsl:param name="hyphenate">false</xsl:param>
   <xsl:param name="generate.toc">book toc title</xsl:param>
+  <xsl:param name="figure.title.top">1</xsl:param>
 
   <!-- Drop the number in front of chapters -->
   <xsl:param name="local.l10n.xml" select="document('')"/> 
