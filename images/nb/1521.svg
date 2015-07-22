@@ -13,7 +13,7 @@
    height="433.66544"
    id="svg10441"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="1521.svg">
   <defs
      id="defs10443" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,17 +63,18 @@
        cx="651.42859"
        cy="560.93359"
        rx="137.14285"
-       ry="128.57143" />
+       ry="128.57143"
+       d="m 788.57144,560.93359 c 0,71.00804 -61.40094,128.57143 -137.14285,128.57143 -75.74191,0 -137.14285,-57.56339 -137.14285,-128.57143 0,-71.00803 61.40094,-128.57142 137.14285,-128.57142 75.74191,0 137.14285,57.56339 137.14285,128.57142 z" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Crimson Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="210.78632"
-       y="526.78033"
+       style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text"
+       x="150.78632"
+       y="529.63745"
        id="text11098"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11100"
-         x="210.78632"
-         y="526.78033">bruksmåter</tspan></text>
+         x="150.78632"
+         y="529.63745">bruksmåter</tspan></text>
   </g>
 </svg>
