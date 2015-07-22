@@ -14355,10 +14355,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1551.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1551.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #.  PAGE BREAK 154 
