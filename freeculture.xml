@@ -8421,8 +8421,9 @@ some uses that were illegal, the court held the companies producing
 the VCR responsible.
 </para>
 <para>
-This led Conrad to draw the cartoon below, which we can adopt to
-the DMCA.
+This led Conrad to draw the cartoon in
+<xref linkend="fig-1711-vcr-handgun-cartoonfig"/>, which we can adopt
+to the DMCA.
 <indexterm><primary>Conrad, Paul</primary></indexterm>
 </para>
 <para>
@@ -8445,7 +8446,7 @@ practice or to protect against an intruder. At least some would say that
 such a use would be good. It, too, is a technology that has both good
 and bad uses.
 </para>
-<figure id="fig-1711-vcr-handgun-cartoonfig">
+<figure id="fig-1711-vcr-handgun-cartoonfig" float="1">
 <title>VCR/handgun cartoon.</title>
 <graphic fileref="images/1711.png" align="center" width="70%"></graphic>
 </figure>
