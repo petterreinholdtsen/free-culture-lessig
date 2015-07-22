@@ -10971,7 +10971,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7624
 msgid ""
-"<graphic fileref=\"images/1542.png\" align=\"center\" "
+"<graphic fileref=\"images/1542.svg\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 

@@ -14338,10 +14338,10 @@ msgstr "Uregulert kopiering anses som <quote>rimelig bruk.</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1542.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1542.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1542.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1542.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
