@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-07-21 19:23+0000\n"
+"POT-Creation-Date: 2015-07-22 09:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10872,7 +10872,7 @@ msgstr ""
 #: freeculture.xml:7563
 msgid ""
 "<graphic fileref=\"images/1521.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"40%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
@@ -10915,7 +10915,7 @@ msgstr ""
 #: freeculture.xml:7587
 msgid ""
 "<graphic fileref=\"images/1531.png\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"40%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -10947,7 +10947,7 @@ msgstr ""
 #: freeculture.xml:7608
 msgid ""
 "<graphic fileref=\"images/1541.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"40%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -10972,7 +10972,7 @@ msgstr ""
 #: freeculture.xml:7624
 msgid ""
 "<graphic fileref=\"images/1542.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"40%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure><title>
@@ -10986,7 +10986,7 @@ msgstr ""
 #: freeculture.xml:7629
 msgid ""
 "<graphic fileref=\"images/1551.png\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"40%\"></graphic>"
 msgstr ""
 
 #.  PAGE BREAK 154 
@@ -17747,7 +17747,7 @@ msgstr ""
 #: freeculture.xml:12754
 msgid ""
 "<graphic fileref=\"images/tom-the-dancing-bug.png\" align=\"center\" "
-"width=\"95%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
+"width=\"100%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>

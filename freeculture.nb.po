@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-07-21 19:23+0000\n"
+"POT-Creation-Date: 2015-07-22 09:08+0000\n"
 "PO-Revision-Date: 2015-07-21 17:37+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/free-"
@@ -12245,7 +12245,7 @@ msgid ""
 "<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para>
@@ -12480,7 +12480,7 @@ msgid ""
 "<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -12685,7 +12685,7 @@ msgid ""
 "<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -13303,7 +13303,7 @@ msgid ""
 "<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #.  PAGE BREAK 144 
@@ -14214,10 +14214,10 @@ msgstr "Alle potensielle bruksmåter for en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1521.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1521.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
@@ -14264,10 +14264,10 @@ msgstr "Eksempler på uregulert brukmåter for en bok."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1531.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1531.png\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1531.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1531.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14306,10 +14306,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1541.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1541.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14338,10 +14338,10 @@ msgstr "Uregulert kopiering anses som <quote>rimelig bruk.</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1542.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1542.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1542.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1542.svg\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><figure><title>
@@ -14354,10 +14354,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"40%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1551.png\" align=\"center\" width=\"40%\"></"
 "graphic>"
 
 #.  PAGE BREAK 154 
@@ -23540,10 +23540,10 @@ msgstr "Tom the Dancing Bug-tegneserie"
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
 "<graphic fileref=\"images/tom-the-dancing-bug.png\" align=\"center\" width="
-"\"95%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
+"\"100%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "<graphic fileref=\"images/tom-the-dancing-bug.png\" align=\"center\" width="
-"\"95%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
+"\"100%\"></graphic> <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
