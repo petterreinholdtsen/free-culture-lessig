@@ -44,12 +44,4 @@
     <xsl:text>’</xsl:text>
   </xsl:template>
 
-  <!-- This is not working.  No idea why -->
-  <xsl:template name="gentext.Index">
-    <xsl:text>Register</xsl:text>
-  </xsl:template>
-  <xsl:template name="gentext.index">
-    <xsl:text>register</xsl:text>
-  </xsl:template>
-
 </xsl:stylesheet>
