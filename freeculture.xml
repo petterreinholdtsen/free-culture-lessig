@@ -12749,9 +12749,9 @@ my view of the case, was Ruben Bolling's, reproduced in
 unfair. But the punch in the face felt exactly like that.
 <indexterm><primary>Bolling, Ruben</primary></indexterm>
 </para>
-<figure id="fig-18">
+<figure id="fig-18" float="1">
 <title>Tom the Dancing Bug cartoon</title>
-<graphic fileref="images/tom-the-dancing-bug.png" align="center" width="95%"></graphic>
+<graphic fileref="images/tom-the-dancing-bug.png" align="center" width="100%"></graphic>
 <indexterm><primary>Bolling, Ruben</primary></indexterm>
 </figure>
 <para>
