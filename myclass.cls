@@ -2,7 +2,7 @@
 \ProvidesPackage{myclass}[]
 
 %% Just use the original class and pass the options
-\LoadClassWithOptions{scrreprt}
+\LoadClassWithOptions{report}
 % report, book, memoir, scrreprt or scrbook ?
 
 % From
