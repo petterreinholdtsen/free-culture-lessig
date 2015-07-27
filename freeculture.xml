@@ -413,7 +413,7 @@ book is written.
 <!-- PAGE BREAK 15 -->
 
 <!-- PAGE BREAK 16 -->
-<chapter label="0" id="c-introduction">
+<chapter label="" id="c-introduction">
 <title>INTRODUCTION</title>
 <indexterm id='idxwrightbrothers' class='startofrange'><primary>Wright brothers</primary></indexterm>
 <para>
@@ -13161,7 +13161,7 @@ controlled by this dead (and often unfindable) hand of the past.
 <!-- PAGE BREAK 264 -->
 </chapter>
 </part>
-<chapter label="15" id="c-conclusion">
+<chapter label="" id="c-conclusion">
 <title>CONCLUSION</title>
 <indexterm id='idxafricamedicationsforhivpatientsin' class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
 <indexterm id='idxaidsmedications' class='startofrange'><primary>AIDS medications</primary></indexterm>
@@ -13966,7 +13966,7 @@ potential is ever to be realized.
 
 </para>
 </chapter>
-<chapter label="16" id="c-afterword">
+<chapter label="" id="c-afterword">
 <title>AFTERWORD</title>
 <para>
 
@@ -15524,7 +15524,7 @@ keep your lawyers away.
 </section>
 </section>
 </chapter>
-<chapter label="17" id="c-notes">
+<chapter label="" id="c-notes">
 <title>NOTES</title>
 <para>
 Throughout this text, there are references to links on the World Wide
@@ -15545,7 +15545,7 @@ the material.
 <!--PAGE BREAK 336-->
 
 </chapter>
-<chapter label="18" id="c-acknowledgments">
+<chapter label="" id="c-acknowledgments">
 <title>ACKNOWLEDGMENTS</title>
 <para>
 This book is the product of a long and as yet unsuccessful struggle that
