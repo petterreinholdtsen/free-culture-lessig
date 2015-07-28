@@ -15671,6 +15671,8 @@ Classifications: (Dewey)
 (ACM CRCS) K.4.1
 </para>
 
+<?latex } %\centering ?>
+
 <para>
 Typeset using the Crimson Text font and dblatex.  The dblatex author
 provided valuable help in formatting the print version of this book.
@@ -15727,7 +15729,6 @@ references.  The source files for this book are available from
 </tgroup>
 </informaltable>
 </para>
-<?latex } %\centering ?>
 <?latex } %\tiny ?>
 </colophon>
 </book>
