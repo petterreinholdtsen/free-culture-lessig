@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-07-24 08:50+0300\n"
+"POT-Creation-Date: 2015-07-28 20:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21587,19 +21587,19 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15623
+#: freeculture.xml:15624
 msgid ""
 "Free culture: How big media uses technology and the law to lock down culture "
 "and control creativity / Lawrence Lessig."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15627
+#: freeculture.xml:15628
 msgid "Copyright &copy; Lawrence Lessig.  Some rights reserved."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15630
+#: freeculture.xml:15631
 msgid ""
 "This version of <citetitle>Free Culture</citetitle> is licensed under a "
 "Creative Commons license. This license permits non-commercial use of this "
@@ -21609,14 +21609,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15637
+#: freeculture.xml:15638
 msgid ""
 "This digital book was published by Petter Reinholdtsen in 2015.  The "
 "original hardcover paper book was published in 2004 by The Penguin Press."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15642
+#: freeculture.xml:15643
 msgid ""
 "Excerpt from an editorial titled <quote>The Coming of Copyright "
 "Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January 16, "
@@ -21625,7 +21625,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15648
+#: freeculture.xml:15649
 msgid ""
 "Cartoon in <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul "
 "Conrad, copyright Tribune Media Services, Inc.  All rights "
@@ -21633,14 +21633,33 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15653
+#: freeculture.xml:15654
 msgid ""
 "Diagram in <xref linkend=\"fig-1761-pattern-modern-media-ownership\"/> "
 "courtesy of the office of FCC Commissioner, Michael J. Copps."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15658
+#: freeculture.xml:15659
+msgid "Includes index."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15663
+msgid ""
+"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
+"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15677
+msgid ""
+"Typeset using the Crimson Text font and dblatex.  The dblatex author "
+"provided valuable help in formatting the print version of this book."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15682
 msgid ""
 "The source of this version of the book is written using DocBook notation and "
 "the other formats are derived from the DocBook source.  The DocBook source "
@@ -21651,63 +21670,51 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15667
+#: freeculture.xml:15691
 msgid "&translationblock;"
 msgstr ""
 
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15671
-msgid "Includes index."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15675
-msgid ""
-"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
-"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
-msgstr ""
-
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15691
+#: freeculture.xml:15699
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15692
+#: freeculture.xml:15700
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15697 freeculture.xml:15701 freeculture.xml:15705 freeculture.xml:15709 freeculture.xml:15713 freeculture.xml:15717
+#: freeculture.xml:15705 freeculture.xml:15709 freeculture.xml:15713 freeculture.xml:15717 freeculture.xml:15721 freeculture.xml:15725
 msgid "978-82-92812-XX-Y"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15698
+#: freeculture.xml:15706
 msgid "text/plain"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15702
+#: freeculture.xml:15710
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15706
+#: freeculture.xml:15714
 msgid "text/html"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15710
+#: freeculture.xml:15718
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15714
+#: freeculture.xml:15722
 msgid "application/docbook+xml"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15718
+#: freeculture.xml:15726
 msgid "application/x-mobipocket-ebook"
 msgstr ""
