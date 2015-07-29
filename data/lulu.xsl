@@ -26,4 +26,17 @@ http://www.lulu.com/create/books
 <!-- openright,twoside - proper double sided printing -->
 <xsl:param name="latex.class.options">headinclude=on,footinclude=on,openright,twoside</xsl:param>
 
+<!--
+Make final page blank, which is required for PDFs inteneded for
+extended distribution with LuLu.
+-->
+
+<xsl:param name="latex.enddocument">
+  <xsl:text>\pagebreak
+\thispagestyle{empty}
+~
+\end{document}
+  </xsl:text>
+</xsl:param>
+
 </xsl:stylesheet>
