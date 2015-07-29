@@ -14,6 +14,8 @@
 <!-- Only want chapter numbers -->
 <xsl:param name="doc.section.depth">0</xsl:param>
 
+<xsl:param name="latex.class.book">myclass</xsl:param>
+
 <xsl:param name="imagedata.default.scale">maxwidth=15.5cm,maxheight=12cm</xsl:param>
 <xsl:param name="draft.mode">yes</xsl:param>
 <xsl:param name="draft.watermark">0</xsl:param>
