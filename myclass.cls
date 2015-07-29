@@ -5,6 +5,32 @@
 \LoadClassWithOptions{report}
 % report, book, memoir, scrreprt or scrbook ?
 
+% Put the index in the TOC
+\makeatletter
+\let\stdindex=\theindex
+\let\endstdindex=\endtheindex
+\renewenvironment{theindex}{
+  \begin{stdindex}
+  \@ifundefined{chapter}{}{
+    % To not have the number, replace by:
+    % \addcontentsline{toc}{chapter}{\numberline{}\indexname}
+    \ifnum \c@secnumdepth >\z@
+      \ifnum \value{part} >\z@
+        \addcontentsline{toc}{part}{\numberline{\thechapter}\hspace{-1em}\indexname}
+      \else
+        \addcontentsline{toc}{chapter}{\numberline{\thechapter}\indexname}
+      \fi
+    \else
+      \addcontentsline{toc}{chapter}{\indexname}
+    \fi
+  }
+}{
+  \end{stdindex}
+}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % From
 % https://amyrhoda.wordpress.com/2012/06/04/latex-to-lulu-the-making-of-aosa-other-useful-packages-and-settings/
 
