@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-07-29 07:17+0000\n"
+"POT-Creation-Date: 2015-07-29 08:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6494,8 +6494,8 @@ msgstr ""
 msgid "Recording artists"
 msgstr ""
 
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:4479 freeculture.xml:15717 freeculture.xml:15725
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:4479
 msgid "N/A"
 msgstr ""
 
@@ -21597,7 +21597,7 @@ msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15713 freeculture.xml:15721 freeculture.xml:15729 freeculture.xml:15733 freeculture.xml:15737
+#: freeculture.xml:15713 freeculture.xml:15717 freeculture.xml:15721 freeculture.xml:15725
 msgid "978-82-92812-XX-Y"
 msgstr ""
 
@@ -21608,30 +21608,15 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15718
-msgid "text/plain"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15722
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15726
-msgid "text/html"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15730
+#: freeculture.xml:15722
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15734
-msgid "application/docbook+xml"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15738
+#: freeculture.xml:15726
 msgid "application/x-mobipocket-ebook"
 msgstr ""
