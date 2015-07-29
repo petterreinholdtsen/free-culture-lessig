@@ -14,6 +14,7 @@
   \@ifundefined{chapter}{}{
     % To not have the number, replace by:
     % \addcontentsline{toc}{chapter}{\numberline{}\indexname}
+    \refstepcounter{chapter}
     \ifnum \c@secnumdepth >\z@
       \ifnum \value{part} >\z@
         \addcontentsline{toc}{part}{\numberline{\thechapter}\hspace{-1em}\indexname}
