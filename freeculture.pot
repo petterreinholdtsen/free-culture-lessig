@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-07-29 08:48+0000\n"
+"POT-Creation-Date: 2015-07-29 11:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21597,8 +21597,8 @@ msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15713 freeculture.xml:15717 freeculture.xml:15721 freeculture.xml:15725
-msgid "978-82-92812-XX-Y"
+#: freeculture.xml:15713
+msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
@@ -21607,13 +21607,28 @@ msgid "Paper copy from XXX"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15717
+msgid "978-82-8067-011-3"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15718
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15721
+msgid "978-82-8067-012-0"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15722
 msgid "application/epub+zip"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15725
+msgid "978-82-8067-013-7"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
