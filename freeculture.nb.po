@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-07-24 08:50+0300\n"
-"PO-Revision-Date: 2015-07-24 07:24+0000\n"
+"POT-Creation-Date: 2015-07-29 07:17+0000\n"
+"PO-Revision-Date: 2015-07-29 07:41+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/free-"
 "culture-lessig/language/nb/)\n"
@@ -40,8 +40,8 @@ msgstr "<abbrev>\"frikultur\"</abbrev>"
 
 #. type: Content of: <book><bookinfo><subtitle>
 msgid ""
-"HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL "
-"CREATIVITY"
+"How big media uses technology and the law to lock down culture and control "
+"creativity"
 msgstr ""
 "Hvordan store medieaktører bruker teknologi og rettsvesenet til å begrense "
 "kulturen og kontrollere kreativiteten"
@@ -243,7 +243,7 @@ msgid "List of figures"
 msgstr "Figuroversikt"
 
 #. type: Content of: <book><preface><title>
-msgid "PREFACE"
+msgid "Preface"
 msgstr "Forord"
 
 #. type: Content of: <book><preface><indexterm><primary>
@@ -543,7 +543,7 @@ msgstr ""
 "denne boken er skrevet."
 
 #. type: Content of: <book><chapter><title>
-msgid "INTRODUCTION"
+msgid "Introduction"
 msgstr "Introduksjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
@@ -1852,7 +1852,7 @@ msgstr ""
 "de fleste av oss forblir ukjent med."
 
 #. type: Content of: <book><part><title>
-msgid "<quote>PIRACY</quote>"
+msgid "<quote>Piracy</quote>"
 msgstr "<quote>Piratvirksomhet</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
@@ -2228,8 +2228,8 @@ msgstr ""
 "merkelappen <quote>piratvirksomhet</quote> i sin rette sammenheng."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Creators"
-msgstr "Skaperne"
+msgid "Chapter One: Creators"
+msgstr "Kapittel en: Skaperne"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "animated cartoons"
@@ -3237,8 +3237,8 @@ msgstr ""
 "kultur. Den er på tur til å bli mindre fri."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "<quote>Mere Copyists</quote>"
-msgstr "<quote>Kun etter-apere</quote>"
+msgid "Chapter Two: <quote>Mere Copyists</quote>"
+msgstr "Kapittel to: <quote>Kun etter-apere</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Daguerre, Louis"
@@ -5087,8 +5087,8 @@ msgstr ""
 "\"/>, kommenterte til meg i et sjeldent øyeblikk av nedstemthet."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Catalogs"
-msgstr "Kataloger"
+msgid "Chapter Three: Catalogs"
+msgstr "Kapittel tre: Kataloger"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Jordan, Jesse"
@@ -5614,8 +5614,8 @@ msgstr ""
 "rullebladet.</quote>"
 
 #. type: Content of: <book><part><chapter><title>
-msgid "<quote>Pirates</quote>"
-msgstr "<quote>Pirater</quote>"
+msgid "Chapter Four: <quote>Pirates</quote>"
+msgstr "Kapittel fire: <quote>Pirater</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in development of content industry"
@@ -6673,8 +6673,8 @@ msgstr ""
 "velkommen.  Hver generasjon&mdash;inntil nå."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "<quote>Piracy</quote>"
-msgstr "<quote>Piratvirksomhet</quote>"
+msgid "Chapter Five: <quote>Piracy</quote>"
+msgstr "Kapittel fem: <quote>Piratvirksomhet</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -8475,7 +8475,7 @@ msgstr "Lovbestemt lisens"
 msgid "Recording artists"
 msgstr "Plateartister"
 
-#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
 msgstr "N/A"
 
@@ -8706,7 +8706,7 @@ msgstr ""
 "beskyttet.</quote>"
 
 #. type: Content of: <book><part><title>
-msgid "<quote>PROPERTY</quote>"
+msgid "<quote>Property</quote>"
 msgstr "<quote>Eiendom</quote>"
 
 #.  PAGE BREAK 94 
@@ -8858,8 +8858,8 @@ msgstr ""
 "forstå."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Founders"
-msgstr "Grunnleggerne"
+msgid "Chapter Six: Founders"
+msgstr "Kapittel seks: Grunnleggerne"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English copyright law developed for"
@@ -9937,8 +9937,8 @@ msgstr ""
 "påvirke, vil den frie kultur være mindre beskyttet."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Recorders"
-msgstr "Innspillerne"
+msgid "Chapter Seven: Recorders"
+msgstr "Kapittel syv: Innspillerne"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use and"
@@ -10366,8 +10366,8 @@ msgstr ""
 "bruk, omformende eller ikke."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Transformers"
-msgstr "Omformerne"
+msgid "Chapter Eight: Transformers"
+msgstr "Kapittel åtte: Omformerne"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Allen, Paul"
@@ -11051,8 +11051,8 @@ msgstr ""
 "privilegium forbeholdt de få."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Collectors"
-msgstr "Samlere"
+msgid "Chapter Nine: Collectors"
+msgstr "Kapittel ni: Samlere"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archives, digital"
@@ -11760,8 +11760,8 @@ msgstr ""
 "eiendoms-lover begrenser friheten til folk som Kahle."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "<quote>Property</quote>"
-msgstr "<quote>Eiendom</quote>"
+msgid "Chapter Ten: <quote>Property</quote>"
+msgstr "Kapittel ti: <quote>Eiendom</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Johnson, Lyndon"
@@ -12233,14 +12233,6 @@ msgstr ""
 "reguleringsmodaliteter samvirker for å støtte eller svekke rettigheten eller "
 "reguleringen.  Jeg representerte det med dette diagrammet:"
 
-#. type: Content of: <book><part><chapter><figure><title>
-msgid ""
-"How four different modalities of regulation interact to support or weaken "
-"the right or regulation."
-msgstr ""
-"Hvordan fire forskjellige reguleringsmodaliteter samhandler for å støtte "
-"eller svekke rettigheten eller reguleringen."
-
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
 "<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"50%\"></"
@@ -12472,10 +12464,6 @@ msgstr ""
 "at delstatene må redusere fartsgrensene&mdash;for slik å gjøre det mindre "
 "attraktivt å kjøre fort."
 
-#. type: Content of: <book><part><chapter><figure><title>
-msgid "Law has a special role in affecting the three."
-msgstr "Lovverket har en spesiell rolle i å påvirke disse tre."
-
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
 "<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
@@ -12596,10 +12584,6 @@ msgid ""
 msgstr ""
 "La oss si at dette er et bilde av opphavsrettens regulering før Internett:"
 
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "Copyright's regulation before the Internet."
-msgstr "Opphavsrettens regulering før Internett"
-
 #.  PAGE BREAK 136 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -12676,10 +12660,6 @@ msgstr ""
 "opphavsrettseierenes rettigheter har gått tapt. Dette er Irak etter Saddams "
 "fall, men denne gangen er det ingen regjering som rettferdiggjør ranet som "
 "fulgte."
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "effective state of anarchy after the Internet."
-msgstr "effektiv tilstand av anarki etter Internett."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -13294,10 +13274,6 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><para>
 msgid "We will end here:"
 msgstr "Vi kommer til å ende opp her:"
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "<quote>Copyright</quote> today."
-msgstr "<quote>Opphavsrett</quote> i dag."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -14209,10 +14185,6 @@ msgstr ""
 "Vi kan se dette poenget helt abstrakt ved å starte med denne i hovedsak "
 "tomme sirkel."
 
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "All potential uses of a book."
-msgstr "Alle potensielle bruksmåter for en bok."
-
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
 "<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"40%\"></"
@@ -14259,10 +14231,6 @@ msgstr ""
 "en lampe, eller lar valpen din tygge den opp, så er dette bruksmåter som "
 "ikke er regulert av åndsverksloven, da de ikke lager en kopi."
 
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "Examples of unregulated uses of a book."
-msgstr "Eksempler på uregulert brukmåter for en bok."
-
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
 "<graphic fileref=\"images/1531.png\" align=\"center\" width=\"40%\"></"
@@ -14278,15 +14246,15 @@ msgid ""
 "therefore regulated by copyright law. Indeed, this particular use stands at "
 "the core of this circle of possible uses of a copyrighted work. It is the "
 "paradigmatic use properly regulated by copyright regulation (see diagram in "
-"<xref linkend=\"fig-1541\"/>)."
+"figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1541\"/>)."
 msgstr ""
 "Derimot er det åpenbart at noen bruksmåter av en opphavsrettsbeskyttet verk "
 "er regulert av åndsverksloven.  Å publisere boken på nytt, for eksempel, "
 "lager et eksemplar.  Det er dermed regulert av opphavsrettsloven. Faktisk "
 "står denne bestemte bruken i kjernen av sirkelen over mulig bruk av et "
 "opphavsrettsbeskyttet verk.  Det er den paradigmatiske bruken som er korrekt "
-"regulert av opphavsrettsreguleringen (se diagram i <xref linkend="
-"\"fig-1541\"/>)."
+"regulert av opphavsrettsreguleringen (se diagram i figur <xref xrefstyle="
+"\"template:%n\" linkend=\"fig-1541\"/>)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14296,14 +14264,6 @@ msgstr ""
 "Til slutt er det en tynn skive av ellers regulert kopierings-bruk som "
 "forblir uregulert på grunn av at loven anser dette som <quote>rimelig bruk.</"
 "quote>"
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid ""
-"Republishing stands at the core of this circle of possible uses of a "
-"copyrighted work."
-msgstr ""
-"Å utgi på nytt står i midten av denne sirkelen av mulige bruksmåter for et "
-"opphavsrettsbeskyttet verk."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -14332,10 +14292,6 @@ msgstr ""
 "er tillatt eller ikke, men loven nekter eieren enhver eksklusiv rett over "
 "slik <quote>rimelig bruk</quote> av samfunns- (og muligens første "
 "grunnlovstilleggs)-hensyn."
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "Unregulated copying considered <quote>fair uses.</quote>"
-msgstr "Uregulert kopiering anses som <quote>rimelig bruk.</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -14456,14 +14412,6 @@ msgstr ""
 "bruksvilkårene sier at du kun kan lese den fem ganger, så vil du lage en "
 "kopi i strid med opphavsrettsinnehaverens ønske hver gang du leser bruken "
 "(eller deler av den) ut over den femte gangen."
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid ""
-"Uses that before were presumptively unregulated are now presumptively "
-"regulated."
-msgstr ""
-"Bruk som tidligere var antatt å ikke være regulert er nå antatt å være "
-"regulert."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -14921,11 +14869,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
-"In <xref linkend=\"fig-example-adobe-ebook-reader\"/> is a picture of an old "
-"version of my Adobe eBook Reader."
+"In figure <xref xrefstyle=\"template:%n\" linkend=\"fig-example-adobe-ebook-"
+"reader\"/> is a picture of an old version of my Adobe eBook Reader."
 msgstr ""
-"I <xref linkend=\"fig-example-adobe-ebook-reader\"/> er et bilde av en eldre "
-"versjon av min Adobe eBook Reader."
+"I figur <xref xrefstyle=\"template:%n\" linkend=\"fig-example-adobe-ebook-"
+"reader\"/> er et bilde av en eldre versjon av min Adobe eBook Reader."
 
 #.  PAGE BREAK 160 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14948,10 +14896,6 @@ msgstr ""
 "av <citetitle>Middlemarch</citetitle>, så får du se et avansert omslag og en "
 "knapp nederst ved navn Tillatelser."
 
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "Picture of an old version of Adobe eBook Reader"
-msgstr "Bilde av en gammel versjon av Adobe eBook Reader."
-
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
 "<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
@@ -14967,10 +14911,6 @@ msgid ""
 msgstr ""
 "Hvis du klikker på Tillatelser-knappen, så får du se en liste med "
 "tillatelser som utgiveren ønsker å tildele med denne boken."
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "List of the permissions that the publisher purports to grant."
-msgstr "Liste med tillatelser som utgiveren har til hensikt å gi."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -15013,10 +14953,6 @@ msgstr ""
 "Her er e-boken for et annet allemannseid verk (inkludert oversettelsen): "
 "Aristoteles <citetitle>Politikk</citetitle>."
 
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "E-book of Aristotle's <quote>Politics</quote>"
-msgstr "E-bok av Aristoteles <quote>Politikk</quote>"
-
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
 "<graphic fileref=\"images/1621.png\" align=\"center\" width=\"50%\"></"
@@ -15032,10 +14968,6 @@ msgid ""
 msgstr ""
 "I henholdt til dens tillatelser, er det absolutt ikke tillatt med utskrift "
 "eller kopiering.  Heldigvis kan en bruke Les Høyt-knappen for å høre boken."
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "List of the permissions for Aristotle's <quote>Politics</quote>."
-msgstr "Liste med tillatelser for Aristoteles <quote>Politikk</quote>."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -15060,10 +14992,6 @@ msgid ""
 msgstr ""
 "Til slutt (og mest pinlig), her er tillatelsene for den originale e-bok-"
 "versjonen av min siste bok, <citetitle>The Future of Ideas</citetitle>:"
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "List of the permissions for <quote>The Future of Ideas</quote>."
-msgstr "Liste med tillatelser for <quote>The Future of Ideas.</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -15227,11 +15155,6 @@ msgstr ""
 "kopi av <citetitle>Alice i eventyrland</citetitle>. Denne vidunderlige boken "
 "er allemannseie.  Likevel fikk du se følgende oversikt når du trykket på "
 "Tillatelser for denne boken:"
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid ""
-"List of the permissions for <quote>Alice's Adventures in Wonderland</quote>."
-msgstr "Liste med tillatelser for <quote>Alice i Eventyrland.</quote>"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -15840,13 +15763,13 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
-"This led Conrad to draw the cartoon in <xref linkend=\"fig-1711-vcr-handgun-"
-"cartoonfig\"/>, which we can adopt to the DMCA.  <placeholder type="
-"\"indexterm\" id=\"0\"/>"
+"This led Conrad to draw the cartoon in figure <xref xrefstyle=\"template:%n"
+"\" linkend=\"fig-1711-vcr-handgun-cartoonfig\"/>, which we can adopt to the "
+"DMCA.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Dette fikk Conrad til å tegne vitsetegningen i <xref linkend=\"fig-1711-vcr-"
-"handgun-cartoonfig\"/>, som vi  også kan ta i bruk for DMCA. <placeholder "
-"type=\"indexterm\" id=\"0\"/>"
+"Dette fikk Conrad til å tegne vitsetegningen i figur <xref xrefstyle="
+"\"template:%n\" linkend=\"fig-1711-vcr-handgun-cartoonfig\"/>, som vi  også "
+"kan ta i bruk for DMCA. <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "No argument I have can top this picture, but let me try to get close."
@@ -15889,8 +15812,12 @@ msgstr ""
 "dårlige bruksområder."
 
 #. type: Content of: <book><part><chapter><section><figure><title>
-msgid "VCR/handgun cartoon."
-msgstr "Vitsetegning om videospiller/håndvåpen"
+msgid ""
+"&mdash; On which item have the courts ruled that manufacturers and retailers "
+"be held responsible for having supplied the equipment?"
+msgstr ""
+"&mdash; For hvilken enhet har rettsvesene bedømt at produsenter og "
+"forhandlere skal holdes ansvarlig for å ha forsynt utstyret?"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -16301,10 +16228,6 @@ msgstr ""
 "selskaper eier mange radiostasjoner, men noen få selskaper som eier så mange "
 "mediekilder som mulig.  Et bilde beskriver bedre enn tusen ord dette "
 "mønsteret:"
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-msgid "Pattern of modern media ownership."
-msgstr "Mønster for moderne mediaeierskap."
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
@@ -17274,12 +17197,12 @@ msgstr ""
 "krever tillatelse og kreativitet må sjekke med en advokat."
 
 #. type: Content of: <book><part><title>
-msgid "PUZZLES"
+msgid "Puzzles"
 msgstr "Nøtter"
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Chimera"
-msgstr "Fantasifoster / Chimera"
+msgid "Chapter Eleven: Chimera"
+msgstr "Kapittel elleve: Fantasifoster / Chimera"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "chimeras"
@@ -17777,8 +17700,8 @@ msgstr ""
 "muligheter som kan være svært verdifulle."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Harms"
-msgstr "Skader"
+msgid "Chapter Twelve: Harms"
+msgstr "Kapittel tolv: Skader"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -20258,7 +20181,7 @@ msgstr ""
 "en felles innsats i demokratiet vårt for å endre loven vår?"
 
 #. type: Content of: <book><part><title>
-msgid "BALANCES"
+msgid "Balances"
 msgstr "Maktfordeling"
 
 #. type: Content of: <book><part><partintro><para>
@@ -20358,8 +20281,8 @@ msgstr ""
 "å lykkes."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Eldred"
-msgstr "Eldred"
+msgid "Chapter Thirteen: Eldred"
+msgstr "Kapittel tretten: Eldred"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eldred, Eric"
@@ -23525,20 +23448,17 @@ msgstr "Bolling, Ruben"
 msgid ""
 "The best responses were in the cartoons. There was a gaggle of hilarious "
 "images&mdash;of Mickey in jail and the like. The best, from my view of the "
-"case, was Ruben Bolling's, reproduced in <xref linkend=\"fig-18\"/>. The "
-"<quote>powerful and wealthy</quote> line is a bit unfair. But the punch in "
-"the face felt exactly like that.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"case, was Ruben Bolling's, reproduced in figure <xref xrefstyle=\"template:%n"
+"\" linkend=\"fig-18\"/>. The <quote>powerful and wealthy</quote> line is a "
+"bit unfair. But the punch in the face felt exactly like that.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "De beste responsene dukket opp i tegneseriene.  Det var en haug veldig "
 "morsomme tegninger&mdash;av Mikke i fengsel og dets like.  Det beste fra "
-"mitt ståsted i saken, var fra Ruben Bolling, gjengitt i <xref linkend="
-"\"fig-18\"/>.  Tekstlinjen om <quote>mektig og rik</quote> er litt "
-"urettferdig.  Men slaget i ansiktet føltes akkurat slik ut.<placeholder type="
-"\"indexterm\" id=\"0\"/>"
-
-#. type: Content of: <book><part><chapter><figure><title>
-msgid "Tom the Dancing Bug cartoon"
-msgstr "Tom the Dancing Bug-tegneserie"
+"mitt ståsted i saken, var fra Ruben Bolling, gjengitt i figur <xref "
+"xrefstyle=\"template:%n\" linkend=\"fig-18\"/>.  Tekstlinjen om "
+"<quote>mektig og rik</quote> er litt urettferdig.  Men slaget i ansiktet "
+"føltes akkurat slik ut.<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
@@ -23569,8 +23489,8 @@ msgstr ""
 "ville fått dem til å annerledes på det."
 
 #. type: Content of: <book><part><chapter><title>
-msgid "Eldred II"
-msgstr "Eldred II"
+msgid "Chapter Fourteen: Eldred II"
+msgstr "Kapittel fjorten: Eldred II"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24299,7 +24219,7 @@ msgstr ""
 "forsvunnede) hånd fra fortiden."
 
 #. type: Content of: <book><chapter><title>
-msgid "CONCLUSION"
+msgid "Conclusion"
 msgstr "Konklusjon"
 
 #. type: Content of: <book><chapter><indexterm><primary>
@@ -25842,7 +25762,7 @@ msgstr ""
 "snart, hvis dette potensialet skal noen gang bli realisert."
 
 #. type: Content of: <book><chapter><title>
-msgid "AFTERWORD"
+msgid "Afterword"
 msgstr "Etterord"
 
 #.  PAGE BREAK 280 
@@ -25897,7 +25817,7 @@ msgstr ""
 "en fri kultur."
 
 #. type: Content of: <book><chapter><section><title>
-msgid "US, NOW"
+msgid "Us, now"
 msgstr "Oss, nå"
 
 #. type: Content of: <book><chapter><section><para>
@@ -26862,7 +26782,7 @@ msgstr ""
 "gjøre det mulig for kreativiteten å spre seg lettere."
 
 #. type: Content of: <book><chapter><section><title>
-msgid "THEM, SOON"
+msgid "Them, soon"
 msgstr "Dem, snart"
 
 #. type: Content of: <book><chapter><section><para>
@@ -27014,7 +26934,7 @@ msgstr ""
 "standarder utviklet av andre."
 
 #. type: Content of: <book><chapter><section><section><section><title>
-msgid "REGISTRATION AND RENEWAL"
+msgid "Registration and renewal"
 msgstr "Registrering og fornying"
 
 #. type: Content of: <book><chapter><section><section><section><para>
@@ -27103,7 +27023,7 @@ msgstr ""
 "gir en database over registreringer som kan forenkle lisensiering av innhold."
 
 #. type: Content of: <book><chapter><section><section><section><title>
-msgid "MARKING"
+msgid "Marking"
 msgstr "Merking"
 
 #. type: Content of: <book><chapter><section><section><section><para>
@@ -28697,7 +28617,7 @@ msgstr ""
 "kan vise meg begge, holde advokatene din unna."
 
 #. type: Content of: <book><chapter><title>
-msgid "NOTES"
+msgid "Notes"
 msgstr "Notater"
 
 #. type: Content of: <book><chapter><para>
@@ -28723,7 +28643,7 @@ msgstr ""
 "til en passende referanse til materialet."
 
 #. type: Content of: <book><chapter><title>
-msgid "ACKNOWLEDGMENTS"
+msgid "Acknowledgments"
 msgstr "Takk til"
 
 #. type: Content of: <book><chapter><para>
@@ -28878,10 +28798,12 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"This digital book was published by Petter Reinholdtsen in 2015.  The "
-"original hardcover paper book was published in 2004 by The Penguin Press."
+"This digital book was published by Petter Reinholdtsen in 2015 in his spare "
+"time, because he believe it should be available in Norwegian.  The original "
+"hardcover paper book was published in 2004 by The Penguin Press."
 msgstr ""
-"Denne digitale boken ble publisert av Petter Reinholdtsen i 2015.  Den "
+"Denne digitale boken ble publisert på fritiden av Petter Reinholdtsen i "
+"2015, på grunn av at han mener den bør være tilgjengelig på norsk.  Den "
 "opprinnelige innbundede boken ble publisert i 2004 av The Penguin Press."
 
 #. type: Content of: <book><colophon><para>
@@ -28897,21 +28819,46 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"Cartoon in <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul "
-"Conrad, copyright Tribune Media Services, Inc.  All rights reserved. "
-"Reprinted with permission."
+"Cartoon in figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1711-vcr-"
+"handgun-cartoonfig\"/> by Paul Conrad, copyright Tribune Media Services, "
+"Inc.  All rights reserved. Reprinted with permission."
 msgstr ""
-"Vitsetegningen i <xref linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> er "
-"laget av Paul Conrad. Opphavsretten tilhører Tribune Media Services, Inc.  "
-"Alle rettigheter forbeholdt.  Gjengitt med tillatelse."
+"Vitsetegningen i figur <xref xrefstyle=\"template:%n\" linkend=\"fig-1711-"
+"vcr-handgun-cartoonfig\"/> er laget av Paul Conrad. Opphavsretten tilhører "
+"Tribune Media Services, Inc.  Alle rettigheter forbeholdt.  Gjengitt med "
+"tillatelse."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"Diagram in <xref linkend=\"fig-1761-pattern-modern-media-ownership\"/> "
-"courtesy of the office of FCC Commissioner, Michael J. Copps."
+"Diagram in figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1761-pattern-"
+"modern-media-ownership\"/> courtesy of the office of FCC Commissioner, "
+"Michael J. Copps."
 msgstr ""
-"Diagrammet i <xref linkend=\"fig-1761-pattern-modern-media-ownership\"/> "
-"kommer fra kontoret til FCC-kommisjonæren, Michael J. Copps."
+"Diagrammet i figur <xref xrefstyle=\"template:%n\" linkend=\"fig-1761-"
+"pattern-modern-media-ownership\"/> kommer fra kontoret til FCC-"
+"kommisjonæren, Michael J. Copps."
+
+#. type: Content of: <book><colophon><para>
+msgid "Includes index."
+msgstr "Inkluderer register."
+
+#. type: Content of: <book><colophon><para>
+msgid ""
+"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
+"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
+msgstr ""
+"Klassifiseringer: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
+"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
+
+#. type: Content of: <book><colophon><para>
+msgid ""
+"Typeset using the Crimson Text font and dblatex.  The dblatex author "
+"provided valuable help in formatting the print version of this book.  Thomas "
+"Gramstad Forlag provided the ISBN numbers."
+msgstr ""
+"Typesatt med skrifttypen Crimson Text og dblatex.  Forfatteren av dblatex "
+"bidro med verdiful hjelp i formatteringen av utskriftsversjonen av boka.  "
+"Thomas Gramstad Forslag bidro med ISBN-nummer."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -28937,18 +28884,6 @@ msgstr ""
 "for hjelp med registeroppføringene samt Morten Sickel og Alexander Alemayhu "
 "for hjelp med bildene.  Rapporter feil i oversettelsen via GitHub."
 
-#. type: Content of: <book><colophon><para>
-msgid "Includes index."
-msgstr "Inkluderer register."
-
-#. type: Content of: <book><colophon><para>
-msgid ""
-"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
-"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
-msgstr ""
-"Klassifiseringer: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
-"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
-
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
 msgid "ISBN"
 msgstr "ISBN"
@@ -28960,6 +28895,10 @@ msgstr "Format / MIME-type"
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "978-82-92812-XX-Y"
 msgstr "978-82-92812-XX-Y"
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+msgid "Paper copy from XXX"
+msgstr "Papireksemplar fra XXX"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "text/plain"
