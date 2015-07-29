@@ -15682,6 +15682,7 @@ Classifications: (Dewey)
 <para>
 Typeset using the Crimson Text font and dblatex.  The dblatex author
 provided valuable help in formatting the print version of this book.
+Thomas Gramstad Forlag provided the ISBN numbers.
 </para>
 
 <para>
@@ -15709,6 +15710,10 @@ references.  The source files for this book are available from
 <tbody>
  <row>
  <entry>978-82-92812-XX-Y</entry>
+ <entry>Paper copy from XXX</entry>
+ </row>
+ <row>
+ <entry>N/A</entry>
  <entry>text/plain</entry>
  </row>
  <row>
@@ -15716,7 +15721,7 @@ references.  The source files for this book are available from
  <entry>application/pdf</entry>
  </row>
  <row>
- <entry>978-82-92812-XX-Y</entry>
+ <entry>N/A</entry>
  <entry>text/html</entry>
  </row>
  <row>
