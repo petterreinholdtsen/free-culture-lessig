@@ -29,6 +29,8 @@
     </l:l10n>
   </l:i18n>
 
+  <!-- Make preface show up in toc for dblatex -->
+  <xsl:param name="preface.tocdepth">1</xsl:param>
 
   <!-- Fix bugs in default nb locale -->
   <xsl:template name="gentext.startquote">
