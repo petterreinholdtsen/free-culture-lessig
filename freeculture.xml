@@ -7592,7 +7592,7 @@ by copyright law. Republishing the book, for example, makes a copy. It
 is therefore regulated by copyright law. Indeed, this particular use stands
 at the core of this circle of possible uses of a copyrighted work. It is the
 paradigmatic use properly regulated by copyright regulation (see  
-diagram in <xref linkend="fig-1541"/>).
+diagram in figure <xref xrefstyle="template:%n" linkend="fig-1541"/>).
 </para>
 <indexterm startref='idxderivativeworkspiracyvs4' class='endofrange'/>
 <indexterm startref='idxpiracyderivativeworkvs4' class='endofrange'/>
@@ -7945,8 +7945,9 @@ technology, and the publisher delivers the content by using the
 technology.
 </para>
 <para>
-In <xref linkend="fig-example-adobe-ebook-reader"/> is a picture of an old version of my
-Adobe eBook Reader.
+In figure
+<xref xrefstyle="template:%n" linkend="fig-example-adobe-ebook-reader"/>
+is a picture of an old version of my Adobe eBook Reader.
 </para>
 <para>
 As you can see, I have a small collection of e-books within this
@@ -8419,9 +8420,10 @@ some uses that were illegal, the court held the companies producing
 the VCR responsible.
 </para>
 <para>
-This led Conrad to draw the cartoon in
-<xref linkend="fig-1711-vcr-handgun-cartoonfig"/>, which we can adopt
-to the DMCA.
+This led Conrad to draw the cartoon in figure
+<xref xrefstyle="template:%n"
+linkend="fig-1711-vcr-handgun-cartoonfig"/>, which we can adopt to the
+DMCA.
 <indexterm><primary>Conrad, Paul</primary></indexterm>
 </para>
 <para>
@@ -15648,12 +15650,14 @@ Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January
 with permission.
 </para>
 <para>
-Cartoon in <xref linkend="fig-1711-vcr-handgun-cartoonfig"/> by Paul
-Conrad, copyright Tribune Media Services, Inc.  All rights
+Cartoon in figure
+<xref xrefstyle="template:%n" linkend="fig-1711-vcr-handgun-cartoonfig"/> by
+Paul Conrad, copyright Tribune Media Services, Inc.  All rights
 reserved. Reprinted with permission.
 </para>
 <para>
-Diagram in <xref linkend="fig-1761-pattern-modern-media-ownership"/>
+Diagram in figure
+<xref xrefstyle="template:%n" linkend="fig-1761-pattern-modern-media-ownership"/>
 courtesy of the office of FCC Commissioner, Michael J. Copps.
 </para>
 
