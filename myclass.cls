@@ -23,3 +23,7 @@
 % elements. We thought that looked sillier than having pages be
 % different lengths, so we used the raggedbottom command.
 \raggedbottom
+
+% Hint for figure with empty title: remove the colon label separator
+\usepackage{caption}
+\captionsetup[figure]{labelsep=none}
