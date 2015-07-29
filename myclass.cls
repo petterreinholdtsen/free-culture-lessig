@@ -30,6 +30,55 @@
 \makeatother
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Based on ideas from https://bugs.debian.org/684772
+\usepackage{titlesec}
+\usepackage{titletoc}
+%
+% Useless with unnumbered sections (e.g. use of \setcounter{secnumdepth}{0})
+%
+%
+\newcommand\makeletterof[1]{%
+\ifthenelse{\equal{#1}{1}}{EN}{%
+\ifthenelse{\equal{#1}{2}}{TO}{%
+\ifthenelse{\equal{#1}{3}}{TRE}{%
+\ifthenelse{\equal{#1}{4}}{FIRE}{%
+\ifthenelse{\equal{#1}{5}}{FEM}{%
+\ifthenelse{\equal{#1}{6}}{SEKS}{%
+\ifthenelse{\equal{#1}{7}}{SJU}{%
+\ifthenelse{\equal{#1}{8}}{ÅTTE}{%
+\ifthenelse{\equal{#1}{9}}{NI}{%
+\ifthenelse{\equal{#1}{10}}{TI}{%
+\ifthenelse{\equal{#1}{11}}{ELLEVE}{%
+\ifthenelse{\equal{#1}{12}}{TOLV}{%
+#1}}}}}}}}}}}}}
+
+% Make TOC entries without label
+\titlecontents{chapter} %
+[1.5em] % 
+{\addvspace{1em plus 0pt}\bfseries} %
+{\hspace{-1.3em}} % no number, remove room reserved for it 
+{\hspace{-1.3em}} %
+{\hfill \contentspage} % dots and page number
+[\addvspace {0pt}]
+
+\dottedcontents{section} %
+[0em] % was (3.8)
+{\addvspace{0pt}} % 
+{2.3em} % tab
+{0.75em} % space between dots
+[\addvspace{0pt}]
+
+
+%% Redefines the headings to remove the chapter label
+\titleformat{\chapter}[block]
+{\filcenter\huge}{\filcenter}{20pt}{\Huge}
+
+\titleformat{\section}
+{\filcenter\Large\bfseries}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+{\filcenter\large\bfseries}{\thesubsection}{1em}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % From
 % https://amyrhoda.wordpress.com/2012/06/04/latex-to-lulu-the-making-of-aosa-other-useful-packages-and-settings/

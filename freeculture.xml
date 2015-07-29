@@ -18,8 +18,8 @@
 
  <abbrev>"freeculture"</abbrev>
 
- <subtitle>HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN
- CULTURE AND CONTROL CREATIVITY</subtitle>
+ <subtitle>How big media uses technology and the law to lock down
+ culture and control creativity</subtitle>
 
  <pubdate>2004-03-25</pubdate>
 
@@ -259,7 +259,7 @@ c      INDEX
 <!-- PAGE BREAK 11 -->
 
 <preface id="preface">
-<title>PREFACE</title>
+<title>Preface</title>
 <indexterm id='idxpoguedavid' class='startofrange'><primary>Pogue, David</primary></indexterm>
 <para>
 <emphasis role="bold">At the end</emphasis> of his review of my first
@@ -414,7 +414,7 @@ book is written.
 
 <!-- PAGE BREAK 16 -->
 <chapter label="" id="c-introduction">
-<title>INTRODUCTION</title>
+<title>Introduction</title>
 <indexterm id='idxwrightbrothers' class='startofrange'><primary>Wright brothers</primary></indexterm>
 <para>
 <emphasis role="strong">On December 17</emphasis>, 1903, on a windy North Carolina beach for just
@@ -1070,7 +1070,7 @@ to which most of us remain oblivious.
 </chapter>
 <!-- PAGE BREAK 29 -->
 <part id="c-piracy">
-<title><quote>PIRACY</quote></title>
+<title><quote>Piracy</quote></title>
 <partintro>
 <!-- PAGE BREAK 30 -->
 <indexterm><primary>copyright law</primary><secondary>English</secondary></indexterm>
@@ -1253,7 +1253,7 @@ context the current battles about behavior labeled <quote>piracy.</quote>
 
 <!-- PAGE BREAK 34 -->
 <chapter label="1" id="creators">
-<title>Creators</title>
+<title>Chapter One: Creators</title>
 <indexterm id='idxanimatedcartoons' class='startofrange'><primary>animated cartoons</primary></indexterm>
 <indexterm id='idxcartoonfilms' class='startofrange'><primary>cartoon films</primary></indexterm>
 <indexterm id='idxfilmsanimated' class='startofrange'><primary>films</primary><secondary>animated</secondary></indexterm>
@@ -1782,7 +1782,7 @@ free culture. It is becoming much less so.
 <!-- PAGE BREAK 44 -->
 </chapter>
 <chapter label="2" id="mere-copyists">
-<title><quote>Mere Copyists</quote></title>
+<title>Chapter Two: <quote>Mere Copyists</quote></title>
 <indexterm><primary>Daguerre, Louis</primary></indexterm>
 <indexterm id='idxcameratechnology' class='startofrange'><primary>camera technology</primary></indexterm>
 <indexterm id='idxphotography' class='startofrange'><primary>photography</primary></indexterm>
@@ -2745,7 +2745,7 @@ quipped to me in a rare moment of despondence.
 <!-- PAGE BREAK 61 -->
 </chapter>
 <chapter label="3" id="catalogs">
-<title>Catalogs</title>
+<title>Chapter Three: Catalogs</title>
 <indexterm><primary>Jordan, Jesse</primary></indexterm>
 <indexterm><primary>RPI</primary><see>Rensselaer Polytechnic Institute (RPI)</see></indexterm>
 <indexterm id='idxrensselaer' class='startofrange'><primary>Rensselaer Polytechnic Institute (RPI)</primary></indexterm>
@@ -3003,7 +3003,7 @@ wrong message. And he wants to correct the record.</quote>
 <!-- PAGE BREAK 66 -->
 </chapter>
 <chapter label="4" id="pirates">
-<title><quote>Pirates</quote></title>
+<title>Chapter Four: <quote>Pirates</quote></title>
 <indexterm id='idxpiracyindevelopmentofcontentindustry' class='startofrange'><primary>piracy</primary><secondary>in development of content industry</secondary></indexterm>
 <indexterm><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
@@ -3551,7 +3551,7 @@ last. Every generation&mdash;until now.
 </section>
 </chapter>
 <chapter label="5" id="piracy">
-<title><quote>Piracy</quote></title>
+<title>Chapter Five: <quote>Piracy</quote></title>
 <para>
 <emphasis role='strong'>There is piracy</emphasis> of copyrighted
 material. Lots of it. This piracy comes in many forms. The most
@@ -4609,7 +4609,7 @@ is protected.</quote>
 </chapter>
 </part>
 <part id="c-property">
-<title><quote>PROPERTY</quote></title>
+<title><quote>Property</quote></title>
 <partintro>
 <para>
 
@@ -4690,7 +4690,7 @@ from the implications that the copyright warriors would have us draw.
 
 <!-- PAGE BREAK 96 -->
 <chapter label="6" id="founders">
-<title>Founders</title>
+<title>Chapter Six: Founders</title>
 <indexterm id='idxbooksenglishcopyrightlawdevelopedfor' class='startofrange'><primary>books</primary><secondary>English copyright law developed for</secondary></indexterm>
 <indexterm id='idxcopyrightlawdevelopmentof' class='startofrange'><primary>copyright law</primary><secondary>development of</secondary></indexterm>
 <indexterm id='idxcopyrightlawenglish' class='startofrange'><primary>copyright law</primary><secondary>English</secondary></indexterm>
@@ -5293,7 +5293,7 @@ protected.
 <!-- PAGE BREAK 106 -->
 </chapter>
 <chapter label="7" id="recorders">
-<title>Recorders</title>
+<title>Chapter Seven: Recorders</title>
 <indexterm id='idxcopyrightlawfairuseand' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
 <indexterm id='idxdocumentaryfilm' class='startofrange'><primary>documentary film</primary></indexterm>
 <indexterm id='idxelsejon' class='startofrange'><primary>Else, Jon</primary></indexterm>
@@ -5526,7 +5526,7 @@ not.
 <!-- PAGE BREAK 111 -->
 </chapter>
 <chapter label="8" id="transformers">
-<title>Transformers</title>
+<title>Chapter Eight: Transformers</title>
 <indexterm><primary>Allen, Paul</primary></indexterm>
 <indexterm id='idxalbenalex1' class='startofrange'><primary>Alben, Alex</primary></indexterm>
 <indexterm><primary>Microsoft</primary></indexterm>
@@ -5887,7 +5887,7 @@ curse, reserved for the few.
 <!-- PAGE BREAK 119 -->
 </chapter>
 <chapter label="9" id="collectors">
-<title>Collectors</title>
+<title>Chapter Nine: Collectors</title>
 <indexterm id='idxarchivesdigital1' class='startofrange'><primary>archives, digital</primary></indexterm>
 <indexterm><primary>bots</primary></indexterm>
 <para>
@@ -6251,7 +6251,7 @@ that Kahle and others would exercise.
 <!-- PAGE BREAK 127 -->
 </chapter>
 <chapter label="10" id="property-i">
-<title><quote>Property</quote></title>
+<title>Chapter Ten: <quote>Property</quote></title>
 <indexterm><primary>Johnson, Lyndon</primary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
 <para>
@@ -9273,11 +9273,11 @@ lawyer.
 </chapter>
 </part>
 <part id="c-puzzles">
-<title>PUZZLES</title>
+<title>Puzzles</title>
 
 <!-- PAGE BREAK 186 -->
 <chapter label="11" id="chimera">
-<title>Chimera</title>
+<title>Chapter Eleven: Chimera</title>
 <indexterm id='idxchimera' class='startofrange'><primary>chimeras</primary></indexterm>
 <indexterm id='idxwells' class='startofrange'><primary>Wells, H. G.</primary></indexterm>
 <indexterm id='idxtcotb' class='startofrange'><primary><quote>Country of the Blind, The</quote> (Wells)</primary></indexterm>
@@ -9556,7 +9556,7 @@ and will kill opportunities that could be extraordinarily valuable.
 <!-- PAGE BREAK 192 -->
 </chapter>
 <chapter label="12" id="harms">
-<title>Harms</title>
+<title>Chapter Twelve: Harms</title>
 <para>
 <emphasis role='strong'>To fight</emphasis> <quote>piracy,</quote> to
 protect <quote>property,</quote> the content industry has launched a
@@ -10974,7 +10974,7 @@ effort through our democracy to change our law?
 </chapter>
 </part>
 <part id="c-balances">
-<title>BALANCES</title>
+<title>Balances</title>
 <partintro>
 
 <!-- PAGE BREAK 218 -->
@@ -11033,7 +11033,7 @@ success will require.
 
 <!-- PAGE BREAK 220 -->
 <chapter label="13" id="eldred">
-<title>Eldred</title>
+<title>Chapter Thirteen: Eldred</title>
 <indexterm id='idxeldrederic' class='startofrange'><primary>Eldred, Eric</primary></indexterm>
 <indexterm id='idxhawthornenathaniel' class='startofrange'><primary>Hawthorne, Nathaniel</primary></indexterm>
 <para>
@@ -12770,7 +12770,7 @@ better lawyer would have made them see differently.
 <!-- PAGE BREAK 254 -->
 </chapter>
 <chapter label="14" id="eldred-ii">
-<title>Eldred II</title>
+<title>Chapter Fourteen: Eldred II</title>
 <para>
 <emphasis role='strong'>The day</emphasis>
 <citetitle>Eldred</citetitle> was decided, fate would have it that I
@@ -13166,7 +13166,7 @@ controlled by this dead (and often unfindable) hand of the past.
 </chapter>
 </part>
 <chapter label="" id="c-conclusion">
-<title>CONCLUSION</title>
+<title>Conclusion</title>
 <indexterm id='idxafricamedicationsforhivpatientsin' class='startofrange'><primary>Africa, medications for HIV patients in</primary></indexterm>
 <indexterm id='idxaidsmedications' class='startofrange'><primary>AIDS medications</primary></indexterm>
 <indexterm id='idxantiretroviraldrugs' class='startofrange'><primary>antiretroviral drugs</primary></indexterm>
@@ -13971,7 +13971,7 @@ potential is ever to be realized.
 </para>
 </chapter>
 <chapter label="" id="c-afterword">
-<title>AFTERWORD</title>
+<title>Afterword</title>
 <para>
 
 <!-- PAGE BREAK 280 -->
@@ -14002,7 +14002,7 @@ sketch changes that Congress could make to better secure a free culture.
 <!-- PAGE BREAK 281 -->
 
 <section id="usnow">
-<title>US, NOW</title>
+<title>Us, now</title>
 <para>
 <emphasis role='strong'>Common sense</emphasis> is with the copyright
 warriors because the debate so far has been framed at the
@@ -14519,7 +14519,7 @@ creativity to spread more easily.
 </section>
 </section>
 <section id="themsoon">
-<title>THEM, SOON</title>
+<title>Them, soon</title>
 <para>
 <emphasis role='strong'>We will</emphasis> not reclaim a free culture
 by individual action alone. It will also take important reforms of
@@ -14601,7 +14601,7 @@ developed by others.
 <!-- PAGE BREAK 294 -->
 
 <section id="registration">
-<title>REGISTRATION AND RENEWAL</title>
+<title>Registration and renewal</title>
 <para>
 Under the old system, a copyright owner had to file a registration
 with the Copyright Office to register or renew a copyright. When
@@ -14650,7 +14650,7 @@ of registrations that would facilitate the licensing of content.
 
 </section>
 <section id="marking">
-<title>MARKING</title>
+<title>Marking</title>
 <para>
 It used to be that the failure to include a copyright notice on a
 creative work meant that the copyright was forfeited. That was a harsh
@@ -15529,7 +15529,7 @@ keep your lawyers away.
 </section>
 </chapter>
 <chapter label="" id="c-notes">
-<title>NOTES</title>
+<title>Notes</title>
 <para>
 Throughout this text, there are references to links on the World Wide
 Web. As anyone who has tried to use the Web knows, these links can be
@@ -15550,7 +15550,7 @@ the material.
 
 </chapter>
 <chapter label="" id="c-acknowledgments">
-<title>ACKNOWLEDGMENTS</title>
+<title>Acknowledgments</title>
 <para>
 This book is the product of a long and as yet unsuccessful struggle that
 began when I read of Eric Eldred's war to keep books free. Eldred's
