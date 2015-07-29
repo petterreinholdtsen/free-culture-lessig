@@ -23,10 +23,11 @@
 
 <xsl:param name="insert.xref.page.number">1</xsl:param>
 
-<!-- xsl:include href="lulu.xsl" / -->
+<xsl:include href="lulu.xsl" />
+<!-- xsl:include href="createspace.xsl" /-->
 <!-- xsl:include href="licentia.xsl" /-->
 
-<xsl:include href="origsize.xsl" />
+<!-- xsl:include href="origsize.xsl" /-->
 
 <!-- fall back to simplex A4 if not creating PDF for a specific size. -->
 <!-- xsl:param name="paper.type">A4</xsl:param -->
