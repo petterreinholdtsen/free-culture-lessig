@@ -93,15 +93,15 @@
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
 this work, so long as attribution is given.  For more information
-about the license, click the icon above, or visit
+about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
    </para>
  </legalnotice>
 
  <abstract>
-  <title>ABOUT THE AUTHOR</title>
+  <title>About the author</title>
   <para>
-LAWRENCE LESSIG 
+Lawrence Lessig 
 (<ulink url="http://www.lessig.org">http://www.lessig.org</ulink>),
 professor of law and a John A. Wilson Distinguished Faculty Scholar
 at Stanford Law School, is founder of the Stanford Center for Internet
@@ -118,6 +118,11 @@ Pennsylvania, Cambridge University, and Yale Law School, Lessig
 clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of
 Appeals.
   </para>
+
+<para>
+<ulink url="http://free-culture.cc/"/>
+</para>
+
  </abstract>
 
 <!-- testing different ways to tag the cover page -->
@@ -138,7 +143,7 @@ Appeals.
 -->
  </mediaobject>
 
- <biblioid class="isbn">978-82-92812-XX-Y</biblioid>
+ <biblioid class="isbn">978-82-8067-010-6</biblioid>
 
 <!-- LCCN from
      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
@@ -186,12 +191,14 @@ Code: And Other Laws of Cyberspace
 <!-- PAGE BREAK 7 -->
 <dedication><title></title>
 <!-- FIXME figure out how to do this better in dblatex and docbook-xsl -->
-<?latex {\Huge \centering ?>
+<?latex {\Huge \centering
+?>
 <para>
 To Eric Eldred &mdash; whose work first drew me to this cause, and for whom
 it continues still.
 </para>
-<?latex } ?>
+<?latex } % \Huge \centering
+?>
 </dedication>
 
 <toc id="toc"></toc>
@@ -15544,7 +15551,8 @@ the material.
 </para>
 
 <!-- insert endnotes here -->
-<?latex \theendnotes ?>
+<?latex \theendnotes
+?>
 
 <!--PAGE BREAK 336-->
 
@@ -15622,15 +15630,32 @@ grateful for her perpetual patience and love.
 </chapter>
 <index></index>
 <colophon>
-<?latex {\footnotesize ?>
-<?latex {\centering ?>
+<!--
+Hack to get rid of chapter heading on colophon page and provide a more
+conventional Colophon page.  The disadvantage is a useless blank page
+where the empty chapter title is printed.
+-->
+<title></title>
+<?latex
+\pagebreak
+{\footnotesize
+\setlength{\parskip}{0.5em}%
+\setlength{\parindent}{0pt}%
+?>
+<?latex {\centering
+?>
 <para>
 Free culture: How big media uses technology and the law to lock down
 culture and control creativity / Lawrence Lessig.
 </para>
 <para>
-Copyright &copy; Lawrence Lessig.  Some rights reserved.
+Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
+
+<para>
+<ulink url="http://free-culture.cc/"/>
+</para>
+
 <para>
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
@@ -15638,12 +15663,13 @@ this work, so long as attribution is given.  For more information
 about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
 </para>
+
 <para>
-This digital book was published by Petter Reinholdtsen in 2015 in his
-spare time, because he believe it should be available in Norwegian.
-The original hardcover paper book was published in 2004 by The Penguin
-Press.
+Published 2015 by Petter Reinholdtsen in his spare time.  First
+published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
+the ISBN numbers.
 </para>
+
 <para>
 Excerpt from an editorial titled <quote>The Coming of Copyright
 Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January
@@ -15678,21 +15704,16 @@ Classifications: (Dewey)
 (ACM CRCS) K.4.1
 </para>
 
-<?latex } %\centering ?>
+<?latex } %\centering
+?>
 
 <para>
-Typeset using the Crimson Text font and dblatex.  The dblatex author
-provided valuable help in formatting the print version of this book.
-Thomas Gramstad Forlag provided the ISBN numbers.
-</para>
-
-<para>
-The source of this version of the book is written using DocBook
-notation and the other formats are derived from the DocBook source.
-The DocBook source is based on a DocBook XML version created by Hans
-Schou, and extended by Petter Reinholdtsen with formatting and index
-references.  The source files for this book are available from
+The book source is in DocBook notation and the other formats are
+derived from this.  The source is based on a version from Hans Schou.
+Typeset using Crimson Text and formatted using dblatex.  Many thanks
+to the dblatex developer for his help.  The source is available from
 <ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
+Please report any problems using the GitHub issue tracker.
 </para>
 
 <para>
@@ -15729,6 +15750,7 @@ references.  The source files for this book are available from
 </tgroup>
 </informaltable>
 </para>
-<?latex } %\tiny ?>
+<?latex } %\tiny
+?>
 </colophon>
 </book>
