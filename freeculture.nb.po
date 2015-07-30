@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-07-29 07:17+0000\n"
-"PO-Revision-Date: 2015-07-29 07:41+0000\n"
+"POT-Creation-Date: 2015-07-30 07:31+0000\n"
+"PO-Revision-Date: 2015-07-30 07:49+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/free-"
 "culture-lessig/language/nb/)\n"
@@ -113,29 +113,27 @@ msgstr "Creative Commons, noen rettigheter forbeholdt"
 msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 
-#. type: Content of: <book><bookinfo><legalnotice><para>
+#. type: Content of: <book><colophon><para>
 msgid ""
 "This version of <citetitle>Free Culture</citetitle> is licensed under a "
 "Creative Commons license. This license permits non-commercial use of this "
 "work, so long as attribution is given.  For more information about the "
-"license, click the icon above, or visit <ulink url=\"http://creativecommons."
-"org/licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</"
-"ulink>"
+"license visit <ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/"
+"\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
 msgstr ""
-"Denne versjonen av <citetitle>Fri kultur</citetitle> er lisensiert under en "
+"Denne versjonen av <citetitle>Fri kultur</citetitle> er lisensiert med en "
 "Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
-"utnyttelse av verket dersom opphavsmannen er navngitt.  For mer informasjon "
-"om lisensen, klikk på ikonet over eller besøk <ulink url=\"http://"
-"creativecommons.org/licenses/by-nc/1.0/\">http://creativecommons.org/"
-"licenses/by-nc/1.0/</ulink>"
+"utnyttelse av verket, hvis opphavsinnehaveren er navngitt.  For mer "
+"informasjon om lisensen, besøk <ulink url=\"http://creativecommons.org/"
+"licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
 
 #. type: Content of: <book><bookinfo><abstract><title>
-msgid "ABOUT THE AUTHOR"
+msgid "About the author"
 msgstr "Om forfatteren"
 
 #. type: Content of: <book><bookinfo><abstract><para>
 msgid ""
-"LAWRENCE LESSIG (<ulink url=\"http://www.lessig.org\">http://www.lessig.org</"
+"Lawrence Lessig (<ulink url=\"http://www.lessig.org\">http://www.lessig.org</"
 "ulink>), professor of law and a John A. Wilson Distinguished Faculty Scholar "
 "at Stanford Law School, is founder of the Stanford Center for Internet and "
 "Society and is chairman of the Creative Commons (<ulink url=\"http://"
@@ -165,6 +163,10 @@ msgstr ""
 "Cambridge University, og Yale Law School, assisterte Lessig dommer Richard "
 "Posner ved USAs syvende ankekrets."
 
+#. type: Content of: <book><colophon><para>
+msgid "<ulink url=\"http://free-culture.cc/\"/>"
+msgstr "<ulink url=\"http://free-culture.cc/\"/>"
+
 #.  testing different ways to tag the cover page 
 #.    <imageobject remap="s" role="front">
 #.      <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
@@ -189,11 +191,11 @@ msgstr ""
 #. type: Content of: <book><bookinfo>
 msgid ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-"\">978-82-92812-XX-Y</biblioid> <biblioid class=\"libraryofcongress"
+"\">978-82-8067-010-6</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid>"
 msgstr ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-"\">978-82-92812-XX-Y</biblioid> <biblioid class=\"libraryofcongress"
+"\">978-82-8067-014-4</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid>"
 
 #. type: Content of: <book><dedication><title>
@@ -2554,8 +2556,8 @@ msgid ""
 "(1953), <citetitle>Lady and the Tramp</citetitle> (1955), <citetitle>Mulan</"
 "citetitle> (1998), <citetitle>Sleeping Beauty</citetitle> (1959), "
 "<citetitle>101 Dalmatians</citetitle> (1961), <citetitle>The Sword in the "
-"Stone</citetitle> (1963), and <citetitle>The Jungle Book</citetitle> "
-"(1967)&mdash;not to mention a recent example that we should perhaps quickly "
+"Stone</citetitle> (1963), and <citetitle>The Jungle Book</citetitle> (1967)"
+"&mdash;not to mention a recent example that we should perhaps quickly "
 "forget, <citetitle>Treasure Planet</citetitle> (2003). In all of these "
 "cases, Disney (or Disney, Inc.) ripped creativity from the culture around "
 "him, mixed that creativity with his own extraordinary talent, and then "
@@ -2576,13 +2578,12 @@ msgstr ""
 "(1953), <citetitle>Lady og landstrykeren</citetitle> (1955), "
 "<citetitle>Mulan</citetitle> (1998), <citetitle>Tornerose</citetitle> "
 "(1959), <citetitle>101 Dalmatinere</citetitle> (1961), <citetitle>Sverdet i "
-"steinen</citetitle> (1963), og <citetitle>Jungelboken</citetitle> "
-"(1967)&mdash;for ikke å nevne et nylig eksempel som vi bør kanskje glemme "
-"raskt, <citetitle>Treasure Planet</citetitle> (2003). I alle disse "
-"tilfellene, har Disney (eller Disney, Inc.) hentet kreativitet fra kultur "
-"rundt seg, blandet med kreativiteten fra sitt eget ekstraordinære talent, og "
-"deretter brent denne blandingen inn i sjelen til kulturen sin. Hente, blande "
-"og brenne."
+"steinen</citetitle> (1963), og <citetitle>Jungelboken</citetitle> (1967)"
+"&mdash;for ikke å nevne et nylig eksempel som vi bør kanskje glemme raskt, "
+"<citetitle>Treasure Planet</citetitle> (2003). I alle disse tilfellene, har "
+"Disney (eller Disney, Inc.) hentet kreativitet fra kultur rundt seg, blandet "
+"med kreativiteten fra sitt eget ekstraordinære talent, og deretter brent "
+"denne blandingen inn i sjelen til kulturen sin. Hente, blande og brenne."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2932,12 +2933,12 @@ msgstr "Mehra, Salil"
 msgid ""
 "See Salil K. Mehra, <quote>Copyright and Comics in Japan: Does Law Explain "
 "Why All the Comics My Kid Watches Are Japanese Imports?</quote> "
-"<citetitle>Rutgers Law Review</citetitle> 55 (2002): 155, 182. "
-"<quote>[T]here might be a collective economic rationality that would lead "
-"manga and anime artists to forgo bringing legal actions for infringement. "
-"One hypothesis is that all manga artists may be better off collectively if "
-"they set aside their individual self-interest and decide not to press their "
-"legal rights. This is essentially a prisoner's dilemma solved.</quote>"
+"<citetitle>Rutgers Law Review</citetitle> 55 (2002): 155, 182. <quote>[T]"
+"here might be a collective economic rationality that would lead manga and "
+"anime artists to forgo bringing legal actions for infringement. One "
+"hypothesis is that all manga artists may be better off collectively if they "
+"set aside their individual self-interest and decide not to press their legal "
+"rights. This is essentially a prisoner's dilemma solved.</quote>"
 msgstr ""
 "Se Salil K. Mehra, <quote>Copyright and Comics in Japan: Does Law Explain "
 "Why All the Comics My Kid Watches Are Japanese Imports?</quote> "
@@ -8373,9 +8374,9 @@ msgid ""
 "machines. Under the Ninth Circuit's rule, this totally familiar "
 "technology&mdash;which Jack Valenti had called <quote>the Boston Strangler "
 "of the American film industry</quote> (worse yet, it was a "
-"<emphasis>Japanese</emphasis> Boston Strangler of the American film "
-"industry)&mdash;was an illegal technology.<placeholder type=\"footnote\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"<emphasis>Japanese</emphasis> Boston Strangler of the American film industry)"
+"&mdash;was an illegal technology.<placeholder type=\"footnote\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Det tok åtte år før denne saken ble avgjort av høyesterett.  I mellomtiden "
 "hadde den niende ankekrets, som har Hollywood i sin jurisdiksjon&mdash;det "
@@ -8385,9 +8386,9 @@ msgstr ""
 "maskiner.  I følge regelen til niende ankrekrets var denne kjente "
 "teknologien&mdash;som Jack Valenti hadde omtalt som <quote>Boston-kveleren "
 "for amerikansk filmindustri</quote> (verre enn dette, det var en "
-"<emphasis>japansk</emphasis> Boston-kveler for amerikansk "
-"filmindustri)&mdash; en ulovlig teknologi.<placeholder type=\"footnote\" id="
-"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
+"<emphasis>japansk</emphasis> Boston-kveler for amerikansk filmindustri)"
+"&mdash; en ulovlig teknologi.<placeholder type=\"footnote\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/>"
 
 #.  PAGE BREAK 90 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8475,7 +8476,7 @@ msgstr "Lovbestemt lisens"
 msgid "Recording artists"
 msgstr "Plateartister"
 
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
 msgstr "N/A"
 
@@ -28778,33 +28779,18 @@ msgstr ""
 "å begrense kulturen og kontrollere kreativiteten / Lawrence Lessig."
 
 #. type: Content of: <book><colophon><para>
-msgid "Copyright &copy; Lawrence Lessig.  Some rights reserved."
+msgid "Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved."
 msgstr ""
-"Opphavsrettbeskyttet &copy; Lawrence Lessig.  Noen rettigheter forbeholdt."
+"Opphavsrettbeskyttet &copy; 2004 Lawrence Lessig.  Noen rettigheter "
+"forbeholdt."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"This version of <citetitle>Free Culture</citetitle> is licensed under a "
-"Creative Commons license. This license permits non-commercial use of this "
-"work, so long as attribution is given.  For more information about the "
-"license visit <ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/"
-"\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
+"Published 2015 by Petter Reinholdtsen in his spare time.  First published "
+"2004 by The Penguin Press.  Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
-"Denne versjonen av <citetitle>Fri kultur</citetitle> er lisensert med en "
-"Creative Commons-lisens.  Denne lisensen tillater ikke-kommersiell "
-"utnyttelse av verket, hvis opphavsinnehaveren er navngitt.  For mer "
-"informasjon om lisensen, besøk <ulink url=\"http://creativecommons.org/"
-"licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
-
-#. type: Content of: <book><colophon><para>
-msgid ""
-"This digital book was published by Petter Reinholdtsen in 2015 in his spare "
-"time, because he believe it should be available in Norwegian.  The original "
-"hardcover paper book was published in 2004 by The Penguin Press."
-msgstr ""
-"Denne digitale boken ble publisert på fritiden av Petter Reinholdtsen i "
-"2015, på grunn av at han mener den bør være tilgjengelig på norsk.  Den "
-"opprinnelige innbundede boken ble publisert i 2004 av The Penguin Press."
+"Publisert 2015 av Petter Reinholdtsen på fritiden.  Første gang publisert "
+"2004 av The Penguin Press.  Thomas Gramstad Forlag donerte ISBN-nummer."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -28852,37 +28838,27 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"Typeset using the Crimson Text font and dblatex.  The dblatex author "
-"provided valuable help in formatting the print version of this book.  Thomas "
-"Gramstad Forlag provided the ISBN numbers."
+"The book source is in DocBook notation and the other formats are derived "
+"from this.  The source is based on a version from Hans Schou.  Typeset using "
+"Crimson Text and formatted using dblatex.  Many thanks to the dblatex "
+"developer for his help.  The source is available from <ulink url=\"https://"
+"github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please report any "
+"problems using the GitHub issue tracker."
 msgstr ""
-"Typesatt med skrifttypen Crimson Text og dblatex.  Forfatteren av dblatex "
-"bidro med verdiful hjelp i formatteringen av utskriftsversjonen av boka.  "
-"Thomas Gramstad Forslag bidro med ISBN-nummer."
-
-#. type: Content of: <book><colophon><para>
-msgid ""
-"The source of this version of the book is written using DocBook notation and "
-"the other formats are derived from the DocBook source.  The DocBook source "
-"is based on a DocBook XML version created by Hans Schou, and extended by "
-"Petter Reinholdtsen with formatting and index references.  The source files "
-"for this book are available from <ulink url=\"https://github.com/"
-"petterreinholdtsen/free-culture-lessig\"/>."
-msgstr ""
-"Kildekoden for denne versjonen av boken er skrevet i DocBook-notasjon og de "
-"andre formatene er avledet fra DocBook-kilden. DocBook-koden er basert på en "
-"DocBook XML-versjon laget av Hans Schou, utvidet av Petter Reinholdtsen med "
-"formattering og registerreferanser.  Kildefilene til denne boken er "
-"tilgjengelig fra <ulink url=\"https://github.com/petterreinholdtsen/free-"
-"culture-lessig\"/>."
+"Bokens kildekode er i DocBok-notasjon og de andre formatene er utledet fra "
+"dette.  Kildekoden er basert på en versjon fra Hans Schou.  Typesatt med "
+"Crimson Text og formattert med dblatex.  Mange takk til dblatex-utvikleren "
+"for hans hjelp.  Kildekoden er tilgjengelig fra <ulink url=\"https://github."
+"com/petterreinholdtsen/free-culture-lessig\"/>.  Rapporter problemer via "
+"GitHub."
 
 #. type: Content of: <book><colophon><para>
 msgid "&translationblock;"
 msgstr ""
-"Boken er oversatt til bokmål på dugnad av Petter Reinholdtsen med hjelp fra "
+"Bokmålsutgave er oversatt på dugnad av Petter Reinholdtsen med hjelp fra "
 "Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva. Takk til Ralph Amissah "
 "for hjelp med registeroppføringene samt Morten Sickel og Alexander Alemayhu "
-"for hjelp med bildene.  Rapporter feil i oversettelsen via GitHub."
+"for hjelp med bildene."
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
 msgid "ISBN"
@@ -28893,32 +28869,32 @@ msgid "Format / MIME-type"
 msgstr "Format / MIME-type"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "978-82-92812-XX-Y"
-msgstr "978-82-92812-XX-Y"
+msgid "978-82-8067-010-6"
+msgstr "978-82-8067-014-4"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "Paper copy from XXX"
 msgstr "Papireksemplar fra XXX"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "text/plain"
-msgstr "text/plain"
+msgid "978-82-8067-011-3"
+msgstr "978-82-8067-015-1"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/pdf"
 msgstr "application/pdf"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "text/html"
-msgstr "text/html"
+msgid "978-82-8067-012-0"
+msgstr "978-82-8067-016-8"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/epub+zip"
 msgstr "application/epub+zip"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "application/docbook+xml"
-msgstr "application/docbook+xml"
+msgid "978-82-8067-013-7"
+msgstr "978-82-8067-017-5"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/x-mobipocket-ebook"
