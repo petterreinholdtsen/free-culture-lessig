@@ -93,15 +93,15 @@
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
 this work, so long as attribution is given.  For more information
-about the license, click the icon above, or visit
+about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
    </para>
  </legalnotice>
 
  <abstract>
-  <title>ABOUT THE AUTHOR</title>
+  <title>About the author</title>
   <para>
-LAWRENCE LESSIG 
+Lawrence Lessig 
 (<ulink url="http://www.lessig.org">http://www.lessig.org</ulink>),
 professor of law and a John A. Wilson Distinguished Faculty Scholar
 at Stanford Law School, is founder of the Stanford Center for Internet
@@ -118,6 +118,11 @@ Pennsylvania, Cambridge University, and Yale Law School, Lessig
 clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of
 Appeals.
   </para>
+
+<para>
+<ulink url="http://free-culture.cc/"/>
+</para>
+
  </abstract>
 
 <!-- testing different ways to tag the cover page -->
@@ -15644,8 +15649,13 @@ Free culture: How big media uses technology and the law to lock down
 culture and control creativity / Lawrence Lessig.
 </para>
 <para>
-Copyright &copy; Lawrence Lessig.  Some rights reserved.
+Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
+
+<para>
+<ulink url="http://free-culture.cc/"/>
+</para>
+
 <para>
 This version of <citetitle>Free Culture</citetitle> is licensed under
 a Creative Commons license. This license permits non-commercial use of
@@ -15653,6 +15663,13 @@ this work, so long as attribution is given.  For more information
 about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
 </para>
+
+<para>
+Published 2015 by Petter Reinholdtsen in his spare time.  First
+published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
+the ISBN numbers.
+</para>
+
 <para>
 Excerpt from an editorial titled <quote>The Coming of Copyright
 Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January
@@ -15691,25 +15708,12 @@ Classifications: (Dewey)
 ?>
 
 <para>
-This digital book was published by Petter Reinholdtsen in 2015 in his
-spare time, because he believe it should be available in Norwegian.
-The original hardcover paper book was published in 2004 by The Penguin
-Press.
-</para>
-
-<para>
-Typeset using the Crimson Text font and dblatex.  The dblatex author
-provided valuable help in formatting the print version of this book.
-Thomas Gramstad Forlag provided the ISBN numbers.
-</para>
-
-<para>
-The source of this version of the book is written using DocBook
-notation and the other formats are derived from the DocBook source.
-The DocBook source is based on a DocBook XML version created by Hans
-Schou, and extended by Petter Reinholdtsen with formatting and index
-references.  The source files for this book are available from
+The book source is in DocBook notation and the other formats are
+derived from this.  The source is based on a version from Hans Schou.
+Typeset using Crimson Text and formatted using dblatex.  Many thanks
+to the dblatex developer for his help.  The source is available from
 <ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
+Please report any problems using the GitHub issue tracker.
 </para>
 
 <para>
