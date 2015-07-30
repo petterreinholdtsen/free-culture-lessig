@@ -28789,7 +28789,7 @@ msgid ""
 "Published 2015 by Petter Reinholdtsen in his spare time.  First published "
 "2004 by The Penguin Press.  Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
-"Publisert 2015 av Petter Reinholdtsen på fritiden.  Første gang publisert "
+"Publisert 2015 av Petter Reinholdtsen på fritiden.  Først publisert "
 "2004 av The Penguin Press.  Thomas Gramstad Forlag donerte ISBN-nummer."
 
 #. type: Content of: <book><colophon><para>
