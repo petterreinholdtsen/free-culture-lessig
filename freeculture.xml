@@ -15625,8 +15625,20 @@ grateful for her perpetual patience and love.
 </chapter>
 <index></index>
 <colophon>
-<?latex {\footnotesize ?>
-<?latex {\centering ?>
+<!--
+Hack to get rid of chapter heading on colophon page and provide a more
+conventional Colophon page.  The disadvantage is a useless blank page
+where the empty chapter title is printed.
+-->
+<title></title>
+<?latex
+\pagebreak
+{\footnotesize
+\setlength{\parskip}{0.5em}%
+\setlength{\parindent}{0pt}%
+?>
+<?latex {\centering
+?>
 <para>
 Free culture: How big media uses technology and the law to lock down
 culture and control creativity / Lawrence Lessig.
@@ -15640,12 +15652,6 @@ a Creative Commons license. This license permits non-commercial use of
 this work, so long as attribution is given.  For more information
 about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</para>
-<para>
-This digital book was published by Petter Reinholdtsen in 2015 in his
-spare time, because he believe it should be available in Norwegian.
-The original hardcover paper book was published in 2004 by The Penguin
-Press.
 </para>
 <para>
 Excerpt from an editorial titled <quote>The Coming of Copyright
@@ -15683,6 +15689,13 @@ Classifications: (Dewey)
 
 <?latex } %\centering
 ?>
+
+<para>
+This digital book was published by Petter Reinholdtsen in 2015 in his
+spare time, because he believe it should be available in Norwegian.
+The original hardcover paper book was published in 2004 by The Penguin
+Press.
+</para>
 
 <para>
 Typeset using the Crimson Text font and dblatex.  The dblatex author
