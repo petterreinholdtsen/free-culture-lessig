@@ -186,12 +186,14 @@ Code: And Other Laws of Cyberspace
 <!-- PAGE BREAK 7 -->
 <dedication><title></title>
 <!-- FIXME figure out how to do this better in dblatex and docbook-xsl -->
-<?latex {\Huge \centering ?>
+<?latex {\Huge \centering
+?>
 <para>
 To Eric Eldred &mdash; whose work first drew me to this cause, and for whom
 it continues still.
 </para>
-<?latex } ?>
+<?latex } % \Huge \centering
+?>
 </dedication>
 
 <toc id="toc"></toc>
@@ -15544,7 +15546,8 @@ the material.
 </para>
 
 <!-- insert endnotes here -->
-<?latex \theendnotes ?>
+<?latex \theendnotes
+?>
 
 <!--PAGE BREAK 336-->
 
@@ -15678,7 +15681,8 @@ Classifications: (Dewey)
 (ACM CRCS) K.4.1
 </para>
 
-<?latex } %\centering ?>
+<?latex } %\centering
+?>
 
 <para>
 Typeset using the Crimson Text font and dblatex.  The dblatex author
@@ -15729,6 +15733,7 @@ references.  The source files for this book are available from
 </tgroup>
 </informaltable>
 </para>
-<?latex } %\tiny ?>
+<?latex } %\tiny
+?>
 </colophon>
 </book>
