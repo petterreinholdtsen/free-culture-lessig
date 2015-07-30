@@ -14,16 +14,7 @@
 <xsl:param name="page.margin.outer">0.71in</xsl:param>
 <xsl:param name="body.start.indent">0pt</xsl:param>
 
-<xsl:param name="latex.class.options">pagesize=pdftex,headinclude=on,footinclude=on,twoside,openright</xsl:param>
-
-<!-- FIXME: To move in lulu.xsl -->
-<xsl:param name="latex.enddocument">
-  <xsl:text>\pagebreak
-\thispagestyle{empty}
-~
-\end{document}
-  </xsl:text>
-</xsl:param>
+<xsl:param name="latex.class.options">pagesize=pdftex,headinclude=on,footinclude=on,twoside</xsl:param>
 
 <!-- from http://cygwin.com/ml/docbook-apps/2004-q2/msg00107.html -->
 <!-- ~~~~~~~~~~~~~~~~ -->
