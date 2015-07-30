@@ -1,0 +1,3 @@
+#!/bin/sh
+# Workaround for <URL: https://bugs.debian.org/794066 >
+exec /usr/bin/inkscape --export-dpi=300 "$@"

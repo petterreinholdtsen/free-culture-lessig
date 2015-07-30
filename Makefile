@@ -83,7 +83,7 @@ html: freeculture.nb.html freeculture.html
 	echo "Using $$pipeline pipeline" ; \
 	case "$$pipeline" in  \
 	dblatex) \
-	  $(DBLATEX) $< ; \
+	  PATH=$(PWD)/bin:$$PATH $(DBLATEX) $< ; \
 	  ;; \
 	xmlto) \
 	  xmlto --noautosize \
