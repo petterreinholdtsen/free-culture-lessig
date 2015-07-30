@@ -103,3 +103,22 @@
 % Hint for figure with empty title: remove the colon label separator
 \usepackage{caption}
 \captionsetup[figure]{labelsep=none}
+
+% Fix the page number reset done by abstract by redefining it
+% Patch from
+% https://github.com/petterreinholdtsen/free-culture-lessig/pull/7
+
+\def\nocount#1#2{}
+\let\stdsetcounter\setcounter
+\let\stdabstract=\abstract
+\let\endstdabstract=\endabstract
+\renewenvironment{abstract}{%
+  \let\setcounter\nocount%
+  \begin{stdabstract}%
+  \noindent%
+  \setlength\parskip{\medskipamount}%
+  \setlength\parindent{0pt}%
+}{
+  \end{stdabstract}
+  \let\setcounter\stdsetcounter
+}
