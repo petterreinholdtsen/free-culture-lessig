@@ -26,6 +26,7 @@
 \let\stdindex=\theindex
 \let\endstdindex=\endtheindex
 \renewenvironment{theindex}{
+  \newfontfamily\indexfont[Scale=0.5]{DejaVu Serif}
   \begin{stdindex}
   \@ifundefined{chapter}{}{
     % To not have the number, replace by:
@@ -41,6 +42,7 @@
       \addcontentsline{toc}{chapter}{\indexname}
     \fi
   }
+  \indexfont
 }{
   \end{stdindex}
 }
