@@ -15636,12 +15636,6 @@ conventional Colophon page.  The disadvantage is a useless blank page
 where the empty chapter title is printed.
 -->
 <title></title>
-<?latex
-\pagebreak
-{\footnotesize
-\setlength{\parskip}{0.5em}%
-\setlength{\parindent}{0pt}%
-?>
 <?latex {\centering
 ?>
 <para>
@@ -15750,7 +15744,5 @@ Please report any problems using the GitHub issue tracker.
 </tgroup>
 </informaltable>
 </para>
-<?latex } %\tiny
-?>
 </colophon>
 </book>

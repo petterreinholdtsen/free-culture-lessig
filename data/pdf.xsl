@@ -37,7 +37,16 @@
 <!-- font for XSL/FOP, see also fop-params.xconf -->
 
 <xsl:param name="body.font.family">Crimson Text</xsl:param>
+<xsl:param name="sans.font.family">Crimson Text</xsl:param>
 <xsl:param name="title.font.family">Crimson Text</xsl:param>
 <xsl:param name="slide.font.family">Crimson Text</xsl:param>
 <xsl:param name="slide.title.font.family">Crimson Text</xsl:param>
+<xsl:param name="monospace.font.family">Nimbus Mono L</xsl:param>
+
+<xsl:template match="colophon">
+  <xsl:text>\begin{colophon}&#10;</xsl:text>
+  <xsl:apply-templates/>
+  <xsl:text>\end{colophon}&#10;</xsl:text>
+</xsl:template>
+
 </xsl:stylesheet>

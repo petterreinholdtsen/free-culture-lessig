@@ -60,6 +60,14 @@
 }
 \makeatother
 
+\newenvironment{colophon}{
+  \pagebreak %
+  \fontsize{7}{8.4}\selectfont %
+  \setlength{\parskip}{0.5em} %
+  \setlength{\parindent}{0pt} %
+}{}
+ 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Based on ideas from https://bugs.debian.org/684772
 \usepackage{titlesec}
