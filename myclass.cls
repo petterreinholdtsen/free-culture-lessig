@@ -46,7 +46,7 @@
 
 \newenvironment{colophon}{
   \pagebreak %
-  \fontsize{7}{8.4}\selectfont %
+  \fontsize{6}{7.2}\selectfont %
   \setlength{\parskip}{0.5em} %
   \setlength{\parindent}{0pt} %
 }{}
