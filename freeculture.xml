@@ -15705,7 +15705,8 @@ Classifications: (Dewey)
 The book source is in DocBook notation and the other formats are
 derived from this.  The source is based on a version from Hans Schou.
 Typeset using Crimson Text and formatted using dblatex.  Many thanks
-to the dblatex developer for his help.  The source is available from
+to the dblatex developer Benoît Guillon for his help.  The source is
+available from
 <ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
 Please report any problems using the GitHub issue tracker.
 </para>
