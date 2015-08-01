@@ -94,7 +94,7 @@
 
 %% Redefines the headings to remove the chapter label
 \titleformat{\chapter}[block]
-{\filcenter\huge}{\filcenter}{20pt}{\Huge}
+{\filcenter\Large}{\filcenter}{20pt}{\Large}
 
 \titleformat{\section}
 {\filcenter\Large\bfseries}{\thesection}{1em}{}
