@@ -119,11 +119,6 @@ Pennsylvania, Cambridge University, and Yale Law School, Lessig
 clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of
 Appeals.
   </para>
-
-<para>
-<ulink url="http://free-culture.cc/"/>
-</para>
-
  </abstract>
 
 <!-- testing different ways to tag the cover page -->
@@ -150,6 +145,8 @@ Appeals.
      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
      -->
   <biblioid class="libraryofcongress">2003063276</biblioid>
+
+  <biblioid class="uri">http://free-culture.cc/</biblioid>
 
 </bookinfo>
 <!-- PAGE BREAK 3 -->
