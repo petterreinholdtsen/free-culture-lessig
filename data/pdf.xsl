@@ -35,7 +35,7 @@
 <xsl:param name="latex.class.options">a4paper</xsl:param>
 
 <!-- font for XSL/FOP, see also fop-params.xconf -->
-
+<!-- The original book used Adobe Caslon, and this free font is pretty similar -->
 <xsl:param name="body.font.family">Crimson Text</xsl:param>
 <xsl:param name="sans.font.family">Crimson Text</xsl:param>
 <xsl:param name="title.font.family">Crimson Text</xsl:param>
