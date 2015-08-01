@@ -21,13 +21,22 @@
   \let\setcounter\stdsetcounter
 }
 
+% Divide by 2 the index item indentation (10pt -> 5pt)
+\makeatletter
+\renewcommand\@idxitem{\par\hangindent 20\p@}
+\renewcommand\subitem{\@idxitem \hspace*{10\p@}}
+\renewcommand\subsubitem{\@idxitem \hspace*{15\p@}}
+\makeatother
+
 % Put the index in the TOC
 \makeatletter
 \let\stdindex=\theindex
 \let\endstdindex=\endtheindex
 \renewenvironment{theindex}{
-  \newfontfamily\indexfont[Scale=0.5]{DejaVu Serif}
   \begin{stdindex}
+  % Use a smaller font except for the letter heading which is bold
+  \newfontfamily\indexfont[Scale=0.7,
+                           BoldFeatures={Scale=1}]{Crimson Text}
   \@ifundefined{chapter}{}{
     % To not have the number, replace by:
     % \addcontentsline{toc}{chapter}{\numberline{}\indexname}
@@ -42,6 +51,9 @@
       \addcontentsline{toc}{chapter}{\indexname}
     \fi
   }
+  % Adapt the vertical sizes to the smaller font
+  \setlength{\baselineskip}{0.7\baselineskip}%
+  \setlength{\parskip}{0.2\baselineskip}%
   \indexfont
 }{
   \end{stdindex}
