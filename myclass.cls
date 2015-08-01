@@ -5,22 +5,6 @@
 \LoadClassWithOptions{report}
 % report, book, memoir, scrreprt or scrbook ?
 
-% Fix the page number reset done by abstract by redefining it
-\def\nocount#1#2{}
-\let\stdsetcounter\setcounter
-\let\stdabstract=\abstract
-\let\endstdabstract=\endabstract
-\renewenvironment{abstract}{%
-  \let\setcounter\nocount%
-  \begin{stdabstract}%
-  \noindent%
-  \setlength\parskip{\medskipamount}%
-  \setlength\parindent{0pt}%
-}{
-  \end{stdabstract}
-  \let\setcounter\stdsetcounter
-}
-
 % Divide by 2 the index item indentation (10pt -> 5pt)
 \makeatletter
 \renewcommand\@idxitem{\par\hangindent 20\p@}
