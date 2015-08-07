@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-01 21:48+0000\n"
+"POT-Creation-Date: 2015-08-07 22:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,7 +117,7 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15652
+#: freeculture.xml:95 freeculture.xml:15695
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Lawrence Lessig (<ulink "
 "url=\"http://www.lessig.org\">http://www.lessig.org</ulink>), professor of "
-"law and a John A. Wilson Distinguished Faculty Scholar at Stanford Law "
+"law and a Roy L. Furman Professor of Law and Leadership at Harvard Law "
 "School, is founder of the Stanford Center for Internet and Society and is "
 "chairman of the Creative Commons (<ulink "
 "url=\"http://creativecommons.org\">http://creativecommons.org</ulink>).  The "
@@ -11431,7 +11431,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:7999
 msgid ""
-"<graphic fileref=\"images/1621.png\" align=\"center\" "
+"<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" "
 "width=\"50%\"></graphic>"
 msgstr ""
 
@@ -12068,7 +12068,7 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><figure>
 #: freeculture.xml:8458
 msgid ""
-"<graphic fileref=\"images/1711.png\" align=\"center\" "
+"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" "
 "width=\"100%\"></graphic>"
 msgstr ""
 
@@ -21512,14 +21512,14 @@ msgid "<ulink url=\"http://free-culture.cc/\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15659
+#: freeculture.xml:15652
 msgid ""
 "Published 2015 by Petter Reinholdtsen in his spare time.  First published "
 "2004 by The Penguin Press.  Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15665
+#: freeculture.xml:15658
 msgid ""
 "Excerpt from an editorial titled <quote>The Coming of Copyright "
 "Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January 16, "
@@ -21528,7 +21528,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15671
+#: freeculture.xml:15664
 msgid ""
 "Cartoon in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul Conrad, copyright "
@@ -21537,7 +21537,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15677
+#: freeculture.xml:15670
 msgid ""
 "Diagram in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1761-pattern-modern-media-ownership\"/> courtesy of the office "
@@ -21545,12 +21545,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15683
+#: freeculture.xml:15676
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15687
+#: freeculture.xml:15680
 msgid ""
 "Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
 "347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
