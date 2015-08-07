@@ -15649,13 +15649,6 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
 
 <para>
-This book is licensed under a Creative Commons license. This license
-permits non-commercial use of this work, so long as attribution is
-given.  For more information about the license visit
-<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</para>
-
-<para>
 Published 2015 by Petter Reinholdtsen in his spare time.  First
 published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
 the ISBN numbers.
@@ -15697,6 +15690,13 @@ Classifications: (Dewey)
 
 <?latex } %\centering
 ?>
+
+<para>
+This book is licensed under a Creative Commons license. This license
+permits non-commercial use of this work, so long as attribution is
+given.  For more information about the license visit
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
+</para>
 
 <para>
 The book source is in DocBook notation and the other formats are
