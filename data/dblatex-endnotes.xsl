@@ -14,13 +14,14 @@ in front of it.
 \let\footnote=\endnote
 \def\enoteheading{\mbox{}\par\vskip-\baselineskip }
 
-% Increase footnote/endnote size to be at least 6 pts, to avoid
+% Increase footnote/endnote size to be more than 6 pts, to avoid
 % complaint from Lulu about the font being too small to be printed
 % clearly.  Needed at least for pocket size books.
+% Probably wise to use the same size as the colophon page (see myclass.cls)
 
 % Use one of these (adjust numbers, x, x*1.2), 6>= 6
-%\def\enotesize{\normalsize}
-%\def\enotesize{\fontsize{6}{7.2}\selectfont}
+\def\enotesize{\normalsize}
+%\def\enotesize{\fontsize{10}{12}\selectfont}
 
 % Trick to avoid many words sticking out of the right margin of the text.
 % Need to add it here with the end notes, as only one
