@@ -12,16 +12,16 @@ in front of it.
     <xsl:text>
 \usepackage{endnotes}
 \let\footnote=\endnote
-\def\enoteheading{\mbox{}\par\vskip-\baselineskip }
+\def\enoteheading{\mbox{}\par\vskip-0.2\baselineskip }
+
+% More pretty looking note
+\def\enoteformat{\rightskip=0pt \leftskip=21pt \parindent=-13pt
+\leavevmode\llap{\makeenmark}\hspace*{11pt}}
 
 % Trick to avoid many words sticking out of the right margin of the text.
 % Need to add it here with the end notes, as only one
 % latex.begindocument can be active.
 \sloppy
-
-% Hack to get correct chapter numbering with dblatex, as chapter
-% labels are ignored.
-\setcounter{chapter}{-1}
 
 \begin{document}
     </xsl:text>
