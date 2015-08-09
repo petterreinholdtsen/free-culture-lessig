@@ -32,6 +32,10 @@ in front of it.
 % latex.begindocument can be active.
 \sloppy
 
+% Hack to get correct chapter numbering with dblatex, as chapter
+% labels are ignored.  No longer needed with dblatex 0.3.7.
+%\setcounter{chapter}{-1}
+
 \begin{document}
     </xsl:text>
 
