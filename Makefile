@@ -28,6 +28,7 @@ XSLT = \
   data/user_param.xsl
 
 DB_XSLT = \
+  data/dblatex-endnotes.xsl \
   data/xetex_param.xsl
 
 HTML_XSLT = \
@@ -36,6 +37,7 @@ HTML_XSLT = \
   data/stylesheet-html.xsl
 
 PDF_XSLT = \
+  $(DB_XSLT) \
   $(XSLT) \
   data/lulu.xsl \
   data/licentia.xsl \
