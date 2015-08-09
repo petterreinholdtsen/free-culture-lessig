@@ -83,7 +83,7 @@
 % Make TOC entries without label
 \titlecontents{chapter} %
 [1.5em] % 
-{\addvspace{1em plus 0pt}\bfseries} %
+{\addvspace{0.3em plus 0pt}\bfseries} %
 {\hspace{-1.3em}} % no number, remove room reserved for it 
 {\hspace{-1.3em}} %
 {\hfill \contentspage} % dots and page number
@@ -96,7 +96,6 @@
 {0.75em} % space between dots
 [\addvspace{0pt}]
 
-
 %% Redefines the headings to remove the chapter label
 \titleformat{\chapter}[block]
 {\filcenter\Large}{\filcenter}{20pt}{\Large}
@@ -106,6 +105,22 @@
 
 \titleformat{\subsection}
 {\filcenter\large\bfseries}{\thesubsection}{1em}{}
+
+%% New header, behaving like a chapter but formatted differently
+\titleclass{\lotheader}{top}[\part]
+\newcounter{lotheader}
+\renewcommand{\thelotheader}{\Alph{lotheader}}
+
+\titleformat{\lotheader}[block]
+{\filcenter\huge}{\filcenter}{20pt}{\Huge}
+\titlespacing*{\lotheader}{0pt}{-30pt}{40pt}
+
+% Use the new header in TOC
+\let\stdtoc=\tableofcontents
+\let\stdchapter=\chapter
+\def\tableofcontents{\let\chapter\lotheader \stdtoc{} \let\chapter\stdchapter}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % From
