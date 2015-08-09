@@ -51,7 +51,7 @@
   \pagebreak %
   \fontsize{6.5}{7.8}\selectfont % fits in one pocket size page
 %  \fontsize{7.5}{9}\selectfont % fits in one 5.06x7.71" size page
-%  \fontsize{8.5}{10.2}\selectfont % fits in one 5.5x8.5" size page
+%  \fontsize{9.1}{10.92}\selectfont % fits in one 5.5x8.5" size page
   \setlength{\parskip}{0.5em} %
   \setlength{\parindent}{0pt} %
 }{}
