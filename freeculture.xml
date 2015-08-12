@@ -23,6 +23,8 @@
 
  <pubdate>2004-03-25</pubdate>
 
+ <edition>1</edition>
+
  <releaseinfo>Version 2004-02-10</releaseinfo>
 
  <authorgroup>
@@ -90,10 +92,9 @@
    </para>
 
    <para>
-This version of <citetitle>Free Culture</citetitle> is licensed under
-a Creative Commons license. This license permits non-commercial use of
-this work, so long as attribution is given.  For more information
-about the license visit
+This book is licensed under a Creative Commons license. This license
+permits non-commercial use of this work, so long as attribution is
+given.  For more information about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
    </para>
  </legalnotice>
@@ -101,10 +102,10 @@ about the license visit
  <abstract>
   <title>About the author</title>
   <para>
-Lawrence Lessig 
+Lawrence Lessig
 (<ulink url="http://www.lessig.org">http://www.lessig.org</ulink>),
-professor of law and a John A. Wilson Distinguished Faculty Scholar
-at Stanford Law School, is founder of the Stanford Center for Internet
+professor of law and a Roy L. Furman Professor of Law and Leadership
+at Harvard Law School, is founder of the Stanford Center for Internet
 and Society and is chairman of the Creative Commons
 (<ulink url="http://creativecommons.org">http://creativecommons.org</ulink>).
 The author of The Future of Ideas (Random House, 2001) and Code: And
@@ -112,17 +113,12 @@ Other Laws of Cyberspace (Basic Books, 1999), Lessig is a member of
 the boards of the Public Library of Science, the Electronic Frontier
 Foundation, and Public Knowledge. He was the winner of the Free
 Software Foundation's Award for the Advancement of Free Software,
-twice listed in BusinessWeek's <quote>e.biz 25,</quote> and named one of Scientific
-American's <quote>50 visionaries.</quote> A graduate of the University of
-Pennsylvania, Cambridge University, and Yale Law School, Lessig
-clerked for Judge Richard Posner of the U.S. Seventh Circuit Court of
-Appeals.
+twice listed in BusinessWeek's <quote>e.biz 25,</quote> and named one
+of Scientific American's <quote>50 visionaries.</quote> A graduate of
+the University of Pennsylvania, Cambridge University, and Yale Law
+School, Lessig clerked for Judge Richard Posner of the U.S. Seventh
+Circuit Court of Appeals.
   </para>
-
-<para>
-<ulink url="http://free-culture.cc/"/>
-</para>
-
  </abstract>
 
 <!-- testing different ways to tag the cover page -->
@@ -149,6 +145,8 @@ Appeals.
      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
      -->
   <biblioid class="libraryofcongress">2003063276</biblioid>
+
+  <biblioid class="uri">http://free-culture.cc/</biblioid>
 
 </bookinfo>
 <!-- PAGE BREAK 3 -->
@@ -7998,7 +7996,7 @@ translation): Aristotle's <citetitle>Politics</citetitle>.
 </para>
 <figure id="fig-1621">
 <title></title>
-<graphic fileref="images/1621.png" align="center" width="50%"></graphic>
+<graphic fileref="images/aristotele-ebook.png" align="center" width="50%"></graphic>
 </figure>
 <para>
 According to its permissions, no printing or copying is permitted
@@ -8457,7 +8455,7 @@ and bad uses.
 <title>&mdash; On which item have the courts ruled that manufacturers and
 retailers be held responsible for having supplied the
 equipment?</title>
-<graphic fileref="images/1711.png" align="center" width="100%"></graphic>
+<graphic fileref="images/vcr-comic.png" align="center" width="100%"></graphic>
 </figure>
 <indexterm><primary>Conrad, Paul</primary></indexterm>
 <para>
@@ -15650,14 +15648,6 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
 
 <para>
-This version of <citetitle>Free Culture</citetitle> is licensed under
-a Creative Commons license. This license permits non-commercial use of
-this work, so long as attribution is given.  For more information
-about the license visit
-<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</para>
-
-<para>
 Published 2015 by Petter Reinholdtsen in his spare time.  First
 published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
 the ISBN numbers.
@@ -15701,10 +15691,18 @@ Classifications: (Dewey)
 ?>
 
 <para>
+This book is licensed under a Creative Commons license. This license
+permits non-commercial use of this work, so long as attribution is
+given.  For more information about the license visit
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
+</para>
+
+<para>
 The book source is in DocBook notation and the other formats are
 derived from this.  The source is based on a version from Hans Schou.
 Typeset using Crimson Text and formatted using dblatex.  Many thanks
-to the dblatex developer for his help.  The source is available from
+to the dblatex developer Benoît Guillon for his help.  The source is
+available from
 <ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
 Please report any problems using the GitHub issue tracker.
 </para>
@@ -15725,7 +15723,7 @@ Please report any problems using the GitHub issue tracker.
 <tbody>
  <row>
  <entry>978-82-8067-010-6</entry>
- <entry>Paper copy from XXX</entry>
+ <entry>Printed copy from Lulu</entry>
  </row>
  <row>
  <entry>978-82-8067-011-3</entry>

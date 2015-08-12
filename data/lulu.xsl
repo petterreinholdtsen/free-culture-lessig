@@ -11,12 +11,15 @@ http://www.lulu.com/create/books
 <xsl:param name="doc.collab.show">0</xsl:param>
 
 <!-- See "Global Page Setup" in the dblatex PDF manual for details -->
-<xsl:param name="page.width">5in</xsl:param>
-<xsl:param name="page.height">8in</xsl:param>
+<xsl:param name="page.width">4.25in</xsl:param>
+<xsl:param name="page.height">6.875in</xsl:param>
 <xsl:param name="page.margin.inner">0.8in</xsl:param>
 <xsl:param name="page.margin.outer">0.55in</xsl:param>
-<xsl:param name="page.margin.top">0.55in</xsl:param>
-<xsl:param name="page.margin.bottom">0.55in</xsl:param>
+
+<!-- reduce from 0.55in, to ignore header and footer in margin calculation -->
+<!-- FIXME figure out the proper number to use -->
+<xsl:param name="page.margin.top">0.15in</xsl:param>
+<xsl:param name="page.margin.bottom">0.30in</xsl:param>
 
 <xsl:param name="body.start.indent">0pt</xsl:param>
 <xsl:param name="double.sided">1</xsl:param>
@@ -24,7 +27,7 @@ http://www.lulu.com/create/books
 <!-- used by dblatex -->
 <!-- headinclude=on,footinclude=on - ? -->
 <!-- openright,twoside - proper double sided printing -->
-<xsl:param name="latex.class.options">headinclude=on,footinclude=on,openright,twoside</xsl:param>
+<xsl:param name="latex.class.options">openright,twoside</xsl:param>
 
 <!--
 Make final page blank, which is required for PDFs inteneded for

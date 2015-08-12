@@ -5,6 +5,9 @@
 \LoadClassWithOptions{report}
 % report, book, memoir, scrreprt or scrbook ?
 
+% Show frames, make it easier to debug borders
+%\usepackage{showframe}% http://ctan.org/pkg/showframe
+
 % Divide by 2 the index item indentation (10pt -> 5pt)
 \makeatletter
 \renewcommand\@idxitem{\par\hangindent 20\p@}
@@ -46,7 +49,9 @@
 
 \newenvironment{colophon}{
   \pagebreak %
-  \fontsize{7}{8.4}\selectfont %
+  \fontsize{6.5}{7.8}\selectfont % fits in one pocket size page
+%  \fontsize{7.5}{9}\selectfont % fits in one 5.06x7.71" size page
+%  \fontsize{9.1}{10.92}\selectfont % fits in one 5.5x8.5" size page
   \setlength{\parskip}{0.5em} %
   \setlength{\parindent}{0pt} %
 }{}
@@ -93,7 +98,7 @@
 
 %% Redefines the headings to remove the chapter label
 \titleformat{\chapter}[block]
-{\filcenter\huge}{\filcenter}{20pt}{\Huge}
+{\filcenter\Large}{\filcenter}{20pt}{\Large}
 
 \titleformat{\section}
 {\filcenter\Large\bfseries}{\thesection}{1em}{}

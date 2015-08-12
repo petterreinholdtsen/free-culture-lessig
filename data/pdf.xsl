@@ -32,10 +32,14 @@
 <!-- fall back to simplex A4 if not creating PDF for a specific size. -->
 <!-- xsl:param name="paper.type">A4</xsl:param -->
 <xsl:param name="double.sided">0</xsl:param>
+<xsl:param name="page.margin.inner">0.8in</xsl:param>
+<xsl:param name="page.margin.outer">0.55in</xsl:param>
+<xsl:param name="page.margin.top">0.55in</xsl:param>
+<xsl:param name="page.margin.bottom">0.55in</xsl:param>
 <xsl:param name="latex.class.options">a4paper</xsl:param>
 
 <!-- font for XSL/FOP, see also fop-params.xconf -->
-
+<!-- The original book used Adobe Caslon, and this free font is pretty similar -->
 <xsl:param name="body.font.family">Crimson Text</xsl:param>
 <xsl:param name="sans.font.family">Crimson Text</xsl:param>
 <xsl:param name="title.font.family">Crimson Text</xsl:param>
