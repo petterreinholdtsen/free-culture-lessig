@@ -2,7 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version='1.0'>
 
 <!-- The TOC links in the titles, and in blue. -->
-<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=blue,pdfstartview=FitH</xsl:param>
+<!-- ensure URLs in the text do not end up light gray too -->
+<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=blue,urlcolor=blue,pdfstartview=FitH</xsl:param>
+
 <xsl:param name="callout.linkends.hot">0</xsl:param>
 
 <!-- Put the dblatex logo -->
