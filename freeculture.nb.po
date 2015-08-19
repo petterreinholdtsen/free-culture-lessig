@@ -5,16 +5,16 @@
 # for this translation to do so too.
 #
 # Translators:
-# Petter Reinholdtsen <pere@hungry.com>, 2012-2015.
+# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
 # Ingrid Yrvin <iyrvin@hagan.no>, 2015
-# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012.
-# Kirill Miazine <km@krot.org>, 2012.
+# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
+# Kirill Miazine <km@krot.org>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
 "POT-Creation-Date: 2015-08-07 22:55+0000\n"
-"PO-Revision-Date: 2015-08-19 20:09+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
+"PO-Revision-Date: 2015-08-19 20:27+0000\n"
+"Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
 "lessig/language/nb/)\n"
 "Language: nb\n"
@@ -2804,7 +2804,7 @@ msgid ""
 msgstr ""
 "Dette er fenomenet <citetitle>doujinshi</citetitle>.  Doujinshi er også "
 "tegneserier, men de er en slags etterapingstegneserier.  En rik etikk styrer "
-"de som skaper doujinshi.  Det er ikke doujinshi hvis det <emphasis>bare</"
+"dem som skaper doujinshi.  Det er ikke doujinshi hvis det <emphasis>bare</"
 "emphasis> er en kopi.  Kunstneren må gjøre et bidrag til kunsten han "
 "kopierer ved å omforme det enten subtilt eller betydelig.  En doujinshi-"
 "tegneserie kan dermed ta en massemarkedstegneserie og utvikle den i en annen "
@@ -2833,8 +2833,8 @@ msgstr ""
 "japanere samles to ganger i året, i den største offentlige samlingen i "
 "landet, for å bytte og selge dem.  Dette markedet er parallelt med det "
 "kommersielle mangamassemarkedet.  På noen måter konkurrerer de åpenbart med "
-"hverandre, men det er ingen vedvarende innsats fra de som kontrollerer det "
-"kommersielle manga-markedet for å stenge doujinshi-markedet.  Det blomstrer, "
+"hverandre, men det er ingen vedvarende innsats fra dem som kontrollerer det "
+"kommersielle mangamarkedet for å stenge doujinshimarkedet.  Det blomstrer, "
 "på tross av konkurransen og på tross for loven."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
@@ -2856,7 +2856,7 @@ msgid ""
 "original copyright to make a copy or a derivative work without the original "
 "copyright owner's permission."
 msgstr ""
-"Den mest gåtefulle egenskapen med doujinshi-markedet, for de som har "
+"Den mest gåtefulle egenskapen med doujinshi-markedet, for dem som har "
 "juridisk trening i hvert fall, er at det overhodet tillates å eksistere.  "
 "Under japansk åndsverkslov, som i hvert fall på dette området (på papiret) "
 "speiler USAs åndsverkslov, er doujinshi-markedet ulovlig.  Doujinshi er helt "
