@@ -11,7 +11,18 @@ in front of it.
 
   <xsl:attribute-set name="endnotes.properties"
                      use-attribute-sets="endnotes.properties.default">
+<!--
+Increase footnote/endnote size to be more than 6 pts, to avoid
+complaint from Lulu about the font being too small to be printed
+clearly.  Needed at least for pocket size books.  Probably wise to use
+the same size as the colophon page (see myclass.cls)
+
+for \fontsize{x}{y}, use y=1.2*x, x >= 6
+-->
+
+    <!--xsl:attribute name="font-size">\fontsize{10}{12}</xsl:attribute-->
     <xsl:attribute name="font-size">\footnotesize</xsl:attribute>
+    <!--xsl:attribute name="font-size">\normalsize</xsl:attribute-->
   </xsl:attribute-set>
 
   <xsl:param name="latex.begindocument">
