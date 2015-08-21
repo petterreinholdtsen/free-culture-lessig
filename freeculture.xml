@@ -7949,6 +7949,10 @@ software that publishers use to deliver e-books. It provides the
 technology, and the publisher delivers the content by using the
 technology.
 </para>
+<figure id="fig-example-adobe-ebook-reader" float="1">
+<title></title>
+<graphic fileref="images/example-adobe-ebook-reader.png" align="center" width="50%"></graphic>
+</figure>
 <para>
 In figure
 <xref xrefstyle="template:%n" linkend="fig-example-adobe-ebook-reader"/>
@@ -7967,10 +7971,6 @@ copy of
 <citetitle>Middlemarch</citetitle>, you'll see a fancy cover, and then
 a button at the bottom called Permissions.
 </para>
-<figure id="fig-example-adobe-ebook-reader">
-<title></title>
-<graphic fileref="images/example-adobe-ebook-reader.png" align="center" width="50%"></graphic>
-</figure>
 <para>
 If you click on the Permissions button, you'll see a list of the
 permissions that the publisher purports to grant with this book.
