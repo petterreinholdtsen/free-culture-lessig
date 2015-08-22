@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-22 19:09+0000\n"
+"POT-Creation-Date: 2015-08-22 20:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,7 +122,7 @@ msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
 "information about the license visit <ulink "
-"url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
+"url=\"http://creativecommons.org/licenses/by-nc/1.0/\"/>."
 msgstr ""
 
 #. type: Content of: <book><bookinfo><abstract><title>
@@ -21561,7 +21561,7 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15689
-msgid "(Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9,"
+msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
@@ -21571,7 +21571,7 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15702
-msgid "(US Lib. of Congress) KF2979.L47 2004"
+msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
