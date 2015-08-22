@@ -68,7 +68,7 @@ html: freeculture.nb.html freeculture.html
 #
 # dblatex:
 #   This converts the docbook content to latex and leave it to latex
-#   to format it.  Index ranges are broken.
+#   to format it.  Index ranges are broken in oldstable, fixed in jessie.
 #
 # xmlto:
 #   Alternative processing path to dblatex is to use xmlto using fop
