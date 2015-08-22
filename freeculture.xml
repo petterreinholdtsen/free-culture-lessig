@@ -10,7 +10,6 @@
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
    <!ENTITY copy "©">
-   <!ENTITY translationblock "">
 ]>
 <book id="index" lang="en">
 <bookinfo>
@@ -15649,9 +15648,13 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
 
 <para>
-Published 2015 by Petter Reinholdtsen in his spare time.  First
-published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
-the ISBN numbers.
+Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen
+with help from many volunteers.  Typeset using dblatex with Crimson
+Text.
+</para>
+
+<para>
+First published 2004 by The Penguin Press.
 </para>
 
 <para>
@@ -15677,39 +15680,48 @@ Includes index.
 </para>
 
 <para>
-Classifications: (Dewey)
+Classifications:
+</para>
+
+<para>
+(Dewey)
 306.4
 306.40973
 306.46
 341.7582
 343.7309/9,
+</para>
+
+<para>
 (UDK) 347.78
+</para>
+
+<para>
 (US Lib. of Congress) KF2979.L47 2004
+</para>
+
+<para>
 (ACM CRCS) K.4.1
+</para>
+
+<para>
+Thomas Gramstad Forlag donated the ISBN numbers.
 </para>
 
 <?latex } %\centering
 ?>
 
 <para>
+The Docbook source is available from
+<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
+Please report any issues with the book there.
+</para>
+
+<para>
 This book is licensed under a Creative Commons license. This license
 permits non-commercial use of this work, so long as attribution is
 given.  For more information about the license visit
 <ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</para>
-
-<para>
-The book source is in DocBook notation and the other formats are
-derived from this.  The source is based on a version from Hans Schou.
-Typeset using Crimson Text and formatted using dblatex.  Many thanks
-to the dblatex developer Benoît Guillon for his help.  The source is
-available from
-<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
-Please report any problems using the GitHub issue tracker.
-</para>
-
-<para>
-&translationblock;
 </para>
 
 <para>
