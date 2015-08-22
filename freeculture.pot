@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-07 22:55+0000\n"
+"POT-Creation-Date: 2015-08-22 07:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,7 +117,7 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15695
+#: freeculture.xml:95 freeculture.xml:15723
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
@@ -1228,7 +1228,7 @@ msgid "First Amendment to"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:916 freeculture.xml:1081 freeculture.xml:1188 freeculture.xml:1213 freeculture.xml:1557 freeculture.xml:1601 freeculture.xml:1715 freeculture.xml:3117 freeculture.xml:3208 freeculture.xml:4288 freeculture.xml:4289 freeculture.xml:4700 freeculture.xml:4701 freeculture.xml:5302 freeculture.xml:6488 freeculture.xml:6934 freeculture.xml:7014 freeculture.xml:7015 freeculture.xml:7199 freeculture.xml:7298 freeculture.xml:7330 freeculture.xml:7360 freeculture.xml:7395 freeculture.xml:7509 freeculture.xml:7510 freeculture.xml:7571 freeculture.xml:7605 freeculture.xml:7709 freeculture.xml:7723 freeculture.xml:7782 freeculture.xml:7783 freeculture.xml:7881 freeculture.xml:9814 freeculture.xml:10167 freeculture.xml:11121 freeculture.xml:11166
+#: freeculture.xml:916 freeculture.xml:1081 freeculture.xml:1188 freeculture.xml:1213 freeculture.xml:1557 freeculture.xml:1601 freeculture.xml:1715 freeculture.xml:3117 freeculture.xml:3208 freeculture.xml:4288 freeculture.xml:4289 freeculture.xml:4700 freeculture.xml:4701 freeculture.xml:5302 freeculture.xml:6488 freeculture.xml:6934 freeculture.xml:7014 freeculture.xml:7015 freeculture.xml:7199 freeculture.xml:7298 freeculture.xml:7330 freeculture.xml:7360 freeculture.xml:7395 freeculture.xml:7509 freeculture.xml:7510 freeculture.xml:7571 freeculture.xml:7609 freeculture.xml:7709 freeculture.xml:7723 freeculture.xml:7782 freeculture.xml:7783 freeculture.xml:7881 freeculture.xml:9814 freeculture.xml:10167 freeculture.xml:11121 freeculture.xml:11166
 msgid "copyright law"
 msgstr ""
 
@@ -7631,7 +7631,7 @@ msgid "Chapter Seven: Recorders"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#: freeculture.xml:5302 freeculture.xml:7605 freeculture.xml:7723 freeculture.xml:7782
+#: freeculture.xml:5302 freeculture.xml:7609 freeculture.xml:7723 freeculture.xml:7782
 msgid "fair use and"
 msgstr ""
 
@@ -7646,7 +7646,7 @@ msgid "Else, Jon"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#: freeculture.xml:5305 freeculture.xml:5452 freeculture.xml:7604 freeculture.xml:7641 freeculture.xml:7722 freeculture.xml:7784
+#: freeculture.xml:5305 freeculture.xml:5452 freeculture.xml:7608 freeculture.xml:7641 freeculture.xml:7722 freeculture.xml:7784
 msgid "fair use"
 msgstr ""
 
@@ -10892,18 +10892,18 @@ msgid ""
 "figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1541\"/>)."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7607
-msgid ""
-"Finally, there is a tiny sliver of otherwise regulated copying uses that "
-"remain unregulated because the law considers these <quote>fair uses.</quote>"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><figure>
-#: freeculture.xml:7613
+#: freeculture.xml:7606
 msgid ""
 "<graphic fileref=\"images/1541.svg\" align=\"center\" "
 "width=\"40%\"></graphic>"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para>
+#: freeculture.xml:7611
+msgid ""
+"Finally, there is a tiny sliver of otherwise regulated copying uses that "
+"remain unregulated because the law considers these <quote>fair uses.</quote>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11356,8 +11356,15 @@ msgid ""
 "publisher delivers the content by using the technology."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><figure>
+#: freeculture.xml:7954
+msgid ""
+"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
+"width=\"50%\"></graphic>"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7953
+#: freeculture.xml:7957
 msgid ""
 "In figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-example-adobe-ebook-reader\"/> is a picture of an old version "
@@ -11366,7 +11373,7 @@ msgstr ""
 
 #.  PAGE BREAK 160 
 #. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7958
+#: freeculture.xml:7962
 msgid ""
 "As you can see, I have a small collection of e-books within this e-book "
 "library. Some of these books reproduce content that is in the public domain: "
@@ -11376,13 +11383,6 @@ msgid ""
 "domain.  Consider <citetitle>Middlemarch</citetitle> first. If you click on "
 "my e-book copy of <citetitle>Middlemarch</citetitle>, you'll see a fancy "
 "cover, and then a button at the bottom called Permissions."
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><figure>
-#: freeculture.xml:7972
-msgid ""
-"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
-"width=\"50%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -21589,7 +21589,7 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15727
-msgid "Printed copy from Lulu"
+msgid "Digest size from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
