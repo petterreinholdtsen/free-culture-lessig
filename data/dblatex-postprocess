@@ -11,57 +11,20 @@ TEXFILE="$1"
 # aktuelle ord i latex-fila her til å inneholde orddelingsmarkør i
 # stedet.
 sed -i \
-    -e 's%FS/OSS-{}teknologi%FS/OSS-tekno\\-logi%g' \
-    -e 's/-{}opptakeren/-{}opp\\-takeren/g' \
-    -e 's/-{}rettigheter/-{}rettig\\-heter/g' \
-    -e 's/2004-{}presidentvalgkampen/2004-{}president\\-valg\\-kampen/g' \
-    -e 's/Disney-{}kreativitet/Disney-{}kreativ\\-itet/g' \
-    -e 's/Eastman-{}fabrikk/East\\-man-fabrikk/g' \
-    -e 's/Eastwood/East\\-wood/g' \
-    -e 's/FCC-{}kommisjonæren/FCC-{}kom\\-misjon\\-æren/g' \
-    -e 's/Fremskritts-{}bestemmelsen/Frems\\-kritts-{}bestem\\-melsen/g' \
-    -e 's/Handels-{}bestemmelsen/Han\\-dels-{}bestem\\-melsen/g' \
-    -e 's/Ikke-{}programmerere/Ikke-{}program\\-merere/g' \
-    -e 's/Internett-{}kultur/Inter\\-nett-{}kultur/g' \
-    -e 's/Linux-{}operativsystemet/Linux-{}operativ\\-systemet/g' \
-    -e 's/MP3.com/MP3\\-.com/g' \
-    -e 's/MTV-{}oppmerksomhetsspenn/MTV-{}opp\\-merksom\\-hets\\-spenn/g' \
-    -e 's/Madonna-{}CD/Madon\\-na-{}CD/g' \
-    -e 's/Nord-{}Carolina/Nord-{}Caro\-lina/g' \
-    -e 's/TV-{}kringkasting/TV-{}kring\\-kast\\-ing/g' \
-    -e 's/Wright-{}brødrenes/Wright-{}brød\\-renes/g' \
-    -e 's/annonsører/an\\-non\\-sører/g' \
-    -e 's/anti-{}omgåelsesbestemmelsene/anti-{}om\\-gåelses\\-bestem\\-melsene/g' \
-    -e 's/beslagleggings-{}avsnitt/be\\-slag\\-leg\\-gings-{}av\\-snitt/g' \
-    -e 's/bygningen/byg\\-ningen/g' \
-    -e 's/fildeling/fil\\-del\\-ing/g' \
-    -e 's/eiendom/eien\\-dom/g' \
-    -e 's/fildelingsnettverk/fil\\-delings\\-nett\\-verk/g' \
-    -e 's/fjerdedel/fjerde\\-del/g' \
-    -e 's/grunnlovstilleggs/grunn\\-lovs\\-til\\-leggs/g' \
-    -e 's/hvorvidt/hvor\\-vidt/g' \
-    -e 's/ikke-{}diskriminerende/ikke-diskrim\\-inerende/g' \
-    -e 's/innenfor/in\\-nen\\-for/g' \
-    -e 's/kabel-{}TV-{}selskapene/kabel-{}TV-{}selskap\\-nene/g' \
-    -e 's/kjernetids-/kjerne\\-tids-/g' \
     -e 's/kommersiell/kom\\-mer\\-siell/g' \
-    -e 's/masse-{}fotografering/masse-{}foto\\-graf\\-er\\-ing/g' \
-    -e 's/monopol/mono\\-pol/g' \
-    -e 's/monopolbeskyttelsen/mono\\-pol\\-beskyt\\-telsen/g' \
-    -e 's/nittenhundretalls-advokaten/nitten\\-hundre\\-talls-advokaten/g' \
-    -e 's/opphavsrettighetsbeskyttet/opphavsrettighets\\-beskyt\\-tet/g' \
-    -e 's/opphavsrettsbeskyttelses-{}system/opp\\-havs\\-retts\\-beskyt\\-telses-{}system/g' \
-    -e 's/opphavsrettseiere/opphavs\\-retts\\-eiere/g' \
-    -e 's/opphavsrettsvernetid-{}loven/opp\\-havs\\-retts\\-verne\\-tid-{}loven/g' \
-    -e 's/opphavsrettsvernetids-{}loven/opp\\-havs\\-retts\\-verne\\-tids-{}loven/g' \
-    -e 's/opphavsretts-/opp\\-havs\\-retts-/g' \
-    -e 's/opphavsrett/opp\\-havs\\-rett/g' \
-    -e 's/pro-{}legaliseringskampanjen/pro-{}legaliser\\-ings\\-kampanjen/g' \
-    -e 's/programvare-{}bevegelsen/program\\-vare-{}beveg\\-elsen/g' \
+    -e 's/piratvirksomhet/pirat\\-virk\\-som\\-het/g' \
     -e 's/skriveferdigheter/skrive\\-ferdig\\-heter/g' \
-    -e 's/stumfilm-{}æraen/stum\\-film-{}æraen/g' \
-    -e 's/tilhenger-{}fantasi/til\\-henger-{}fantasi/g' \
-    -e 's/tvangslisens/tvangs\\-lisens/g' \
+    -e 's/presidentvalgkampen/president\\-valg\\-kampen/g' \
+    -e 's/hovedkvarteret/hoved\\-kvarteret/g' \
+    -e 's/søkemotorer/søke\\-motor\\-er/g' \
+    -e 's/programmer/prog\\-ram\\-mer/g' \
+    -e 's/Johnson/John\\-son/g' \
+    -e 's/radiostasjon/radio\\-stasjon/g' \
+    -e 's/forfatter/for\\-fat\\-ter/g' \
+    -e 's/professor/profes\\-sor/g' \
+    -e 's/opphavsrettsvernetid/opp\\-havs\\-retts\\-verne\\-tid/g' \
+    -e 's/opphavsrettighetsbeskyttet/opp\\-havs\\-ret\\-tig\\-hets\\-beskyt\\-tet/g' \
+    -e 's/bestemmelsen/bestem\\-mel\\-sen/g' \
     $TEXFILE
 
 exit 0
