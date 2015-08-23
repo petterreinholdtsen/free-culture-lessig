@@ -17,6 +17,7 @@ DBLATEX = dblatex \
 	--xsl-user=data/dblatex-endnotes.xsl \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
+	-V \
 	-p data/pdf.xsl
 
 
