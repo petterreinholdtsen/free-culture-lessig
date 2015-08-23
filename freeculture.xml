@@ -10,8 +10,8 @@
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
    <!ENTITY copy "©">
-   <!ENTITY translationblock "">
 ]>
+
 <book id="index" lang="en">
 <bookinfo>
  <title>Free Culture</title>
@@ -95,7 +95,7 @@
 This book is licensed under a Creative Commons license. This license
 permits non-commercial use of this work, so long as attribution is
 given.  For more information about the license visit
-<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/"/>.
    </para>
  </legalnotice>
 
@@ -7601,6 +7601,10 @@ diagram in figure <xref xrefstyle="template:%n" linkend="fig-1541"/>).
 </para>
 <indexterm startref='idxderivativeworkspiracyvs4' class='endofrange'/>
 <indexterm startref='idxpiracyderivativeworkvs4' class='endofrange'/>
+<figure id="fig-1541">
+<title></title>
+<graphic fileref="images/1541.svg" align="center" width="40%"></graphic>
+</figure>
 <indexterm id='idxfairuse' class='startofrange'><primary>fair use</primary></indexterm>
 <indexterm id='idxcopyrightlawfairuseand2' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
 <para>
@@ -7608,10 +7612,6 @@ Finally, there is a tiny sliver of otherwise regulated copying uses
 that remain unregulated because the law considers these <quote>fair uses.</quote>
 </para>
 <!-- PAGE BREAK 153 -->
-<figure id="fig-1541">
-<title></title>
-<graphic fileref="images/1541.svg" align="center" width="40%"></graphic>
-</figure>
 <indexterm><primary>Constitution, U.S.</primary><secondary>First Amendment to</secondary></indexterm>
 <indexterm><primary>First Amendment</primary></indexterm>
 <para>
@@ -7949,6 +7949,10 @@ software that publishers use to deliver e-books. It provides the
 technology, and the publisher delivers the content by using the
 technology.
 </para>
+<figure id="fig-example-adobe-ebook-reader" float="1">
+<title></title>
+<graphic fileref="images/example-adobe-ebook-reader.png" align="center" width="50%"></graphic>
+</figure>
 <para>
 In figure
 <xref xrefstyle="template:%n" linkend="fig-example-adobe-ebook-reader"/>
@@ -7967,10 +7971,6 @@ copy of
 <citetitle>Middlemarch</citetitle>, you'll see a fancy cover, and then
 a button at the bottom called Permissions.
 </para>
-<figure id="fig-example-adobe-ebook-reader">
-<title></title>
-<graphic fileref="images/example-adobe-ebook-reader.png" align="center" width="50%"></graphic>
-</figure>
 <para>
 If you click on the Permissions button, you'll see a list of the
 permissions that the publisher purports to grant with this book.
@@ -15549,6 +15549,7 @@ the material.
 </para>
 
 <!-- insert endnotes here -->
+
 <index type="endnotes"/>
 
 <!--PAGE BREAK 336-->
@@ -15648,9 +15649,13 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 </para>
 
 <para>
-Published 2015 by Petter Reinholdtsen in his spare time.  First
-published 2004 by The Penguin Press.  Thomas Gramstad Forlag donated
-the ISBN numbers.
+Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen
+with help from many volunteers.  Typeset using dblatex with Crimson
+Text.
+</para>
+
+<para>
+First published 2004 by The Penguin Press.
 </para>
 
 <para>
@@ -15676,39 +15681,48 @@ Includes index.
 </para>
 
 <para>
-Classifications: (Dewey)
-306.4
-306.40973
-306.46
-341.7582
-343.7309/9,
+Classifications:
+</para>
+
+<para>
+(Dewey)
+306.4,
+306.40973,
+306.46,
+341.7582,
+343.7309/9
+</para>
+
+<para>
 (UDK) 347.78
-(US Lib. of Congress) KF2979.L47 2004
+</para>
+
+<para>
+(US Library of Congress) KF2979.L47 2004
+</para>
+
+<para>
 (ACM CRCS) K.4.1
+</para>
+
+<para>
+Thomas Gramstad Forlag donated the ISBN numbers.
 </para>
 
 <?latex } %\centering
 ?>
 
 <para>
+The Docbook source is available from
+<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
+Please report any issues with the book there.
+</para>
+
+<para>
 This book is licensed under a Creative Commons license. This license
 permits non-commercial use of this work, so long as attribution is
 given.  For more information about the license visit
-<ulink url="http://creativecommons.org/licenses/by-nc/1.0/">http://creativecommons.org/licenses/by-nc/1.0/</ulink>
-</para>
-
-<para>
-The book source is in DocBook notation and the other formats are
-derived from this.  The source is based on a version from Hans Schou.
-Typeset using Crimson Text and formatted using dblatex.  Many thanks
-to the dblatex developer Benoît Guillon for his help.  The source is
-available from
-<ulink url="https://github.com/petterreinholdtsen/free-culture-lessig"/>.
-Please report any problems using the GitHub issue tracker.
-</para>
-
-<para>
-&translationblock;
+<ulink url="http://creativecommons.org/licenses/by-nc/1.0/"/>.
 </para>
 
 <para>
@@ -15723,7 +15737,7 @@ Please report any problems using the GitHub issue tracker.
 <tbody>
  <row>
  <entry>978-82-8067-010-6</entry>
- <entry>Printed copy from Lulu</entry>
+ <entry>Digest size from lulu.com</entry>
  </row>
  <row>
  <entry>978-82-8067-011-3</entry>

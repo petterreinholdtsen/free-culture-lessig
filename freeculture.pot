@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-07 22:55+0000\n"
+"POT-Creation-Date: 2015-08-22 20:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,12 +117,12 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15695
+#: freeculture.xml:95 freeculture.xml:15723
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
 "information about the license visit <ulink "
-"url=\"http://creativecommons.org/licenses/by-nc/1.0/\">http://creativecommons.org/licenses/by-nc/1.0/</ulink>"
+"url=\"http://creativecommons.org/licenses/by-nc/1.0/\"/>."
 msgstr ""
 
 #. type: Content of: <book><bookinfo><abstract><title>
@@ -1228,7 +1228,7 @@ msgid "First Amendment to"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-#: freeculture.xml:916 freeculture.xml:1081 freeculture.xml:1188 freeculture.xml:1213 freeculture.xml:1557 freeculture.xml:1601 freeculture.xml:1715 freeculture.xml:3117 freeculture.xml:3208 freeculture.xml:4288 freeculture.xml:4289 freeculture.xml:4700 freeculture.xml:4701 freeculture.xml:5302 freeculture.xml:6488 freeculture.xml:6934 freeculture.xml:7014 freeculture.xml:7015 freeculture.xml:7199 freeculture.xml:7298 freeculture.xml:7330 freeculture.xml:7360 freeculture.xml:7395 freeculture.xml:7509 freeculture.xml:7510 freeculture.xml:7571 freeculture.xml:7605 freeculture.xml:7709 freeculture.xml:7723 freeculture.xml:7782 freeculture.xml:7783 freeculture.xml:7881 freeculture.xml:9814 freeculture.xml:10167 freeculture.xml:11121 freeculture.xml:11166
+#: freeculture.xml:916 freeculture.xml:1081 freeculture.xml:1188 freeculture.xml:1213 freeculture.xml:1557 freeculture.xml:1601 freeculture.xml:1715 freeculture.xml:3117 freeculture.xml:3208 freeculture.xml:4288 freeculture.xml:4289 freeculture.xml:4700 freeculture.xml:4701 freeculture.xml:5302 freeculture.xml:6488 freeculture.xml:6934 freeculture.xml:7014 freeculture.xml:7015 freeculture.xml:7199 freeculture.xml:7298 freeculture.xml:7330 freeculture.xml:7360 freeculture.xml:7395 freeculture.xml:7509 freeculture.xml:7510 freeculture.xml:7571 freeculture.xml:7609 freeculture.xml:7709 freeculture.xml:7723 freeculture.xml:7782 freeculture.xml:7783 freeculture.xml:7881 freeculture.xml:9814 freeculture.xml:10167 freeculture.xml:11121 freeculture.xml:11166
 msgid "copyright law"
 msgstr ""
 
@@ -7631,7 +7631,7 @@ msgid "Chapter Seven: Recorders"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#: freeculture.xml:5302 freeculture.xml:7605 freeculture.xml:7723 freeculture.xml:7782
+#: freeculture.xml:5302 freeculture.xml:7609 freeculture.xml:7723 freeculture.xml:7782
 msgid "fair use and"
 msgstr ""
 
@@ -7646,7 +7646,7 @@ msgid "Else, Jon"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#: freeculture.xml:5305 freeculture.xml:5452 freeculture.xml:7604 freeculture.xml:7641 freeculture.xml:7722 freeculture.xml:7784
+#: freeculture.xml:5305 freeculture.xml:5452 freeculture.xml:7608 freeculture.xml:7641 freeculture.xml:7722 freeculture.xml:7784
 msgid "fair use"
 msgstr ""
 
@@ -10892,18 +10892,18 @@ msgid ""
 "figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1541\"/>)."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7607
-msgid ""
-"Finally, there is a tiny sliver of otherwise regulated copying uses that "
-"remain unregulated because the law considers these <quote>fair uses.</quote>"
-msgstr ""
-
 #. type: Content of: <book><part><chapter><section><figure>
-#: freeculture.xml:7613
+#: freeculture.xml:7606
 msgid ""
 "<graphic fileref=\"images/1541.svg\" align=\"center\" "
 "width=\"40%\"></graphic>"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para>
+#: freeculture.xml:7611
+msgid ""
+"Finally, there is a tiny sliver of otherwise regulated copying uses that "
+"remain unregulated because the law considers these <quote>fair uses.</quote>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11356,8 +11356,15 @@ msgid ""
 "publisher delivers the content by using the technology."
 msgstr ""
 
+#. type: Content of: <book><part><chapter><section><figure>
+#: freeculture.xml:7954
+msgid ""
+"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
+"width=\"50%\"></graphic>"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7953
+#: freeculture.xml:7957
 msgid ""
 "In figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-example-adobe-ebook-reader\"/> is a picture of an old version "
@@ -11366,7 +11373,7 @@ msgstr ""
 
 #.  PAGE BREAK 160 
 #. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:7958
+#: freeculture.xml:7962
 msgid ""
 "As you can see, I have a small collection of e-books within this e-book "
 "library. Some of these books reproduce content that is in the public domain: "
@@ -11376,13 +11383,6 @@ msgid ""
 "domain.  Consider <citetitle>Middlemarch</citetitle> first. If you click on "
 "my e-book copy of <citetitle>Middlemarch</citetitle>, you'll see a fancy "
 "cover, and then a button at the bottom called Permissions."
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><figure>
-#: freeculture.xml:7972
-msgid ""
-"<graphic fileref=\"images/example-adobe-ebook-reader.png\" align=\"center\" "
-"width=\"50%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -21495,31 +21495,36 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15640
+#: freeculture.xml:15641
 msgid ""
 "Free culture: How big media uses technology and the law to lock down culture "
 "and control creativity / Lawrence Lessig."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15644
+#: freeculture.xml:15645
 msgid "Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15648
+#: freeculture.xml:15649
 msgid "<ulink url=\"http://free-culture.cc/\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15652
+#: freeculture.xml:15653
 msgid ""
-"Published 2015 by Petter Reinholdtsen in his spare time.  First published "
-"2004 by The Penguin Press.  Thomas Gramstad Forlag donated the ISBN numbers."
+"Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen with "
+"help from many volunteers.  Typeset using dblatex with Crimson Text."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15658
+#: freeculture.xml:15659
+msgid "First published 2004 by The Penguin Press."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15663
 msgid ""
 "Excerpt from an editorial titled <quote>The Coming of Copyright "
 "Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January 16, "
@@ -21528,7 +21533,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15664
+#: freeculture.xml:15669
 msgid ""
 "Cartoon in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul Conrad, copyright "
@@ -21537,7 +21542,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15670
+#: freeculture.xml:15675
 msgid ""
 "Diagram in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1761-pattern-modern-media-ownership\"/> courtesy of the office "
@@ -21545,79 +21550,94 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15676
+#: freeculture.xml:15681
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15680
-msgid ""
-"Classifications: (Dewey)  306.4 306.40973 306.46 341.7582 343.7309/9, (UDK) "
-"347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
+#: freeculture.xml:15685
+msgid "Classifications:"
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15689
+msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15698
+msgid "(UDK) 347.78"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15702
-msgid ""
-"The book source is in DocBook notation and the other formats are derived "
-"from this.  The source is based on a version from Hans Schou.  Typeset using "
-"Crimson Text and formatted using dblatex.  Many thanks to the dblatex "
-"developer Benoît Guillon for his help.  The source is available from <ulink "
-"url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
-"report any problems using the GitHub issue tracker."
+msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15712
-msgid "&translationblock;"
+#: freeculture.xml:15706
+msgid "(ACM CRCS) K.4.1"
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15710
+msgid "Thomas Gramstad Forlag donated the ISBN numbers."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15717
+msgid ""
+"The Docbook source is available from <ulink "
+"url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
+"report any issues with the book there."
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15720
+#: freeculture.xml:15734
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15721
+#: freeculture.xml:15735
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15726
+#: freeculture.xml:15740
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15727
-msgid "Printed copy from Lulu"
+#: freeculture.xml:15741
+msgid "Digest size from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15730
+#: freeculture.xml:15744
 msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15731
+#: freeculture.xml:15745
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15734
+#: freeculture.xml:15748
 msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15735
+#: freeculture.xml:15749
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15738
+#: freeculture.xml:15752
 msgid "978-82-8067-013-7"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15739
+#: freeculture.xml:15753
 msgid "application/x-mobipocket-ebook"
 msgstr ""

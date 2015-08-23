@@ -2,7 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version='1.0'>
 
 <!-- The TOC links in the titles, and in blue. -->
-<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=blue,pdfstartview=FitH</xsl:param>
+<!-- ensure URLs in the text do not end up light gray too -->
+<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=blue,urlcolor=blue,pdfstartview=FitH</xsl:param>
+
 <xsl:param name="callout.linkends.hot">0</xsl:param>
 
 <!-- Put the dblatex logo -->
@@ -29,14 +31,14 @@
 
 <!-- xsl:include href="origsize.xsl" /-->
 
-<!-- fall back to simplex A4 if not creating PDF for a specific size. -->
+<!-- fall back to duplex A4 if not creating PDF for a specific size. -->
 <!-- xsl:param name="paper.type">A4</xsl:param -->
-<xsl:param name="double.sided">0</xsl:param>
+<xsl:param name="double.sided">1</xsl:param>
 <xsl:param name="page.margin.inner">0.8in</xsl:param>
 <xsl:param name="page.margin.outer">0.55in</xsl:param>
 <xsl:param name="page.margin.top">0.55in</xsl:param>
 <xsl:param name="page.margin.bottom">0.55in</xsl:param>
-<xsl:param name="latex.class.options">a4paper</xsl:param>
+<xsl:param name="latex.class.options">a4paper,openright,twoside</xsl:param>
 
 <!-- font for XSL/FOP, see also fop-params.xconf -->
 <!-- The original book used Adobe Caslon, and this free font is pretty similar -->
