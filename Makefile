@@ -4,7 +4,7 @@
 
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 
-DBLATEX_OPTS=""
+DBLATEX_OPTS="-V"
 
 # PDF rule
 # Valid book options are a4paper, a5paper, b5paper, letterpaper,
@@ -65,12 +65,12 @@ epub: freeculture.nb.epub freeculture.epub
 mobi: freeculture.nb.mobi freeculture.mobi 
 html: freeculture.nb.html freeculture.html 
 
-%.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile
+%.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile myclass.cls data/dblatex-postprocess
 # Possible pipelines:
 #
 # dblatex:
 #   This converts the docbook content to latex and leave it to latex
-#   to format it.  Index ranges are broken.
+#   to format it.  Index ranges are broken in oldstable, fixed in jessie.
 #
 # xmlto:
 #   Alternative processing path to dblatex is to use xmlto using fop
