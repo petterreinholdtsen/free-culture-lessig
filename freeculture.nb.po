@@ -132,22 +132,6 @@ msgid "About the author"
 msgstr "Om forfatteren"
 
 #. type: Content of: <book><bookinfo><abstract><para>
-#, fuzzy
-#| msgid ""
-#| "Lawrence Lessig (<ulink url=\"http://www.lessig.org\">http://www.lessig."
-#| "org</ulink>), professor of law and a John A. Wilson Distinguished Faculty "
-#| "Scholar at Stanford Law School, is founder of the Stanford Center for "
-#| "Internet and Society and is chairman of the Creative Commons (<ulink url="
-#| "\"http://creativecommons.org\">http://creativecommons.org</ulink>).  The "
-#| "author of The Future of Ideas (Random House, 2001) and Code: And Other "
-#| "Laws of Cyberspace (Basic Books, 1999), Lessig is a member of the boards "
-#| "of the Public Library of Science, the Electronic Frontier Foundation, and "
-#| "Public Knowledge. He was the winner of the Free Software Foundation's "
-#| "Award for the Advancement of Free Software, twice listed in "
-#| "BusinessWeek's <quote>e.biz 25,</quote> and named one of Scientific "
-#| "American's <quote>50 visionaries.</quote> A graduate of the University of "
-#| "Pennsylvania, Cambridge University, and Yale Law School, Lessig clerked "
-#| "for Judge Richard Posner of the U.S. Seventh Circuit Court of Appeals."
 msgid ""
 "Lawrence Lessig (<ulink url=\"http://www.lessig.org\">http://www.lessig.org</"
 "ulink>), professor of law and a Roy L. Furman Professor of Law and "
@@ -201,11 +185,6 @@ msgstr ""
 #.      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
 #.      
 #. type: Content of: <book><bookinfo>
-#, fuzzy
-#| msgid ""
-#| "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-#| "\">978-82-8067-010-6</biblioid> <biblioid class=\"libraryofcongress"
-#| "\">2003063276</biblioid>"
 msgid ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
 "\">978-82-8067-010-6</biblioid> <biblioid class=\"libraryofcongress"
@@ -14986,21 +14965,12 @@ msgstr ""
 "Aristoteles <citetitle>Politikk</citetitle>."
 
 #. type: Content of: <book><part><chapter><section><figure>
-#, fuzzy
-#| msgid ""
-#| "<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
-#| "graphic>"
 msgid ""
 "<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
 "\"></graphic>"
 msgstr ""
-<<<<<<< Updated upstream
 "<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
 "\"></graphic>"
-=======
-"<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
-"graphic>"
->>>>>>> Stashed changes
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15861,10 +15831,6 @@ msgstr ""
 "forhandlere skal holdes ansvarlig for å ha forsynt utstyret?"
 
 #. type: Content of: <book><part><chapter><section><figure>
-#, fuzzy
-#| msgid ""
-#| "<graphic fileref=\"images/1711.png\" align=\"center\" width=\"100%\"></"
-#| "graphic>"
 msgid ""
 "<graphic fileref=\"images/vcr-comic.png\" align=\"center\" width=\"100%\"></"
 "graphic>"
@@ -28923,14 +28889,6 @@ msgstr ""
 "347.78 (US Lib. of Congress) KF2979.L47 2004 (ACM CRCS) K.4.1"
 
 #. type: Content of: <book><colophon><para>
-#, fuzzy
-#| msgid ""
-#| "The book source is in DocBook notation and the other formats are derived "
-#| "from this.  The source is based on a version from Hans Schou.  Typeset "
-#| "using Crimson Text and formatted using dblatex.  Many thanks to the "
-#| "dblatex developer for his help.  The source is available from <ulink url="
-#| "\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
-#| "report any problems using the GitHub issue tracker."
 msgid ""
 "The book source is in DocBook notation and the other formats are derived "
 "from this.  The source is based on a version from Hans Schou.  Typeset using "
@@ -28967,15 +28925,8 @@ msgid "978-82-8067-010-6"
 msgstr "978-82-8067-014-4"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-<<<<<<< Updated upstream
 msgid "Digest size from lulu.com"
 msgstr ""
-=======
-#, fuzzy
-#| msgid "Paper copy from XXX"
-msgid "Printed copy from Lulu"
-msgstr "Papireksemplar fra XXX"
->>>>>>> Stashed changes
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "978-82-8067-011-3"
@@ -29000,10 +28951,3 @@ msgstr "978-82-8067-017-5"
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/x-mobipocket-ebook"
 msgstr "application/x-mobipocket-ebook"
-
-#~ msgid ""
-#~ "<graphic fileref=\"images/1621.png\" align=\"center\" width=\"50%\"></"
-#~ "graphic>"
-#~ msgstr ""
-#~ "<graphic fileref=\"images/1621.png\" align=\"center\" width=\"50%\"></"
-#~ "graphic>"
