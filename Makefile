@@ -4,6 +4,8 @@
 
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 
+DBLATEX_OPTS=""
+
 # PDF rule
 # Valid book options are a4paper, a5paper, b5paper, letterpaper,
 # legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
@@ -16,8 +18,8 @@ DBLATEX = dblatex \
 	--indexstyle=myindexstyle.ist \
 	--xsl-user=data/dblatex-endnotes.xsl \
 	--xsl-user=data/user_param.xsl \
-	--xsl-user=data/xetex_param.xsl \
-	-p data/pdf.xsl
+	-P latex.index.tool=xindy \
+	-p data/pdf.xsl $(DBLATEX_OPTS)
 
 
 DBTOEPUB = dbtoepub

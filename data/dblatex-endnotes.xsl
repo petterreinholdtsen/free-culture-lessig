@@ -1,13 +1,15 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version='1.0'>
 
-<!--
-Trick to get endnote support.  Should have a way to insert LaTeX code
-outside xetex font values.  As it is missing, reuse the
-latex.begindocument value (aka \begin{document} to get a code fragment
-in front of it.
+<!-- We want the footnotes being endnotes, grouped by preface, part, and chapter
+     where each group heading recalls only the element title. The endnote
+     headings are formatted specifically by the new section \enoteheader
+     defined in myclass.cls.
 -->
   <xsl:param name="footnote.as.endnote" select="1"/>
+  <xsl:param name="endnotes.heading.groups" select="'part chapter preface'"/>
+  <xsl:param name="endnotes.heading.style" select="'select:title'"/>
+  <xsl:param name="endnotes.heading.command" select="'\enoteheader*'"/>
 
   <xsl:attribute-set name="endnotes.properties"
                      use-attribute-sets="endnotes.properties.default">
@@ -24,6 +26,12 @@ for \fontsize{x}{y}, use y=1.2*x, x >= 6
     <xsl:attribute name="font-size">\footnotesize</xsl:attribute>
     <!--xsl:attribute name="font-size">\normalsize</xsl:attribute-->
   </xsl:attribute-set>
+
+  <xsl:template match="preface" mode="endnotes">
+    <xsl:call-template name="endnotes.add.header">
+      <xsl:with-param name="reset-counter" select="1"/>
+    </xsl:call-template>
+  </xsl:template>
 
   <xsl:param name="latex.begindocument">
     <xsl:text>
