@@ -64,7 +64,7 @@ epub: freeculture.nb.epub freeculture.epub
 mobi: freeculture.nb.mobi freeculture.mobi 
 html: freeculture.nb.html freeculture.html 
 
-%.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile
+%.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile myclass.cls data/dblatex-postprocess
 # Possible pipelines:
 #
 # dblatex:
