@@ -18,6 +18,7 @@ DBLATEX = dblatex \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
 	-V \
+	-P latex.index.tool=xindy \
 	-p data/pdf.xsl
 
 
