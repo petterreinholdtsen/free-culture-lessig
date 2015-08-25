@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-23 17:55+0300\n"
+"POT-Creation-Date: 2015-08-25 09:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12032,8 +12032,22 @@ msgstr ""
 msgid "No argument I have can top this picture, but let me try to get close."
 msgstr ""
 
-#. type: Content of: <book><part><chapter><section><para>
+#. type: Content of: <book><part><chapter><section><figure><title>
 #: freeculture.xml:8438
+msgid ""
+"&mdash; On which item have the courts ruled that manufacturers and retailers "
+"be held responsible for having supplied the equipment?"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><figure>
+#: freeculture.xml:8441
+msgid ""
+"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" "
+"width=\"65%\"></graphic>"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para>
+#: freeculture.xml:8444
 msgid ""
 "The anticircumvention provisions of the DMCA target copyright circumvention "
 "technologies. Circumvention technologies can be used for different "
@@ -12044,32 +12058,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#: freeculture.xml:8445
+#: freeculture.xml:8451
 msgid "handguns"
 msgstr ""
 
 #.  PAGE BREAK 171 
 #. type: Content of: <book><part><chapter><section><para>
-#: freeculture.xml:8447
+#: freeculture.xml:8453
 msgid ""
 "A handgun can be used to shoot a police officer or a child. Most would agree "
 "such a use is bad. Or a handgun can be used for target practice or to "
 "protect against an intruder. At least some would say that such a use would "
 "be good. It, too, is a technology that has both good and bad uses."
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><figure><title>
-#: freeculture.xml:8455
-msgid ""
-"&mdash; On which item have the courts ruled that manufacturers and retailers "
-"be held responsible for having supplied the equipment?"
-msgstr ""
-
-#. type: Content of: <book><part><chapter><section><figure>
-#: freeculture.xml:8458
-msgid ""
-"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" "
-"width=\"100%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -12369,7 +12369,7 @@ msgstr ""
 #: freeculture.xml:8672
 msgid ""
 "<graphic fileref=\"images/pattern-modern-media-ownership.png\" "
-"align=\"center\" width=\"90%\"></graphic>"
+"align=\"center\" width=\"100%\"></graphic>"
 msgstr ""
 
 #.  PAGE BREAK 175 
@@ -21592,52 +21592,59 @@ msgid ""
 "report any issues with the book there."
 msgstr ""
 
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15730
+msgid ""
+"This book is a proof reading draft.  Please visit the github URL above to "
+"get the latest version."
+msgstr ""
+
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15734
+#: freeculture.xml:15739
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15735
+#: freeculture.xml:15740
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15740
+#: freeculture.xml:15745
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15741
+#: freeculture.xml:15746
 msgid "Digest size from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15744
+#: freeculture.xml:15749
 msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15745
+#: freeculture.xml:15750
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15748
+#: freeculture.xml:15753
 msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15749
+#: freeculture.xml:15754
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15752
+#: freeculture.xml:15757
 msgid "978-82-8067-013-7"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15753
+#: freeculture.xml:15758
 msgid "application/x-mobipocket-ebook"
 msgstr ""
