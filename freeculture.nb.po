@@ -373,8 +373,7 @@ msgstr ""
 "eierskap, like lite som et fritt marked er et marked der alt er gratis.  Det "
 "motsatte av fri kultur er <quote>tillatelseskultur</quote> &mdash; en kultur "
 "der skapere kun kan skape med tillatelse fra de mektige, eller fra skaperne "
-"fra fortiden.<quote>tillatelseskultur</quote>&mdash;en kultur der skapere "
-"kun kan skape med tillatelse fra de mektige, eller fra skaperne fra fortiden."
+"fra fortiden."
 
 #. type: Content of: <book><preface><para>
 msgid ""
