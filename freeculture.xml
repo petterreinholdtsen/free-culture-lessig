@@ -15703,23 +15703,23 @@ validation errors in this version, but after some work I was able to
 transform it to PDF and EPUB.  This was the start of the translation
 project.  The Docbook file improved over time, and build rules were
 added to create both English and Bokmål versions.  Finally, a call for
-volunteers went out to get help me with the translation.
+volunteers went out to help me with the translation.
   </para>
 
   <para>
 Several people joined, and Anders Hagen Jarmund, Kirill Miazine and
 Odd Kleiva assisted with the initial translation.  Ralph Amissah and
-his SiSu versoin provide index entries.  Morten Sickel and Alexander
+his SiSu version provided index entries.  Morten Sickel and Alexander
 Alemayhu helped with the figures, redrawing some of the bitmaps as
-vector images.  Wivi Reinholdtsen, Ingrid Yrvin and Anna Kennedy did
-very valuable proofreading.  Håkon Wium Lie helped me track down a
-good replacement font without usage restrictions instead of the one in
-original PDF.  The PDF typesetting is done using dblatex.  dblatex was
-selected over the alternatives thanks to the invaluable and quick help
-from Benoît Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN
-numbers needed for distribution to book stores.  The support of
-Lawrence Lessig helped me to complete the project - I am very thankful
-he had the original screen shots still available after 11 years.
+vector images.  Wivi Reinholdtsen and Ingrid Yrvin did very valuable
+proofreading.  Håkon Wium Lie helped me track down a good replacement
+font without usage restrictions instead of the one in original PDF.
+The PDF typesetting is done using dblatex, which we selected over the
+alternatives thanks to the invaluable and quick help from Benoît
+Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN numbers
+needed for distribution to book stores.  The support of Lawrence
+Lessig helped me to complete the project - I am very thankful he had
+the original screen shots still available after 11 years.
   </para>
 
   <para>
