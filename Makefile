@@ -9,7 +9,8 @@ url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
 # legalpaper, landscape, 11pt, 12pt, oneside, twocolumn, notitlepage,
 # titlepage, openany, draft, fleqn, leqno
 #  -P latex.class.options=a5paper
-DBLATEX = dblatex \
+DBLATEX = dblatex
+DBLATEX_OPTS = \
 	-T simple \
 	-b xetex \
 	-r data/dblatex-postprocess \
@@ -87,7 +88,7 @@ html: freeculture.nb.html freeculture.html
 	echo "Using $$pipeline pipeline" ; \
 	case "$$pipeline" in  \
 	dblatex) \
-	  PATH=$(PWD)/bin:$$PATH $(DBLATEX) $< ; \
+	  PATH=$(PWD)/bin:$$PATH $(DBLATEX) $(DBLATEX_OPTS) $< ; \
 	  ;; \
 	xmlto) \
 	  xmlto --noautosize \
