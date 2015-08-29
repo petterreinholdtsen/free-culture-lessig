@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-28 13:46+0300\n"
+"POT-Creation-Date: 2015-08-29 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21492,6 +21492,11 @@ msgid ""
 "there would be unending happiness away from these battles, and who has "
 "always been right. This slow learner is, as ever, grateful for her perpetual "
 "patience and love."
+msgstr ""
+
+#. type: Content of: <book><chapter><title>
+#: freeculture.xml:15633
+msgid "Quotes"
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
