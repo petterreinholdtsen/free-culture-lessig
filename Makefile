@@ -30,7 +30,6 @@ XSLT = \
   data/user_param.xsl
 
 DB_XSLT = \
-  data/dblatex-endnotes.xsl \
   data/xetex_param.xsl
 
 HTML_XSLT = \
@@ -181,4 +180,4 @@ distclean: clean
 	freeculture-dblatex.pdf \
 	freeculture-xmlto-fop.pdf
 
-.SUFFIXES: .png .xcf .svg .xml
+.SUFFIXES: .png .xcf .svg .xml .pdf
