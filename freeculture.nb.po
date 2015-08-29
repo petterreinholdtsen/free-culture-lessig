@@ -1143,7 +1143,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Internet"
-msgstr "internet"
+msgstr "Internett"
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "development of"
