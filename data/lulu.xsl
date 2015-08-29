@@ -11,8 +11,9 @@ http://www.lulu.com/create/books
 <xsl:param name="doc.collab.show">0</xsl:param>
 
 <!-- See "Global Page Setup" in the dblatex PDF manual for details -->
-<xsl:param name="page.width">5.5in</xsl:param>
-<xsl:param name="page.height">8.5in</xsl:param>
+<!-- FIXME change when page size changes -->
+<xsl:param name="page.width">6in</xsl:param>
+<xsl:param name="page.height">9in</xsl:param>
 <xsl:param name="page.margin.inner">0.8in</xsl:param>
 <xsl:param name="page.margin.outer">0.55in</xsl:param>
 
