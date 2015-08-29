@@ -15,7 +15,6 @@ DBLATEX_OPTS = \
 	-b xetex \
 	-r data/dblatex-postprocess \
 	--indexstyle=myindexstyle.ist \
-	--xsl-user=data/dblatex-endnotes.xsl \
 	--xsl-user=data/user_param.xsl \
 	--xsl-user=data/xetex_param.xsl \
 	-V \

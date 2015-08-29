@@ -17,6 +17,7 @@
 <xsl:param name="doc.section.depth">0</xsl:param>
 
 <xsl:param name="latex.class.book">myclass</xsl:param>
+<xsl:param name="latex.output.revhistory">0</xsl:param>
 
 <xsl:param name="imagedata.default.scale">maxwidth=15.5cm,maxheight=12cm</xsl:param>
 <xsl:param name="draft.mode">yes</xsl:param>
@@ -54,5 +55,34 @@
   <xsl:apply-templates/>
   <xsl:text>\end{colophon}&#10;</xsl:text>
 </xsl:template>
+
+<!-- transform footnotes to endnotes -->
+  <xsl:param name="footnote.as.endnote" select="1"/>
+  <xsl:attribute-set name="endnotes.properties"
+                     use-attribute-sets="endnotes.properties.default">
+<!--
+Increase footnote/endnote size to be more than 6 pts, to avoid
+complaint from Lulu about the font being too small to be printed
+clearly.  Needed at least for pocket size books.  Probably wise to use
+the same size as the colophon page (see myclass.cls)
+
+make sure \fontsize{x}{y} use y=1.2*x, x >= 6
+-->
+
+    <!--xsl:attribute name="font-size">\fontsize{10}{12}</xsl:attribute-->
+    <xsl:attribute name="font-size">\footnotesize</xsl:attribute>
+    <!--xsl:attribute name="font-size">\normalsize</xsl:attribute-->
+  </xsl:attribute-set>
+
+  <xsl:param name="latex.begindocument">
+    <xsl:text>
+% Trick to avoid many words sticking out of the right margin of the text.
+% Need to add it here with the end notes, as only one
+% latex.begindocument can be active.
+\sloppy
+
+\begin{document}
+    </xsl:text>
+  </xsl:param>
 
 </xsl:stylesheet>
