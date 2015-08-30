@@ -1445,7 +1445,7 @@ msgstr ""
 "markedet kunne inneholde et mye videre og mer variert utvalg av skapere.  "
 "Disse skaperne kunne produsere og distribuere et mye mer levende utvalg av "
 "kreativitet. Og avhengig av noen få viktige faktorer, så kunne disse "
-"skaperne tjenere mer i snitt fra dette systemet enn skaperne gjør i dag "
+"skaperne tjene mer i snitt fra dette systemet enn skaperne gjør i dag "
 "&mdash; så lenge RCA-ene av i dag ikke bruker loven til å beskytte dem selv "
 "mot denne konkurransen."
 
