@@ -1197,7 +1197,7 @@ msgstr ""
 "data, og så videre.  Disse tekniske endringene er ikke fokus for denne "
 "boken.  De er viktige.  De er ikke godt forstått.  Men de er den type ting "
 "som ganske enkelt ville blir borte hvis vi alle bare slo av Internett.  De "
-"påvirker ikke folk som ikke bruker Internett, eller i det miste påvirker det "
+"påvirker ikke folk som ikke bruker Internett, eller i det minste påvirker det "
 "ikke dem direkte.  De er et godt tema for en bok om Internett.  Men dette er "
 "ikke en bok om Internett."
 
