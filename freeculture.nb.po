@@ -9,6 +9,7 @@
 # Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
 # Ingrid Yrvin <iyrvin@hagan.no>, 2015
 # Kirill Miazine <km@krot.org>, 2012
+# Johannes Larsen <mail@johslarsen.net>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
