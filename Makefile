@@ -135,9 +135,9 @@ freeculture.xml:
 
 # <beginpage> workaround can be removed when BTS #684137 is fixed in
 # po4a.
-freeculture.pot: freeculture.xml
+freeculture.pot: freeculture.xml cover-text.xml
 	po4a-gettextize -o nodefault='<beginpage>' -o inline='<beginpage>' \
-	  -f docbook -m $^  > $@.new && mv $@.new $@
+	  -f docbook -m freeculture.xml -m cover-text.xml  > $@.new && mv $@.new $@
 
 stats: update-stats progress.png
 update-stats: freeculture.nb.po lint.nb
