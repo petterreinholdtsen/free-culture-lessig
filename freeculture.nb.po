@@ -5,16 +5,16 @@
 # for this translation to do so too.
 #
 # Translators:
-# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
-# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
+-# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
+-# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
 # Ingrid Yrvin <iyrvin@hagan.no>, 2015
+# Johannes Larsen <transifex.com@johslarsen.net>, 2015
 # Kirill Miazine <km@krot.org>, 2012
-# Johannes Larsen <mail@johslarsen.net>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-08-28 15:03+0000\n"
-"PO-Revision-Date: 2015-08-29 08:31+0000\n"
+"POT-Creation-Date: 2015-08-31 07:05+0000\n"
+"PO-Revision-Date: 2015-08-31 17:59+0000\n"
 "Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
 "lessig/language/nb/)\n"
@@ -1549,7 +1549,7 @@ msgstr "Første tillegg til"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "copyright law"
-msgstr "åndsverkslov"
+msgstr "åndsverklov"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as protection of creators"
@@ -1912,7 +1912,7 @@ msgstr "effektiv innholdsdistribusjon på"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "peer-to-peer (p2p) file sharing"
-msgstr "peer-to-peer(p2p)-fildeling"
+msgstr "peer-to-peer (p2p)-fildeling"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "efficiency of"
@@ -2017,11 +2017,11 @@ msgstr "kreativ eiendel"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "<quote>if value, then right</quote> theory of"
-msgstr "<quote>hvis verdi, så rettighet</quote>-teorien om"
+msgstr "<quote>hvis verdi, så rettighets</quote>teorien om"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>if value, then right</quote> theory"
-msgstr "<quote>hvis verdi, så rettighet</quote>-teorien"
+msgstr "<quote>hvis verdi, så rettighets</quote>teorien"
 
 #.  f2 
 #. type: Content of: <book><part><partintro><para><footnote><para>
@@ -2365,8 +2365,8 @@ msgid ""
 "work of others."
 msgstr ""
 "Disney hadde laget noe helt nytt, basert på noe relativt nytt. Synkronisert "
-"lyd ga liv til en form for kreativitet som sjeldent hadde&mdash;unntatt fra "
-"Disneys hender &mdash; vært noe annet en fyllstoff for andre filmer.  "
+"lyd ga liv til en form for kreativitet som sjeldent hadde &mdash; unntatt "
+"fra Disneys hender &mdash; vært noe annet en fyllstoff for andre filmer.  "
 "Gjennom animasjonfilmens tidligere historie var det Disneys oppfinnelser som "
 "satte standarden som andre måtte sloss for å oppfylle.  Og ganske ofte var "
 "Disneys store geni, hans gnist av kreativitet, bygget på arbeidet til andre."
@@ -3719,7 +3719,7 @@ msgstr ""
 "quote> i digitale kamera.  Just Think! er et prosjekt som gjør det mulig for "
 "unger å lage filmer, som en måte å forstå og kritisere den filmede kulturen "
 "som de finner over alt rundt seg.  Hvert år besøker disse bussene mer enn "
-"tredve skoler, og gir mellom tre hundre og fire hundre barn muligheten til å "
+"tredve skoler, og gir mellom tre hundre og fem hundre barn muligheten til å "
 "lære noe om media ved å gjøre noe med media.  Ved å gjøre, så tenker de.  "
 "Ved å fikle, så lærer de."
 
@@ -4518,7 +4518,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "e-mail"
-msgstr "epost"
+msgstr "e-post"
 
 #.  PAGE BREAK 56 
 #. type: Content of: <book><part><chapter><para>
@@ -4639,7 +4639,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "peer-generated rankings on"
-msgstr "node-generert rangeringer av"
+msgstr "likemanns-generert rangeringer av"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5104,7 +5104,7 @@ msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "computer network search engine of"
-msgstr "datanettverksøkemotor ved"
+msgstr "datanettverkssøkemotor ved"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "search engines"
@@ -5112,7 +5112,7 @@ msgstr "søkemotorer"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "university computer networks, p2p sharing on"
-msgstr "universitetdatanettverk, p2p-fildeling på"
+msgstr "universitetsdatanettverk, p2p-fildeling på"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "search engines used on"
@@ -5312,7 +5312,7 @@ msgstr "plateindustrien"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright infringement lawsuits of"
-msgstr "søksmål om opphavsrettbrudd fra"
+msgstr "søksmål om opphavsrettsbrudd fra"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Recording Industry Association of America (RIAA)"
@@ -5437,7 +5437,7 @@ msgid ""
 "industry in 2001.<placeholder type=\"footnote\" id=\"0\"/>"
 msgstr ""
 "Lignende søksmål ble gjort mot tre andre studenter: en annen student ved "
-"RPI, en ved Michegan Technical University og en ved Princeton. Deres "
+"RPI, en ved Michigan Technical University og en ved Princeton. Deres "
 "situasjoner var lik den til Jesse.  Selv om hver sak hadde forskjellige "
 "detaljer, var hovedpoenget nøyaktig det samme: store krav om "
 "<quote>erstatning</quote> som RIAA påsto de hadde rett på.  Hvis du summerte "
@@ -5762,7 +5762,7 @@ msgstr ""
 "General Film Company, et hardhendt datterselskap opprettet for å blokkere "
 "ankomsten av de ulisensierte uavhengige.  Med tvangstaktikker som har blitt "
 "legendariske, konfiskerte General Film ulisensiert utstyr, stoppet "
-"varelevering til kinoer som viste ulisensiert fil, og effektivt "
+"varelevering til kinoer som viste ulisensiert film, og effektivt "
 "monopoliserte distribusjon ved å kjøpe opp alle USAs filmsentraler, med "
 "unntak av den ene som var eid av den uavhengige William Fox som motsto "
 "kartellet selv etter at hans lisens var trukket tilbake.<placeholder type="
@@ -6013,11 +6013,11 @@ msgstr "Kongressen i USA"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on copyright laws"
-msgstr "om åndsverkslover"
+msgstr "om åndsverklover"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on recording industry"
-msgstr "om innspillingenindustri"
+msgstr "om innspillingsindustri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "statutory licenses in"
@@ -6101,7 +6101,7 @@ msgstr ""
 "komponisten fikk betalt for den <quote>mekaniske reproduksjonen</quote> av "
 "deres musikk.  Men i stedet for å ganske enkelt gi komponisten full kontroll "
 "over rettigheten til å lage mekaniske reproduksjoner, ga Kongressen "
-"innspillingsartister rett en til å spille inn musikk, til en pris satt av "
+"innspillingsartister retten til å spille inn musikk, til en pris satt av "
 "Kongressen, så snart komponisten har tillatt at den ble spilt inn en gang.  "
 "Det er denne delen av åndsverksloven som gjør cover-låter mulig.  Så snart "
 "en komponist tillater én innspilling av sin sang, har andre mulighet til å "
@@ -6726,7 +6726,7 @@ msgstr "CD-er"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "foreign piracy of"
-msgstr "utenlands piratvirksomhet mot"
+msgstr "utenlandsk piratvirksomhet mot"
 
 #.  f1 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6905,10 +6905,10 @@ msgstr ""
 "Liebowitz, <citetitle>Rethinking the Network Economy</citetitle> (New York: "
 "Amacom, 2002), 144&ndash;190. <quote>I noen tilfeller &hellip; vil effekten "
 "av piratvirksomhet på opphavsrettsinnehaverens mulighet til å nyte godt av "
-"verdien av verket vil være neglisjerbart. Et åpenbart tilfelle er der "
-"individet som tar nyter godt av piratvirksomheten ikke ville ha kjøpt "
-"originalen selv om piratvirksomhet ikke var en mulighet.</quote> Ibid., "
-"149.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"verdien av verket være neglisjerbart. Et åpenbart tilfelle er der individet "
+"som tar nyter godt av piratvirksomheten ikke ville ha kjøpt originalen selv "
+"om piratvirksomhet ikke var en mulighet.</quote> Ibid., 149.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7333,7 +7333,7 @@ msgstr ""
 "Se Ipsos-Insight, <citetitle>TEMPO: Keeping Pace with Online Music "
 "Distribution</citetitle> (september 2002), som rapporterer at 28 prosent av "
 "amerikanere eldre enn tolv år hadde lastet musikk ned fra Internett og 30 "
-"prosent hadde lyttet til digitale musikkfiler lagred på sine datamaskiner."
+"prosent hadde lyttet til digitale musikkfiler lagret på sine datamaskiner."
 
 #.  f8 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7502,10 +7502,10 @@ msgstr ""
 "er det kun type-A-deling som helt klart forårsaker skade.<placeholder type="
 "\"footnote\" id=\"0\"/> Type-B-deling er ulovlig men gir klare fordeler.  "
 "Type-C-deling er ulovlig, men bra for samfunnet (siden mer eksponering til "
-"musikk er bra), og skadelig for artistene (siden verket ellers ikke er "
-"tilgjengelig.  Så det er vanskelig å avgjøre hvordan deling kommer ut totalt "
-"sett &mdash; og helt klart mye vanskeligere enn den gjeldende retorikken "
-"rundt temaet gir inntrykk av."
+"musikk er bra), og ufarlig for artistene (siden verket ellers ikke er "
+"tilgjengelig).  Så det er vanskelig å avgjøre hvordan deling kommer ut "
+"totalt sett &mdash; og helt klart mye vanskeligere enn den gjeldende "
+"retorikken rundt temaet gir inntrykk av."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8131,11 +8131,11 @@ msgstr "komponister, opphavsrettsbeskyttelser for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "music recordings played on"
-msgstr "musikkinnspillinger spillt på"
+msgstr "musikkinnspillinger spilt på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright protections in"
-msgstr "opphavsrettbeskyttelser i"
+msgstr "opphavsrettsbeskyttelser i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "composer's rights vs. producers' rights in"
@@ -8383,9 +8383,9 @@ msgstr ""
 "Det tok åtte år før denne saken ble avgjort av Høyesterett.  I mellomtiden "
 "hadde den niende ankekrets, som har Hollywood i sin jurisdiksjon &mdash; det "
 "den ledende dommeren Alex Kozinski, som er medlem i den domstolen, omtaler "
-"den som <quote>Hollywood-kretsen</quote> &mdash; funnet at Sony måtte holdes "
+"som <quote>Hollywood-kretsen</quote> &mdash; funnet at Sony måtte holdes "
 "ansvarlig for de opphavsrettsbruddene som ble gjort mulig med deres "
-"maskiner.  Ifølge regelen til niende ankrekrets var denne kjente teknologien "
+"maskiner.  Ifølge regelen til niende ankekrets var denne kjente teknologien "
 "&mdash; som Jack Valenti hadde omtalt som <quote>Boston-kveleren for "
 "amerikansk filmindustri</quote> (verre enn dette, det var en "
 "<emphasis>japansk</emphasis> Boston-kveler for amerikansk filmindustri) "
@@ -8423,7 +8423,7 @@ msgid ""
 msgstr ""
 "Både forsvarlig politikk og vår historie, støtter vår konsistente henvisning "
 "til Kongressen når store teknologiske nyvinninger endrer markedet for "
-"opphavsrettsbeskyttet materiale.  Kongressen har den konstituelle "
+"opphavsrettsbeskyttet materiale.  Kongressen har den konstitusjonelle "
 "autoriteten og institusjonsevnen til å ta fullt hensyn til de forskjellige "
 "sammensetningene av konkurrerende interesser som uunngåelig blir involvert "
 "av slik ny teknologi.<placeholder type=\"footnote\" id=\"0\"/>"
@@ -8866,11 +8866,11 @@ msgstr "Kapittel seks: Grunnleggerne"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English copyright law developed for"
-msgstr "Engelsk åndsverkslov utviklet for"
+msgstr "Engelsk åndsverklov utviklet for"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "England, copyright laws developed in"
-msgstr "England, åndsverkslov utviklet i"
+msgstr "England, åndsverklov utviklet i"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "United Kingdom"
@@ -9744,7 +9744,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Donaldson v. Beckett"
-msgstr "Donaldson mot beckett"
+msgstr "Donaldson mot Beckett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10400,7 +10400,7 @@ msgstr "retrospektive samlinger om"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
-msgstr "CD-ROMer, filmklipp brukt i"
+msgstr "CD-ROM-er, filmklipp brukt i"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10625,7 +10625,7 @@ msgid ""
 "And no doubt, the product itself was exceptionally good. Eastwood loved it, "
 "and it sold very well."
 msgstr ""
-"Og produktet ble uten tvil særdeles godt. Eastwood elsket det og det solgte "
+"Og produktet ble uten tvil særdeles godt. Eastwood elsket det, og det solgte "
 "veldig bra."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
@@ -10982,7 +10982,7 @@ msgid ""
 msgstr ""
 "<emphasis role='strong'>I februar 2003</emphasis> kunne DreamWorks studios "
 "kunngjøre at de hadde fått en avtale med komikeren Mike Myers (mannen bak "
-"Saturday Night Live og Austin Powers). Ifølge kunngjøringen skulle "
+"Saturday Night Live og Austin Powers). I følge kunngjøringen skulle "
 "DreamWorks og Myers arbeide for å skape en <quote>unik filmskaperavtale.</"
 "quote> Under denne avtalen ville DreamWorks <quote>få rett til å benytte "
 "eksisterende filmklipp, skrive nye manus og &mdash; med hjelp av moderne "
@@ -11147,7 +11147,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "White House press releases"
-msgstr "pressemeldinger fra det hvite hus"
+msgstr "pressemeldinger fra Det hvite hus"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -11470,7 +11470,7 @@ msgstr "archive.org"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Internet Archive"
-msgstr "Internettarkivet"
+msgstr "Internett-arkivet"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Duck and Cover film"
@@ -12301,7 +12301,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "market constraints"
-msgstr "markedsbeskrankninger"
+msgstr "markedsbegrensninger"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -13033,7 +13033,7 @@ msgstr "Boyle, James"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "innovative freedom balanced with fair compensation in"
-msgstr "frihet til nyskaping balansert med rimelig kompensasjon i"
+msgstr "frihet til nyskapning balansert med rimelig kompensasjon i"
 
 #.  f7 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13124,11 +13124,11 @@ msgstr "opphavsrettsformål som er etablert i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Progress Clause of"
-msgstr "Fremskritts-bestemmelsen i"
+msgstr "Fremskrittsbestemmelsen i"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional purpose of"
-msgstr "konstitusjonellt formål med"
+msgstr "konstitusjonelt formål med"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "constitutional tradition on"
@@ -13136,7 +13136,7 @@ msgstr "konstitusjonell tradisjon med"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Progress Clause"
-msgstr "Fremskritts-bestemmelsen"
+msgstr "Fremskrittsbestemmelsen"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13152,7 +13152,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "in constitutional Progress Clause"
-msgstr "i grunnlovens Fremskritts-bestemmelse"
+msgstr "i Grunnlovens Fremskrittsbestemmelse"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13190,7 +13190,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "history of American"
-msgstr "historie for Amerikansk"
+msgstr "historie om amerikansk"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13525,7 +13525,7 @@ msgstr "opphavsrettens vernetid utvidet av"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "term extensions in"
-msgstr "vernetidesutvidelser i"
+msgstr "vernetidsutvidelser i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13627,7 +13627,7 @@ msgstr "selskaper"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright terms for"
-msgstr "opphavsrettvernetid for"
+msgstr "opphavsrettsvernetid for"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14214,11 +14214,11 @@ msgstr "tre typer brukmåter for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright applicability altered by technology of"
-msgstr "anvendelighet for opphavsrett endret av teknoligien til"
+msgstr "anvendelighet for opphavsrett endret av teknologien til"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright intent altered by"
-msgstr "opphavsretthensikten endret av"
+msgstr "opphavsrettens hensikt endret av"
 
 #.  PAGE BREAK 152 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14329,7 +14329,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet"
-msgstr "på internet"
+msgstr "på Internett"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Internet burdens on"
@@ -14656,7 +14656,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "first-sale doctrine"
-msgstr "førstesalgs-doktrinen"
+msgstr "førstesalgsdoktrinen"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15421,7 +15421,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Electronic Frontier Foundation"
-msgstr "Elektronisk forpost-stiftelsen (EFF)"
+msgstr "Elektronisk Forpost-stiftelsen (EFF)"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -15796,7 +15796,7 @@ msgid ""
 "&mdash; On which item have the courts ruled that manufacturers and retailers "
 "be held responsible for having supplied the equipment?"
 msgstr ""
-"&mdash; For hvilken enhet har rettsvesene bedømt at produsenter og "
+"&mdash; For hvilken enhet har rettsvesenet bedømt at produsenter og "
 "forhandlere skal holdes ansvarlig for å ha forsynt utstyret?"
 
 #. type: Content of: <book><part><chapter><section><figure>
@@ -17507,7 +17507,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "ISPs (Internet service providers), user identities revealed by"
-msgstr "ISPer (Internett-tilbydere), brukeridentiteter avslørt av"
+msgstr "ISP-er (Internett-tilbydere), brukeridentiteter avslørt av"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Conyers, John, Jr."
@@ -18397,7 +18397,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "distribution technology targeted in"
-msgstr "distribusjon-teknologi mål for"
+msgstr "distribusjonsteknologi mål for"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "outsize penalties of"
@@ -19071,12 +19071,12 @@ msgid ""
 "fight to protect Internet radio. As one author describes Howard Armstrong's "
 "struggle to enable FM radio,"
 msgstr ""
-"Internettradio er dermed for radio det FM var for AM.  Det er en forbedring "
+"Internett-radio er dermed for radio det FM var for AM.  Det er en forbedring "
 "som med potensielt større betydning enn FM-forbedringen hadde for AM, siden "
 "ikke bare er teknologien bedre, men konkurransen er også det.  Faktisk er "
-"det en direkte parallell mellom kampen for å etablere FM-radio og kampen for "
-"å beskytte Internettradio.  Som en forfatter beskrev Howard Armstrongs kamp "
-"for å muliggjøre FM-radio,"
+"det en direkte parallell mellom kampen for å etablere FM-radio, og kampen "
+"for å beskytte Internett-radio.  Som en forfatter beskrev Howard Armstrongs "
+"kamp for å muliggjøre FM-radio:"
 
 #.  f12. 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
@@ -19151,11 +19151,11 @@ msgstr "om radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Internet radio hampered by"
-msgstr "Internettradio hemmet av"
+msgstr "Internett-radio hemmet av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet radio fees"
-msgstr "om Internettradio-avgifter"
+msgstr "om Internett-radioavgifter"
 
 #.  PAGE BREAK 206 
 #. type: Content of: <book><part><chapter><section><para>
@@ -20595,7 +20595,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional powers of"
-msgstr "konstitusjonelle makt til"
+msgstr "konstitusjonell makt til"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Eldred case involvement of"
@@ -22345,7 +22345,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Commerce Clause of"
-msgstr "Handels-bestemmelsen i"
+msgstr "Handelsbestemmelsen i"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23687,7 +23687,7 @@ msgstr "Bern-konvensjonen (1908)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "German copyright law"
-msgstr "Tysk åndsverkslov"
+msgstr "Tysk åndsverklov"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -24439,7 +24439,7 @@ msgstr "parallellimport"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "South Africa, Republic of, pharmaceutical imports by"
-msgstr "Sør-Afrika, Republikken, farmasøytiske import til"
+msgstr "Sør-Afrika, Republikken, farmasøytisk import til"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Braithwaite, John"
@@ -24470,7 +24470,7 @@ msgstr ""
 "I 1997 forsøkte Sør-Afrika seg på en tilnærming.  Landet vedtok en lov som "
 "tillot import av patenterte legemidler som hadde blitt produsert og solgt i "
 "en annen nasjons marked med godkjenning fra patenteieren.  For eksempel, "
-"hvis legemidler var solgt i India, så kunne den bli importert inn til Afrika "
+"hvis legemidler var solgt i India, så kunne de bli importert inn til Afrika "
 "fra India.  Dette kalles <quote>parallellimport</quote> og er generelt "
 "tillatt i internasjonal handelslovgivning, og spesifikt tillatt i den "
 "europeiske union.<placeholder type=\"footnote\" id=\"0\"/>"
@@ -25997,7 +25997,7 @@ msgstr "Gjenoppbygging av tidligere antatte friheter: Eksempler"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "restoration efforts on previous aspects of"
-msgstr "restureringsinnsatser på tidligere fasetter av"
+msgstr "restaureringsinnsatser på tidligere fasetter av"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "privacy rights"
@@ -26334,7 +26334,7 @@ msgstr "tidsskrifter i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "access to opinions of"
-msgstr "tilgang til domstolavgjørelser fra"
+msgstr "tilgang til domstolsavgjørelser fra"
 
 #.  PAGE BREAK 286 
 #. type: Content of: <book><chapter><section><section><para>
@@ -26371,7 +26371,7 @@ msgstr "tilgangsavgifter for materiale i"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "license system for rebuilding of"
-msgstr "lisens-systemet for å gjenoppbygging av"
+msgstr "lisenssystemet for å gjenoppbygging av"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28396,7 +28396,7 @@ msgid ""
 "extent actual harm is demonstrated."
 msgstr ""
 "mens denne overgangen pågår, skattlegge og kompensere for type-A-deling, i "
-"den grad faktiske skade kan påvises."
+"den grad faktisk skade kan påvises."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28898,12 +28898,12 @@ msgid ""
 "is a by-product of the translation process."
 msgstr ""
 "Denne utgaven av <citetitle>Fri kultur</citetitle> er resultatet av tre års "
-"frivillig arbeide.  Ideen kom ut av en diskusjon jeg hadde med en venn for "
+"frivillig arbeide.  Idéen kom ut av en diskusjon jeg hadde med en venn for "
 "omtrent ti år siden om opphavsrettsdiskusjonen i Norge, og hvor sjelden "
 "utfordringene med lang opphavsrett kom opp i offentlig debatt. For litt mer "
-"enn tre år siden tok jeg endelig en ny titt på ideen og bestemte meg for å "
+"enn tre år siden tok jeg endelig en ny titt på idéen og bestemte meg for å "
 "gi ut en bokmålsversjon av <citetitle>Fri kultur</citetitle>, oversatt og "
-"formattert av frivillige.  Den nye engelske utgaven er et biprodukt av "
+"formatert av frivillige.  Den nye engelske utgaven er et biprodukt av "
 "oversetterprosessen."
 
 #. type: Content of: <book><chapter><para>
@@ -28920,7 +28920,7 @@ msgid ""
 msgstr ""
 "Takket være Debian Edu- / Skolelinux-prosjektet hadde jeg allerede erfaring "
 "med å oversette Docbook-dokumenter, og det virket som et godt format også "
-"for denne boken.   Jeg fant en Docbook-formattert versjon av boken laget av "
+"for denne boken.   Jeg fant en Docbook-formatert versjon av boken laget av "
 "Hans Schou.  Testing i starten ga meg mange feilmeldinger om Docbook-"
 "formatet i denne versjonen, men etter litt innsats var jeg i stand til å "
 "omforme den til PDF og EPUB.  Det var starten på oversetterprosjektet.  "
@@ -28950,21 +28950,21 @@ msgstr ""
 "figurene, ved å tegne av noen av bitmap-ene som vektorbilder.  Wivi "
 "Reinholdtsen, Ingrid Yrvin og Johannes Larsen bidro med svært verdiful "
 "korrekturlesing.  Håkon Wium Lie hjalp meg med å spore ned gode "
-"erstatningsskrifttyper uten brukbegrensninger for de som var i den originale "
-"PDF-en.  PDF-typesettingen ble gjort med dblatex, som vi valgte i stedet for "
-"alternativene takket være uvurderlig og kjapp hjelp fra Benoît Guillon and "
-"Andreas Hoenen.  Thomas Gramstad donerte ISBN-nummer som trengs for å få "
-"distribuert boken i bokhandler.  Støtten fra Lawrence Lessig gjorde at jeg "
-"kom i mål med prosjektet &ndash; jeg er svært takknemlig for at han fortsatt "
-"hadde de originale skjermbildene etter 11 år."
+"erstatningsskrifttyper uten brukbegrensninger for dem som var i den "
+"originale PDF-en.  PDF-typesettingen ble gjort med dblatex, som vi valgte i "
+"stedet for alternativene takket være uvurderlig og kjapp hjelp fra Benoît "
+"Guillon og Andreas Hoenen.  Thomas Gramstad donerte ISBN-nummer som trengs "
+"for å få distribuert boken i bokhandler.  Støtten fra Lawrence Lessig gjorde "
+"at jeg kom i mål med prosjektet &ndash; jeg er svært takknemlig for at han "
+"fortsatt hadde de originale skjermbildene etter 11 år."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
 "I am also very grateful for my family for their patience with me in this "
 "project."
 msgstr ""
-"Jeg er svært takknemling for at min familie har vært tålmodighet med meg "
-"gjennom dette prosjektet."
+"Jeg er svært takknemlig for at min familie har vært tålmodig med meg gjennom "
+"dette prosjektet."
 
 #. type: Content of: <book><chapter><para>
 msgid "&mdash; Petter Reinholdtsen, Oslo 2015-08-27"
@@ -29059,7 +29059,7 @@ msgstr "(ACM CRCS) K.4.1"
 
 #. type: Content of: <book><colophon><para>
 msgid "Thomas Gramstad Forlag donated the ISBN numbers."
-msgstr "Thomas Gramstad Forlag har donert ISBN-nummerene."
+msgstr "Thomas Gramstad Forlag har donert ISBN-numrene."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
