@@ -5,8 +5,8 @@
 # for this translation to do so too.
 #
 # Translators:
--# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
--# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
+# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
+# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
 # Ingrid Yrvin <iyrvin@hagan.no>, 2015
 # Johannes Larsen <transifex.com@johslarsen.net>, 2015
 # Kirill Miazine <km@krot.org>, 2012
