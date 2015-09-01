@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-31 22:29+0300\n"
+"POT-Creation-Date: 2015-09-01 13:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,7 +117,7 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15776
+#: freeculture.xml:95 freeculture.xml:15784
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
@@ -21614,41 +21614,50 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15734
-msgid "Includes index."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15738
-msgid "Classifications:"
+msgid ""
+"The book cover was created by Petter Reinholdtsen using inkscape.  Portrait "
+"on the back cover is copyright 2013 ActuaLitté and licensed under a Creative "
+"Commons Attribution-ShareAlike 2.0 license.  It was downloaded from <ulink "
+"url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_(11014343366)_(cropped).jpg\"/>."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15742
+msgid "Includes index."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15746
+msgid "Classifications:"
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15750
 msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15751
+#: freeculture.xml:15759
 msgid "(UDK) 347.78"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15755
+#: freeculture.xml:15763
 msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15759
+#: freeculture.xml:15767
 msgid "(ACM CRCS) K.4.1"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15763
+#: freeculture.xml:15771
 msgid "Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15770
+#: freeculture.xml:15778
 msgid ""
 "The Docbook source is available from <ulink "
 "url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
@@ -21656,59 +21665,59 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15783
+#: freeculture.xml:15791
 msgid ""
 "This book is a proof reading draft.  Please visit the github URL above to "
 "get the latest version."
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15792
+#: freeculture.xml:15800
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15793
+#: freeculture.xml:15801
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15798
+#: freeculture.xml:15806
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15799
-msgid "Digest size from lulu.com"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15802
-msgid "978-82-8067-011-3"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15803
-msgid "application/pdf"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15806
-msgid "978-82-8067-012-0"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15807
-msgid "application/epub+zip"
+msgid "US Trade size from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15810
-msgid "978-82-8067-013-7"
+msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15811
+msgid "application/pdf"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15814
+msgid "978-82-8067-012-0"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15815
+msgid "application/epub+zip"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15818
+msgid "978-82-8067-013-7"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15819
 msgid "application/x-mobipocket-ebook"
 msgstr ""
 
@@ -21742,12 +21751,12 @@ msgid ""
 "for all his educated pessimism, Professor Lessig offers some solutions, too, "
 "because he recognizes that technology can be the catalyst for freedom. If "
 "you care about the future of innovation, read this book.</quote> &mdash; "
-"<emphasis>Dan Gillmor, author of <citetitle>Making the News</citetitle>, an "
-"upcoming book on the collision of media and technology</emphasis>"
+"<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
+"book on the collision of media and technology</emphasis>"
 msgstr ""
 
 #. type: Content of: <chapter><para>
-#: cover-text.xml:55
+#: cover-text.xml:54
 msgid ""
 "<quote><citetitle>Free Culture</citetitle> goes beyond illuminating the "
 "catastrophe to our culture of increasing regulation to show examples of how "
