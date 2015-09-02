@@ -1,0 +1,75 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!--
+
+The nb indexterm sorting order should be "Alle inne", "Bare tull",
+"Ærlig talt", "Øvrigheta", "Åndalsnes" under separete letter "A", "B",
+"Æ", "Ø" and "Å".  But dblatex sort it
+
+Symbols
+Ærlig talt
+Øvrigheten
+Åndalsnes
+
+A
+Alle inne
+
+B
+Bare tull
+
+This sorting order is wrong.  Note also how it uses 'Symbols' instead of
+'Symboler', which would be the correct Norwegian translation for that
+heading.
+
+==========================================================================
+
+The dblatex test cases to check with new index code:
+
+1) makeindex + document latin1 encoding
+   Expected: wrong index, many stuff in "symbols"
+
+dblatex -VDd testindex.xml
+
+2) makeindex + xelatex
+   Expected : makeindex is run twice, the second time without a style
+
+dblatex -VDd -bxetex testindex.xml
+
+3) texindy + document latin1 encoding (raw index in LICR)
+   Expected: good index
+
+dblatex -VDd -Platex.index.tool=xindy testindex.xml
+
+4) texindy + document utf8 encoding (raw index in LICR)
+   Expected: wrong index
+
+dblatex -VDd -Platex.unicode.use=1 -Platex.encoding=utf8 -Platex.index.tool=xindy testindex.xml
+
+5) xindy + xelatex (raw index in UTF8)
+   Expected: xindy is called instead of texindy, and good index
+
+dblatex -VDd -b xetex -Platex.index.tool=xindy testindex.xml
+
+5) xindy + forced language + xelatex (raw index in UTF8)
+   Expected: xindy command uses "-L <language>"
+
+dblatex -VDd -b xetex -Platex.index.tool=xindy -Platex.index.language=german-din testindex.xml
+
+-->
+<book lang="nb">
+  <bookinfo>
+    <title>Example demonstrating wrong nb indexterm sorting</title>
+  </bookinfo>
+<preface>
+<title>test</title>
+<indexterm><primary>Alle inne</primary></indexterm>
+<para>test "polarity"</para>
+<indexterm><primary>Ærlig talt</primary></indexterm>
+<indexterm><primary>Øvrigheten</primary></indexterm>
+<indexterm><primary>Åndalsnes</primary></indexterm>
+<para>text is good</para>
+<indexterm><primary>Bare tull</primary></indexterm>
+<para>text is great</para>
+</preface>
+<index></index>
+</book>
