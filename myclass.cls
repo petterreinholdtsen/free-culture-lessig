@@ -108,25 +108,6 @@
 \titleformat{\subsection}
 {\filcenter\large\bfseries}{\thesubsection}{1em}{}
 
-<<<<<<< HEAD
-%% New header, behaving like a section but formatted differently
-\titleclass{\enoteheader}{straight}[\chapter]
-\newcounter{enoteheader}
-\renewcommand{\theenoteheader}{\Alph{enoteheader}}
-
-\titleformat{\enoteheader}
-{\normalfont\large}{}{0pt}{}
-\titlespacing*{\enoteheader}{0pt}{2.5ex plus 1ex minus .2ex}{1.3ex plus .2ex}
-
-\dottedcontents{enoteheader} %
-[0em] % was (3.8)
-{\addvspace{0pt}} % 
-{2.3em} % tab
-{0.75em} % space between dots
-[\addvspace{0pt}]
-
-=======
->>>>>>> resync
 %% New header, behaving like a chapter but formatted differently
 \titleclass{\lotheader}{top}[\part]
 \newcounter{lotheader}
