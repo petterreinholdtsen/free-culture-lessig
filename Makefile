@@ -21,6 +21,8 @@ DBLATEX_OPTS = \
 	-P latex.index.tool=xindy \
 	-p data/pdf.xsl
 
+DBLATEX_OPTS2 = 
+
 
 DBTOEPUB = dbtoepub
 
@@ -86,7 +88,7 @@ html: freeculture.nb.html freeculture.html
 	echo "Using $$pipeline pipeline" ; \
 	case "$$pipeline" in  \
 	dblatex) \
-	  PATH=$(PWD)/bin:$$PATH $(DBLATEX) $(DBLATEX_OPTS) $< ; \
+	  PATH=$(PWD)/bin:$$PATH $(DBLATEX) $(DBLATEX_OPTS) $(DBLATEX_OPTS2) $< ; \
 	  ;; \
 	xmlto) \
 	  xmlto --noautosize \
