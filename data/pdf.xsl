@@ -57,8 +57,10 @@
 </xsl:template>
 
 <!-- transform footnotes to endnotes -->
-  <xsl:param name="footnote.as.endnote" select="1"/>
-  <xsl:attribute-set name="endnotes.properties"
+<xsl:param name="footnote.as.endnote" select="1"/>
+
+<!-- configure the endnotes package -->
+<xsl:attribute-set name="endnotes.properties"
                      use-attribute-sets="endnotes.properties.default">
 <!--
 Increase footnote/endnote size to be more than 6 pts, to avoid
@@ -69,10 +71,23 @@ the same size as the colophon page (see myclass.cls)
 make sure \fontsize{x}{y} use y=1.2*x, x >= 6
 -->
 
-    <!--xsl:attribute name="font-size">\fontsize{10}{12}</xsl:attribute-->
-    <xsl:attribute name="font-size">\footnotesize</xsl:attribute>
-    <!--xsl:attribute name="font-size">\normalsize</xsl:attribute-->
-  </xsl:attribute-set>
+  <!--xsl:attribute name="font-size">\fontsize{10}{12}</xsl:attribute-->
+  <xsl:attribute name="font-size">\footnotesize</xsl:attribute>
+  <!--xsl:attribute name="font-size">\normalsize</xsl:attribute-->
+</xsl:attribute-set>
+
+<!-- the endnotes are grouped by part, chapter, and preface -->
+<xsl:param name="endnotes.heading.groups" select="'part chapter preface'"/>
+<xsl:param name="endnotes.heading.style" select="'select:title'"/>
+<xsl:param name="endnotes.heading.command" select="'\enoteheader*'"/>
+
+<xsl:template match="preface" mode="endnotes">
+  <xsl:call-template name="endnotes.add.header"/>
+</xsl:template>
+
+<!-- even if grouped, never reset the endnotes counter, so clear the rule -->
+<xsl:param name="endnotes.counter.resetby"/>
+
 
   <xsl:param name="latex.begindocument">
     <xsl:text>
