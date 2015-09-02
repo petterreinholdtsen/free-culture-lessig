@@ -15664,10 +15664,11 @@ good replacement font without usage restrictions instead of the one in
 the original PDF.  The PDF typesetting is done using dblatex, which we
 selected over the alternatives thanks to the invaluable and quick help
 from Benoît Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN
-numbers needed for distribution to book stores.  The support of
-Lawrence Lessig helped me to complete the project &ndash; I am very
-thankful he had the original screen shots still available after 11
-years.
+numbers needed for distribution to book stores.  Marc Jeanmougin from
+the inkscape community helped me replicate the original front cover.
+The support of Lawrence Lessig helped me to complete the project
+&ndash; I am very thankful he had the original screen shots still
+available after 11 years.
   </para>
 
   <para>
@@ -15731,11 +15732,11 @@ courtesy of the office of FCC Commissioner, Michael J. Copps.
 </para>
 
 <para>
-The book cover was created by Petter Reinholdtsen using inkscape with
-help from Marc Jeanmougin.  Portrait on the back cover is copyright
-2013 ActuaLitté and licensed under a Creative Commons
-Attribution-ShareAlike 2.0 license.  It was downloaded from
-<ulink url="https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_(11014343366)_(cropped).jpg"/>.
+Cover created by Petter Reinholdtsen using inkscape.  Portrait on the
+back cover is copyright 2013 ActuaLitté and licensed under a Creative
+Commons Attribution-ShareAlike 2.0 license.  It was downloaded from
+<ulink
+url="https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_(11014343366)_(cropped).jpg"/>.
 </para>
 
 <para>
