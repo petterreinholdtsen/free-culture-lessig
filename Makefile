@@ -167,6 +167,9 @@ images/cc.svg:
 images/cc.png: images/cc.svg
 	inkscape -z -D --export-height=200 -D --export-png=$(shell pwd)/$@ $^
 
+images/cover-art.pdf: images/cover-art.svg
+	inkscape --export-pdf=$@ $^
+
 .xcf.png:
 	convert $^ $@
 
