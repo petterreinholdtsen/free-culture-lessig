@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="546.62077"
-     inkscape:cy="401.87087"
+     inkscape:zoom="1"
+     inkscape:cx="225.81691"
+     inkscape:cy="243.94526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,22 +43,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <pattern
-       inkscape:stockid="Stripes 1:3 white"
-       id="Strips1_3white"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="4"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect4632"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:white;stroke:none" />
-    </pattern>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath6695">
@@ -338,7 +322,7 @@
          x="97.080353"
          y="427.54785"
          id="tspan3123"
-         style="font-size:6px">(Foto: ActuaLitté CC BY-SA 2.0  from Wikimedia)</tspan></text>
+         style="font-size:6.2px">(Foto: ActuaLitté CC BY-SA 2.0  from Wikimedia)</tspan></text>
     <g
        id="g3239"
        transform="translate(0,0.45229062)">
@@ -629,19 +613,22 @@
        xml:space="preserve"
        id="flowRoot3224"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.95307531,0,0,1,18.18364,-102.138)"><flowRegion
+       transform="matrix(1.0072402,0,0,1,4.8338113,-100.138)"><flowRegion
          id="flowRegion3226"><rect
            id="rect3228"
-           width="514.89136"
-           height="151.12402"
+           width="480.39935"
+           height="148.12402"
            x="32.616604"
            y="551.37598"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3230">«Free Culture goes beyond illuminating the catastrophe to our culture of increasing regulation to show examples of how we can make a different future. These new-style heroes and examples are rooted in the traditions of the founding fathers in ways that seem obvious after reading this book. Recommended reading to those trying to unravel the shrill hype around ‘intellectual property.’» — Brewster Kahle, founder of the Internet Archive</flowPara></flowRoot>    <flowRoot
+         style="font-size:16.38914871px"
+         id="flowPara3138">«Free Culture goes beyond illuminating the catastrophe to our culture of increasing regulation to show examples of how we can make a different future. These new-style heroes and examples are rooted in the traditions of the founding fathers in ways that seem obvious after reading this book. Recommended reading to those trying to unravel the shrill hype around ‘intellectual property.’» — <flowSpan
+   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   id="flowSpan3123">Brewster Kahle, founder of the Internet Archive</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3183"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.99280924,0,0,1,306.70321,387.46897)"><flowRegion
+       transform="matrix(0.97086244,0,0,1,291.89294,389.46897)"><flowRegion
          id="flowRegion3185"><rect
            id="rect3187"
            width="494.74979"
@@ -649,23 +636,23 @@
            x="-259.64612"
            y="218.69838"
            style="font-size:18px" /></flowRegion><flowPara
-         id="flowPara3197"
-         style="font-size:16px">«America needs a national conversation about the way in which so-called ‘intellectual property rights’ have come to dominate the rights of scholars, researchers, and everyday citizens. A copyright cartel, bidding for absolute control over digital worlds, music, and movies, now has a veto over technological innovation and has halted most contributions to the public domain from which so many have benefited. The patent system has spun out of control, giving enormous power to entrenched interests, and even trademarks arebeing misused. Lawrence Lessig’s latest book is essential reading foranyone who want to join this conversation. He explains how tech-nology and the law are robbing us of the public domain; but for allhis educated pessimism, Professor Lessig offers some solutions, too,because he recognizes that technology can be the catalyst for free-dom. If you care about the future of innovation, read this book.» — <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic"
-   id="flowSpan3236">Dan Gillmor, author of Making the News, an upcoming book on the collision of media and technology</flowSpan></flowPara></flowRoot>    <flowRoot
+         style="font-size:16.05783844px"
+         id="flowPara3128">«America needs a national conversation about the way in which so-called ‘intellectual property rights’ have come to dominate the rights of scholars, researchers, and everyday citizens. A copyright cartel, bidding for absolute control over digital worlds, music, and movies, now has a veto over technological innovation and has halted most contributions to the public domain from which so many have benefited. The patent system has spun out of control, giving enormous power to entrenched interests, and even trademarks arebeing misused. Lawrence Lessig’s latest book is essential reading foranyone who want to join this conversation. He explains how tech-nology and the law are robbing us of the public domain; but for allhis educated pessimism, Professor Lessig offers some solutions, too,because he recognizes that technology can be the catalyst for free-dom. If you care about the future of innovation, read this book.» — <flowSpan
+   style="font-size:16.05783844px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   id="flowSpan3236">Dan Gillmor, author of We the Media, a book on the collision of media and technology</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4783"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.94567797,0,0,1,17.072647,312.1745)"><flowRegion
+       transform="matrix(0.94567797,0,0,1,25.072647,298.1745)"><flowRegion
          id="flowRegion4785"><rect
            id="rect4787"
-           width="403.61758"
-           height="87.773521"
+           width="388.81339"
+           height="97.773521"
            x="149.34795"
            y="20.413979" /></flowRegion><flowPara
-         id="flowPara4817"
-         style="font-size:16px">«Free Culture is an entertaining and important look at the past and future of the cold war between the media industry and new technologies.» — <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+         style="font-size:16.45312309px"
+         id="flowPara3131">«Free Culture is an entertaining and important look at the past and future of the cold war between the media industry and new technologies.» — <flowSpan
+   style="font-size:16.45312309px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
    id="flowSpan4881">Marc Andreessen, cofounder of Netscape</flowSpan></flowPara><flowPara
          id="flowPara4819"
          style="font-size:16px" /><flowPara
