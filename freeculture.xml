@@ -15683,11 +15683,6 @@ this project.
 </chapter>
 <index></index>
 <colophon>
-<!--
-Hack to get rid of chapter heading on colophon page and provide a more
-conventional Colophon page.  The disadvantage is a useless blank page
-where the empty chapter title is printed.
--->
 <title></title>
 <?latex {\centering
 ?>
