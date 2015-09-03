@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
 <!-- Converted to DocBook by Hans Schou 2004-03-29.  Updated and improved
-     by Petter Reinholdtsen 2012 with input from Martin Borg. -->
+     by Petter Reinholdtsen 2012-2015 with input from Martin Borg. -->
 <!--
   TODO
-  * indexterm primary
+  * Add missing indexterm entries by comparing with the 2004 edition.
 -->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
@@ -21,7 +21,7 @@
  <subtitle>How big media uses technology and the law to lock down
  culture and control creativity</subtitle>
 
- <pubdate>2004-03-25</pubdate>
+ <pubdate>2015-09-04</pubdate>
 
  <edition>1</edition>
 
@@ -158,28 +158,22 @@ Also by Lawrence Lessig
 <itemizedlist>
 
 <listitem><para>
-<!-- 2014 -->
-The USA is lesterland: The nature of congressional corruption
+The USA is lesterland: The nature of congressional corruption (2014)
 </para></listitem>
 <listitem><para>
-<!-- 2011, 2012 -->
-Republic, lost: How money corrupts Congress - and a plan to stop it 
+Republic, lost: How money corrupts Congress - and a plan to stop it  (2011)
 </para></listitem>
 <listitem><para>
-<!-- 2008 -->
-Remix: Making art and commerce thrive in the hybrid economy
+Remix: Making art and commerce thrive in the hybrid economy (2008)
 </para></listitem>
 <listitem><para>
-<!-- 2006 -->
-Code: Version 2.0
+Code: Version 2.0 (2006)
 </para></listitem>
 <listitem><para>
-<!-- 2001, 2002 -->
-The Future of Ideas: The Fate of the Commons in a Connected World
+The Future of Ideas: The Fate of the Commons in a Connected World (2001)
 </para></listitem>
 <listitem><para>
-<!-- 1999 -->
-Code: And Other Laws of Cyberspace
+Code: And Other Laws of Cyberspace (1999)
 </para></listitem>
 </itemizedlist>
 </dedication>
@@ -943,7 +937,7 @@ independent. We have built a kind of cultural nobility; those within
 the noble class live easily; those outside it don't. But it is
 nobility of any form that is alien to our tradition.
 </para>
-<!-- PAGE BREAK 26. FIXME: Ask author if "Is it" should be "It is" ? -->
+<!-- PAGE BREAK 26. -->
 <para>
 The story that follows is about this war. It is not about the
 <quote>centrality of technology</quote> to ordinary life. I don't believe in gods,
@@ -2283,8 +2277,6 @@ your hoops. They actually needed to use a language that they
 didn't speak very well. But they had come to understand that they
 had a lot of power with this language.
 </para>
-<!-- FIXME removed a " from the end of the previous paragraph that did
-     not match with any start quote. -->
 </blockquote>
 <indexterm startref='idxeducationinmedialiteracy' class='endofrange'/>
 <indexterm startref='idxmedialiteracy' class='endofrange'/>
