@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-02 23:40+0300\n"
+"POT-Creation-Date: 2015-09-03 10:24+0300\n"
 "PO-Revision-Date: 2015-09-02 21:39+0000\n"
 "Last-Translator: Johannes Larsen <transifex.com@johslarsen.net>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -49,7 +49,9 @@ msgstr ""
 "kulturen og kontrollere kreativiteten"
 
 #. type: Content of: <book><bookinfo>
-msgid "<pubdate>2004-03-25</pubdate> <edition>1</edition>"
+#, fuzzy
+#| msgid "<pubdate>2004-03-25</pubdate> <edition>1</edition>"
+msgid "<pubdate>2015-09-04</pubdate> <edition>1</edition>"
 msgstr "<pubdate>2004-03-25</pubdate> <edition>1</edition>"
 
 #. type: Content of: <book><bookinfo><releaseinfo>
@@ -200,34 +202,42 @@ msgstr ""
 msgid "Also by Lawrence Lessig"
 msgstr "Andre bøker av Lawrence Lessig"
 
-#.  2014 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "The USA is lesterland: The nature of congressional corruption"
+#, fuzzy
+#| msgid "The USA is lesterland: The nature of congressional corruption"
+msgid "The USA is lesterland: The nature of congressional corruption (2014)"
 msgstr "The USA is Lesterland: The Nature of Congressional Corruption"
 
-#.  2011, 2012 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "Republic, lost: How money corrupts Congress - and a plan to stop it"
+#, fuzzy
+#| msgid "Republic, lost: How money corrupts Congress - and a plan to stop it"
+msgid ""
+"Republic, lost: How money corrupts Congress - and a plan to stop it (2011)"
 msgstr "Republic, lost: How Money corrupts Congress - and a Plan to stop it"
 
-#.  2008 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "Remix: Making art and commerce thrive in the hybrid economy"
+#, fuzzy
+#| msgid "Remix: Making art and commerce thrive in the hybrid economy"
+msgid "Remix: Making art and commerce thrive in the hybrid economy (2008)"
 msgstr "Remix: Making Art and Commerce thrive in the Hybrid Economy"
 
-#.  2006 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "Code: Version 2.0"
+#, fuzzy
+#| msgid "Code: Version 2.0"
+msgid "Code: Version 2.0 (2006)"
 msgstr "Code: Version 2.0"
 
-#.  2001, 2002 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
+#, fuzzy
+#| msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
+msgid ""
+"The Future of Ideas: The Fate of the Commons in a Connected World (2001)"
 msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
-#.  1999 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
-msgid "Code: And Other Laws of Cyberspace"
+#, fuzzy
+#| msgid "Code: And Other Laws of Cyberspace"
+msgid "Code: And Other Laws of Cyberspace (1999)"
 msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><dedication><para>
@@ -28934,6 +28944,21 @@ msgstr ""
 "med oversettelsen."
 
 #. type: Content of: <book><chapter><para>
+#, fuzzy
+#| msgid ""
+#| "Several people joined, and Anders Hagen Jarmund, Kirill Miazine and Odd "
+#| "Kleiva assisted with the initial translation.  Ralph Amissah and his SiSu "
+#| "version provided index entries.  Morten Sickel and Alexander Alemayhu "
+#| "helped with the figures, redrawing some of the bitmaps as vector images.  "
+#| "Wivi Reinholdtsen, Ingrid Yrvin and Johannes Larsen did very valuable "
+#| "proofreading.  Håkon Wium Lie helped me track down a good replacement "
+#| "font without usage restrictions instead of the one in the original PDF.  "
+#| "The PDF typesetting is done using dblatex, which we selected over the "
+#| "alternatives thanks to the invaluable and quick help from Benoît Guillon "
+#| "and Andreas Hoenen.  Thomas Gramstad donated ISBN numbers needed for "
+#| "distribution to book stores.  The support of Lawrence Lessig helped me to "
+#| "complete the project &ndash; I am very thankful he had the original "
+#| "screen shots still available after 11 years."
 msgid ""
 "Several people joined, and Anders Hagen Jarmund, Kirill Miazine and Odd "
 "Kleiva assisted with the initial translation.  Ralph Amissah and his SiSu "
@@ -28945,9 +28970,10 @@ msgid ""
 "typesetting is done using dblatex, which we selected over the alternatives "
 "thanks to the invaluable and quick help from Benoît Guillon and Andreas "
 "Hoenen.  Thomas Gramstad donated ISBN numbers needed for distribution to "
-"book stores.  The support of Lawrence Lessig helped me to complete the "
-"project &ndash; I am very thankful he had the original screen shots still "
-"available after 11 years."
+"book stores.  Marc Jeanmougin from the inkscape community helped me "
+"replicate the original front cover.  The support of Lawrence Lessig helped "
+"me to complete the project &ndash; I am very thankful he had the original "
+"screen shots still available after 11 years."
 msgstr ""
 "Flere folk ble med, og Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva "
 "bidro med den første oversettelsen. Ralph Amissah og hans SiSu-utgave bidro "
@@ -28972,7 +28998,9 @@ msgstr ""
 "dette prosjektet."
 
 #. type: Content of: <book><chapter><para>
-msgid "&mdash; Petter Reinholdtsen, Oslo 2015-08-27"
+#, fuzzy
+#| msgid "&mdash; Petter Reinholdtsen, Oslo 2015-08-27"
+msgid "&mdash; Petter Reinholdtsen, Oslo 2015-09-04"
 msgstr "&mdash; Petter Reinholdtsen, Oslo 2015-08-27"
 
 #. type: Content of: <book><colophon><para>
@@ -29039,12 +29067,30 @@ msgstr ""
 "kommisjonæren, Michael J. Copps."
 
 #. type: Content of: <book><colophon><para>
+msgid "Cover created by Petter Reinholdtsen using inkscape."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#, fuzzy
+#| msgid "<ulink url=\"http://free-culture.cc/\"/>"
 msgid ""
-"The book cover was created by Petter Reinholdtsen using inkscape.  Portrait "
-"on the back cover is copyright 2013 ActuaLitté and licensed under a Creative "
-"Commons Attribution-ShareAlike 2.0 license.  It was downloaded from <ulink "
-"url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_(11014343366)"
-"_(cropped).jpg\"/>."
+"The quotes on the cover came from <ulink url=\"http://free-culture.cc/jacket/"
+"\"/>."
+msgstr "<ulink url=\"http://free-culture.cc/\"/>"
+
+#. type: Content of: <book><colophon><para>
+#, fuzzy
+#| msgid ""
+#| "The book cover was created by Petter Reinholdtsen using inkscape.  "
+#| "Portrait on the back cover is copyright 2013 ActuaLitté and licensed "
+#| "under a Creative Commons Attribution-ShareAlike 2.0 license.  It was "
+#| "downloaded from <ulink url=\"https://commons.wikimedia.org/wiki/File"
+#| "%3ALawrence_Lessig_(11014343366)_(cropped).jpg\"/>."
+msgid ""
+"Portrait on the cover was created 2013 by ActuaLitté and licensed under a "
+"Creative Commons Attribution-ShareAlike 2.0 license.  It was downloaded from "
+"<ulink url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_"
+"(11014343366)_(cropped).jpg\"/>."
 msgstr ""
 "Bokomslaget ble laget av Petter Reinholdtsen ved hjelp av inkscape.  "
 "Portrettet på baksiden er opphavsrettsbeskyttet 2013 ActuaLitté og "
