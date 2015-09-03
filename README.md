@@ -30,8 +30,10 @@ formattet file.  This file is transformed to the freeculture.pot,
 which is the base file for translators.  It was copied to
 freeculture.nb.po as the starting point of the Norwegian Bokmål
 translation, and the text blocks are translated in this file.  The
-translation is maintained using Transifex, making sure translators
-only need a browser and Internet connectivity to contribute.
+translation is maintained using
+<a href="https://www.transifex.com/pere/free-culture-lessig/">Transifex</a>,
+making sure translators only need a browser and Internet connectivity
+to contribute.
 
 Only the file freeculture.xml should be manually edited!
 
