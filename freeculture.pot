@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-02 23:40+0300\n"
+"POT-Creation-Date: 2015-09-03 08:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,7 +117,7 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15785
+#: freeculture.xml:95 freeculture.xml:15793
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
@@ -21554,7 +21554,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><para>
 #: freeculture.xml:15680
-msgid "&mdash; Petter Reinholdtsen, Oslo 2015-08-27"
+msgid "&mdash; Petter Reinholdtsen, Oslo 2015-09-04"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
@@ -21615,50 +21615,62 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15735
+msgid "Cover created by Petter Reinholdtsen using inkscape."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15739
 msgid ""
-"Cover created by Petter Reinholdtsen using inkscape.  Portrait on the back "
-"cover is copyright 2013 ActuaLitté and licensed under a Creative Commons "
-"Attribution-ShareAlike 2.0 license.  It was downloaded from <ulink "
+"The quotes on the cover came from <ulink "
+"url=\"http://free-culture.cc/jacket/\"/>."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15744
+msgid ""
+"Portrait on the cover was created 2013 by ActuaLitté and licensed under a "
+"Creative Commons Attribution-ShareAlike 2.0 license.  It was downloaded from "
+"<ulink "
 "url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_(11014343366)_(cropped).jpg\"/>."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15743
+#: freeculture.xml:15751
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15747
+#: freeculture.xml:15755
 msgid "Classifications:"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15751
+#: freeculture.xml:15759
 msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15760
+#: freeculture.xml:15768
 msgid "(UDK) 347.78"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15764
+#: freeculture.xml:15772
 msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15768
+#: freeculture.xml:15776
 msgid "(ACM CRCS) K.4.1"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15772
+#: freeculture.xml:15780
 msgid "Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15779
+#: freeculture.xml:15787
 msgid ""
 "The Docbook source is available from <ulink "
 "url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
@@ -21666,59 +21678,59 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15792
+#: freeculture.xml:15800
 msgid ""
 "This book is a proof reading draft.  Please visit the github URL above to "
 "get the latest version."
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15801
+#: freeculture.xml:15809
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15802
+#: freeculture.xml:15810
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15807
+#: freeculture.xml:15815
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15808
+#: freeculture.xml:15816
 msgid "US Trade size from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15811
+#: freeculture.xml:15819
 msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15812
+#: freeculture.xml:15820
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15815
+#: freeculture.xml:15823
 msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15816
+#: freeculture.xml:15824
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15819
+#: freeculture.xml:15827
 msgid "978-82-8067-013-7"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15820
+#: freeculture.xml:15828
 msgid "application/x-mobipocket-ebook"
 msgstr ""
 
