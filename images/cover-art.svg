@@ -16,7 +16,10 @@
    id="svg2"
    viewBox="0 0 1154.6999 832.5"
    height="832.5"
-   width="1154.7">
+   width="1154.7"
+   inkscape:export-filename="/home/pere/src/free-culture-lessig/images/cover-art.png"
+   inkscape:export-xdpi="40"
+   inkscape:export-ydpi="40">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="225.81691"
-     inkscape:cy="243.94526"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="605.28379"
+     inkscape:cy="434.23185"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +42,11 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid3122" />
+       id="grid3122"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -63,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,6 +101,15 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3124"
+       width="1154.7"
+       height="832.5"
+       x="-2.2892405e-05"
+       y="219.862"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40" />
     <text
        xml:space="preserve"
        style="font-size:171.32328796px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
@@ -612,7 +628,7 @@
          id="flowPara3095">How big media uses technology and the law to lock down culture and control creativity</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3224"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        transform="matrix(1.0072402,0,0,1,4.8338113,-100.138)"><flowRegion
          id="flowRegion3226"><rect
            id="rect3228"
@@ -620,14 +636,14 @@
            height="148.12402"
            x="32.616604"
            y="551.37598"
-           style="font-size:16px" /></flowRegion><flowPara
-         style="font-size:16.38914871px"
+           style="font-size:16px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         style="font-size:16.38914871000000062px;text-anchor:start;text-align:justify"
          id="flowPara3138">«Free Culture goes beyond illuminating the catastrophe to our culture of increasing regulation to show examples of how we can make a different future. These new-style heroes and examples are rooted in the traditions of the founding fathers in ways that seem obvious after reading this book. Recommended reading to those trying to unravel the shrill hype around ‘intellectual property.’» — <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic;text-anchor:start;text-align:justify"
    id="flowSpan3123">Brewster Kahle, founder of the Internet Archive</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3183"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        transform="matrix(0.97086244,0,0,1,291.89294,389.46897)"><flowRegion
          id="flowRegion3185"><rect
            id="rect3187"
@@ -635,10 +651,10 @@
            height="326.19464"
            x="-259.64612"
            y="218.69838"
-           style="font-size:18px" /></flowRegion><flowPara
-         style="font-size:16.05783844px"
+           style="font-size:18px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         style="font-size:16.05783844000000116px;text-anchor:start;text-align:justify"
          id="flowPara3128">«America needs a national conversation about the way in which so-called ‘intellectual property rights’ have come to dominate the rights of scholars, researchers, and everyday citizens. A copyright cartel, bidding for absolute control over digital worlds, music, and movies, now has a veto over technological innovation and has halted most contributions to the public domain from which so many have benefited. The patent system has spun out of control, giving enormous power to entrenched interests, and even trademarks arebeing misused. Lawrence Lessig’s latest book is essential reading foranyone who want to join this conversation. He explains how tech-nology and the law are robbing us of the public domain; but for allhis educated pessimism, Professor Lessig offers some solutions, too,because he recognizes that technology can be the catalyst for free-dom. If you care about the future of innovation, read this book.» — <flowSpan
-   style="font-size:16.05783844px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   style="font-size:16.05783844000000116px;font-style:italic;-inkscape-font-specification:Crimson Text Italic;text-anchor:start;text-align:justify"
    id="flowSpan3236">Dan Gillmor, author of We the Media, a book on the collision of media and technology</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4783"
