@@ -7,16 +7,18 @@
 
 % Show frames, make it easier to debug borders
 %\usepackage{showframe}% http://ctan.org/pkg/showframe
+\makeatletter
+
+% Customize the titlepage: remove the date
+\let\stdmaketitle=\maketitle
+\def\maketitle{\let\@date\empty\stdmaketitle}
 
 % Divide by 2 the index item indentation (10pt -> 5pt)
-\makeatletter
 \renewcommand\@idxitem{\par\hangindent 20\p@}
 \renewcommand\subitem{\@idxitem \hspace*{10\p@}}
 \renewcommand\subsubitem{\@idxitem \hspace*{15\p@}}
-\makeatother
 
 % Put the index in the TOC
-\makeatletter
 \let\stdindex=\theindex
 \let\endstdindex=\endtheindex
 \renewenvironment{theindex}{
