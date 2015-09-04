@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-REPLACE_WITH = " &ndash "
+REPLACE_WITH = " &ndash; "
 
 is_translation = false
 
