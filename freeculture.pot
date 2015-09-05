@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-05 08:17+0300\n"
+"POT-Creation-Date: 2015-09-05 21:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21542,13 +21542,13 @@ msgstr ""
 #. type: Content of: <book><chapter><para>
 #: freeculture.xml:15667
 msgid ""
-"I am also very grateful for my family for their patience with me in this "
-"project."
+"In addition to these great contributors, I am very grateful to Mari and my "
+"family for their patience with me in this project."
 msgstr ""
 
 #. type: Content of: <book><chapter><para>
 #: freeculture.xml:15672
-msgid "&mdash; Petter Reinholdtsen, Oslo 2015-09-04"
+msgid "&mdash; Petter Reinholdtsen, Oslo 2015-09-07"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
