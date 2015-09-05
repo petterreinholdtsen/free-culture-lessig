@@ -16,7 +16,10 @@
    id="svg2"
    viewBox="0 0 1154.6999 832.5"
    height="832.5"
-   width="1154.7">
+   width="1154.7"
+   inkscape:export-filename="/home/pere/src/free-culture-lessig/images/cover-art.png"
+   inkscape:export-xdpi="40"
+   inkscape:export-ydpi="40">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,22 +27,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="483.48352"
-     inkscape:cy="349.11698"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="399.88935"
+     inkscape:cy="377.27102"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
-     inkscape:window-width="1144"
+     inkscape:window-width="1277"
      inkscape:window-height="714"
-     inkscape:window-x="11"
+     inkscape:window-x="38"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid3122" />
+       id="grid3122"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -67,6 +74,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background">
+    <rect
+       transform="translate(0,-219.862)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3124"
+       width="1154.7"
+       height="832.5"
+       x="-2.2892405e-05"
+       y="219.862"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40" />
+  </g>
   <g
      style="display:none"
      inkscape:label="indicators"
@@ -118,11 +140,11 @@
        sodipodi:linespacing="125%"
        id="text5622"
        y="-560.44525"
-       x="617.54797"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="482.255"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        xml:space="preserve"><tspan
          y="-560.44525"
-         x="617.54797"
+         x="482.255"
          id="tspan5624"
          sodipodi:role="line">Fri kultur</tspan></text>
     <text
@@ -180,8 +202,8 @@
        sodipodi:linespacing="125%"
        id="text3059"
        y="-565.66107"
-       x="340.27914"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="258.86411"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        xml:space="preserve"><tspan
          y="-565.66107"
          x="340.27914"
@@ -209,8 +231,8 @@
            id="rect3083" /></flowRegion><flowPara
          id="flowPara3085" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       x="174.99005"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="49.277161"
        y="962.47571"
        id="text4883"
        sodipodi:linespacing="125%"><tspan
@@ -221,44 +243,44 @@
     <rect
        style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3094"
-       width="285"
+       width="284.91318"
        height="60"
        x="675"
-       y="851.362" />
+       y="835.362" />
     <text
        sodipodi:linespacing="125%"
        id="text3063"
-       y="907.01538"
-       x="814.22656"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e02020;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       y="891.01538"
+       x="674.09375"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e02020;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        xml:space="preserve"><tspan
-         y="907.01538"
-         x="814.22656"
+         y="891.01538"
+         x="674.09375"
          id="tspan3065"
          sodipodi:role="line">Fri kultur</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3094-0"
-       width="369.5"
-       height="35.819153"
+       width="431.28427"
+       height="45.419659"
        x="675"
-       y="924.48499" />
+       y="912.48499" />
     <rect
        style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3094-0-1"
-       width="308.1456"
+       width="305"
        height="47.535534"
-       x="674.9585"
+       x="675"
        y="974.04651" />
     <text
        sodipodi:linespacing="125%"
        id="text3067"
        y="1008.238"
-       x="827.30469"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="678.125"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        xml:space="preserve"><tspan
          y="1008.238"
-         x="827.30469"
+         x="678.125"
          id="tspan3069"
          sodipodi:role="line">Lawrence Lessig</tspan></text>
     <g
@@ -306,24 +328,7 @@
            x="20.191231"
            y="622.82184"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3217" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       x="97.080353"
-       y="416.89551"
-       id="text3119"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3121"
-         x="97.080353"
-         y="416.89551"
-         style="font-size:12px">Lawrence Lessig</tspan><tspan
-         sodipodi:role="line"
-         x="97.080353"
-         y="427.69278"
-         id="tspan3123"
-         style="font-size:6.19999981px">(Foto: ActuaLitté CC BY-SA 2.0  fra Wikimedia)</tspan></text>
-    <g
+         id="flowPara3217" /></flowRoot>    <g
        id="g3239"
        transform="translate(0,0.45229062)">
       <g
@@ -598,7 +603,7 @@
            sodipodi:role="line">ISBN 978-82-8067-010-6</tspan></text>
     </g>
     <flowRoot
-       transform="translate(35.015599,226.65796)"
+       transform="translate(35.144506,216.65796)"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        id="flowRoot3087"
        xml:space="preserve"><flowRegion
@@ -606,56 +611,80 @@
            style="text-align:start;text-anchor:start"
            y="702.44775"
            x="644.40302"
-           height="33.901611"
-           width="371.31989"
+           height="40.916374"
+           width="426.94733"
            id="rect3091" /></flowRegion><flowPara
-         id="flowPara3126"
-         style="font-size:13px">Hvordan store medieaktører bruker teknologi og rettsvesenet til å begrense kulturen og kontrollere kreativiteten</flowPara></flowRoot>    <flowRoot
+         id="flowPara3132"
+         style="font-size:16px">Hvordan store medieaktører bruker teknologi og retts-vesenet til å begrense kulturen og kontrollere kreativiteten</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3224"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(1.0072402,0,0,1,4.8338113,-100.138)"><flowRegion
+       transform="matrix(0.99577184,0,0,1,7.7687162,-102.138)"><flowRegion
          id="flowRegion3226"><rect
            id="rect3228"
-           width="480.39935"
-           height="148.12402"
+           width="481.80338"
+           height="159.4377"
            x="32.616604"
            y="551.37598"
-           style="font-size:16px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
-         style="font-size:16.38914871000000062px;text-anchor:start;text-align:justify"
-         id="flowPara3138">«Free Culture goes beyond illuminating the catastrophe to our culture of increasing regulation to show examples of how we can make a different future. These new-style heroes and examples are rooted in the traditions of the founding fathers in ways that seem obvious after reading this book. Recommended reading to those trying to unravel the shrill hype around ‘intellectual property.’» — <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Crimson Text Italic;text-anchor:start;text-align:justify"
-   id="flowSpan3123">Brewster Kahle, founder of the Internet Archive</flowSpan></flowPara></flowRoot>    <flowRoot
+           style="font-size:16px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:16.03393364px;text-align:justify;text-anchor:start"
+         id="flowPara3182">«Fri kultur går videre fra å sette fokus på katastrofen økende regulering er for vår kultur og viser eksempler på hvordan vi kan skape en annerledes fremtid.  Denne nye typen helter og  eksempler er fundert i tradisjonen til grunnlovsforfatterne på en måte som virker åpenbart etter at en har lest denne boka.  Anbefales lest av de som forsøker å avdekke *shrill hype* rundt 'intellektuell eiendom.'» — <flowSpan
+   style="font-size:16.03393364px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   id="flowSpan3198">Brewster Kahle, stifter av Internett-arkivet</flowSpan></flowPara><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3162" /><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3164" /><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3166" /><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3184" /><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3186" /><flowPara
+         style="font-size:15.9423914px;text-align:justify;text-anchor:start"
+         id="flowPara3188" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3183"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.97086244,0,0,1,291.89294,389.46897)"><flowRegion
+       transform="matrix(0.97017142,0,0,1,291.91874,389.46897)"><flowRegion
          id="flowRegion3185"><rect
            id="rect3187"
            width="494.74979"
            height="326.19464"
            x="-259.64612"
            y="218.69838"
-           style="font-size:18px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
-         style="font-size:16.05783844000000116px;text-anchor:start;text-align:justify"
-         id="flowPara3128">«America needs a national conversation about the way in which so-called ‘intellectual property rights’ have come to dominate the rights of scholars, researchers, and everyday citizens. A copyright cartel, bidding for absolute control over digital worlds, music, and movies, now has a veto over technological innovation and has halted most contributions to the public domain from which so many have benefited. The patent system has spun out of control, giving enormous power to entrenched interests, and even trademarks arebeing misused. Lawrence Lessig’s latest book is essential reading foranyone who want to join this conversation. He explains how tech-nology and the law are robbing us of the public domain; but for allhis educated pessimism, Professor Lessig offers some solutions, too,because he recognizes that technology can be the catalyst for free-dom. If you care about the future of innovation, read this book.» — <flowSpan
-   style="font-size:16.05783844000000116px;font-style:italic;-inkscape-font-specification:Crimson Text Italic;text-anchor:start;text-align:justify"
-   id="flowSpan3236">Dan Gillmor, author of We the Media, a book on the collision of media and technology</flowSpan></flowPara></flowRoot>    <flowRoot
+           style="font-size:18px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:16.24410336px;text-align:justify;text-anchor:start"
+         id="flowPara3216">«USA trenger en nasjonal samtale om hvordan det som kalles 'intellektuelle eiendomsretter' har endt opp med å dominere rettighetene til akademikere, forskere og helt vanlige borgere. Et opphavsrettskartell, som ønsker total kontroll over de digitale verdener, musikk og filmer, har nå vetorett over teknologiske nyvinninger og har stoppet de fleste bidragene til allemannseiet som så mange har hatt nytte av. Patentsystemet har kommet ut av kontroll, og gir enorm makt til interesser *nedgravd i skyttergraver*.  Selv varemerker blir misbrukt. Lawrence Lessigs siste bok bør leses av alle som ønsker å delta i denne samtalen. Han forklarer hvordan teknologi og rettsvesenet raner allemannseiet fra oss.  Men på tross av sin godt funderte pessimisme tilbyr professor Lessig også noen løsninger, da han forstår at teknologi også kan være en katalysator for frihet. Hvis du bryr deg om fremtiden til nyskapning, les denne boken.» — <flowSpan
+   style="font-size:16.24410336px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   id="flowSpan3246">Dan Gillmor, forfatter av We the media, en bok om *the collision* av media og teknologi</flowSpan></flowPara><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3218" /><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3220" /><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3222" /><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3224" /><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3226" /><flowPara
+         style="font-size:16.2383213px;text-align:justify;text-anchor:start"
+         id="flowPara3228" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4783"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.94567797,0,0,1,25.072647,298.1745)"><flowRegion
+       transform="matrix(0.94567797,0,0,1,25.072647,280.1745)"><flowRegion
          id="flowRegion4785"><rect
            id="rect4787"
-           width="388.81339"
+           width="366.38162"
            height="97.773521"
            x="149.34795"
            y="20.413979" /></flowRegion><flowPara
          style="font-size:16.45312309px"
-         id="flowPara3147">«Fri kultur er en underholdende og viktig titt på fortid og fremtid for den kalde krigen mellom mediaindustrien og nye teknologier.» — <flowSpan
+         id="flowPara3139">«Fri kultur er en underholdende og viktig titt på fortid og fremtid for den kalde krigen mellom mediaindustrien og nye teknologier.» — <flowSpan
    style="font-style:italic;-inkscape-font-specification:Crimson Text Italic"
-   id="flowSpan3156">Marc Andreessen, medstifter av </flowSpan><flowSpan
-   style="font-size:16.45312308999999829px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
+   id="flowSpan3148">Marc Andreessen, medstifter av </flowSpan><flowSpan
+   style="font-size:16.45312309px;font-style:italic;-inkscape-font-specification:Crimson Text Italic"
    id="flowSpan4881">Netscape</flowSpan></flowPara><flowPara
          id="flowPara4819"
          style="font-size:16px" /><flowPara
@@ -672,27 +701,38 @@
          id="flowPara4837" /><flowPara
          id="flowPara4839" /><flowPara
          id="flowPara4841" /><flowPara
-         id="flowPara4843" /></flowRoot>    <text
+         id="flowPara4843" /><flowPara
+         id="flowPara3142" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       x="449.99997"
-       y="1040.3621"
-       id="text3137"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="158.13835"
+       y="1007.1072"
+       id="text3125"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3139"
-         x="449.99997"
-         y="1040.3621">FIXME, bytt strekkode</tspan></text>
-    <text
+         id="tspan3127"
+         x="228.35027"
+         y="1007.1072">http://free-culture.cc/</tspan></text>
+    <flowRoot
        xml:space="preserve"
+       id="flowRoot3127"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       x="358.49997"
-       y="425.362"
-       id="text3158"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3160"
-         x="358.49997"
-         y="425.362">FIXME bytt ut med oversatte tekster.</tspan></text>
+       transform="translate(92.630959,227.64018)"><flowRegion
+         id="flowRegion3129"><rect
+           id="rect3131"
+           width="143.54268"
+           height="26.870054"
+           x="-65.760925"
+           y="180.54756" /></flowRegion><flowPara
+         id="flowPara3133">Lawrence Lessig</flowPara><flowPara
+         id="flowPara3135"
+         style="font-size:6.0999999px">(Foto: ActuaLitté CC BY-SA 2.0 from Wikimedia)</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3137"
+       width="195.16145"
+       height="92.630966"
+       x="350.01785"
+       y="717.24158"
+       transform="translate(-2.5585937e-5,219.862)" />
   </g>
 </svg>
