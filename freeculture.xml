@@ -15646,21 +15646,21 @@ volunteers went out to help me with the translation.
   </para>
 
   <para>
-Several people joined, and Anders Hagen Jarmund, Kirill Miazine and
-Odd Kleiva assisted with the initial translation.  Ralph Amissah and
-his SiSu version provided index entries.  Morten Sickel and Alexander
-Alemayhu helped with the figures, redrawing some of the bitmaps as
-vector images.  Wivi Reinholdtsen, Ingrid Yrvin and Johannes Larsen
-did very valuable proofreading.  Håkon Wium Lie helped me track down a
-good replacement font without usage restrictions instead of the one in
-the original PDF.  The PDF typesetting is done using dblatex, which we
-selected over the alternatives thanks to the invaluable and quick help
-from Benoît Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN
-numbers needed for distribution to book stores.  Marc Jeanmougin from
-the inkscape community helped me replicate the original front cover.
-The support of Lawrence Lessig helped me to complete the
-project&mdash;I am very thankful he had the original screen shots
-still available after 11 years.
+Several people joined, and Anders Hagen Jarmund, Kirill Miazine, Odd
+Kleiva and Kjetil Kilhavn assisted with the initial translation.
+Ralph Amissah and his SiSu version provided index entries.  Morten
+Sickel and Alexander Alemayhu helped with the figures, redrawing some
+of the bitmaps as vector images.  Wivi Reinholdtsen, Ingrid Yrvin and
+Johannes Larsen did very valuable proofreading.  Håkon Wium Lie helped
+me track down a good replacement font without usage restrictions
+instead of the one in the original PDF.  The PDF typesetting is done
+using dblatex, which we selected over the alternatives thanks to the
+invaluable and quick help from Benoît Guillon and Andreas Hoenen.
+Thomas Gramstad donated ISBN numbers needed for distribution to book
+stores.  Marc Jeanmougin from the inkscape community helped me
+replicate the original front cover.  The support of Lawrence Lessig
+helped me to complete the project&mdash;I am very thankful he had the
+original screen shots still available after 11 years.
   </para>
 
   <para>
