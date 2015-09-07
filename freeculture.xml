@@ -15736,10 +15736,6 @@ downloaded from
 </para>
 
 <para>
-Includes index.
-</para>
-
-<para>
 Classifications:
 </para>
 
@@ -15768,6 +15764,10 @@ Classifications:
 Thomas Gramstad Forlag donated the ISBN numbers.
 </para>
 
+<para>
+Includes index.
+</para>
+
 <?latex } %\centering
 ?>
 
@@ -15785,39 +15785,41 @@ given.  For more information about the license visit
 </para>
 
 <para>
-This book is a proof reading draft.  Please visit the github URL above
-to get the latest version.
-</para>
-
-<para>
 <informaltable id="isbn">
 <tgroup cols="2" align="left">
 <thead>
  <row>
- <entry>ISBN</entry>
  <entry>Format / MIME-type</entry>
+ <entry>ISBN</entry>
  </row>
 </thead>
 <tbody>
  <row>
- <entry>978-82-8067-010-6</entry>
  <entry>US Trade edition from lulu.com</entry>
+ <entry>978-82-8067-010-6</entry>
  </row>
  <row>
- <entry>978-82-8067-011-3</entry>
  <entry>application/pdf</entry>
+ <entry>978-82-8067-011-3</entry>
  </row>
  <row>
- <entry>978-82-8067-012-0</entry>
  <entry>application/epub+zip</entry>
+ <entry>978-82-8067-012-0</entry>
  </row>
  <row>
- <entry>978-82-8067-013-7</entry>
  <entry>application/x-mobipocket-ebook</entry>
+ <entry>978-82-8067-013-7</entry>
  </row>
 </tbody>
 </tgroup>
 </informaltable>
 </para>
+
+<para>
+  <informalfigure id="cc-logo">
+    <graphic fileref="images/cc.svg" align="center" width="11%"></graphic>
+  </informalfigure>
+</para>
+
 </colophon>
 </book>
