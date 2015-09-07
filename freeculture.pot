@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-07 09:59+0000\n"
+"POT-Creation-Date: 2015-09-07 12:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21671,58 +21671,65 @@ msgid ""
 "report any issues with the book there."
 msgstr ""
 
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15788
+msgid ""
+"This book is a proof reading draft.  Please visit the github URL above to "
+"get the latest version."
+msgstr ""
+
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15792
+#: freeculture.xml:15797
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15793
+#: freeculture.xml:15798
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15798
+#: freeculture.xml:15803
 msgid "US Trade edition from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15799
+#: freeculture.xml:15804
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15802
+#: freeculture.xml:15807
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15803
+#: freeculture.xml:15808
 msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15806
+#: freeculture.xml:15811
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15807
+#: freeculture.xml:15812
 msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15810
+#: freeculture.xml:15815
 msgid "application/x-mobipocket-ebook"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15811
+#: freeculture.xml:15816
 msgid "978-82-8067-013-7"
 msgstr ""
 
 #. type: Attribute 'fileref' of: <book><colophon><para><informalfigure><graphic>
-#: freeculture.xml:15820
+#: freeculture.xml:15825
 msgid "images/cc.svg"
 msgstr ""
 
