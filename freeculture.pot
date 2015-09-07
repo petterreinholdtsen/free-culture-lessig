@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-07 00:03+0300\n"
+"POT-Creation-Date: 2015-09-07 09:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21630,37 +21630,37 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15739
-msgid "Includes index."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15743
 msgid "Classifications:"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15747
+#: freeculture.xml:15743
 msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15756
+#: freeculture.xml:15752
 msgid "(UDK) 347.78"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15760
+#: freeculture.xml:15756
 msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15764
+#: freeculture.xml:15760
 msgid "(ACM CRCS) K.4.1"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15768
+#: freeculture.xml:15764
 msgid "Thomas Gramstad Forlag donated the ISBN numbers."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15768
+msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
@@ -21671,61 +21671,59 @@ msgid ""
 "report any issues with the book there."
 msgstr ""
 
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15788
-msgid ""
-"This book is a proof reading draft.  Please visit the github URL above to "
-"get the latest version."
-msgstr ""
-
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15797
-msgid "ISBN"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15798
+#: freeculture.xml:15792
 msgid "Format / MIME-type"
 msgstr ""
 
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15803
-msgid "978-82-8067-010-6"
+#. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
+#: freeculture.xml:15793
+msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15804
+#: freeculture.xml:15798
 msgid "US Trade edition from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15807
-msgid "978-82-8067-011-3"
+#: freeculture.xml:15799
+msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15808
+#: freeculture.xml:15802
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15811
-msgid "978-82-8067-012-0"
+#: freeculture.xml:15803
+msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15812
+#: freeculture.xml:15806
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15815
-msgid "978-82-8067-013-7"
+#: freeculture.xml:15807
+msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15816
+#: freeculture.xml:15810
 msgid "application/x-mobipocket-ebook"
+msgstr ""
+
+#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
+#: freeculture.xml:15811
+msgid "978-82-8067-013-7"
+msgstr ""
+
+#. type: Attribute 'fileref' of: <book><colophon><para><informalfigure><graphic>
+#: freeculture.xml:15820
+msgid "images/cc.svg"
 msgstr ""
 
 #. type: Content of: <chapter><para>
