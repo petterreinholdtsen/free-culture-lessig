@@ -15783,6 +15783,12 @@ Please report any issues with the book there.
 </para>
 
 <para>
+  <informalfigure id="cc-logo">
+    <graphic fileref="images/cc.svg" align="center" width="11%"></graphic>
+  </informalfigure>
+</para>
+
+<para>
 This book is licensed under a Creative Commons license. This license
 permits non-commercial use of this work, so long as attribution is
 given.  For more information about the license visit
@@ -15823,12 +15829,6 @@ to get the latest version.
 </tbody>
 </tgroup>
 </informaltable>
-</para>
-
-<para>
-  <informalfigure id="cc-logo">
-    <graphic fileref="images/cc.svg" align="center" width="11%"></graphic>
-  </informalfigure>
 </para>
 
 </colophon>
