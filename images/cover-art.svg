@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="290.64113"
-     inkscape:cy="458.92912"
+     inkscape:zoom="0.70710685"
+     inkscape:cx="306.27403"
+     inkscape:cy="481.15493"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1277"
      inkscape:window-height="714"
-     inkscape:window-x="288"
+     inkscape:window-x="85"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false">
@@ -292,7 +292,7 @@
     </g>
     <image
        y="263.53305"
-       x="43.213924"
+       x="39.999973"
        id="image3172"
        xlink:href="file:///home/pere/src/free-culture-lessig/images/Lawrence_Lessig_(11014343366)_(cropped).jpg"
        height="140.82896"
@@ -334,7 +334,7 @@
        xml:space="preserve"
        id="flowRoot3224"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.85912935,0,0,1,9.6533983,-72.138)"><flowRegion
+       transform="matrix(0.85912935,0,0,1,11.635515,-72.138)"><flowRegion
          id="flowRegion3226"><rect
            id="rect3228"
            width="465.50714"
@@ -349,7 +349,7 @@
        xml:space="preserve"
        id="flowRoot3183"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="matrix(0.80754512,0,0,1,249.44779,417.46897)"><flowRegion
+       transform="matrix(0.80754512,0,0,1,249.43883,417.46897)"><flowRegion
          id="flowRegion3185"><rect
            id="rect3187"
            width="494.74979"
@@ -405,7 +405,7 @@
        xml:space="preserve"
        id="flowRoot3127"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
-       transform="translate(92.630959,227.64018)"><flowRegion
+       transform="translate(88.630959,227.64018)"><flowRegion
          id="flowRegion3129"><rect
            id="rect3131"
            width="143.54268"
