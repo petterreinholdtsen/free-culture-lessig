@@ -29022,6 +29022,18 @@ msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid ""
+"At the end of the book project, when the translation was done and it was "
+"time to publish the book, I asked NUUG Foundation if they would be willing "
+"to sponsor books to members of the Norwegian parliament and other decision "
+"makers.  I was very happy when they said yes."
+msgstr ""
+"På slutten av bokprosjektet, når oversettelsen var ferdig og det var på tide "
+"å publisere boken, spurte jeg NUUG Foundation om de var villig til å sponse "
+"bøker til Stortingsrepresentantene og andre beslutningstakere i Norge.  Jeg "
+"ble veldig glad da de sa ja."
+
+#. type: Content of: <book><chapter><para>
+msgid ""
 "In addition to these great contributors, I am very grateful to Mari and my "
 "family for their patience with me in this project."
 msgstr ""
@@ -29144,9 +29156,11 @@ msgstr "Thomas Gramstad Forlag har donert ISBN-numrene."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"The publication was sponsed by NUUG Foundation, <ulink url=\"http://www."
+"Printing was sponsed by NUUG Foundation, <ulink url=\"http://www."
 "nuugfoundation.no/\"/>."
 msgstr ""
+"Trykking ble sponset av NUUG Foundation, <ulink url=\"http://www."
+"nuugfoundation.no/\"/>."
 
 #. type: Content of: <book><colophon><para>
 msgid "Includes index."
@@ -29164,7 +29178,7 @@ msgstr ""
 
 #. type: Attribute 'fileref' of: <book><colophon><para><informalfigure><graphic>
 msgid "images/cc.svg"
-msgstr ""
+msgstr "images/cc.svg"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
