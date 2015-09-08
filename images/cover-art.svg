@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710685"
-     inkscape:cx="306.27403"
-     inkscape:cy="481.15493"
+     inkscape:cx="290.37931"
+     inkscape:cy="451.28524"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1277"
@@ -412,9 +412,8 @@
            height="26.870054"
            x="-65.760925"
            y="180.54756" /></flowRegion><flowPara
-         id="flowPara3133">Lawrence Lessig</flowPara><flowPara
          id="flowPara3135"
-         style="font-size:6.0999999px">(Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia)</flowPara></flowRoot>    <rect
+         style="font-size:16px">Lawrence Lessig</flowPara></flowRoot>    <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3137"
        width="195.16145"
@@ -956,5 +955,17 @@
          x="447.62106"
          y="949.22723"
          style="font-size:12px">ISBN 97-882-8067-010-6</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3127-9"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       transform="matrix(0,-1,1,0,-30.54436,340.19579)"><flowRegion
+         id="flowRegion3129-9"><rect
+           id="rect3131-1"
+           width="143.54268"
+           height="26.870054"
+           x="-65.760925"
+           y="180.54756" /></flowRegion><flowPara
+         id="flowPara3135-1"
+         style="font-size:6.0999999px">(Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia)</flowPara></flowRoot>  </g>
 </svg>
