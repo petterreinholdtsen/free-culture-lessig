@@ -13969,6 +13969,7 @@ potential is ever to be realized.
 </chapter>
 <chapter label="" id="c-afterword">
 <title>Afterword</title>
+<indexterm id='idxcopyrightvoluntaryreformeffortson' class='startofrange'><primary>copyright</primary><secondary>voluntary reform efforts on</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 280 -->
@@ -13989,6 +13990,8 @@ authors, musicians, filmmakers, scientists&mdash;all to tell this
 story in their own words, and to tell their neighbors why this battle
 is so important.
 </para>
+<indexterm><primary>RCA</primary></indexterm>
+<indexterm startref='idxcopyrightvoluntaryreformeffortson' class='endofrange'/>
 <para>
 Once this movement has its effect in the streets, it has some hope of
 having an effect in Washington. We are still a democracy. What people
@@ -14000,6 +14003,7 @@ sketch changes that Congress could make to better secure a free culture.
 
 <section id="usnow">
 <title>Us, now</title>
+<indexterm id='idxcopyrightvoluntaryreformeffortson2' class='startofrange'><primary>copyright</primary><secondary>voluntary reform efforts on</secondary></indexterm>
 <para>
 <emphasis role='strong'>Common sense</emphasis> is with the copyright
 warriors because the debate so far has been framed at the
@@ -14444,9 +14448,10 @@ downloads increased, the used book price for his book increased, as
 well.
 </para>
 <indexterm startref='idxbooksfreeonline2' class='endofrange'/>
-<indexterm><primary>Public Enemy</primary></indexterm>
-<indexterm><primary>rap music</primary></indexterm>
 <indexterm><primary>Leaphart, Walter</primary></indexterm>
+<indexterm><primary>Public Enemy</primary></indexterm>
+<indexterm startref='idxcopyrightvoluntaryreformeffortson2' class='endofrange'/>
+<indexterm><primary>rap music</primary></indexterm>
 <para>
 These are examples of using the Commons to better spread proprietary
 content. I believe that is a wonderful and common use of the
