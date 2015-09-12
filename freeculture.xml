@@ -3703,6 +3703,7 @@ permission of a property owner. That is exactly what <quote>property</quote> mea
 </para>
 <indexterm><primary>Asia, commercial piracy in</primary></indexterm>
 <indexterm><primary>piracy</primary><secondary>in Asia</secondary></indexterm>
+<indexterm><primary>open-source software</primary><see>free software/open-source software (FS/OSS)</see></indexterm>
 <indexterm><primary>free software/open-source software (FS/OSS)</primary></indexterm>
 <indexterm><primary>GNU/Linux operating system</primary></indexterm>
 <indexterm><primary>Linux operating system</primary></indexterm>
@@ -13661,6 +13662,7 @@ its lobbying efforts.
 </para>
 <indexterm startref='idxmicrosoftonfreesoftware' class='endofrange'/>
 <indexterm><primary>Boland, Lois</primary></indexterm>
+<indexterm id='idxpatentandtrademarkofficeus' class='startofrange'><primary>Patent and Trademark Office, U.S.</primary></indexterm>
 <para>
 What was surprising was the United States government's reason for
 opposing the meeting. Again, as reported by Krim, Lois Boland, acting
@@ -13718,7 +13720,7 @@ property system. That is, on the contrary, just what a property system
 is supposed to be about: giving individuals the right to decide what
 to do with <emphasis>their</emphasis> property.
 </para>
-<indexterm id='idxboland' class='startofrange'><primary>Boland, Lois</primary></indexterm>
+<indexterm id='idxbolandlois' class='startofrange'><primary>Boland, Lois</primary></indexterm>
 <para>
 When Ms. Boland says that there is something wrong with a meeting
 <quote>which has as its purpose to disclaim or waive such rights,</quote> she's
@@ -13792,7 +13794,7 @@ mistake. I have no illusion about the extremism of our government,
 whether Republican or Democrat. My only illusion apparently is about
 whether our government should speak the truth or not.)
 </para>
-<indexterm startref='idxboland' class='endofrange'/>
+<indexterm startref='idxbolandlois' class='endofrange'/>
 <para>
 Obviously, however, the poster was not supporting that idea.  Instead,
 the poster was ridiculing the very idea that in the real world, the
@@ -13826,6 +13828,7 @@ something more than the handmaiden of the most powerful interests.
 It might be crazy to argue that we should preserve a tradition that has
 been part of our tradition for most of our history&mdash;free culture.
 </para>
+<indexterm startref='idxpatentandtrademarkofficeus' class='endofrange'/>
 <para>
 If this is crazy, then let there be more crazies. Soon.
 </para>
