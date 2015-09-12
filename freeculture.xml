@@ -3352,6 +3352,7 @@ As I described above, the law gives the composer (or copyright holder)
 an exclusive right to public performances of his work. The radio
 station thus owes the composer money for that performance.
 </para>
+<indexterm id='idxradiomusicrecordingsplayedon' class='startofrange'><primary>radio</primary><secondary>music recordings played on</secondary></indexterm>
 <para>
 But when the radio station plays a record, it is not only performing a
 copy of the <emphasis>composer's</emphasis> work. The radio station is
@@ -3393,6 +3394,7 @@ the sale of her CDs. The public performance of her recording is not a
 her anything.
 </para>
 <indexterm startref='idxartistsrecordingindustrypaymentsto' class='endofrange'/>
+<indexterm startref='idxradiomusicrecordingsplayedon' class='endofrange'/>
 <indexterm startref='idxmadonna' class='endofrange'/>
 <para>
 No doubt, one might argue that, on balance, the recording artists
@@ -8605,6 +8607,7 @@ Molly Ivins, <quote>Media Consolidation Must Be Stopped,</quote> <citetitle>Char
 31 May 2003.
 </para></footnote>
 </para>
+<indexterm id='idxradioownershipconsolidationin' class='startofrange'><primary>radio</primary><secondary>ownership consolidation in</secondary></indexterm>
 <para>
 The story with radio is even more dramatic. Before deregulation,
 the nation's largest radio broadcasting conglomerate owned fewer than
@@ -8653,6 +8656,7 @@ James Fallows, <quote>The Age of Murdoch,</quote> <citetitle>Atlantic Monthly</c
 </para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxradioownershipconsolidationin' class='endofrange'/>
 <para>
 The pattern with Murdoch is the pattern of modern media. Not
 just large companies owning many radio stations, but a few companies
@@ -10231,6 +10235,8 @@ the story of the demise of Internet radio.
 </para>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
+<indexterm><primary>Monroe, Marilyn</primary></indexterm>
+<indexterm id='idxradiomusicrecordingsplayedon2' class='startofrange'><primary>radio</primary><secondary>music recordings played on</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 204 -->
@@ -10255,6 +10261,7 @@ than with the power of radio stations: Their lobbyists were quite good
 at stopping any efforts to get Congress to require compensation to the
 recording artists.
 </para>
+<indexterm startref='idxradiomusicrecordingsplayedon2' class='endofrange'/>
 <para>
 Enter Internet radio. Like regular radio, Internet radio is a
 technology to stream content from a broadcaster to a listener. The
