@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-08 21:20+0000\n"
+"POT-Creation-Date: 2015-09-12 10:38+0200\n"
 "PO-Revision-Date: 2015-09-09 16:13+0000\n"
 "Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -909,7 +909,7 @@ msgstr ""
 "om noen gang før, hadde vært hørt fra en radio-<quote>musikk-boks.</"
 "quote><placeholder type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><chapter><indexterm><primary>
 msgid "RCA"
 msgstr "RCA"
 
@@ -2600,7 +2600,7 @@ msgstr ""
 "&ndash; en uttrykksform og genialitet som bygger på kulturen rundt oss,  og "
 "omformer den til noe annet."
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><indexterm><primary>
 msgid "copyright"
 msgstr "opphavsrett"
 
@@ -6313,6 +6313,10 @@ msgstr ""
 "hans verk.  Radiostasjonen skylder dermed komponisten penger for denne "
 "fremføringen."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "music recordings played on"
+msgstr "musikkinnspillinger spilt på"
+
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Lovett, Lyle"
 msgstr "Lovett, Lyle"
@@ -8127,10 +8131,6 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "composers, copyright protections of"
 msgstr "komponister, opphavsrettsbeskyttelser for"
-
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
-msgid "music recordings played on"
-msgstr "musikkinnspillinger spilt på"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright protections in"
@@ -16154,6 +16154,12 @@ msgstr ""
 "sendinger til 74 prosent av kabel-TV-abonnenter over hele landet.</"
 "quote><placeholder type=\"footnote\" id=\"2\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#, fuzzy
+#| msgid "ownership concentration in"
+msgid "ownership consolidation in"
+msgstr "eierskapskonsentrering i"
+
 #.  PAGE BREAK 174 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -19032,6 +19038,12 @@ msgstr ""
 "tilbakemeldingene her.<placeholder type=\"footnote\" id=\"1\"/> Men det er "
 "et eksempel som inneholder essensen av dem alle.  Dette er historien om "
 "utryddelsen av Internett-radio."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#, fuzzy
+#| msgid "Bono, Mary"
+msgid "Monroe, Marilyn"
+msgstr "Bono, Mary"
 
 #.  PAGE BREAK 204 
 #. type: Content of: <book><part><chapter><section><para>
@@ -25940,6 +25952,10 @@ msgstr ""
 msgid "Afterword"
 msgstr "Etterord"
 
+#. type: Content of: <book><chapter><section><indexterm><secondary>
+msgid "voluntary reform efforts on"
+msgstr ""
+
 #.  PAGE BREAK 280 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -26823,16 +26839,16 @@ msgstr ""
 "steg også bruktprisen på boken."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "Leaphart, Walter"
+msgstr "Leaphart, Walter"
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Public Enemy"
 msgstr "Public Enemy"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "rap music"
 msgstr "rap-musikk"
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "Leaphart, Walter"
-msgstr "Leaphart, Walter"
 
 #.  f2. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
