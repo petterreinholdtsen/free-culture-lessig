@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-13 10:34+0200\n"
+"POT-Creation-Date: 2015-09-13 14:31+0200\n"
 "PO-Revision-Date: 2015-09-09 16:13+0000\n"
 "Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -1464,7 +1464,7 @@ msgstr ""
 "teknologien for å bygge kultur. De lykkes i deres plan om å gjøre om "
 "Internett før Internett gjør om på dem."
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Valenti, Jack"
 msgstr "Valenti, Jack"
 
@@ -3451,7 +3451,7 @@ msgstr ""
 "laget uten [skrivefør] tolkning eller forutinntatthet.</quote><placeholder "
 "type=\"footnote\" id=\"0\"/>"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "democracy"
 msgstr "demokrati"
 
@@ -4264,6 +4264,18 @@ msgstr "ABC"
 msgid "CBS"
 msgstr "CBS"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Cyber Rights (Godwin)"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Godwin, Mike"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "news events on"
+msgstr "nyhetsinnslag på"
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "But in addition to this produced news about the <quote>tragedy of September "
@@ -4584,10 +4596,6 @@ msgstr "Thurmond, Strom"
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "blog pressure on"
 msgstr "blogg-press på"
-
-#. type: Content of: <book><part><chapter><indexterm><secondary>
-msgid "news events on"
-msgstr "nyhetsinnslag på"
 
 #.  f18 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -7558,31 +7566,37 @@ msgstr "kassettopptak"
 msgid "VCRs"
 msgstr "Videospillere/opptakere"
 
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "DAT (digital audio tape)"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
-"<placeholder type=\"indexterm\" id=\"0\"/> See Cap Gemini Ernst &amp; Young, "
-"<citetitle>Technology Evolution and the Music Industry's Business Model "
-"Crisis</citetitle> (2003), 3. This report describes the music industry's "
-"effort to stigmatize the budding practice of cassette taping in the 1970s, "
-"including an advertising campaign featuring a cassette-shape skull and the "
-"caption <quote>Home taping is killing music.</quote> At the time digital "
-"audio tape became a threat, the Office of Technical Assessment conducted a "
-"survey of consumer behavior. In 1988, 40 percent of consumers older than ten "
-"had taped music to a cassette format. U.S.  Congress, Office of Technology "
-"Assessment, <citetitle>Copyright and Home Copying: Technology Challenges the "
-"Law</citetitle>, OTA-CIT-422 (Washington, D.C.: U.S.  Government Printing "
-"Office, October 1989), 145&ndash;56."
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> See Cap Gemini Ernst &amp; Young, <citetitle>Technology Evolution "
+"and the Music Industry's Business Model Crisis</citetitle> (2003), 3. This "
+"report describes the music industry's effort to stigmatize the budding "
+"practice of cassette taping in the 1970s, including an advertising campaign "
+"featuring a cassette-shape skull and the caption <quote>Home taping is "
+"killing music.</quote> At the time digital audio tape became a threat, the "
+"Office of Technical Assessment conducted a survey of consumer behavior. In "
+"1988, 40 percent of consumers older than ten had taped music to a cassette "
+"format. U.S.  Congress, Office of Technology Assessment, "
+"<citetitle>Copyright and Home Copying: Technology Challenges the Law</"
+"citetitle>, OTA-CIT-422 (Washington, D.C.: U.S.  Government Printing Office, "
+"October 1989), 145&ndash;56."
 msgstr ""
-"<placeholder type=\"indexterm\" id=\"0\"/> Se Cap Gemini Ernst &amp; Young, "
-"<citetitle>Technology Evolution and the Music Industry's Business Model "
-"Crisis</citetitle> (2003), 3.  Denne rapporten beskriver musikkindustriens "
-"innsats for å stigmatisere den voksende praksis med å ta opp på kassett på "
-"1970-tallet, inkludert en reklamekampanje med en kasse-formet hodeskalle og "
-"uttrykket <quote>Home taping is killing music.</quote>  På det tidspunktet "
-"som digitale lydkassetter ble en trussel, utførte the Office of Technical "
-"Assessment en spørreundersøkelse om forbrukeroppførsel.  I 1988 hadde 40 "
-"prosent av forbrukerne eldre enn ti tatt opp musikk på et kassettformat.  U."
-"S.  Congress, Office of Technology Assessment, <citetitle>Copyright and Home "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> Se Cap Gemini Ernst &amp; Young, <citetitle>Technology Evolution "
+"and the Music Industry's Business Model Crisis</citetitle> (2003), 3.  Denne "
+"rapporten beskriver musikkindustriens innsats for å stigmatisere den "
+"voksende praksis med å ta opp på kassett på 1970-tallet, inkludert en "
+"reklamekampanje med en kasse-formet hodeskalle og uttrykket <quote>Home "
+"taping is killing music.</quote>  På det tidspunktet som digitale "
+"lydkassetter ble en trussel, utførte the Office of Technical Assessment en "
+"spørreundersøkelse om forbrukeroppførsel.  I 1988 hadde 40 prosent av "
+"forbrukerne eldre enn ti tatt opp musikk på et kassettformat.  U.S.  "
+"Congress, Office of Technology Assessment, <citetitle>Copyright and Home "
 "Copying: Technology Challenges the Law</citetitle>, OTA-CIT-422 (Washington, "
 "D.C.: U.S.  Government Printing Office, oktober 1989), 145&ndash;56."
 
@@ -8205,6 +8219,10 @@ msgstr ""
 "av loven.  De ga på samme måte kabel-TV-selskapene rett til innholdet, så "
 "lenge de betalte den lovbestemte prisen."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "two central goals of"
+msgstr ""
+
 #.  PAGE BREAK 88 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8536,30 +8554,32 @@ msgstr "Filmskapere"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
-"These are the most important instances in our history, but there are other "
-"cases as well. The technology of digital audio tape (DAT), for example, was "
-"regulated by Congress to minimize the risk of piracy. The remedy Congress "
-"imposed did burden DAT producers, by taxing tape sales and controlling the "
-"technology of DAT. See Audio Home Recording Act of 1992 (Title 17 of the "
-"<citetitle>United States Code</citetitle>), Pub. L. No. 102-563, 106 Stat.  "
-"4237, codified at 17 U.S.C. §1001. Again, however, this regulation did not "
-"eliminate the opportunity for free riding in the sense I've described. See "
-"Lessig, <citetitle>Future</citetitle>, 71. See also Picker, <quote>From "
-"Edison to the Broadcast Flag,</quote> <citetitle>University of Chicago Law "
-"Review</citetitle> 70 (2003): 293&ndash;96.  <placeholder type=\"indexterm\" "
-"id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
-msgstr ""
-"Dette er de viktigste forekomstene i vår historie, men det er også andre "
-"tilfeller.  For eksempel var teknologien til digitale lydkasetter (DAT) "
-"regulert av Kongressen for å minimere risikoen for piratkopiering.  "
-"Medisinen som Kongressen valgte, påførte en belastning for DAT-produsenter, "
-"ved å legge en skatt på kassettsalg og ved å kontrollere DAT-teknologien. Se "
-"Audio Home Recording Act fra 1992 (overskrift 17 i <citetitle>United States "
+"<placeholder type=\"indexterm\" id=\"0\"/> These are the most important "
+"instances in our history, but there are other cases as well. The technology "
+"of digital audio tape (DAT), for example, was regulated by Congress to "
+"minimize the risk of piracy. The remedy Congress imposed did burden DAT "
+"producers, by taxing tape sales and controlling the technology of DAT. See "
+"Audio Home Recording Act of 1992 (Title 17 of the <citetitle>United States "
 "Code</citetitle>), Pub. L. No. 102-563, 106 Stat.  4237, codified at 17 U.S."
-"C. §1001. Igjen eliminerte heller ikke denne regulereringen muligheten for "
-"gratispassasjerer slik jeg har beskrevet.  Se Lessig <citetitle>Future</"
-"citetitle>, 71. Se også Picker, <quote>From Edison to the Broadcast Flag,</"
+"C. §1001. Again, however, this regulation did not eliminate the opportunity "
+"for free riding in the sense I've described. See Lessig, <citetitle>Future</"
+"citetitle>, 71. See also Picker, <quote>From Edison to the Broadcast Flag,</"
 "quote> <citetitle>University of Chicago Law Review</citetitle> 70 (2003): "
+"293&ndash;96.  <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/>"
+msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> Dette er de viktigste "
+"forekomstene i vår historie, men det er også andre tilfeller.  For eksempel "
+"var teknologien til digitale lydkasetter (DAT) regulert av Kongressen for å "
+"minimere risikoen for piratkopiering.  Medisinen som Kongressen valgte, "
+"påførte en belastning for DAT-produsenter, ved å legge en skatt på "
+"kassettsalg og ved å kontrollere DAT-teknologien. Se Audio Home Recording "
+"Act fra 1992 (overskrift 17 i <citetitle>United States Code</citetitle>), "
+"Pub. L. No. 102-563, 106 Stat.  4237, codified at 17 U.S.C. §1001. Igjen "
+"eliminerte heller ikke denne regulereringen muligheten for gratispassasjerer "
+"slik jeg har beskrevet.  Se Lessig <citetitle>Future</citetitle>, 71. Se "
+"også Picker, <quote>From Edison to the Broadcast Flag,</quote> "
+"<citetitle>University of Chicago Law Review</citetitle> 70 (2003): "
 "293&ndash;96.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
 "\"indexterm\" id=\"1\"/>"
 
@@ -16510,6 +16530,10 @@ msgstr ""
 "uavhengige produksjonsselskaper som laget TV-programmer. Nå har vi mindre "
 "enn en håndfull.<placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "media concentration and"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "This narrowing has an effect on what is produced. The product of such large "
@@ -16612,6 +16636,10 @@ msgstr ""
 "I tillegg til opphavsrettskrigen, så er vi midt inne i narkotikakrigene.  "
 "Myndighetenes politikk er sterkt rettet mot narkotikakartellene.  Straffe- "
 "og sivildomstolene er fylt opp med konsekvensene av denne kampen."
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "criminal justice system"
+msgstr ""
 
 #.  PAGE BREAK 178 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17927,6 +17955,10 @@ msgstr ""
 "favorittartister i en slags fotomontasje, og gjøre den tilgjengelig på "
 "nettet."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "digital sharing within"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "This digital <quote>capturing and sharing</quote> is in part an extension of "
@@ -18011,6 +18043,10 @@ msgstr ""
 "ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "tort reform"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Bush, George W."
 msgstr "Bush, George W."
 
@@ -18024,7 +18060,8 @@ msgid ""
 "<quote>Senate Turns Back Malpractice Caps,</quote> CBSNews.com, 9 July 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #39</ulink>. "
 "President Bush has continued to urge tort reform in recent months.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 msgstr ""
 "Lovforslaget, som var modellert etter Californias erstatningsrettsreform-"
 "modell, ble vedtatt i Representantenes hus, men stoppet i Senatet i juli "
@@ -18035,7 +18072,7 @@ msgstr ""
 "9. juli 2003, tilgjengelig fra <ulink url=\"http://free-culture.cc/notes/"
 "\">link #39</ulink>. President Bush har fortsatt å argumentere for "
 "erstatningsrettsreform de siste månedene. <placeholder type=\"indexterm\" id="
-"\"0\"/>"
+"\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -20659,25 +20696,30 @@ msgstr "Bono, Mary"
 msgid "Bono, Sonny"
 msgstr "Bono, Sonny"
 
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
+msgid "perpetual copyright term proposed by"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> The full text is: <quote>Sonny [Bono] wanted the term of "
-"copyright protection to last forever. I am informed by staff that such a "
-"change would violate the Constitution. I invite all of you to work with me "
-"to strengthen our copyright laws in all of the ways available to us. As you "
-"know, there is also Jack Valenti's proposal for a term to last forever less "
-"one day. Perhaps the Committee may look at that next Congress,</quote> 144 "
-"Cong. Rec. H9946, 9951-2 (October 7, 1998)."
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> The full text is: "
+"<quote>Sonny [Bono] wanted the term of copyright protection to last forever. "
+"I am informed by staff that such a change would violate the Constitution. I "
+"invite all of you to work with me to strengthen our copyright laws in all of "
+"the ways available to us. As you know, there is also Jack Valenti's proposal "
+"for a term to last forever less one day. Perhaps the Committee may look at "
+"that next Congress,</quote> 144 Cong. Rec. H9946, 9951-2 (October 7, 1998)."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> Hele teksten er: <quote>Sonny [Bono] ønsket at vernetiden i "
-"opphavsretten skulle vare evig.  Jeg er informert av ansatte at en slik "
-"endring ville være i strid med Grunnloven.  Jeg inviterer dere alle til å "
-"jobbe sammen med meg for å styrke våre opphavsrettslover på alle måter som "
-"er tilgjengelig for oss.  Som dere vet, er det også et forslag fra Jack "
-"Valenti om en vernetid som varer evig minus en dag.  Kanskje komiteen kan se "
-"på i neste periode.</quote> 144 Kongr. Ref. H9946, 9951-2 (7. oktober 1998)."
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Hele teksten er: "
+"<quote>Sonny [Bono] ønsket at vernetiden i opphavsretten skulle vare evig.  "
+"Jeg er informert av ansatte at en slik endring ville være i strid med "
+"Grunnloven.  Jeg inviterer dere alle til å jobbe sammen med meg for å styrke "
+"våre opphavsrettslover på alle måter som er tilgjengelig for oss.  Som dere "
+"vet, er det også et forslag fra Jack Valenti om en vernetid som varer evig "
+"minus en dag.  Kanskje komiteen kan se på i neste periode.</quote> 144 "
+"Kongr. Ref. H9946, 9951-2 (7. oktober 1998)."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23772,6 +23814,14 @@ msgstr ""
 msgid "Forbes, Steve"
 msgstr "Forbes, Steve"
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Democratic Party"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Republican Party"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "The reaction to this idea was amazingly strong. Steve Forbes endorsed it in "
@@ -24186,6 +24236,10 @@ msgstr ""
 "opphavsretter. I mai 2003 så det ut som om loven kom til å bli introdusert.  "
 "16. mai postet jeg på Eldred Act-bloggen, <quote>vi er nære.</quote>  Det "
 "oppstod en generell reaksjon i blogg-samfunnet om at noe godt kunne skje her."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "Eldred Act opposed by"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -28408,6 +28462,14 @@ msgstr ""
 "skattesystem, så kan det videreføres.  Hvis denne form for beskyttelse ikke "
 "lenger er nødvendig, så kan systemet foldes inn i det gamle systemet for å "
 "kontrollere tilgang."
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "semiotic democracy"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><secondary>
+msgid "semiotic"
+msgstr ""
 
 #.  PAGE BREAK 307 
 #. type: Content of: <book><chapter><section><section><para>
