@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-12 10:38+0200\n"
+"POT-Creation-Date: 2015-09-13 08:26+0200\n"
 "PO-Revision-Date: 2015-09-09 16:13+0000\n"
 "Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -1225,6 +1225,10 @@ msgstr "Barlow, Joel"
 msgid "culture"
 msgstr "kultur"
 
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "free culture"
+msgstr "fri kultur"
+
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial vs. noncommercial"
 msgstr "kommersiell vs. ikke-kommersiell"
@@ -1329,10 +1333,6 @@ msgstr ""
 "kreativitet og kultur, og det har blitt en viktigere og viktigere del i "
 "USA.  Men det var på ingen måte dominerende i vår tradisjon.  Det var i "
 "stedet bare en del, en kontrollert del, balansert mot det frie."
-
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "free culture"
-msgstr "fri kultur"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "permission culture vs."
@@ -2095,9 +2095,13 @@ msgstr ""
 msgid "on republishing vs. transformation of original work"
 msgstr "på gjenpublisering vs. endring av opprinnelig verk"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><para><indexterm><seealso>
 msgid "creativity"
 msgstr "kreativitet"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "innovation"
+msgstr "innovasjon"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "legal restrictions on"
@@ -5075,6 +5079,10 @@ msgstr ""
 "spre denne kreativiteten over alt.  Men vi bygger loven for å stenge ned "
 "denne teknologien."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Kahle, Brewster"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "<quote>No way to run a culture,</quote> as Brewster Kahle, whom we'll meet "
@@ -5643,6 +5651,22 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><title>
 msgid "Film"
 msgstr "Film"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Hollywood film industry"
+msgstr ""
+
+#. type: Content of: <book><chapter><section><section><indexterm><primary>
+msgid "film industry"
+msgstr "filmindustri"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "patents"
+msgstr "patenter"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "on film technology"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -6989,6 +7013,10 @@ msgstr ""
 msgid "in Asia"
 msgstr "i Asia"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "open-source software"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
 msgstr "fri programvare/åpen kildekode-programvare (FS/OSS)"
@@ -7210,10 +7238,6 @@ msgstr ""
 msgid "Fanning, Shawn"
 msgstr "Fanning, Shawn"
 
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "innovation"
-msgstr "innovasjon"
-
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Christensen, Clayton M."
 msgstr "Christensen, Clayton M."
@@ -7245,15 +7269,17 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Peer-to-peer sharing "
-"was made famous by Napster. But the inventors of the Napster technology had "
-"not made any major technological innovations.  Like every great advance in "
-"innovation on the Internet (and, arguably, off the Internet as "
-"well<placeholder type=\"footnote\" id=\"3\"/>), Shawn Fanning and crew had "
-"simply put together components that had been developed independently."
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
+"\"indexterm\" id=\"3\"/> Peer-to-peer sharing was made famous by Napster. "
+"But the inventors of the Napster technology had not made any major "
+"technological innovations.  Like every great advance in innovation on the "
+"Internet (and, arguably, off the Internet as well<placeholder type=\"footnote"
+"\" id=\"4\"/>), Shawn Fanning and crew had simply put together components "
+"that had been developed independently."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Peer-to-peer-deling "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
+"\"indexterm\" id=\"3\"/> Peer-to-peer-deling "
 "ble gjort berømt av Napster.  Men oppfinnerne av Napster-teknologien hadde "
 "ikke gjort noen store teknologiske nyskapninger.  Som ethvert stort steg i "
 "nyskapningen på Internett (og, kan det argumenteres for, utenfor "
@@ -7848,6 +7874,10 @@ msgstr "bøker"
 msgid "resales of"
 msgstr "bruktsalg av"
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "used record sales"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> While there are not good "
@@ -8210,6 +8240,14 @@ msgstr ""
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Betamax"
 msgstr "Betamax"
+
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "Sony"
+msgstr "Sony"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "Betamax technology developed by"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -11151,14 +11189,15 @@ msgstr "pressemeldinger fra Det hvite hus"
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> The temptations remain, however. Brewster Kahle reports that the "
-"White House changes its own press releases without notice. A May 13, 2003, "
-"press release stated, <quote>Combat Operations in Iraq Have Ended.</quote> "
-"That was later changed, without notice, to <quote>Major Combat Operations in "
-"Iraq Have Ended.</quote> E-mail from Brewster Kahle, 1 December 2003."
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> The temptations "
+"remain, however. Brewster Kahle reports that the White House changes its own "
+"press releases without notice. A May 13, 2003, press release stated, "
+"<quote>Combat Operations in Iraq Have Ended.</quote> That was later changed, "
+"without notice, to <quote>Major Combat Operations in Iraq Have Ended.</"
+"quote> E-mail from Brewster Kahle, 1 December 2003."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/> Fristelsene er dog der fortsatt. Brewster Kahle forteller at Det "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> Fristelsene er dog der fortsatt. Brewster Kahle forteller at Det "
 "hvite hus endrer sine egne pressemeldinger uten varsel.  En pressemelding "
 "fra 13. mai 2003 inneholdt <quote>Kampoperasjoner i Irak er over.</quote>  "
 "Det ble senere endret, uten varsel, til <quote>Større kampoperasjoner i Irak "
@@ -11773,6 +11812,10 @@ msgstr "Johnson, Lyndon"
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Kennedy, John F."
 msgstr "Kennedy, John F."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "background of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -13553,6 +13596,10 @@ msgstr ""
 "utvidet Kongressen fornyingsvernetiden fra 14 til 28 år, og vedtok dermed en "
 "maksimal vernetid på 56 år."
 
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
+msgid "CTEA"
+msgstr ""
+
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 msgstr "Sonny Bono utvidelse av opphavsrettsvernetid-loven (CTEA) (1998)"
@@ -13581,10 +13628,6 @@ msgstr ""
 "opphavsretter med nitten år.  Og i 1998 ble <quote>Sonny Bonos utvidelse av "
 "opphavsrettsvernetidsloven</quote> vedtatt som utvidet vernetiden for "
 "eksisterende og fremtidige opphavsretter med tyve år."
-
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "patents"
-msgstr "patenter"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in public domain"
@@ -14546,10 +14589,6 @@ msgstr ""
 msgid "Video Pipeline"
 msgstr "Video Pipeline"
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
-msgid "film industry"
-msgstr "filmindustri"
-
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "trailer advertisements of"
 msgstr "filmtrailer-reklamene til"
@@ -15269,10 +15308,6 @@ msgstr "Aibo robothund"
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "robotic dog"
 msgstr "robothund"
-
-#. type: Content of: <book><part><chapter><section><indexterm><primary>
-msgid "Sony"
-msgstr "Sony"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Aibo robotic dog produced by"
@@ -16155,10 +16190,8 @@ msgstr ""
 "quote><placeholder type=\"footnote\" id=\"2\"/>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
-#, fuzzy
-#| msgid "ownership concentration in"
 msgid "ownership consolidation in"
-msgstr "eierskapskonsentrering i"
+msgstr ""
 
 #.  PAGE BREAK 174 
 #. type: Content of: <book><part><chapter><section><para>
@@ -19040,10 +19073,8 @@ msgstr ""
 "utryddelsen av Internett-radio."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
-#, fuzzy
-#| msgid "Bono, Mary"
 msgid "Monroe, Marilyn"
-msgstr "Bono, Mary"
+msgstr ""
 
 #.  PAGE BREAK 204 
 #. type: Content of: <book><part><chapter><section><para>
@@ -22119,6 +22150,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steward, Geoffrey"
 msgstr "Steward, Geoffrey"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Jones, Day, Reavis and Pogue (Jones Day)"
+msgstr ""
 
 #.  PAGE BREAK 237 
 #. type: Content of: <book><part><chapter><para>
@@ -25371,6 +25406,10 @@ msgstr ""
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Boland, Lois"
 msgstr "Boland, Lois"
+
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Patent and Trademark Office, U.S."
+msgstr ""
 
 #. type: Content of: <book><chapter><para>
 msgid ""
