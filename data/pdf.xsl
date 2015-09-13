@@ -48,7 +48,7 @@
 <xsl:param name="title.font.family">Crimson Text</xsl:param>
 <xsl:param name="slide.font.family">Crimson Text</xsl:param>
 <xsl:param name="slide.title.font.family">Crimson Text</xsl:param>
-<xsl:param name="monospace.font.family">Nimbus Mono L</xsl:param>
+<xsl:param name="monospace.font.family">Latin Modern Mono</xsl:param>
 
 <xsl:template match="colophon">
   <xsl:text>\begin{colophon}&#10;</xsl:text>
