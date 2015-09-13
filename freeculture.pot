@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-13 14:25+0200\n"
+"POT-Creation-Date: 2015-09-13 14:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13690,7 +13690,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
-#: freeculture.xml:9716
+#: freeculture.xml:9726
 msgid "tort reform"
 msgstr ""
 
@@ -13700,17 +13700,17 @@ msgid "Bush, George W."
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
-#: freeculture.xml:9716
+#: freeculture.xml:9717
 msgid ""
-"<placeholder type=\"indexterm\" id=\"0\"/> The bill, modeled after "
-"California's tort reform model, was passed in the House of Representatives "
-"but defeated in a Senate vote in July 2003. For an overview, see Tanya "
-"Albert, <quote>Measure Stalls in Senate: `We'll Be Back,' Say Tort "
-"Reformers,</quote> amednews.com, 28 July 2003, available at <ulink "
-"url=\"http://free-culture.cc/notes/\">link #38</ulink>, and <quote>Senate "
-"Turns Back Malpractice Caps,</quote> CBSNews.com, 9 July 2003, available at "
-"<ulink url=\"http://free-culture.cc/notes/\">link #39</ulink>. President "
-"Bush has continued to urge tort reform in recent months.  <placeholder "
+"The bill, modeled after California's tort reform model, was passed in the "
+"House of Representatives but defeated in a Senate vote in July 2003. For an "
+"overview, see Tanya Albert, <quote>Measure Stalls in Senate: `We'll Be "
+"Back,' Say Tort Reformers,</quote> amednews.com, 28 July 2003, available at "
+"<ulink url=\"http://free-culture.cc/notes/\">link #38</ulink>, and "
+"<quote>Senate Turns Back Malpractice Caps,</quote> CBSNews.com, 9 July 2003, "
+"available at <ulink url=\"http://free-culture.cc/notes/\">link "
+"#39</ulink>. President Bush has continued to urge tort reform in recent "
+"months.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 
