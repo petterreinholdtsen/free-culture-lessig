@@ -99,7 +99,9 @@ Todo
  * Figure out translation of the words/phrases marked with a star (*)
  * Complete the spell checking of the content (using the txt version
    is easiest).
- * Complete the proof reading.
  * Publish first edition.
  * (Add missing index entries.  Nice to have, not vital.  See
    scripts/idxcompare for helper script.)
+ * (Figure out how to get xindy to include allso <see> and <seealso>
+   <indexterm> entries, not included due to incompatibility with
+   hyperref.)
