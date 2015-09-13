@@ -7023,7 +7023,7 @@ msgstr "i Asia"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "open-source software"
-msgstr ""
+msgstr "åpen kildekode-programvare"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
@@ -11856,10 +11856,6 @@ msgstr ""
 "mest synlige og effektive lobbyisten i Washington."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
-msgid "Sony Pictures Entertainment"
-msgstr "Sony Pictures Entertainment"
-
-#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "MGM"
 msgstr "MGM"
 
@@ -11870,6 +11866,10 @@ msgstr "Paramount Pictures"
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Twentieth Century Fox"
 msgstr "Twentieth Century Fox"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Sony Pictures Entertainment"
+msgstr "Sony Pictures Entertainment"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Universal Pictures"
@@ -19114,7 +19114,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Monroe, Marilyn"
-msgstr ""
+msgstr "Monroe, Marilyn"
 
 #.  PAGE BREAK 204 
 #. type: Content of: <book><part><chapter><section><para>
@@ -25466,7 +25466,7 @@ msgstr "Boland, Lois"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Patent and Trademark Office, U.S."
-msgstr ""
+msgstr "USAs patent og varemerkekontor (Patent and Trademark Office)"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
