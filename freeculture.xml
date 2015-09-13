@@ -3157,6 +3157,8 @@ then, I could effectively pirate someone else's song without paying
 its composer anything.
 </para>
 <indexterm startref='idxfourneauxhenri' class='endofrange'/>
+<indexterm id='idxkittredgealfred' class='startofrange'><primary>Kittredge, Alfred</primary></indexterm>
+<indexterm id='idxmusicpublishing' class='startofrange'><primary>music publishing</primary></indexterm>
 <para>
 The composers (and publishers) were none too happy about
 <!-- PAGE BREAK 69 -->
@@ -3183,6 +3185,7 @@ Hackensack, N.J.: Rothman Reprints, 1976).
 </para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxkittredgealfred' class='endofrange'/>
 <indexterm><primary>Sousa, John Philip</primary></indexterm>
 <para>
 The innovators who developed the technology to record other
@@ -3206,6 +3209,7 @@ To Amend and Consolidate the Acts Respecting Copyright, 23
 (statement of John Philip Sousa, composer).
 </para></footnote>
 </para>
+<indexterm startref='idxmusicpublishing' class='endofrange'/>
 <indexterm><primary>American Graphophone Company</primary></indexterm>
 <indexterm><primary>player pianos</primary></indexterm>
 <indexterm><primary>sheet music</primary></indexterm>
@@ -3898,6 +3902,8 @@ carefully than the polarized voices around this debate usually
 do&mdash;the kinds of sharing that file sharing enables, and the kinds
 of harm it entails.
 </para>
+<indexterm id='idxpeertopeerppfilesharingfourtypesof' class='startofrange'><primary>peer-to-peer (p2p) file sharing</primary><secondary>four types of</secondary></indexterm>
+<indexterm><primary>Napster</primary><secondary>range of content on</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 81 -->
 File sharers share different kinds of content. We can divide these
@@ -3951,6 +3957,7 @@ to content that is not copyrighted or that the copyright owner
 wants to give away.
 </para></listitem>
 </orderedlist>
+<indexterm startref='idxpeertopeerppfilesharingfourtypesof' class='endofrange'/>
 <para>
 How do these different types of sharing balance out?
 </para>
@@ -4250,6 +4257,9 @@ found only with time.
 <quote>But isn't the war just a war against illegal sharing? Isn't the target
 just what you call type A sharing?</quote>
 </para>
+<indexterm id='idxcopyrightinfringementlawsuitszerotolerancein' class='startofrange'><primary>copyright infringement lawsuits</primary><secondary>zero tolerance in</secondary></indexterm>
+<indexterm id='idxnapsterinfringingmaterialblockedby' class='startofrange'><primary>Napster</primary><secondary>infringing material blocked by</secondary></indexterm>
+<indexterm id='idxpeertopeerppfilesharinginfringementprotectionsin' class='startofrange'><primary>peer-to-peer (p2p) file sharing</primary><secondary>infringement protections in</secondary></indexterm>
 <para>
 You would think. And we should hope. But so far, it is not. The effect
 of the war purportedly on type A sharing alone has been felt far
@@ -4273,6 +4283,8 @@ account of the litigation and its toll on Napster, see Joseph Menn,
 York: Crown Business, 2003), 269&ndash;82.
 </para></footnote>
 </para>
+<indexterm startref='idxnapsterinfringingmaterialblockedby' class='endofrange'/>
+<indexterm startref='idxpeertopeerppfilesharinginfringementprotectionsin' class='endofrange'/>
 <para>
 If 99.4 percent is not good enough, then this is a war on file-sharing
 technologies, not a war on copyright infringement. There is no way to
@@ -4284,6 +4296,7 @@ The court's ruling means that we as a society must lose the benefits of
 p2p, even for the totally legal and beneficial uses they serve, simply to
 assure that there are zero copyright infringements caused by p2p.
 </para>
+<indexterm startref='idxcopyrightinfringementlawsuitszerotolerancein' class='endofrange'/>
 <para>
 Zero tolerance has not been our history. It has not produced the
 content industry that we know today. The history of American law has
@@ -6234,6 +6247,10 @@ Kahle describes,
 </para>
 <blockquote>
 <indexterm><primary>books</primary><secondary>total number of</secondary></indexterm>
+<indexterm><primary>films</primary><secondary>total number of</secondary></indexterm>
+<indexterm><primary>music recordings</primary><see>peer-to-peer (p2p) file sharing</see></indexterm>
+<indexterm><primary>music recordings</primary><see>recording industry</see></indexterm>
+<indexterm><primary>music recordings</primary><secondary>total number of</secondary></indexterm>
 <para>
 It looks like there's about two to three million recordings of music.
 Ever. There are about a hundred thousand theatrical releases of
@@ -6292,10 +6309,10 @@ running the MPAA, Valenti has established himself as perhaps the most
 prominent and effective lobbyist in Washington.
 </para>
 <indexterm><primary>Disney, Inc.</primary></indexterm>
-<indexterm><primary>Sony Pictures Entertainment</primary></indexterm>
 <indexterm><primary>MGM</primary></indexterm>
 <indexterm><primary>Paramount Pictures</primary></indexterm>
 <indexterm><primary>Twentieth Century Fox</primary></indexterm>
+<indexterm><primary>Sony Pictures Entertainment</primary></indexterm>
 <indexterm><primary>Universal Pictures</primary></indexterm>
 <indexterm><primary>Warner Brothers</primary></indexterm>
 <para>
@@ -8654,6 +8671,7 @@ market's revenues. Overall, just four companies control 90 percent of
 the nation's radio advertising revenues.
 </para>
 <indexterm><primary>cable television</primary></indexterm>
+<indexterm id='idxnewspapersownershipconsolidationof' class='startofrange'><primary>newspapers</primary><secondary>ownership consolidation of</secondary></indexterm>
 <para>
 Newspaper ownership is becoming more concentrated as well.  Today,
 there are six hundred fewer daily newspapers in the United States than
@@ -8690,6 +8708,7 @@ James Fallows, <quote>The Age of Murdoch,</quote> <citetitle>Atlantic Monthly</c
 </para></footnote>
 </para>
 </blockquote>
+<indexterm startref='idxnewspapersownershipconsolidationof' class='endofrange'/>
 <indexterm startref='idxradioownershipconsolidationin' class='endofrange'/>
 <para>
 The pattern with Murdoch is the pattern of modern media. Not
@@ -10923,6 +10942,7 @@ Brianna a Criminal?</quote> <citetitle>Toronto Star</citetitle>, 18 September 20
 </para></footnote>
 
 </para>
+<indexterm id='idxnapsterrecordingindustrytrackingusersof' class='startofrange'><primary>Napster</primary><secondary>recording industry tracking users of</secondary></indexterm>
 <para>
 Even this understates the espionage that is being waged by the
 RIAA. A report from CNN late last summer described a strategy the
@@ -10983,6 +11003,7 @@ have already learned, our presumptions about innocence disappear in
 the middle of wars of prohibition. This war is no different.
 Says von Lohmann,
 </para>
+<indexterm startref='idxnapsterrecordingindustrytrackingusersof' class='endofrange'/>
 <blockquote>
 <para>
 So when we're talking about numbers like forty to sixty million
@@ -14686,6 +14707,9 @@ doesn't follow that the government must actually administer the
 role. Instead, we should be creating incentives for private parties to
 serve the public, subject to standards that the government sets.
 </para>
+<indexterm><primary>domain names</primary></indexterm>
+<indexterm><primary>Internet</primary><secondary>domain name registration on</secondary></indexterm>
+<indexterm><primary>Web sites, domain name registration of</primary></indexterm>
 <para>
 In the context of registration, one obvious model is the Internet.
 There are at least 32 million Web sites registered around the world.
