@@ -759,6 +759,7 @@ has introduced.
 </para>
 <indexterm startref='idxinternetdevelopmentof' class='endofrange'/>
 <indexterm><primary>Barlow, Joel</primary></indexterm>
+<indexterm><primary>culture</primary><seealso>free culture</seealso></indexterm>
 <indexterm id='idxculturecommercialvsnoncommercial' class='startofrange'><primary>culture</primary><secondary>commercial vs. noncommercial</secondary></indexterm>
 <indexterm><primary>Webster, Noah</primary></indexterm>
 <para>
@@ -1144,6 +1145,7 @@ piracy.
 <indexterm><primary>ASCAP</primary></indexterm>
 <indexterm><primary>Dreyfuss, Rochelle</primary></indexterm>
 <indexterm><primary>Girl Scouts</primary></indexterm>
+<indexterm><primary>creative property</primary><seealso>intellectual property rights</seealso></indexterm>
 <indexterm id='idxcreativepropertyifvaluethenrighttheoryof' class='startofrange'><primary>creative property</primary><secondary><quote>if value, then right</quote> theory of</secondary></indexterm>
 <indexterm id='idxifvaluethenrighttheory' class='startofrange'><primary><quote>if value, then right</quote> theory</primary></indexterm>
 <para>
@@ -1180,6 +1182,7 @@ creative property.  It has never taken hold within our law.
 </para>
 <indexterm startref='idxifvaluethenrighttheory' class='endofrange'/>
 <indexterm id='idxcopyrightlawonrepublishingvstransformationoforiginalwork' class='startofrange'><primary>copyright law</primary><secondary>on republishing vs. transformation of original work</secondary></indexterm>
+<indexterm><primary>creativity</primary><seealso>innovation</seealso></indexterm>
 <indexterm id='idxcreativitylegalrestrictionson' class='startofrange'><primary>creativity</primary><secondary>legal restrictions on</secondary></indexterm>
 <para>
 Instead, in our tradition, intellectual property is an instrument. It
@@ -1428,6 +1431,7 @@ culture around us and makes it something different.
 <indexterm startref='idxderivativeworkspiracyvs' class='endofrange'/>
 <indexterm startref='idxpiracyderivativeworkvs' class='endofrange'/>
 <indexterm startref='idxcreativitybytransformingpreviousworks' class='endofrange'/>
+<indexterm><primary>copyright</primary><seealso>copyright law</seealso></indexterm>
 <indexterm id='idxcopyrightdurationof' class='startofrange'><primary>copyright</primary><secondary>duration of</secondary></indexterm>
 <indexterm id='idxpublicdomaindefined' class='startofrange'><primary>public domain</primary><secondary>defined</secondary></indexterm>
 <indexterm id='idxpublicdomaintraditionaltermforconversionto' class='startofrange'><primary>public domain</primary><secondary>traditional term for conversion to</secondary></indexterm>
@@ -2727,13 +2731,14 @@ natural tendencies of today's digital kids. &hellip; We're building an
 architecture that unleashes 60 percent of the brain [and] a legal
 system that closes down that part of the brain.</quote>
 </para>
-<indexterm startref='idxbrownjohnseely' class='endofrange'/>
 <para>
 We're building a technology that takes the magic of Kodak, mixes
 moving images and sound, and adds a space for commentary and an
 opportunity to spread that creativity everywhere. But we're building
 the law to close down that technology.
 </para>
+<indexterm><primary>Kahle, Brewster</primary></indexterm>
+<indexterm startref='idxbrownjohnseely' class='endofrange'/>
 <para>
 <quote>No way to run a culture,</quote> as Brewster Kahle, whom we'll meet in
 chapter <xref xrefstyle="select: labelnumber" linkend="collectors"/>,
@@ -3016,6 +3021,9 @@ now.
 </para>
 <section id="film">
 <title>Film</title>
+<indexterm><primary>Hollywood film industry</primary><seealso>film industry</seealso></indexterm>
+<indexterm id='idxhollywoodfilmindustry' class='startofrange'><primary>Hollywood film industry</primary></indexterm>
+<indexterm id='idxpatentsonfilmtechnology' class='startofrange'><primary>patents</primary><secondary>on film technology</secondary></indexterm>
 <para>
 The film industry of Hollywood was built by fleeing pirates.<footnote><para>
 <!-- f1 -->
@@ -3093,6 +3101,7 @@ filmmakers there could pirate his inventions without fear of the
 law. And the leaders of Hollywood filmmaking, Fox most prominently,
 did just that.
 </para>
+<indexterm startref='idxhollywoodfilmindustry' class='endofrange'/>
 <para>
 Of course, California grew quickly, and the effective enforcement
 of federal law eventually spread west. But because patents grant the
@@ -3103,6 +3112,7 @@ time), by the time enough federal marshals appeared, the patents had
 expired. A new industry had been born, in part from the piracy of
 Edison's creative property.
 </para>
+<indexterm startref='idxpatentsonfilmtechnology' class='endofrange'/>
 </section>
 <section id="recordedmusic">
 <title>Recorded Music</title>
@@ -3804,6 +3814,7 @@ author of his profit.
 </para>
 <para>
 <indexterm><primary>Fanning, Shawn</primary></indexterm>
+<indexterm><primary>innovation</primary><seealso>creativity</seealso></indexterm>
 <indexterm><primary>innovation</primary></indexterm>
 <indexterm id='idxnapster' class='startofrange'><primary>Napster</primary></indexterm>
 Peer-to-peer sharing was made famous by Napster. But the inventors of
@@ -4128,6 +4139,7 @@ publisher or the distributor has decided it no longer makes economic
 sense <emphasis>to the company</emphasis> to make it available.
 </para>
 <indexterm><primary>books</primary><secondary>resales of</secondary></indexterm>
+<indexterm><primary>used record sales</primary></indexterm>
 <para>
 In real space&mdash;long before the Internet&mdash;the market had a simple
 <!-- PAGE BREAK 85 -->
@@ -4333,6 +4345,7 @@ Congress chose a path that would assure
 <indexterm startref='idxcabletv2' class='endofrange'/>
 <indexterm id='idxbetamax' class='startofrange'><primary>Betamax</primary></indexterm>
 <indexterm id='idxcassettevcrs1' class='startofrange'><primary>cassette recording</primary><secondary>VCRs</secondary></indexterm>
+<indexterm id='idxsonybetamaxtechnologydevelopedby' class='startofrange'><primary>Sony</primary><secondary>Betamax technology developed by</secondary></indexterm>
 <para>
 In the same year that Congress struck this balance, two major
 producers and distributors of film content filed a lawsuit against
@@ -4405,6 +4418,7 @@ of Jack Valenti).
 </para></footnote>
 </para>
 <indexterm startref='idxbetamax' class='endofrange'/>
+<indexterm startref='idxsonybetamaxtechnologydevelopedby' class='endofrange'/>
 <para>
 It took eight years for this case to be resolved by the Supreme
 Court. In the interim, the Ninth Circuit Court of Appeals, which
@@ -5941,6 +5955,7 @@ perhaps, you also have the power to find what you don't remember and
 what others might prefer you forget.<footnote><para>
 <!-- f1 -->
 <indexterm><primary>Iraq war</primary></indexterm>
+<indexterm><primary>Kahle, Brewster</primary></indexterm>
 <indexterm><primary>White House press releases</primary></indexterm>
 The temptations remain, however. Brewster Kahle reports that the White
 House changes its own press releases without notice. A May 13, 2003,
@@ -5981,6 +5996,7 @@ think that we have scads of archives of newspapers from tiny towns
 around the world, yet there is but one copy of the Internet&mdash;the
 one kept by the Internet Archive.
 </para>
+<indexterm id='idxkahlebrewster' class='startofrange'><primary>Kahle, Brewster</primary></indexterm>
 <para>
 Brewster Kahle is the founder of the Internet Archive. He was a very
 successful Internet entrepreneur after he was a successful computer
@@ -6248,12 +6264,14 @@ someone's <quote>property.</quote> And the law of property restricts the freedom
 that Kahle and others would exercise.
 </para>
 <indexterm startref='idxarchivesdigital1' class='endofrange'/>
+<indexterm startref='idxkahlebrewster' class='endofrange'/>
 <!-- PAGE BREAK 127 -->
 </chapter>
 <chapter label="10" id="property-i">
 <title>Chapter Ten: <quote>Property</quote></title>
 <indexterm><primary>Johnson, Lyndon</primary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
+<indexterm><primary>Valenti, Jack</primary><secondary>background of</secondary></indexterm>
 <para>
 <emphasis role='strong'>Jack Valenti</emphasis> has been the president
 of the Motion Picture Association of America since 1966. He first came
@@ -6283,6 +6301,7 @@ in the United States: Walt Disney, Sony Pictures Entertainment, MGM,
 Paramount Pictures, Twentieth Century Fox, Universal Studios, and
 Warner Brothers.
 </para>
+<indexterm id='idxvalentijackbackgroundof' class='startofrange'><primary>Valenti, Jack</primary><secondary>background of</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 128 -->
 Valenti is only the third president of the MPAA. No president before
@@ -6352,6 +6371,7 @@ have <emphasis>no</emphasis> reasonable connection to our actual legal
 tradition, even if the subtle pull of his Texan charm has slowly
 redefined that tradition, at least in Washington.
 </para>
+<indexterm startref='idxvalentijackbackgroundof' class='endofrange'/>
 <para>
 While <quote>creative property</quote> is certainly <quote>property</quote> in a nerdy and
 precise sense that lawyers are trained to understand,<footnote><para>
@@ -7200,6 +7220,7 @@ from 14 years to 28 years. In the next fifty years of the Republic,
 the term increased once again. In 1909, Congress extended the renewal
 term of 14 years to 28 years, setting a maximum term of 56 years.
 </para>
+<indexterm><primary>CTEA</primary><seealso>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</seealso></indexterm>
 <indexterm id='idxsonnybonocopyrighttermextensionactctea' class='startofrange'><primary>Sonny Bono Copyright Term Extension Act (CTEA) (1998)</primary></indexterm>
 <indexterm id='idxpublicdomainfuturepatentsvsfuturecopyrightsin' class='startofrange'><primary>public domain</primary><secondary>future patents vs. future copyrights in</secondary></indexterm>
 <para>
@@ -11547,6 +11568,7 @@ of Petitioners, <citetitle>Eldred</citetitle> v. <citetitle>Ashcroft</citetitle>
 </para></footnote>
 
 </para>
+<indexterm><primary>Kahle, Brewster</primary></indexterm>
 <para>
 Think practically about the consequence of this 
 		extension&mdash;practically,
@@ -11804,6 +11826,7 @@ would not have interfered with anything.
 <para>
 But this situation has now changed.
 </para>
+<indexterm id='idxkahlebrewster2' class='startofrange'><primary>Kahle, Brewster</primary></indexterm>
 <indexterm id='idxarchivesdigital2' class='startofrange'><primary>archives, digital</primary></indexterm>
 <para>
 One crucially important consequence of the emergence of digital
@@ -11845,6 +11868,7 @@ Brewster Kahle, then they will lower the costs for Random House, too.
 So won't Random House do as well as Brewster Kahle in spreading
 culture widely?</quote>
 </para>
+<indexterm startref='idxkahlebrewster2' class='endofrange'/>
 <para>
 Maybe. Someday. But there is absolutely no evidence to suggest that
 publishers would be as complete as libraries. If Barnes &amp; Noble
@@ -11950,6 +11974,7 @@ retell this story to myself, I can never escape believing that my own
 mistake lost it.
 </para>
 <indexterm><primary>Steward, Geoffrey</primary></indexterm>
+<indexterm id='idxjonesdayreavisandpoguejonesday' class='startofrange'><primary>Jones, Day, Reavis and Pogue (Jones Day)</primary></indexterm>
 <para>
 <emphasis role='strong'>The mistake</emphasis> was made early, though
 it became obvious only at the very end. Our case had been supported
@@ -11974,6 +11999,7 @@ Court. It had to seem as if dramatic harm were being done to free
 speech and free culture; otherwise, they would never vote against <quote>the
 most powerful media companies in the world.</quote>
 </para>
+<indexterm startref='idxjonesdayreavisandpoguejonesday' class='endofrange'/>
 <para>
 I hate this view of the law. Of course I thought the Sonny Bono Act
 was a dramatic harm to free speech and free culture. Of course I still
@@ -12099,6 +12125,7 @@ to describe special-interest legislation gone wild.
 <indexterm><primary>Morrison, Alan</primary></indexterm>
 <indexterm><primary>Public Citizen</primary></indexterm>
 <indexterm><primary>Reagan, Ronald</primary></indexterm>
+<indexterm><primary>Jones, Day, Reavis and Pogue (Jones Day)</primary></indexterm>
 <para>
 The same effort at balance was reflected in the legal team we gathered
 to write our briefs in the case. The Jones Day lawyers had been with
@@ -12327,6 +12354,7 @@ this central idea.
 <indexterm><primary>Ayer, Don</primary></indexterm>
 <indexterm><primary>Reagan, Ronald</primary></indexterm>
 <indexterm><primary>Fried, Charles</primary></indexterm>
+<indexterm><primary>Jones, Day, Reavis and Pogue (Jones Day)</primary></indexterm>
 <para>
 One moot was before the lawyers at Jones Day. Don Ayer was the
 skeptic. He had served in the Reagan Justice Department with Solicitor
