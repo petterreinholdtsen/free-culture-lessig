@@ -3988,6 +3988,7 @@ cassette recording is a good example. As a study by Cap Gemini Ernst
 technology, the labels fought it.</quote><footnote><para>
 <!-- f10 -->
 <indexterm><primary>cassette recording</primary></indexterm>
+<indexterm><primary>DAT (digital audio tape)</primary></indexterm>
 See Cap Gemini Ernst &amp; Young, <citetitle>Technology Evolution and the
 Music Industry's Business Model Crisis</citetitle> (2003), 3. This report
 describes the music industry's effort to stigmatize the budding
@@ -4382,6 +4383,7 @@ for the architecture it chose.
 </para>
 <indexterm id='idxcongressusoncopyrightlaws3' class='startofrange'><primary>Congress, U.S.</primary><secondary>on copyright laws</secondary></indexterm>
 <indexterm><primary>Congress, U.S.</primary><secondary>on VCR technology</secondary></indexterm>
+<indexterm id='idxvalentijackonvcrtechnology' class='startofrange'><primary>Valenti, Jack</primary><secondary>on VCR technology</secondary></indexterm>
 <para>
 MPAA president Jack Valenti became the studios' most vocal
 champion. Valenti called VCRs <quote>tapeworms.</quote> He warned, <quote>When there are
@@ -4442,6 +4444,7 @@ technology.<footnote><para>
 </para></footnote>
 <indexterm><primary>Kozinski, Alex</primary></indexterm>
 </para>
+<indexterm startref='idxvalentijackonvcrtechnology' class='endofrange'/>
 <para>
 But the Supreme Court reversed the decision of the Ninth Circuit.
 
@@ -4517,6 +4520,7 @@ together, a pattern is clear:
 <para>
 In each case throughout our history, a new technology changed the
 way content was distributed.<footnote><para>
+<indexterm><primary>DAT (digital audio tape)</primary></indexterm>
 <!-- f24 -->
 These are the most important instances in our history, but there are other
 cases as well. The technology of digital audio tape (DAT), for example,
@@ -6276,7 +6280,7 @@ that Kahle and others would exercise.
 <title>Chapter Ten: <quote>Property</quote></title>
 <indexterm><primary>Johnson, Lyndon</primary></indexterm>
 <indexterm><primary>Kennedy, John F.</primary></indexterm>
-<indexterm><primary>Valenti, Jack</primary><secondary>background of</secondary></indexterm>
+<indexterm id='idxvalentijackbackgroundof' class='startofrange'><primary>Valenti, Jack</primary><secondary>background of</secondary></indexterm>
 <para>
 <emphasis role='strong'>Jack Valenti</emphasis> has been the president
 of the Motion Picture Association of America since 1966. He first came
@@ -6306,7 +6310,6 @@ in the United States: Walt Disney, Sony Pictures Entertainment, MGM,
 Paramount Pictures, Twentieth Century Fox, Universal Studios, and
 Warner Brothers.
 </para>
-<indexterm id='idxvalentijackbackgroundof' class='startofrange'><primary>Valenti, Jack</primary><secondary>background of</secondary></indexterm>
 <para>
 <!-- PAGE BREAK 128 -->
 Valenti is only the third president of the MPAA. No president before
@@ -8810,6 +8813,7 @@ Moyers, 25 April 2003, edited transcript available at
 </para></footnote>
 </para>
 </blockquote>
+<indexterm><primary>democracy</primary><secondary>media concentration and</secondary></indexterm>
 <para>
 This narrowing has an effect on what is produced. The product of such
 large and concentrated networks is increasingly homogenous.
@@ -9644,6 +9648,8 @@ statement. You could write a poem to express your love, or you could
 weave together a string&mdash;a mash-up&mdash; of songs from your
 favorite artists in a collage and make it available on the Net.
 </para>
+<indexterm><primary>democracy</primary><secondary>digital sharing within</secondary></indexterm>
+<indexterm><primary>Kodak cameras</primary></indexterm>
 <para>
 This digital <quote>capturing and sharing</quote> is in part an extension of the
 capturing and sharing that has always been integral to our culture,
@@ -9707,7 +9713,9 @@ negligently removes the wrong leg in an operation would be liable for
 no more than $250,000 in damages for pain and
 suffering.<footnote>
 <para>
-<!-- f2. --> The bill, modeled after California's tort reform model, was passed in the
+<indexterm><primary>tort reform</primary></indexterm>
+<!-- f2. -->
+The bill, modeled after California's tort reform model, was passed in the
 House of Representatives but defeated in a Senate vote in July 2003. For
 an overview, see Tanya Albert, <quote>Measure Stalls in Senate: `We'll Be Back,'
 Say Tort Reformers,</quote> amednews.com, 28 July 2003, available at 
@@ -11184,6 +11192,7 @@ Sonny Bono, who, his widow, Mary Bono, says, believed that
 <!-- f2. -->
 <indexterm><primary>Bono, Mary</primary></indexterm>
 <indexterm><primary>Bono, Sonny</primary></indexterm>
+<indexterm><primary>Valenti, Jack</primary><secondary>perpetual copyright term proposed by</secondary></indexterm>
 The full text is: <quote>Sonny [Bono] wanted the term of copyright
 protection to last forever. I am informed by staff that such a change
 would violate the Constitution. I invite all of you to work with me to
@@ -12859,6 +12868,8 @@ Congress allows for those works where its worth is at least $1. But for
 everything else, let the content go.
 </para>
 <indexterm><primary>Forbes, Steve</primary></indexterm>
+<indexterm><primary>Democratic Party</primary></indexterm>
+<indexterm><primary>Republican Party</primary></indexterm>
 <para>
 The reaction to this idea was amazingly strong. Steve Forbes endorsed
 it in an editorial. I received an avalanche of e-mail and letters
@@ -13077,6 +13088,7 @@ introduced. On May 16, I posted on the Eldred Act blog, <quote>we are
 close.</quote> There was a general reaction in the blog community that
 something good might happen here.
 </para>
+<indexterm><primary>Valenti, Jack</primary><secondary>Eldred Act opposed by</secondary></indexterm>
 <para>
 But at this stage, the lobbyists began to intervene. Jack Valenti and
 the MPAA general counsel came to the congresswoman's office to give
@@ -15329,6 +15341,8 @@ controlling access.
 </para>
 <indexterm startref='idxpromisestokeepfisher' class='endofrange'/>
 <indexterm><primary>artists</primary><secondary>recording industry payments to</secondary></indexterm>
+<indexterm><primary>semiotic democracy</primary></indexterm>
+<indexterm><primary>democracy</primary><secondary>semiotic</secondary></indexterm>
 <para>
 Fisher would balk at the idea of allowing the system to lapse. His aim
 is not just to ensure that artists are paid, but also to ensure that
