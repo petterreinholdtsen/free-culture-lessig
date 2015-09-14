@@ -260,6 +260,7 @@ c      INDEX
 <preface id="preface">
 <title>Preface</title>
 <indexterm id='idxpoguedavid' class='startofrange'><primary>Pogue, David</primary></indexterm>
+<indexterm><primary>Code (Lessig)</primary></indexterm>
 <para>
 <emphasis role="bold">At the end</emphasis> of his review of my first
 book, <citetitle>Code: And Other Laws of Cyberspace</citetitle>, David
@@ -6523,6 +6524,8 @@ ought to be. Not <emphasis>whether</emphasis> artists should be paid,
 but whether institutions designed to assure that artists get paid need
 also control how culture develops.
 </para>
+<indexterm><primary>Code (Lessig)</primary></indexterm>
+<indexterm><primary>Lessig, Lawrence</primary></indexterm>
 <indexterm id='idxfreeculturefourmodalitiesofconstrainton' class='startofrange'><primary>free culture</primary><secondary>four modalities of constraint on</secondary></indexterm>
 <indexterm id='idxregulationfourmodalitiesof' class='startofrange'><primary>regulation</primary><secondary>four modalities of</secondary></indexterm>
 <indexterm id='idxcopyrightlawasexpostregulationmodality' class='startofrange'><primary>copyright law</primary><secondary>as ex post regulation modality</secondary></indexterm>
@@ -6652,6 +6655,7 @@ other three is more timidly expressed.  See Lawrence Lessig, <citetitle>Code: An
 Other Laws of Cyberspace</citetitle> (New York: Basic Books, 1999): 90&ndash;95;
 Lawrence Lessig, <quote>The New Chicago School,</quote> <citetitle>Journal of Legal Studies</citetitle>,
 June 1998.
+<indexterm><primary>Code (Lessig)</primary></indexterm>
 </para></footnote>
 The law, in other words, sometimes operates to increase or decrease
 the constraint of a particular modality.  Thus, the law might be used
@@ -6715,6 +6719,7 @@ effective liberty that each of these groups might face.
 <indexterm><primary>Commons, John R.</primary></indexterm>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
 <indexterm><primary>market constraints</primary></indexterm>
+<indexterm><primary>Code (Lessig)</primary></indexterm>
 </para></footnote>
 </para>
 <indexterm startref='idxlawasconstraintmodality2' class='endofrange'/>
@@ -11449,6 +11454,9 @@ Supreme Court's
 decision in 1995 to strike down a law that banned the possession of
 guns near schools.
 </para>
+<indexterm id='idxcommerceinterstate' class='startofrange'><primary>commerce, interstate</primary></indexterm>
+<indexterm id='idxcongressusconstitutionalpowersof2' class='startofrange'><primary>Congress, U.S.</primary><secondary>constitutional powers of</secondary></indexterm>
+<indexterm id='idxinterstatecommerce' class='startofrange'><primary>interstate commerce</primary></indexterm>
 <para>
 Since 1937, the Supreme Court had interpreted Congress's granted
 powers very broadly; so, while the Constitution grants Congress the
@@ -11467,6 +11475,7 @@ commerce.  A Constitution designed to limit Congress's power was
 instead interpreted to impose no limit.
 </para>
 <indexterm><primary>Rehnquist, William H.</primary></indexterm>
+<indexterm id='idxunitedstatesvlopez' class='startofrange'><primary>United States v. Lopez</primary></indexterm>/
 <para>
 The Supreme Court, under Chief Justice Rehnquist's command, changed
 that in <citetitle>United States</citetitle> v. <citetitle>Lopez</citetitle>. The government had
@@ -11491,8 +11500,11 @@ Congress's power. The decision in <citetitle>Lopez</citetitle> was reaffirmed fi
 later in <citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>.<footnote><para>
 <!-- f7. -->
 <citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>, 529 U.S. 598 (2000).
+<indexterm><primary>United States v. Morrison</primary></indexterm>
 </para></footnote>
 </para>
+<indexterm startref='idxcommerceinterstate' class='endofrange'/>
+<indexterm startref='idxunitedstatesvlopez' class='endofrange'/>
 <para>
 If a principle were at work here, then it should apply to the Progress
 Clause as much as the Commerce Clause.<footnote><para>
@@ -11517,6 +11529,9 @@ limit. Thus, the same principle applied to the power to grant
 copyrights should entail that Congress is not allowed to extend the
 term of existing copyrights.
 </para>
+<indexterm startref='idxinterstatecommerce' class='endofrange'/>
+<indexterm id='idxcongressussupremecourtrestrainton2' class='startofrange'><primary>Congress, U.S.</primary><secondary>Supreme Court restraint on</secondary></indexterm>
+<indexterm><primary>United States v. Lopez</primary></indexterm>
 <para>
 <emphasis>If</emphasis>, that is, the principle announced in <citetitle>Lopez</citetitle>
 stood for a principle.  Many believed the decision in <citetitle>Lopez</citetitle> stood for
@@ -11530,6 +11545,7 @@ its politics struck me as extraordinarily boring.  I was not going to
 devote my life to teaching constitutional law if these nine Justices
 were going to be petty politicians.
 </para>
+<indexterm startref='idxcongressusconstitutionalpowersof2' class='endofrange'/>
 <indexterm><primary>Constitution, U.S.</primary><secondary>copyright purpose established in</secondary></indexterm>
 <indexterm><primary>copyright</primary><secondary>constitutional purpose of</secondary></indexterm>
 <indexterm><primary>copyright</primary><secondary>duration of</secondary></indexterm>
@@ -11581,6 +11597,8 @@ have created the perfect storm for the public domain. Copyrights have
 not expired, and will not expire, so long as Congress is free to be
 bought to extend them again.
 </para>
+<indexterm startref='idxcongressussupremecourtrestrainton2' class='endofrange'/>
+
 <para>
 <emphasis role='strong'>It is valuable</emphasis> copyrights that are
 responsible for terms being extended.  Mickey Mouse and
@@ -12262,8 +12280,17 @@ favorites, through copyright, with who has the right to speak.
 was little I did beyond preparing for this case. Early on, as I said,
 I set the strategy.
 </para>
+<indexterm><primary>Kennedy, Anthony</primary></indexterm>
+<indexterm><primary>O'Connor, Sandra Day</primary></indexterm>
 <indexterm><primary>Rehnquist, William H.</primary></indexterm>
 <indexterm><primary>O'Connor, Sandra Day</primary></indexterm>
+<indexterm><primary>Thomas, Clarence</primary></indexterm>
+<indexterm><primary>United States v. Lopez</primary></indexterm>
+<indexterm><primary>United States v. Morrison</primary></indexterm>
+<indexterm><primary>Scalia, Antonin</primary></indexterm>
+<indexterm><primary>Congress, U.S.</primary><secondary>Supreme Court restraint on</secondary></indexterm>
+<indexterm><primary>Supreme Court, U.S.</primary><secondary>congressional actions restrained by</secondary></indexterm>
+<indexterm id='idxsupremecourtusfactionsof' class='startofrange'><primary>Supreme Court, U.S.</primary><secondary>factions of</secondary></indexterm>
 <para>
 The Supreme Court was divided into two important camps. One camp we
 called <quote>the Conservatives.</quote> The other we called <quote>the Rest.</quote>  The
@@ -12308,6 +12335,7 @@ also very sensitive to free speech concerns. And as we strongly
 believed, there was a very important free speech argument against
 these retrospective extensions.
 </para>
+<indexterm startref='idxsupremecourtusfactionsof' class='endofrange'/>
 <indexterm startref='idxginsburg' class='endofrange'/>
 <para>
 The only vote we could be confident about was that of Justice
@@ -12327,6 +12355,13 @@ argument that Judge Sentelle had relied upon in the Court of Appeals,
 that Congress's power must be interpreted so that its enumerated
 powers have limits.
 </para>
+<indexterm><primary>United States v. Lopez</primary></indexterm>
+<indexterm><primary>commerce, interstate</primary></indexterm>
+<indexterm><primary>interstate commerce</primary></indexterm>
+<indexterm><primary>Congress, U.S.</primary><secondary>in constitutional Progress Clause</secondary></indexterm>
+<indexterm><primary>Progress Clause</primary></indexterm>
+<indexterm id='idxcongressuscopyrighttermsextendedby5' class='startofrange'><primary>Congress, U.S.</primary><secondary>copyright terms extended by</secondary></indexterm>
+<indexterm><primary>Constitution, U.S.</primary><secondary>Progress Clause of</secondary></indexterm>
 <para>
 This then was the core of our strategy&mdash;a strategy for which I am
 responsible. We would get the Court to see that just as with the
@@ -12349,6 +12384,7 @@ beginning, Congress has been extending the term of existing
 copyrights. So, the government argued, the Court should not now say
 that practice is unconstitutional.
 </para>
+<indexterm startref='idxcongressuscopyrighttermsextendedby5' class='endofrange'/>
 <para>
 There was some truth to the government's claim, but not much. We
 certainly agreed that Congress had extended existing terms in 1831
@@ -12513,6 +12549,7 @@ number of briefs had been written about it. He wanted to hear it. And
 here was the place Don Ayer's advice should have mattered. This was a
 softball; my answer was a swing and a miss.
 </para>
+<indexterm><primary>United States v. Lopez</primary></indexterm>
 <para>
 The second came from the Chief, for whom the whole case had been
 crafted. For the Chief Justice had crafted the <citetitle>Lopez</citetitle> ruling,
@@ -12609,6 +12646,7 @@ money in the world against <emphasis>reasoning</emphasis>. And here
 was the last naïve law professor, scouring the pages, looking for
 reasoning.
 </para>
+<indexterm id='idxunitedstatesvlopez2' class='startofrange'><primary>United States v. Lopez</primary></indexterm>
 <para>
 I first scoured the opinion, looking for how the Court would
 distinguish the principle in this case from the principle in
@@ -12641,6 +12679,7 @@ talk about the two together.  There was therefore no principle that
 followed from the <citetitle>Lopez</citetitle> case: In that context, Congress's power would
 be limited, but in this context it would not.
 </para>
+<indexterm startref='idxunitedstatesvlopez2' class='endofrange'/>
 <para>
 Yet by what right did they get to choose which of the framers' values
 they would respect? By what right did they&mdash;the silent
@@ -12677,6 +12716,7 @@ way, the point was clear: If the Constitution said a term had to be
 <quote>limited,</quote> and the existing term was so long as to be effectively
 unlimited, then it was unconstitutional.
 </para>
+<indexterm id='idxunitedstatesvlopez3' class='startofrange'><primary>United States v. Lopez</primary></indexterm>
 <para>
 These two justices understood all the arguments we had made. But
 because neither believed in the <citetitle>Lopez</citetitle> case, neither was willing to push
@@ -12704,6 +12744,7 @@ light of the structure of the Constitution. That method had produced
 <citetitle>Lopez</citetitle> and many other <quote>originalist</quote> rulings. Where was their
 <quote>originalism</quote> now?
 </para>
+<indexterm startref='idxunitedstatesvlopez3' class='endofrange'/>
 <para>
 Here, they had joined an opinion that never once tried to explain
 what the framers had meant by crafting the Progress Clause as they
