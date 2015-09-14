@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-13 21:22+0200\n"
+"POT-Creation-Date: 2015-09-14 07:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9458,7 +9458,7 @@ msgstr ""
 #: freeculture.xml:6543 freeculture.xml:6736 freeculture.xml:7110
 msgid ""
 "<graphic fileref=\"images/1331.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"45%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -9619,7 +9619,7 @@ msgstr ""
 #: freeculture.xml:6672
 msgid ""
 "<graphic fileref=\"images/1361.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"45%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -9769,7 +9769,7 @@ msgstr ""
 #: freeculture.xml:6782
 msgid ""
 "<graphic fileref=\"images/1381.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"45%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -10263,7 +10263,7 @@ msgstr ""
 #: freeculture.xml:7117
 msgid ""
 "<graphic fileref=\"images/1442.svg\" align=\"center\" "
-"width=\"50%\"></graphic>"
+"width=\"45%\"></graphic>"
 msgstr ""
 
 #.  PAGE BREAK 144 
@@ -12135,7 +12135,7 @@ msgstr ""
 #: freeculture.xml:8486
 msgid ""
 "<graphic fileref=\"images/vcr-comic.png\" align=\"center\" "
-"width=\"65%\"></graphic>"
+"width=\"55%\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
