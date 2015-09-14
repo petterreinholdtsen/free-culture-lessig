@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-13 14:31+0200\n"
+"POT-Creation-Date: 2015-09-14 09:11+0200\n"
 "PO-Revision-Date: 2015-09-09 16:13+0000\n"
 "Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -247,6 +247,10 @@ msgstr "Forord"
 #. type: Content of: <book><preface><indexterm><primary>
 msgid "Pogue, David"
 msgstr "Pogue, David"
+
+#. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
+msgid "Code (Lessig)"
+msgstr "Code (Lessig)"
 
 #. type: Content of: <book><preface><para>
 msgid ""
@@ -12264,6 +12268,10 @@ msgstr ""
 "institusjoner utformet for å sikre at artister får betalt også må "
 "kontrollere hvordan kultur utvikler seg."
 
+#. type: Content of: <book><chapter><indexterm><primary>
+msgid "Lessig, Lawrence"
+msgstr "Lessig, Lawrence"
+
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "four modalities of constraint on"
 msgstr "fire modaliteter for begrensninger på"
@@ -12306,10 +12314,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para>
@@ -12496,7 +12504,7 @@ msgid ""
 "timidly expressed.  See Lawrence Lessig, <citetitle>Code: And Other Laws of "
 "Cyberspace</citetitle> (New York: Basic Books, 1999): 90&ndash;95; Lawrence "
 "Lessig, <quote>The New Chicago School,</quote> <citetitle>Journal of Legal "
-"Studies</citetitle>, June 1998."
+"Studies</citetitle>, June 1998.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Ved å beskrive hvordan loven påvirker de andre tre modalitetene, mener jeg "
 "ikke å foreslå at de andre tre ikke påvirker loven.  Det gjør de "
@@ -12505,7 +12513,7 @@ msgstr ""
 "uttrykkes mer beskjedent.  Se Lawrence Lessig <citetitle>Code: And Other "
 "Laws of Cyberspace</citetitle> (New York: Basic Books, 1999): 90&ndash;95; "
 "Lawrence Lessig, <quote>The New Chicago School,</quote> <citetitle>Journal "
-"of Legal Studies</citetitle>, juni 1998."
+"of Legal Studies</citetitle>, juni 1998.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #.  PAGE BREAK 135 
 #. type: Content of: <book><part><chapter><para>
@@ -12538,10 +12546,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
-"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -12582,7 +12590,8 @@ msgid ""
 "interventions should be accounted for in order to understand the effective "
 "liberty that each of these groups might face.  <placeholder type=\"indexterm"
 "\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/>"
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
+"<placeholder type=\"indexterm\" id=\"4\"/>"
 msgstr ""
 "Noen personer protesterer på denne måten å snakke om <quote>frihet.</quote> "
 "De protesterer fordi deres fokus når de vurderer begrensninger som "
@@ -12610,9 +12619,10 @@ msgstr ""
 "Code</citetitle>, del 12101 (2000).  Hver av disse inngrepene for å endre "
 "eksisterende vilkår endrer friheten til en bestemt gruppe.  Effekten av "
 "disse inngrepene bør tas hensyn til for å forstå den effektive friheten som "
-"hver av disse gruppene møter. <placeholder type=\"indexterm\" id=\"0\"/> "
-"<placeholder type=\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" "
-"id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/>"
+"hver av disse gruppene møter.  <placeholder type=\"indexterm"
+"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
+"<placeholder type=\"indexterm\" id=\"4\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12735,10 +12745,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -13356,10 +13366,10 @@ msgstr "Vi kommer til å ende opp her:"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"50%\"></"
+"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"45%\"></"
 "graphic>"
 
 #.  PAGE BREAK 144 
@@ -15869,10 +15879,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" width=\"65%\"></"
+"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" width=\"55%\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" width=\"65%\"></"
+"<graphic fileref=\"images/vcr-comic.png\" align=\"center\" width=\"55%\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -21211,14 +21221,17 @@ msgstr ""
 "<citetitle>United States</citetitle> mot <citetitle>Lopez</citetitle>, 514 U."
 "S. 549, 564 (1995)."
 
-#.  f7. 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "United States v. Morrison"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>, 529 "
 "U.S. 598 (2000)."
 msgstr ""
 "<citetitle>United States</citetitle> mot <citetitle>Morrison</citetitle>, "
-"529 U.S. 598 (2000)."
+"529 U.S. 598 (2000).  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -27263,6 +27276,18 @@ msgstr ""
 "som kan administrere rollen.  I stedet burde vi skape incentiver for at "
 "private aktører tilbyr tjenesten til offentligheten, ifølge standarder som "
 "myndighetene definerer."
+
+#. type: Content of: <book><chapter><section><section><section><indexterm><primary>
+msgid "domain names"
+msgstr "domenenavn"
+
+#. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
+msgid "domain name registration on"
+msgstr "domenenavnregistreringer på"
+
+#. type: Content of: <book><chapter><section><section><section><indexterm><primary>
+msgid "Web sites, domain name registration of"
+msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
