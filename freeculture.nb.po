@@ -1143,7 +1143,7 @@ msgstr ""
 "prosess.  RCA hadde hva Causbyene ikke hadde: Makten til å undertrykke "
 "effekten av en teknologisk endring."
 
-#. type: Content of: <book><chapter><section><section><indexterm><primary>
+#. type: Content of: <book><chapter><section><section><section><indexterm><primary>
 msgid "Internet"
 msgstr "Internett"
 
@@ -1865,7 +1865,7 @@ msgstr "engelsk"
 msgid "Mansfield, William Murray, Lord"
 msgstr "Mansfield, William Murray, Lord"
 
-#. type: Content of: <book><part><partintro><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "music publishing"
 msgstr "musikkpublisering"
 
@@ -2246,7 +2246,7 @@ msgstr "animasjonsfilmer"
 msgid "cartoon films"
 msgstr "tegnefilmer"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "films"
 msgstr "filmer"
 
@@ -4270,11 +4270,11 @@ msgstr "CBS"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Cyber Rights (Godwin)"
-msgstr ""
+msgstr "Cyber Rights (Godwin)"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Godwin, Mike"
-msgstr ""
+msgstr "Godwin, Mike"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "news events on"
@@ -5093,7 +5093,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kahle, Brewster"
-msgstr ""
+msgstr "Kahle, Brewster"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5678,7 +5678,7 @@ msgstr "patenter"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on film technology"
-msgstr ""
+msgstr "om filmteknologi"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -7295,7 +7295,7 @@ msgstr ""
 "Men oppfinnerne av Napster-teknologien hadde ikke gjort noen store "
 "teknologiske nyskapninger.  Som ethvert stort steg i nyskapningen på "
 "Internett (og, kan det argumenteres for, utenfor Internett<placeholder type="
-"\"footnote\" id=\"0\"/>) hadde Shawn Fanning og hans ansatte ganske enkelt "
+"\"footnote\" id=\"4\"/>) hadde Shawn Fanning og hans ansatte ganske enkelt "
 "satt sammen deler som hadde blitt utviklet uavhengig av hverandre."
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
@@ -7425,6 +7425,14 @@ msgstr ""
 "komplisert enn en skulle tro. Vurder &ndash; litt mer nøye enn de "
 "polariserte stemmene i denne debatten vanligvis gjør &ndash; de ulike typer "
 "deling som fildeling muliggjør, og hva slags skader de innebærer."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "four types of"
+msgstr "fire typer av"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "range of content on"
+msgstr ""
 
 #.  PAGE BREAK 81 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8096,6 +8104,18 @@ msgstr ""
 "<quote>Men er ikke krigen bare en krig mot ulovlig deling?  Er ikke "
 "angrepsmålet bare det du kaller type-A-deling?</quote>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "zero tolerance in"
+msgstr "nulltoleranse i"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "infringing material blocked by"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "infringement protections in"
+msgstr ""
+
 #.  f17 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -8584,8 +8604,8 @@ msgstr ""
 "slik jeg har beskrevet.  Se Lessig <citetitle>Future</citetitle>, 71. Se "
 "også Picker, <quote>From Edison to the Broadcast Flag,</quote> "
 "<citetitle>University of Chicago Law Review</citetitle> 70 (2003): "
-"293&ndash;96.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder type="
-"\"indexterm\" id=\"1\"/>"
+"293&ndash;96.  <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -11404,7 +11424,7 @@ msgstr ""
 "dette &hellip;  så ville det være nesten umulig &hellip;  Dette materialet "
 "er nesten umulig å finne. &hellip;"
 
-#. type: Content of: <book><part><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "newspapers"
 msgstr "aviser"
 
@@ -11756,6 +11776,10 @@ msgstr ""
 msgid "total number of"
 msgstr "totalt antall"
 
+#. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
+msgid "music recordings"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
 "It looks like there's about two to three million recordings of music.  Ever. "
@@ -11839,7 +11863,7 @@ msgstr "Kennedy, John F."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "background of"
-msgstr ""
+msgstr "bakgrunnen til"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12494,7 +12518,6 @@ msgstr ""
 "bli straffet av naboene.  Den samme normen vil ikke være like effektiv i en "
 "annen by, eller om natten."
 
-#.  f3 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "By describing the way law affects the other three modalities, I don't mean "
@@ -12513,7 +12536,8 @@ msgstr ""
 "uttrykkes mer beskjedent.  Se Lawrence Lessig <citetitle>Code: And Other "
 "Laws of Cyberspace</citetitle> (New York: Basic Books, 1999): 90&ndash;95; "
 "Lawrence Lessig, <quote>The New Chicago School,</quote> <citetitle>Journal "
-"of Legal Studies</citetitle>, juni 1998.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"of Legal Studies</citetitle>, juni 1998. <placeholder type=\"indexterm\" id="
+"\"0\"/>"
 
 #.  PAGE BREAK 135 
 #. type: Content of: <book><part><chapter><para>
@@ -13228,7 +13252,7 @@ msgstr ""
 "eiendom</quote> helt klart; dens uttrykkelige begrensninger forsterker det "
 "engelske mål om å unngå for mektige utgivere."
 
-#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+#. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in constitutional Progress Clause"
 msgstr "i Grunnlovens Fremskrittsbestemmelse"
 
@@ -15077,10 +15101,6 @@ msgstr ""
 msgid "Future of Ideas, The (Lessig)"
 msgstr "Future of Ideas, The (Lessig)"
 
-#. type: Content of: <book><chapter><indexterm><primary>
-msgid "Lessig, Lawrence"
-msgstr "Lessig, Lawrence"
-
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
 "Finally (and most embarrassingly), here are the permissions for the original "
@@ -16245,6 +16265,10 @@ msgstr ""
 "kringkasterne 74 prosent av inntektene i dette markedet.  Totalt "
 "kontrollerer kun fire selskaper 90 prosent av nasjonens annonseinntekter på "
 "radio."
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "ownership consolidation of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17967,7 +17991,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "digital sharing within"
-msgstr ""
+msgstr "digital deling innen"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -20240,6 +20264,10 @@ msgstr ""
 "stoppet ikke RIAA fra å saksøke et antall av disse familiene, på samme måte "
 "som de hadde saksøkt Jesse Jordan.<placeholder type=\"footnote\" id=\"0\"/>"
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "recording industry tracking users of"
+msgstr ""
+
 #.  f21. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -20708,7 +20736,7 @@ msgstr "Bono, Sonny"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
 msgid "perpetual copyright term proposed by"
-msgstr ""
+msgstr "uendelig opphavsrettsvernetid foreslått av"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -21154,6 +21182,14 @@ msgstr ""
 "var det mest berømte eksemplet på denne trenden avgjørelsen fra Høyesterett "
 "i 1995 om å slå ned på en lov som forbød besittelse av våpen nær skoler."
 
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "commerce, interstate"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "interstate commerce"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><para>
 msgid ""
 "Since 1937, the Supreme Court had interpreted Congress's granted powers very "
@@ -21186,6 +21222,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Rehnquist, William H."
 msgstr "Rehnquist, William H."
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "United States v. Lopez"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21228,10 +21268,10 @@ msgstr ""
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "<citetitle>United States</citetitle> v. <citetitle>Morrison</citetitle>, 529 "
-"U.S. 598 (2000)."
+"U.S. 598 (2000).  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "<citetitle>United States</citetitle> mot <citetitle>Morrison</citetitle>, "
-"529 U.S. 598 (2000).  <placeholder type=\"indexterm\" id=\"0\"/>"
+"529 U.S. 598 (2000). <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21297,6 +21337,10 @@ msgstr ""
 "Dermed, hvis det samme prinsippet anvendes på myndigheten til å dele ut "
 "opphavsretter, burde det gjøre at Kongressen ikke får lov til å utvide "
 "vernetiden til eksisterende opphavsretter."
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "Supreme Court restraint on"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22211,7 +22255,7 @@ msgstr "Steward, Geoffrey"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Jones, Day, Reavis and Pogue (Jones Day)"
-msgstr ""
+msgstr "Jones, Day, Reavis og Pogue (Jones Day)"
 
 #.  PAGE BREAK 237 
 #. type: Content of: <book><part><chapter><para>
@@ -22702,8 +22746,28 @@ msgstr ""
 "bestemte jeg strategien tidlig."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Kennedy, Anthony"
+msgstr "Kennedy, Anthony"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "O'Connor, Sandra Day"
 msgstr "O'Connor, Sandra Day"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Thomas, Clarence"
+msgstr "Thomas, Clarence"
+
+#. type: Content of: <book><part><chapter><indexterm><primary>
+msgid "Scalia, Antonin"
+msgstr "Scalia, Antonin"
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "congressional actions restrained by"
+msgstr ""
+
+#. type: Content of: <book><part><chapter><indexterm><secondary>
+msgid "factions of"
+msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -28490,11 +28554,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "semiotic democracy"
-msgstr ""
+msgstr "semiotisk demokrati"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "semiotic"
-msgstr ""
+msgstr "semiotisk"
 
 #.  PAGE BREAK 307 
 #. type: Content of: <book><chapter><section><section><para>
