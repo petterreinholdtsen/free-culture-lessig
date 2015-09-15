@@ -13,9 +13,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-14 09:11+0200\n"
-"PO-Revision-Date: 2015-09-09 16:13+0000\n"
-"Last-Translator: Ingrid Yrvin <iyrvin@hagan.no>\n"
+"POT-Creation-Date: 2015-09-15 10:44+0200\n"
+"PO-Revision-Date: 2015-09-15 09:17+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
 "lessig/language/nb/)\n"
 "Language: nb\n"
@@ -5666,7 +5666,7 @@ msgstr "Film"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hollywood film industry"
-msgstr ""
+msgstr "Hollywoods filmindustri"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "film industry"
@@ -7432,7 +7432,7 @@ msgstr "fire typer av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "range of content on"
-msgstr ""
+msgstr "variasjon i innhold på"
 
 #.  PAGE BREAK 81 
 #. type: Content of: <book><part><chapter><section><para>
@@ -12643,10 +12643,10 @@ msgstr ""
 "Code</citetitle>, del 12101 (2000).  Hver av disse inngrepene for å endre "
 "eksisterende vilkår endrer friheten til en bestemt gruppe.  Effekten av "
 "disse inngrepene bør tas hensyn til for å forstå den effektive friheten som "
-"hver av disse gruppene møter.  <placeholder type=\"indexterm"
-"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
-"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
-"<placeholder type=\"indexterm\" id=\"4\"/>"
+"hver av disse gruppene møter. <placeholder type=\"indexterm\" id=\"0\"/> "
+"<placeholder type=\"indexterm\" id=\"1\"/> <placeholder type=\"indexterm\" "
+"id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> <placeholder type="
+"\"indexterm\" id=\"4\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -13701,13 +13701,13 @@ msgid ""
 "copyrights will pass into the public domain by virtue of the expiration of a "
 "copyright term."
 msgstr ""
-"Effekten av disse utvidelsene er ganske enkelt å *fryse*, eller forsinke, "
-"når verk faller i det fri og blir allemannseie.  Denne siste utvidelsen "
-"betyr at allemannseie vil ha vært *frosset* i trettini av femtifem år, eller "
-"70 prosent av tiden siden 1962.  Dermed vil det i de første tjue årene etter "
-"Sonny Bono-loven, samtidig som en million patenter har blitt allemannseie, "
-"ikke være et eneste opphavsrettsbeskyttet verk som har falt i det fri på "
-"grunn av utløp av vernetiden i opphavsretten."
+"Effekten av disse utvidelsene er ganske enkelt å fryse, eller forsinke, når "
+"verk faller i det fri og blir allemannseie.  Denne siste utvidelsen betyr at "
+"allemannseie vil ha vært frosset i trettini av femtifem år, eller 70 prosent "
+"av tiden siden 1962.  Dermed vil det i de første tjue årene etter Sonny Bono-"
+"loven, samtidig som en million patenter har blitt allemannseie, ikke være et "
+"eneste opphavsrettsbeskyttet verk som har falt i det fri på grunn av utløp "
+"av vernetiden i opphavsretten."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -20266,7 +20266,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "recording industry tracking users of"
-msgstr ""
+msgstr "musikk- og filmindustriens sporing av brukerne til"
 
 #.  f21. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -27347,7 +27347,7 @@ msgstr "domenenavn"
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
 msgid "domain name registration on"
-msgstr "domenenavnregistreringer på"
+msgstr "domenenavnregistrering på"
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><primary>
 msgid "Web sites, domain name registration of"
