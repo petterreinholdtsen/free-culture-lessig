@@ -1,21 +1,21 @@
-# Free Culture translation to Norwegian Bokmål.
-# Copyright (C) 2015 Petter Reinholdtsen and contributors
-# This file is distributed under the same license as the Free Culture
-# book.  When the original enter the public domain, the intention is
-# for this translation to do so too.
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# Petter Reinholdtsen <pere@hungry.com>, 2012-2015
-# Anders Hagen Jarmund <ajarmund@gmail.com>, 2012
+# anjar <ajarmund@gmail.com>, 2012
 # Ingrid Yrvin <iyrvin@hagan.no>, 2015
 # Johannes Larsen <transifex.com@johslarsen.net>, 2015
 # Kirill Miazine <km@krot.org>, 2012
+# pere <pere-transifex@hungry.com>, 2015
+# pere <pere-transifex@hungry.com>, 2012
+# Petter Reinholdtsen <pere@hungry.com>, 2012-2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
 "POT-Creation-Date: 2015-09-15 10:44+0200\n"
-"PO-Revision-Date: 2015-09-15 09:17+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
+"PO-Revision-Date: 2015-09-15 12:30+0000\n"
+"Last-Translator: pere <pere-transifex@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
 "lessig/language/nb/)\n"
 "Language: nb\n"
@@ -7580,7 +7580,7 @@ msgstr "Videospillere/opptakere"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "DAT (digital audio tape)"
-msgstr ""
+msgstr "DAT (digital audio tape)"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -7901,7 +7901,7 @@ msgstr "bruktsalg av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "used record sales"
-msgstr ""
+msgstr "bruktplatesalg"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -8110,11 +8110,11 @@ msgstr "nulltoleranse i"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "infringing material blocked by"
-msgstr ""
+msgstr "materiale som bryter opphavsretten blokkert av"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "infringement protections in"
-msgstr ""
+msgstr "beskyttelser mot brudd på opphavsretten i"
 
 #.  f17 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8245,7 +8245,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "two central goals of"
-msgstr ""
+msgstr "to sentrale mål for"
 
 #.  PAGE BREAK 88 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8288,7 +8288,7 @@ msgstr "Sony"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Betamax technology developed by"
-msgstr ""
+msgstr "Betamax-teknologi utviklet av"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -11778,7 +11778,7 @@ msgstr "totalt antall"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "music recordings"
-msgstr ""
+msgstr "musikkinnspillinger"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -18078,7 +18078,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "tort reform"
-msgstr ""
+msgstr "erstatningsrettsreform"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Bush, George W."
@@ -20266,7 +20266,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "recording industry tracking users of"
-msgstr "musikk- og filmindustriens sporing av brukerne til"
+msgstr "innspillingsindustriens sporing av brukerne til"
 
 #.  f21. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -21225,7 +21225,7 @@ msgstr "Rehnquist, William H."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "United States v. Lopez"
-msgstr ""
+msgstr "USA vs. Lopez"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21263,7 +21263,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "United States v. Morrison"
-msgstr ""
+msgstr "USA vs. Morrison"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -24316,7 +24316,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Eldred Act opposed by"
-msgstr ""
+msgstr "Eldred-loven motarbeidet av"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -26127,7 +26127,7 @@ msgstr "Etterord"
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "voluntary reform efforts on"
-msgstr ""
+msgstr "frivillig reforminnsats rundt"
 
 #.  PAGE BREAK 280 
 #. type: Content of: <book><chapter><para>
@@ -27351,7 +27351,7 @@ msgstr "domenenavnregistrering på"
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><primary>
 msgid "Web sites, domain name registration of"
-msgstr ""
+msgstr "Nettsteder, domenenavnregistrering av"
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
