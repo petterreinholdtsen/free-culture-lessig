@@ -608,3 +608,4 @@
 2015-09-05T1242 2334 oversatte meldinger, 3 oversatte meldinger.
 2015-09-05T2358 2337 oversatte meldinger.
 2015-09-13T1155 2341 oversatte meldinger, 13 oversatte meldinger.
+2015-09-15T1118 2365 oversatte meldinger, 25 oversatte meldinger.
