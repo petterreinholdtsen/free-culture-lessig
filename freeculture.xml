@@ -5401,8 +5401,6 @@ And second, Fox <quote>wanted ten thousand dollars as a licensing fee for us
 to use this four-point-five seconds of &hellip; entirely unsolicited
 <citetitle>Simpsons</citetitle> which was in the corner of the shot.</quote>
 </para>
-<indexterm startref='idxgroeningmatt' class='endofrange'/>
-<indexterm startref='idxfoxfilmcompany' class='endofrange'/>
 <indexterm id='idxherrerarebecca' class='startofrange'><primary>Herrera, Rebecca</primary></indexterm>
 <para>
 Else was certain there was a mistake. He worked his way up to someone
@@ -5436,8 +5434,6 @@ very last minute before the film was to be released, Else digitally
 replaced the shot with a clip from another film that he had worked on,
 <citetitle>The Day After Trinity</citetitle>, from ten years before.
 </para>
-<indexterm id='idxfoxfilmcompany2' class='startofrange'><primary>Fox (film company)</primary></indexterm>
-<indexterm id='idxgroeningmatt2' class='startofrange'><primary>Groening, Matt</primary></indexterm>
 <para>
 There's no doubt that someone, whether Matt Groening or Fox, owns the
 copyright to <citetitle>The Simpsons</citetitle>. That copyright is their property.  To use
@@ -5472,8 +5468,8 @@ Else's use of just 4.5 seconds of an indirect shot of a <citetitle>Simpsons</cit
 episode is clearly a fair use of <citetitle>The Simpsons</citetitle>&mdash;and fair use does
 not require the permission of anyone.
 </para>
-<indexterm startref='idxfoxfilmcompany2' class='endofrange'/>
-<indexterm startref='idxgroeningmatt2' class='endofrange'/>
+<indexterm startref='idxfoxfilmcompany' class='endofrange'/>
+<indexterm startref='idxgroeningmatt' class='endofrange'/>
 <para>
 <!-- PAGE BREAK 109 -->
 So I asked Else why he didn't just rely upon <quote>fair use.</quote> Here's his reply:
