@@ -124,19 +124,17 @@ Circuit Court of Appeals.
 <!-- testing different ways to tag the cover page -->
  <mediaobject role="cover">
    <imageobject remap="lrg" role="front-large">
-     <imagedata fileref="images/cover.png" format="PNG" width="444" />
+     <imagedata fileref="images/cover-front-72dpi.png" format="PNG" width="444" />
    </imageobject>
-<!--
    <imageobject remap="s" role="front">
-     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+     <imagedata fileref="images/cover-front-10dpi.png" format="PNG" width="444" />
    </imageobject>
    <imageobject remap="xs" role="front-small">
-     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+     <imagedata fileref="images/cover-front-10dpi.png" format="PNG" width="444" />
    </imageobject>
    <imageobject remap="cs" role="thumbnail">
-     <imagedata fileref="images/cover_thumbnail.png" format="PNG" width="444" />
+     <imagedata fileref="images/cover-front-10dpi.png" format="PNG" width="444" />
    </imageobject>
--->
  </mediaobject>
 
  <biblioid class="isbn">978-82-8067-010-6</biblioid>
