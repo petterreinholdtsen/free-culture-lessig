@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-09-17 00:07+0200\n"
+"POT-Creation-Date: 2015-09-17 11:01+0200\n"
 "PO-Revision-Date: 2015-09-15 12:30+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -15120,7 +15120,10 @@ msgid "No copying, no printing, and don't you dare try to listen to this book!"
 msgstr ""
 "Ingen kopiering, ingen utskrift, og våg ikke å prøve å lytte til denne boken!"
 
-#.  f21 
+#. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
+msgid "contracts"
+msgstr ""
+
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
 "In principle, a contract might impose a requirement on me. I might, for "
@@ -15128,7 +15131,8 @@ msgid ""
 "it only three times, or that I promise to read it three times. But that "
 "obligation (and the limits for creating that obligation) would come from the "
 "contract, not from copyright law, and the obligations of contract would not "
-"necessarily pass to anyone who subsequently acquired the book."
+"necessarily pass to anyone who subsequently acquired the book.  <placeholder "
+"type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "I prinsippet kan en kontrakt pålegge meg et krav.  Jeg kan for eksempel "
 "kjøpe en bok fra deg der det følger med en kontrakt som sier at jeg kun skal "
@@ -15136,7 +15140,7 @@ msgstr ""
 "forpliktelsen (og begrensningene for å skape den forpliktelsen) ville komme "
 "fra kontrakten og ikke fra opphavsrettslovgiving, og forpliktelsene i "
 "kontrakten ville ikke nødvendigvis videreføres til alle som senere kjøpte "
-"boken."
+"boken.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
