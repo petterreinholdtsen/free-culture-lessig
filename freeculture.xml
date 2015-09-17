@@ -10101,6 +10101,10 @@ that will obviously and necessarily stifle new innovation. It is hard
 enough to start a company. It is impossibly hard if that company is
 constantly threatened by litigation.
 </para>
+<indexterm id='idxmarketconstraints3' class='startofrange'><primary>market constraints</primary></indexterm>
+<indexterm id='idxpermissionculturetransactioncostof' class='startofrange'><primary>permission culture</primary><secondary>transaction cost of</secondary></indexterm>
+<indexterm><primary>regulation</primary><secondary>outsize penalties of</secondary></indexterm>
+<indexterm><primary>technology</primary><secondary>legal murkiness on</secondary></indexterm>
 <para>
 
 <!-- PAGE BREAK 201 -->
@@ -10117,7 +10121,6 @@ innovation. If innovation is constantly checked by this uncertain and
 unlimited liability, we will have much less vibrant innovation and
 much less creativity.
 </para>
-<indexterm><primary>market constraints</primary></indexterm>
 <para>
 The point is directly parallel to the crunchy-lefty point about fair
 use. Whatever the <quote>real</quote> law is, realism about the effect of law in
@@ -10149,6 +10152,8 @@ within a permission culture are enough to bury a wide range of
 creativity.  Someone needs to do a lot of justifying to justify that
 result.
 </para>
+<indexterm startref='idxmarketconstraints3' class='endofrange'/>
+<indexterm startref='idxpermissionculturetransactioncostof' class='endofrange'/>
 <para>
 <emphasis role='strong'>The uncertainty</emphasis> of the law is one
 burden on innovation. There is a second burden that operates more
