@@ -175,6 +175,14 @@ msgid ""
 "<imageobject remap=\"cs\" role=\"thumbnail\"> <imagedata fileref=\"images/"
 "cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 msgstr ""
+"<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata fileref=\"images/"
+"nb/cover-front-72dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"s\" role=\"front\"> <imagedata fileref=\"images/nb/"
+"cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"xs\" role=\"front-small\"> <imagedata fileref=\"images/"
+"nb/cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"cs\" role=\"thumbnail\"> <imagedata fileref=\"images/nb/"
+"cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 
 #.  LCCN from
 #.      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
@@ -1337,7 +1345,7 @@ msgstr ""
 msgid "permission culture vs."
 msgstr "tillatelseskultur mot"
 
-#. type: Content of: <book><chapter><indexterm><primary>
+#. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "permission culture"
 msgstr "tillatelseskultur"
 
@@ -9055,7 +9063,7 @@ msgid ""
 msgstr ""
 "I 1774, nesten 180 år etter at <citetitle>Romeo og Julie</citetitle> ble "
 "skrevet, mente mange at <quote>opphavsretten</quote> kun tilhørte én eneste "
-"utgiver i London, John Tonson. <placeholder type=\"footnote\" id=\"0\"/> "
+"utgiver i London, Jacob Tonson. <placeholder type=\"footnote\" id=\"0\"/> "
 "Tonson var den mest fremstående av en liten gruppe utgivere kalt <quote>The "
 "Conger</quote><placeholder type=\"footnote\" id=\"1\"/>, som kontrollerte "
 "boksalget i England gjennom hele 1700-tallet. The Conger hevdet at de hadde "
@@ -15122,7 +15130,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "contracts"
-msgstr ""
+msgstr "kontrakter"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -16246,7 +16254,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "ownership consolidation in"
-msgstr ""
+msgstr "eierskapskonsolideringer i"
 
 #.  PAGE BREAK 174 
 #. type: Content of: <book><part><chapter><section><para>
@@ -16270,7 +16278,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "ownership consolidation of"
-msgstr ""
+msgstr "eierskapskonsolideringer av"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16568,7 +16576,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "media concentration and"
-msgstr ""
+msgstr "mediekonsentrering og"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16675,7 +16683,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "criminal justice system"
-msgstr ""
+msgstr "kriminal-juridisk system"
 
 #.  PAGE BREAK 178 
 #. type: Content of: <book><part><chapter><section><para>
@@ -21189,11 +21197,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "commerce, interstate"
-msgstr ""
+msgstr "handel, mellomstatlig"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "interstate commerce"
-msgstr ""
+msgstr "mellomstatlig handel"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23898,11 +23906,11 @@ msgstr "Forbes, Steve"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Democratic Party"
-msgstr ""
+msgstr "Demokratiske parti, det"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Republican Party"
-msgstr ""
+msgstr "Repulikanske parti, det"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
