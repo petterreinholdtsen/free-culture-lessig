@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="cover-art.svg"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    version="1.1"
    id="svg2"
    viewBox="0 0 1154.6999 832.5"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000005"
-     inkscape:cx="83.557023"
-     inkscape:cy="460.50218"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="163.05981"
+     inkscape:cy="212.45924"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -966,5 +966,16 @@
            x="-65.760925"
            y="180.54756" /></flowRegion><flowPara
          id="flowPara3135-1"
-         style="font-size:6.0999999px">(Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia)</flowPara></flowRoot>  </g>
+         style="font-size:6.0999999px">(Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia)</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
+       x="70.343727"
+       y="977.74579"
+       id="text3190"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3192"
+         x="70.343727"
+         y="977.74579">Published by Petter Reinholdtsen</tspan></text>
+  </g>
 </svg>
