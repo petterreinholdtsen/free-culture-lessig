@@ -13661,7 +13661,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "CTEA"
-msgstr ""
+msgstr "CTEA"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
@@ -18772,6 +18772,14 @@ msgstr ""
 "starte et selskap. Det blir helt umulig hvis selskapet er stadig truet av "
 "søksmål."
 
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "transaction cost of"
+msgstr "transaksjonskonstnader fra"
+
+#. type: Content of: <book><part><chapter><section><indexterm><secondary>
+msgid "legal murkiness on"
+msgstr "juridisk uklarhet fra"
+
 #.  PAGE BREAK 201 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -21353,7 +21361,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Supreme Court restraint on"
-msgstr ""
+msgstr "Høyesterettsbegrensninger på"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22776,11 +22784,11 @@ msgstr "Scalia, Antonin"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "congressional actions restrained by"
-msgstr ""
+msgstr "Kongressens handlinger begrenset av"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "factions of"
-msgstr ""
+msgstr "fraksjoner i"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
