@@ -50,12 +50,6 @@
 <xsl:param name="slide.title.font.family">Crimson Text</xsl:param>
 <xsl:param name="monospace.font.family">Latin Modern Mono</xsl:param>
 
-<xsl:template match="colophon">
-  <xsl:text>\begin{colophon}&#10;</xsl:text>
-  <xsl:apply-templates/>
-  <xsl:text>\end{colophon}&#10;</xsl:text>
-</xsl:template>
-
 <!-- transform footnotes to endnotes -->
 <xsl:param name="footnote.as.endnote" select="1"/>
 

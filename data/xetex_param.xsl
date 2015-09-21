@@ -8,4 +8,10 @@
     <!-- Force <emphasis role='strong'> to be bold, not semibold -->
     <xsl:text>\setmainfont[BoldFont={CrimsonText-Bold}]{Crimson Text}&#10;</xsl:text>
   </xsl:param>
+<xsl:template match="colophon">
+  <xsl:text>\begin{colophon}&#10;</xsl:text>
+  <xsl:apply-templates/>
+  <xsl:text>\end{colophon}&#10;</xsl:text>
+</xsl:template>
+
 </xsl:stylesheet>
