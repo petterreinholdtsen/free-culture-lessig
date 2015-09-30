@@ -1,17 +1,17 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Free Culture translation to French
+# Copyright (C) 2015 Benoît Guillon and Wikilivres
+# This file is distributed under the same license as Free Culture
+# book. When the original enters the public domain, the translation too.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Free Culture by Laurence Lessig\n"
 "POT-Creation-Date: 2015-09-12 17:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Last-Translator: Benoît Guillon <marsgui@users.sourceforge.net>\n"
+"Language-Team: Wikilivres (http://www.wikilivres.ca) & B. Guillon\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,7 +28,7 @@ msgstr "fr"
 
 #. type: Content of: <chapter><title>
 msgid "Free Culture"
-msgstr ""
+msgstr "Culture Libre"
 
 #. type: Content of: <book><bookinfo>
 msgid "<abbrev>\"freeculture\"</abbrev>"
@@ -39,6 +39,8 @@ msgid ""
 "How big media uses technology and the law to lock down culture and control "
 "creativity"
 msgstr ""
+"Comment les grands médias utilisent la technologie et la loi pour verrouiller "
+"la culture et contrôler la créativité"
 
 #. type: Content of: <book><bookinfo>
 msgid "<pubdate>2004-03-25</pubdate> <edition>1</edition>"
@@ -58,27 +60,34 @@ msgstr ""
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 msgid "Intellectual property&mdash;United States."
-msgstr ""
+msgstr "Propriété Intellectuelle&mdash;Etats Unis."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 msgid "Mass media&mdash;United States."
-msgstr ""
+msgstr "Mass media&mdash;Etats Unis."
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 msgid "Technological innovations&mdash;United States."
-msgstr ""
+msgstr "Innovations technologiques&mdash;Etats Unis"
 
 #. type: Content of: <book><bookinfo><subjectset><subject><subjectterm>
 msgid "Art&mdash;United States."
-msgstr ""
+msgstr "Art&mdash;Etats Unis."
 
 #. type: Content of: <book><bookinfo><publisher><address>
+#, no-wrap
+msgid "<city>Oslo</city>"
+msgstr "<city>Valence</city>"
+
 #. type: Content of: <book><bookinfo>
 msgid ""
 "<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
 "type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
 "<holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
+"<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
+"type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
+"<holder>Lawrence Lessig</holder> </copyright>"
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject>
 msgid ""
@@ -87,14 +96,18 @@ msgid ""
 "fileref=\"images/cc.svg\" contentdepth=\"3em\" width=\"100%\" "
 "align=\"center\"/> </imageobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"images/cc.png\" contentdepth=\"3em\" "
+"width=\"100%\" align=\"center\"/> </imageobject> <imageobject> <imagedata "
+"fileref=\"images/cc.svg\" contentdepth=\"3em\" width=\"100%\" "
+"align=\"center\"/> </imageobject>"
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject><textobject><phrase>
 msgid "Creative Commons, Some rights reserved"
-msgstr ""
+msgstr "Creative Commons, droits réservés"
 
 #. type: Content of: <book><bookinfo><legalnotice><para>
 msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
-msgstr ""
+msgstr "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -103,10 +116,15 @@ msgid ""
 "information about the license visit <ulink "
 "url=\"http://creativecommons.org/licenses/by-nc/1.0/\"/>."
 msgstr ""
+"Ce livre est sous licence Creative Commons. Cette licence permets "
+"l'utilisation non commerciale de cette oeuvre, à la condition de "
+"signaler les attributions de l'oeuvre. Pour plus "
+"d'informations concernant la licence, voir <ulink "
+"url=\"http://creativecommons.org/licenses/by-nc/1.0/\"/>."
 
 #. type: Content of: <book><bookinfo><abstract><title>
 msgid "About the author"
-msgstr ""
+msgstr "À propos de l'auteur"
 
 #. type: Content of: <book><bookinfo><abstract><para>
 msgid ""
@@ -126,12 +144,33 @@ msgid ""
 "University, and Yale Law School, Lessig clerked for Judge Richard Posner of "
 "the U.S. Seventh Circuit Court of Appeals."
 msgstr ""
+"LAWRENCE LESSIG (<ulink "
+"url=\"http://www.lessig.org\">http://www.lessig.org</ulink>), professeur de "
+"droit et John A. Wilson Distinguished Faculty Scholar à la Faculté de droit "
+"de Stanford, "
+"est le fondateur du Stanford Center for Internet and Society et est le "
+"président de l’association Creative Commons (<ulink "
+"url=\"http://creativecommons.org\">http://creativecommons.org</ulink>). "
+"Auteur de <citetitle>The Future of Ideas</citetitle> (Random House, 2001) et "
+"de <citetitle>Code: And Other Laws "
+"of Cyberspace</citetitle> (Basic Books, 1999), Lessig est un membre du comité "
+"de la "
+"Public Library of Science, de l’Electronic Frontier Foundation, et de Public "
+"Knowledge. Il a été le lauréat du prix de la Free Software Foundation pour "
+"le progrès du logiciel libre, a été mentionné deux fois dans "
+"<citetitle>BusinessWeek</citetitle> <quote>e.biz 25</quote>, et a figuré parmi les "
+"cinquantes <quote>visionnaires</quote> de <citetitle>Scientific American</citetitle>. Diplômé de "
+"l’Université de Pennsylvanie, de Cambridge et de Yale Law School, Lessig a "
+"été greffier pour le juge Richard Posner de la Septième Court d’Appel des "
+"Etats Unis."
 
 #. type: Content of: <book><bookinfo><mediaobject>
 msgid ""
 "<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata "
 "fileref=\"images/cover.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 msgstr ""
+"<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata "
+"fileref=\"images/cover.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 
 #. type: Content of: <book><bookinfo>
 msgid ""
@@ -140,40 +179,46 @@ msgid ""
 "class=\"libraryofcongress\">2003063276</biblioid> <biblioid "
 "class=\"uri\">http://free-culture.cc/</biblioid>"
 msgstr ""
+"  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid "
+"class=\"isbn\">978-82-8067-010-6</biblioid> <biblioid "
+"class=\"libraryofcongress\">2003063276</biblioid> <biblioid "
+"class=\"uri\">http://free-culture.cc/</biblioid>"
 
 #. type: Content of: <book><dedication><title>
 msgid "Also by Lawrence Lessig"
-msgstr ""
+msgstr "Du même auteur"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "The USA is lesterland: The nature of congressional corruption"
-msgstr ""
+msgstr "The USA is lesterland: The nature of congressional corruption"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Republic, lost: How money corrupts Congress - and a plan to stop it"
-msgstr ""
+msgstr "Republic, lost: How money corrupts Congress - and a plan to stop it"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Remix: Making art and commerce thrive in the hybrid economy"
-msgstr ""
+msgstr "Remix: Making art and commerce thrive in the hybrid economy"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Code: Version 2.0"
-msgstr ""
+msgstr "Code: Version 2.0"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "The Future of Ideas: The Fate of the Commons in a Connected World"
-msgstr ""
+msgstr "The Future of Ideas: The Fate of the Commons in a Connected World"
 
 #. type: Content of: <book><dedication><itemizedlist><listitem><para>
 msgid "Code: And Other Laws of Cyberspace"
-msgstr ""
+msgstr "Code: And Other Laws of Cyberspace"
 
 #. type: Content of: <book><dedication><para>
 msgid ""
 "To Eric Eldred &mdash; whose work first drew me to this cause, and for whom "
 "it continues still."
 msgstr ""
+"À Eric Eldred &mdash; dont le travail m'a amené en premier à cette "
+"cause, et pour qui je continue à la soutenir."
 
 #. type: Content of: <book><lot><title>
 msgid "List of figures"
@@ -185,7 +230,7 @@ msgstr "Préface"
 
 #. type: Content of: <book><preface><indexterm><primary>
 msgid "Pogue, David"
-msgstr ""
+msgstr "Pogue, David"
 
 #. type: Content of: <book><preface><para>
 msgid ""
@@ -378,7 +423,7 @@ msgid ""
 "Times</citetitle>, 22 May 2003.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "William Safire, <quote>The Great Media Gulp,</quote><citetitle> New York "
-"Times,</citetitle> 22 May 2003."
+"Times,</citetitle> 22 May 2003.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><preface><blockquote><para>
 msgid ""
@@ -662,6 +707,8 @@ msgstr ""
 "Geography of Authorship,\"<citetitle> Stanford Law Review</citetitle> 48 "
 "(1996): 1293, 1333. Voir également Paul Goldstein,<citetitle> Real "
 "Property</citetitle> (Mineola, N.Y.: Foundation Press, 1984), 1112-13."
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><chapter><blockquote><para>
 msgid ""
@@ -1012,7 +1059,7 @@ msgstr ""
 "essentiellement en déplaçant la radio FM vers une bande différente du "
 "spectre. Au début, ces efforts échouèrent. Mais quand l’attention "
 "d’Armstrong et celle de la nation furent détournées par la seconde guerre "
-"mondiale, le travail de la RCA commmença à porter des fruits. Peu après la "
+"mondiale, le travail de la RCA commença à porter des fruits. Peu après la "
 "fin de la guerre, la FCC annonça un ensemble de mesures clairement "
 "destinées à paralyser la radio FM. Comme Lawrence Lessing le "
 "décrivit&nbsp;:"
@@ -1280,8 +1327,9 @@ msgstr ""
 "accordant aux auteurs le droit exclusif de la première publication, la loi "
 "d’État du copyright donnait aux auteurs le pouvoir de contrôler la "
 "diffusion des faits à leur propos. Voir Samuel D. Warren et Louis D. "
-"Brandeis, «&nbsp;The Right to Privacy,\"<citetitle> Harvard Law Review</citetitle> 4 (1890): "
-"193, 198-200."
+"Brandeis, <quote>The Right to Privacy</quote>, "
+"<citetitle> Harvard Law Review</citetitle> 4 (1890): 193, 198-200. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1323,7 +1371,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Litman, Jessica"
-msgstr ""
+msgstr "Litman, Jessica"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1331,7 +1379,7 @@ msgid ""
 "Prometheus Books, 2001), ch. 13.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Voir Jessica Litman,<citetitle> Digital Copyright</citetitle> (New York: "
-"Prometheus Books, 2001), ch. 13."
+"Prometheus Books, 2001), ch. 13.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1420,7 +1468,7 @@ msgstr ""
 "variés et plus nombreux. Ces créateurs pourraient proposer et distribuer "
 "des créations plus variées et plus nombreuses&nbsp;; et, en fonction de "
 "quelques facteurs importants, ces créateurs pourraient, en moyenne, mieux "
-"gagner leur vie dans ce systeme qu’ils ne le font aujourd’hui &mdash; du "
+"gagner leur vie dans ce système qu’ils ne le font aujourd’hui &mdash; du "
 "moins si les RCA de notre temps n’utilisent pas la loi pour se protéger de "
 "cette concurrence."
 
@@ -1549,7 +1597,8 @@ msgid ""
 "type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Neil W. Netanel, <quote>Copyright and a Democratic Civil "
-"Society,</quote><citetitle> Yale Law Journal</citetitle> 106 (1996): 283."
+"Society, </quote><citetitle> Yale Law Journal</citetitle> 106 (1996): 283. "
+"<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -2036,10 +2085,11 @@ msgid ""
 "id=\"0\"/>"
 msgstr ""
 "Lisa Bannon, <quote>The Birds May Sing, but Campers Can’t Unless They Pay "
-"Up,</quote><citetitle> Wall Street Journal,</citetitle> 21 August 1996, "
+"Up</quote>, <citetitle>Wall Street Journal</citetitle>, 21 août 1996, "
 "available at link #3; Jonathan Zittrain, <quote>Calling Off the Copyright "
-"War: In Battle of Property vs. Free Speech, No One Wins,</quote><citetitle> "
-"Boston Globe,</citetitle> 24 November 2002."
+"War: In Battle of Property vs. Free Speech, No One Wins</quote>, <citetitle> "
+"Boston Globe</citetitle>, 24 November 2002.  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -2056,10 +2106,14 @@ msgstr ""
 "Ce point de vue sous-tend les débats en cours. C’est ce que Rochelle "
 "Dreyfuss, professeur en droit à l’université de New York, appelle la "
 "théorie <quote>valeur implique droits</quote> de la propriété des "
-"créations<placeholder type=\"footnote\" id=\"0\"/>. Il y avait de la "
-"<quote>valeur</quote> (les chansons), donc il devait y avoir un "
-"<quote>droit</quote>, quand bien même ce droit allait contre les Girl- "
-"Scouts."
+"créations<placeholder type=\"footnote\" id=\"0\"/> &mdash; s'il y a valeur, "
+"alors quelqu'un doit avoir un droit dessus. C'est cette perspective qui "
+"a conduit l'organisation des droits d'auteur, l'ASCAP, à faire un procés "
+"aux Girl Scouts pour ne pas avoir payé pour les chansons que les filles "
+"chantaient autour des feux de camp de scouts.<placeholder type=\"footnote\" "
+"id=\"1\"/> Il y avait de la <quote>valeur</quote> (les chansons), donc il "
+"devait y avoir un <quote>droit</quote>, quand bien même ce droit allait contre "
+"les Girl-Scouts."
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -2368,11 +2422,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Keaton, Buster"
-msgstr ""
+msgstr "Keaton, Buster"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steamboat Bill, Jr."
-msgstr ""
+msgstr "Steamboat Bill, Jr."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2400,8 +2454,8 @@ msgstr ""
 "maître du film muet, usant du genre burlesque pour provoquer le fou rire du "
 "public. <citetitle>Steamboat Bill, Jr.</citetitle> est un classique de ce "
 "genre, fameux chez les cinéphiles passionnés pour ses cascades incroyables. "
-"Le film était typique de Keaton: très populaire, et parmi les meilleurs du "
-"genre."
+"Le film était typique de Keaton&nbsp;: très populaire, et parmi les meilleurs "
+"du genre."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "derivative works"
