@@ -24,7 +24,7 @@ msgstr ""
 #. type: Attribute 'lang' of: <book>
 #: freeculture.xml:15
 msgid "en"
-msgstr ""
+msgstr "fr"
 
 #. type: Content of: <chapter><title>
 msgid "Free Culture"
@@ -73,7 +73,6 @@ msgid "Art&mdash;United States."
 msgstr ""
 
 #. type: Content of: <book><bookinfo><publisher><address>
-msgid msgstr 
 #. type: Content of: <book><bookinfo>
 msgid ""
 "<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
