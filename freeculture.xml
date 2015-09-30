@@ -179,7 +179,7 @@ Code: And Other Laws of Cyberspace (1999)
 <!-- PAGE BREAK 5 -->
 <!-- PAGE BREAK 6 -->
 <!-- PAGE BREAK 7 -->
-<dedication><title></title>
+<dedication id='dedication'><title></title>
 <!-- FIXME figure out how to do this better in dblatex and docbook-xsl -->
 <?latex {\Huge \centering
 ?>
