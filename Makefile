@@ -61,6 +61,9 @@ freeculture.nb.po: freeculture.pot
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
 
+freeculture.fr.xml: freeculture.fr.po freeculture.xml
+	po4a --translate-only freeculture.fr.xml po4a.cfg 
+
 freeculture.es_419.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 freeculture.es_419.xml: freeculture.es_419.po freeculture.xml
@@ -167,6 +170,9 @@ lint: freeculture.xml
 
 lint.nb: freeculture.nb.xml
 	xmllint  $(XMLLINTOPTS) freeculture.nb.xml
+
+lint.fr: freeculture.fr.xml
+	xmllint  $(XMLLINTOPTS) freeculture.fr.xml
 
 images/cc.svg:
 	wget -O $@ http://upload.wikimedia.org/wikipedia/commons/9/97/CC_some_rights_reserved_new_2.svg
