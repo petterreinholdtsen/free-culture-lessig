@@ -3093,7 +3093,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Vaidhyanathan, Siva"
-msgstr ""
+msgstr "Vaidhyanathan, Siva"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -3106,13 +3106,14 @@ msgid ""
 "copyright, patents, trademark, and trade-secret &mdash; but the nature of "
 "those rights is very different."
 msgstr ""
-"Le terme <citetitle>propriété intellectuelle</citetitle> est d'origine "
-"relativement récente. Voir Siva Vaidhyanathan,<citetitle> Copyrights and "
-"Copywrongs,</citetitle> 11 (New York: New York University Press, 2001). Voir "
+"<placeholder type=\"indexterm\" id=\"0\"/> Le terme <citetitle>propriété "
+"intellectuelle</citetitle> est d'origine "
+"relativement récente. Voir Siva Vaidhyanathan, <citetitle>Copyrights and "
+"Copywrongs</citetitle>, 11 (New York: New York University Press, 2001). Voir "
 "aussi Lawrence Lessig,<citetitle> The Future of Ideas</citetitle> (New York: "
 "Random House, 2001), 293 n. 26. Le terme décrit précisément un ensemble de "
 "droits de <quote>propriété</quote>&mdash;copyrights, brevets, marques "
-"réposées et secrets de fabrication&mdash;mais la nature de ces droits est "
+"réposées et secrets de fabrication &mdash; mais la nature de ces droits est "
 "très différente."
 
 #. type: Content of: <book><part><chapter><para>
@@ -3411,15 +3412,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coe, Brian"
-msgstr ""
+msgstr "Coe, Brian"
 
 #. type: Content of: <book><part><chapter><blockquote><para><footnote><para>
 msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> Brian Coe, <citetitle>The Birth "
 "of Photography</citetitle> (New York: Taplinger Publishing, 1977), 53."
 msgstr ""
-"Brian Coe,<citetitle> The Birth of Photography</citetitle> (New York: "
-"Taplinger Publishing, 1977), 53."
+"<placeholder type=\"indexterm\" id=\"0\"/> Brian Coe, <citetitle>The Birth "
+"of Photography</citetitle> (New York: Taplinger Publishing, 1977), 53."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -3473,7 +3474,9 @@ msgstr ""
 "mille négatifs par jour. Entre 1888 et 1909, alors que la production "
 "industrielle augmentait de 4,7 pour cent, les ventes d'équipements et de "
 "matériels photographiques augmentaient de 11 pour cent<placeholder "
-"type=\"footnote\" id=\"0\"/>."
+"type=\"footnote\" id=\"0\"/>. Les ventes de Eastman Kodak augmentèrent durant "
+"cette même période de 17 pour cent par an en moyenne<placeholder "
+"type=\"footnote\" id=\"1\"/>."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid "Coe, 58."
@@ -3614,7 +3617,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Warren, Samuel D."
-msgstr ""
+msgstr "Warren, Samuel D."
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -3623,7 +3626,9 @@ msgid ""
 "type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 msgstr ""
 "Samuel D. Warren et Louis D. Brandeis, <quote>The Right to "
-"Privacy,</quote><citetitle> Harvard Law Review</citetitle> 4 (1890): 193."
+"Privacy</quote>, <citetitle>Harvard Law Review</citetitle> 4 (1890): 193."
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3950,22 +3955,24 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Daley, Elizabeth"
-msgstr ""
+msgstr "Daley, Elizabeth"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Crichton, Michael"
-msgstr ""
+msgstr "Crichton, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Barish, Stephanie"
-msgstr ""
+msgstr "Barish, Stephanie"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
 "Interview with Elizabeth Daley and Stephanie Barish, 13 December 2002.  "
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/>"
-msgstr "Entrevue avec Elizabeth Daley et Stephanie Barish, 13 December 2002."
+msgstr "Entrevue avec Elizabeth Daley et Stephanie Barish, 13 December 2002. "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -4001,7 +4008,14 @@ msgstr ""
 "Communication Annenberg de l'Université de Californie du Sud et doyenne de "
 "l'école de Cinema-Télévision de l'USC, cette grammaire concernait "
 "<quote>le placement des objets, les couleurs, ... le rythme, la vitesses et "
-"la texture.</quote><placeholder type=\"footnote\" id=\"0\"/>"
+"la texture.</quote><placeholder type=\"footnote\" id=\"0\"/> Mais quand les ordinateurs ont "
+"ouvert un espace interactif où une histoire est <quote>jouée</quote> autant que "
+"suivie, la grammaire a changé. Le contrôle simple de la narration est perdu et "
+"donc d'autres techniques sont nécessaires. L'auteur Michael Crichton maîtrisait "
+"la narration de science-fiction. Mais quand il essaya de faire un jeu "
+"d'ordinateur basé sur un de ses livres, il lui a fallu apprendre une "
+"nouvelle forme. Comment conduire des gens à leur insu, le long de l'intrigue "
+"d'un jeu, n'est pas évident même pour un auteur à succès.<placeholder type=\"footnote\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "computer games"
@@ -4061,7 +4075,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid "Interview with Daley and Barish.  <placeholder type=\"indexterm\" id=\"0\"/>"
-msgstr "Entrevue avec Daley et Barish."
+msgstr "Entrevue avec Daley et Barish.<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid "Ibid."
@@ -4085,7 +4099,9 @@ msgstr ""
 "permettent à l'écriture de mener ou de détourner. Le but de toute lecture, "
 "et de celle-ci en particulier, est de <quote>permettre aux gens de choisir le "
 "langage approprié pour ce qu'ils ont besoin de créer ou "
-"d'exprimer.</quote><placeholder type=\"footnote\" id=\"0\"/>"
+"d'exprimer.</quote><placeholder type=\"footnote\" id=\"0\"/> C'est de permettre "
+"aux étudiants <quote>de communiquer dans le langage du vingt-et-unième "
+"siècle.</quote><placeholder type=\"footnote\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4824,7 +4840,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Olafson, Steve"
-msgstr ""
+msgstr "Olafson, Steve"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -4840,8 +4856,11 @@ msgid ""
 "personal Web log, published under a pseudonym, that dealt with some of the "
 "issues and people he was covering.</quote>)"
 msgstr ""
-"Voir Michael Falcone, <quote>Does an Editor's Pencil Ruin a Web "
-"Log?</quote><citetitle> New York Times,</citetitle> 29 September 2003, C4. "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder "
+"type=\"indexterm\" id=\"3\"/> Voir Michael Falcone, <quote>Does an Editor's "
+"Pencil Ruin a Web Log?</quote><citetitle> New York Times,</citetitle> 29 "
+"septembre 2003, C4. "
 "(<quote>Toutes les organisations d'information n'ont pas été aussi "
 "tolérantes envers les employés qui blogguent. Kevin Sites, un correspondant "
 "de CNN en Irak qui avait commencé un blog sur son reportage sur la guerre le "
@@ -5639,7 +5658,11 @@ msgstr ""
 "a-t-il à faire des boucs émissaires? La RIAA est un lobby extrêmement "
 "puissant. Son président gagne, semble-t-il, plus d'un million de dollars par "
 "an. Les artistes, en revanche, ne sont pas bien payés. Un chanteur gagne en "
-"moyenne 45.900 dollars<placeholder type=\"footnote\" id=\"0\"/>?"
+"moyenne 45.900 dollars par an<placeholder type=\"footnote\" id=\"0\"/>. "
+"La RIAA a énormément de moyens, pour influencer et diriger la politique. "
+"Où est donc la morale à prendre de l'argent d'un étudiant pour avoir "
+"fait tourner un moteur de recherche&nbsp;?<placeholder type=\"footnote\" "
+"id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5717,7 +5740,8 @@ msgid ""
 "<citetitle>Copyrights and Copywrongs</citetitle>, 87&ndash;93, which details "
 "Edison's <quote>adventures</quote> with copyright and patent."
 msgstr ""
-"Je suis reconnaissant envers Peter DiMauro pour m'avoir indiqué cette "
+"<placeholder type=\"indexterm\" id=\"0\"/>Je suis reconnaissant envers Peter "
+"DiMauro pour m'avoir indiqué cette "
 "histoire extraordinaire. Voir également Siva Vaidhyanathan,<citetitle> "
 "Copyrights and Copywrongs,</citetitle> 87-93, qui détaille les "
 "<quote>aventures</quote> d'Edison avec les copyrights et les brevets."
@@ -5805,7 +5829,7 @@ msgstr ""
 "C. Picker, <quote>From Edison to the Broadcast Flag: Mechanisms of Consent "
 "and Refusal and the Prop- ertization of Copyright</quote> (September 2002), "
 "University of Chicago Law School, James M. Olin Program in Law and Economics, "
-"Working Paper No. 159."
+"Working Paper No. 159.<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -5966,7 +5990,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Kittredge, Alfred"
-msgstr ""
+msgstr "Kittredge, Alfred"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -5976,7 +6000,7 @@ msgid ""
 msgstr ""
 "Les compositeurs (et éditeurs) étaient tout sauf heureux de cette "
 "possibilité de piratage. Pour reprendre les mots du sénateur Alfred "
-"Kittredge, du Sud Dakota,"
+"Kittredge, du Sud Dakota, <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 msgid ""
@@ -5993,7 +6017,8 @@ msgstr ""
 "sess. (1906) (statement of Senator Alfred B. Kittredge, of South Dakota, "
 "chairman), reprinted in<citetitle> Legislative History of the 1909 Copyright "
 "Act,</citetitle> E. Fulton Brylawski and Abe Goldman, eds. (South Hack- "
-"ensack, N.J.: Rothman Reprints, 1976)."
+"ensack, N.J.: Rothman Reprints, 1976).  <placeholder type=\"indexterm\" "
+"id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -6052,7 +6077,12 @@ msgid ""
 msgstr ""
 "Les innovateurs qui avaient développé la technologie pour enregistrer le "
 "travail des autres <quote>essoraient le travail, le talent et le génie des "
-"compositeurs américains</quote><placeholder type=\"footnote\" id=\"0\"/>"
+"compositeurs américains</quote><placeholder type=\"footnote\" id=\"0\"/> et "
+"l'<quote>industrie de l'édition musicale</quote> se trouvait donc <quote>à la "
+"merci de ces pirates.</quote><placeholder type=\"footnote\" id=\"1\"/> "
+"Comme l'a dit Philip Sousa, de la manière la plus directe possible, "
+"<quote>Si ils font du profit avec ma musique, alors j'en veux une "
+"partie.</quote><placeholder type=\"footnote\" id=\"2\"/>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "American Graphophone Company"
@@ -6123,7 +6153,13 @@ msgstr ""
 "que l'apparition de machines à jouer de la musique n'a privé aucun "
 "compositeur de rien qu'il n'eut avant.</quote> Au contraire, les machines "
 "augmentaient les ventes de partitions.<placeholder type=\"footnote\" "
-"id=\"0\"/>"
+"id=\"0\"/> Quoi qu'il en soit, dirent les "
+"inventeurs, le devoir du Congrès était de \"privilégier l'intérêt du "
+"[public], qu'il représente et doit servir.\""
+"\"Tous ces discours parlant de 'vol',\" écrivit le conseiller général de la "
+"Compagnie Américaine des Graphophones, \"n'est que de la poudre aux yeux, "
+"car il n'existe pas de propriété des idées musicales, littéraires ou "
+"artistiques, sauf définie par décret.\""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "cover songs"
