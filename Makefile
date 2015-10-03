@@ -44,6 +44,11 @@ HTML_XSLT = \
   data/html.xsl \
   data/stylesheet-html.xsl
 
+EPUB_XSLT = \
+  $(XSLT) \
+  data/html.xsl \
+  data/stylesheet-epub.xsl
+
 PDF_XSLT = \
   $(DB_XSLT) \
   $(XSLT) \
@@ -134,8 +139,10 @@ pdf-compare: freeculture.xml $(IMAGES)
 %.txt: %.xml $(IMAGES)
 	xmlto txt $<
 
-%.epub: %.xml $(IMAGES)
-	$(DBTOEPUB) $<
+%.epub: %.xml $(IMAGES) $(EPUB_XSLT)
+	$(DBTOEPUB) \
+	-s data/stylesheet-epub.xsl \
+	$<
 
 %.mobi: %.epub
 	ebook-convert $< $@

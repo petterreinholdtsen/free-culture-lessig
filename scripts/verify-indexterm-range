@@ -1,0 +1,31 @@
+#!/usr/bin/python
+#
+# Verify the <indexterm> ranges of a docbook document, ensuring
+# endofrange come after startofrange, and the IDs used by startofrange
+# are unique.
+
+from  lxml import etree
+def main():
+    filename = 'freeculture.xml'
+    doc = etree.parse(filename)
+    ids = {}
+    order = 0
+    for it in doc.getroot().xpath('//indexterm'):
+        order = order + 1
+        indextermclass = None
+        id = None
+        if 'class' in it.attrib:
+            indextermclass = it.attrib['class']
+            if 'startofrange' == indextermclass:
+                id=it.attrib['id']
+                if id in ids:
+                    print "error: non-unique indexterm id: %s" % id
+                ids[id] = order
+            if  'endofrange' == indextermclass:
+                id = it.attrib['startref']
+                if id not in ids:
+                    print "error: indexterm id=\"%s\" not listed before endofrange" % id
+            print indextermclass, id
+
+if __name__ == "main":
+    main()
