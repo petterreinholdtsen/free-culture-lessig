@@ -27583,7 +27583,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><title>
 msgid "Them, soon"
-msgstr ""
+msgstr "Eux, bientôt"
 
 #. type: Content of: <book><chapter><section><para>
 msgid ""
@@ -27614,7 +27614,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "1. More Formalities"
-msgstr ""
+msgstr "1. Davantage de formalités"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27742,7 +27742,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><title>
 msgid "Registration and renewal"
-msgstr ""
+msgstr "Enregistrement et renouvellement"
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
@@ -27848,7 +27848,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><title>
 msgid "Marking"
-msgstr ""
+msgstr "Marquage"
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
@@ -28025,7 +28025,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "2. Shorter Terms"
-msgstr ""
+msgstr "2. Une durée plus courte"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28215,7 +28215,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "3. Free Use Vs. Fair Use"
-msgstr ""
+msgstr "3. Usage libre contre usage loyal"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28432,7 +28432,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "4. Liberate the Music&mdash;Again"
-msgstr ""
+msgstr "4. Libérer la musique, à nouveau"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -29213,7 +29213,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "5. Fire Lots of Lawyers"
-msgstr ""
+msgstr "5. Virer beaucoup d'avocats"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
