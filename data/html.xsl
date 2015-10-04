@@ -21,6 +21,7 @@
       <xsl:call-template name="id.attribute">
 	<xsl:with-param name="conditional" select="0"/>
       </xsl:call-template>
+      <xsl:call-template name="dedication.titlepage"/>
       <xsl:apply-templates/>
       <xsl:call-template name="process.footnotes"/>
     </div>
