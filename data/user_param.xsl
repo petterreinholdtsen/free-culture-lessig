@@ -22,31 +22,22 @@
   <xsl:param name="figure.title.top">0</xsl:param>
   <xsl:param name="figure.anchor.top">1</xsl:param>
 
-  <!-- Drop the number in front of chapters -->
   <xsl:param name="local.l10n.xml" select="document('')"/> 
   <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
     <l:l10n language="nb">
+      <!-- Drop the number in front of chapters -->
       <l:context name="title-numbered">
 	<l:template name="chapter" text="%t"/>
       </l:context>
+      <!-- Fix bugs in default nb locale -->
+      <l:dingbat key="startquote" text="«"/>
+      <l:dingbat key="endquote" text="»"/>
+      <l:dingbat key="nestedstartquote" text="‘"/>
+      <l:dingbat key="nestedendquote" text="’"/>
     </l:l10n>
   </l:i18n>
 
   <!-- Make preface show up in toc for dblatex -->
   <xsl:param name="preface.tocdepth">1</xsl:param>
-
-  <!-- Fix bugs in default nb locale -->
-  <xsl:template name="gentext.startquote">
-    <xsl:text>«</xsl:text>
-  </xsl:template>
-  <xsl:template name="gentext.endquote">
-    <xsl:text>»</xsl:text>
-  </xsl:template>
-  <xsl:template name="gentext.nestedstartquote">
-    <xsl:text>‘</xsl:text>
-  </xsl:template>
-  <xsl:template name="gentext.nestedendquote">
-    <xsl:text>’</xsl:text>
-  </xsl:template>
 
 </xsl:stylesheet>
