@@ -1320,7 +1320,7 @@ msgstr ""
 "åndsverklovene forfatterne makt til å kontrollere spredningen av fakta om "
 "seg selv. Se Samuel D. Warren og Louis Brandeis, <quote>The Right to Privacy,"
 "</quote> <citetitle>Harvard Law Review</citetitle> 4 (1890): 193, "
-"198&ndash;200. <placeholder type=\"indexterm\" id=\"0\"/>"
+"198&ndash;200.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
