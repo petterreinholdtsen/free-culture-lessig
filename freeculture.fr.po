@@ -261,8 +261,8 @@ msgid ""
 "David Pogue, <quote>Don't Just Chat, Do Something,</quote> <citetitle>New "
 "York Times</citetitle>, 30 January 2000."
 msgstr ""
-"David Pogue, <quote>Don’t Just Chat, Do Something,</quote><citetitle> New "
-"York Times,</citetitle> 30 January 2000."
+"David Pogue, <quote>Don’t Just Chat, Do Something</quote>,<citetitle> New "
+"York Times</citetitle>, 30 janvier 2000."
 
 #. type: Content of: <book><preface><blockquote><para>
 msgid ""
@@ -333,7 +333,7 @@ msgid ""
 "Richard M. Stallman, <citetitle>Free Software, Free Societies</citetitle> 57 "
 "(Joshua Gay, ed. 2002)."
 msgstr ""
-"Richard M. Stallman,<citetitle> Free Software, Free Societies</citetitle> 57 "
+"Richard M. Stallman, <citetitle> Free Software, Free Societies</citetitle> 57 "
 "(Joshua Gay, ed. 2002)."
 
 #. type: Content of: <book><preface><para>
@@ -434,8 +434,8 @@ msgid ""
 "William Safire, <quote>The Great Media Gulp,</quote> <citetitle>New York "
 "Times</citetitle>, 22 May 2003.  <placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
-"William Safire, <quote>The Great Media Gulp,</quote><citetitle> New York "
-"Times,</citetitle> 22 May 2003.  <placeholder type=\"indexterm\" id=\"0\"/>"
+"William Safire, <quote>The Great Media Gulp</quote>, <citetitle> New York "
+"Times</citetitle>, 22 mai 2003.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><preface><blockquote><para>
 msgid ""
@@ -590,7 +590,7 @@ msgid ""
 "St. George Tucker, <citetitle>Blackstone's Commentaries</citetitle> 3 (South "
 "Hackensack, N.J.: Rothman Reprints, 1969), 18."
 msgstr ""
-"St. George Tucker,<citetitle> Blackstone’s Commentaries</citetitle> 3 "
+"St. George Tucker,<citetitle>Blackstone’s Commentaries</citetitle> 3 "
 "(South Hackensack, N.J.&nbsp;: Rothman Reprints, 1969), 18."
 
 #. type: Content of: <book><chapter><para>
@@ -714,9 +714,9 @@ msgstr ""
 "considéra qu’il pouvait y avoir une <quote>saisie</quote> si l’usage de "
 "ce terrain par le gouvernement détruisait la valeur du terrain des Causby. "
 "Cet exemple m’a été suggéré par la merveilleuse œuvre de Keith Aoki, "
-"<quote>(Intellectual) Property and Sovereignty&nbsp;: Notes Toward a Cultural "
-"Geography of Authorship</quote>, <citetitle> Stanford Law Review</citetitle> "
-"48 (1996)&nbsp;: 1293, 1333. Voir également Paul Goldstein,<citetitle> Real "
+"<quote>(Intellectual) Property and Sovereignty: Notes Toward a Cultural "
+"Geography of Authorship</quote>, <citetitle>Stanford Law Review</citetitle> "
+"48 (1996)&nbsp;: 1293, 1333. Voir également Paul Goldstein, <citetitle> Real "
 "Property</citetitle> (Mineola, N.Y.&nbsp;: Foundation Press, 1984), "
 "1112-13.<placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
@@ -907,7 +907,7 @@ msgid ""
 "Lawrence Lessing, <citetitle>Man of High Fidelity: Edwin Howard Armstrong</"
 "citetitle> (Philadelphia: J. B. Lipincott Company, 1956), 209."
 msgstr ""
-"Lawrence Lessing, <citetitle>Man of High Fidelity&nbsp;: Edwin Howard "
+"Lawrence Lessing, <citetitle>Man of High Fidelity: Edwin Howard "
 "Armstrong</citetitle> (Philadelphia&nbsp;: J. B. Lipincott Company, 1956), "
 "209."
 
@@ -981,8 +981,8 @@ msgid ""
 "First Electronic Church of America, at www.webstationone.com/fecha, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #1</ulink>."
 msgstr ""
-"Voir <quote>Saints&nbsp;: The Heroes and Geniuses of the Electronic "
-"Era</quote>, First Electronic Church of America, à "
+"Voir <quote>Saints: The Heroes and Geniuses of the Electronic "
+"Era</quote>, première église électronique d'Amérique, à "
 "www.webstationone.com/fecha, disponible au <ulink url=\"http://free- "
 "culture.cc/notes/\">lien #1</ulink>."
 
@@ -1182,9 +1182,9 @@ msgid ""
 "Life Project, 15 April 2003: 6, available at <ulink url=\"http://free-"
 "culture.cc/notes/\">link #2</ulink>."
 msgstr ""
-"Amanda Lenhart, <quote>The Ever-Shifting Internet Population&nbsp;: A New "
+"Amanda Lenhart, <quote>The Ever-Shifting Internet Population: A New "
 "Look at Internet Access and the Digital Divide</quote>, Pew Internet and "
-"American Life Project, 15 April 2003&nbsp;: 6, disponible au <ulink "
+"American Life Project, 15 avril 2003&nbsp;: 6, disponible au <ulink "
 "url=\"http://free-culture.cc/notes/\">lien #2</ulink>."
 
 #. type: Content of: <book><chapter><para>
@@ -1322,7 +1322,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Brandeis, Louis D."
-msgstr ""
+msgstr "Brandeis, Louis D."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1338,7 +1338,7 @@ msgid ""
 msgstr ""
 "Ce n’est pas le seul but du copyright, bien que ce soit le but primaire "
 "principal du copyright établi dans la constitution fédérale. La loi "
-"d’État du copyright protégeait historiquement non seulement l’intérêt "
+"d’État du copyright protégeait historiquement non seulement les intérêts "
 "commerciaux dans l’édition, mais aussi un intérêt de vie privée. En "
 "accordant aux auteurs le droit exclusif de la première publication, la loi "
 "d’État du copyright donnait aux auteurs le pouvoir de contrôler la "
@@ -1514,9 +1514,9 @@ msgid ""
 "Tools to Turn the Net into an Illicit Video Club,</quote> <citetitle>New "
 "York Times</citetitle>, 17 January 2002."
 msgstr ""
-"Amy Harmon, <quote>Black Hawk Download&nbsp;: Moving Beyond Music, Pirates "
-"Use New Tools to Turn the Net into an Illicit Video Club,</quote><citetitle> "
-"New York Times,</citetitle> 17 January 2002."
+"Amy Harmon, <quote>Black Hawk Download: Moving Beyond Music, Pirates "
+"Use New Tools to Turn the Net into an Illicit Video Club</quote>, <citetitle> "
+"New York Times</citetitle>, 17 janvier 2002."
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1592,11 +1592,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "First Amendment"
-msgstr ""
+msgstr "Premier amendement"
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Netanel, Neil Weinstock"
-msgstr ""
+msgstr "Netanel, Neil Weinstock"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1604,8 +1604,8 @@ msgid ""
 "<citetitle>Yale Law Journal</citetitle> 106 (1996): 283.  <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 msgstr ""
-"Neil W. Netanel, <quote>Copyright and a Democratic Civil Society, "
-"</quote><citetitle> Yale Law Journal</citetitle> 106 (1996)&nbsp;: 283. "
+"Neil W. Netanel, <quote>Copyright and a Democratic Civil Society"
+"</quote>, <citetitle> Yale Law Journal</citetitle> 106 (1996)&nbsp;: 283. "
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><chapter><para>
@@ -2047,11 +2047,11 @@ msgstr ""
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "ASCAP"
-msgstr ""
+msgstr "ASCAP"
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "Dreyfuss, Rochelle"
-msgstr ""
+msgstr "Dreyfuss, Rochelle"
 
 #. type: Content of: <book><part><partintro><indexterm><primary>
 msgid "Girl Scouts"
@@ -2076,8 +2076,8 @@ msgid ""
 "in the Pepsi Generation,</quote> <citetitle>Notre Dame Law Review</"
 "citetitle> 65 (1990): 397."
 msgstr ""
-"Voir Rochelle Dreyfuss, <quote>Expressive Genericity&nbsp;: Trademarks as "
-"Language in the Pepsi Generation,</quote><citetitle> Notre Dame Law "
+"Voir Rochelle Dreyfuss, <quote>Expressive Genericity: Trademarks as "
+"Language in the Pepsi Generation</quote>, <citetitle>Notre Dame Law "
 "Review</citetitle> 65 (1990)&nbsp;: 397."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
@@ -2208,7 +2208,7 @@ msgstr ""
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Florida, Richard"
-msgstr ""
+msgstr "Florida, Richard"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Rise of the Creative Class, The (Florida)"
@@ -2225,13 +2225,14 @@ msgid ""
 "much more tenuous.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
 msgstr ""
-"In <citetitle>The Rise of the Creative Class</citetitle> (New York&nbsp;: "
-"Basic Books, 2002), Richard Florida documents a shift in the nature of labor "
-"toward a labor of creativity.  His work, however, doesn't directly address "
-"the legal conditions under which that creativity is enabled or stifled. I "
-"certainly agree with him about the importance and significance of this "
-"change, but I also believe the conditions under which it will be enabled are "
-"much more tenuous.  <placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
+"Dans <citetitle>The Rise of the Creative Class</citetitle> (New York&nbsp;: "
+"Basic Books, 2002), Richard Florida documente un glissement dans la nature "
+"du travail vers un travail créatif. Cependant, son oeuvre n'aborde "
+"pas les conditions légales qui permettent ou étouffent cette créativité. "
+"Je suis tout à fait d'accord avec lui sur l'importance significative "
+"de cette évolution, mais je crois aussi que les conditions qui autorisent "
+"cette créativité sont beaucoup plus minces. "
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder "
 "type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><partintro><para>
@@ -2385,7 +2386,7 @@ msgid ""
 "Leonard Maltin, <citetitle>Of Mice and Magic: A History of American Animated "
 "Cartoons</citetitle> (New York: Penguin Books, 1987), 34&ndash;35."
 msgstr ""
-"Leonard Maltin,<citetitle> Of Mice and Magic&nbsp;: A History of American "
+"Leonard Maltin, <citetitle>Of Mice and Magic&nbsp;: A History of American "
 "Animated Cartoons</citetitle> (New York&nbsp;: Penguin Books, 1987), 34-35."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
@@ -2550,8 +2551,8 @@ msgid ""
 "\"http://free-culture.cc/notes/\">link #5</ulink>."
 msgstr ""
 "Il était également un fan du domaine public. Voir Chris Sprigman, "
-"<quote>The Mouse that Ate the Public Domain,</quote> Findlaw, 5 March 2002, "
-"at <ulink url=\"http://free-culture.cc/notes/\">lien #5</ulink>."
+"<quote>The Mouse that Ate the Public Domain</quote>, Findlaw, 5 mars 2002, "
+"au <ulink url=\"http://free-culture.cc/notes/\">lien #5</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2700,13 +2701,13 @@ msgid ""
 "other relevant data, see the Web site associated with this book, available "
 "at <ulink url=\"http://free-culture.cc/notes/\">link #6</ulink>."
 msgstr ""
-"Jusqu'à 1976, la loi du copyright copyright accordait à un auteur la "
+"Jusqu'à 1976, la loi du copyright accordait à un auteur la "
 "possibilité de deux durées&nbsp;: une durée initiale et une durée de "
 "renouvellement. J'ai calculé la durée <quote>moyenne</quote> en "
 "déterminant la moyenne pondérée du total des enregistrements pour chaque "
 "année, et la proportion de renouvellement. Ainsi, si 100 copyrights sont "
-"enregistrés à l'année 1, et que seuls 15 sont renouvelés, et que la "
-"durée du renouvellement est de 28 ans, alors la durée moyenne es de 32,2 "
+"enregistrés à l'année 1, et que seuls 15 sont renouvellés, et que la "
+"durée du renouvellement est de 28 ans, alors la durée moyenne est de 32,2 "
 "ans. Pour les données de renouvellement et d'autres données pertinentes, "
 "voir le site web associé à ce livre, disponible au <ulink url=\"http:"
 "//free-culture.cc/notes/\">lien #6</ulink>."
@@ -3009,16 +3010,16 @@ msgid ""
 "set aside their individual self-interest and decide not to press their legal "
 "rights. This is essentially a prisoner's dilemma solved.</quote>"
 msgstr ""
-"Voir Salil K. Mehra, <quote>Copyright and Comics in Japan&nbsp;: Does Law "
+"Voir Salil K. Mehra, <quote>Copyright and Comics in Japan: Does Law "
 "Explain Why All the Comics My Kid Watches Are Japanese "
-"Imports&nbsp;?</quote><citetitle> Rutgers Law Review</citetitle> 55 "
+"Imports?</quote>, <citetitle> Rutgers Law Review</citetitle> 55 "
 "(2002)&nbsp;: 155, 182. <quote>Il pourrait y avoir une rationalité "
 "économique collective qui ferait que les principaux artistes de manga et "
 "d'anime renoncent à des actions légales pour violation. Une hypothèse est "
 "que tous les artistes de manga sont peut-être en meilleure posture "
 "collectivement s'ils mettent de côté leur intérêt personnel et décident "
-"de ne pas pousser leurs droits légaux. C'est essentiellement un dilemme de "
-"prisonnier résolu.</quote>"
+"de ne pas pousser leurs droits légaux. C'est essentiellement un <quote>dilemne du "
+"prisonnier</quote> résolu.</quote>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3136,7 +3137,7 @@ msgstr ""
 "York&nbsp;: New York University Press, 2001). Voir aussi Lawrence "
 "Lessig,<citetitle> The Future of Ideas</citetitle> (New York&nbsp;: Random "
 "House, 2001), 293 n. 26. Le terme décrit précisément un ensemble de droits "
-"de <quote>propriété</quote>&mdash;copyrights, brevets, marques réposées "
+"de <quote>propriété</quote>&mdash;copyrights, brevets, marques déposées "
 "et secrets de fabrication &mdash; mais la nature de ces droits est très "
 "différente."
 
@@ -3408,7 +3409,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Kodak cameras"
-msgstr ""
+msgstr "Kodak, appareils photographiques"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kodak Primer, The (Eastman)"
@@ -3420,7 +3421,7 @@ msgid ""
 "Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> (Baltimore: "
 "Johns Hopkins University Press, 1975), 112."
 msgstr ""
-"Reese V. Jenkins,<citetitle> Images and Enterprise</citetitle> "
+"Reese V. Jenkins, <citetitle>Images and Enterprise</citetitle> "
 "(Baltimore&nbsp;: Johns Hopkins University Press, 1975), 112."
 
 #. type: Content of: <book><part><chapter><para>
@@ -3695,11 +3696,11 @@ msgid ""
 "<citetitle>Samsung Electronics America, Inc</citetitle>., 971 F.  2d 1395 "
 "(9th Cir. 1992), cert. denied, 508 U.S. 951 (1993)."
 msgstr ""
-"Voir Melville B. Nimmer, <quote>The Right of Publicity,</quote><citetitle> "
+"Voir Melville B. Nimmer, <quote>The Right of Publicity</quote>, <citetitle> "
 "Law and Contemporary Problems</citetitle> 19 (1954)&nbsp;: 203&nbsp;; William "
-"L. Prosser, <quote>Privacy,</quote><citetitle> California Law "
-"Review</citetitle> 48 (1960) 398-407&nbsp;;<citetitle> White</citetitle> "
-"v.<citetitle> Samsung Electronics America, Inc.,</citetitle> 971 F. 2d 1395 "
+"L. Prosser, <quote>Privacy</quote>, <citetitle> California Law "
+"Review</citetitle> 48 (1960) 398-407&nbsp;; <citetitle>White</citetitle> "
+"v. <citetitle> Samsung Electronics America, Inc.</citetitle>, 971 F. 2d 1395 "
 "(9th Cir. 1992), cert. denied, 508 U.S. 951 (1993)."
 
 #. type: Content of: <book><part><chapter><para>
@@ -3845,8 +3846,8 @@ msgid ""
 "notes/\">link #7</ulink>."
 msgstr ""
 "H. Edward Goldberg, <quote>Essential Presentation Tools&nbsp;: Hardware and "
-"Software You Need to Create Digital Multimedia Presentations,</quote> "
-"cadalyst, 1 February 2002, disponible au <ulink url=\"http://free- "
+"Software You Need to Create Digital Multimedia Presentations</quote>, "
+"cadalyst, 1 février 2002, disponible au <ulink url=\"http://free- "
 "culture.cc/notes/\">lien #7</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
@@ -3907,15 +3908,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "advertising"
-msgstr ""
+msgstr "publicitaire"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "commercials"
-msgstr ""
+msgstr "publicités"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "television"
-msgstr ""
+msgstr "télévision"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "advertising on"
@@ -3929,10 +3930,10 @@ msgid ""
 "Family and TV Study,</quote> <citetitle>Denver Post</citetitle>, 25 May "
 "1997, B6."
 msgstr ""
-"Judith Van Evra,<citetitle> Television and Child Development</citetitle> "
+"Judith Van Evra, <citetitle> Television and Child Development</citetitle> "
 "(Hillsdale, N.J.&nbsp;: Lawrence Erlbaum Associates, 1990)&nbsp;; "
-"<quote>Findings on Family and TV Study,</quote><citetitle> Denver "
-"Post,</citetitle> 25 May 1997, B6."
+"<quote>Findings on Family and TV Study</quote>, <citetitle>Denver "
+"Post</citetitle>, 25 mai 1997, B6."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4008,7 +4009,7 @@ msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/>"
 msgstr ""
-"Entrevue avec Elizabeth Daley et Stephanie Barish, 13 December 2002. "
+"Entrevue avec Elizabeth Daley et Stephanie Barish, 13 décembre 2002. "
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/>"
 
@@ -4020,9 +4021,9 @@ msgid ""
 "\">link #8</ulink>; <quote>Timeline,</quote> 22 November 2000, available at "
 "<ulink url=\"http://free-culture.cc/notes/\">link #9</ulink>."
 msgstr ""
-"Voir Scott Steinberg, <quote>Crichton Gets Medieval on PCs,</quote> "
+"Voir Scott Steinberg, <quote>Crichton Gets Medieval on PCs</quote>, "
 "E&nbsp;!online, 4 novembre 2000, disponible au <ulink url=\"http://free- "
-"culture.cc/notes/\">lien #8</ulink>&nbsp;; <quote>Timeline,</quote> 22 "
+"culture.cc/notes/\">lien #8</ulink>&nbsp;; <quote>Timeline</quote>, 22 "
 "novembre 2000, disponible au <ulink url=\"http://free- "
 "culture.cc/notes/\">lien #9</ulink>."
 
@@ -4364,11 +4365,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "ABC"
-msgstr ""
+msgstr "ABC"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CBS"
-msgstr ""
+msgstr "CBS"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Cyber Rights (Godwin)"
@@ -4376,7 +4377,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Godwin, Mike"
-msgstr ""
+msgstr "Godwin, Mike"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "news events on"
@@ -4448,15 +4449,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "blogs (Web-logs)"
-msgstr ""
+msgstr "blogs (Web-logs)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "blogs on"
-msgstr ""
+msgstr "blogs sur"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Web-logs (blogs)"
-msgstr ""
+msgstr "Web-logs (blogs)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4556,8 +4557,8 @@ msgid ""
 "citetitle>, bk. 1, trans.  Henry Reeve (New York: Bantam Books, 2000), ch. "
 "16."
 msgstr ""
-"Voir, par exemple, Alexis de Tocqueville,<citetitle> Democracy in "
-"America,</citetitle> bk. 1, trans. Henry Reeve (New York&nbsp;: Bantam Books, "
+"Voir, par exemple, Alexis de Tocqueville, <citetitle>De la démocratie en "
+"Amerique</citetitle>, bk. 1, traduit par Henry Reeve (New York&nbsp;: Bantam Books, "
 "2000), ch. 16."
 
 #. type: Content of: <book><part><chapter><para>
@@ -4600,7 +4601,7 @@ msgid ""
 "Bruce Ackerman and James Fishkin, <quote>Deliberation Day,</quote> "
 "<citetitle>Journal of Political Philosophy</citetitle> 10 (2) (2002): 129."
 msgstr ""
-"Bruce Ackerman et James Fishkin, <quote>Deliberation Day,</quote><citetitle> "
+"Bruce Ackerman et James Fishkin, <quote>Deliberation Day</quote>, <citetitle>"
 "Journal of Political Philosophy</citetitle> 10 (2) (2002)&nbsp;: 129."
 
 #. type: Content of: <book><part><chapter><para>
@@ -4627,7 +4628,7 @@ msgid ""
 "Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton: Princeton "
 "University Press, 2001), 65&ndash;80, 175, 182, 183, 192."
 msgstr ""
-"Cass Sunstein,<citetitle> Republic.com</citetitle> (Princeton&nbsp;: "
+"Cass Sunstein, <citetitle>Republic.com</citetitle> (Princeton&nbsp;: "
 "Princeton University Press, 2001), 65-80, 175, 182, 183, 192."
 
 #. type: Content of: <book><part><chapter><para>
@@ -4820,11 +4821,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "CNN"
-msgstr ""
+msgstr "CNN"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Iraq war"
-msgstr ""
+msgstr "Guerre en Irak"
 
 #.  f19 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4868,10 +4869,10 @@ msgid ""
 "but Strong Overall,</quote> Online Journalism Review, 2 February 2003, "
 "available at <ulink url=\"http://free-culture.cc/notes/\">link #10</ulink>."
 msgstr ""
-"John Schwartz, <quote>Loss of the Shuttle&nbsp;: The Internet&nbsp;; A Wealth "
-"of Information Online,</quote><citetitle> New York Times,</citetitle> 2 "
-"February 2003, A28&nbsp;; Staci D. Kramer, <quote>Shuttle Disaster Coverage "
-"Mixed, but Strong Overall,</quote> Online Journalism Review, 2 February 2003, "
+"John Schwartz, <quote>Loss of the Shuttle: The Internet; A Wealth "
+"of Information Online</quote>, <citetitle>New York Times</citetitle>, 2 "
+"février 2003, A28&nbsp;; Staci D. Kramer, <quote>Shuttle Disaster Coverage "
+"Mixed, but Strong Overall</quote>, Online Journalism Review, 2 février 2003, "
 "disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #10</ulink>."
 
 #. type: Content of: <book><part><chapter><para>
@@ -4923,7 +4924,7 @@ msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
 "id=\"1\"/> <placeholder type=\"indexterm\" id=\"2\"/> <placeholder "
 "type=\"indexterm\" id=\"3\"/> Voir Michael Falcone, <quote>Does an Editor's "
-"Pencil Ruin a Web Log&nbsp;?</quote><citetitle> New York Times,</citetitle> "
+"Pencil Ruin a Web Log?</quote>, <citetitle>New York Times</citetitle>, "
 "29 septembre 2003, C4. (<quote>Toutes les organisations d'information n'ont "
 "pas été aussi tolérantes envers les employés qui blogguent. Kevin Sites, "
 "un correspondant de CNN en Irak qui avait commencé un blog sur son reportage "
@@ -5161,7 +5162,7 @@ msgid ""
 "citetitle> 43 (2000): 9."
 msgstr ""
 "Voir, par exemple, Edward Felten et Andrew Appel, <quote>Technological Access "
-"Control Interferes with Noninfringing Scholarship,</quote><citetitle> "
+"Control Interferes with Noninfringing Scholarship</quote>, <citetitle>"
 "Communications of the Association for Computer Machinery</citetitle> 43 "
 "(2000)&nbsp;: 9."
 
@@ -5579,9 +5580,9 @@ msgid ""
 "Alleges $97.8 Billion in Damages,</quote> <citetitle>Professional Media "
 "Group LCC</citetitle> 6 (2003): 5, available at 2003 WL 55179443."
 msgstr ""
-"Tim Goral, <quote>Recording Industry Goes After Campus P-2-P Networks&nbsp;: "
-"Suit Alleges $97.8 Billion in Damages,</quote><citetitle> Professional Media "
-"Group LCC</citetitle> 6 (2003)&nbsp;: 5, available at 2003 WL 55179443."
+"Tim Goral, <quote>Recording Industry Goes After Campus P-2-P Networks: "
+"Suit Alleges $97.8 Billion in Damages</quote>, <citetitle> Professional Media "
+"Group LCC</citetitle> 6 (2003)&nbsp;: 5, disponible au 2003 WL 55179443."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5713,7 +5714,7 @@ msgid ""
 "quote> <citetitle>Wall Street Journal</citetitle>, 10 September 2003, A24."
 msgstr ""
 "Douglas Lichtman fait un argument apparenté dans <quote>KaZaA and Punishment,"
-"</quote><citetitle> Wall Street Journal,</citetitle> 10 septembre 2003, A24."
+"</quote><citetitle> Wall Street Journal</citetitle>, 10 septembre 2003, A24."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5833,7 +5834,7 @@ msgid ""
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/>Je suis reconnaissant envers Peter "
 "DiMauro pour m'avoir indiqué cette histoire extraordinaire. Voir également "
-"Siva Vaidhyanathan,<citetitle> Copyrights and Copywrongs,</citetitle> 87-93, "
+"Siva Vaidhyanathan, <citetitle>Copyrights and Copywrongs</citetitle>, 87-93, "
 "qui détaille les <quote>aventures</quote> d'Edison avec les copyrights et "
 "les brevets."
 
@@ -5915,14 +5916,14 @@ msgstr ""
 "J. A. Aberdeen,<citetitle> Hollywood Renegades&nbsp;: The Society of "
 "Independent Motion Picture Producers</citetitle> (Cobblestone Entertainment, "
 "2000) et textes complétés postés à <quote>The Edison Movie "
-"Monopoly&nbsp;: The Motion Picture Patents Company vs. the Independent "
-"Outlaws,</quote> disponible au <ulink url=\"http://free- "
+"Monopoly: The Motion Picture Patents Company vs. the Independent "
+"Outlaws</quote>, disponible au <ulink url=\"http://free- "
 "culture.cc/notes/\">lien #11</ulink>. Pour une discussion sur la motivation "
 "économique derrière ces limites et les limites imposées par Victor sur les "
 "phonographes, voir Randal C. Picker, <quote>From Edison to the Broadcast "
-"Flag&nbsp;: Mechanisms of Consent and Refusal and the Prop- ertization of "
-"Copyright</quote> (September 2002), University of Chicago Law School, James "
-"M. Olin Program in Law and Economics, Working Paper No. 159.<placeholder "
+"Flag: Mechanisms of Consent and Refusal and the Propertization of "
+"Copyright</quote> (septembre 2002), University of Chicago Law School, James "
+"M. Olin Program dans Law and Economics, Working Paper No. 159.<placeholder "
 "type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
@@ -5957,8 +5958,8 @@ msgid ""
 "Majority</citetitle>, archived at <ulink url=\"http://free-culture.cc/notes/"
 "\">link #12</ulink>."
 msgstr ""
-"Marc Wanamaker, <quote>The First Studios,</quote><citetitle> The Silents "
-"Majority,</citetitle> archivé au <ulink url=\"http://free-"
+"Marc Wanamaker, <quote>The First Studios</quote>, <citetitle>The Silents "
+"Majority</citetitle>, archivé au <ulink url=\"http://free-"
 "culture.cc/notes/\">lien #12</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
