@@ -15758,7 +15758,7 @@ grateful for her perpetual patience and love.
 
 </chapter>
 
-<chapter label="" id="c-about-this-edition">
+<chapter output="not-en" label="" id="c-about-this-edition">
   <title>About this edition</title>
   <para>
 This edition of <citetitle>Free Culture</citetitle> is the result of

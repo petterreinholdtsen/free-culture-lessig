@@ -3,6 +3,9 @@
 #
 
 url = http://www.sslug.dk/~chlor/lessig/freeculture.sgml.2004-04-01.gz
+XSLDBK = /usr/share/xml/docbook/stylesheet/docbook-xsl
+XSLPROF = $(XSLDBK)/profiling/profile.xsl
+XSLTPROC = xsltproc
 
 # PDF rule
 # Valid book options are a4paper, a5paper, b5paper, letterpaper,
@@ -60,6 +63,12 @@ PDF_XSLT = \
 
 all: lint lint.nb html epub pdf mobi
 
+freeculture.en.xml: freeculture.xml
+	$(XSLTPROC) --xinclude \
+	            --param profile.attribute "'output'" \
+                    --param profile.value "'en'" \
+		    $(XSLPROF) $< > $@
+
 freeculture.nb.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 
@@ -74,10 +83,10 @@ freeculture.es_419.po: freeculture.pot
 freeculture.es_419.xml: freeculture.es_419.po freeculture.xml
 	po4a --translate-only freeculture.es_419.xml po4a.cfg 
 
-pdf: freeculture.nb.pdf freeculture.pdf
-epub: freeculture.nb.epub freeculture.epub 
-mobi: freeculture.nb.mobi freeculture.mobi 
-html: freeculture.nb.html freeculture.html 
+pdf: freeculture.nb.pdf freeculture.en.pdf
+epub: freeculture.nb.epub freeculture.en.epub 
+mobi: freeculture.nb.mobi freeculture.en.mobi 
+html: freeculture.nb.html freeculture.en.html 
 
 %.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile myclass.cls data/dblatex-postprocess
 # Possible pipelines:
@@ -139,7 +148,7 @@ pdf-compare: freeculture.xml $(IMAGES)
 %.txt: %.xml $(IMAGES)
 	xmlto txt $<
 
-%.epub: %.xml $(IMAGES) $(EPUB_XSLT)
+%.epub: %.xml $(IMAGES) $(EPUB_XSLT) 
 	$(DBTOEPUB) \
 	-s data/stylesheet-epub.xsl \
 	$<
