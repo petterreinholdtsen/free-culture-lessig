@@ -24,11 +24,12 @@
 
   <xsl:param name="local.l10n.xml" select="document('')"/> 
   <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+    <!-- Drop the number in front of chapters -->
+    <l:context name="title-numbered">
+      <l:template name="chapter" text="%t"/>
+    </l:context>
+
     <l:l10n language="nb">
-      <!-- Drop the number in front of chapters -->
-      <l:context name="title-numbered">
-	<l:template name="chapter" text="%t"/>
-      </l:context>
       <!-- Fix bugs in default nb locale -->
       <l:dingbat key="startquote" text="«"/>
       <l:dingbat key="endquote" text="»"/>
