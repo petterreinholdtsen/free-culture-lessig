@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-01 08:08+0200\n"
+"POT-Creation-Date: 2015-10-09 15:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9467,7 +9467,7 @@ msgstr ""
 #: freeculture.xml:6543 freeculture.xml:6738 freeculture.xml:7112
 msgid ""
 "<graphic fileref=\"images/1331.svg\" align=\"center\" "
-"width=\"45%\"></graphic>"
+"width=\"10em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para>
@@ -9628,7 +9628,7 @@ msgstr ""
 #: freeculture.xml:6673
 msgid ""
 "<graphic fileref=\"images/1361.svg\" align=\"center\" "
-"width=\"45%\"></graphic>"
+"width=\"10em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -9778,7 +9778,7 @@ msgstr ""
 #: freeculture.xml:6784
 msgid ""
 "<graphic fileref=\"images/1381.svg\" align=\"center\" "
-"width=\"45%\"></graphic>"
+"width=\"10em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -10272,7 +10272,7 @@ msgstr ""
 #: freeculture.xml:7119
 msgid ""
 "<graphic fileref=\"images/1442.svg\" align=\"center\" "
-"width=\"45%\"></graphic>"
+"width=\"10em\"></graphic>"
 msgstr ""
 
 #.  PAGE BREAK 144 
@@ -10952,7 +10952,7 @@ msgstr ""
 #: freeculture.xml:7616
 msgid ""
 "<graphic fileref=\"images/1521.svg\" align=\"center\" "
-"width=\"40%\"></graphic>"
+"width=\"9em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
@@ -10990,7 +10990,7 @@ msgstr ""
 #: freeculture.xml:7640
 msgid ""
 "<graphic fileref=\"images/1531.png\" align=\"center\" "
-"width=\"40%\"></graphic>"
+"width=\"9em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11008,7 +11008,7 @@ msgstr ""
 #: freeculture.xml:7654
 msgid ""
 "<graphic fileref=\"images/1541.svg\" align=\"center\" "
-"width=\"40%\"></graphic>"
+"width=\"9em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -11035,7 +11035,7 @@ msgstr ""
 #: freeculture.xml:7677
 msgid ""
 "<graphic fileref=\"images/1542.svg\" align=\"center\" "
-"width=\"40%\"></graphic>"
+"width=\"9em\"></graphic>"
 msgstr ""
 
 #.  PAGE BREAK 154 
@@ -11127,7 +11127,7 @@ msgstr ""
 #: freeculture.xml:7741
 msgid ""
 "<graphic fileref=\"images/1551.svg\" align=\"center\" "
-"width=\"40%\"></graphic>"
+"width=\"9em\"></graphic>"
 msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para>
