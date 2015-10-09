@@ -11801,7 +11801,7 @@ msgid ""
 msgstr ""
 "Det ser ut til at det finnes omtrent to til tre millioner opptak av musikk, "
 "totalt gjennom hele historien.  Det er utgitt omtrent hundre tusen "
-"kinofilmer, &hellip;  og omtrent en til to millioner filmer [distribuert] i "
+"kinofilmer, &hellip;  og [distribuert] omtrent en til to millioner filmer i "
 "det tjuende århundret.  Det finnes omtrent tjueseks millioner ulike "
 "boktitler.  Alt dette vil få plass på datamaskiner som får plass i rommet "
 "jeg sitter i, og et lite firma ville ha råd til det.  Så vi er ved et "
@@ -29340,14 +29340,15 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid "Cover created by Petter Reinholdtsen using inkscape."
-msgstr "Omslag ble laget av Petter Reinholdtsen ved hjelp av inkscape."
+msgstr "Omslag er laget av Petter Reinholdtsen ved hjelp av inkscape."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
 "The quotes on the cover came from <ulink url=\"http://free-culture.cc/jacket/"
 "\"/>."
 msgstr ""
-"Sitatene på omslaget kom fra <ulink url=\"http://free-culture.cc/jacket/\"/>."
+"Sitatene på omslaget ble hentet fra <ulink url=\"http://free-culture.cc/"
+"jacket/\"/>."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
