@@ -15779,8 +15779,9 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 
 <para>
 Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen
-with help from many volunteers.  Typeset with dblatex using the font
-Crimson Text.
+with help from many volunteers.  Typeset with
+<ulink url="http://dblatex.sourceforge.net">dblatex</ulink> using the
+font Crimson Text.
 </para>
 
 <para>
