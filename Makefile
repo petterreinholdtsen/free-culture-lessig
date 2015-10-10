@@ -76,10 +76,10 @@ freeculture.es_419.po: freeculture.pot
 freeculture.es_419.xml: freeculture.es_419.po freeculture.xml
 	po4a --translate-only freeculture.es_419.xml po4a.cfg 
 
-pdf: freeculture.nb.pdf freeculture.pdf
-epub: freeculture.nb.epub freeculture.epub 
-mobi: freeculture.nb.mobi freeculture.mobi 
-html: freeculture.nb.html freeculture.html 
+pdf: freeculture.nb.pdf freeculture.fr.pdf freeculture.pdf
+epub: freeculture.nb.epub freeculture.fr.epub freeculture.epub 
+mobi: freeculture.nb.mobi freeculture.fr.mobi freeculture.mobi 
+html: freeculture.nb.html freeculture.fr.html freeculture.html 
 
 %.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile myclass.cls data/dblatex-postprocess
 # Possible pipelines:
