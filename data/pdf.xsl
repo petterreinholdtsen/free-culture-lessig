@@ -3,7 +3,7 @@
 
 <!-- The TOC links in the titles, and in blue. -->
 <!-- ensure URLs in the text do not end up light gray too -->
-<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=blue,urlcolor=blue,pdfstartview=FitH</xsl:param>
+<xsl:param name="latex.hyperparam">linktocpage,colorlinks,linkcolor=black,urlcolor=black,pdfstartview=FitH</xsl:param>
 
 <xsl:param name="callout.linkends.hot">0</xsl:param>
 
