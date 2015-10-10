@@ -19,7 +19,7 @@ Takket være Skolelinux-prosjektet hadde jeg allerede erfaring med å
 oversette Docbook-dokumenter, og det fremsto som et godt format også
 for denne boken.  Jeg fant en Docbook-utgave laget av Hans Schou og
 forbedret den slik at det ble mulig å lage en bok.  Dette ble starten
-på oversetterprosjektet.  Jeg tilrettela for utgave både på engelsk og
+på oversetterprosjektet.  Jeg tilrettela for utgave på både engelsk og
 bokmål, og etterlyste frivillige til å hjelpe til med å oversette.
   </para>
 
@@ -36,17 +36,21 @@ gjort med dblatex, som ble valgt i stedet for alternativene takket
 være uvurderlig og kjapp hjelp fra Benoît Guillon og Andreas Hoenen i
 Debian.  Benoît Guillon ble til og med inspirert til å sette i gang
 med en fransk utgave.  Thomas Gramstad donerte ISBN-numrene jeg
-trengte for å gjøre bokhandel-distribusjon mulig.  På slutten av
-prosjektet, da oversettelsen var ferdig og det var på tide å
-publisere, sa NUUG Foundation seg villig til å sponse trykking av
-bøker til medlemmene av Stortinget og andre beslutningstakere i Norge.
+trengte for å gjøre bokhandel-distribusjon mulig.
+  </para>
+
+  <para>
+På slutten av prosjektet, da oversettelsen var ferdig og det var på
+tide å publisere, sa NUUG Foundation seg villig til å sponse trykking
+av bøker til medlemmene av Stortinget og andre beslutningstakere i
+Norge.
   </para>
 
   <para>
 Støtten fra Lawrence Lessig har vært svært verdifull, og jeg er glad
 for hans raske og positive respons.  Jeg er også imponert over at han
 fortsatt hadde de originale skjermbildene, over 11 år etter at boken
-ble gitt ut.
+ble gitt ut første gang.
   </para>
 
   <para>
