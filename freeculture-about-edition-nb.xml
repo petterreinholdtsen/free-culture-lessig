@@ -6,58 +6,58 @@
   <title>Om denne utgaven</title>
   <para>
 Denne utgaven av <citetitle>Fri kultur</citetitle> er resultatet av
-tre års frivillig arbeide.  Idéen kom ut av en diskusjon jeg hadde med
-en venn for omtrent ti år siden, om opphavsrettsdebatten i Norge og
-hvor sjelden problemene med lang opphavsrettvernetid kom opp i
-offentlig debatt.  Sommeren 2012 tok jeg endelig en ny titt på idéen
-og bestemte meg for å gi ut en bokmålsutgave av <citetitle>Fri
-kultur</citetitle>, oversatt og formatert av frivillige.
+tre års frivillig arbeide.  Idéen kommer fra en diskusjon jeg hadde
+med en venn for omtrent ti år siden, om opphavsrettsdebatten i Norge
+og hvor sjelden de negative sidene med dagens opphavsrett kom opp i
+offentligheten.  Sommeren 2012 tok jeg endelig en ny titt på idéen og
+bestemte meg for å gi ut en bokmålsutgave av boken <citetitle>Free
+Culture</citetitle>, oversatt av frivillige.
   </para>
 
   <para>
 Takket være Skolelinux-prosjektet hadde jeg allerede erfaring med å
 oversette Docbook-dokumenter, og det fremsto som et godt format også
-for denne boken.  Jeg fant en Docbook-utgave av boken laget av Hans
-Schou og forbedret den slik at Docbook-fila ble mulig å gi ut som bok.
-Dette ble starten på oversetterprosjektet.  Jeg la på byggeregler for
-å lage både engelsk- og bokmålsutgave, og da dette var gjort
-etterlyste jeg frivillige til å hjelpe meg med å oversette.
+for denne boken.  Jeg fant en Docbook-utgave laget av Hans Schou og
+forbedret den slik at det ble mulig å lage en bok.  Dette ble starten
+på oversetterprosjektet.  Jeg la til opplegg for å lage utgave både på
+engelsk og bokmål, og etterlyste frivillige til å hjelpe meg med å
+oversette.
   </para>
 
   <para>
-Flere folk meldte seg, og Anders Hagen Jarmund, Kirill Miazine og Odd
-Kleiva bidro med den første oversettelsen. Ralph Amissah og hans
+Flere folk meldte seg.  Anders Hagen Jarmund, Kirill Miazine og Odd
+Kleiva bidro til den første oversettelsen. Ralph Amissah og hans
 SiSu-utgave bidro med registeroppføringer.  Morten Sickel og Alexander
-Alemayhu hjalp til med figurene, ved å tegne av noen av de originale
-figurene i vektorformat.  Wivi Reinholdtsen, Ingrid Yrvin, Johannes
-Larsen og Gisle Hannemyr bidro med svært verdiful korrekturlesing.
-Håkon Wium Lie hjalp meg med å spore opp gode skrifttyper uten
-brukbegrensninger som erstatning for skrifttypene i den opprinnelige
-engelske utgaven.  PDF-typesettingen ble gjort med dblatex, som ble
-valgt i stedet for alternativene takket være uvurderlig og kjapp hjelp
-fra Benoît Guillon og Andreas Hoenen.  Benoît Guillon ble så inspirert
-av dette prosjektet at han satte igang med en fransh utgave ved hjelp
-å bruke kildekodenfilene til norske prosjektet. Thomas Gramstad
-donerte ISBN-nummer som trengs for å få distribuert boken i
-bokhandler.  I tillegg gjort støtten fra Lawrence Lessig at jeg kom i
-mål med prosjektet med gode skjermbilder på trykk &ndash; jeg er svært
+Alemayhu hjalp til med å gjentegne noen av de originale figurene i
+vektorformat.  Wivi Reinholdtsen, Ingrid Yrvin, Johannes Larsen og
+Gisle Hannemyr bidro med svært verdifull korrekturlesing.  Håkon Wium
+Lie hjalp meg med å spore opp gode skrifttyper uten brukbegrensninger
+som erstatning for skrifttypene i den opprinnelige engelske utgaven.
+Typesettingen ble gjort med dblatex, som ble valgt i stedet for
+alternativene takket være uvurderlig og kjapp hjelp fra Benoît Guillon
+og Andreas Hoenen i Debian.  Benoît Guillon ble til og med så
+inspirert av dette prosjektet at han satte i gang med en fransk
+utgave.  Thomas Gramstad donerte ISBN-numrene jeg trengte for å gjøre
+det mulig å få bokhandel-distribusjon.  I tillegg gjort støtten fra
+Lawrence Lessig at jeg fikk bedre bilder i boken &ndash; jeg er svært
 takknemlig for at han fortsatt hadde de originale skjermbildene, over
-11 år etter at han ga ut boka første gang.
+11 år etter at han ga ut boken første gang.
   </para>
 
   <para>
-På slutten av prosjektet, da oversettelsen var ferdig og det var på tide å
-publisere, ble NUUG Foundation spurt og sa seg villig til  å sponse bøker
-til Stortingsrepresentantene og andre beslutningstakere i Norge.
+På slutten av prosjektet, da oversettelsen var ferdig og det var på
+tide å publisere, sa NUUG Foundation seg villig til å sponse trykking
+av bøker til medlemmene av Stortinget og andre beslutningstakere i
+Norge.
   </para>
 
   <para>
-Jeg er svært takknemlig for at Mari og min familie har vært tålmodig med meg
-gjennom dette prosjektet.
+Jeg er svært takknemlig for tålmodigheten Mari og min familie har vist
+meg gjennom dette prosjektet.
   </para>
 
   <para>
-&mdash; Petter Reinholdtsen, Oslo 2015-10-11
+&ndash; Petter Reinholdtsen, Oslo 2015-10-11
   </para>
 
 </chapter>
