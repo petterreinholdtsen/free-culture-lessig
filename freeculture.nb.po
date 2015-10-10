@@ -12344,10 +12344,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/1331.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/nb/1331.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para>
@@ -12576,10 +12576,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><figure>
 msgid ""
-"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/1361.svg\" align=\"center\" width=\"12em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/nb/1361.svg\" align=\"center\" width=\"12em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
@@ -12775,10 +12775,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/1381.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/nb/1381.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
@@ -13396,10 +13396,10 @@ msgstr "Vi kommer til å ende opp her:"
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/1442.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"45%\"></"
+"<graphic fileref=\"images/nb/1442.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #.  PAGE BREAK 144 
@@ -14319,10 +14319,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1521.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1521.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1521.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
@@ -14365,10 +14365,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1531.png\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1531.png\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1531.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1531.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14390,10 +14390,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1541.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1541.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1541.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14426,10 +14426,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1542.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1542.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1542.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1542.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #.  PAGE BREAK 154 
@@ -14546,10 +14546,10 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><figure>
 msgid ""
-"<graphic fileref=\"images/1551.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/1551.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 msgstr ""
-"<graphic fileref=\"images/nb/1551.svg\" align=\"center\" width=\"40%\"></"
+"<graphic fileref=\"images/nb/1551.svg\" align=\"center\" width=\"10em\"></"
 "graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
