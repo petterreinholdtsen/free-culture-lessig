@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter label="" id="c-about-this-edition">
+  <title>Om denne utgaven</title>
+  <para>
+Denne utgaven av <citetitle>Fri kultur</citetitle> er resultatet av tre års
+frivillig arbeide.  Idéen kom ut av en diskusjon jeg hadde med en venn for
+omtrent ti år siden om opphavsrettsdebatten i Norge, og hvor sjelden
+utfordringene med lang opphavsrett kom opp i offentlig debatt. For litt mer
+enn tre år siden tok jeg endelig en ny titt på idéen og bestemte meg for å
+gi ut en bokmålsversjon av <citetitle>Fri kultur</citetitle>, oversatt og
+formatert av frivillige.  Den nye engelske utgaven er et biprodukt av
+oversetterprosessen.
+  </para>
+
+  <para>
+Takket være Debian Edu- / Skolelinux-prosjektet hadde jeg allerede erfaring
+med å oversette Docbook-dokumenter, og det virket som et godt format også
+for denne boken.   Jeg fant en Docbook-formatert versjon av boken laget av
+Hans Schou.  Testing i starten ga meg mange feilmeldinger om
+Docbook-formatet i denne versjonen, men etter litt innsats var jeg i stand
+til å omforme den til PDF og EPUB.  Det var starten på
+oversetterprosjektet.  Docbook-filen ble bedre over tid, og byggeregler ble
+lagt til for å lage engelsk- og bokmålsversjon.  Til slutt ba jeg om
+frivillige til å hjelpe meg med oversettelsen.
+  </para>
+
+  <para>
+Flere folk ble med, og Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva
+bidro med den første oversettelsen. Ralph Amissah og hans SiSu-utgave bidro
+med registeroppføringer.  Morten Sickel og Alexander Alemayhu hjalp til med
+figurene, ved å tegne av noen av bitmap-ene som vektorbilder.  Wivi
+Reinholdtsen, Ingrid Yrvin, Johannes Larsen og Gisle Hannemyr bidro med
+svært verdiful korrekturlesing.  Håkon Wium Lie hjalp meg med å spore opp
+gode erstatningsskrifttyper uten brukbegrensninger for dem som var i den
+originale PDF-en.  PDF-typesettingen ble gjort med dblatex, som vi valgte i
+stedet for alternativene takket være uvurderlig og kjapp hjelp fra Benoît
+Guillon og Andreas Hoenen.  Thomas Gramstad donerte ISBN-nummer som trengs
+for å få distribuert boken i bokhandler.  Støtten fra Lawrence Lessig gjorde
+at jeg kom i mål med prosjektet &ndash; jeg er svært takknemlig for at han
+fortsatt hadde de originale skjermbildene etter 11 år.
+  </para>
+
+  <para>
+På slutten av prosjektet, da oversettelsen var ferdig og det var på tide å
+publisere, ble NUUG Foundation spurt og sa seg villig til  å sponse bøker
+til Stortingsrepresentantene og andre beslutningstakere i Norge.
+  </para>
+
+  <para>
+Jeg er svært takknemlig for at Mari og min familie har vært tålmodig med meg
+gjennom dette prosjektet.
+  </para>
+
+  <para>
+&mdash; Petter Reinholdtsen, Oslo 2015-10-11
+  </para>
+
+</chapter>

@@ -65,9 +65,11 @@ freeculture.nb.po: freeculture.pot
 
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
+	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-nb.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.fr.xml: freeculture.fr.po freeculture.xml
 	po4a --translate-only freeculture.fr.xml po4a.cfg 
+	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-fr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.es_419.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
