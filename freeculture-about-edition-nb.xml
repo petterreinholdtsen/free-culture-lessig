@@ -15,15 +15,13 @@ kultur</citetitle>, oversatt og formatert av frivillige.
   </para>
 
   <para>
-Takket være Debian Edu- / Skolelinux-prosjektet hadde jeg allerede
-erfaring med å oversette Docbook-dokumenter, og det virket som et godt
-format også for denne boken.  Jeg fant en Docbook-formatert versjon av
-boken laget av Hans Schou og innsats var jeg i stand til å omforme den
-til bøker i PDF- og EPUB-format.  Dette ble starten på
-oversetterprosjektet.  Docbook-filen ble bedre over tid, og
-byggeregler ble lagt til for å lage både engelsk- og bokmålsutgave.
-Da dette var gjort etterlyste jeg frivillige til å hjelpe meg med å
-oversettelse.
+Takket være Skolelinux-prosjektet hadde jeg allerede erfaring med å
+oversette Docbook-dokumenter, og det fremsto som et godt format også
+for denne boken.  Jeg fant en Docbook-utgave av boken laget av Hans
+Schou og forbedret den slik at Docbook-fila ble mulig å gi ut som bok.
+Dette ble starten på oversetterprosjektet.  Jeg la på byggeregler for
+å lage både engelsk- og bokmålsutgave, og da dette var gjort
+etterlyste jeg frivillige til å hjelpe meg med å oversettelse.
   </para>
 
   <para>
