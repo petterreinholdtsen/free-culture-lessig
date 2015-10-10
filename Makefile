@@ -193,6 +193,9 @@ images/cover-art.pdf: images/cover-art.svg
 images/nb/cover-art.pdf: images/nb/cover-art.svg
 	inkscape --export-dpi=600 --export-pdf=$@ $^
 
+images/fr/cover-art.pdf: images/fr/cover-art.svg
+	inkscape --export-dpi=600 --export-pdf=$@ $^
+
 INKSCAPE_FRONTCOORDINATES = 603.54:0:1154.70:832.500
 images/cover-front-72dpi.png: images/cover-art.svg Makefile
 	inkscape --export-dpi=72 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/cover-art.svg
