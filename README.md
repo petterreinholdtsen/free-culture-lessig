@@ -56,6 +56,8 @@ packages are needed:
   libxml2-utils
   gnuplot
   xmlto
+  docbook-xsl
+  calibre
 
 When the build requirements are in place, the PDF and EPUB version of
 the book can be build by running 'make' on the command line.
@@ -95,13 +97,8 @@ Translation status
 Todo
 ----
 
- * Complete translation of the foot notes.
- * Figure out translation of the words/phrases marked with a star (*)
  * Complete the spell checking of the content (using the txt version
    is easiest).
  * Publish first edition.
  * (Add missing index entries.  Nice to have, not vital.  See
    scripts/idxcompare for helper script.)
- * (Figure out how to get xindy to include allso <see> and <seealso>
-   <indexterm> entries, not included due to incompatibility with
-   hyperref.)

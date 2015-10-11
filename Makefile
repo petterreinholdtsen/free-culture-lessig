@@ -65,19 +65,21 @@ freeculture.nb.po: freeculture.pot
 
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
+	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-nb.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.fr.xml: freeculture.fr.po freeculture.xml
 	po4a --translate-only freeculture.fr.xml po4a.cfg 
+	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-fr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.es_419.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 freeculture.es_419.xml: freeculture.es_419.po freeculture.xml
 	po4a --translate-only freeculture.es_419.xml po4a.cfg 
 
-pdf: freeculture.nb.pdf freeculture.pdf
-epub: freeculture.nb.epub freeculture.epub 
-mobi: freeculture.nb.mobi freeculture.mobi 
-html: freeculture.nb.html freeculture.html 
+pdf: freeculture.nb.pdf freeculture.fr.pdf freeculture.pdf
+epub: freeculture.nb.epub freeculture.fr.epub freeculture.epub 
+mobi: freeculture.nb.mobi freeculture.fr.mobi freeculture.mobi 
+html: freeculture.nb.html freeculture.fr.html freeculture.html 
 
 %.pdf: %.xml $(IMAGES) $(PDF_XSLT) Makefile myclass.cls data/dblatex-postprocess
 # Possible pipelines:
@@ -191,6 +193,9 @@ images/cover-art.pdf: images/cover-art.svg
 	inkscape --export-dpi=600 --export-pdf=$@ $^
 
 images/nb/cover-art.pdf: images/nb/cover-art.svg
+	inkscape --export-dpi=600 --export-pdf=$@ $^
+
+images/fr/cover-art.pdf: images/fr/cover-art.svg
 	inkscape --export-dpi=600 --export-pdf=$@ $^
 
 INKSCAPE_FRONTCOORDINATES = 603.54:0:1154.70:832.500

@@ -9,7 +9,7 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
-   <!ENTITY copy "©">
+   <!ENTITY copy "©"> <!ENTITY aboutedition "">
 ]>
 
 <book id="index" lang="en">
@@ -6540,7 +6540,7 @@ weaken the right or regulation. I represented it with this diagram:
 </para>
 <figure id="fig-1331">
 <title></title>
-<graphic fileref="images/1331.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="10em"></graphic>
 </figure>
 <indexterm><primary>Madonna</primary></indexterm>
 <para>
@@ -6670,7 +6670,7 @@ driving.
 <indexterm startref='idxspeedingconstraintson' class='endofrange'/>
 <figure id="fig-1361">
 <title></title>
-<graphic fileref="images/1361.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1361.svg" align="center" width="12em"></graphic>
 
 </figure>
 <indexterm><primary>architecture, constraint effected through</primary></indexterm>
@@ -6735,7 +6735,7 @@ Internet:
 </para>
 <figure id="fig-1371">
 <title></title>
-<graphic fileref="images/1331.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="10em"></graphic>
 
 </figure>
 <indexterm id='idxarchitectureconstrainteffectedthrough' class='startofrange'><primary>architecture, constraint effected through</primary></indexterm>
@@ -6781,7 +6781,7 @@ looting that results.
 </para>
 <figure id="fig-1381">
 <title></title>
-<graphic fileref="images/1381.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1381.svg" align="center" width="10em"></graphic>
 
 </figure>
 <indexterm><primary>Commerce, U.S. Department of</primary></indexterm>
@@ -7109,14 +7109,14 @@ started here:
 </para>
 <figure id="fig-1441">
 <title></title>
-<graphic fileref="images/1331.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1331.svg" align="center" width="10em"></graphic>
 </figure>
 <para>
 We will end here:
 </para>
 <figure id="fig-1442">
 <title></title>
-<graphic fileref="images/1442.svg" align="center" width="45%"></graphic>
+<graphic fileref="images/1442.svg" align="center" width="10em"></graphic>
 </figure>
 <para>
 Let me explain how.
@@ -7613,7 +7613,7 @@ empty circle.
 </para>
 <figure id="fig-1521">
 <title></title>
-<graphic fileref="images/1521.svg" align="center" width="40%"></graphic>
+<graphic fileref="images/1521.svg" align="center" width="10em"></graphic>
 </figure>
 <indexterm id='idxbooksthreetypesofusesof' class='startofrange'><primary>books</primary><secondary>three types of uses of</secondary></indexterm>
 <indexterm id='idxcopyrightlawcopiesascoreissueof2' class='startofrange'><primary>copyright law</primary><secondary>copies as core issue of</secondary></indexterm>
@@ -7637,7 +7637,7 @@ acts do not make a copy.
 </para>
 <figure id="fig-1531">
 <title></title>
-<graphic fileref="images/1531.png" align="center" width="40%"></graphic>
+<graphic fileref="images/1531.png" align="center" width="10em"></graphic>
 </figure>
 <para>
 Obviously, however, some uses of a copyrighted book are regulated
@@ -7651,7 +7651,7 @@ diagram in figure <xref xrefstyle="template:%n" linkend="fig-1541"/>).
 <indexterm startref='idxpiracyderivativeworkvs4' class='endofrange'/>
 <figure id="fig-1541">
 <title></title>
-<graphic fileref="images/1541.svg" align="center" width="40%"></graphic>
+<graphic fileref="images/1541.svg" align="center" width="10em"></graphic>
 </figure>
 <indexterm id='idxfairuse' class='startofrange'><primary>fair use</primary></indexterm>
 <indexterm id='idxcopyrightlawfairuseand2' class='startofrange'><primary>copyright law</primary><secondary>fair use and</secondary></indexterm>
@@ -7674,7 +7674,7 @@ for public policy (and possibly First Amendment) reasons.
 </para>
 <figure id="fig-1542">
 <title></title>
-<graphic fileref="images/1542.svg" align="center" width="40%"></graphic>
+<graphic fileref="images/1542.svg" align="center" width="10em"></graphic>
 </figure>
 <indexterm id='idxcopyrightusagerestrictionsattachedto' class='startofrange'><primary>copyright</primary><secondary>usage restrictions attached to</secondary></indexterm>
 <para>
@@ -7738,7 +7738,7 @@ copyright owner's wish.
 </para>
 <figure id="fig-1551">
 <title></title>
-<graphic fileref="images/1551.svg" align="center" width="40%"></graphic>
+<graphic fileref="images/1551.svg" align="center" width="10em"></graphic>
 </figure>
 <para>
 There are some people who think this makes perfect sense. My aim
@@ -15758,68 +15758,8 @@ grateful for her perpetual patience and love.
 
 </chapter>
 
-<chapter label="" id="c-about-this-edition">
-  <title>About this edition</title>
-  <para>
-This edition of <citetitle>Free Culture</citetitle> is the result of
-three years of volunteer work.  The idea came from a discussion I had
-around ten years ago with a friend about the copyright debate in
-Norway, and how rarely the difficulties of long copyright made it into
-the public debate.  A bit more than three years ago I finally had a
-look again at the idea and decided to publish a printed Norwegian
-Bokmål version of <citetitle>Free Culture</citetitle>, translated and
-formatted by volunteers.  The new English edition is a by-product of
-the translation process.
-  </para>
+&aboutedition;
 
-  <para>
-Thanks to the Debian Edu / Skolelinux project, I already had
-experience translating Docbook documents, and it seemed like a good
-format for this book too.  I found a Docbook formatted version of the
-book created by Hans Schou.  Initial testing showed lots of Docbook
-validation errors in this version, but after some work I was able to
-transform it to PDF and EPUB.  This was the start of the translation
-project.  The Docbook file improved over time, and build rules were
-added to create both English and Bokmål versions.  Finally, a call for
-volunteers went out to help me with the translation.
-  </para>
-
-  <para>
-Several people joined, and Anders Hagen Jarmund, Kirill Miazine, Odd
-Kleiva, Kjetil Kilhavn og Kjetil T. Homme assisted with the initial
-translation.  Ralph Amissah and his SiSu version provided index
-entries.  Morten Sickel and Alexander Alemayhu helped with the
-figures, redrawing some of the bitmaps as vector images.  Wivi
-Reinholdtsen, Ingrid Yrvin, Johannes Larsen and Gisle Hannemyr did
-very valuable proofreading.  Håkon Wium Lie helped me track down a
-good replacement font without usage restrictions instead of the one in
-the original PDF.  The PDF typesetting is done using dblatex, which we
-selected over the alternatives thanks to the invaluable and quick help
-from Benoît Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN
-numbers needed for distribution to book stores.  Marc Jeanmougin from
-the inkscape community helped me replicate the original front cover.
-The support of Lawrence Lessig helped me to complete the
-project&mdash;I am very thankful he had the original screen shots
-still available after 11 years.
-  </para>
-
-  <para>
-At the end of the project, when the translation was done and it was
-time to publish, NUUG Foundation was asked and was willing to sponsor
-books to members of the Norwegian parliament and other decision
-makers.
-  </para>
-
-  <para>
-In addition to these great contributors, I am very grateful to Mari
-and my family for their patience with me in this project.
-  </para>
-
-  <para>
-&mdash; Petter Reinholdtsen, Oslo 2015-09-07
-  </para>
-
-</chapter>
 <index></index>
 <colophon>
 <title></title>
@@ -15839,8 +15779,9 @@ Copyright &copy; 2004 Lawrence Lessig.  Some rights reserved.
 
 <para>
 Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen
-with help from many volunteers.  Typeset with dblatex using the font
-Crimson Text.
+with help from many volunteers.  Typeset with
+<ulink url="http://dblatex.sourceforge.net">dblatex</ulink> using the
+font Crimson Text.
 </para>
 
 <para>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter label="" id="c-about-this-edition">
+  <title>Om denne utgaven</title>
+  <para>
+Denne utgaven av <citetitle>Fri kultur</citetitle> er resultatet av
+tre års frivillig arbeide.  Idéen kom fra en diskusjon jeg hadde med
+en venn for omtrent ti år siden, om opphavsrettsdebatten i Norge og
+hvor sjelden de negative sidene ved økende regulering av åndsverk kom
+opp i offentligheten.  Sommeren 2012 tok jeg endelig en ny titt på
+idéen og bestemte meg for å gi ut boken <citetitle>Free
+Culture</citetitle> på norsk, da denne beskriver problemstillingen
+veldig godt.
+  </para>
+
+  <para>
+Takket være Skolelinux-prosjektet hadde jeg allerede erfaring med å
+oversette Docbook-dokumenter, og det fremsto som et godt format også
+for denne boken.  Jeg fant en Docbook-utgave laget av Hans Schou og
+forbedret den slik at det ble mulig å lage en bok.  Dette ble starten
+på oversetterprosjektet.  Jeg tilrettela for utgave på både engelsk og
+bokmål, og etterlyste frivillige til å hjelpe til med å oversette.
+  </para>
+
+  <para>
+Flere meldte seg.  Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva
+bidro til den første oversettelsen. Ralph Amissah og hans SiSu-utgave
+bidro med registeroppføringer.  Morten Sickel og Alexander Alemayhu
+hjalp til med å gjenskape og oversette noen av de originale figurene.
+Wivi Reinholdtsen, Ingrid Yrvin, Johannes Larsen, Gisle Hannemyr og
+Trond Trosterud bidro med svært nyttig korrekturlesing.  Håkon Wium
+Lie hjalp meg med å spore opp gode skrifttyper uten brukbegrensninger
+som erstatning for skrifttypene i den opprinnelige engelske utgaven.
+Typesettingen ble gjort med dblatex, som ble valgt i stedet for
+alternativene takket være uvurderlig og kjapp hjelp fra Benoît Guillon
+og Andreas Hoenen i Debian.  Benoît Guillon ble til og med inspirert
+til å sette i gang med en fransk utgave.  Thomas Gramstad donerte
+ISBN-numrene jeg trengte for å gjøre bokhandel-distribusjon mulig.
+  </para>
+
+  <para>
+På slutten av prosjektet, da oversettelsen var ferdig og det var på
+tide å publisere, sa NUUG Foundation seg villig til å sponse trykking
+av bøker til medlemmene av Stortinget og andre beslutningstakere i
+Norge.
+  </para>
+
+  <para>
+Støtten fra Lawrence Lessig har vært svært verdifull, og jeg er glad
+for hans raske og positive respons.  Jeg er også imponert over at han
+fortsatt hadde de originale skjermbildene, over 11 år etter at boken
+ble gitt ut første gang.
+  </para>
+
+  <para>
+Jeg er svært takknemlig for tålmodigheten Mari og resten av min
+familie har vist meg gjennom dette prosjektet.
+  </para>
+
+  <para>
+&ndash; Petter Reinholdtsen, Oslo 2015-10-11
+  </para>
+
+</chapter>
