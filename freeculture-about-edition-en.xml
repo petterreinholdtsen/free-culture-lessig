@@ -10,13 +10,12 @@
 This edition of <citetitle>Free Culture</citetitle> is the result of
 three years of volunteer work.  The idea came from a discussion I had
 around ten years ago with a friend about the copyright debate in
-Norway, and how rarely the negative sides of stronger regulation of
-copyrighted works are mentioned in public.  The summer of 2012 I
-finally had a look again at the idea and decided to publish a printed
-Norwegian Bokmål version of <citetitle>Free Culture</citetitle>,
-translated and formatted by volunteers, as it describes the problem
-area very well.  This new English edition is a by-product of this
-translation project.
+Norway, and how rarely the negative sides of stronger copyright
+regulation are mentioned in public.  The summer of 2012 I finally had
+a look again at the idea and decided to publish a Norwegian Bokmål
+edition of <citetitle>Free Culture</citetitle>, translated and
+formatted by volunteers, as it describes the problem area very well.
+This new English edition is a by-product of this translation project.
   </para>
 
   <para>
@@ -30,16 +29,17 @@ and called for volunteers to help me with the translation.
   </para>
 
   <para>
-Several people joined, and helped with the English version.  Ralph
-Amissah and his SiSu version provided index entries.  Morten Sickel
-and Alexander Alemayhu helped with the figures, redrawing some of the
-bitmaps as vector images.  Håkon Wium Lie helped me track down a good
-replacement font without usage restrictions instead of the one in the
-original edition.  The typesetting is done using dblatex, which was
-selected over the alternatives thanks to the invaluable and quick help
-from Benoît Guillon and Andreas Hoenen.  Thomas Gramstad donated ISBN
-numbers needed for distribution to book stores.  Marc Jeanmougin from
-the inkscape community helped me replicate the original front cover.
+Several people joined, and the following even helped with the English
+version.  Ralph Amissah and his SiSu version provided index entries.
+Morten Sickel and Alexander Alemayhu helped with the figures,
+redrawing some of the bitmaps as vector images.  Håkon Wium Lie helped
+me track down a good replacement font without usage restrictions
+instead of the one in the original edition.  The typesetting is done
+using dblatex, which was selected over the alternatives thanks to the
+invaluable and quick help from Benoît Guillon and Andreas Hoenen.
+Thomas Gramstad donated ISBN numbers needed for distribution to book
+stores.  Marc Jeanmougin from the inkscape community helped me
+replicate the original front cover.
   </para>
 
   <para>
