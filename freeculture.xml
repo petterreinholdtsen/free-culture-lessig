@@ -15758,7 +15758,9 @@ grateful for her perpetual patience and love.
 
 </chapter>
 
-&aboutedition;
+<xi:include href="freeculture-about-edition.xml" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:fallback/>
+</xi:include>
 
 <index></index>
 <colophon>

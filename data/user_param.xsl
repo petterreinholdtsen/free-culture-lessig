@@ -36,6 +36,12 @@
       <l:dingbat key="nestedstartquote" text="‘"/>
       <l:dingbat key="nestedendquote" text="’"/>
     </l:l10n>
+    <l:l10n language="fr">
+      <!-- The default page citation is meaningless -->
+      <l:context name="xref">
+        <l:template name="page.citation" text=" (page %p)"/>
+      </l:context>
+    </l:l10n>
   </l:i18n>
 
   <!-- Make preface show up in toc for dblatex -->
