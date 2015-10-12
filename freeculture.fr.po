@@ -106,6 +106,10 @@ msgstr "Creative Commons, droits réservés"
 msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 
+#. type: Attribute 'href' of: <book><xi:include>
+msgid "freeculture-about-edition-en.xml"
+msgstr "freeculture-about-edition-fr.xml"
+
 #. type: Content of: <book><colophon><para>
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
