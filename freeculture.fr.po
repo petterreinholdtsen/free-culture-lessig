@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Laurence Lessig\n"
-"POT-Creation-Date: 2015-10-12 00:38+0300\n"
+"POT-Creation-Date: 2015-10-12 22:07+0300\n"
 "PO-Revision-Date: 2015-10-13 22:15+0300\n"
 "Last-Translator: Benoît Guillon <marsgui@users.sourceforge.net>\n"
 "Language-Team: Wikilivres (http://www.wikilivres.ca) & B. Guillon\n"
@@ -12356,12 +12356,11 @@ msgid ""
 "Judiciary of the House of Representatives, 97th Cong., 2nd sess. (1982): 65 "
 "(testimony of Jack Valenti)."
 msgstr ""
-"Home Recording of Copyrighted Works&nbsp;: audiences sur H.R. 4783, H.R. 4794, "
-"H.R. 4808, H.R. 5250, H.R. 5488, and H.R. 5705 devant le sous-comité sur "
-"les tribunaux, les libertés civiles, et l'administration de la Justice du "
-"comité "
-"sur le Judiciaire de la Maison des Représentants, 97ème Cong., 2ème sess. "
-"(1982)&nbsp;: 65 (témoignage de Jack Valenti)."
+"Home Recording of Copyrighted Works&nbsp;: audiences sur H.R. 4783, H.R. "
+"4794, H.R. 4808, H.R. 5250, H.R. 5488, and H.R. 5705 devant le sous-comité "
+"sur les tribunaux, les libertés civiles, et l'administration de la Justice "
+"du comité sur le Judiciaire de la Maison des Représentants, 97ème Cong., "
+"2ème sess. (1982)&nbsp;: 65 (témoignage de Jack Valenti)."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -29803,6 +29802,10 @@ msgstr ""
 "et qui a toujours eu raison. Cet homme qui apprend lentement est, comme "
 "toujours, reconnaissant pour sa perpétuelle patience et amour."
 
+#. type: Attribute 'href' of: <book><xi:include>
+msgid "freeculture-about-edition-en.xml"
+msgstr "freeculture-about-edition-fr.xml"
+
 #. type: Content of: <book><colophon><para>
 msgid ""
 "Free culture: How big media uses technology and the law to lock down culture "
@@ -29826,13 +29829,12 @@ msgid ""
 "sourceforge.net\">dblatex</ulink> using the font Crimson Text."
 msgstr ""
 "Publié en anglais et en norvégien Bokmål 2015 par Petter Reinholdtsen avec "
-"l'aide de beaucoup de volontaires. Mis en forme par "
-"<ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> avec les fontes "
-"Crimson Text."
+"l'aide de beaucoup de volontaires. Mis en forme par <ulink url=\"http://"
+"dblatex.sourceforge.net\">dblatex</ulink> avec les fontes Crimson Text."
 
 #. type: Content of: <book><colophon><para>
 msgid "First published 2004 by The Penguin Press."
-msgstr ""
+msgstr "First published 2004 by The Penguin Press."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -30005,5 +30007,3 @@ msgid ""
 "<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
 "book on the collision of media and technology</emphasis>"
 msgstr ""
-
-
