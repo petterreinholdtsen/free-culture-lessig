@@ -29199,18 +29199,26 @@ msgid "<ulink url=\"http://free-culture.cc/\"/>"
 msgstr "<ulink url=\"http://free-culture.cc/\"/>"
 
 #. type: Content of: <book><colophon><para>
-msgid ""
-"Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen with "
-"help from many volunteers.  Typeset with <ulink url=\"http://dblatex."
-"sourceforge.net\">dblatex</ulink> using the font Crimson Text."
-msgstr ""
-"Publisert på engelsk og bokmål 2015 av Petter Reinholdtsen med hjelp fra "
-"mange frivillige.  Typesatt ved hjelp av <ulink url=\"http://dblatex."
-"sourceforge.net\">dblatex</ulink> med skriftsnittet Crimson Text."
+msgid "Published in 2015.  First published 2004 by The Penguin Press."
+msgstr "Utgitt i 2014.  Utgitt første gang i 2004 av The Penguin Press."
 
 #. type: Content of: <book><colophon><para>
-msgid "First published 2004 by The Penguin Press."
-msgstr "Første gang publisert 2004 av The Penguin Press."
+msgid ""
+"This English and Norwegian Bokmål edition was created by Petter Reinholdtsen "
+"with help from many volunteers.  Thomas Gramstad Forlag donated the ISBN "
+"numbers and published the book on their behalf."
+msgstr ""
+"Denne utgaven på engelsk og bokmål ble laget av Petter Reinholdtsen "
+"med hjelp fra mange frivillige.  Thomas Gramstad Forlag donerte "
+"ISBN-nummer og ga ut boken på deres vegne."
+
+#. type: Content of: <book><colophon><para>
+msgid ""
+"Typeset with <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
+"using the font Crimson Text."
+msgstr ""
+"Typesatt ved hjelp av <ulink url=\"http://dblatex."
+"sourceforge.net\">dblatex</ulink> med skriftsnittet Crimson Text."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29287,10 +29295,6 @@ msgstr "(USAs kongressbibliotek) KF2979.L47 2004"
 #. type: Content of: <book><colophon><para>
 msgid "(ACM CRCS) K.4.1"
 msgstr "(ACM CRCS) K.4.1"
-
-#. type: Content of: <book><colophon><para>
-msgid "Thomas Gramstad Forlag donated the ISBN numbers."
-msgstr "Thomas Gramstad Forlag har donert ISBN-numrene."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
