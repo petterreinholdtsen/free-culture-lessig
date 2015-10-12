@@ -29,12 +29,24 @@
       <l:template name="chapter" text="%t"/>
     </l:context>
 
+    <l:l10n language="en">
+      <!-- The default page citation [12] is hard to understand for
+           most readers.  use (p. 12) instead. -->
+      <l:context name="xref">
+	<l:template name="page.citation" text=" (p. %p)"/>
+      </l:context>
+    </l:l10n>
+
     <l:l10n language="nb">
       <!-- Fix bugs in default nb locale -->
       <l:dingbat key="startquote" text="«"/>
       <l:dingbat key="endquote" text="»"/>
       <l:dingbat key="nestedstartquote" text="‘"/>
       <l:dingbat key="nestedendquote" text="’"/>
+
+      <l:context name="xref">
+	<l:template name="page.citation" text=" (s. %p)"/>
+      </l:context>
     </l:l10n>
   </l:i18n>
 
