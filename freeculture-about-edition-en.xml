@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter label="" id="c-about-this-edition">
+  <title>About this edition</title>
+  <para>
+This new edition of <citetitle>Free Culture</citetitle> is published
+by volunteers as part of a project to translate the book to Norwegian
+bokmål.
+  </para>
+  <para>
+&ndash; Petter Reinholdtsen, Oslo 2015-10-11
+  </para>
+
+</chapter>
