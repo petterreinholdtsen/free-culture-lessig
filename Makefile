@@ -60,16 +60,14 @@ PDF_XSLT = \
 
 all: lint lint.nb html epub pdf mobi
 
-freeculture.nb.po: freeculture.pot
+freeculture.nb.po freeculture.fr.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
 	po4a --translate-only freeculture.nb.xml po4a.cfg 
-	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-nb.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.fr.xml: freeculture.fr.po freeculture.xml
 	po4a --translate-only freeculture.fr.xml po4a.cfg 
-	sed -i 's%&aboutedition;%<xi:include href="freeculture-about-edition-fr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>%' $@
 
 freeculture.es_419.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
@@ -156,6 +154,7 @@ freeculture.xml:
 # po4a.
 freeculture.pot: freeculture.xml cover-text.xml
 	po4a-gettextize -o nodefault='<beginpage>' -o inline='<beginpage>' \
+          -o attributes='href' \
 	  -f docbook -m freeculture.xml -m cover-text.xml  > $@.new && mv $@.new $@
 
 stats: update-stats progress.png

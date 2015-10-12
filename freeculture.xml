@@ -9,7 +9,7 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
-   <!ENTITY copy "©"> <!ENTITY aboutedition "">
+   <!ENTITY copy "©">
 ]>
 
 <book id="index" lang="en">
@@ -15758,7 +15758,9 @@ grateful for her perpetual patience and love.
 
 </chapter>
 
-&aboutedition;
+<xi:include href="freeculture-about-edition-en.xml" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:fallback/>
+</xi:include>
 
 <index></index>
 <colophon>
