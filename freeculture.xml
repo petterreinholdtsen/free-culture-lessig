@@ -181,13 +181,13 @@ Code: And Other Laws of Cyberspace (1999)
 <!-- PAGE BREAK 7 -->
 <dedication id='dedication'><title></title>
 <!-- FIXME figure out how to do this better in dblatex and docbook-xsl -->
-<?latex {\Huge \centering
+<?latex {\huge \centering
 ?>
 <para>
 To Eric Eldred &mdash; whose work first drew me to this cause, and for whom
 it continues still.
 </para>
-<?latex } % \Huge \centering
+<?latex } % \huge \centering
 ?>
 </dedication>
 
