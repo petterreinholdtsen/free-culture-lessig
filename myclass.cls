@@ -9,9 +9,38 @@
 %\usepackage{showframe}% http://ctan.org/pkg/showframe
 \makeatletter
 
-% Customize the titlepage: remove the date
-\let\stdmaketitle=\maketitle
-\def\maketitle{\let\@date\empty\stdmaketitle}
+% 
+% Customize the titlepage: remove the date, place the publisher name, and 
+% load a specific file for the verso page, containing some legal notices
+%
+\def\maketitle{%
+  \titlerecto%
+  \titleverso}
+
+\def\titlerecto{\begin{titlepage}%
+  \null\vfil
+  \vskip 160\p@
+  \begin{center}%
+    {\LARGE \@title \par}%
+    \vskip 3em%
+    {\Large
+     \lineskip .75em%
+      \begin{tabular}[t]{c}%
+        \@author
+      \end{tabular}\par}%
+      \vskip 25.5em%
+    {\large \DBKpublishername \par}
+    \vskip .75em%
+    {\large \DBKpublisheraddress \par}%
+  \end{center}\par
+  \vfil\null
+  \end{titlepage}}%
+
+\def\titleverso{%
+  \def\titlepagefile{titlepg.input.tex}
+  \IfFileExists{\titlepagefile}{\input{\titlepagefile}}{}
+}%
+
 
 % Divide by 2 the index item indentation (10pt -> 5pt)
 \renewcommand\@idxitem{\par\hangindent 20\p@}
