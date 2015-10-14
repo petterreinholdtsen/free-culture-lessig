@@ -29217,8 +29217,8 @@ msgid ""
 "Typeset with <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
 "using the font Crimson Text."
 msgstr ""
-"Typesatt ved hjelp av <ulink url=\\\"http://dblatex.sourceforge.net\\"
-"\">dblatex</ulink> med skriftsnittet Crimson Text."
+"Typesatt ved hjelp av <ulink url=\"http://dblatex.sourceforge.net\">dblatex</"
+"ulink> med skriftsnittet Crimson Text."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
