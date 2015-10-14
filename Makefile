@@ -217,7 +217,25 @@ clean:
 	$(RM) *~
 
 distclean: clean
-	$(RM) freeculture-docbook-xsl.pdf \
+	$(RM) \
+	freeculture.pdf \
+	freeculture.epub \
+	freeculture.html \
+	freeculture.txt \
+	freeculture.mobi \
+	freeculture.nb.pdf \
+	freeculture.nb.epub \
+	freeculture.nb.html \
+	freeculture.nb.txt \
+	freeculture.nb.mobi \
+	freeculture.nb.xml \
+	freeculture.fr.pdf \
+	freeculture.fr.epub \
+	freeculture.fr.html \
+	freeculture.fr.txt \
+	freeculture.fr.mobi \
+	freeculture.fr.xml \
+	freeculture-docbook-xsl.pdf \
 	freeculture-docbook-xsl.fo \
 	freeculture-dblatex-db2latex.pdf \
 	freeculture-dblatex.pdf \
