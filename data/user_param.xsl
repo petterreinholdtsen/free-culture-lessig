@@ -37,6 +37,12 @@
       </l:context>
     </l:l10n>
 
+    <l:l10n language="fr">
+      <l:context name="xref">
+	<l:template name="page.citation" text=" (p.&#160;%p)"/>
+      </l:context>
+    </l:l10n>
+
     <l:l10n language="nb">
       <!-- Fix bugs in default nb locale -->
       <l:dingbat key="startquote" text="«"/>
