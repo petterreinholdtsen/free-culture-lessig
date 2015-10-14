@@ -28,7 +28,7 @@
       \begin{tabular}[t]{c}%
         \@author
       \end{tabular}\par}%
-      \vskip 25.5em%
+      \vskip 20em%
     {\large \DBKpublishername \par}
     \vskip .75em%
     {\large \DBKpublisheraddress \par}%
