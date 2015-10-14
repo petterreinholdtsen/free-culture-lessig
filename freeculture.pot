@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-12 12:56+0200\n"
+"POT-Creation-Date: 2015-10-14 10:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgstr ""
 
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:24
-msgid "<pubdate>2015-10-12</pubdate> <edition>1</edition>"
+msgid "<pubdate>2015-10-14</pubdate> <edition>1</edition>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo><releaseinfo>
@@ -117,7 +117,7 @@ msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:95 freeculture.xml:15881
+#: freeculture.xml:95 freeculture.xml:15882
 msgid ""
 "This book is licensed under a Creative Commons license. This license permits "
 "non-commercial use of this work, so long as attribution is given.  For more "
@@ -21783,20 +21783,26 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 #: freeculture.xml:15783
+msgid "Published in 2015.  First published 2004 by The Penguin Press."
+msgstr ""
+
+#. type: Content of: <book><colophon><para>
+#: freeculture.xml:15787
 msgid ""
-"Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen with "
-"help from many volunteers.  Typeset with <ulink "
-"url=\"http://dblatex.sourceforge.net\">dblatex</ulink> using the font "
-"Crimson Text."
+"This English and Norwegian Bokmål edition was created by Petter Reinholdtsen "
+"with help from many volunteers.  Thomas Gramstad Forlag donated the ISBN "
+"numbers and published the book on their behalf."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15790
-msgid "First published 2004 by The Penguin Press."
+#: freeculture.xml:15793
+msgid ""
+"Typeset with <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
+"using the font Crimson Text."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15794
+#: freeculture.xml:15799
 msgid ""
 "Excerpt from an editorial titled <quote>The Coming of Copyright "
 "Perpetuity,</quote> <citetitle>The New York Times</citetitle>, January 16, "
@@ -21805,7 +21811,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15800
+#: freeculture.xml:15805
 msgid ""
 "Cartoon in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1711-vcr-handgun-cartoonfig\"/> by Paul Conrad, copyright "
@@ -21814,7 +21820,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15806
+#: freeculture.xml:15811
 msgid ""
 "Diagram in figure <xref xrefstyle=\"template:%n\" "
 "linkend=\"fig-1761-pattern-modern-media-ownership\"/> courtesy of the office "
@@ -21822,19 +21828,19 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15812
+#: freeculture.xml:15817
 msgid "Cover created by Petter Reinholdtsen using inkscape."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15816
+#: freeculture.xml:15821
 msgid ""
 "The quotes on the cover came from <ulink "
 "url=\"http://free-culture.cc/jacket/\"/>."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15821
+#: freeculture.xml:15826
 msgid ""
 "Portrait on the cover was created 2013 by ActuaLitté and licensed under a "
 "Creative Commons Attribution-ShareAlike 2.0 license.  It was downloaded from "
@@ -21843,49 +21849,44 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15828
+#: freeculture.xml:15833
 msgid "Classifications:"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15832
+#: freeculture.xml:15837
 msgid "(Dewey)  306.4, 306.40973, 306.46, 341.7582, 343.7309/9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15841
+#: freeculture.xml:15846
 msgid "(UDK) 347.78"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15845
+#: freeculture.xml:15850
 msgid "(US Library of Congress) KF2979.L47 2004"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15849
+#: freeculture.xml:15854
 msgid "(ACM CRCS) K.4.1"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15853
-msgid "Thomas Gramstad Forlag donated the ISBN numbers."
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15857
+#: freeculture.xml:15858
 msgid ""
 "Printing was sponsed by NUUG Foundation, <ulink "
 "url=\"http://www.nuugfoundation.no/\"/>."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15862
+#: freeculture.xml:15863
 msgid "Includes index."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15869
+#: freeculture.xml:15870
 msgid ""
 "The Docbook source is available from <ulink "
 "url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>.  Please "
@@ -21893,64 +21894,64 @@ msgid ""
 msgstr ""
 
 #. type: Attribute 'fileref' of: <book><colophon><para><informalfigure><graphic>
-#: freeculture.xml:15876
+#: freeculture.xml:15877
 msgid "images/cc.svg"
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
-#: freeculture.xml:15888
+#: freeculture.xml:15889
 msgid ""
 "This book is a proof reading draft.  Please visit the github URL above to "
 "get the latest version."
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15897
+#: freeculture.xml:15898
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15898
+#: freeculture.xml:15899
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15903
+#: freeculture.xml:15904
 msgid "US Trade edition from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15904
+#: freeculture.xml:15905
 msgid "978-82-8067-010-6"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15907
+#: freeculture.xml:15908
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15908
+#: freeculture.xml:15909
 msgid "978-82-8067-011-3"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15911
+#: freeculture.xml:15912
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15912
+#: freeculture.xml:15913
 msgid "978-82-8067-012-0"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15915
+#: freeculture.xml:15916
 msgid "application/x-mobipocket-ebook"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15916
+#: freeculture.xml:15917
 msgid "978-82-8067-013-7"
 msgstr ""
 
@@ -21990,12 +21991,12 @@ msgid ""
 "now has a veto over technological innovation and has halted most "
 "contributions to the public domain from which so many have benefited. The "
 "patent system has spun out of control, giving enormous power to entrenched "
-"interests, and even trademarks are being misused. Lawrence Lessig's latest "
-"book is essential reading for anyone who want to join this conversation. He "
-"explains how technology and the law are robbing us of the public domain; but "
-"for all his educated pessimism, Professor Lessig offers some solutions, too, "
-"because he recognizes that technology can be the catalyst for freedom. If "
-"you care about the future of innovation, read this book.</quote> &mdash; "
+"interests, and even trademarks are being misused. Lawrence Lessig's book is "
+"essential reading for anyone who want to join this conversation. He explains "
+"how technology and the law are robbing us of the public domain; but for all "
+"his educated pessimism, Professor Lessig offers some solutions, too, because "
+"he recognizes that technology can be the catalyst for freedom. If you care "
+"about the future of innovation, read this book.</quote> &mdash; "
 "<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
 "book on the collision of media and technology</emphasis>"
 msgstr ""
