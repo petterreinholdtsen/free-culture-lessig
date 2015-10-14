@@ -3,17 +3,21 @@
 # This file is distributed under the same license as Free Culture
 # book. When the original enters the public domain, the translation too.
 #
+# Translators:
+# pere <pere-transifex@hungry.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Free Culture by Laurence Lessig\n"
-"POT-Creation-Date: 2015-10-12 22:07+0300\n"
-"PO-Revision-Date: 2015-10-13 22:15+0300\n"
-"Last-Translator: Benoît Guillon <marsgui@users.sourceforge.net>\n"
-"Language-Team: Wikilivres (http://www.wikilivres.ca) & B. Guillon\n"
+"Project-Id-Version: Free Culture by Lawrence Lessig\n"
+"POT-Creation-Date: 2015-10-14 01:36+0300\n"
+"PO-Revision-Date: 2015-10-13 11:48+0000\n"
+"Last-Translator: pere <pere-transifex@hungry.com>\n"
+"Language-Team: French (http://www.transifex.com/pere/free-culture-lessig/"
+"language/fr/)\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of the copy entity
 msgid "©"
@@ -40,7 +44,7 @@ msgstr ""
 "culture et contrôler la créativité"
 
 #. type: Content of: <book><bookinfo>
-msgid "<pubdate>2015-09-04</pubdate> <edition>1</edition>"
+msgid "<pubdate>2015-10-12</pubdate> <edition>1</edition>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo><releaseinfo>
@@ -105,10 +109,6 @@ msgstr "Creative Commons, droits réservés"
 #. type: Content of: <book><bookinfo><legalnotice><para>
 msgid "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
 msgstr "<placeholder type=\"inlinemediaobject\" id=\"0\"/>"
-
-#. type: Attribute 'href' of: <book><xi:include>
-msgid "freeculture-about-edition-en.xml"
-msgstr "freeculture-about-edition-fr.xml"
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -406,11 +406,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Safire, William"
-msgstr ""
+msgstr "Safire, William"
 
 #. type: Content of: <book><preface><indexterm><primary>
 msgid "Stevens, Ted"
-msgstr ""
+msgstr "Stevens, Ted"
 
 #. type: Content of: <book><preface><para>
 msgid ""
@@ -638,11 +638,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Causby, Thomas Lee"
-msgstr ""
+msgstr "Causby, Thomas Lee"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Causby, Tinie"
-msgstr ""
+msgstr "Causby, Tinie"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -811,19 +811,19 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Armstrong, Edwin Howard"
-msgstr ""
+msgstr "Armstrong, Edwin Howard"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Bell, Alexander Graham"
-msgstr ""
+msgstr "Bell, Alexander Graham"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Edison, Thomas"
-msgstr ""
+msgstr "Edison, Thomas"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Faraday, Michael"
-msgstr ""
+msgstr "Faraday, Michael"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "radio"
@@ -961,7 +961,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Sarnoff, David"
-msgstr ""
+msgstr "Sarnoff, David"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Lessing, Lawrence"
-msgstr ""
+msgstr "Lessing, Lawrence"
 
 #. type: Content of: <book><chapter><blockquote><para><footnote><para>
 msgid "Lessing, 226."
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Barlow, Joel"
-msgstr ""
+msgstr "Barlow, Joel"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "culture"
@@ -1503,7 +1503,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Valenti, Jack"
-msgstr ""
+msgstr "Valenti, Jack"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on creative property rights"
@@ -1904,7 +1904,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mansfield, William Murray, Lord"
-msgstr ""
+msgstr "Mansfield, William Murray, Lord"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "music publishing"
@@ -2335,7 +2335,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Disney, Walt"
-msgstr ""
+msgstr "Disney, Walt"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2404,7 +2404,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Iwerks, Ub"
-msgstr ""
+msgstr "Iwerks, Ub"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2939,7 +2939,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Winick, Judd"
-msgstr ""
+msgstr "Winick, Judd"
 
 #.  f5 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -2993,7 +2993,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mehra, Salil"
-msgstr ""
+msgstr "Mehra, Salil"
 
 #.  f6 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3231,7 +3231,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Shakespeare, William"
-msgstr ""
+msgstr "Shakespeare, William"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3322,7 +3322,7 @@ msgstr "<quote>Simples copistes</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Daguerre, Louis"
-msgstr ""
+msgstr "Daguerre, Louis"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "camera technology"
@@ -3354,7 +3354,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Talbot, William"
-msgstr ""
+msgstr "Talbot, William"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3379,7 +3379,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eastman, George"
-msgstr ""
+msgstr "Eastman, George"
 
 #.  PAGE BREAK 45 
 #. type: Content of: <book><part><chapter><para>
@@ -3869,7 +3869,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Yanofsky, Dave"
-msgstr ""
+msgstr "Yanofsky, Dave"
 
 #.  PAGE BREAK 49 
 #. type: Content of: <book><part><chapter><para>
@@ -4531,7 +4531,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Tocqueville, Alexis de"
-msgstr ""
+msgstr "Tocqueville, Alexis de"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "public discourse in"
@@ -4683,7 +4683,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Dean, Howard"
-msgstr ""
+msgstr "Dean, Howard"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4699,11 +4699,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Lott, Trent"
-msgstr ""
+msgstr "Lott, Trent"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Thurmond, Strom"
-msgstr ""
+msgstr "Thurmond, Strom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "blog pressure on"
@@ -4788,7 +4788,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Winer, Dave"
-msgstr ""
+msgstr "Winer, Dave"
 
 #.  PAGE BREAK 57 
 #. type: Content of: <book><part><chapter><para>
@@ -4986,7 +4986,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Brown, John Seely"
-msgstr ""
+msgstr "Brown, John Seely"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5237,7 +5237,7 @@ msgstr "Catalogues"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Jordan, Jesse"
-msgstr ""
+msgstr "Jordan, Jesse"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "RPI"
@@ -5312,7 +5312,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #.  PAGE BREAK 62 
 #. type: Content of: <book><part><chapter><para>
@@ -5340,7 +5340,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Microsoft"
-msgstr ""
+msgstr "Microsoft"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "network file system of"
@@ -5612,7 +5612,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Oppenheimer, Matt"
-msgstr ""
+msgstr "Oppenheimer, Matt"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6007,11 +6007,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Fourneaux, Henri"
-msgstr ""
+msgstr "Fourneaux, Henri"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Russel, Phil"
-msgstr ""
+msgstr "Russel, Phil"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6123,7 +6123,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Sousa, John Philip"
-msgstr ""
+msgstr "Sousa, John Philip"
 
 #.  f5 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6310,7 +6310,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "Grisham, John"
-msgstr ""
+msgstr "Grisham, John"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6766,7 +6766,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><indexterm><primary>
 msgid "Zimmerman, Edwin"
-msgstr ""
+msgstr "Zimmerman, Edwin"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para>
 msgid ""
@@ -8164,7 +8164,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Bernstein, Leonard"
-msgstr ""
+msgstr "Bernstein, Leonard"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "books on"
@@ -8218,7 +8218,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Doctorow, Cory"
-msgstr ""
+msgstr "Doctorow, Cory"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Down and Out in the Magic Kingdom (Doctorow)"
@@ -8670,7 +8670,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><primary>
 msgid "Kozinski, Alex"
-msgstr ""
+msgstr "Kozinski, Alex"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -9074,7 +9074,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Jefferson, Thomas"
-msgstr ""
+msgstr "Jefferson, Thomas"
 
 #.  f1 
 #. type: Content of: <book><part><partintro><para><footnote><para>
@@ -9207,7 +9207,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
-msgstr ""
+msgstr "Branagh, Kenneth"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Henry V"
@@ -9629,7 +9629,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Milton, John"
-msgstr ""
+msgstr "Milton, John"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "booksellers, English"
@@ -9852,7 +9852,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Donaldson, Alexander"
-msgstr ""
+msgstr "Donaldson, Alexander"
 
 #.  f7 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9876,7 +9876,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Boswell, James"
-msgstr ""
+msgstr "Boswell, James"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Erskine, Andrew"
@@ -9970,7 +9970,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Thomson, James"
-msgstr ""
+msgstr "Thomson, James"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Seasons, The (Thomson)"
@@ -9978,7 +9978,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Taylor, Robert"
-msgstr ""
+msgstr "Taylor, Robert"
 
 #.  f11 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -10069,7 +10069,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Beckett, Thomas"
-msgstr ""
+msgstr "Beckett, Thomas"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "House of Lords"
@@ -10170,15 +10170,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Bacon, Francis"
-msgstr ""
+msgstr "Bacon, Francis"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Bunyan, John"
-msgstr ""
+msgstr "Bunyan, John"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Johnson, Samuel"
-msgstr ""
+msgstr "Johnson, Samuel"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10327,7 +10327,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Else, Jon"
-msgstr ""
+msgstr "Else, Jon"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "fair use"
@@ -10367,7 +10367,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Wagner, Richard"
-msgstr ""
+msgstr "Wagner, Richard"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "San Francisco Opera"
@@ -10436,7 +10436,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
 msgid "Groening, Matt"
-msgstr ""
+msgstr "Groening, Matt"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10491,7 +10491,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Herrera, Rebecca"
-msgstr ""
+msgstr "Herrera, Rebecca"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10766,11 +10766,11 @@ msgstr "Transformateurs"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Allen, Paul"
-msgstr ""
+msgstr "Allen, Paul"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Alben, Alex"
-msgstr ""
+msgstr "Alben, Alex"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10966,7 +10966,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Sutherland, Donald"
-msgstr ""
+msgstr "Sutherland, Donald"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11036,7 +11036,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Drucker, Peter"
-msgstr ""
+msgstr "Drucker, Peter"
 
 #.  f2 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -11221,7 +11221,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Nimmer, David"
-msgstr ""
+msgstr "Nimmer, David"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11241,7 +11241,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Boies, David"
-msgstr ""
+msgstr "Boies, David"
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Court of Appeals"
@@ -11539,7 +11539,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Orwell, George"
-msgstr ""
+msgstr "Orwell, George"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11760,7 +11760,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "Quayle, Dan"
-msgstr ""
+msgstr "Quayle, Dan"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "60 Minutes"
@@ -12677,7 +12677,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Lessig, Lawrence"
-msgstr ""
+msgstr "Lessig, Lawrence"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "four modalities of constraint on"
@@ -13296,11 +13296,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Brezhnev, Leonid"
-msgstr ""
+msgstr "Brezhnev, Leonid"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Gates, Bill"
-msgstr ""
+msgstr "Gates, Bill"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "market competition"
@@ -13427,7 +13427,7 @@ msgstr "Voici une métaphore qui illustrera l'argumentation qui suit."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Müller, Paul Hermann"
-msgstr ""
+msgstr "Müller, Paul Hermann"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "DDT"
@@ -13464,7 +13464,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Carson, Rachel"
-msgstr ""
+msgstr "Carson, Rachel"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Silent Spring (Carson)"
@@ -16646,7 +16646,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "McCain, John"
-msgstr ""
+msgstr "McCain, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Universal Music Group"
@@ -16853,7 +16853,7 @@ msgstr "Voici une histoire qui suggère comment cette concentration peut jouer."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Lear, Norman"
-msgstr ""
+msgstr "Lear, Norman"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "All in the Family"
@@ -17059,7 +17059,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Clark, Kim B."
-msgstr ""
+msgstr "Clark, Kim B."
 
 #.  f33 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -17695,12 +17695,12 @@ msgid ""
 "Chapman, eds. (New York: New York University Press, 1980)."
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> La contribution la plus "
-"importante de l'école du réalisme juridique  a été "
-"de démontrer que tous les droits de propriété sont toujours "
-"formulées pour équilibrer les intérêts publiques et privés. Voir "
-"Thomas C. Grey, <quote>La désintégration de la propriété</quote>, dans "
-"<citetitle>Nomos XXII: Property</citetitle>, J. Roland Pennock et John W.  "
-"Chapman, ed. (New York: New York University Press, 1980)."
+"importante de l'école du réalisme juridique  a été de démontrer que tous les "
+"droits de propriété sont toujours formulées pour équilibrer les intérêts "
+"publiques et privés. Voir Thomas C. Grey, <quote>La désintégration de la "
+"propriété</quote>, dans <citetitle>Nomos XXII: Property</citetitle>, J. "
+"Roland Pennock et John W.  Chapman, ed. (New York: New York University "
+"Press, 1980)."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17814,7 +17814,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Wells, H. G."
-msgstr ""
+msgstr "Wells, H. G."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>Country of the Blind, The</quote> (Wells)"
@@ -18268,14 +18268,12 @@ msgid ""
 "in LEXIS, Federal Document Clearing House Congressional Testimony File."
 msgstr ""
 "WIPO et le DMCA un an plus tard&nbsp;: évaluation de l'accès des "
-"consommateurs "
-"aux divertissements numériques sur Internet et autres médias&nbsp;: "
-"audiences devant le sous-comité aux télécommunications, commerce, et "
-"protection des consommateurs, comité de la maison du commerce, 106e Cong. 29 "
-"(1999) (déclaration de Peter Harter, "
-"vice-président, politique publique générale et standards, EMusic.com), "
-"disponible "
-"dans LEXIS, Federal Document Clearing House Congressional Testimony File."
+"consommateurs aux divertissements numériques sur Internet et autres "
+"médias&nbsp;: audiences devant le sous-comité aux télécommunications, "
+"commerce, et protection des consommateurs, comité de la maison du commerce, "
+"106e Cong. 29 (1999) (déclaration de Peter Harter, vice-président, politique "
+"publique générale et standards, EMusic.com), disponible dans LEXIS, Federal "
+"Document Clearing House Congressional Testimony File."
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -18508,11 +18506,11 @@ msgid ""
 "<placeholder type=\"indexterm\" id=\"0\"/>"
 msgstr ""
 "Voir Lynne W. Jeter, <citetitle>Disconnected: Deceit and Betrayal at "
-"WorldCom</citetitle> (Hoboken, N.J.&nbsp;: John Wiley &amp; Fils, 2003), 176, 204&nbsp;; "
-"Pour les détails du réglement, voir le communiqué de presse de MCI, <quote>MCI Wins U.S. "
-"District Court Approval for SEC Settlement</quote> (7 juillet 2003), disponible "
-"au <ulink url=\"http://free-culture.cc/notes/\">link #37</ulink>.  "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"WorldCom</citetitle> (Hoboken, N.J.&nbsp;: John Wiley &amp; Fils, 2003), "
+"176, 204&nbsp;; Pour les détails du réglement, voir le communiqué de presse "
+"de MCI, <quote>MCI Wins U.S. District Court Approval for SEC Settlement</"
+"quote> (7 juillet 2003), disponible au <ulink url=\"http://free-culture.cc/"
+"notes/\">link #37</ulink>.  <placeholder type=\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "tort reform"
@@ -18536,18 +18534,16 @@ msgid ""
 "id=\"1\"/>"
 msgstr ""
 "La loi, conçue d'après la réforme de la responsabilité pénale de la "
-"Californie, a été votée par le parlement, mais a été rejetée par le vote "
-"en juillet 2003 au sénat. Pour un aperçu, voir "
-"Tanya Albert, <quote>La mesure cale au sénat&nbsp;: <quote>Nous reviendrons"
-"</quote>, disent les réformateurs de la responsabilité pénale</quote>, "
-"amednews.com, 28 juillet 2003, "
-"disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #38</ulink>, "
-"et <quote>Senate Turns Back Malpractice Caps</quote>, CBSNews.com, 9 juillet "
-"2003, disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #39</"
-"ulink>. Le président Bush a continué à exhorter la réforme de la "
-"responsabilité pénale dans les derniers mois.  "
-"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
-"id=\"1\"/>"
+"Californie, a été votée par le parlement, mais a été rejetée par le vote en "
+"juillet 2003 au sénat. Pour un aperçu, voir Tanya Albert, <quote>La mesure "
+"cale au sénat&nbsp;: <quote>Nous reviendrons</quote>, disent les "
+"réformateurs de la responsabilité pénale</quote>, amednews.com, 28 juillet "
+"2003, disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #38</"
+"ulink>, et <quote>Senate Turns Back Malpractice Caps</quote>, CBSNews.com, 9 "
+"juillet 2003, disponible au <ulink url=\"http://free-culture.cc/notes/"
+"\">lien #39</ulink>. Le président Bush a continué à exhorter la réforme de "
+"la responsabilité pénale dans les derniers mois.  <placeholder type="
+"\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -18605,10 +18601,10 @@ msgid ""
 "ulink>."
 msgstr ""
 "Voir Danit Lidor, <quote>Les artistes veulent juste être libres</quote>, "
-"<citetitle>Wired</citetitle>, 7 juillet 2003, disponible au "
-"<ulink url=\"http://free-culture.cc/notes/\">lien #40</ulink>. Pour un "
-"aperçu de l'exposition, voir <ulink url="
-"\"http://free-culture.cc/notes/\">lien #41</ulink>."
+"<citetitle>Wired</citetitle>, 7 juillet 2003, disponible au <ulink url="
+"\"http://free-culture.cc/notes/\">lien #40</ulink>. Pour un aperçu de "
+"l'exposition, voir <ulink url=\"http://free-culture.cc/notes/\">lien #41</"
+"ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -18871,7 +18867,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Barry, Hank"
-msgstr ""
+msgstr "Barry, Hank"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "venture capitalists"
@@ -18924,7 +18920,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Roberts, Michael"
-msgstr ""
+msgstr "Roberts, Michael"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -19108,7 +19104,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hummer, John"
-msgstr ""
+msgstr "Hummer, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hummer Winblad"
@@ -19138,15 +19134,14 @@ msgid ""
 "Services Besieged,</quote> <citetitle>Los Angeles Times</citetitle>, 28 May "
 "2001."
 msgstr ""
-"Voir Joseph Menn, <quote>Universal, EMI fait un procès à l'investisseur "
-"de Napster</quote>, <citetitle>Los Angeles Times</citetitle>, 23 avril 2003. "
-"Pour un argument "
-"parallèle sur les effets de l'innovation sur la distribution de musique, "
-"voir Janelle Brown, <quote>The Music Revolution Will Not Be Digitized"
-"</quote>, Salon.com, 1er juin 2001, disponible au <ulink url=\"http &nbsp;://"
-"free-culture.cc/notes/\">lien #42</ulink>. Voir aussi Jon Healey, "
-"<quote>Online Music Services Besieged</quote>, <citetitle>Los Angeles Times"
-"</citetitle>, 28 mai 2001."
+"Voir Joseph Menn, <quote>Universal, EMI fait un procès à l'investisseur de "
+"Napster</quote>, <citetitle>Los Angeles Times</citetitle>, 23 avril 2003. "
+"Pour un argument parallèle sur les effets de l'innovation sur la "
+"distribution de musique, voir Janelle Brown, <quote>The Music Revolution "
+"Will Not Be Digitized</quote>, Salon.com, 1er juin 2001, disponible au "
+"<ulink url=\"http &nbsp;://free-culture.cc/notes/\">lien #42</ulink>. Voir "
+"aussi Jon Healey, <quote>Online Music Services Besieged</quote>, "
+"<citetitle>Los Angeles Times</citetitle>, 28 mai 2001."
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -19196,8 +19191,8 @@ msgstr ""
 "Rafe Needleman, <quote>Conduire en voiture avec des MP3s</quote>, "
 "<citetitle>Business 2.0</citetitle>, 16 juin 2003, disponible au <ulink url="
 "\"http://free-culture.cc/notes/\">lien #43</ulink>. Je suis reconnaissant au "
-"Dr. Mohammad Al-Ubaydli pour avoir signalé cet exemple. "
-"<placeholder type=\"indexterm\" id=\"0\"/>"
+"Dr. Mohammad Al-Ubaydli pour avoir signalé cet exemple. <placeholder type="
+"\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para>
 msgid ""
@@ -19374,8 +19369,8 @@ msgid ""
 msgstr ""
 "<quote>Copyright et média numérique dans le monde post-Napster</quote>, "
 "GartnerG2 et le Berkman Center for Internet and Society à l'école de droit "
-"de Harvard (2003), 33-35, disponible au <ulink url=\"http://free-culture.cc/notes/"
-"\">lien #44</ulink>."
+"de Harvard (2003), 33-35, disponible au <ulink url=\"http://free-culture.cc/"
+"notes/\">lien #44</ulink>."
 
 #.  f7. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -19603,7 +19598,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Monroe, Marilyn"
-msgstr ""
+msgstr "Monroe, Marilyn"
 
 #.  PAGE BREAK 204 
 #. type: Content of: <book><part><chapter><section><para>
@@ -20638,7 +20633,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "von Lohmann, Fred"
-msgstr ""
+msgstr "von Lohmann, Fred"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -21020,11 +21015,11 @@ msgstr "Eldred"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Eldred, Eric"
-msgstr ""
+msgstr "Eldred, Eric"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Hawthorne, Nathaniel"
-msgstr ""
+msgstr "Hawthorne, Nathaniel"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21178,7 +21173,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Frost, Robert"
-msgstr ""
+msgstr "Frost, Robert"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "New Hampshire (Frost)"
@@ -21214,11 +21209,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Bono, Mary"
-msgstr ""
+msgstr "Bono, Mary"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Bono, Sonny"
-msgstr ""
+msgstr "Bono, Sonny"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
 msgid "perpetual copyright term proposed by"
@@ -21349,7 +21344,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Jaszi, Peter"
-msgstr ""
+msgstr "Jaszi, Peter"
 
 #.  PAGE BREAK 223 
 #. type: Content of: <book><part><chapter><para>
@@ -22171,7 +22166,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Agee, Michael"
-msgstr ""
+msgstr "Agee, Michael"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Hal Roach Studios"
@@ -22704,7 +22699,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Tatel, David"
-msgstr ""
+msgstr "Tatel, David"
 
 #.  PAGE BREAK 236 
 #. type: Content of: <book><part><chapter><para>
@@ -22781,7 +22776,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steward, Geoffrey"
-msgstr ""
+msgstr "Steward, Geoffrey"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Jones, Day, Reavis and Pogue (Jones Day)"
@@ -22809,11 +22804,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Ayer, Don"
-msgstr ""
+msgstr "Ayer, Don"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Bromberg, Dan"
-msgstr ""
+msgstr "Bromberg, Dan"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -22935,7 +22930,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Schlafly, Phyllis"
-msgstr ""
+msgstr "Schlafly, Phyllis"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23037,23 +23032,23 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Akerlof, George"
-msgstr ""
+msgstr "Akerlof, George"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Arrow, Kenneth"
-msgstr ""
+msgstr "Arrow, Kenneth"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Buchanan, James"
-msgstr ""
+msgstr "Buchanan, James"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coase, Ronald"
-msgstr ""
+msgstr "Coase, Ronald"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Friedman, Milton"
-msgstr ""
+msgstr "Friedman, Milton"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -23080,11 +23075,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Fried, Charles"
-msgstr ""
+msgstr "Fried, Charles"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Morrison, Alan"
-msgstr ""
+msgstr "Morrison, Alan"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Public Citizen"
@@ -23092,7 +23087,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Reagan, Ronald"
-msgstr ""
+msgstr "Reagan, Ronald"
 
 #.  PAGE BREAK 240 
 #. type: Content of: <book><part><chapter><para>
@@ -23179,7 +23174,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Gershwin, George"
-msgstr ""
+msgstr "Gershwin, George"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Porgy and Bess"
@@ -23286,19 +23281,19 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kennedy, Anthony"
-msgstr ""
+msgstr "Kennedy, Anthony"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "O'Connor, Sandra Day"
-msgstr ""
+msgstr "O'Connor, Sandra Day"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Thomas, Clarence"
-msgstr ""
+msgstr "Thomas, Clarence"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Scalia, Antonin"
-msgstr ""
+msgstr "Scalia, Antonin"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "congressional actions restrained by"
@@ -23331,11 +23326,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Breyer, Stephen"
-msgstr ""
+msgstr "Breyer, Stephen"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Ginsburg, Ruth Bader"
-msgstr ""
+msgstr "Ginsburg, Ruth Bader"
 
 #.  PAGE BREAK 242 
 #. type: Content of: <book><part><chapter><para>
@@ -23798,7 +23793,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Olson, Theodore B."
-msgstr ""
+msgstr "Olson, Theodore B."
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24323,7 +24318,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><figure><indexterm><primary>
 msgid "Bolling, Ruben"
-msgstr ""
+msgstr "Bolling, Ruben"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -24463,7 +24458,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Forbes, Steve"
-msgstr ""
+msgstr "Forbes, Steve"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Democratic Party"
@@ -24888,7 +24883,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Lofgren, Zoe"
-msgstr ""
+msgstr "Lofgren, Zoe"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -25047,7 +25042,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kelly, Kevin"
-msgstr ""
+msgstr "Kelly, Kevin"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -25330,7 +25325,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Braithwaite, John"
-msgstr ""
+msgstr "Braithwaite, John"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -26112,7 +26107,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Krim, Jonathan"
-msgstr ""
+msgstr "Krim, Jonathan"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "WIPO meeting opposed by"
@@ -26164,7 +26159,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Boland, Lois"
-msgstr ""
+msgstr "Boland, Lois"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Patent and Trademark Office, U.S."
@@ -26477,7 +26472,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Turner, Ted"
-msgstr ""
+msgstr "Turner, Ted"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -26592,7 +26587,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Dylan, Bob"
-msgstr ""
+msgstr "Dylan, Bob"
 
 #.  f11. 
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -26698,7 +26693,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Gil, Gilberto"
-msgstr ""
+msgstr "Gil, Gilberto"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "public creative archive in"
@@ -27128,7 +27123,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Stallman, Richard"
-msgstr ""
+msgstr "Stallman, Richard"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27210,7 +27205,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Torvalds, Linus"
-msgstr ""
+msgstr "Torvalds, Linus"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27560,7 +27555,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Garlick, Mia"
-msgstr ""
+msgstr "Garlick, Mia"
 
 #.  PAGE BREAK 289 
 #. type: Content of: <book><chapter><section><section><para>
@@ -27666,7 +27661,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Wayner, Peter"
-msgstr ""
+msgstr "Wayner, Peter"
 
 #.  PAGE BREAK 290 
 #. type: Content of: <book><chapter><section><section><para>
@@ -27690,7 +27685,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Leaphart, Walter"
-msgstr ""
+msgstr "Leaphart, Walter"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Public Enemy"
@@ -28498,7 +28493,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Kaplan, Benjamin"
-msgstr ""
+msgstr "Kaplan, Benjamin"
 
 #.  f5. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -28618,7 +28613,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Goldstein, Paul"
-msgstr ""
+msgstr "Goldstein, Paul"
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
@@ -29140,7 +29135,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para><indexterm><primary>
 msgid "Fisher, William"
-msgstr ""
+msgstr "Fisher, William"
 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
 msgid ""
@@ -29490,7 +29485,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Nimmer, Melville"
-msgstr ""
+msgstr "Nimmer, Melville"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "Supreme Court challenge of"
@@ -29863,18 +29858,26 @@ msgid "<ulink url=\"http://free-culture.cc/\"/>"
 msgstr "<ulink url=\"http://free-culture.cc/\"/>"
 
 #. type: Content of: <book><colophon><para>
-msgid ""
-"Published in English and Norwegian Bokmål 2015 by Petter Reinholdtsen with "
-"help from many volunteers.  Typeset with <ulink url=\"http://dblatex."
-"sourceforge.net\">dblatex</ulink> using the font Crimson Text."
-msgstr ""
-"Publié en anglais et en norvégien Bokmål 2015 par Petter Reinholdtsen avec "
-"l'aide de beaucoup de volontaires. Mis en forme par <ulink url=\"http://"
-"dblatex.sourceforge.net\">dblatex</ulink> avec les fontes Crimson Text."
+msgid "Published in 2015.  First published 2004 by The Penguin Press."
+msgstr "Publié en 2015. Première publication 2004 par The Penguin Press."
 
 #. type: Content of: <book><colophon><para>
-msgid "First published 2004 by The Penguin Press."
-msgstr "First published 2004 by The Penguin Press."
+msgid ""
+"This English and Norwegian Bokmål edition was created by Petter Reinholdtsen "
+"with help from many volunteers.  Thomas Gramstad Forlag donated the ISBN "
+"numbers and published the book on their behalf."
+msgstr ""
+"Cette édition anglaise et en norvégienne Bokmål a été réalisée par "
+"Petter Reinholdtsen avec l'aide de beaucoup de volontaires. Thomas Gramstad "
+"Forlag a donné les numéros ISBN et publié le livre sous ces références."
+
+#. type: Content of: <book><colophon><para>
+msgid ""
+"Typeset with <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
+"using the font Crimson Text."
+msgstr ""
+"Mis en forme avec <ulink url=\"http://"
+"dblatex.sourceforge.net\">dblatex</ulink> avec les fontes Crimson Text."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29933,10 +29936,6 @@ msgstr ""
 
 #. type: Content of: <book><colophon><para>
 msgid "(ACM CRCS) K.4.1"
-msgstr ""
-
-#. type: Content of: <book><colophon><para>
-msgid "Thomas Gramstad Forlag donated the ISBN numbers."
 msgstr ""
 
 #. type: Content of: <book><colophon><para>
@@ -30038,10 +30037,10 @@ msgid ""
 "a veto over technological innovation and has halted most contributions to "
 "the public domain from which so many have benefited. The patent system has "
 "spun out of control, giving enormous power to entrenched interests, and even "
-"trademarks are being misused. Lawrence Lessig's latest book is essential "
-"reading for anyone who want to join this conversation. He explains how "
-"technology and the law are robbing us of the public domain; but for all his "
-"educated pessimism, Professor Lessig offers some solutions, too, because he "
+"trademarks are being misused. Lawrence Lessig's book is essential reading "
+"for anyone who want to join this conversation. He explains how technology "
+"and the law are robbing us of the public domain; but for all his educated "
+"pessimism, Professor Lessig offers some solutions, too, because he "
 "recognizes that technology can be the catalyst for freedom. If you care "
 "about the future of innovation, read this book.</quote> &mdash; "
 "<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
