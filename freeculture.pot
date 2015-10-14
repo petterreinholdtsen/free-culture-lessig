@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-14 10:34+0200\n"
+"POT-Creation-Date: 2015-10-14 23:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,9 +92,9 @@ msgstr ""
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:70
 msgid ""
-"<publisher> <publishername>Petter Reinholdtsen</publishername> <placeholder "
-"type=\"address\" id=\"0\"/> </publisher> <copyright> <year>2004</year> "
-"<holder>Lawrence Lessig</holder> </copyright>"
+"<publisher> <publishername>Thomas Gramstad Forlag</publishername> "
+"<placeholder type=\"address\" id=\"0\"/> </publisher> <copyright> "
+"<year>2004</year> <holder>Lawrence Lessig</holder> </copyright>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo><legalnotice><para><inlinemediaobject>
