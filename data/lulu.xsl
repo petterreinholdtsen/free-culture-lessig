@@ -19,8 +19,8 @@ http://www.lulu.com/create/books
 
 <!-- reduce from 0.55in, to ignore header and footer in margin calculation -->
 <!-- FIXME figure out the proper number to use -->
-<xsl:param name="page.margin.top">0.15in</xsl:param>
-<xsl:param name="page.margin.bottom">0.30in</xsl:param>
+<xsl:param name="page.margin.top">0.05in</xsl:param>
+<xsl:param name="page.margin.bottom">0.15in</xsl:param>
 
 <xsl:param name="body.start.indent">0pt</xsl:param>
 <xsl:param name="double.sided">1</xsl:param>
