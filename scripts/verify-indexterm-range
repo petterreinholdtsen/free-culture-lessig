@@ -5,9 +5,18 @@
 # are unique.
 
 from  lxml import etree
+import subprocess
+
 def main():
     filename = 'freeculture.xml'
-    doc = etree.parse(filename)
+
+    # make sure entities are looked up / available
+    # Based on idea from
+    # http://stackoverflow.com/questions/14731633/how-to-resolve-external-entities-with-xml-etree-like-lxml-etree
+    proc = subprocess.Popen(['xmllint','--noent',filename],stdout=subprocess.PIPE)
+    output = proc.communicate()[0]
+    doc = ElementTree.parse(StringIO.StringIO(output))
+
     ids = {}
     order = 0
     for it in doc.getroot().xpath('//indexterm'):
