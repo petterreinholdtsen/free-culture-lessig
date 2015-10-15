@@ -29,16 +29,17 @@ Flere meldte seg.  Anders Hagen Jarmund, Kirill Miazine og Odd Kleiva
 bidro til den første oversettelsen. Ralph Amissah og hans SiSu-utgave
 bidro med registeroppføringer.  Morten Sickel og Alexander Alemayhu
 hjalp til med å gjenskape og oversette noen av de originale figurene.
-Wivi Reinholdtsen, Ingrid Yrvin, Johannes Larsen, Gisle Hannemyr og
-Trond Trosterud bidro med svært nyttig korrekturlesing.  Håkon Wium
-Lie hjalp meg med å spore opp gode skrifttyper uten brukbegrensninger
-som erstatning for skrifttypene i den opprinnelige engelske utgaven.
-Typesettingen ble gjort med dblatex, som ble valgt i stedet for
-alternativene takket være uvurderlig og kjapp hjelp fra Benoît Guillon
-og Andreas Hoenen i Debian.  Benoît Guillon ble til og med inspirert
-til å sette i gang med en fransk utgave.  Thomas Gramstad donerte
-ISBN-numrene jeg trengte for å gjøre bokhandel-distribusjon mulig.
-Marc Jeanmougin hjalp meg med forsiden.
+Wivi Reinholdtsen, Ingrid Yrvin, Johannes Larsen, Gisle Hannemyr,
+Thomas Gramstad og Trond Trosterud bidro med svært nyttig
+korrekturlesing.  Håkon Wium Lie hjalp meg med å spore opp gode
+skrifttyper uten brukbegrensninger som erstatning for skrifttypene i
+den opprinnelige engelske utgaven.  Typesettingen ble gjort med
+dblatex, som ble valgt i stedet for alternativene takket være
+uvurderlig og kjapp hjelp fra Benoît Guillon og Andreas Hoenen i
+Debian.  Benoît Guillon ble til og med inspirert til å sette i gang
+med en fransk utgave.  Thomas Gramstad hjalp meg forstå ISBN-systemet
+slik at boken fikk ISBN-numrene som trengs for å gjøre
+bokhandel-distribusjon mulig.  Marc Jeanmougin hjalp meg med forsiden.
   </para>
 
   <para>
@@ -61,7 +62,7 @@ familie har vist meg gjennom dette prosjektet.
   </para>
 
   <para>
-&ndash; Petter Reinholdtsen, Oslo 2015-10-14
+&ndash; Petter Reinholdtsen, Oslo 2015-10-15
   </para>
 
 </chapter>
