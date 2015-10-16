@@ -58,7 +58,7 @@ PDF_XSLT = \
   data/stylesheet-fo.xsl
 
 
-all: lint lint.nb html epub pdf mobi
+all: lint lint.nb lint.fr html epub pdf mobi
 
 freeculture.nb.po freeculture.fr.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
