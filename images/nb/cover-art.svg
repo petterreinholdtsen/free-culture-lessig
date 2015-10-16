@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284274"
-     inkscape:cx="413.55915"
-     inkscape:cy="78.535753"
+     inkscape:zoom="0.82527309"
+     inkscape:cx="319.84988"
+     inkscape:cy="624.98237"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1277"
      inkscape:window-height="714"
-     inkscape:window-x="131"
-     inkscape:window-y="31"
+     inkscape:window-x="85"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
@@ -80,7 +80,6 @@
      id="layer3"
      inkscape:groupmode="layer">
     <rect
-       transform="translate(0,-219.862)"
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
        y="219.862"
@@ -88,7 +87,8 @@
        height="832.5"
        width="1154.7"
        id="rect3124"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="translate(0,-219.862)" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -325,7 +325,7 @@
          style="font-size:14.28937435px;text-align:justify;text-anchor:start">«USA trenger en nasjonal diskusjon om hvordan det som kalles ’intellektuelle eiendomsretter’ har endt opp med å dominere rettighetene til akademikere, forskere og helt vanlige borgere. Et opphavsrettskartell, som ønsker total kontroll over de digitale verdener, musikk og filmer, har nå vetorett over teknologiske nyvinninger, og har stoppet de fleste bidragene til allemannseiet som så mange har hatt nytte av. Patentsystemet har kommet ut av kontroll, og gir enorm makt til de interesser som har befestet seg.  Selv varemerker blir misbrukt. Lawrence Lessigs bok bør leses av alle som ønsker å delta i denne diskusjonen. Han forklarer hvordan teknologi og rettsvesenet raner allemannseiet fra oss.  Men på tross av sin godt funderte pessimisme tilbyr professor Lessig også noen løsninger, da han forstår at teknologi også kan være en katalysator for frihet.» — <flowSpan
    id="flowSpan3236"
    style="font-size:14.28937435px;font-style:italic;text-align:justify;text-anchor:start;-inkscape-font-specification:Crimson Text Italic">Dan Gillmor, forfatter av We the Media, en bok om sammenstøtet mellom media og teknologi</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.79209393,0,0,1,69.408712,283.77316)"
+       transform="matrix(0.79209393,0,0,1,79.995443,283.77316)"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Crimson Text;-inkscape-font-specification:Crimson Text"
        id="flowRoot4783"
        xml:space="preserve"><flowRegion
