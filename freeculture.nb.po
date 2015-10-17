@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-10-15 23:15+0200\n"
+"POT-Creation-Date: 2015-10-17 08:15+0200\n"
 "PO-Revision-Date: 2015-10-14 12:00+0000\n"
 "Last-Translator: pere <pere-transifex@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -49,8 +49,8 @@ msgstr ""
 "kulturen og kontrollere kreativiteten"
 
 #. type: Content of: <book><bookinfo>
-msgid "<pubdate>2015-10-15</pubdate> <edition>1</edition>"
-msgstr "<pubdate>2015-10-15</pubdate> <edition>1</edition>"
+msgid "<pubdate>2015-10-17</pubdate> <edition>1</edition>"
+msgstr "<pubdate>2015-10-17</pubdate> <edition>1</edition>"
 
 #. type: Content of: <book><bookinfo><releaseinfo>
 msgid "Version 2004-02-10"
@@ -190,12 +190,12 @@ msgstr ""
 #. type: Content of: <book><bookinfo>
 msgid ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-"\">978-82-8067-010-6</biblioid> <biblioid class=\"libraryofcongress"
+"\">978-82-690182-0-2</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid> <biblioid class=\"uri\">http://free-culture.cc/</"
 "biblioid>"
 msgstr ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-"\">978-82-8067-014-4</biblioid> <biblioid class=\"libraryofcongress"
+"\"> 978-82-690182-3-3</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid> <biblioid class=\"uri\">http://free-culture.cc/</"
 "biblioid>"
 
@@ -29341,40 +29341,24 @@ msgid "US Trade edition from lulu.com"
 msgstr "US Trade-utgave fra lulu.com"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#, fuzzy
-#| msgid "978-82-8067-012-0"
 msgid "978-82-690182-0-2"
-msgstr "978-82-8067-016-8"
+msgstr "978-82-690182-3-3"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/pdf"
 msgstr "application/pdf"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#, fuzzy
-#| msgid "978-82-8067-011-3"
 msgid "978-82-690182-1-9"
-msgstr "978-82-8067-015-1"
+msgstr "978-82-690182-7-1"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/epub+zip"
 msgstr "application/epub+zip"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#, fuzzy
-#| msgid "978-82-8067-010-6"
 msgid "978-82-690182-2-6"
-msgstr "978-82-8067-014-4"
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "application/x-mobipocket-ebook"
-msgstr "application/x-mobipocket-ebook"
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#, fuzzy
-#| msgid "978-82-8067-011-3"
-msgid "978-82-690182-3-3"
-msgstr "978-82-8067-015-1"
+msgstr "978-82-690182-5-7"
 
 #. type: Content of: <chapter><para>
 msgid "Lawrence Lessig"
