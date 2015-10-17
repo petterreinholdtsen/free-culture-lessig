@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-15 23:15+0200\n"
+"POT-Creation-Date: 2015-10-17 08:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgstr ""
 
 #. type: Content of: <book><bookinfo>
 #: freeculture.xml:24
-msgid "<pubdate>2015-10-15</pubdate> <edition>1</edition>"
+msgid "<pubdate>2015-10-17</pubdate> <edition>1</edition>"
 msgstr ""
 
 #. type: Content of: <book><bookinfo><releaseinfo>
@@ -172,7 +172,7 @@ msgstr ""
 #: freeculture.xml:124
 msgid ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid "
-"class=\"isbn\">978-82-8067-010-6</biblioid> <biblioid "
+"class=\"isbn\">978-82-690182-0-2</biblioid> <biblioid "
 "class=\"libraryofcongress\">2003063276</biblioid> <biblioid "
 "class=\"uri\">http://free-culture.cc/</biblioid>"
 msgstr ""
@@ -21942,16 +21942,6 @@ msgstr ""
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 #: freeculture.xml:15912
 msgid "978-82-690182-2-6"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15915
-msgid "application/x-mobipocket-ebook"
-msgstr ""
-
-#. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15916
-msgid "978-82-690182-3-3"
 msgstr ""
 
 #. type: Content of: <chapter><para>
