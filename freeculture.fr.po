@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-10-14 01:36+0300\n"
-"PO-Revision-Date: 2015-10-13 11:48+0000\n"
+"POT-Creation-Date: 2015-10-15 23:15+0200\n"
+"PO-Revision-Date: 2015-10-16 09:56+0000\n"
 "Last-Translator: pere <pere-transifex@hungry.com>\n"
 "Language-Team: French (http://www.transifex.com/pere/free-culture-lessig/"
 "language/fr/)\n"
@@ -33,7 +33,7 @@ msgstr "Culture Libre"
 
 #. type: Content of: <book><bookinfo>
 msgid "<abbrev>\"freeculture\"</abbrev>"
-msgstr ""
+msgstr "<abbrev>\"culturelibre\"</abbrev>"
 
 #. type: Content of: <chapter><para>
 msgid ""
@@ -44,8 +44,8 @@ msgstr ""
 "culture et contrôler la créativité"
 
 #. type: Content of: <book><bookinfo>
-msgid "<pubdate>2015-10-12</pubdate> <edition>1</edition>"
-msgstr ""
+msgid "<pubdate>2015-10-15</pubdate> <edition>1</edition>"
+msgstr "<pubdate>15/10/2015</pubdate> <edition>1</edition>"
 
 #. type: Content of: <book><bookinfo><releaseinfo>
 msgid "Version 2004-02-10"
@@ -78,7 +78,7 @@ msgstr "Art&mdash;Etats Unis."
 #. type: Content of: <book><bookinfo><publisher><address>
 #, no-wrap
 msgid "<city>Oslo</city>"
-msgstr "<city>Valence</city>"
+msgstr "<city>Oslo</city>"
 
 #. type: Content of: <book><bookinfo>
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "information about the license visit <ulink url=\"http://creativecommons.org/"
 "licenses/by-nc/1.0/\"/>."
 msgstr ""
-"Ce livre est sous licence Creative Commons. Cette licence permets "
+"Ce livre est sous licence Creative Commons. Cette licence permet "
 "l'utilisation non commerciale de cette oeuvre, à la condition de signaler "
 "les attributions de l'oeuvre. Pour plus d'informations concernant la "
 "licence, voir <ulink url=\"http://creativecommons.org/licenses/by-nc/1.0/\"/"
@@ -173,6 +173,14 @@ msgid ""
 "<imageobject remap=\"cs\" role=\"thumbnail\"> <imagedata fileref=\"images/"
 "cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 msgstr ""
+"<imageobject remap=\"lrg\" role=\"front-large\"> <imagedata fileref=\"images/"
+"cover-front-72dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"s\" role=\"front\"> <imagedata fileref=\"images/cover-"
+"front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"xs\" role=\"front-small\"> <imagedata fileref=\"images/"
+"cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject> "
+"<imageobject remap=\"cs\" role=\"thumbnail\"> <imagedata fileref=\"images/"
+"cover-front-10dpi.png\" format=\"PNG\" width=\"444\" /> </imageobject>"
 
 #.  LCCN from
 #.      http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2003063276&CNT=10+records+per+page
@@ -18137,6 +18145,45 @@ msgid ""
 "ulink>.  <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
 "\"indexterm\" id=\"2\"/>"
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> Pour un excellent résumé, voir le "
+"rapport préparé par GartnerG2 et le centre Berkman pour Internet et la "
+"société à l'école de droit de Harvard, "
+"<quote>Copyright et média numérique dans un monde post-Napster </quote>, du "
+"27 juin 2003, disponible au <ulink url=\"http://free-culture."
+"cc/notes/\">lien #33</ulink>. Reps. John Conyers Jr. (D-Mich.) et Howard L. "
+"Berman (D-Calif.) ont introduit une loi qui assimile toute copie en ligne "
+"non autorisée comme un délit grave, pouvant conduire à une peine de 5 "
+"ans d'emprisonnement&nbsp;; voir Jon Healey, "
+"<quote>House Bill Aims to Up Stakes on Piracy</quote>, <citetitle>Los Angeles "
+"Times</citetitle>, 17 juillet 2003, "
+"disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #34</ulink>. "
+"Les pénalités au civil sont à ce jour fixées à 150.000 dollars par chanson "
+"copiée. Pour le récent recours en justice "
+"(rejeté) de la RIAA demandant à un fournisseur d'accès à Internet de révéler "
+"l'identité d'un utilisateur accusé de partager plus de 600 chansons au "
+"travers "
+"de son ordinateur de famille, voir "
+"<citetitle>RIAA</citetitle> contre <citetitle>Verizon "
+"Internet Services (In re. Verizon Internet Services)</citetitle>, 240 F.  "
+"Supp. 2d 24 (D.D.C. 2003). Un tel utilisateur pourrait être condamné à payer "
+"jusqu'à 90 millions de dollars. La possibilité de sommes aussi astronomiques "
+"donne à la RIAA un arsenal puissant pour poursuivre ceux qui "
+"partagent des fichiers. "
+"Des règlements allant de 12.000 à 17500 dollars pour quatre "
+"étudiants accusés d'un partage massif de fichiers sur les réseaux de "
+"l'université doivent apparaître comme une maigre pitance à coté des 98 "
+"millions que la RIAA pourrait réclamer en justice. "
+"Voir Elizabeth Young, "
+"<quote>Télécharger pourrait conduire à des amendes</quote>, redandblack.com, "
+"août 2003, disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #35</"
+"ulink>. Pour un exemple de la RIAA ciblant le partage de fichier des "
+"étudiants, et des assignations à comparaître adressées aux universités "
+"pour révéler l'identité de ces étudiants, voir "
+"James Collins, <quote>RIAA Steps Up Bid to Force BC, MIT to "
+"Name Students</quote>, <citetitle>Boston Globe</citetitle>, 8 août 2003, "
+"D3, disponible au <ulink url=\"http://free-culture.cc/notes/\">lien #36</"
+"ulink>.  <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -18494,7 +18541,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "doctors malpractice claims against"
-msgstr ""
+msgstr "plainte pour erreur médicale"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -19552,6 +19599,22 @@ msgid ""
 "to make the distributor liable for contributory or vicarious infringement "
 "liability."
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> La seule exception de la cour du "
+"circuit se trouve dans  "
+"<citetitle>Recording Industry Association of America (RIAA)</"
+"citetitle> contre <citetitle>Diamond Multimedia Systems</citetitle>, 180 F. 3d "
+"1072 (9th Cir. 1999). Il y apparaît que la cour d'appel du neuvième circuit "
+"argumenta que les fabriquants de lecteur MP3 portable ne pouvaient être "
+"tenus responsables de contribuer aux infractions sur les copyrights pour un "
+"appareil incapable d'enregistrer ou de rediffuser de la musique "
+"(un appareil dont la seule fonction de copie est de rendre portable un "
+"fichier déjà stocké sur le disque dur de l'utilisateur). Au niveau de la cour "
+"du district, la seule exception se trouve dans "
+"<citetitle>Metro-Goldwyn-Mayer Studios, Inc</citetitle>. contre "
+"<citetitle>Grokster, Ltd</citetitle>., 259 F. Supp. 2d 1029 (C.D. Cal., "
+"2003), où la cour trouva que le lien entre un distributeur et le "
+"comportement d'un utilisateur était trop faible pour pouvoir rendre "
+"le distributeur responsable d'un fait d'autrui frauduleux."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Tauzin, Billy"
@@ -29859,25 +29922,23 @@ msgstr "<ulink url=\"http://free-culture.cc/\"/>"
 
 #. type: Content of: <book><colophon><para>
 msgid "Published in 2015.  First published 2004 by The Penguin Press."
-msgstr "Publié en 2015. Première publication 2004 par The Penguin Press."
+msgstr "Publié en 2015. Première publication en 2004 par The Penguin Press."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
-"This English and Norwegian Bokmål edition was created by Petter Reinholdtsen "
-"with help from many volunteers.  Thomas Gramstad Forlag donated the ISBN "
-"numbers and published the book on their behalf."
+"This English and Norwegian Bokmål edition was published by Petter "
+"Reinholdtsen with help from many volunteers."
 msgstr ""
-"Cette édition anglaise et en norvégienne Bokmål a été réalisée par "
-"Petter Reinholdtsen avec l'aide de beaucoup de volontaires. Thomas Gramstad "
-"Forlag a donné les numéros ISBN et publié le livre sous ces références."
+"L'édition norvégienne Bokmål et française est publiée par Petter "
+"Reinholdtsen avec l'aide de nombreux volontaires."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
 "Typeset with <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
 "using the font Crimson Text."
 msgstr ""
-"Mis en forme avec <ulink url=\"http://"
-"dblatex.sourceforge.net\">dblatex</ulink> avec les fontes Crimson Text."
+"Mis en forme avec <ulink url=\"http://dblatex.sourceforge.net\">dblatex</ulink> "
+"utilisant la fonte Crimson Text."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29885,6 +29946,10 @@ msgid ""
 "quote> <citetitle>The New York Times</citetitle>, January 16, 2003. "
 "Copyright &copy; 2003 by The New York Times Co.  Reprinted with permission."
 msgstr ""
+"Extrait d'un éditorial titré <quote>The Coming of Copyright "
+"Perpetuity</quote>, <citetitle>The New York Times</citetitle>, 16 janvier "
+"2003. Copyright &copy; 2003 du The New York Times Co. Réimprimé avec "
+"permission."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29892,6 +29957,9 @@ msgid ""
 "handgun-cartoonfig\"/> by Paul Conrad, copyright Tribune Media Services, "
 "Inc.  All rights reserved. Reprinted with permission."
 msgstr ""
+"Dessin de la figure <xref xrefstyle=\"template:%n\" linkend=\"fig-1711-vcr-"
+"handgun-cartoonfig\"/> de Paul Conrad, copyright Tribune Media Services, "
+"Inc. Tout droit réservé. Réimprimé avec permission."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29899,16 +29967,21 @@ msgid ""
 "modern-media-ownership\"/> courtesy of the office of FCC Commissioner, "
 "Michael J. Copps."
 msgstr ""
+"Schéma de la figure <xref xrefstyle=\"template:%n\" "
+"linkend=\"fig-1761-pattern-modern-media-ownership\"/> autorisation du "
+"commissaire du bureau du FCC, Michael J. Copps."
 
 #. type: Content of: <book><colophon><para>
 msgid "Cover created by Petter Reinholdtsen using inkscape."
-msgstr ""
+msgstr "Couverture créée par Petter Reinholdten avec inkscape."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
 "The quotes on the cover came from <ulink url=\"http://free-culture.cc/jacket/"
 "\"/>."
 msgstr ""
+"Les citations sur la couverture viennent de <ulink "
+"url=\"http://free-culture.cc/jacket/\"/>."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29917,6 +29990,11 @@ msgid ""
 "<ulink url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_"
 "(11014343366)_(cropped).jpg\"/>."
 msgstr ""
+"Le portrait sur la couverture a été créé en 2013 par ActuaLitté et sous "
+"licence "
+"Creative Commons Attribution-ShareAlike 2.0. Obtenu à partir de l'URL "
+"<ulink url=\"https://commons.wikimedia.org/wiki/File%3ALawrence_Lessig_"
+"(11014343366)_(cropped).jpg\"/>."
 
 #. type: Content of: <book><colophon><para>
 msgid "Classifications:"
@@ -29943,10 +30021,12 @@ msgid ""
 "Printing was sponsed by NUUG Foundation, <ulink url=\"http://www."
 "nuugfoundation.no/\"/>."
 msgstr ""
+"L'impression a été sponsorisée par la fondation NUUG, <ulink url=\"http://www."
+"nuugfoundation.no/\"/>."
 
 #. type: Content of: <book><colophon><para>
 msgid "Includes index."
-msgstr ""
+msgstr "Inclut un index."
 
 #. type: Content of: <book><colophon><para>
 msgid ""
@@ -29954,6 +30034,9 @@ msgid ""
 "petterreinholdtsen/free-culture-lessig\"/>.  Please report any issues with "
 "the book there."
 msgstr ""
+"Le fichier source au format DocBook est disponible au lien <ulink "
+"url=\"https://github.com/petterreinholdtsen/free-culture-lessig\"/>. "
+"Merci de signaler à cette URL tout problème concernant ce livre."
 
 #. type: Attribute 'fileref' of: <book><colophon><para><informalfigure><graphic>
 msgid "images/cc.svg"
@@ -29964,50 +30047,52 @@ msgid ""
 "This book is a proof reading draft.  Please visit the github URL above to "
 "get the latest version."
 msgstr ""
+"Ce livre est une épreuve pour relecture. Merci de visiter l'URL github "
+"pré-citée pour obtenir la dernière version."
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
 msgid "Format / MIME-type"
-msgstr ""
+msgstr "Format / MIME-type"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
 msgid "ISBN"
-msgstr ""
+msgstr "ISBN"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "US Trade edition from lulu.com"
-msgstr ""
+msgstr "Diffusion US par lulu.com"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "978-82-8067-010-6"
-msgstr ""
+msgid "978-82-690182-0-2"
+msgstr "978-82-690182-0-2"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/pdf"
-msgstr ""
+msgstr "application/pdf"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "978-82-8067-011-3"
-msgstr ""
+msgid "978-82-690182-1-9"
+msgstr "978-82-690182-1-9"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/epub+zip"
-msgstr ""
+msgstr "application/epub+zip"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "978-82-8067-012-0"
-msgstr ""
+msgid "978-82-690182-2-6"
+msgstr "978-82-690182-2-6"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/x-mobipocket-ebook"
-msgstr ""
+msgstr "application/x-mobipocket-ebook"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-msgid "978-82-8067-013-7"
-msgstr ""
+msgid "978-82-690182-3-3"
+msgstr "978-82-690182-3-3"
 
 #. type: Content of: <chapter><para>
 msgid "Lawrence Lessig"
-msgstr ""
+msgstr "Lawrence Lessig"
 
 #. type: Content of: <chapter><para>
 msgid ""
