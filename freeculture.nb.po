@@ -195,7 +195,7 @@ msgid ""
 "biblioid>"
 msgstr ""
 "  <placeholder type=\"mediaobject\" id=\"0\"/> <biblioid class=\"isbn"
-"\"> 978-82-690182-3-3</biblioid> <biblioid class=\"libraryofcongress"
+"\">978-82-690182-3-3</biblioid> <biblioid class=\"libraryofcongress"
 "\">2003063276</biblioid> <biblioid class=\"uri\">http://free-culture.cc/</"
 "biblioid>"
 
@@ -29350,7 +29350,7 @@ msgstr "application/pdf"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "978-82-690182-1-9"
-msgstr "978-82-690182-7-1"
+msgstr "978-82-690182-4-0"
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
 msgid "application/epub+zip"
