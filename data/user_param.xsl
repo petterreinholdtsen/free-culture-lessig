@@ -33,7 +33,7 @@
       <!-- The default page citation [12] is hard to understand for
            most readers.  use (p. 12) instead. -->
       <l:context name="xref">
-	<l:template name="page.citation" text=" (p. %p)"/>
+	<l:template name="page.citation" text=" (p.&#160;%p)"/>
       </l:context>
     </l:l10n>
 
@@ -51,7 +51,7 @@
       <l:dingbat key="nestedendquote" text="’"/>
 
       <l:context name="xref">
-	<l:template name="page.citation" text=" (s. %p)"/>
+	<l:template name="page.citation" text=" (s.&#160;%p)"/>
       </l:context>
     </l:l10n>
   </l:i18n>
