@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-18 20:45+0200\n"
+"POT-Creation-Date: 2015-10-18 20:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21986,4 +21986,9 @@ msgstr ""
 #. type: Content of: <chapter><para>
 #: cover-text.xml:65
 msgid "Published by Petter Reinholdtsen."
+msgstr ""
+
+#. type: Content of: <chapter><para>
+#: cover-text.xml:69
+msgid "Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia"
 msgstr ""
