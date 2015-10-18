@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-10-17 08:15+0200\n"
+"POT-Creation-Date: 2015-10-18 20:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21897,50 +21897,43 @@ msgstr ""
 msgid "images/cc.svg"
 msgstr ""
 
-#. type: Content of: <book><colophon><para>
-#: freeculture.xml:15888
-msgid ""
-"This book is a proof reading draft.  Please visit the github URL above to "
-"get the latest version."
-msgstr ""
-
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15897
+#: freeculture.xml:15892
 msgid "Format / MIME-type"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><thead><row><entry>
-#: freeculture.xml:15898
+#: freeculture.xml:15893
 msgid "ISBN"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15903
+#: freeculture.xml:15898
 msgid "US Trade edition from lulu.com"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15904
+#: freeculture.xml:15899
 msgid "978-82-690182-0-2"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15907
+#: freeculture.xml:15902
 msgid "application/pdf"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15908
+#: freeculture.xml:15903
 msgid "978-82-690182-1-9"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15911
+#: freeculture.xml:15906
 msgid "application/epub+zip"
 msgstr ""
 
 #. type: Content of: <book><colophon><para><informaltable><tgroup><tbody><row><entry>
-#: freeculture.xml:15912
+#: freeculture.xml:15907
 msgid "978-82-690182-2-6"
 msgstr ""
 
@@ -21988,4 +21981,9 @@ msgid ""
 "about the future of innovation, read this book.</quote> &mdash; "
 "<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
 "book on the collision of media and technology</emphasis>"
+msgstr ""
+
+#. type: Content of: <chapter><para>
+#: cover-text.xml:65
+msgid "Published by Petter Reinholdtsen."
 msgstr ""
