@@ -30,6 +30,8 @@ IMAGES = \
 	images/tom-the-dancing-bug.png \
 	images/cover-front-10dpi.png \
 	images/cover-front-72dpi.png \
+	images/fr/cover-front-10dpi.png \
+	images/fr/cover-front-72dpi.png \
 	images/nb/cover-front-10dpi.png \
 	images/nb/cover-front-72dpi.png
 
@@ -199,11 +201,17 @@ images/cover-front-72dpi.png: images/cover-art.svg Makefile
 images/nb/cover-front-72dpi.png: images/nb/cover-art.svg Makefile
 	inkscape --export-dpi=72 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/nb/cover-art.svg
 
+images/fr/cover-front-72dpi.png: images/fr/cover-art.svg Makefile
+	inkscape --export-dpi=72 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/fr/cover-art.svg
+
 images/cover-front-10dpi.png: images/cover-art.svg Makefile
 	inkscape --export-dpi=10 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/cover-art.svg
 
 images/nb/cover-front-10dpi.png: images/nb/cover-art.svg Makefile
 	inkscape --export-dpi=10 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/nb/cover-art.svg
+
+images/fr/cover-front-10dpi.png: images/fr/cover-art.svg Makefile
+	inkscape --export-dpi=10 --export-png=$@ -a $(INKSCAPE_FRONTCOORDINATES) images/fr/cover-art.svg
 
 .xcf.png:
 	convert $^ $@
