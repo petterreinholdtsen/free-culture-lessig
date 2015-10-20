@@ -3,17 +3,9 @@ Norwegian translation of Free Culture
 
 The books are ready for download:
 
-English (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/cover-art.pdf">book cover</a>)::
+English (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/cover-art.pdf">book cover</a>): <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.pdf">PDF</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.epub">ePub</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.mobi">MOBI</a>.
 
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.pdf">PDF</a>
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.epub">ePub</a>
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.mobi">ePub</a>
-
-Norwegian Bokmål (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/nb/cover-art.pdf">book cover</a>)::
-
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.pdf">PDF</a>
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.epub">ePub</a>
-* <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.mobi">ePub</a>
+Norwegian Bokmål (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/nb/cover-art.pdf">book cover</a>): <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.pdf">PDF</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.epub">ePub</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.mobi">MOBI</a>.
 
 The original book version is available from http://free-culture.cc/ .
 
