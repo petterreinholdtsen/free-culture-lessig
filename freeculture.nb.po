@@ -573,7 +573,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "air traffic, land ownership vs."
-msgstr "lufttrafikk, landeierskap mot"
+msgstr "lufttrafikk, landeierskap versus"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "land ownership, air traffic and"
@@ -585,7 +585,7 @@ msgstr "eiendomsrettigheter"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "air traffic vs."
-msgstr "lufttrafikk mot"
+msgstr "lufttrafikk versus"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -672,7 +672,7 @@ msgstr "Høyesterett, USA"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on airspace vs. land rights"
-msgstr "om luftrom mot landrettigheter"
+msgstr "om luftrom versus landrettigheter"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1238,7 +1238,7 @@ msgstr "fri kultur"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial vs. noncommercial"
-msgstr "kommersiell vs. ikke-kommersiell"
+msgstr "kommersiell versus ikke-kommersiell"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Webster, Noah"
@@ -1344,7 +1344,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "permission culture vs."
-msgstr "tillatelseskultur mot"
+msgstr "tillatelseskultur versus"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "permission culture"
@@ -1352,7 +1352,7 @@ msgstr "tillatelseskultur"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "free culture vs."
-msgstr "fri kultur mot"
+msgstr "fri kultur versus"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Litman, Jessica"
@@ -1394,7 +1394,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "protection of artists vs. business interests"
-msgstr "beskyttelse av kunstnere vs. forretningsinteresser"
+msgstr "beskyttelse av kunstnere versus forretningsinteresser"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1769,7 +1769,7 @@ msgid ""
 msgstr ""
 "Fører sunn fornuft til det ekstreme i dette spørsmålet på grunn av at sunn "
 "fornuft faktisk tror på dette ekstreme?  Eller står sunn fornuft i stillhet "
-"i møtet med dette ekstreme fordi, som med Armstrong versus RCA, at den mer "
+"i møtet med dette ekstreme fordi, som i Armstrong mot RCA, at den mer "
 "mektige siden har sikret seg at det har et mye mer mektig standpunkt?"
 
 #.  PAGE BREAK 28 
@@ -2101,7 +2101,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on republishing vs. transformation of original work"
-msgstr "på gjenpublisering vs. endring av opprinnelig verk"
+msgstr "på gjenpublisering versus endring av opprinnelig verk"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><seealso>
 msgid "creativity"
@@ -2424,7 +2424,7 @@ msgstr "avledede verk"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "piracy vs."
-msgstr "piratvirksomhet vs."
+msgstr "piratvirksomhet versus"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "piracy"
@@ -2432,7 +2432,7 @@ msgstr "piratvirksomhet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "derivative work vs."
-msgstr "avledede verk vs."
+msgstr "avledede verk versus"
 
 #.  f2 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -7092,7 +7092,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "law"
-msgstr "loven"
+msgstr "lov"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "databases of case reports in"
@@ -9121,7 +9121,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "common vs. positive"
-msgstr "sedvane vs. positiv"
+msgstr "sedvane versus positiv"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "positive law"
@@ -9800,7 +9800,7 @@ msgstr "Overhuset, det britiske"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "House of Lords vs."
-msgstr "Overhuset, det britiske mot"
+msgstr "Overhuset, det britiske versus"
 
 #.  f12 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -13478,7 +13478,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "federal vs. state"
-msgstr "føderal vs. nasjonal"
+msgstr "føderal versus nasjonal"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13670,7 +13670,7 @@ msgstr "Sonny Bono utvidelse av opphavsrettsvernetid-loven (CTEA) (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "future patents vs. future copyrights in"
-msgstr "fremtidige patenter og fremtidige opphavsrettigheter i"
+msgstr "fremtidige patenter versus fremtidige opphavsrettigheter i"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13736,7 +13736,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "of natural authors vs. corporations"
-msgstr "til naturlige forfattere vs. selskaper"
+msgstr "til naturlige forfattere versus selskaper"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "corporations"
@@ -14252,7 +14252,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "other property rights vs."
-msgstr "andre eiendomsretter vs."
+msgstr "andre eiendomsretter versus"
 
 #.  PAGE BREAK 151 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14605,7 +14605,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use vs."
-msgstr "rimelig bruk vs."
+msgstr "rimelig bruk versus"
 
 #.  PAGE BREAK 156 
 #. type: Content of: <book><part><chapter><section><para>
@@ -21247,7 +21247,7 @@ msgstr "Rehnquist, William H."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "United States v. Lopez"
-msgstr "USA vs. Lopez"
+msgstr "USA mot Lopez"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21285,7 +21285,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "United States v. Morrison"
-msgstr "USA vs. Morrison"
+msgstr "USA mot Morrison"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -27682,7 +27682,7 @@ msgstr ""
 "Advokater liker uklarheten som <quote>rimelig bruk</quote> og forskjellen "
 "mellom <quote>idéer</quote> og <quote>uttrykk</quote> har.  Denne type "
 "lovverk gir dem en masse arbeid.  Men de som skrev Grunnloven hadde en "
-"enklere idé: vernet versus ikke vernet. Verdien av korte vernetider er at "
+"enklere idé: vernet eller ikke vernet. Verdien av korte vernetider er at "
 "det er lite behov for å bygge inn unntak i opphavsretten når vernetiden "
 "holdes kort.  En klar og aktiv <quote>advokatfri sone</quote> gjør "
 "kompleksiteten av <quote>rimelig bruk</quote> og <quote>idé/uttrykk</quote> "
@@ -27781,7 +27781,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "3. Free Use Vs. Fair Use"
-msgstr "3. Fri Bruk versus rimelig bruk"
+msgstr "3. Fri bruk versus rimelig bruk"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28643,7 +28643,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "cable vs. broadcast"
-msgstr "kabel-TV mot kringkasting"
+msgstr "kabel-TV versus kringkasting"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "luxury theatres vs. video piracy in"
