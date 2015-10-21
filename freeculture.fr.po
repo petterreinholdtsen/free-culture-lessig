@@ -6444,11 +6444,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Radio"
-msgstr ""
+msgstr "Radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "radio broadcast and"
-msgstr ""
+msgstr "diffusion radio et"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Radio was also born of piracy."
@@ -6601,11 +6601,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
-msgstr ""
+msgstr "Télévision par câble"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cable television"
-msgstr ""
+msgstr "télévision par câble"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Cable TV was also born of a kind of piracy."
@@ -8762,59 +8762,59 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "CASE"
-msgstr ""
+msgstr "CAS"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "WHOSE VALUE WAS <quote>PIRATED</quote>"
-msgstr ""
+msgstr "QUI A ÉTAIT <quote>PIRATÉ</quote>"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "RESPONSE OF THE COURTS"
-msgstr ""
+msgstr "RÉPONSE DES TRIBUNAUX"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "RESPONSE OF CONGRESS"
-msgstr ""
+msgstr "RÉPONSE DU CONGRÈS"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recordings"
-msgstr ""
+msgstr "Enregistrements"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Composers"
-msgstr ""
+msgstr "Compositeurs"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "No protection"
-msgstr ""
+msgstr "Pas de protection"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Statutory license"
-msgstr ""
+msgstr "Licence légale"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recording artists"
-msgstr ""
+msgstr "Artistes interprètes"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Nothing"
-msgstr ""
+msgstr "Rien"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Broadcasters"
-msgstr ""
+msgstr "Diffuseurs"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "VCR"
-msgstr ""
+msgstr "Magnétoscopes"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Film creators"
-msgstr ""
+msgstr "Créateurs de films"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -17351,6 +17351,40 @@ msgid ""
 "notes/\">link #32</ulink>. The ground was that the criticism was <quote>too "
 "controversial.</quote>"
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/><placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
+"\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> "
+"<placeholder type=\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" "
+"id=\"6\"/> En février 2003, le Marijuana Policy Project chercha à diffuser "
+"des publicités qui répondaient directement à la série Nick and Norm, sur les "
+"chaînes de la ville de Washington. Comcast refusa ces "
+"publicités les considérant "
+"comme étant <quote>contre [leur] politique</quote>. "
+"La chaîne locale WRC, filiale de NBC les rejeta sans les commenter. La chaîne "
+"locale WJOA, filiale de ABC, fut au départ d'accord pour les diffuser et "
+"accepta le paiement pour le faire, mais décida ensuite de ne pas les "
+"diffuser et remboursa l'argent perçu. Entrevue avec Neal Levine, 15 "
+"octobre 2003. Ces censures ne sont bien sûr pas réservées à la politique "
+"sur la drogue. Voir, par exemple, Nat Ives, "
+"<quote>On the Issue of an Iraq War, Advocacy Ads Meet "
+"with Rejection from TV Networks</quote>, <citetitle>New York Times</"
+"citetitle>, 13 mars 2003, C4.  En dehors des périodes électorales, le FCC et "
+"les tribunaux cherchent très peu à mettre à égalité les différents acteurs "
+"en jeu. Pour un aperçu général, voir Rhonda Brown, <quote>Ad Hoc "
+"Access: The Regulation of Editorial Advertising on Television and Radio</"
+"quote>, <citetitle>Yale Law and Policy Review</citetitle> 6 (1988)&nbsp;: "
+"449&ndash;79, et pour un résumé plus récent de la position du FCC et des "
+"tribunaux , voir <citetitle>Radio-Television News Directors Association</"
+"citetitle> contre <citetitle>FCC</citetitle>, 184 F. 3d 872 (D.C. Cir. 1999). "
+"Les autorités municipales exercent la même discrimination que les réseaux "
+"de télévision. "
+"Dans un exemple récent à San Francisco, la régie de transport de San "
+"Francisco refusa une publicité qui critiquait ses bus diésel Muni. "
+"Phillip Matier et "
+"Andrew Ross, <quote>Antidiesel Group Fuming After Muni Rejects Ad</quote>, "
+"SFGate.com, 16 juin 2003, disponible au <ulink url=\"http://free-culture.cc/"
+"notes/\">lien #32</ulink>. Le motif était que la critique était <quote>trop "
+"controversée.</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17584,27 +17618,27 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "PUBLISH"
-msgstr ""
+msgstr "PUBLIE"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "TRANSFORM"
-msgstr ""
+msgstr "TRANSFORME"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Commercial"
-msgstr ""
+msgstr "Commercial"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy;"
-msgstr ""
+msgstr "&copy;"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Free"
-msgstr ""
+msgstr "Libre"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Noncommercial"
-msgstr ""
+msgstr "Non-commercial"
 
 #.  PAGE BREAK 182 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17656,11 +17690,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "COPY"
-msgstr ""
+msgstr "COPIE"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy; / Free"
-msgstr ""
+msgstr "&copy; / Libre"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -28095,7 +28129,7 @@ msgid ""
 msgstr ""
 "La proposition que j'avance ici ne s'appliquerait qu'aux oeuvres "
 "américaines. Je pense évidemment que ce serait bénéfique si d'autres pays "
-"adoptaient la même idée aussi."
+"adoptaient aussi la même idée."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -29330,7 +29364,7 @@ msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/>William Fisher, <citetitle>Digital "
 "Music: Problems and Possibilities</citetitle> (dernère révision&nbsp;: 10 "
 "octobre 2000), disponible au <ulink url=\"http://free-culture.cc/notes/"
-"\">lien #77</ulink>; William Fisher, <citetitle>Promises to Keep: "
+"\">lien #77</ulink>&nbsp;; William Fisher, <citetitle>Promises to Keep: "
 "Technology, Law, and the Future of Entertainment</citetitle> (à venir) "
 "(Stanford: Stanford University Press, 2004), ch. 6, disponible au <ulink url="
 "\"http://free-culture.cc/notes/\">lien #78</ulink>. Le professeur Netanel a "
