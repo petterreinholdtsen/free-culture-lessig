@@ -243,7 +243,7 @@ msgstr ""
 
 #. type: Content of: <book><lot><title>
 msgid "List of figures"
-msgstr ""
+msgstr "Liste des figures"
 
 #. type: Content of: <book><preface><title>
 msgid "Preface"
@@ -406,7 +406,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "power, concentration of"
-msgstr ""
+msgstr "pouvoir, concentration de"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "CodePink Women in Peace"
@@ -562,7 +562,7 @@ msgstr "Introduction"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Wright brothers"
-msgstr ""
+msgstr "frères Wrights"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -582,19 +582,19 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "air traffic, land ownership vs."
-msgstr ""
+msgstr "trafic aérien, vs. propriété foncière"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "land ownership, air traffic and"
-msgstr ""
+msgstr "propriété foncière, et trafic aérien"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "property rights"
-msgstr ""
+msgstr "droits de propriété"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "air traffic vs."
-msgstr ""
+msgstr "trafic aérien vs."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -682,11 +682,11 @@ msgstr "Douglas, William O."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Supreme Court, U.S."
-msgstr "Court Suprême des États-Unis"
+msgstr "Cour Suprême des États-Unis"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on airspace vs. land rights"
-msgstr ""
+msgstr "droits de l'espace aérien vs. fonciers"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -835,11 +835,11 @@ msgstr "Faraday, Michael"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "radio"
-msgstr ""
+msgstr "radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "FM spectrum of"
-msgstr ""
+msgstr "spectre de fréquence FM"
 
 #.  PAGE BREAK 19 
 #. type: Content of: <book><chapter><para>
@@ -941,11 +941,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "RCA"
-msgstr ""
+msgstr "RCA"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media"
-msgstr ""
+msgstr "média"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "ownership concentration in"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "FM radio"
-msgstr ""
+msgstr "radio FM"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1049,11 +1049,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "FCC"
-msgstr ""
+msgstr "FCC"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on FM radio"
-msgstr ""
+msgstr "sur la radio FM"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "AT&amp;T"
-msgstr ""
+msgstr "AT&amp;T"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1182,7 +1182,7 @@ msgstr "Internet"
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "development of"
-msgstr ""
+msgstr "développement de"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1262,19 +1262,19 @@ msgstr "Barlow, Joel"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "culture"
-msgstr ""
+msgstr "culture"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free culture"
-msgstr ""
+msgstr "culture libre"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial vs. noncommercial"
-msgstr ""
+msgstr "commercial vs. non-commercial"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Webster, Noah"
-msgstr ""
+msgstr "Webster, Noah"
 
 #.  PAGE BREAK 23 
 #. type: Content of: <book><chapter><para>
@@ -1323,7 +1323,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "copyright infringement lawsuits"
-msgstr ""
+msgstr "poursuites pour infraction au copyright"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
@@ -1379,15 +1379,15 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "permission culture vs."
-msgstr ""
+msgstr "culture de permission vs."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "permission culture"
-msgstr ""
+msgstr "culture de permission"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "free culture vs."
-msgstr ""
+msgstr "culture libre vs."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Litman, Jessica"
@@ -1430,7 +1430,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "protection of artists vs. business interests"
-msgstr ""
+msgstr "protection des artists vs. intérêts commerciaux"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1585,7 +1585,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Constitution, U.S."
-msgstr ""
+msgstr "Constitution des USA"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "First Amendment to"
@@ -1593,7 +1593,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "copyright law"
-msgstr ""
+msgstr "Loi sur le copyright"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as protection of creators"
@@ -1697,7 +1697,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "intellectual property rights"
-msgstr ""
+msgstr "droits de propriété intellectuelle"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1908,7 +1908,7 @@ msgstr "<quote>Piratage</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English"
-msgstr ""
+msgstr "anglais"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mansfield, William Murray, Lord"
@@ -1916,11 +1916,11 @@ msgstr "Mansfield, William Murray, Lord"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "music publishing"
-msgstr ""
+msgstr "édition musicale"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "sheet music"
-msgstr ""
+msgstr "partition"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -1964,11 +1964,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "peer-to-peer (p2p) file sharing"
-msgstr ""
+msgstr "peer-to-peer (p2p), partage de fichier"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "efficiency of"
-msgstr ""
+msgstr "efficacité de"
 
 #.  PAGE BREAK 31 
 #. type: Content of: <book><part><partintro><para>
@@ -2068,15 +2068,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "creative property"
-msgstr ""
+msgstr "propriété créative"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "<quote>if value, then right</quote> theory of"
-msgstr ""
+msgstr "théorie de la <quote>valeur implique droit</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>if value, then right</quote> theory"
-msgstr ""
+msgstr "<quote>valeur implique droit</quote>, théorie"
 
 #.  f2 
 #. type: Content of: <book><part><partintro><para><footnote><para>
@@ -2152,15 +2152,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on republishing vs. transformation of original work"
-msgstr ""
+msgstr "reproduction vs. transformation d'une oeuvre originale"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><seealso>
 msgid "creativity"
-msgstr ""
+msgstr "créativité"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "innovation"
-msgstr ""
+msgstr "innovation"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "legal restrictions on"
@@ -2221,7 +2221,7 @@ msgstr "Florida, Richard"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Rise of the Creative Class, The (Florida)"
-msgstr ""
+msgstr "Montée de la classe créative, La (Florida)"
 
 #. type: Content of: <book><part><partintro><para><footnote><para>
 msgid ""
@@ -2302,27 +2302,27 @@ msgstr "Créateurs"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "animated cartoons"
-msgstr ""
+msgstr "dessins animés"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "cartoon films"
-msgstr ""
+msgstr "films d'animation"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "films"
-msgstr ""
+msgstr "films"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "animated"
-msgstr ""
+msgstr "animation"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steamboat Willie"
-msgstr ""
+msgstr "Steamboat Willie"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Mickey Mouse"
-msgstr ""
+msgstr "Mickey Mouse"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -15507,6 +15507,8 @@ msgid ""
 "<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #.  PAGE BREAK 161 
 #. type: Content of: <book><part><chapter><section><para>
@@ -15546,6 +15548,8 @@ msgid ""
 "<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
 "\"></graphic>"
 msgstr ""
+"<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
+"\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15561,6 +15565,8 @@ msgid ""
 "<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Future of Ideas, The (Lessig)"
@@ -15580,6 +15586,8 @@ msgid ""
 "<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "No copying, no printing, and don't you dare try to listen to this book!"
@@ -15751,6 +15759,8 @@ msgid ""
 "<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16865,6 +16875,8 @@ msgid ""
 "<graphic fileref=\"images/pattern-modern-media-ownership.png\" align=\"center"
 "\" width=\"100%\"></graphic>"
 msgstr ""
+"<graphic fileref=\"images/pattern-modern-media-ownership.png\" align=\"center"
+"\" width=\"100%\"></graphic>"
 
 #.  PAGE BREAK 175 
 #. type: Content of: <book><part><chapter><section><para>
