@@ -243,7 +243,7 @@ msgstr ""
 
 #. type: Content of: <book><lot><title>
 msgid "List of figures"
-msgstr ""
+msgstr "Liste des figures"
 
 #. type: Content of: <book><preface><title>
 msgid "Preface"
@@ -406,7 +406,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "power, concentration of"
-msgstr ""
+msgstr "pouvoir, concentration de"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "CodePink Women in Peace"
@@ -562,7 +562,7 @@ msgstr "Introduction"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Wright brothers"
-msgstr ""
+msgstr "frères Wrights"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -582,19 +582,19 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "air traffic, land ownership vs."
-msgstr ""
+msgstr "trafic aérien, vs. propriété foncière"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "land ownership, air traffic and"
-msgstr ""
+msgstr "propriété foncière, et trafic aérien"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "property rights"
-msgstr ""
+msgstr "droits de propriété"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "air traffic vs."
-msgstr ""
+msgstr "trafic aérien vs."
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -682,11 +682,11 @@ msgstr "Douglas, William O."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Supreme Court, U.S."
-msgstr "Court Suprême des États-Unis"
+msgstr "Cour Suprême des États-Unis"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on airspace vs. land rights"
-msgstr ""
+msgstr "droits de l'espace aérien vs. fonciers"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -835,11 +835,11 @@ msgstr "Faraday, Michael"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "radio"
-msgstr ""
+msgstr "radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "FM spectrum of"
-msgstr ""
+msgstr "spectre de fréquence FM"
 
 #.  PAGE BREAK 19 
 #. type: Content of: <book><chapter><para>
@@ -941,11 +941,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "RCA"
-msgstr ""
+msgstr "RCA"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media"
-msgstr ""
+msgstr "média"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "ownership concentration in"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "FM radio"
-msgstr ""
+msgstr "radio FM"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1049,11 +1049,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "FCC"
-msgstr ""
+msgstr "FCC"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on FM radio"
-msgstr ""
+msgstr "sur la radio FM"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "AT&amp;T"
-msgstr ""
+msgstr "AT&amp;T"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1182,7 +1182,7 @@ msgstr "Internet"
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "development of"
-msgstr ""
+msgstr "développement de"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1262,19 +1262,19 @@ msgstr "Barlow, Joel"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "culture"
-msgstr ""
+msgstr "culture"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free culture"
-msgstr ""
+msgstr "culture libre"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial vs. noncommercial"
-msgstr ""
+msgstr "commercial vs. non-commercial"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "Webster, Noah"
-msgstr ""
+msgstr "Webster, Noah"
 
 #.  PAGE BREAK 23 
 #. type: Content of: <book><chapter><para>
@@ -1323,7 +1323,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "copyright infringement lawsuits"
-msgstr ""
+msgstr "poursuites pour infraction au copyright"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
@@ -1379,15 +1379,15 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "permission culture vs."
-msgstr ""
+msgstr "culture de permission vs."
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "permission culture"
-msgstr ""
+msgstr "culture de permission"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "free culture vs."
-msgstr ""
+msgstr "culture libre vs."
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Litman, Jessica"
@@ -1430,7 +1430,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "protection of artists vs. business interests"
-msgstr ""
+msgstr "protection des artists vs. intérêts commerciaux"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1585,7 +1585,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Constitution, U.S."
-msgstr ""
+msgstr "Constitution des USA"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "First Amendment to"
@@ -1593,7 +1593,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "copyright law"
-msgstr ""
+msgstr "Loi sur le copyright"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as protection of creators"
@@ -1697,7 +1697,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "intellectual property rights"
-msgstr ""
+msgstr "droits de propriété intellectuelle"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -1908,7 +1908,7 @@ msgstr "<quote>Piratage</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English"
-msgstr ""
+msgstr "anglais"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Mansfield, William Murray, Lord"
@@ -1916,11 +1916,11 @@ msgstr "Mansfield, William Murray, Lord"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "music publishing"
-msgstr ""
+msgstr "édition musicale"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "sheet music"
-msgstr ""
+msgstr "partition"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -1964,11 +1964,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "peer-to-peer (p2p) file sharing"
-msgstr ""
+msgstr "peer-to-peer (p2p), partage de fichier"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "efficiency of"
-msgstr ""
+msgstr "efficacité de"
 
 #.  PAGE BREAK 31 
 #. type: Content of: <book><part><partintro><para>
@@ -2068,15 +2068,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "creative property"
-msgstr ""
+msgstr "propriété créative"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "<quote>if value, then right</quote> theory of"
-msgstr ""
+msgstr "théorie de la <quote>valeur implique droit</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>if value, then right</quote> theory"
-msgstr ""
+msgstr "<quote>valeur implique droit</quote>, théorie"
 
 #.  f2 
 #. type: Content of: <book><part><partintro><para><footnote><para>
@@ -2152,15 +2152,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on republishing vs. transformation of original work"
-msgstr ""
+msgstr "reproduction vs. transformation d'une oeuvre originale"
 
 #. type: Content of: <book><part><chapter><section><para><indexterm><seealso>
 msgid "creativity"
-msgstr ""
+msgstr "créativité"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "innovation"
-msgstr ""
+msgstr "innovation"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "legal restrictions on"
@@ -2221,7 +2221,7 @@ msgstr "Florida, Richard"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Rise of the Creative Class, The (Florida)"
-msgstr ""
+msgstr "Montée de la classe créative, La (Florida)"
 
 #. type: Content of: <book><part><partintro><para><footnote><para>
 msgid ""
@@ -2302,27 +2302,27 @@ msgstr "Créateurs"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "animated cartoons"
-msgstr ""
+msgstr "dessins animés"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "cartoon films"
-msgstr ""
+msgstr "films d'animation"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "films"
-msgstr ""
+msgstr "films"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "animated"
-msgstr ""
+msgstr "animation"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Steamboat Willie"
-msgstr ""
+msgstr "Steamboat Willie"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Mickey Mouse"
-msgstr ""
+msgstr "Mickey Mouse"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6444,11 +6444,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Radio"
-msgstr ""
+msgstr "Radio"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "radio broadcast and"
-msgstr ""
+msgstr "diffusion radio et"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Radio was also born of piracy."
@@ -6601,11 +6601,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Cable TV"
-msgstr ""
+msgstr "Télévision par câble"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cable television"
-msgstr ""
+msgstr "télévision par câble"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "Cable TV was also born of a kind of piracy."
@@ -8762,59 +8762,59 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "CASE"
-msgstr ""
+msgstr "CAS"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "WHOSE VALUE WAS <quote>PIRATED</quote>"
-msgstr ""
+msgstr "QUI A ÉTAIT <quote>PIRATÉ</quote>"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "RESPONSE OF THE COURTS"
-msgstr ""
+msgstr "RÉPONSE DES TRIBUNAUX"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "RESPONSE OF CONGRESS"
-msgstr ""
+msgstr "RÉPONSE DU CONGRÈS"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recordings"
-msgstr ""
+msgstr "Enregistrements"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Composers"
-msgstr ""
+msgstr "Compositeurs"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "No protection"
-msgstr ""
+msgstr "Pas de protection"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Statutory license"
-msgstr ""
+msgstr "Licence légale"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Recording artists"
-msgstr ""
+msgstr "Artistes interprètes"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Nothing"
-msgstr ""
+msgstr "Rien"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Broadcasters"
-msgstr ""
+msgstr "Diffuseurs"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "VCR"
-msgstr ""
+msgstr "Magnétoscopes"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Film creators"
-msgstr ""
+msgstr "Créateurs de films"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -13015,6 +13015,42 @@ msgid ""
 "\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
 "<placeholder type=\"indexterm\" id=\"4\"/>"
 msgstr ""
+"Des personnes désapprouvent cette façon de parler de la "
+"<quote>liberté</quote>. Ils désapprouvent car ils considèrent que les seules "
+"contraintes qui existent à un moment donné sont celles imposées par le "
+"gouvernement. Par exemple, si un orage détruit un pont, ces personnes pensent "
+"que "
+"cela n'a pas de sens de dire que la liberté de chacun a été réduite. Un pont "
+"a disparu, et il est plus difficile d'aller d'un endroit à un autre. "
+"Considérer cela comme une perte de liberté, disent-ils, c'est confondre les "
+"affaires politiques avec les aléas de la vie ordinaire. Je ne nie pas la "
+"valeur de cette vue réductrice, qui dépend du contexte où elle s'applique. "
+"Je veux cependant démontrer que cette vue réductrice ne caractérise pas à "
+"elle seule la liberté. Comme déjà argumenté dans <citetitle>Code</citetitle>, "
+"nous sommes issus d'une longue tradition de penseurs politiques qui avaient "
+"des préoccupations plus vastes que de savoir simplement ce que le "
+"gouvernement a fait et quand. John Stuart Mill, par exemple, a défendu la "
+"liberté de parole contre la tyrannie des personnes étroits d'esprit, et non "
+"de la peur des poursuites du gouvernement&nbsp;; "
+"John Stuart Mill, <citetitle>On Liberty</"
+"citetitle> (Indiana&nbsp;: Hackett Publishing Co., 1978), 19. "
+"John R. Commons est connu pour avoir défendu la liberté économique du travail "
+"contre les contraintes imposées par le marché&nbsp;; "
+"John R. Commons, <quote>The Right to Work</quote>, dans Malcom "
+"Rutherford and Warren J. Samuels, eds., <citetitle>John R. Commons: Selected "
+"Essays</citetitle> (Londre&nbsp;: Routledge&nbsp; 1997), 62. Le Americans with "
+"Disabilities Act augmente la liberté des handicapés en changeant "
+"l'architecture de divers endroits publiques, leur donnant ainsi un "
+"accès plus facile à ces endroits&nbsp;; 42 <citetitle>United States "
+"Code</citetitle>, "
+"section 12101 (2000). "
+"Chacune de ces interventions pour changer les conditions existantes change "
+"la liberté d'un groupe particulier. Les effets de telles interventions "
+"devraient être comptés pour comprendre la liberté que chacun de ses groupes "
+"a effectivement. <placeholder type=\"indexterm"
+"\" id=\"0\"/> <placeholder type=\"indexterm\" id=\"1\"/> <placeholder type="
+"\"indexterm\" id=\"2\"/> <placeholder type=\"indexterm\" id=\"3\"/> "
+"<placeholder type=\"indexterm\" id=\"4\"/>"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -14510,8 +14546,8 @@ msgid ""
 "\"0\"/>"
 msgstr ""
 "Jonathan Zittrain, <quote>The Copyright Cage</quote>, <citetitle>Legal "
-"Affairs</citetitle>, juillet/août 2003, disponible par le <ulink url=\"http "
-"&nbsp;://free-culture.cc/notes/\">lien #26</ulink>. <placeholder type="
+"Affairs</citetitle>, juillet/août 2003, disponible par le <ulink url=\"http"
+"://free-culture.cc/notes/\">lien #26</ulink>. <placeholder type="
 "\"indexterm\" id=\"0\"/>"
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -15471,6 +15507,8 @@ msgid ""
 "<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1612.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #.  PAGE BREAK 161 
 #. type: Content of: <book><part><chapter><section><para>
@@ -15510,6 +15548,8 @@ msgid ""
 "<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
 "\"></graphic>"
 msgstr ""
+"<graphic fileref=\"images/aristotele-ebook.png\" align=\"center\" width=\"50%"
+"\"></graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15525,6 +15565,8 @@ msgid ""
 "<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1622.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Future of Ideas, The (Lessig)"
@@ -15544,6 +15586,8 @@ msgid ""
 "<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1631.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid "No copying, no printing, and don't you dare try to listen to this book!"
@@ -15715,6 +15759,8 @@ msgid ""
 "<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
 "graphic>"
 msgstr ""
+"<graphic fileref=\"images/1641.png\" align=\"center\" width=\"50%\"></"
+"graphic>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -16829,6 +16875,8 @@ msgid ""
 "<graphic fileref=\"images/pattern-modern-media-ownership.png\" align=\"center"
 "\" width=\"100%\"></graphic>"
 msgstr ""
+"<graphic fileref=\"images/pattern-modern-media-ownership.png\" align=\"center"
+"\" width=\"100%\"></graphic>"
 
 #.  PAGE BREAK 175 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17315,6 +17363,40 @@ msgid ""
 "notes/\">link #32</ulink>. The ground was that the criticism was <quote>too "
 "controversial.</quote>"
 msgstr ""
+"<placeholder type=\"indexterm\" id=\"0\"/> <placeholder type=\"indexterm\" "
+"id=\"1\"/><placeholder type=\"indexterm\" id=\"2\"/> <placeholder type="
+"\"indexterm\" id=\"3\"/> <placeholder type=\"indexterm\" id=\"4\"/> "
+"<placeholder type=\"indexterm\" id=\"5\"/> <placeholder type=\"indexterm\" "
+"id=\"6\"/> En février 2003, le Marijuana Policy Project chercha à diffuser "
+"des publicités qui répondaient directement à la série Nick and Norm, sur les "
+"chaînes de la ville de Washington. Comcast refusa ces "
+"publicités les considérant "
+"comme étant <quote>contre [leur] politique</quote>. "
+"La chaîne locale WRC, filiale de NBC les rejeta sans les commenter. La chaîne "
+"locale WJOA, filiale de ABC, fut au départ d'accord pour les diffuser et "
+"accepta le paiement pour le faire, mais décida ensuite de ne pas les "
+"diffuser et remboursa l'argent perçu. Entrevue avec Neal Levine, 15 "
+"octobre 2003. Ces censures ne sont bien sûr pas réservées à la politique "
+"sur la drogue. Voir, par exemple, Nat Ives, "
+"<quote>On the Issue of an Iraq War, Advocacy Ads Meet "
+"with Rejection from TV Networks</quote>, <citetitle>New York Times</"
+"citetitle>, 13 mars 2003, C4.  En dehors des périodes électorales, le FCC et "
+"les tribunaux cherchent très peu à mettre à égalité les différents acteurs "
+"en jeu. Pour un aperçu général, voir Rhonda Brown, <quote>Ad Hoc "
+"Access: The Regulation of Editorial Advertising on Television and Radio</"
+"quote>, <citetitle>Yale Law and Policy Review</citetitle> 6 (1988)&nbsp;: "
+"449&ndash;79, et pour un résumé plus récent de la position du FCC et des "
+"tribunaux , voir <citetitle>Radio-Television News Directors Association</"
+"citetitle> contre <citetitle>FCC</citetitle>, 184 F. 3d 872 (D.C. Cir. 1999). "
+"Les autorités municipales exercent la même discrimination que les réseaux "
+"de télévision. "
+"Dans un exemple récent à San Francisco, la régie de transport de San "
+"Francisco refusa une publicité qui critiquait ses bus diésel Muni. "
+"Phillip Matier et "
+"Andrew Ross, <quote>Antidiesel Group Fuming After Muni Rejects Ad</quote>, "
+"SFGate.com, 16 juin 2003, disponible au <ulink url=\"http://free-culture.cc/"
+"notes/\">lien #32</ulink>. Le motif était que la critique était <quote>trop "
+"controversée.</quote>"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17548,27 +17630,27 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "PUBLISH"
-msgstr ""
+msgstr "PUBLIE"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "TRANSFORM"
-msgstr ""
+msgstr "TRANSFORME"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Commercial"
-msgstr ""
+msgstr "Commercial"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy;"
-msgstr ""
+msgstr "&copy;"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Free"
-msgstr ""
+msgstr "Libre"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "Noncommercial"
-msgstr ""
+msgstr "Non-commercial"
 
 #.  PAGE BREAK 182 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17620,11 +17702,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><thead><row><entry>
 msgid "COPY"
-msgstr ""
+msgstr "COPIE"
 
 #. type: Content of: <book><part><chapter><section><informaltable><tgroup><tbody><row><entry>
 msgid "&copy; / Free"
-msgstr ""
+msgstr "&copy; / Libre"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17704,7 +17786,7 @@ msgid ""
 msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/> La contribution la plus "
 "importante de l'école du réalisme juridique  a été de démontrer que tous les "
-"droits de propriété sont toujours formulées pour équilibrer les intérêts "
+"droits de propriété sont toujours formulés pour équilibrer les intérêts "
 "publiques et privés. Voir Thomas C. Grey, <quote>La désintégration de la "
 "propriété</quote>, dans <citetitle>Nomos XXII: Property</citetitle>, J. "
 "Roland Pennock et John W.  Chapman, ed. (New York: New York University "
@@ -19180,7 +19262,7 @@ msgstr ""
 "Pour un argument parallèle sur les effets de l'innovation sur la "
 "distribution de musique, voir Janelle Brown, <quote>The Music Revolution "
 "Will Not Be Digitized</quote>, Salon.com, 1er juin 2001, disponible au "
-"<ulink url=\"http &nbsp;://free-culture.cc/notes/\">lien #42</ulink>. Voir "
+"<ulink url=\"http://free-culture.cc/notes/\">lien #42</ulink>. Voir "
 "aussi Jon Healey, <quote>Online Music Services Besieged</quote>, "
 "<citetitle>Los Angeles Times</citetitle>, 28 mai 2001."
 
@@ -20852,7 +20934,7 @@ msgid ""
 msgstr ""
 "Voir <quote>Révélation&nbsp;: comment la RIAA traque les "
 "téléchargeurs&nbsp;: l'industrie de la musique rend publique certaines "
-"méthodes utilisées</quote>, CNN.com, disponible au <ulink url=\"http ://free-"
+"méthodes utilisées</quote>, CNN.com, disponible au <ulink url=\"http://free-"
 "culture.cc/notes/\">lien #47</ulink>."
 
 #. type: Content of: <book><part><chapter><section><para>
@@ -25929,8 +26011,8 @@ msgstr ""
 "août 2003, disponible au <ulink url=\"http://free-culture.cc/notes/\">lien "
 "#60</ulink>&nbsp;; William New, <quote>U.S. Official Opposes <quote>Open "
 "Source</quote> Talks at WIPO</quote>, <citetitle>National Journal's "
-"Technology Daily</citetitle>, 19 août 2003, disponible au <ulink url=\"http "
-"&nbsp;://free-culture.cc/notes/\">lien #61</ulink>."
+"Technology Daily</citetitle>, 19 août 2003, disponible au "
+"<ulink url=\"http://free-culture.cc/notes/\">lien #61</ulink>."
 
 #.  PAGE BREAK 270 
 #. type: Content of: <book><chapter><para>
@@ -27818,7 +27900,7 @@ msgid ""
 msgstr ""
 "<citetitle>Willful Infringement: A Report from the Front Lines of the Real "
 "Culture Wars</citetitle> (2003), produit par Jed Horovitz, réalisé par Greg "
-"Hittelman, une production Fiat Lucre, disponible au <ulink url=\"http ://"
+"Hittelman, une production Fiat Lucre, disponible au <ulink url=\"http://"
 "free-culture.cc/notes/\">lien #72</ulink>."
 
 #. type: Content of: <book><chapter><section><section><para>
@@ -28059,7 +28141,7 @@ msgid ""
 msgstr ""
 "La proposition que j'avance ici ne s'appliquerait qu'aux oeuvres "
 "américaines. Je pense évidemment que ce serait bénéfique si d'autres pays "
-"adoptaient la même idée aussi."
+"adoptaient aussi la même idée."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -28399,7 +28481,7 @@ msgid ""
 msgstr ""
 "<quote>A Radical Rethink</quote>, <citetitle>Economist</citetitle>, "
 "366&nbsp;:8308 (25 janvier 2003)&nbsp;: 15, disponible au <ulink url="
-"\"http ://free-culture.cc/notes/\">lien #74</ulink>."
+"\"http://free-culture.cc/notes/\">lien #74</ulink>."
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -29294,7 +29376,7 @@ msgstr ""
 "<placeholder type=\"indexterm\" id=\"0\"/>William Fisher, <citetitle>Digital "
 "Music: Problems and Possibilities</citetitle> (dernère révision&nbsp;: 10 "
 "octobre 2000), disponible au <ulink url=\"http://free-culture.cc/notes/"
-"\">lien #77</ulink>; William Fisher, <citetitle>Promises to Keep: "
+"\">lien #77</ulink>&nbsp;; William Fisher, <citetitle>Promises to Keep: "
 "Technology, Law, and the Future of Entertainment</citetitle> (à venir) "
 "(Stanford: Stanford University Press, 2004), ch. 6, disponible au <ulink url="
 "\"http://free-culture.cc/notes/\">lien #78</ulink>. Le professeur Netanel a "
