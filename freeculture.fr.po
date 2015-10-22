@@ -2480,19 +2480,19 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "derivative works"
-msgstr ""
+msgstr "oeuvres dérivées"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "piracy vs."
-msgstr ""
+msgstr "piratage vs."
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "piracy"
-msgstr ""
+msgstr "piratage"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "derivative work vs."
-msgstr ""
+msgstr "oeuvre dérivée vs."
 
 #.  f2 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -2542,11 +2542,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "by transforming previous works"
-msgstr ""
+msgstr "par transformation d'oeuvres antérieures"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Disney, Inc."
-msgstr ""
+msgstr "Disney, Inc."
 
 #.  f3 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -2586,7 +2586,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Grimm fairy tales"
-msgstr ""
+msgstr "contes de Grimm"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2676,7 +2676,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><indexterm><primary>
 msgid "copyright"
-msgstr ""
+msgstr "copyright"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "duration of"
@@ -2684,7 +2684,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "public domain"
-msgstr ""
+msgstr "domaine public"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "defined"
@@ -2794,15 +2794,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "comics, Japanese"
-msgstr ""
+msgstr "japon, bandes dessinées"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Japanese comics"
-msgstr ""
+msgstr "bandes dessinées japonaises"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "manga"
-msgstr ""
+msgstr "manga"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -2859,7 +2859,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "doujinshi comics"
-msgstr ""
+msgstr "bandes dessinées doujinshi"
 
 #.  PAGE BREAK 39 
 #. type: Content of: <book><part><chapter><para>
@@ -2981,7 +2981,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Superman comics"
-msgstr ""
+msgstr "Superman (bande dessinée)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3334,11 +3334,11 @@ msgstr "Daguerre, Louis"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "camera technology"
-msgstr ""
+msgstr "technique d'appareil photographique"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "photography"
-msgstr ""
+msgstr "photographie"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3351,7 +3351,7 @@ msgid ""
 "helped regulate the industry, as do all such associations, by keeping "
 "competition down so as to keep prices up.)"
 msgstr ""
-"<emphasis role='strong'>En 1839,</emphasis> Louis Daguerre inventa le "
+"<emphasis role='strong'>En 1839</emphasis>, Louis Daguerre inventa le "
 "premier procédé pratique permettant de réaliser ce que nous allions appeler "
 "des <quote>photographies</quote>&nbsp;: le <quote>daguerréotype</quote>. Le "
 "procédé était compliqué et coûteux, et la discipline par conséquent réservée "
@@ -3416,7 +3416,7 @@ msgstr "Kodak, appareils photographiques"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Kodak Primer, The (Eastman)"
-msgstr ""
+msgstr "Kodak Primer, The (Eastman)"
 
 #.  f1 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3440,7 +3440,7 @@ msgstr ""
 "le Kodak. Celui-ci fut commercialisé en mettant en avant sa "
 "simplicité&nbsp;: <quote>Appuyez sur le bouton et nous faisons le reste</"
 "quote><placeholder type=\"footnote\" id=\"0\"/>.  Eastman décrivit son "
-"invention dans<citetitle> The Kodak Primer</citetitle>&nbsp;:"
+"invention dans <citetitle>The Kodak Primer</citetitle>&nbsp;:"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Coe, Brian"
@@ -3544,19 +3544,19 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "democracy"
-msgstr ""
+msgstr "démocratie"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in technologies of expression"
-msgstr ""
+msgstr "dans les techniques d'expression"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "expression, technologies of"
-msgstr ""
+msgstr "expression, technique d'"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "democratic"
-msgstr ""
+msgstr "démocratique"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3585,11 +3585,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "permissions"
-msgstr ""
+msgstr "permissions"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "photography exempted from"
-msgstr ""
+msgstr "photographie exemptée de"
 
 #.  f6 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3629,7 +3629,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "images, ownership of"
-msgstr ""
+msgstr "images, propriété des"
 
 #.  PAGE BREAK 47 
 #. type: Content of: <book><part><chapter><para>
@@ -3729,7 +3729,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Napster"
-msgstr ""
+msgstr "Napster"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -3824,19 +3824,19 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "education"
-msgstr ""
+msgstr "éducation"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in media literacy"
-msgstr ""
+msgstr "dans la lecture des médias"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media literacy"
-msgstr ""
+msgstr "lecture des médias"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "media literacy and"
-msgstr ""
+msgstr "lecture des médias et"
 
 #.  f9 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3921,7 +3921,7 @@ msgstr "télévision"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "advertising on"
-msgstr ""
+msgstr "publicité à la"
 
 #.  f10 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4061,7 +4061,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "computer games"
-msgstr ""
+msgstr "jeux vidéos"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4312,15 +4312,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "September 11, 2001, terrorist attacks of"
-msgstr ""
+msgstr "11 septembre 2001, attaque terroriste du"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "World Trade Center"
-msgstr ""
+msgstr "World Trade Center"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "news coverage"
-msgstr ""
+msgstr "couverture des informations"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4372,7 +4372,7 @@ msgstr "CBS"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Cyber Rights (Godwin)"
-msgstr ""
+msgstr "Cyber Rights (Godwin)"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Godwin, Mike"
@@ -4479,7 +4479,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "political discourse"
-msgstr ""
+msgstr "discours politique"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "public discourse conducted on"
@@ -4515,7 +4515,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "elections"
-msgstr ""
+msgstr "élections"
 
 #.  PAGE BREAK 55 
 #. type: Content of: <book><part><chapter><para>
@@ -4547,7 +4547,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
-msgstr ""
+msgstr "système de jury"
 
 #.  f15 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4653,7 +4653,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "e-mail"
-msgstr ""
+msgstr "e-mail"
 
 #.  PAGE BREAK 56 
 #. type: Content of: <book><part><chapter><para>
@@ -4792,7 +4792,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "journalism"
-msgstr ""
+msgstr "journalisme"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Winer, Dave"
@@ -5249,11 +5249,11 @@ msgstr "Jordan, Jesse"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "RPI"
-msgstr ""
+msgstr "RPI"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Rensselaer Polytechnic Institute (RPI)"
-msgstr ""
+msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "computer network search engine of"
@@ -5261,15 +5261,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "search engines"
-msgstr ""
+msgstr "moteurs de recherche"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "university computer networks, p2p sharing on"
-msgstr ""
+msgstr "réseaux d'ordinateurs d'université, partage de fichier (p2p) sur"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "search engines used on"
-msgstr ""
+msgstr "moteurs de recherche utilisés sur"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5458,15 +5458,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "in recording industry"
-msgstr ""
+msgstr "dans l'industrie du disque"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "against student file sharing"
-msgstr ""
+msgstr "contre le partage de fichier d'un étudiant"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "recording industry"
-msgstr ""
+msgstr "industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright infringement lawsuits of"
@@ -5474,7 +5474,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Recording Industry Association of America (RIAA)"
-msgstr ""
+msgstr "Recording Industry Association of America (RIAA)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright infringement lawsuits filed by"
@@ -5539,7 +5539,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "intimidation tactics of"
-msgstr ""
+msgstr "tactiques d'intimidation"
 
 #.  PAGE BREAK 64 
 #. type: Content of: <book><part><chapter><para>
@@ -5565,11 +5565,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Michigan Technical University"
-msgstr ""
+msgstr "Michigan Technical University"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Princeton University"
-msgstr ""
+msgstr "Princeton University"
 
 #.  f1 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -5647,7 +5647,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "legal system, attorney costs in"
-msgstr ""
+msgstr "système légal, frais d'avocats dans le"
 
 #.  PAGE BREAK 65 
 #. type: Content of: <book><part><chapter><para>
@@ -5808,19 +5808,19 @@ msgstr "Cinéma"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Hollywood film industry"
-msgstr ""
+msgstr "industrie cinématographique de Hollywood"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "film industry"
-msgstr ""
+msgstr "industrie cinématographique"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "patents"
-msgstr ""
+msgstr "brevets"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on film technology"
-msgstr ""
+msgstr "sur la technique cinématographique"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -5886,7 +5886,7 @@ msgstr "Fox, William"
 
 #. type: Content of: <book><part><chapter><section><blockquote><indexterm><primary>
 msgid "General Film Company"
-msgstr ""
+msgstr "General Film Company"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Picker, Randal C."
@@ -6043,7 +6043,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Beatles"
-msgstr ""
+msgstr "Beatles (Les)"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6186,7 +6186,7 @@ msgstr "American Graphophone Company"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "player pianos"
-msgstr ""
+msgstr "joueur de piano"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Congress, U.S."
@@ -6198,7 +6198,7 @@ msgstr "sur les lois du copyright"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on recording industry"
-msgstr ""
+msgstr "sur l'industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "statutory licenses in"
@@ -6262,7 +6262,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "cover songs"
-msgstr ""
+msgstr "reprise de chansons"
 
 #.  PAGE BREAK 70 
 #. type: Content of: <book><part><chapter><section><para>
@@ -6503,7 +6503,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "music recordings played on"
-msgstr ""
+msgstr "disques de musique joués sur"
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Lovett, Lyle"
@@ -6551,7 +6551,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Madonna"
-msgstr ""
+msgstr "Madonna"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6925,15 +6925,15 @@ msgstr "Piratage I"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Asia, commercial piracy in"
-msgstr ""
+msgstr "Asie, piratage commercial en"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "CDs"
-msgstr ""
+msgstr "CDs"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "foreign piracy of"
-msgstr ""
+msgstr "piratage étranger de"
 
 #.  f1 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -7199,23 +7199,23 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "in Asia"
-msgstr ""
+msgstr "en asie"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "open-source software"
-msgstr ""
+msgstr "logiciel open-source"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "free software/open-source software (FS/OSS)"
-msgstr ""
+msgstr "logiciel libre/logiciel open-source (FS/OSS)"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "GNU/Linux operating system"
-msgstr ""
+msgstr "système d'exploitation GNU/Linux"
 
 #. type: Content of: <book><chapter><section><section><para><indexterm><primary>
 msgid "Linux operating system"
-msgstr ""
+msgstr "système d'exploitation Linux"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "competitive strategies of"
@@ -7223,7 +7223,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "international software piracy of"
@@ -7231,7 +7231,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
-msgstr ""
+msgstr "système d'exploitation Windows"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7262,7 +7262,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "law"
-msgstr ""
+msgstr "loi"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "databases of case reports in"
@@ -7288,11 +7288,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Netscape"
-msgstr ""
+msgstr "Netscape"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Internet Explorer"
-msgstr ""
+msgstr "Internet Explorer"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -7613,7 +7613,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "four types of"
-msgstr ""
+msgstr "quatre types de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "range of content on"
@@ -7765,11 +7765,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cassette recording"
-msgstr ""
+msgstr "enregistrement de cassette"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "VCRs"
-msgstr ""
+msgstr "magnétoscopes"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "DAT (digital audio tape)"
@@ -7834,7 +7834,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MTV"
-msgstr ""
+msgstr "MTV"
 
 #.  f11 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -8230,7 +8230,7 @@ msgstr "Doctorow, Cory"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Down and Out in the Magic Kingdom (Doctorow)"
-msgstr ""
+msgstr "Down and Out in the Magic Kingdom (Doctorow)"
 
 #.  PAGE BREAK 86 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8423,15 +8423,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "composers, copyright protections of"
-msgstr ""
+msgstr "compositeurs, protections par copyright des"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright protections in"
-msgstr ""
+msgstr "protections par copyright dans"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "composer's rights vs. producers' rights in"
-msgstr ""
+msgstr "droits du compositeur vs. droits du producteur"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8509,15 +8509,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Betamax"
-msgstr ""
+msgstr "Betamax"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Sony"
-msgstr ""
+msgstr "Sony"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Betamax technology developed by"
-msgstr ""
+msgstr "technologie Betamax développée par"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -9203,15 +9203,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "England, copyright laws developed in"
-msgstr ""
+msgstr "Angleterre, lois sur le copyright en"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "United Kingdom"
-msgstr ""
+msgstr "Royaume Uni"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "history of copyright law in"
-msgstr ""
+msgstr "histoire du copyright dans"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Branagh, Kenneth"
@@ -9219,11 +9219,11 @@ msgstr "Branagh, Kenneth"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Henry V"
-msgstr ""
+msgstr "Henry V"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Romeo and Juliet (Shakespeare)"
-msgstr ""
+msgstr "Roméo et Juliette (Shakespeare)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9326,7 +9326,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "British Parliament"
-msgstr ""
+msgstr "parlement britannique"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "renewability of"
@@ -9334,7 +9334,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Statute of Anne (1710)"
-msgstr ""
+msgstr "Statute of Anne (1710)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -9378,11 +9378,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "positive law"
-msgstr ""
+msgstr "loi positive"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Licensing Act (1662)"
-msgstr ""
+msgstr "Licensing Act (1662)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9407,7 +9407,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "common law"
-msgstr ""
+msgstr "loi commune"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9436,7 +9436,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Scottish publishers"
-msgstr ""
+msgstr "éditeurs écossais"
 
 #.  PAGE BREAK 98 
 #. type: Content of: <book><part><chapter><para>
@@ -9580,7 +9580,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Henry VIII, King of England"
-msgstr ""
+msgstr "Henry VIII, roi d'Angleterre"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "monopoly, copyright as"
@@ -9641,7 +9641,7 @@ msgstr "Milton, John"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "booksellers, English"
-msgstr ""
+msgstr "Libraires anglais"
 
 #.  f4 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -9685,7 +9685,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "knowledge, freedom of"
-msgstr ""
+msgstr "connaissance, liberté de"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9962,7 +9962,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Millar v. Taylor"
-msgstr ""
+msgstr "Millar contre Taylor"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -9982,7 +9982,7 @@ msgstr "Thomson, James"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Seasons, The (Thomson)"
-msgstr ""
+msgstr "Seasons, The (Thomson)"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Taylor, Robert"
@@ -10081,11 +10081,11 @@ msgstr "Beckett, Thomas"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "House of Lords"
-msgstr ""
+msgstr "Chambre des Lords"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "House of Lords vs."
-msgstr ""
+msgstr "Chambre des Lords vs."
 
 #.  f12 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -10116,7 +10116,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Donaldson v. Beckett"
-msgstr ""
+msgstr "Donaldson contre Beckett"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10327,11 +10327,11 @@ msgstr "Enregistreurs"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use and"
-msgstr ""
+msgstr "usage loyal et"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "documentary film"
-msgstr ""
+msgstr "film documentaire"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Else, Jon"
@@ -10339,11 +10339,11 @@ msgstr "Else, Jon"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "fair use"
-msgstr ""
+msgstr "usage loyale"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in documentary film"
-msgstr ""
+msgstr "dans un film documentaire"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "fair use of copyrighted material in"
@@ -10379,7 +10379,7 @@ msgstr "Wagner, Richard"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "San Francisco Opera"
-msgstr ""
+msgstr "Opéra de San Francisco"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10398,7 +10398,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Simpsons, The"
-msgstr ""
+msgstr "Simpsons, Les"
 
 #.  PAGE BREAK 107 
 #. type: Content of: <book><part><chapter><para>
@@ -10440,7 +10440,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Gracie Films"
-msgstr ""
+msgstr "Gracie Films"
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
 msgid "Groening, Matt"
@@ -10464,7 +10464,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><orderedlist><listitem><indexterm><primary>
 msgid "Fox (film company)"
-msgstr ""
+msgstr "Fox (firme cinématographique)"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10539,7 +10539,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Day After Trinity, The"
-msgstr ""
+msgstr "Day After Trinity, The"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10798,11 +10798,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "retrospective compilations on"
-msgstr ""
+msgstr "compilation pour rétrospective sur"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "CD-ROMs, film clips used in"
-msgstr ""
+msgstr "CD-ROMs, extraits de film mis sur"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11253,15 +11253,15 @@ msgstr "Boies, David"
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Court of Appeals"
-msgstr ""
+msgstr "cour d'appel"
 
 #. type: Content of: <book><part><chapter><para><indexterm><secondary>
 msgid "Ninth Circuit"
-msgstr ""
+msgstr "neuvième circuit"
 
 #. type: Content of: <book><part><chapter><para><indexterm><primary>
 msgid "Ninth Circuit Court of Appeals"
-msgstr ""
+msgstr "cours d'appel pour le neuvième circuit"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11496,11 +11496,11 @@ msgstr "Collectionneurs"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archives, digital"
-msgstr ""
+msgstr "archives numériques"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "bots"
-msgstr ""
+msgstr "robots"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11526,7 +11526,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Way Back Machine"
-msgstr ""
+msgstr "Way Back Machine"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11590,7 +11590,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "White House press releases"
-msgstr ""
+msgstr "communiqués de presse de la Maison Blanche"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -11713,7 +11713,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Library of Congress"
-msgstr ""
+msgstr "Bibliothèque du Congrès"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Television Archive"
@@ -11721,11 +11721,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Vanderbilt University"
-msgstr ""
+msgstr "Vanderbilt University"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "libraries"
-msgstr ""
+msgstr "bibliothèques"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archival function of"
@@ -11772,7 +11772,7 @@ msgstr "Quayle, Dan"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "60 Minutes"
-msgstr ""
+msgstr "60 Minutes"
 
 #.  PAGE BREAK 122 
 #. type: Content of: <book><part><chapter><blockquote><para>
@@ -11794,7 +11794,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "newspapers"
-msgstr ""
+msgstr "journaux"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archives of"
@@ -11919,7 +11919,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "archive.org"
-msgstr ""
+msgstr "archive.org"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Internet Archive"
@@ -11927,7 +11927,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Duck and Cover film"
-msgstr ""
+msgstr "Duck and Cover, film"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "ephemeral films"
@@ -11935,7 +11935,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Prelinger, Rick"
-msgstr ""
+msgstr "Prelinger, Rick"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12153,11 +12153,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><secondary>
 msgid "total number of"
-msgstr ""
+msgstr "nombre total de"
 
 #. type: Content of: <book><part><chapter><blockquote><indexterm><primary>
 msgid "music recordings"
-msgstr ""
+msgstr "enregistrements de musique"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -12234,11 +12234,11 @@ msgstr "<quote>Propriété</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Johnson, Lyndon"
-msgstr ""
+msgstr "Johnson, Lyndon"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Kennedy, John F."
-msgstr ""
+msgstr "Kennedy, John F."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "background of"
@@ -12265,27 +12265,27 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "MGM"
-msgstr ""
+msgstr "MGM"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Paramount Pictures"
-msgstr ""
+msgstr "Paramount Pictures"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Twentieth Century Fox"
-msgstr ""
+msgstr "Twentieth Century Fox"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Sony Pictures Entertainment"
-msgstr ""
+msgstr "Sony Pictures Entertainment"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Universal Pictures"
-msgstr ""
+msgstr "Universal Pictures"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Warner Brothers"
-msgstr ""
+msgstr "Warner Brothers"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12693,7 +12693,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "regulation"
-msgstr ""
+msgstr "réglementation"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "four modalities of"
@@ -12767,7 +12767,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "norms, regulatory influence of"
-msgstr ""
+msgstr "normes, influence réglementaire des"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12792,7 +12792,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "market constraints"
-msgstr ""
+msgstr "contraintes du marché"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12880,11 +12880,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "driving speed, constraints on"
-msgstr ""
+msgstr "vitesse de conduite, limitation de la"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "speeding, constraints on"
-msgstr ""
+msgstr "vitesse, limitations de"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -12976,7 +12976,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Americans with Disabilities Act (1990)"
-msgstr ""
+msgstr "Americans with Disabilities Act (1990)"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Commons, John R."
@@ -13128,7 +13128,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MP3s"
-msgstr ""
+msgstr "MP3s"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13149,7 +13149,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "technology"
-msgstr ""
+msgstr "technologie"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "established industries threatened by changes in"
@@ -13182,7 +13182,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Commerce, U.S. Department of"
-msgstr ""
+msgstr "Commerce, département du (US)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as establishment protectionism"
@@ -13214,11 +13214,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "farming"
-msgstr ""
+msgstr "agriculture"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "steel industry"
-msgstr ""
+msgstr "indistrie de la métallurgie"
 
 #.  PAGE BREAK 138 
 #. type: Content of: <book><part><chapter><section><para>
@@ -13336,7 +13336,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "free market, technological changes in"
-msgstr ""
+msgstr "marché libre, changements technologiques dans un"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Brezhnev, Leonid"
@@ -13348,7 +13348,7 @@ msgstr "Gates, Bill"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "market competition"
-msgstr ""
+msgstr "concurrence du marché"
 
 #.  f6 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -13413,7 +13413,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "speech, freedom of"
-msgstr ""
+msgstr "parole, liberté de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "constitutional guarantee of"
@@ -13475,11 +13475,11 @@ msgstr "Müller, Paul Hermann"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "DDT"
-msgstr ""
+msgstr "DDT"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "insecticide, environmental consequences of"
-msgstr ""
+msgstr "insecticide, conséquence sur l'environnement"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13512,11 +13512,11 @@ msgstr "Carson, Rachel"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Silent Spring (Carson)"
-msgstr ""
+msgstr "Silent Spring (Carson)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "environmentalism"
-msgstr ""
+msgstr "écologie"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13660,7 +13660,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Progress Clause"
-msgstr ""
+msgstr "Clause de Progrès"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13744,7 +13744,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Senate, U.S."
-msgstr ""
+msgstr "Sénat US"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "structural checks and balances of"
@@ -13752,7 +13752,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "electoral college"
-msgstr ""
+msgstr "collège électoral"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14086,11 +14086,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "CTEA"
-msgstr ""
+msgstr "CTEA"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
-msgstr ""
+msgstr "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "future patents vs. future copyrights in"
@@ -14325,11 +14325,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "formalities"
-msgstr ""
+msgstr "formalités"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "registration requirement of"
-msgstr ""
+msgstr "obligation d'enregistrement de"
 
 #.  PAGE BREAK 148 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14960,7 +14960,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "e-books"
-msgstr ""
+msgstr "livres électroniques"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "technological developments and"
@@ -15100,7 +15100,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Video Pipeline"
-msgstr ""
+msgstr "Video Pipeline"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "trailer advertisements of"
@@ -15114,10 +15114,10 @@ msgid ""
 "to sell videos. Video Pipeline got the trailers from the film distributors, "
 "put the trailers on tape, and sold the tapes to the retail stores."
 msgstr ""
-"Le cas de Video Pipeline est un bon exemple. Vide Pipeline était dans les "
-"affaires de faire des publicités <quote>bandes annonces</quote> pour des "
+"Le cas de Video Pipeline est un bon exemple. Video Pipeline était "
+"fabriquant de <quote>bandes annonces</quote> pour des "
 "films disponibles dans les magasins de vidéos. Les magasins de vidéos "
-"diffusaient les bandes annonces comme moyen de vendre les vidéos. Video "
+"diffusaient les bandes annonces pour vendre les vidéos. Video "
 "Pipeline a obtenu les bandes anonces des distributeurs de films, mis les "
 "bandes annonces sur bande, et vendu les bandes aux magasins."
 
@@ -15345,11 +15345,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Casablanca"
-msgstr ""
+msgstr "Casablanca"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Marx Brothers"
-msgstr ""
+msgstr "Marx Brothers"
 
 #.  f19 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -15529,11 +15529,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aristotle"
-msgstr ""
+msgstr "Aristote"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "<citetitle>Politics</citetitle>, (Aristotle)"
-msgstr ""
+msgstr "<citetitle>Politiques</citetitle>, de Aristote"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15570,7 +15570,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Future of Ideas, The (Lessig)"
-msgstr ""
+msgstr "Future of Ideas, The (Lessig)"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15733,7 +15733,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Alice's Adventures in Wonderland (Carroll)"
-msgstr ""
+msgstr "Les aventures d'Alice au pays des merveilles (Carroll)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "e-book restrictions on"
@@ -15845,11 +15845,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aibo robotic dog"
-msgstr ""
+msgstr "robot chien Aibo"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "robotic dog"
-msgstr ""
+msgstr "chien robot"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Aibo robotic dog produced by"
@@ -16434,7 +16434,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "handguns"
-msgstr ""
+msgstr "pistolet"
 
 #.  PAGE BREAK 171 
 #. type: Content of: <book><part><chapter><section><para>
@@ -16692,11 +16692,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "BMG"
-msgstr ""
+msgstr "BMG"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "EMI"
-msgstr ""
+msgstr "EMI"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "McCain, John"
@@ -16704,11 +16704,11 @@ msgstr "McCain, John"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Universal Music Group"
-msgstr ""
+msgstr "Universal Music Group"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Warner Music Group"
-msgstr ""
+msgstr "Warner Music Group"
 
 #.  f25 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -17197,7 +17197,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "criminal justice system"
-msgstr ""
+msgstr "système judiciaire"
 
 #.  PAGE BREAK 178 
 #. type: Content of: <book><part><chapter><section><para>
@@ -17245,7 +17245,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Nick and Norm anti-drug campaign"
-msgstr ""
+msgstr "campagne contre la drogue de Nick et Norm"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -17317,7 +17317,7 @@ msgstr "Comcast"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Marijuana Policy Project"
-msgstr ""
+msgstr "Marijuana Policy Project"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "NBC"
@@ -17773,7 +17773,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "legal realist movement"
-msgstr ""
+msgstr "école du réalisme juridique"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
 msgid ""
@@ -17900,7 +17900,7 @@ msgstr "Chimères"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "chimeras"
-msgstr ""
+msgstr "chimères"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Wells, H. G."
@@ -17908,7 +17908,7 @@ msgstr "Wells, H. G."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "<quote>Country of the Blind, The</quote> (Wells)"
-msgstr ""
+msgstr "<quote>Country of the Blind, The</quote> (Wells)"
 
 #.  f1. 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -18184,7 +18184,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "ISPs (Internet service providers), user identities revealed by"
-msgstr ""
+msgstr "FAI (Fournisseurs d'Accès à Internet), identités de clients révélées par"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Conyers, John, Jr."
@@ -18613,7 +18613,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "WorldCom"
-msgstr ""
+msgstr "WorldCom"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "doctors malpractice claims against"
@@ -19035,11 +19035,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MP3.com"
-msgstr ""
+msgstr "MP3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "my.mp3.com"
-msgstr ""
+msgstr "my.mp3.com"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Roberts, Michael"
@@ -19219,7 +19219,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "BMW"
-msgstr ""
+msgstr "BMW"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "cars, MP3 sound systems in"
@@ -19235,7 +19235,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MP3 players"
-msgstr ""
+msgstr "lecteurs MP3"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "venture capital for"
@@ -27137,7 +27137,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "privacy rights"
-msgstr ""
+msgstr "droits à la vie privée"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27197,15 +27197,15 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cookies, Internet"
-msgstr ""
+msgstr "cookies, Internet"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "privacy protection on"
-msgstr ""
+msgstr "protection de la vie privée sur"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27298,7 +27298,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Data General"
-msgstr ""
+msgstr "Data General"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27310,8 +27310,8 @@ msgid ""
 msgstr ""
 "Une histoire similaire pourrait être racontée sur la naissance du mouvement "
 "du logiciel libre. Quand les ordinateurs avec logiciels furent mis à "
-"disposition commercialement pour la première fois, le logiciel&mdash;à la "
-"fois le code source et les binaires&mdash;était libre. Vous ne pouviez pas "
+"disposition commercialement pour la première fois, le logiciel &mdash; à la "
+"fois le code source et les binaires &mdash; était libre. Vous ne pouviez pas "
 "faire tourner un programme écrit pour une machine Data General sur une "
 "machine IBM, donc Data General et IBM ne se préoccupaient pas de contrôler "
 "leur logiciel."
@@ -27458,7 +27458,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "scientific journals"
-msgstr ""
+msgstr "journaux scientifiques"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27472,7 +27472,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Lexis and Westlaw"
-msgstr ""
+msgstr "Lexis et Westlaw"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "journals in"
@@ -27480,7 +27480,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "access to opinions of"
-msgstr ""
+msgstr "accès aux opinions de"
 
 #.  PAGE BREAK 286 
 #. type: Content of: <book><chapter><section><section><para>
@@ -27646,7 +27646,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Stanford University"
-msgstr ""
+msgstr "Stanford University"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27852,7 +27852,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Free for All (Wayner)"
-msgstr ""
+msgstr "Free for All (Wayner)"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Wayner, Peter"
@@ -27884,11 +27884,11 @@ msgstr "Leaphart, Walter"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "Public Enemy"
-msgstr ""
+msgstr "Public Enemy"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "rap music"
-msgstr ""
+msgstr "musique rap"
 
 #.  f2. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -28225,15 +28225,15 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><primary>
 msgid "domain names"
-msgstr ""
+msgstr "noms de domaine"
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
 msgid "domain name registration on"
-msgstr ""
+msgstr "enregistrement de nom de domaine sur"
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><primary>
 msgid "Web sites, domain name registration of"
-msgstr ""
+msgstr "Sites web, enregistrement du nom de domaine de"
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
@@ -29068,7 +29068,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "cell phones, music streamed over"
-msgstr ""
+msgstr "téléphones portables, musique streamée sur"
 
 #.  f8. 
 #. type: Content of: <book><chapter><section><section><para><footnote><para>
@@ -29468,11 +29468,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "semiotic democracy"
-msgstr ""
+msgstr "démocratie sémiotique"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "semiotic"
-msgstr ""
+msgstr "sémiotique"
 
 #.  PAGE BREAK 307 
 #. type: Content of: <book><chapter><section><section><para>
@@ -29498,7 +29498,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "MusicStore"
-msgstr ""
+msgstr "MusicStore"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "prices of"
@@ -29536,7 +29536,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "cable vs. broadcast"
-msgstr ""
+msgstr "câble vs. radio-diffusion"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "luxury theatres vs. video piracy in"
