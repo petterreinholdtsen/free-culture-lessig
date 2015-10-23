@@ -1,16 +1,16 @@
 Norwegian translation of Free Culture
 =====================================
 
-The books are ready for download:
+The books are ready for download and purchase:
 
-English (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/cover-art.pdf">book cover</a>): <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.pdf">PDF</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.epub">ePub</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.mobi">MOBI</a>.
+English (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/cover-art.pdf">book cover</a>): <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.pdf">PDF</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.epub">ePub</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.mobi">MOBI</a>, <a href="http://www.lulu.com/shop/lawrence-lessig/free-culture/paperback/product-22402863.html">paper from lulu.com</A>.
 
 Norwegian Bokmål (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/nb/cover-art.pdf">book cover</a>): <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.pdf">PDF</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.epub">ePub</a>, <a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.mobi">MOBI</a>.
 
 The original book version is available from http://free-culture.cc/ .
 
 See
-http://people.skolelinux.org/pere/blog/Dugnad_for___sende_norsk_versjon_av_Free_Culture_til_stortingets_representanter_.html
+<a href="http://people.skolelinux.org/pere/blog/Dugnad_for___sende_norsk_versjon_av_Free_Culture_til_stortingets_representanter_.html">my blog post for 2012</a>
 for a project description.
 
 Norwegian translation of the book Free Culture by Lessig.  Based on
