@@ -945,11 +945,11 @@ msgstr "RCA"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "media"
-msgstr "média"
+msgstr "médias"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "ownership concentration in"
-msgstr ""
+msgstr "concentration des"
 
 #. PAGE BREAK 20
 #. type: Content of: <book><chapter><para>
@@ -1589,7 +1589,7 @@ msgstr "Constitution des USA"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "First Amendment to"
-msgstr ""
+msgstr "Premier Amendement de la"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "copyright law"
@@ -5684,7 +5684,7 @@ msgstr "artistes"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "recording industry payments to"
-msgstr ""
+msgstr "rémunérations par l'industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "artist remuneration in"
@@ -7905,7 +7905,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "sales levels of"
-msgstr ""
+msgstr "niveaux de vente des"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -10880,7 +10880,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><secondary>
 msgid "publicity rights on images of"
-msgstr ""
+msgstr "droits à l'image des"
 
 #. type: Content of: <book><part><chapter><para><footnote><para>
 msgid ""
@@ -13641,7 +13641,7 @@ msgstr "Débuts"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on creative property"
-msgstr ""
+msgstr "sur la propriété des créations"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "copyright purpose established in"
@@ -13649,7 +13649,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Progress Clause of"
-msgstr ""
+msgstr "Clause de Progrès de la"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional purpose of"
@@ -14095,7 +14095,7 @@ msgstr "Sonny Bono Copyright Term Extension Act (CTEA) (1998)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "future patents vs. future copyrights in"
-msgstr ""
+msgstr "brevets futurs vs. copyrights futurs"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14119,7 +14119,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in public domain"
-msgstr ""
+msgstr "dans le domaine public"
 
 #.  PAGE BREAK 146 
 #. type: Content of: <book><part><chapter><section><para>
@@ -19066,7 +19066,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "preference data on"
-msgstr ""
+msgstr "données sur les préférences musicales"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -20635,7 +20635,7 @@ msgstr "Andromeda"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "mix technology and"
-msgstr ""
+msgstr "technique de mixage et"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -21238,7 +21238,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "of public-domain literature"
-msgstr ""
+msgstr "d'oeuvres du domaine public"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "library of works derived from"
@@ -21274,8 +21274,8 @@ msgstr ""
 "imprimées de ces œuvres. Au lieu de cela, Eldred produisait des œuvres "
 "dérivées de ces œuvres du domaine public. Tout comme Disney changea Grimm en "
 "histoires plus accessibles au vingtième siècle, Eldred transforma Hawthorne, "
-"et de nombreux autres, en une forme plus accessible&mdash;techniquement "
-"accessible&mdash;aujourd'hui."
+"et de nombreux autres, en une forme plus accessible &mdash; techniquement "
+"accessible &mdash; aujourd'hui."
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Scarlet Letter, The (Hawthorne)"
@@ -23311,7 +23311,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Commerce Clause of"
-msgstr ""
+msgstr "Clause de Commerce de la"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -25449,7 +25449,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "on pharmaceuticals"
-msgstr ""
+msgstr "pharmaceutiques"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "pharmaceutical patents"
@@ -27232,7 +27232,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "privacy rights in use of"
-msgstr ""
+msgstr "droits à la vie privée des utilisateurs des"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -27478,7 +27478,7 @@ msgstr "Lexis et Westlaw"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "journals in"
-msgstr ""
+msgstr "journaux dans les"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "access to opinions of"
@@ -28392,7 +28392,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><section><indexterm><secondary>
 msgid "copyright marking of"
-msgstr ""
+msgstr "marquage du copyright sur"
 
 #. type: Content of: <book><chapter><section><section><section><para>
 msgid ""
@@ -29504,7 +29504,7 @@ msgstr "MusicStore"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "prices of"
-msgstr ""
+msgstr "prix des"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
