@@ -15124,7 +15124,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "browsing"
-msgstr ""
+msgstr "survol"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
