@@ -40,7 +40,7 @@ msgid ""
 "How big media uses technology and the law to lock down culture and control "
 "creativity"
 msgstr ""
-"Comment les médias utilisent la technologie et la loi pour confisquer la "
+"Comment les médias utilisent la technologie et la loi pour verrouiller la "
 "culture et contrôler la créativité"
 
 #. type: Content of: <book><bookinfo>
@@ -1327,7 +1327,7 @@ msgstr "poursuites pour infraction au copyright"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "commercial creativity as primary purpose of"
-msgstr ""
+msgstr "créativité commerciale comme principal but des"
 
 #. type: Content of: <book><part><chapter><para><footnote><para><indexterm><primary>
 msgid "Brandeis, Louis D."
@@ -1515,7 +1515,7 @@ msgstr "Valenti, Jack"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on creative property rights"
-msgstr ""
+msgstr "sur les droits de propriété des créations"
 
 #. type: Content of: <book><chapter><para><footnote><para>
 msgid ""
@@ -1597,7 +1597,7 @@ msgstr "Loi sur le copyright"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as protection of creators"
-msgstr ""
+msgstr "comme protection des créateurs"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "First Amendment"
@@ -2127,7 +2127,7 @@ msgstr ""
 "<quote>valeur implique droits</quote> de la propriété des "
 "créations<placeholder type=\"footnote\" id=\"0\"/> &mdash; s'il y a valeur, "
 "alors quelqu'un doit avoir un droit dessus. C'est cette perspective qui a "
-"conduit l'organisation des droits d'auteur, l'ASCAP, à faire un procés aux "
+"conduit l'organisation des droits d'auteur, l'ASCAP, à faire un procès aux "
 "Girl Scouts pour ne pas avoir payé pour les chansons que les filles "
 "chantaient autour des feux de camp de scouts.<placeholder type=\"footnote\" "
 "id=\"1\"/> Il y avait de la <quote>valeur</quote> (les chansons), donc il "
@@ -2164,7 +2164,7 @@ msgstr "innovation"
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "legal restrictions on"
-msgstr ""
+msgstr "restrictions légales de la"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -2213,7 +2213,7 @@ msgstr ""
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "creativity impeded by"
-msgstr ""
+msgstr "créativité entravée par"
 
 #. type: Content of: <book><part><partintro><para><footnote><para><indexterm><primary>
 msgid "Florida, Richard"
@@ -2680,7 +2680,7 @@ msgstr "copyright"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "duration of"
-msgstr ""
+msgstr "durée du"
 
 #. type: Content of: <book><chapter><section><section><indexterm><primary>
 msgid "public domain"
@@ -2688,11 +2688,11 @@ msgstr "domaine public"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "defined"
-msgstr ""
+msgstr "défini"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "traditional term for conversion to"
-msgstr ""
+msgstr "durée traditionnelle pour passage dans le"
 
 #.  f4 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -3193,7 +3193,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "derivative works based on"
-msgstr ""
+msgstr "oeuvres dérivées issues de la"
 
 #.  PAGE BREAK 42 
 #. type: Content of: <book><part><chapter><para>
@@ -4380,7 +4380,7 @@ msgstr "Godwin, Mike"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "news events on"
-msgstr ""
+msgstr "actualités sur"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4483,7 +4483,7 @@ msgstr "discours politique"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "public discourse conducted on"
-msgstr ""
+msgstr "discours public mené sur"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -4543,7 +4543,7 @@ msgstr "Tocqueville, Alexis de"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "public discourse in"
-msgstr ""
+msgstr "discours public en"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "jury system"
@@ -4715,7 +4715,7 @@ msgstr "Thurmond, Strom"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "blog pressure on"
-msgstr ""
+msgstr "pression des blogs sur les"
 
 #.  f18 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -4754,7 +4754,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "commercial imperatives of"
-msgstr ""
+msgstr "impératifs commerciaux des"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5257,7 +5257,7 @@ msgstr "Rensselaer Polytechnic Institute (RPI)"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "computer network search engine of"
-msgstr ""
+msgstr "moteur de recherche du réseau du"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "search engines"
@@ -5352,7 +5352,7 @@ msgstr "Microsoft"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "network file system of"
-msgstr ""
+msgstr "système de fichier en réseau de"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5425,7 +5425,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "tinkering as means of"
-msgstr ""
+msgstr "bricolage comme méthode d'"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5470,7 +5470,7 @@ msgstr "industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright infringement lawsuits of"
-msgstr ""
+msgstr "procès pour infraction au copyright dans l'"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Recording Industry Association of America (RIAA)"
@@ -5478,7 +5478,7 @@ msgstr "Recording Industry Association of America (RIAA)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright infringement lawsuits filed by"
-msgstr ""
+msgstr "procès pour infraction au copyright engagés par"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -5523,15 +5523,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "exaggerated claims of"
-msgstr ""
+msgstr "plaintes abusives"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "statutory damages of"
-msgstr ""
+msgstr "dommages-intérêts des"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "individual defendants intimidated by"
-msgstr ""
+msgstr "accusés intimidés par"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "statutory damages"
@@ -5688,7 +5688,7 @@ msgstr "rémunérations par l'industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "artist remuneration in"
-msgstr ""
+msgstr "rémunération de l'artiste dans l'"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "lobbying power of"
@@ -5780,7 +5780,7 @@ msgstr "<quote>Pirates</quote>"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in development of content industry"
-msgstr ""
+msgstr "dans le développement de l'industrie du contenu"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -6002,7 +6002,7 @@ msgstr "Musique enregistrée"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on music recordings"
-msgstr ""
+msgstr "sur l'enregistrement de musique"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -6202,11 +6202,11 @@ msgstr "sur l'industrie du disque"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "statutory licenses in"
-msgstr ""
+msgstr "licences statutaires dans la"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "statutory license system in"
-msgstr ""
+msgstr "système de licence statutaire dans l'"
 
 #.  f8 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -6309,7 +6309,7 @@ msgid ""
 "copyright holder)  the fee set by the statute."
 msgstr ""
 "En général, la loi américaine appelle ceci une <quote>licence contraignante</"
-"quote>, mais je préfère parler de <quote>licence statutaire</quote>.Une "
+"quote>, mais je préfère parler de <quote>licence statutaire</quote>. Une "
 "licence statutaire est une licence dont les termes sont fixés par la loi. "
 "Après que le Congrès amenda le Copyright Act en 1909, les maisons "
 "d'enregistrement furent libres de distribuer des copies de leurs "
@@ -7219,7 +7219,7 @@ msgstr "système d'exploitation Linux"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "competitive strategies of"
-msgstr ""
+msgstr "stratégies compétitives de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Windows"
@@ -7227,7 +7227,7 @@ msgstr "Windows"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "international software piracy of"
-msgstr ""
+msgstr "piratage logiciel international de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Windows operating system of"
@@ -7617,7 +7617,7 @@ msgstr "quatre types de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "range of content on"
-msgstr ""
+msgstr "gamme du contenu de"
 
 #.  PAGE BREAK 81 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8168,7 +8168,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "out of print"
-msgstr ""
+msgstr "épuisés"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Bernstein, Leonard"
@@ -8176,7 +8176,7 @@ msgstr "Bernstein, Leonard"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "books on"
-msgstr ""
+msgstr "livres sur"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -8222,7 +8222,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "free on-line releases of"
-msgstr ""
+msgstr "parutions libres en ligne de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Doctorow, Cory"
@@ -8330,11 +8330,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "zero tolerance in"
-msgstr ""
+msgstr "tolérance zéro dans les"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "infringing material blocked by"
-msgstr ""
+msgstr "matériel illégal bloqué par"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "infringement protections in"
@@ -8473,7 +8473,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "two central goals of"
-msgstr ""
+msgstr "deux buts principaux de la"
 
 #.  PAGE BREAK 88 
 #. type: Content of: <book><part><chapter><section><para>
@@ -8910,7 +8910,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on balance of interests in copyright law"
-msgstr ""
+msgstr "sur l'équilibre des intérêts dans la loi sur le copyright"
 
 #.  f25 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -9125,7 +9125,7 @@ msgstr ""
 
 #. type: Content of: <book><part><partintro><indexterm><secondary>
 msgid "intangibility of"
-msgstr ""
+msgstr "intangibilité des"
 
 #. type: Content of: <book><part><partintro><para>
 msgid ""
@@ -9199,7 +9199,7 @@ msgstr "Fondateurs"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "English copyright law developed for"
-msgstr ""
+msgstr "loi anglaise sur le copyright concernant les"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "England, copyright laws developed in"
@@ -9330,7 +9330,7 @@ msgstr "parlement britannique"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "renewability of"
-msgstr ""
+msgstr "renouvellement de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Statute of Anne (1710)"
@@ -9374,7 +9374,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "common vs. positive"
-msgstr ""
+msgstr "commune vs. positive"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "positive law"
@@ -9726,7 +9726,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "in perpetuity"
-msgstr ""
+msgstr "perpétuel"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10419,7 +10419,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "multiple copyrights associated with"
-msgstr ""
+msgstr "copyrights multiples attachés aux"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -10641,7 +10641,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "legal intimidation tactics against"
-msgstr ""
+msgstr "tactiques juridiques d'intimidation contre l'"
 
 #. type: Content of: <book><part><chapter><blockquote><para>
 msgid ""
@@ -11799,7 +11799,7 @@ msgstr "journaux"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archives of"
-msgstr ""
+msgstr "archives de"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -11835,7 +11835,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "archive of"
-msgstr ""
+msgstr "archives de"
 
 #.  f2 
 #. type: Content of: <book><part><chapter><para><footnote><para>
@@ -12690,7 +12690,7 @@ msgstr "Lessig, Lawrence"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "four modalities of constraint on"
-msgstr ""
+msgstr "quatre modalités de contrainte sur la"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "regulation"
@@ -12698,7 +12698,7 @@ msgstr "réglementation"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "four modalities of"
-msgstr ""
+msgstr "quatre modalités de"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "as ex post regulation modality"
@@ -12706,7 +12706,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "as constraint modality"
-msgstr ""
+msgstr "comme modalité de contrainte"
 
 #.  PAGE BREAK 132 
 #. type: Content of: <book><part><chapter><para>
@@ -13075,7 +13075,7 @@ msgstr "Pourquoi Hollywood a raison"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "four regulatory modalities on"
-msgstr ""
+msgstr "quatre modalités réglementaires sur le"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13121,11 +13121,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright regulatory balance lost with"
-msgstr ""
+msgstr "équilibre perdu de la réglementation sur le copyright, avec"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "regulatory balance lost in"
-msgstr ""
+msgstr "équilibre de la réglementation perdu dans le"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "MP3s"
@@ -13418,7 +13418,7 @@ msgstr "parole, liberté de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "constitutional guarantee of"
-msgstr ""
+msgstr "garantie constitutionnelle de"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -13653,11 +13653,11 @@ msgstr "Clause de Progrès de la"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional purpose of"
-msgstr ""
+msgstr "but constitutionnel du"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "constitutional tradition on"
-msgstr ""
+msgstr "tradition constitutionnelle sur le"
 
 #. type: Content of: <book><part><chapter><indexterm><primary>
 msgid "Progress Clause"
@@ -13898,7 +13898,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "federal vs. state"
-msgstr ""
+msgstr "fédérale vs. d'état"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14056,18 +14056,18 @@ msgstr ""
 "créations n'a qu'une vie commerciale de quelques années. La plupart des "
 "livres sont épuisés en moins d'un an<placeholder type=\"footnote\" id=\"0\"/"
 ">. Lorsque cela se produit, la vente des livres d'occasion n'est plus "
-"soumise aux règles du copyright. Ainsi les livres ne sont plus <emphasis>en "
+"soumise aux règles du copyright. Ainsi les livres ne sont plus <emphasis>de "
 "fait</emphasis> sous le contrôle du copyright. Le seul usage commercial de "
 "ces livres est la vente de livres d'occasion&nbsp;; cet usage &mdash; qui "
 "n'implique pas de publication &mdash; est libre en effet."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "copyright terms extended by"
-msgstr ""
+msgstr "durée du copyright prolongée par le"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "term extensions in"
-msgstr ""
+msgstr "prolongement de la durée dans la"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14245,7 +14245,7 @@ msgstr "Loi&nbsp;: étendue"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "scope of"
-msgstr ""
+msgstr "étendue de la"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14322,7 +14322,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "marking of"
-msgstr ""
+msgstr "marquage de"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "formalities"
@@ -14387,7 +14387,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "European"
-msgstr ""
+msgstr "européenne"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -14689,7 +14689,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "other property rights vs."
-msgstr ""
+msgstr "autres droits de propriété vs."
 
 #.  PAGE BREAK 151 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14765,15 +14765,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "three types of uses of"
-msgstr ""
+msgstr "trois types d'utilisation des"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright applicability altered by technology of"
-msgstr ""
+msgstr "applicabilité du copyright modifiée par la technologie d'"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "copyright intent altered by"
-msgstr ""
+msgstr "objectif du copyright modifié par"
 
 #.  PAGE BREAK 152 
 #. type: Content of: <book><part><chapter><section><para>
@@ -14888,7 +14888,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "on Internet"
-msgstr ""
+msgstr "sur Internet"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Internet burdens on"
@@ -14965,7 +14965,7 @@ msgstr "livres électroniques"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "technological developments and"
-msgstr ""
+msgstr "développements technologiques et"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15054,7 +15054,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "fair use vs."
-msgstr ""
+msgstr "usage loyal vs."
 
 #.  PAGE BREAK 156 
 #. type: Content of: <book><part><chapter><section><para>
@@ -15105,7 +15105,7 @@ msgstr "Video Pipeline"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "trailer advertisements of"
-msgstr ""
+msgstr "bandes annonces de l'"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15738,7 +15738,7 @@ msgstr "Les aventures d'Alice au pays des merveilles (Carroll)"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "e-book restrictions on"
-msgstr ""
+msgstr "restrictions des e-books sur le"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -15846,15 +15846,15 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "Aibo robotic dog"
-msgstr "robot chien Aibo"
+msgstr "Aibo, robot chien"
 
 #. type: Content of: <book><part><chapter><section><indexterm><primary>
 msgid "robotic dog"
-msgstr "chien robot"
+msgstr "robot chien"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "Aibo robotic dog produced by"
-msgstr ""
+msgstr "robot chien Aibo produit par"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -18551,7 +18551,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "digital sharing within"
-msgstr ""
+msgstr "partage numérique en"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -18884,7 +18884,7 @@ msgstr ""
 "copyright, et qui demande des dizaines de milliers de dollars juste pour se "
 "défendre face à une accusation de violation de copyright, et qui n'accorde "
 "jamais à l'accusé acquitté le moindre remboursement des coûts engagés pour "
-"défendre ses droits&mdash;dans ce monde, l'extraordinaire emprise des lois, "
+"défendre ses droits &mdash; dans ce monde, l'extraordinaire emprise des lois, "
 "étouffe l'expression et la créativité au nom du <quote>copyright</quote>. Et "
 "dans ce monde, il faut un endoctrinement calculé pour continuer à faire "
 "croire que la culture est libre."
@@ -18922,7 +18922,7 @@ msgstr "Contraindre les innovateurs"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "innovation hampered by"
-msgstr ""
+msgstr "innovation entravée par la"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "industry establishment opposed to"
@@ -19146,11 +19146,11 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "distribution technology targeted in"
-msgstr ""
+msgstr "technologie de diffusion cible des"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "outsize penalties of"
-msgstr ""
+msgstr "pénalités énormes de la"
 
 #. type: Content of: <book><part><chapter><section><para>
 msgid ""
@@ -19241,7 +19241,7 @@ msgstr "lecteurs MP3"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "venture capital for"
-msgstr ""
+msgstr "capital risque pour"
 
 #. type: Content of: <book><part><chapter><section><blockquote><para><footnote><para><indexterm><primary>
 msgid "Needleman, Rafe"
@@ -19357,7 +19357,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "transaction cost of"
-msgstr ""
+msgstr "coût de transaction de la"
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "legal murkiness on"
@@ -19654,7 +19654,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "radio on"
-msgstr ""
+msgstr "radio sur"
 
 #. type: Content of: <book><part><chapter><section><para><footnote><para><indexterm><primary>
 msgid "Grokster, Ltd."
@@ -20887,7 +20887,7 @@ msgid ""
 "September 2003, C1; Margo Varadi, <quote>Is Brianna a Criminal?</quote> "
 "<citetitle>Toronto Star</citetitle>, 18 September 2003, P7."
 msgstr ""
-"Voir Frank Ahrens, <quote>Les procés de la RIAA face à des cibles "
+"Voir Frank Ahrens, <quote>Les procès de la RIAA face à des cibles "
 "surprises&nbsp;; une mère célibataire en Californie, une fille de 12 ans à "
 "NY parmi les accusés</quote>, <citetitle>Washington Post</citetitle>, 10 "
 "septembre 2003, E1&nbsp;; Chris Cobbs, <quote>Des parents inquiets "
@@ -20925,7 +20925,7 @@ msgstr ""
 
 #. type: Content of: <book><part><chapter><section><indexterm><secondary>
 msgid "recording industry tracking users of"
-msgstr ""
+msgstr "industrie du disque traquant les utilisateurs de"
 
 #.  f21. 
 #. type: Content of: <book><part><chapter><section><para><footnote><para>
@@ -21242,7 +21242,7 @@ msgstr "d'oeuvres du domaine public"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "library of works derived from"
-msgstr ""
+msgstr "bibliothèque d'oeuvres dérivées issues du"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -21251,7 +21251,7 @@ msgid ""
 "hobby, and his hobby begat a cause: Eldred would build a library of public "
 "domain works by scanning these works and making them available for free."
 msgstr ""
-"Cela ne marcha pas&mdash;du moins pour ses filles. Elles ne trouvèrent pas "
+"Cela ne marcha pas &mdash; du moins pour ses filles. Elles ne trouvèrent pas "
 "Hawthorne plus intéressant qu'avant. Mais l'expérience d'Eldred donna "
 "naissance à un hobby, et ce hobby engendra une vocation&nbsp;: Eldred allait "
 "construire une bibliothèque d'œuvres du domaine public, en scannant ces "
@@ -21480,16 +21480,16 @@ msgstr ""
 "d'entretiens, Eldred annonça qu'il publierait comme prévu, nonobstant le "
 "CTEA. Mais parce qu'une deuxième loi est passée en 1998, le NET (No "
 "Electronic Theft, Pas de Vol Électronique) Act, son acte de publication "
-"ferait d'Eldred un délinquant&mdash;que quelqu'un se plaigne ou non. C'était "
+"ferait d'Eldred un délinquant &mdash; que quelqu'un se plaigne ou non. C'était "
 "une stratégie dangereuse à entreprendre pour un programmeur invalide."
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "constitutional powers of"
-msgstr ""
+msgstr "pouvoirs constitutionnels du"
 
 #. type: Content of: <book><part><chapter><indexterm><secondary>
 msgid "Eldred case involvement of"
-msgstr ""
+msgstr "implication dans l'affaire Eldred de"
 
 #. type: Content of: <book><part><chapter><para>
 msgid ""
@@ -25763,7 +25763,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "in pharmaceutical industry"
-msgstr ""
+msgstr "dans l'industrie pharmaceutique"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -25969,7 +25969,7 @@ msgstr "Public Library of Science (PLoS)"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "public projects in"
-msgstr ""
+msgstr "projets publics dans le"
 
 #. type: Content of: <book><chapter><indexterm><primary>
 msgid "single nucleotied polymorphisms (SNPs)"
@@ -26040,7 +26040,7 @@ msgid ""
 "Positioning System, which Ronald Reagan set free in the early 1980s. And it "
 "included <quote>open source and free software.</quote>"
 msgstr ""
-"<emphasis role='strong'>En août 2003</emphasis>-, une dispute éclata aux "
+"<emphasis role='strong'>En août 2003</emphasis>, une dispute éclata aux "
 "États-Unis au sujet d'une décision de l'Organisation Mondiale de la "
 "Propriété Intellectuelle d'annuler une conférence.<placeholder type="
 "\"footnote\" id=\"0\"/> A la demande d'intérêts divers, l'OMPI avait décidé "
@@ -26079,7 +26079,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "in international debate on intellectual property"
-msgstr ""
+msgstr "dans le débat international sur la propriété intellectuelle"
 
 #.  f7. 
 #. type: Content of: <book><chapter><para><footnote><para>
@@ -26494,7 +26494,7 @@ msgstr "système féodal"
 
 #. type: Content of: <book><chapter><indexterm><secondary>
 msgid "feudal system of"
-msgstr ""
+msgstr "système féodal des"
 
 #. type: Content of: <book><chapter><para>
 msgid ""
@@ -26966,7 +26966,7 @@ msgstr "Postface"
 
 #. type: Content of: <book><chapter><section><indexterm><secondary>
 msgid "voluntary reform efforts on"
-msgstr ""
+msgstr "efforts volontaristes de réforme du"
 
 #.  PAGE BREAK 280 
 #. type: Content of: <book><chapter><para>
@@ -29542,7 +29542,7 @@ msgstr "câble vs. radio-diffusion"
 
 #. type: Content of: <book><chapter><section><section><indexterm><secondary>
 msgid "luxury theatres vs. video piracy in"
-msgstr ""
+msgstr "cinémas de luxe vs. piratage de vidéos dans l'"
 
 #. type: Content of: <book><chapter><section><section><para>
 msgid ""
@@ -30276,7 +30276,7 @@ msgstr ""
 "<quote><citetitle>Culture Libre</citetitle> porte un regard passionnant et "
 "important sur le passé et le futur de la guerre froide entre l'industrie des "
 "médias et les nouvelles technologies.</quote> &mdash; <emphasis>Marc "
-"Andreessen, co-fondateur de Netscape</emphasis>"
+"Andreessen, cofondateur de Netscape</emphasis>"
 
 #. type: Content of: <chapter><para>
 msgid ""
@@ -30288,14 +30288,15 @@ msgid ""
 "shrill hype around <quote>intellectual property.</quote></quote> &mdash; "
 "<emphasis>Brewster Kahle, founder of the Internet Archive</emphasis>"
 msgstr ""
-"<quote><citetitle>Culture Libre</citetitle> va au delà de la mise en lumière "
-"de l'impact catastrophique sur notre culture de la réglementation "
-"croissante, en montrant par des exemples comment on peut créer un futur "
+"<quote><citetitle>Culture Libre</citetitle> va au-delà de la mise en lumière "
+"de l'impact catastrophique sur notre culture de l'accroissement de la "
+"réglementation, en montrant par des exemples comment on peut créer un futur "
 "différent. Ces héros d'un style nouveau et ces exemples prennent racine dans "
-"la tradition des pères fondateurs, d'une manière qui paraît évidente après "
+"la tradition des Pères fondateurs, d'une manière qui paraît évidente après "
 "avoir lu ce livre. Lecture recommandée à ceux qui veulent voir au-delà du "
-"battage assourdissant autour de la <quote>propriété intellectuelle.</quote></"
-"quote> &mdash; <emphasis>Brewster Kahle, fondateur de the Internet Archive</"
+"battage médiatique assourdissant autour de la <quote>propriété "
+"intellectuelle</quote></"
+"quote>. &mdash; <emphasis>Brewster Kahle, fondateur de the Internet Archive</"
 "emphasis>"
 
 #. type: Content of: <chapter><para>
@@ -30316,23 +30317,26 @@ msgid ""
 "<emphasis>Dan Gillmor, author of <citetitle>We the media</citetitle>, an "
 "book on the collision of media and technology</emphasis>"
 msgstr ""
-"<quote>L'amérique a besoin d'un débat national sur la façon dont les si bien "
+"<quote>L'amérique a besoin d'un débat national sur la manière dont les si "
+"bien "
 "nommés <quote>droits de propriété intellectuelle</quote> en sont venus à "
-"dominer les droits des universitaires, des chercheurs, et de n'importe quel "
-"citoyen. Un cartel du copyright se mobilisant pour un contrôle absolu sur le "
-"monde numérique, la musique, et les films, met maintenant un véto sur "
+"dominer les droits des universitaires, des chercheurs, et de tous les "
+"citoyens. Un cartel du copyright, se mobilisant pour un contrôle absolu du "
+"monde numérique, la musique et les films, met maintenant un veto sur "
 "l'innovation technologique et a stoppé la plupart des contributions au "
-"domaine publique dont il a tant bénéficié. Le système des brevets est devenu "
-"hors de contrôle, donnant d'énormes pouvoir à des intérêts personnels, et "
+"domaine public dont tant d'entre nous ont bénéficié. Le système des brevets "
+"est devenu "
+"hors de contrôle, donnant d'énormes pouvoirs à des intérêts personnels, et "
 "même les marques sont utilisées à mauvais escient. La lecture du livre de "
 "Lawrence Lessig est essentielle pour ceux qui veulent participer à ce débat. "
-"Il explique comment la technologie et la loi nous vole du domaine "
-"publique&nbsp;; mais pour tout son pessimisme argumenté, le professeur "
-"Lessig offre aussi des solutions, parce qu'il reconnaît que la technologie "
-"peut catalyser la liberté. Si vous êtes intéressés par le futur de "
-"l'innovation, lisez ce livre.</quote> &mdash; <emphasis>Dan Gillmor, auteur "
-"de <citetitle>We the media</citetitle>, un livre sur la collision des médias "
-"et de la technologie</emphasis>"
+"Il explique comment la technologie et la loi nous volent du domaine "
+"public&nbsp;; mais malgré son pessimisme érudit, le professeur "
+"Lessig offre aussi des solutions, parce qu'il estime que la technologie "
+"peut être le catalyseur de la liberté. Si vous êtes intéressés par le futur "
+"de l'innovation, lisez ce livre.</quote> &mdash; <emphasis>Dan Gillmor, "
+"auteur "
+"de <citetitle>We the Media</citetitle>, un livre sur le choc entre les médias "
+"et la technologie</emphasis>"
 
 #. type: Content of: <chapter><para>
 msgid "Published by Petter Reinholdtsen."
@@ -30340,4 +30344,4 @@ msgstr "Publié par Petter Reinholdtsen."
 
 #. type: Content of: <chapter><para>
 msgid "Photo: ActuaLitté CC BY-SA 2.0 from Wikimedia"
-msgstr "Photo&nbsp;: ActuaLitté CC BY-SA 2.0 de Wikimedia"
+msgstr "Photo&nbsp;: ActuaLitté (Wikimedia Commons, CC 2.0, BY-SA)"
