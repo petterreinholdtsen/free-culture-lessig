@@ -62,7 +62,7 @@ PDF_XSLT = \
 
 all: lint lint.nb lint.fr html epub pdf mobi
 
-freeculture.nb.po freeculture.fr.po: freeculture.pot
+freeculture.nb.po freeculture.fr.po freeculture.da.po: freeculture.pot
 	po4a --no-translations --msgmerge-opt --no-location po4a.cfg
 
 freeculture.nb.xml: freeculture.nb.po freeculture.xml
@@ -70,6 +70,9 @@ freeculture.nb.xml: freeculture.nb.po freeculture.xml
 
 freeculture.fr.xml: freeculture.fr.po freeculture.xml
 	po4a --translate-only freeculture.fr.xml po4a.cfg 
+
+freeculture.da.xml: freeculture.da.po freeculture.xml
+	po4a --translate-only freeculture.da.xml po4a.cfg 
 
 pdf: freeculture.nb.pdf freeculture.fr.pdf freeculture.pdf
 epub: freeculture.nb.epub freeculture.fr.epub freeculture.epub 
@@ -179,6 +182,9 @@ lint.nb: freeculture.nb.xml
 lint.fr: freeculture.fr.xml
 	xmllint  $(XMLLINTOPTS) freeculture.fr.xml
 
+lint.da: freeculture.da.xml
+	xmllint  $(XMLLINTOPTS) freeculture.da.xml
+
 images/cc.svg:
 	wget -O $@ http://upload.wikimedia.org/wikipedia/commons/9/97/CC_some_rights_reserved_new_2.svg
 
@@ -238,6 +244,12 @@ distclean: clean
 	freeculture.fr.txt \
 	freeculture.fr.mobi \
 	freeculture.fr.xml \
+	freeculture.da.pdf \
+	freeculture.da.epub \
+	freeculture.da.html \
+	freeculture.da.txt \
+	freeculture.da.mobi \
+	freeculture.da.xml \
 	freeculture-docbook-xsl.pdf \
 	freeculture-docbook-xsl.fo \
 	freeculture-dblatex-db2latex.pdf \
