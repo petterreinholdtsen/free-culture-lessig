@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Free Culture by Lawrence Lessig\n"
-"POT-Creation-Date: 2015-10-18 20:47+0200\n"
+"POT-Creation-Date: 2015-11-27 08:36+0100\n"
 "PO-Revision-Date: 2015-10-14 12:00+0000\n"
 "Last-Translator: pere <pere-transifex@hungry.com>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/pere/free-culture-"
@@ -27,6 +27,22 @@ msgstr ""
 #. type: Content of the copy entity
 msgid "©"
 msgstr "©"
+
+#. type: Content of the ndash entity
+msgid "–"
+msgstr ""
+
+#. type: Content of the mdash entity
+msgid "—"
+msgstr ""
+
+#. type: Content of the hellip entity
+msgid "…"
+msgstr ""
+
+#. type: Content of the iuml entity
+msgid "ï"
+msgstr ""
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
@@ -27682,11 +27698,11 @@ msgstr ""
 "Advokater liker uklarheten som <quote>rimelig bruk</quote> og forskjellen "
 "mellom <quote>idéer</quote> og <quote>uttrykk</quote> har.  Denne type "
 "lovverk gir dem en masse arbeid.  Men de som skrev Grunnloven hadde en "
-"enklere idé: vernet eller ikke vernet. Verdien av korte vernetider er at "
-"det er lite behov for å bygge inn unntak i opphavsretten når vernetiden "
-"holdes kort.  En klar og aktiv <quote>advokatfri sone</quote> gjør "
-"kompleksiteten av <quote>rimelig bruk</quote> og <quote>idé/uttrykk</quote> "
-"mindre nødvendig å håndtere."
+"enklere idé: vernet eller ikke vernet. Verdien av korte vernetider er at det "
+"er lite behov for å bygge inn unntak i opphavsretten når vernetiden holdes "
+"kort.  En klar og aktiv <quote>advokatfri sone</quote> gjør kompleksiteten "
+"av <quote>rimelig bruk</quote> og <quote>idé/uttrykk</quote> mindre "
+"nødvendig å håndtere."
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><indexterm><primary>
 msgid "veterans' pensions"
