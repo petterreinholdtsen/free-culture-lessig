@@ -10,6 +10,10 @@
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
    <!ENTITY copy "©">
+   <!ENTITY ndash "–">
+   <!ENTITY mdash "—">
+   <!ENTITY hellip "…">
+   <!ENTITY iuml "ï">
 ]>
 
 <book id="index" lang="en">
