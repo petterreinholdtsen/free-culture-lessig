@@ -29,23 +29,23 @@ msgstr ""
 
 #. type: Content of the copy entity
 msgid "©"
-msgstr "©"
+msgstr ""
 
 #. type: Content of the ndash entity
 msgid "–"
-msgstr ""
+msgstr "–"
 
 #. type: Content of the mdash entity
 msgid "—"
-msgstr ""
+msgstr "—"
 
 #. type: Content of the hellip entity
 msgid "…"
-msgstr ""
+msgstr "…"
 
 #. type: Content of the iuml entity
 msgid "ï"
-msgstr ""
+msgstr "ï"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
