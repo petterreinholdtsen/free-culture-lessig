@@ -15,33 +15,34 @@ fois le livre en anglais et en norvégien.
   </para>
 
   <para>
-La contribution à cette aventure pour produire la version française est bien
-plus modeste&nbsp;: la traduction reprend en majorité celle de <ulink
+La production de la version française a suivi un
+parcours différent&nbsp;: la traduction repart de celle de <ulink
 url="http://www.wikilivres.ca/wiki/Culture_libre">Wikilivres.ca</ulink>,
-l'effort ayant été porté pour compléter les parties manquantes et corriger
-les erreurs de traduction les plus évidentes. Une mise en forme appropriée a
-permis à ce texte Wiki de devenir une nouvelle traduction, ajoutée au projet
-de Petter, et de profiter du travail déjà accompli pour la traduction
-norvégienne.
+avec un effort important porté pour compléter les parties manquantes, 
+corriger les erreurs de traduction, et remanier parfois le texte pour 
+avoir une syntaxe et un style que j'espère corrects. Je tiens à remercier en 
+particulier Alain Hurtig pour sa traduction attentive des notes du livres.
+Il a vérifié chacune des références citées et les a adaptées à la
+typographie française. Cette nouvelle traduction, ajoutée au projet
+de Petter, a pu profiter du même environnement pour produire cette édition.
   </para>
 
   <para>
-Le livre est édité en plusieurs formats, dont le format PDF produit avec
-<ulink url="http://dblatex.sourceforge.net">dblatex</ulink>. C'est à
-l'occasion d'échanges avec Petter sur cet outil que l'initiative d'ajouter
-la version française est née. Je remercie Petter pour la confiance qu'il me
-témoigne en intégrant cette traduction dans son projet.
+Rien ne me prédestinait à m'impliquer dans une telle aventure. C'est à
+l'occasion d'échanges avec Petter sur la génération au format PDF que 
+l'initiative d'ajouter la version française est née. Je remercie Petter pour
+la confiance qu'il me témoigne en intégrant cette traduction dans son projet.
   </para>
 
   <para>
 La génèse de cette édition est finalement une belle démonstration des
 valeurs, de l'énergie créatrice, et de la formidable mobilisation collective
-qu'une culture et une technologie libres peuvent susciter. Ne laissons pas
-ces libertés se perdre.
+qu'une culture et une technologie libres peuvent susciter. Ce sont ces valeurs
+que Lawrence Lessig cherche à défendre.
   </para>
 
   <para>
-&mdash; Benoît Guillon, à Valence, le 07/10/2015
+&mdash; Benoît Guillon, à Valence, le 17/12/2015
   </para>
 
 </chapter>
