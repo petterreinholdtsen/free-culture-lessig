@@ -52,9 +52,6 @@
 \let\endstdindex=\endtheindex
 \renewenvironment{theindex}{
   \begin{stdindex}
-  % Use a smaller font except for the letter heading which is bold
-  \newfontfamily\indexfont[Scale=0.7,
-                           BoldFeatures={Scale=1}]{Crimson Text}
   \@ifundefined{chapter}{}{
     % To not have the number, replace by:
     % \addcontentsline{toc}{chapter}{\numberline{}\indexname}
