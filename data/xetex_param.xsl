@@ -85,9 +85,20 @@
 </xsl:template>
 
 <xsl:template match="footnote//surname">
-  <xsl:text>\textsc{</xsl:text>
-  <xsl:apply-templates/>
-  <xsl:text>}</xsl:text>
+  <xsl:variable name="lang">
+    <xsl:call-template name="l10n.language"/>
+  </xsl:variable>
+
+  <xsl:choose>
+  <xsl:when test="$lang='fr'">
+    <xsl:text>\textsc{</xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>}</xsl:text>
+  </xsl:when>
+  <xsl:otherwise>
+    <xsl:apply-templates/>
+  </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>
