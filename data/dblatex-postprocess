@@ -25,6 +25,7 @@ sed -i \
     -e 's/opphavsrettsvernetid/opp\\-havs\\-retts\\-verne\\-tid/g' \
     -e 's/opphavsrettighetsbeskyttet/opp\\-havs\\-ret\\-tig\\-hets\\-beskyt\\-tet/g' \
     -e 's/bestemmelsen/bestem\\-mel\\-sen/g' \
+    -e 's/ /\\thinspace/g' \
     $TEXFILE
 
 exit 0
