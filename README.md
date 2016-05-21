@@ -7,6 +7,8 @@ English (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/
 
 Norwegian Bokmål (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/nb/cover-art.pdf">book cover</a>): [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.pdf">PDF</a>], [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.epub">ePub</a>], [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.nb.mobi">MOBI</a>], [<a href="http://www.lulu.com/shop/lawrence-lessig/fri-kultur/paperback/product-22406445.html">on paper from lulu.com</a>].
 
+French (<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/images/fr/cover-art.pdf">book cover</a>): [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.fr.pdf">PDF</a>], [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.fr.epub">ePub</a>], [<a href="https://github.com/petterreinholdtsen/free-culture-lessig/raw/master/archive/freeculture.fr.mobi">MOBI</a>], [<a href="http://www.lulu.com/shop/lawrence-lessig/culture-libre/paperback/product-22645082.html">on paper from lulu.com</a>].
+
 The original book version is available from http://free-culture.cc/ .
 
 See
