@@ -38,10 +38,8 @@ formattet file.  This file is transformed to the freeculture.pot,
 which is the base file for translators.  It was copied to
 freeculture.nb.po as the starting point of the Norwegian Bokmål
 translation, and the text blocks are translated in this file.  The
-translation is maintained using
-<a href="https://www.transifex.com/pere/free-culture-lessig/">Transifex</a>,
-making sure translators only need a browser and Internet connectivity
-to contribute.
+translation was earlier maintained using Transifex, but is now
+maintained directly in this git repository.
 
 Only the file freeculture.xml should be manually edited!
 
@@ -110,3 +108,94 @@ Todo
  * Publish first edition.
  * (Add missing index entries.  Nice to have, not vital.  See
    scripts/idxcompare for helper script.)
+
+http://www.epubli.co.uk/
+
+https://www.createspace.com/Products/Book/
+
+I expect they are not in Debian then
+<pabs> this appears to be Crimson: http://aldusleaf.org/crimson.html https://github.com/skosch/Crimson/
+<pabs> Lusitana http://www.anamegda.com/LUSITANA
+<pabs> Radley http://code.newtypography.co.uk/radley-italic-a-case-studyautilising-old-type-specimens-to-create-new-webfonts/
+<pabs> and the last one http://openfontlibrary.org/en/font/scheherazade
+<pere> thank you!
+
+
+Julius Ørenberg Bokbinderi
+Frysjaveien 33c, 0884 Oslo
+Telefon: 23 05 80 20
+http://www.bokbinderi.net/kontakt-oss/
+
+60-70 pr. eksemplar for ferdig falset / limfrest
+
+AIT Oslo
+http://www.ait.no/
+Stålfjæra 16, 0975 Oslo
+Ingar / Hilde / Ola
++47 21628770 / +47 22212221
+
+Konsis grafiske
+http://www.konsis.no/
+Økernveien 121, 0579 Oslo
+Odd Jonny / Erik Brommeland
++47 23243400
+
+07 media
+http://07.no/Print/PDF-til-trykk
+Sandakerveien 24C, Bygg B
+Jonas Andersen
++47 21056282 / +47 22799500
+
+Benjamin Sats & Trykk - Oslo (brukt av Wolfgang til Turlederen)
+Tjernveien 35, 0957 Grorud 
++47 22166044
+
+Mangler med docbook-xsl-utgaven:
+
+ * Fotnoter må gjøres til sluttnoter
+ * Feil rekkefølge på registeroppføringer, åndsverk skal være sist (BTS #686908)
+ * For stor kolofonside, teksten må bli mindre
+ * Dedikasjonssiden bør ha større og sentrert tekst
+ * Tekst overlapper med strek i øvre tekstfelt på noen sider.
+ v SVG-bilder må få bedre kransboks
+ v Font må byttes til Crimson Text
+   https://github.com/google/fonts/tree/master/ofl/crimsontext
+   http://www.fontsquirrel.com/fonts/download/crimson (This is the version I am using)
+
+Mangler med dblatex-utgaven:
+
+
+
+
+http://anonscm.debian.org/cgit/debian-handbook/debian-handbook.git/tree/en-US
+
+
+http://www.bokbasen.no/Bokbasen/Bokbasen/Om-oss
+
+Eiendoms-, sikkerhets- og serviceavdelingen
+
+https://stortinget.no/no/Stortinget-og-demokratiet/Administrasjonen/Avdelinger-og-seksjoner/Eiendoms-sikkerhets-og-serviceavdelingen/
+
+Servicekontor: 23 31 31 70. Astrid Paulsen: 23 31 31 61
+
+postmottak.internservice@stortinget.no (defekt 2015-10-12)
+
+Til stortingsrepresentantene, forslag fra Astrid Paulsen hos
+stortingspostkontoret 2015-10-05.
+
+  Foreslo å sende med budbil til Prestegata (stortingsgarasjen) og
+  merke det med Astrid Paulsen, så blir pakken gjennomlyst og bøkene
+  delt ut til alle stortingsrepresentantene.  Fint om det legges ved
+  lite følgeskriv.
+
+  169 representanter + vararepresentanter? =  179
+
+Forslag til følgeskriv
+
+ - nevn "The Internet's Own Boy: The Story of Aaron Swartz"
+   (tilgjengelig fra youtube) som inneholder mye om Lawrence Lessig
+
+ - mer on Lawrence Lessig?
+
+ - mer om Creative Commons
+
